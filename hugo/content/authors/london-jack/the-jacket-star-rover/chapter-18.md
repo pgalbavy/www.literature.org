@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-18.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-18.html"
 ---
 
 Suspended animation is nothing new, not alone in the vegetable world and in the lower forms of animal life, but in the highly evolved, complex organism of man himself. A cataleptic trance is a cataleptic trance, no matter how induced. From time immemorial the fakir of India has been able voluntarily to induce such states in himself. It is an old trick of the fakirs to have themselves buried alive. Other men, in similar trances, have misled the physicians, who pronounced them dead and gave the orders that put them alive under the ground.

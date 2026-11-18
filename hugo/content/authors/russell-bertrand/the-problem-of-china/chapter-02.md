@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - China Before The Nineteenth Century"
 weight: 3
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-02.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-02.html"
 ---
 
 Where the Chinese came from is a matter of conjecture. Their early history is known only from their own annals, which throw no light upon the question. The Shu-King, one of the Confucian classics (edited, not composed, by Confucius), begins, like Livy, with legendary accounts of princes whose virtues and vices are intended to supply edification or warning to subsequent rulers. Yao and Shun were two model Emperors, whose date (if any) was somewhere in the third millennium *B.C. "*The age of Yao and Shun," in Chinese literature, means what "the Golden Age" mean with us. It seems certain that, when Chinese history begins, the Chinese occupied only a small part of what is now China, along the banks of the Yellow River. They were agricultural, and had already reached a fairly high level of civilization—much higher than that of any other part of Eastern Asia. The Yellow River is a fierce and terrible stream, too swift for navigation, turgid, and full of mud, depositing silt upon its bed until it rises above the surrounding country, when it suddenly alters its course, sweeping away villages and towns in a destructive torrent. Among most early agricultural nations, such a river would have inspired superstitious awe, and floods would have been averted by human sacrifice; in the Shu-King, however, there is little trace of superstition. Yao and Shun, and Yü (the latter's successor), were all occupied in combating the inundations, but their methods were those of the engineer, not of the miracle-worker. This shows, at least, the state of belief in the time of Confucius. The character ascribed to Yao shows what was expected of an Emperor:—

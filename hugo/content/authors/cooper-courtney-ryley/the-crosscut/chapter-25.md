@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-25.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-25.html"
 ---
 
 Fairchild felt the logic of the remark and ceased his worriment. Quietly, as though nothing had happened, the three men went down the stairs, passed the sleeping night clerk and headed back to the sheriff's office, where waited Anita and Harry, who had completed his last duties in regard to the chalky-faced Maurice Rodaine. The telephone jangled. It was Denver. Mason talked a moment over the wire, then turned to his fellow officer.

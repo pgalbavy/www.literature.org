@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Second Bulb"
 weight: 21
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-21.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-21.html"
 ---
 
 The night was a happy one, and the whole of the next day happier still.

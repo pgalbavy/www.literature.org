@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Caught!"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-22.html"
 ---
 
 Though Major Monkey tugged and tugged, he couldn't pull his hand out of the pitcher.

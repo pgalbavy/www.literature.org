@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-08.html"
+url: "/authors/stoker-bram/dracula/chapter-08.html"
 ---
 
 MINA MURRAY'S JOURNAL

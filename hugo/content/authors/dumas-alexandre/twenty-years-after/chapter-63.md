@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63 - The Trial"
 weight: 63
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-63.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-63.html"
 ---
 
 The next morning King Charles I. was haled by a strong guard before the high court which was to judge him. All London was crowding to the doors of the house. The throng was terrific, and it was not till after much pushing and some fighting that our friends reached their destination. When they did so they found the three lower rows of benches already occupied; but being anxious not to be too conspicuous, all, with the exception of Porthos, who had a fancy to display his red doublet, were quite satisfied with their places, the more so as chance had brought them to the centre of their row, so that they were exactly opposite the arm-chair prepared for the royal prisoner.

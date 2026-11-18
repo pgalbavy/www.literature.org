@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Before Lunch"
 weight: 10
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-10.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-10.html"
 ---
 
 OTHER travellers were becoming jammed in the corridor of the train, their tempers taking the tone of acerbity easy to those about to start on a railway journey. A determined young woman came up the step, and supported the conductor in an appeal for order, addressing herself more particularly to the English passengers; quiet obtained, she took the first advantage of it by presenting her ticket. The conductor showed gratitude by escorting her at once to her place.

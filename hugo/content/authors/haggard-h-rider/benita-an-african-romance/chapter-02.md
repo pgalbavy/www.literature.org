@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The End Of The “Zanzibar”"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-02.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-02.html"
 ---
 
 “Until half an hour ago? Then why----” and Benita stopped.

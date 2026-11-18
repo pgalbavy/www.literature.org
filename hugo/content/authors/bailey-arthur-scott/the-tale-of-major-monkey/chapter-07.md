@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Major Has A Pain"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-07.html"
 ---
 
 The party had come to an end; nobody was left except old Mr. Crow and his friend Major Monkey.

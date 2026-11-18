@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 12
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-07.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-07.html"
 ---
 
 Marie's father, Albert Tovesky, was one of the more intelligent Bohemians who came West in the early seventies. He settled in Omaha and became a leader and adviser among his people there. Marie was his youngest child, by a second wife, and was the apple of his eye. She was barely sixteen, and was in the graduating class of the Omaha High School, when Frank Shabata arrived from the old country and set all the Bohemian girls in a flutter. He was easily the buck of the beer-gardens, and on Sunday he was a sight to see, with his silk hat and tucked shirt and blue frock-coat, wearing gloves and carrying a little wisp of a yellow cane. He was tall and fair, with splendid teeth and close-cropped yellow curls, and he wore a slightly disdainful expression, proper for a young man with high connections, whose mother had a big farm in the Elbe valley. There was often an interesting discontent in his blue eyes, and every Bohemian girl he met imagined herself the cause of that unsatisfied expression. He had a way of drawing out his cambric handkerchief slowly, by one corner, from his breast-pocket, that was melancholy and romantic in the extreme. He took a little flight with each of the more eligible Bohemian girls, but it was when he was with little Marie Tovesky that he drew his handkerchief out most slowly, and, after he had lit a fresh cigar, dropped the match most despairingly. Any one could see, with half an eye, that his proud heart was bleeding for somebody.

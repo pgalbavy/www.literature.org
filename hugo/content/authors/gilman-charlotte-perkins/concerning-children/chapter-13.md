@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Children And Servants"
 weight: 13
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-13.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-13.html"
 ---
 
 In the growing discontent with our present methods of household service, while we waver between long-held prejudice, old and dear, and the irresistible pressure of new conditions, it is worth while to weigh well the relation between this present method of house-service and our present method of child-culture.

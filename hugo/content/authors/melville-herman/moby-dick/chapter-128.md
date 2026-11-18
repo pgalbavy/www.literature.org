@@ -1,8 +1,7 @@
 ---
 title: "Chapter 128 - The Pequod Meets The Rachel"
 weight: 128
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-128.html"
+url: "/authors/melville-herman/moby-dick/chapter-128.html"
 ---
 
 Next day, a large ship, the Rachel, was descried, bearing directly down upon the Pequod, all her spars thickly clustering with men. At the time the Pequod was making good speed through the water; but as the broad-winged windward stranger shot nigh to her, the boastful sails all fell together as blank bladders that are burst, and all life fled from the smitten hull.

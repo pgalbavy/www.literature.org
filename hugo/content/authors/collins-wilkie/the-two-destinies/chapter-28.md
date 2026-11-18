@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Love And Money"
 weight: 29
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-28.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-28.html"
 ---
 
 FEELING the embarrassment of the moment most painfully on her side, Mrs. Van Brandt spoke first.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2"
 weight: 3
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-02.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-02.html"
 ---
 
 I DO NOT REMEMBER our arrival at my grandfather’s farm sometime before daybreak, after a drive of nearly twenty miles with heavy work-horses. When I awoke, it was afternoon. I was lying in a little room, scarcely larger than the bed that held me, and the window-shade at my head was flapping softly in a warm wind. A tall woman, with wrinkled brown skin and black hair, stood looking down at me; I knew that she must be my grandmother. She had been crying, I could see, but when I opened my eyes she smiled, peered at me anxiously, and sat down on the foot of my bed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-07.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-07.html"
 ---
 
 They danced. Mr. Dowling should have found other forms of exercise and pastime.

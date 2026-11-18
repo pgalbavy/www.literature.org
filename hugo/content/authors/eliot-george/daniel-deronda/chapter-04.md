@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-04.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-04.html"
 ---
 
 "Gorgibus. - * Je te dis que le mariage est une chose sainte et sacrée: et que c'est faire en honnêtes gens, que de débuter par là.

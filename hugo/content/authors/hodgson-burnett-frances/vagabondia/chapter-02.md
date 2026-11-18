@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - In The Camps Of The Philistines"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-02.html"
 ---
 
 A TOILET in Vagabondia was an event. Not an ordinary toilet, of course, but a toilet extraordinary,--such as is necessarily called forth by some festive gathering or unusual occasion. It was also an excitement after a manner, and not a disagreeable one. It made demands upon the inventive and creative powers of the whole family, and brought to light hidden resources. It also aroused energy, and, being a success, was rejoiced over as a brilliant success. Respectability might complacently retire to its well-furnished chamber, and choose serenely from its unlimited supply of figurative purple and legendary fine linen, without finding a situation either dramatic or amusing; but in Vagabondia this was not the case. Having contrived to conjure up, as it were, from the secret places of the earth an evening dress, are not gloves still necessary? and, being safe as regards gloves, do not the emergencies of the toilet call for minor details seemingly unimportant, but still not to be done without? Finding this to be the case, the household of Crewe rallied all its forces upon such occasions, and set aside all domestic arrangements for the time being. It was not impossible that Dolly should have prepared for a rejoicing without the assistance of Mollie and Aimée, Mrs. Phil and Tod, with occasional artistic suggestions from Phil and any particular friend of the family who chanced to be below-stairs, within hearing distance. It might not have appeared an impossibility, I should say, to ordinary people, but the household of Crewe regarded it as such, and accordingly, on the night of the Bilberry gathering, accompanied Dolly in a body to her tiring-room.

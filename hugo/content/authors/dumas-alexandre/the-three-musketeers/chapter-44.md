@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - The Utility Of Stovepipes"
 weight: 45
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-44.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-44.html"
 ---
 
 It was evident that without suspecting it, and actuated solely by their chivalrous and adventurous character, our three friends had just rendered a service to someone the cardinal honored with his special protection.

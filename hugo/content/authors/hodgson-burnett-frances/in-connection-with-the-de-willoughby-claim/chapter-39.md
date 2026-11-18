@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-39.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-39.html"
 ---
 
 The street in which the lecture hall stood began to wear the air of being a centre of interest some time before the doors of the building were opened. People who had not been able to obtain reserved seats wished to arrive early. The lectures which had begun by being popular had ended by being fashionable. At the outset an audience of sober, religious tendencies had attended them, but after the first one had been delivered other elements had presented themselves. There had been a sprinkling of serious scientific men, a prominent politician or so, some society women whose faces and toilettes were well-known and lavishly described in the newspapers. On this last night the audience was largely of the fashionable political world. Carriages drove up one after another and deposited well-dressed persons who might have been expected that night to appear at certain brilliant social functions, and who had come to hear "Repentance" instead.

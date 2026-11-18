@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 24 - In Which Is Continued The Adventure Of The Sierra Morena"
 weight: 27
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-24.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-24.html"
 ---
 
 The history relates that it was with the greatest attention Don Quixote listened to the ragged knight of the Sierra, who began by saying:

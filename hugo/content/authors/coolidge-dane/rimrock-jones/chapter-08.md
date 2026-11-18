@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Flier In Stocks"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-08.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-08.html"
 ---
 
 It was as dazzling to Rimrock as a burst of sunshine to a man just come up from a mine--that look in Mary Fortune's eyes. He went out of her office like a man in a dream and wandered off by himself to think. But that was the one thing he could not negotiate, his brain refused to work. It was a whirl of weird flashes and forms and colors, like a futurist painting gone mad, but above it all when the turmoil had subsided was the thought of going back. He had told her when he left her that he would come around again, and that fixed idea had held to the end. But how? Under what pretext? And would she break down his pretense with that smile?

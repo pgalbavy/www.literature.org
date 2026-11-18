@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - An Unnatural Daughter"
 weight: 2
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-02.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-02.html"
 ---
 
 The stiff-rayed windmill stood like a tall mechanical flower, turning slowly in the light afternoon wind; its faint regular metallic squeak pricked the dry silence wearingly. Rampant fuchsias, red-jewelled, heavy, ran up its framework, with crowding heliotrope and nasturtiums. Thick straggling roses hung over the kitchen windows, and a row of dusty eucalyptus trees rustled their stiff leaves, and gave an ineffectual shade to the house.

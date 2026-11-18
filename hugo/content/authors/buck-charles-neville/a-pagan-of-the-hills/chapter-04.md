@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-04.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-04.html"
 ---
 
 Brent had wondered how the Parson and his exhausted companions would, in the short time at their disposal, be able to call out a new force of volunteers. If the dam gave way and the rafts were swept out the thing would probably happen by noon and there were few telephones in this sparsely peopled community. Yet the device was simple and one of pioneer directness. In many of those households to which the tired workers returned, there were brothers or sons who had heretofore stayed at home. Those who had responded to the first call were all men who were not afraid of toil, but those who might answer the second would be men who courted the hazards of adventure. Sheer dare-deviltry would arouse in them a responsiveness which had remained numb to the call of industry. Down the yellow and turgid path of swollen waters each spring went huge rafted masses of logs manned by brawny fellows who at other times never saw the world that lay "down below." Hastily reared shacks rose on the floating timber islands and bonfires glowed redly. The crews sang wild songs and strummed ancient tunes on banjo and "dulcimore." They fortified themselves against the bite of the chill night air from the jugs which they never forgot. Sometimes they flared into passion and fought to the death, but oftener they caroused good-naturedly as they watched the world flatten and the rivers broaden to the lowlands. After the "tide" took them there was no putting into harbor, no turning back. They were as much at the mercy of the onsweeping waters as is a man who clings to driftwood.

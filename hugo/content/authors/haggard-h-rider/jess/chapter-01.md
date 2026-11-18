@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - John Has An Adventure"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-01.html"
+url: "/authors/haggard-h-rider/jess/chapter-01.html"
 ---
 
 The day had been very hot even for the Transvaal, where the days still know how to be hot in the autumn, although the neck of the summer is broken--especially when the thunderstorms hold off for a week or two, as they do occasionally. Even the succulent blue lilies--a variety of the agapanthus which is so familiar to us in English greenhouses--hung their long trumpet-shaped flowers and looked oppressed and miserable, beneath the burning breath of the hot wind which had been blowing for hours like the draught from a volcano. The grass, too, near the wide roadway that stretched in a feeble and indeterminate fashion across the veldt, forking, branching, and reuniting like the veins on a lady’s arm, was completely coated over with a thick layer of red dust. But the hot wind was going down now, as it always does towards sunset. Indeed, all that remained of it were a few strictly local and miniature whirlwinds, which would suddenly spring up on the road itself, and twist and twirl fiercely round, raising a mighty column of dust fifty feet or more into the air, where it hung long after the wind had passed, and then slowly dissolved as its particles floated to the earth.

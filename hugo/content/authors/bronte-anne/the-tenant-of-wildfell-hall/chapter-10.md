@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-10.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-10.html"
 ---
 
 When all were gone, I learnt that the vile slander had indeed been circulated throughout the company, in the very presence of the victim. Rose, however, vowed she did not and would not believe it, and my mother made the same declaration, though not, I fear, with the same amount of real, unwavering incredulity. It seemed to dwell continually on her mind, and she kept irritating me from time to time by such expressions as - 'Dear, dear, who would have thought it! - Well! I always thought there was something odd about her. - You see what it is for women to affect to be different to other people.' And once it was, - 'I misdoubted that appearance of mystery from the very first - I thought there would no good come of it; but this is a sad, sad business, to be sure!'

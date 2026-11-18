@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-26.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-26.html"
 ---
 
 ABOUT noon the next day the boys arrived at the dead tree; they had come for their tools. Tom was impatient to go to the haunted house; Huck was measurably so, also - but suddenly said:

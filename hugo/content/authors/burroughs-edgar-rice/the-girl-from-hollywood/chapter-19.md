@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-19.html"
 ---
 
 Shannon Burke did not ride to her home after she left Custer. She turned toward the west at the road above the Evans place, continued on to the mouth of Horse Camp Cañon, and entered the hills. For two miles she followed the cañon trail to El Camino Largo, and there, turning to the left, she followed this other trail east to Sycamore Cañon. Whatever her mission, it was evident that she did not wish it known to others. Had she not wished to conceal it, she might have ridden directly up Sycamore Cañon from Ganado with a saving of several miles.

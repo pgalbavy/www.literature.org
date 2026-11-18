@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-06.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-06.html"
 ---
 
 The next week it poured again with rain. And this irritated Yvette with strange anger. She had intended it should be fine. Especially she insisted it should be fine towards the weekend. Why, she did not ask herself.

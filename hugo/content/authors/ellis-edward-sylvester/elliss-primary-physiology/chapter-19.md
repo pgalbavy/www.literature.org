@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Bones, Skeleton, Etc"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-19.html"
 ---
 
 The bones are the frame-work of the body. Like the muscles, they are generally found in pairs, one for each side of the body. Their number is more than two hundred. When joined together, in their proper position, they make a skeleton, as shown in the picture on page 115, where the names of the principal bones are given.

@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 11"
 weight: 64
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-11.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-11.html"
 ---
 
 After four days' rest in the rear, the Battalion went to the front again in new country, about ten kilometers east of the trench they had relieved before. One morning Colonel Scott sent for Claude and Gerhardt and spread his maps out on the table.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-06.html"
 ---
 
 When noon came they opened the Fox-King's basket of luncheon, and found a nice roasted turkey with cranberry sauce and some slices of bread and butter. As they sat on the grass by the roadside the shaggy man cut up the turkey with his pocket-knife and passed slices of it around.

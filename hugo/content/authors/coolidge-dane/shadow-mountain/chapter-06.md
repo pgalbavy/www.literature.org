@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - All Crazy"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-06.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-06.html"
 ---
 
 The wind was still blowing when Wiley was awakened by the cold of the October morning. In the house all was dark, on account of the blankets which Death Valley had nailed over the windows, but outside he could hear the thump of an axe and the whining yelp of a dog. Then Charley came in, his arms full of wood, and lit a roaring fire in the stove. Wiley dozed off again, for his leg had pained him and kept him awake half the night, and when he woke up it was to the strains of music and the mournful howls of Heine.

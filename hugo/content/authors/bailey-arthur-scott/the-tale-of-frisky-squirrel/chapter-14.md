@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mrs. Squirrel Has A Visitor"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-14.html"
 ---
 
 Fatty Coon was very hungry. And he stole along through the woods very quietly, hoping to find something to eat. To his great joy, it was not long before he discovered Mrs. Squirrel's home. He crept up to the nest silently; for he hoped to catch Mrs. Squirrel and Frisky inside. But Mrs. Squirrel and her son were both away.

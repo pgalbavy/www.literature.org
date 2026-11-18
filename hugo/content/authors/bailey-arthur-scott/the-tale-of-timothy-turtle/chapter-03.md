@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Timothy's Grudge"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-03.html"
 ---
 
 Sometimes Fatty Coon liked a taste of fresh fish, just by way of a change from Farmer Green's corn, and blackberries, wild grapes, bugs--and all the other dainties on which he dined.

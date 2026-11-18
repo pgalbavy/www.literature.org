@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Jewish Lamp"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-07.html"
+url: "/authors/leblanc-maurice/arsene-lupin-versus-herlock-sholmes/chapter-07.html"
 ---
 
 Herlock Sholmes and Wilson were sitting in front of the fireplace, in comfortable armchairs, with the feet extended toward the grateful warmth of a glowing coke fire.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Caught In The Attic"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-16.html"
 ---
 
 Long before Frisky Squirrel reached Farmer Green's place, he began to worry for fear Mr. Crow had grown tired of waiting for him. To be sure, he knew that the butternuts were up in the attic. But to tell the truth, Frisky felt uneasy about visiting the farmhouse. And he hoped that Mr. Crow would show him just how to get through the attic window, as he had promised.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-24.html"
 ---
 
 For an imaginative or an untravelled person to approach the city of Washington at sunrise on a radiant morning, is a thing far from unlikely to be remembered, since a white and majestic dome, rising about a white structure set high and supported by stately colonnades, the whole gleaming fair against a background of blue sky, forms a picture which does not easily melt away.

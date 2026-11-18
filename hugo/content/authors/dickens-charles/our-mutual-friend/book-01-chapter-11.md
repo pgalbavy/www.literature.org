@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 11 - Podsnappery"
 weight: 11
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-11.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-11.html"
 ---
 
 Mr Podsnap was well to do, and stood very high in Mr Podsnap’s opinion. Beginning with a good inheritance, he had married a good inheritance, and had thriven exceedingly in the Marine Insurance way, and was quite satisfied. He never could make out why everybody was not quite satisfied, and he felt conscious that he set a brilliant social example in being particularly well satisfied with most things, and, above all other things, with himself.

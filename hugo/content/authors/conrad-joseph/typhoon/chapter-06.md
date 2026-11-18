@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/typhoon/chapter-06.html"
+url: "/authors/conrad-joseph/typhoon/chapter-06.html"
 ---
 
 On A bright sunshiny day, with the breeze chasing her smoke far ahead, the Nan-Shan came into Fu-chau. Her arrival was at once noticed on shore, and the seamen in harbour said: "Look! Look at that steamer. What's that? Siamese—isn't she? Just look at her!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Lightfoot Finds A Friend"
 weight: 23
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-23.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-23.html"
 ---
 
 As Lightfoot rested, trying to recover his breath, out there on the little sand bar in the Big River, his great, soft, beautiful eyes watched first one bank and then the other. On the bank he had left, he could see two black-and-white specks moving about, and across the water came the barking of dogs. Those two specks were the hounds who had driven him into the Big River. They were barking now, instead of baying. Presently a brown form joined the black-and-white specks. It was a hunter drawn there by the barking of the dogs. He was too far away to be dangerous, but the mere sight of him filled Lightfoot with terror again. He watched the hunter walk along the bank and disappear in the bushes.

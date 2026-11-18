@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 4 - The Sack Of Shoreby"
 weight: 29
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-04.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-05-chapter-04.html"
 ---
 
 There was not a foe left within striking distance; and Dick, as he looked ruefully about him on the remainder of his gallant force, began to count the cost of victory. He was himself, now that the danger was ended, so stiff and sore, so bruised and cut and broken, and, above all, so utterly exhausted by his desperate and unremitting labours in the fight, that he seemed incapable of any fresh exertion.

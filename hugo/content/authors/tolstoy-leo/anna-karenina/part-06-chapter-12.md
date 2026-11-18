@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 12"
 weight: 169
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-12.html"
 ---
 
 Waking up at earliest dawn, Levin tried to wake his companions. Vassenka, Iying on his stomach, with one leg in a stocking thrust out, was sleeping so soundly that he could elicit no response. Oblonsky, half asleep, declined to get up so early. Even Laska, who was asleep, curled up in the hay, got up unwillingly, and lazily stretched out and straightened her hind-legs one after the other. Getting on his boots and stockings, taking his gun, and carefully opening the creaking door of the barn, Levin went out into the road. The coachmen were sleeping in their carriages, the horses were dozing. Only one was lazily eating oats, dipping its nose into the manger. It was still gray out-of-doors.

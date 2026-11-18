@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-04.html"
 ---
 
 "How is Bertha?" Tredennis asked.

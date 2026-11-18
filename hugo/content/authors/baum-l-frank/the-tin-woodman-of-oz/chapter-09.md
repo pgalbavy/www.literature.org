@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-09.html"
 ---
 
 The Green Monkey sank gently into the earth for a little way and then tumbled swiftly through space, landing on a rocky floor with a thump that astonished him. Then he sat up, found that no bones were broken, and gazed around him.

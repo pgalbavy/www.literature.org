@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Chatterer Has Another Great Surprise"
 weight: 20
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-20.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-20.html"
 ---
 
 Chatterer had never had so many surprises—good surprises—in all his life, as since the day he had been caught in a trap in Farmer Brown's corn-crib. In the first place, it had been a great surprise to him that he had not been given to Black Pussy, as he had fully expected to be. Then had come the even greater surprise of finding that Farmer Brown's boy was ever and ever so much nicer than he had thought. A later surprise had been the wire wheel in his cage, so that he could run to his heart's content. It was such a pleasant and wholly unexpected surprise that it had quite changed Chatterer's feelings towards Farmer Brown's boy.

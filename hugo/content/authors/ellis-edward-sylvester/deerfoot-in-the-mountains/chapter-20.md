@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Light In Darkness"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-20.html"
 ---
 
 It must not be thought that the large assemblage which had gathered in the Big Lodge were of one mind, or even that a majority were ready to accept the new religion that was explained to them by its model exemplar, Deerfoot the Shawanoe. A few yearned for the light, and had already learned enough of the elemental truths to be drawn toward them; but the majority were attracted by that potent cause—curiosity. They listened closely. The simple words of the preacher showed clearly that the new faith was the opposite of the old; that, if accepted by them, it meant a revolution in their beliefs and practices.

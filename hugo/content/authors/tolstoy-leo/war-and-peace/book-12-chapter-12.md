@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 12"
 weight: 275
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-12.html"
 ---
 
 After the execution Pierre was separated from the rest of the prisoners and placed alone in a small, ruined, and befouled church.

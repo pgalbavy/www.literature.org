@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 7"
 weight: 152
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-07.html"
 ---
 
 Next day, by Marya Dmitrievna's advice, Count Rostov took Natasha to call on Prince Nicholas Bolkonski. The count did not set out cheerfully on this visit, at heart he felt afraid. He well remembered the last interview he had had with the old prince at the time of the enrollment, when in reply to an invitation to dinner he had had to listen to an angry reprimand for not having provided his full quota of men. Natasha, on the other hand, having put on her best gown, was in the highest spirits. "They can't help liking me," she thought. "Everybody always has liked me, and I am so willing to do anything they wish, so ready to be fond of him- for being his father- and of her- for being his sister- that there is no reason for them not to like me..."

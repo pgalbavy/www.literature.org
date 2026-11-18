@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-38.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-38.html"
 ---
 
 The Duke of Stone had been sufficiently occupied with one of his slighter attacks of rheumatic gout to have been, so to speak, out of the running in the past weeks. His indisposition had not condemned him to the usual dullness, however. He had suffered less pain than was customary, and Mrs. Braddle had been more than usually interesting in conversation on those occasions when, in making him very comfortable in one way or another, she felt that a measure of entertainment would add to his well-being. His epicurean habit of mind tended toward causing him to find a subtle pleasure in the hearing of various versions of any story whatever. His intimacy with T. Tembarom had furnished forth many an agreeable mental repast for him. He had had T. Tembarom's version of himself, the version of the county, the version of the uneducated class, and his own version. All of these had had varying shades of their own. He had found a cynically fine flavor in Palliser's version, which he had gathered through talk and processes of exclusion and inclusion.

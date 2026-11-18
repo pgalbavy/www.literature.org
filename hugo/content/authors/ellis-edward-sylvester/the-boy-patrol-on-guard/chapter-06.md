@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - How Two Millionaires Did A Good Turn"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-06.html"
 ---
 
 Gideon Landon sat talking with his friend Franklin Haynes in the city home of the former one cold evening in the early spring of 1912. You may recall that they had been estranged for a time, but after the removal of the misunderstanding, they became more intimate than before. They were associated in various business deals and hardly a day passed without their seeing each other.

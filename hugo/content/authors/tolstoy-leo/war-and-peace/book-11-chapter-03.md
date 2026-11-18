@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 3"
 weight: 232
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-03.html"
 ---
 
 When Ermolov, having been sent by Kutuzov to inspect the position, told the field marshal that it was impossible to fight there before Moscow and that they must retreat, Kutuzov looked at him in silence.

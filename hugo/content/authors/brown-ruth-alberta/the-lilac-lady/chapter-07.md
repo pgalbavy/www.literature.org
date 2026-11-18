@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Voice From The Lilac Bushes"
 weight: 7
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-07.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-07.html"
 ---
 
 It was a glorious morning in May. Spring had really come at last with its warm, life-giving sunshine, and the air was heavy with the smell of growing things. Overhead the blue sky was clear and cloudless, underfoot the new grass made a thick carpet invitingly cool and refreshing. The trees were sporting fresh garlands of leaves, and in woods and gardens the bright-colored blossoms glowed and blushed. How beautiful it all was!

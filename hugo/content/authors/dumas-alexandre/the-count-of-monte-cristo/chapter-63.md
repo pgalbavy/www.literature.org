@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63 - The Dinner"
 weight: 63
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-63.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-63.html"
 ---
 
 It was evident that one sentiment affected all the guests on entering the dining-room. Each one asked what strange influence had brought them to this house, and yet astonished, even uneasy though they were, they still felt that they would not like to be absent. The recent events, the solitary and eccentric position of the count, his enormous, nay, almost incredible fortune, should have made men cautious, and have altogether prevented ladies visiting a house where there was no one of their own sex to receive them; and yet curiosity had been enough to lead them to overleap the bounds of prudence and decorum. And all present, even including Cavalcanti and his son, notwithstanding the stiffness of the one and the carelessness of the other, were thoughtful, on finding themselves assembled at the house of this incomprehensible man. Madame Danglars had started when Villefort, on the count's invitation, offered his arm; and Villefort felt that his glance was uneasy beneath his gold spectacles, when he felt the arm of the baroness press upon his own. None of this had escaped the count, and even by this mere contact of individuals the scene had already acquired considerable interest for an observer. M. de Villefort had on the right hand Madame Danglars, on his left Morrel. The count was seated between Madame de Villefort and Danglars; the other seats were filled by Debray, who was placed between the two Cavalcanti, and by Chateau-Renaud, seated between Madame de Villefort and Morrel.

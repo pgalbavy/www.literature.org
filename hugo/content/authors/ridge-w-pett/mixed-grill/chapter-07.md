@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Case Of Suspicion"
 weight: 7
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-07.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-07.html"
 ---
 
 IT was pleasant to get about the square of the station—where luggage had to be labelled and heated passengers stormed at porters and a rather stout brass bell was rung, and where at moments of pressure it did seem that the world had suddenly gone mad—pleasant to stroll there and to feel you were one of the few who recognised the identity of the quiet man smoking a briar pipe and carrying an umbrella, over near the label case. He was middle-aged, with an unobtrusive manner; in the summer he wore a straw hat sedately; he seemed to be always waiting for a train that never arrived. If a loiterer made his way into the station and stood about the bookstall longer than seemed necessary, the quiet man would go near to him, moving when he moved, stopping when he stopped, and losing no sight of him until he went off. The quiet man had apparently no friends, and the staff addressed him rarely.

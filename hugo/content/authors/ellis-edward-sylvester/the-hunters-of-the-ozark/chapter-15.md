@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"Deerfoot Will Be Sentinel To-Night\""
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-15.html"
 ---
 
 "We are on our way to the camp in the Ozarks," said Fred Linden; "and am I mistaken in believing that you will go with us all the way?"

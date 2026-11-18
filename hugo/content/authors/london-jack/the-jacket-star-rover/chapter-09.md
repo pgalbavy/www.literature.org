@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-09.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-09.html"
 ---
 
 One thing of great value I learned in the long, pain-weary hours of waking--namely, the mastery of the body by the mind. I learned to suffer passively, as, undoubtedly, all men have learned who have passed through the post-graduate courses of strait-jacketing. Oh, it is no easy trick to keep the brain in such serene repose that it is quite oblivious to the throbbing, exquisite complaint of some tortured nerve.

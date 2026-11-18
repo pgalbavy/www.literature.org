@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Benevolent Character"
 weight: 2
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-02.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-02.html"
 ---
 
 A YOUTH came into the small tobacconist’s and inquired, across the counter, whether there happened to be in the neighbourhood a branch establishment of a well-known firm (mentioned by name) dealing in similar goods and guaranteeing to save the consumer thirty-three per cent. He required the information, it appeared, because he contemplated buying a packet of cigarettes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Little Joe Otter Gets Even With Buster Bear"
 weight: 2
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-02.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-02.html"
 ---
 
 Little Joe Otter was in a terrible rage. It was a bad beginning for a beautiful day and Little Joe knew it. But who wouldn't be in a rage if his breakfast was taken from him just as he was about to eat it? Anyway, that is what Little Joe told Billy Mink. Perhaps he didn't tell it quite exactly as it was, but you know he was very badly frightened at the time.

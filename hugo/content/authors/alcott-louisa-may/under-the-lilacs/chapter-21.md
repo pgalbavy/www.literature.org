@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Cupid's Last Appearance"
 weight: 21
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-21.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-21.html"
 ---
 
 A picnic supper on the grass followed the games, and then, as twilight began to fall, the young people were marshalled to the coach-house, now transformed into a rustic theatre. One big door was open, and seats, arranged lengthwise, faced the red table-cloths which formed the curtain. A row of lamps made very good foot-lights, and an invisible band performed a Wagner-like overture on combs, tin trumpets, drums, and pipes, with an accompaniment of suppressed laughter.

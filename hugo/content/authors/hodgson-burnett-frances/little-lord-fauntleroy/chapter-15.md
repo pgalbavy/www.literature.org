@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-15.html"
 ---
 
 Ben took his boy and went back to his cattle ranch in California, and he returned under very comfortable circumstances. Just before his going, Mr. Havisham had an interview with him in which the lawyer told him that the Earl of Dorincourt wished to do something for the boy who might have turned out to be Lord Fauntleroy, and so he had decided that it would be a good plan to invest in a cattle ranch of his own, and put Ben in charge of it on terms which would make it pay him very well, and which would lay a foundation for his son's future. And so when Ben went away, he went as the prospective master of a ranch which would be almost as good as his own, and might easily become his own in time, as indeed it did in the course of a few years; and Tom, the boy, grew up on it into a fine young man and was devotedly fond of his father; and they were so successful and happy that Ben used to say that Tom made up to him for all the troubles he had ever had.

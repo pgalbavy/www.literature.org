@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Machine In Motion"
 weight: 5
-aliases:
-  - "/authors/balzac-honore-de/bureaucracy/chapter-05.html"
+url: "/authors/balzac-honore-de/bureaucracy/chapter-05.html"
 ---
 
 At this moment the division of Monsieur de la Billardiere was in a state of unusual excitement, resulting very naturally from the event which was about to happen; for heads of divisions do not die every day, and there is no insurance office where the chances of life and death are calculated with more sagacity than in a government bureau. Self-interest stifles all compassion, as it does in children, but the government service adds hypocrisy to boot.

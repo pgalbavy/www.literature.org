@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/grahame-kenneth/the-headswoman/chapter-05.html"
+url: "/authors/grahame-kenneth/the-headswoman/chapter-05.html"
 ---
 
 When, an hour or two later, an invitation arrived--courteously worded but significantly backed by an escort of half-a-dozen tall archers--for both Jeanne and the Mayor to attend at the Château without delay, Jeanne for her part received it with neither surprise nor reluctance. She had felt it especially hard that the only two interviews fate had granted her with the one man who had made some impression on her heart should be hampered, the one by considerations of propriety, the other by the conflicting claims of her profession and its duties. On this occasion, now, she would have an excellent chaperon in the Mayor; and, business being over for the day, they could meet and unbend on a common social footing. The Mayor was not at all surprised either, considering what had gone before; but he was exceedingly terrified, and sought some consolation from Jeanne as they proceeded together to the Château. That young lady's remarks, however, could hardly be called exactly comforting.

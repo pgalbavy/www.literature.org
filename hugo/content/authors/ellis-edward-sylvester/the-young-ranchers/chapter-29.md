@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Break For Freedom"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-29.html"
 ---
 
 Accustomed as are the Sioux to scenes of violence, it is not probable that any members of the party to whom we have been referring ever looked upon a sight so remarkable as the prairie duel between Starcus and the young rancher.

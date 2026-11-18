@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Brave Gentleman"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-17.html"
 ---
 
 MRS. LADYBUG didn't know that the frog she saw was a very timid fellow. His name was Mr. Cricket Frog. He liked to sit on a lily pad and sing. And his singing sounded a good deal like the music that Chirpy Cricket made. In fact, that was the reason for his odd name.

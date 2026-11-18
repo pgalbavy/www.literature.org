@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Biographical"
 weight: 12
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-012.html"
+url: "/authors/melville-herman/moby-dick/chapter-012.html"
 ---
 
 Queequeg was a native of Kokovoko, an island far away to the West and South. It is not down on any map; true places never are.

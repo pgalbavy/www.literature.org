@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-06.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-06.html"
 ---
 
 Next morning I got up early, for I wasn’t quite easy in my mind about riding Joe’s old horse, and so I thought I would just go round and look at him, and ask the fogger something about his ways. It was a splendid morning, not a cloud to be seen. I found the fogger strapping away at the horses. Everybody had been up and about since daylight, to get their day’s work done, so that they might get away early to the pastime. All the cows had been milked and turned out again, and Joe was away in the fields, looking after his men.

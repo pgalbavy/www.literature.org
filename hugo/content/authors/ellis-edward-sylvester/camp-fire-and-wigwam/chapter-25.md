@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The War Feast"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-25.html"
 ---
 
 Jack Carleton's triumph over the Indian youth was complete. In a fair wrestling bout he had flung him to the ground with a force that drove the breath from his body, and gave him a more vivid idea of the white man's views of that athletic amusement than he had ever entertained before. But what was to be the outcome of this affair was more than the boy could guess. Physical prowess always commands respect whether the spectators be civilized or savage; but it does not insure against persecution.

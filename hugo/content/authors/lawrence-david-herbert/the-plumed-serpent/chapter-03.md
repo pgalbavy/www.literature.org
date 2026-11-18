@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Fortieth Birthday"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-03.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-03.html"
 ---
 
 Kate woke up one morning, aged forty. She did not hide the fact from herself, but she kept it dark from the others.

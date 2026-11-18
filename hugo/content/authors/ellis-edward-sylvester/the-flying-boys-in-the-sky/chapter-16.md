@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Mysterious Communication"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-16.html"
 ---
 
 Harvey Hamilton stood speechless. When he spoke to Professor Morgan, they were no more than a rod apart, with only the broad open space in front of the hotel between them. Upon hearing himself addressed, the man had looked straight into the face of the lad and then, as already said, passed on without the faintest sign of recognition.

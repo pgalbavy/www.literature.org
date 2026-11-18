@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Discovery of Oz, the Terrible "
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-15.html"
 ---
 
 The four travelers walked up to the great gate of Emerald City and rang the bell. After ringing several times, it was opened by the same Guardian of the Gates they had met before.

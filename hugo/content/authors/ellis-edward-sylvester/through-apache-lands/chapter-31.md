@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Sleep"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-31.html"
 ---
 
 The sentinel on his rounds, the watchman upon his beat, or the sailor pacing the deck of his vessel in mid-ocean, keeps his senses awake by the constant motion of his body. To sit down to rest for a few minutes only is fatal. Sleep has the power of stealing over the faculties, and wrapping them up in its embrace so insidiously, that no watchfulness can guard against it unless artificial means, such as walking, are resorted to. When Ned Chadmund resumed an easy position in front of his own camp fire, the inevitable result followed. He resolved to keep his ears and eyes open, and almost immediately closed them. A few minutes passed and then his head began to nod. Several times he narrowly escaped tumbling over, and, finally rousing, he vigorously rubbed his eyes, yawned, and arose to his feet.

@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 14"
 weight: 293
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-14.html"
 ---
 
 Through the cross streets of the Khamovniki quarter the prisoners marched, followed only by their escort and the vehicles and wagons belonging to that escort, but when they reached the supply stores they came among a huge and closely packed train of artillery mingled with private vehicles.

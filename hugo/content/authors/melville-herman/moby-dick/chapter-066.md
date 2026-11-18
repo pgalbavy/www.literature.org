@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66 - The Shark Massacre"
 weight: 66
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-066.html"
+url: "/authors/melville-herman/moby-dick/chapter-066.html"
 ---
 
 When in the Southern Fishery a captured Sperm Whale, after long and weary toil, is brought alongside late at night, it is not, as a general thing at least, customary to proceed at once to the business of cutting him in. For that business is an exceedingly laborious one; is not very soon completed; and requires all hands to set about it. Therefore, the common usage is to take in all sail; lash the helm a'lee; and then send every one below to his hammock till daylight, with the reservation that, until that time, anchor-watches shall be kept; that is, two and two for an hour, each couple, the crew in rotation shall mount the deck to see that all goes well.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Little Surprise"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-07.html"
 ---
 
 Little by little the Muley Cow learned not to be disturbed by Johnnie Green's clothesline lasso, when he swung it in wide circles about his head and then flung it at hers. She found that the rope did her no harm. Indeed, the more Johnnie practiced the more expert he became. Before a great while he could drop his noose over the Muley Cow's head almost every time he tried--when she stood still.

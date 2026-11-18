@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Memory"
 weight: 10
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-09.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-09.html"
 ---
 
 Memory, which we are to consider to-day, introduces us to knowledge in one of its forms. The analysis of knowledge will occupy us until the end of the thirteenth lecture, and is the most difficult part of our whole enterprise.

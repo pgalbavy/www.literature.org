@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 11"
 weight: 79
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-11.html"
 ---
 
 On the third day after Christmas Nicholas dined at home, a thing he had rarely done of late. It was a grand farewell dinner, as he and Denisov were leaving to join their regiment after Epiphany. About twenty people were present, including Dolokhov and Denisov.

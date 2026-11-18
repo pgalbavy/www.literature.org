@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Third Ordeal"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-18.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-18.html"
 ---
 
 An hour, two hours passed, while we strove to rest in our sleeping place, but could not, for some influence disturbed us.

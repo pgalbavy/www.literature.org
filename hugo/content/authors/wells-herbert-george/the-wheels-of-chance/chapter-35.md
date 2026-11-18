@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-35.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-35.html"
 ---
 
 Mr. Hoopdriver helped the eggs and then, instead of beginning, sat with his cheek on his hand, watching Jessie pour out the coffee. His ears were a bright red, and his eyes bright. He took his coffee cup clumsily, cleared his throat, suddenly leant back in his chair, and thrust his hands deep into his pockets. "I'll do it," he said aloud.

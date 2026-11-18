@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Down The River"
 weight: 25
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-24.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-24.html"
 ---
 
 A fortnight later, the boys were picking apples one golden October afternoon, and the girls were hurrying to finish their work, that they might go and help the harvesters. It was six weeks now since the new school began, and they had learned to like it very much, though they found that it was not all play, by any means. But lessons, exercise, and various sorts of housework made an agreeable change, and they felt that they were learning things which would be useful to them all their lives. They had been making underclothes for themselves, and each had several neatly finished garments cut, fitted, and sewed by herself, and trimmed with the pretty tatting Jill made in such quantities while she lay on her sofa.

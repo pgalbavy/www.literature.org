@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Frank Muller Shows His Hand"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-13.html"
+url: "/authors/haggard-h-rider/jess/chapter-13.html"
 ---
 
 Presently Muller turned round. “Do you know why I have told you all this, Oom Silas?” he asked.

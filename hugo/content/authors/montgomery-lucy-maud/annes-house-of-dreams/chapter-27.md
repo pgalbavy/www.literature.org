@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - On The Sand Bar"
 weight: 27
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-27.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-27.html"
 ---
 
 Owen Ford left Four Winds the next morning. In the evening Anne went over to see Leslie, but found nobody. The house was locked and there was no light in any window. It looked like a home left soulless. Leslie did not run over on the following day--which Anne thought a bad sign.

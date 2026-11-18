@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Tournament"
 weight: 10
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-09.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-09.html"
 ---
 
 THEY were always having grand tournaments there at Camelot; and very stirring and picturesque and ridiculous human bull-fights they were, too, but just a little wearisome to the practical mind. However, I was generally on hand -- for two reasons: a man must not hold himself aloof from the things which his friends and his community have at heart if he would be liked -- especially as a statesman; and both as business man and statesman I wanted to study the tournament and see if I couldn't invent an improvement on it. That reminds me to remark, in passing, that the very first official thing I did, in my administration -- and it was on the very first day of it, too -- was to start a patent office; for I knew that a country without a patent office and good patent laws was just a crab, and couldn't travel any way but sideways or backways.

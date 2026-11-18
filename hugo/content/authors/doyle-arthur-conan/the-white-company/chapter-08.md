@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Three Friends"
 weight: 8
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-08.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-08.html"
 ---
 
 HIS companions had passed on whilst he was at his orisons; but his young blood and the fresh morning air both invited him to a scamper. His staff in one hand and his scrip in the other, with springy step and floating locks, he raced along the forest path, as active and as graceful as a young deer. He had not far to go, however; for, on turning a corner, he came on a roadside cottage with a wooden fence-work around it, where stood big John and Aylward the bowman, staring at something within. As he came up with them, he saw that two little lads, the one about nine years of age and the other somewhat older, were standing on the plot in front of the cottage, each holding out a round stick in their left hands, with their arms stiff and straight from the shoulder, as silent and still as two small statues. They were pretty, blue-eyed, yellow-haired lads, well made and sturdy, with bronzed skins, which spoke of a woodland life.

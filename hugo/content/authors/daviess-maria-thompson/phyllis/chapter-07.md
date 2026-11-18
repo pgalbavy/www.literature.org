@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-07.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-07.html"
 ---
 
 When you live in the city, or various cities, as I have done, you have various things that distract your attention from the miracle that is spreading all over the earth when the spring comes. Do such things happen every spring, or is it just something that has unblinded my eyes? Maybe I have really caught that rosy hue habit from Roxanne; but the apple-trees this week have been almost too much for me. There are great, gnarly, old apple-trees in every spare corner of Byrdsville, where you wouldn't even expect a tree to be; and ever since I have been in this town I have been finding a new one stretching out its crooked old arms to me as if to welcome me or bar my path. There is one that grows half in and half out of Judge Luttrell's yard, so the fence has to consider it a kind of post and stop at it to begin again on the other side, while three of them are trying to completely close up the door of the court-house on the Public Square. All the streets are bordered with them, set along at ragged intervals with the tall old maples, and all the gardens and yards have regiments of them camped about the doors and walks.

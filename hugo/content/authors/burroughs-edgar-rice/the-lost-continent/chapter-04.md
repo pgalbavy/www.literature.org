@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-04.html"
 ---
 
 It was during the morning of July 6, 2137, that we entered the mouth of the Thames--to the best of my knowledge the first Western keel to cut those historic waters for two hundred and twenty-one years!

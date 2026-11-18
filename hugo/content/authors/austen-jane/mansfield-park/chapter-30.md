@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-30.html"
+url: "/authors/austen-jane/mansfield-park/chapter-30.html"
 ---
 
 Miss Crawford's uneasiness was much lightened by this conversation, and she walked home again in spirits which might have defied almost another week of the same small party in the same bad weather, had they been put to the proof; but as that very evening brought her brother down from London again in quite, or more than quite, his usual cheerfulness, she had nothing farther to try her own. His still refusing to tell her what he had gone for was but the promotion of gaiety; a day before it might have irritated, but now it was a pleasant joke--suspected only of concealing something planned as a pleasant surprise to herself. And the next day did bring a surprise to her. Henry had said he should just go and ask the Bertrams how they did, and be back in ten minutes, but he was gone above an hour; and when his sister, who had been waiting for him to walk with her in the garden, met him at last most impatiently in the sweep, and cried out, “My dear Henry, where can you have been all this time?” he had only to say that he had been sitting with Lady Bertram and Fanny.

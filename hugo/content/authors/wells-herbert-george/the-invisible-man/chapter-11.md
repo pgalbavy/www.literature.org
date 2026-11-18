@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In the Coach and Horses"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-11.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-11.html"
 ---
 
 Now in order clearly to understand what had happened in the inn, it is necessary to go back to the moment when Mr. Marvel first came into view of Mr. Huxter's window. At that precise moment Mr. Cuss and Mr. Bunting were in the parlour. They were seriously investigating the strange occurrences of the morning, and were, with Mr. Hall's permission, making a thorough examination of the Invisible Man's belongings. Jaffers had partially recovered from his fall and had gone home in the charge of his sympathetic friends. The stranger's scattered garments had been removed by Mrs. Hall and the room tidied up. And on the table under the window where the stranger had been wont to work, Cuss had hit almost at once on three big books in manuscript labelled "Diary."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Hunting A Home"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-02.html"
 ---
 
 Warm weather was at hand. And Dickie Deer Mouse gave up frolicking with his friends for a time, because he needed to find a pleasant place in which to spend the summer.

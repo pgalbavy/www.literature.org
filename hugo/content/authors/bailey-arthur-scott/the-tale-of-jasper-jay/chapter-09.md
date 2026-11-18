@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Jasper Has To Hide"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-09.html"
 ---
 
 WHEN Jasper Jay looked up and saw Mr. Red-shouldered Hawk darting down upon him from above, he dodged to one side and screamed loudly for help.

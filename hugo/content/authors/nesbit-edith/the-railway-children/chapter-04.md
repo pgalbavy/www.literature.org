@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Engine-Burglar"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-04.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-04.html"
 ---
 
 What was left of the second sheet and the Brunswick black came in very nicely to make a banner bearing the legend

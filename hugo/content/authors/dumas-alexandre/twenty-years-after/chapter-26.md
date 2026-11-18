@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Rencontre"
 weight: 26
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-26.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-26.html"
 ---
 
 They rode on in this way for ten minutes. Suddenly two dark forms seemed to separate from the mass, advanced, grew in size, and as they loomed up larger and larger, assumed the appearance of two horsemen.

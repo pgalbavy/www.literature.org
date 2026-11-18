@@ -1,8 +1,7 @@
 ---
 title: "Chapter 82"
 weight: 82
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-82.html"
+url: "/authors/eliot-george/middlemarch/chapter-82.html"
 ---
 
 "My grief lies onward and my joy behind." - SHAKESPEARE: Sonnets.

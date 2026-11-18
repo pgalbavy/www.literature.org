@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Girl’s Spite"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-10.html"
 ---
 
 "*REALLY,* Mary," said Imogene coldly, "Mr. Temple must have a singular opinion of you."

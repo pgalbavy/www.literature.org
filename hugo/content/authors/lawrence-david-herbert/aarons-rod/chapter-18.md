@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Marchesa"
 weight: 18
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-18.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-18.html"
 ---
 
 So Aaron dined with the Marchesa and Manfredi. He was quite startled when his hostess came in: she seemed like somebody else. She seemed like a demon, her hair on her brows, her terrible modern elegance. She wore a wonderful gown of thin blue velvet, of a lovely colour, with some kind of gauzy gold-threaded filament down the sides. It was terribly modern, short, and showed her legs and her shoulders and breast and all her beautiful white arms. Round her throat was a collar of dark-blue sapphires. Her hair was done low, almost to the brows, and heavy, like an Aubrey Beardsley drawing. She was most carefully made up - yet with that touch of exaggeration, lips slightly too red, which was quite intentional, and which frightened Aaron. He thought her wonderful, and sinister. She affected him with a touch of horror. She sat down opposite him, and her beautifully shapen legs, in frail, goldish stockings, seemed to glisten metallic naked, thrust from out of the wonderful, wonderful skin, like periwinkle-blue velvet. She had tapestry shoes, blue and gold: and almost one could see her toes: metallic naked. The gold-threaded gauze slipped at her side. Aaron could not help watching the naked-seeming arch of her foot. It was as if she were dusted with dark gold-dust upon her marvellous nudity.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Night Vigil"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-22.html"
 ---
 
 On a hill in the midst of a great Austrian plain, around which high Alps wait watching through the ages, stands a venerable fortress, almost more beautiful than anything one has ever seen. Perhaps, if it were not for the great plain flowering broadly about it with its wide-spread beauties of meadow-land, and wood, and dim toned buildings gathered about farms, and its dream of a small ancient city at its feet, it might--though it is to be doubted--seem something less a marvel of medieval picturesqueness. But out of the plain rises the low hill, and surrounding it at a stately distance stands guard the giant majesty of Alps, with shoulders in the clouds and god-like heads above them, looking on--always looking on--sometimes themselves ethereal clouds of snow-whiteness, some times monster bare crags which pierce the blue, and whose unchanging silence seems to know the secret of the everlasting. And on the hill which this august circle holds in its embrace, as though it enclosed a treasure, stands the old, old, towered fortress built as a citadel for the Prince Archbishops, who were kings in their domain in the long past centuries when the splendor and power of ecclesiastical princes was among the greatest upon earth.

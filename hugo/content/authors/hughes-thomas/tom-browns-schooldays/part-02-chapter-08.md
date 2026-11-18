@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - Tom Brown's Last Match"
 weight: 17
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-08.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-08.html"
 ---
 
 "Heaven grant the manlier heart, that timely ere  

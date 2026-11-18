@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-33.html"
 ---
 
 No one can question that many animals have the propensity to fun and frolic. It may be absent in some, but it certainly is not lacking in the canine species.

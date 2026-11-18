@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-03.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-03.html"
 ---
 
 But Josiah Allen wuz jest crazy over that lecture - crazy as a loon. He raved about it all the way home, and he would repeat over lots of it to me. About "how a man's love was the firm anchor that held a woman's happiness stiddy; how his calm and peaceful influence held her mind in a serene calm - a waveless repose; how tender men wuz of the fair sect, how they watched over 'em and held 'em in their hearts."

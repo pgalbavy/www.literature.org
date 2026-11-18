@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-03.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-03.html"
 ---
 
 Two weeks later, Robert Fairchild sat in the smoking compartment of the Overland Limited, looking at the Rocky Mountains in the distance. In his pocket were a few hundred dollars; in the bank in Indianapolis a few thousand, representing the final proceeds of the sale of everything that had connected him with a rather dreary past. Out before him--

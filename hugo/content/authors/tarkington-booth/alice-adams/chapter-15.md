@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-15.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-15.html"
 ---
 
 Alice had said that no one who knew either Russell or herself would be likely to see them in the park or upon the dingy street; but although they returned by that same ungenteel thoroughfare they were seen by a person who knew them both. Also, with some surprise on the part of Russell, and something more poignant than surprise for Alice, they saw this person.

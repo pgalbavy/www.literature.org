@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - An Appalling Danger"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-13.html"
 ---
 
 *NOT* a second was to be lost. The next moment the boy had run across the intervening space and pulled open the furnace door of the steam man. He saw a few embers yet smoldering in the bottom, enough to rekindle the wood. Dashing in a lot from the wagon, he saw it begin blazing up. He pulled the valve wide open, so that there might not be a moment's delay in starting, and held the water in the boiler at a proper level. The smoke immediately began issuing from the pipe or hat, and the hopes of the boy rose correspondingly.

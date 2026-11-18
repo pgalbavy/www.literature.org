@@ -1,8 +1,7 @@
 ---
 title: "chapter 02"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-02.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-02.html"
 ---
 
 The Brangwens went home to Beldover, the wedding-party gathered at Shortlands, the Criches' home. It was a long, low old house, a sort of manor farm, that spread along the top of a slope just beyond the narrow little lake of Willey Water. Shortlands looked across a sloping meadow that might be a park, because of the large, solitary trees that stood here and there, across the water of the narrow lake, at the wooded hill that successfully hid the colliery valley beyond, but did not quite hide the rising smoke. Nevertheless, the scene was rural and picturesque, very peaceful, and the house had a charm of its own.

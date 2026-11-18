@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-07.html"
+url: "/authors/haggard-h-rider/dawn/chapter-07.html"
 ---
 
 Nothing occurred to interfere with the plan of action decided on by Hilda and Philip; no misadventure came to mock them, dashing the Tantalus cup of joy to earth before their eyes. On the contrary, within forty-eight hours of the conversation recorded in the last chapter, they were as completely and irrevocably man and wife, as a special licence and the curate of a city church, assisted by the clerk and the pew-opener, could make them.

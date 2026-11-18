@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Suppose That If Buster Bear Should Happen Along And Catch Him, He Would Be Stealing From Me, According To Little Joe.\""
 weight: 6
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-06.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-06.html"
 ---
 
 "Of course not! What a silly idea! You're getting foolish in your old age," retorted Little Joe.

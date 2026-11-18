@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Class Day"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-18.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-18.html"
 ---
 
 The clerk of the weather evidently has a regard for young people, and sends sunshine for class days as often as he can. An especially lovely one shone over Plumfield as this interesting anniversary came round, bringing the usual accompaniments of roses, strawberries, white-gowned girls, beaming youths, proud friends, and stately dignitaries full of well-earned satisfaction with the yearly harvest. As Laurence College was a mixed one, the presence of young women as students gave to the occasion a grace and animation entirely wanting where the picturesque half of creation appear merely as spectators. The hands that turned the pages of wise books also possessed the skill to decorate the hall with flowers; eyes tired with study shone with hospitable warmth on the assembling guests; and under the white muslins beat hearts as full of ambition, hope, and courage as those agitating the broadcloth of the ruling sex.

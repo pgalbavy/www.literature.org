@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - David And Porthos Compared"
 weight: 20
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-20.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-20.html"
 ---
 
 But Mary spoilt it all, when I sent David back to her in the morning, by inquiring too curiously into his person and discovering that I had put his combinations on him with the buttons to the front. For this I wrote her the following insulting letter. When Mary does anything that specially annoys me I send her an insulting letter. I once had a photograph taken of David being hanged on a tree. I sent her that. You can't think of all the subtle ways of grieving her I have. No woman with the spirit of a crow would stand it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Story Of Johnny Appleseed"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-14.html"
 ---
 
 It has already been made clear to you that the sojourn of the troop of Boy Scouts in the southern Maine woods during this summer was simply a vacation in which there was a relaxation of rigid discipline such as attended their hikes and what may be called business outings. A certain part of each week-day was devoted to drill; the bugle was sounded morning and evening; the National Flag was saluted; yells practiced and so on. The leader simply kept the youngsters on edge, as may be said. They were given full liberty most of the time, with freedom to use the canoes for fishing in the lake, or to wander in the woods studying trees, bird and insect life, as the varying tastes of the boys prompted. One of the most enjoyable treats of the boys was that of story telling. This took place in the evening after supper, the extinguishment of the outdoor fires, the putting away of the dishes and the setting of things to rights. Scout Master Hall was never at a loss for an instructive or amusing "yarn," but was too wise to give the boys a surfeit. He encouraged them in the discussion of different subjects, to explain what they had read and to try their own skill at story telling.

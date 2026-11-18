@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - At The Ranch"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-01.html"
 ---
 
 Avon Burnet, at the age of eighteen, was one of the finest horsemen that ever scurried over the plains of Western Texas, on his matchless mustang Thunderbolt.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - An Important Letter--Shut In"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-02.html"
 ---
 
 Astonished by the cry, young Clarendon turned his head and looked at his sister, who landed at his side that moment like a fairy. She was holding a sheet of paper in her hand. It was folded in the form of an envelope, and pencilled on the outside in bold letters were the words—

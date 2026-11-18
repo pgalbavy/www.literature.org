@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Dido In The Circus"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/dido-the-dancing-bear/chapter-11.html"
+url: "/authors/barnum-richard/dido-the-dancing-bear/chapter-11.html"
 ---
 
 “What in the world is the matter with that man?” thought Dido, as the dancing bear kept on climbing up the pole. “He acts so funny, just as if he did not want me to come near him. My master does not act so. For, though I know I used to be cross and growl at my master, and though I was afraid of all men, I am not that way any more. I like men. He looks like a nice man, up on the pole, and I want to see him. I never before saw a man who could climb a telegraph pole as well as I can.”

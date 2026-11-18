@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Duke Goes"
 weight: 19
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-19.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-19.html"
 ---
 
 When Guerchard joined the Duke in the drawing-room, he had lost his calm air and was looking more than a little nervous. He moved about the room uneasily, fingering the bric-a-brac, glancing at the Duke and looking quickly away from him again. Then he came to a standstill on the hearth-rug with his back to the fireplace.

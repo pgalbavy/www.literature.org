@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Visitors Of The Night"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-16.html"
 ---
 
 Chester bounded out of bed and hunted to the door, which he unlocked and opened for a few inches. He could see nothing in the gloom, and asked in a whisper:

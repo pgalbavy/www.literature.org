@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Last Straw"
 weight: 27
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-27.html"
+url: "/authors/titus-harold/the-last-straw/chapter-27.html"
 ---
 
 It was the first day that Tom Beck could lie on his back. For weeks he had lain on his face there in the living room of the ranch house, nursed back to health by Jane Hunter's gentle hands. Now the doctor had turned him over, with the promise that he would not only be sitting up but walking before long, and the Veterans' Society had been in session.

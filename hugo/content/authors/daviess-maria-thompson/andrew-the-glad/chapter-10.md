@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Love'S Home And Andrew Sevier"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-10.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-10.html"
 ---
 
 And the Sabbath quiet which had descended on the frost-jeweled city the morning after the hunt found the Buchanan household still deep in close-shuttered sleep. Their fatigue demanded and was having its way in the processes of recuperation and they all slept on serenely.

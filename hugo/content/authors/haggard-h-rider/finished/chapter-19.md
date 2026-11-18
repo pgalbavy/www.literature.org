@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Allan Awakes"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-19.html"
+url: "/authors/haggard-h-rider/finished/chapter-19.html"
 ---
 
 Now I have no intention of setting down all the details of that dreadful journey through Zululand, even if I could recall them, which, for a reason to be stated, I cannot do. I remember that at first I thought of proceeding to Ulundi with some wild idea of throwing myself on the mercy of Cetewayo under pretence that I brought him a message from Natal. Within a couple of hours, however, from the top of a hill I saw ahead of me an impi and with it captured wagons, which was evidently heading for the king's kraal. So as I knew what kind of a greeting these warriors would give me, I bore away in another direction with the hope of reaching the border by a circuitous route. In this too I had no luck, since presently I caught sight of outposts stationed upon rocks, which doubtless belonged to another impi or regiment. Indeed one soldier, thinking from my dress that I also was a Zulu, called to me for news from about half a mile away, in that peculiar carrying voice which Kaffirs can command. I shouted back something about victory and that the white men were wiped out, then put an end to the conversation by vanishing into a patch of dense bush.

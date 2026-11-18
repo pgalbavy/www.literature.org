@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Enemy, The Rod And The Staff"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-06.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-06.html"
 ---
 
 And the days that followed the Senator's prohibition rally at Sweetbriar were those of carnival for jocund spring all up and down Providence Road and out over the Valley. Rugged old Harpeth began to be crowned with wreaths of tender green and pink which trailed down its sides in garlands that spread themselves out over meadow and farm away beyond the river bend. Overnight, rows of jonquils in Mrs. Poteet's straggling little garden lifted up golden candlestick heads to be decapitated at an early hour and transported in tight little bunches in dirty little fists to those of the neighbors whose spring flowers had failed to open at such an early date. In spite of what seemed an open neglect, the Poteet flowers were always more prolific and advanced than any others along the Road, much to the pride of the equally prolific and spring-blooming Mrs. Poteet. And in a spirit of nature's accord the white poet's narcissus showed starry flowers to the early sun in the greatest abundance along the Poteet fence that bordered on the Rucker yard. They peeped through the pickets, and who knows what challenge they flung to the poetic soul of Mr. Caleb Rucker as he sat on the side porch with his stockinged feet up on a chair and his nose tilted to an angle of ecstatic inhalation?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Flinging The Gauntlet"
 weight: 1
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-01.html"
+url: "/authors/williams-frank/the-free-range/chapter-01.html"
 ---
 
 "Then you insist on ruining me, Mr. Bissell?"

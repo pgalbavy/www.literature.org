@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - No, She Would Not"
 weight: 31
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-31.html"
 ---
 
 Sir Nigel did not invite Rosalie to accompany them, when the next morning, after breakfast, he reminded Betty of his suggestion of the night before, that she should walk over the place with him, and show him what had been done. He preferred to make his study of his sister-in-law undisturbed.

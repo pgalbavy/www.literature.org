@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - An Act Of Forgetfulness"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-18.html"
 ---
 
 It would be supposed that common gratitude would have filled the heart of Jim McGovern after his rescue from death by the very lad whom he had sought to injure, but when he returned to the tent, changed his draggled garments, helped himself to strong spirits and began puffing a cigarette, he was angered at seeing the smile on the face of his companion.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-06.html"
+url: "/authors/chambers-robert-w/athalie/chapter-06.html"
 ---
 
 A rather tall man stepped in. He wore a snow-dusted, fur-lined overcoat and carried in his white-gloved hands a top hat and a silver-hooked walking stick.

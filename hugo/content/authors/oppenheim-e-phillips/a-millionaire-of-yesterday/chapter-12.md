@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-12.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-12.html"
 ---
 
 Trent rose up with flashing eyes. Da Souza shrank back from his outstretched hands. The two men stood facing one another. Da Souza was afraid, but the ugly look of determination remained upon his white face. Trent felt dimly that there was something which must be explained between them. There had been hints of this sort before from Da Souza. It was time the whole thing was cleared up. The lion was ready to throw aside the jackal.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Startled Sleeper"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-03.html"
 ---
 
 Of course Dickie Deer Mouse ought not to have been so ready to believe that stray bit of gossip about Mr. Crow. It is true that the old black scamp had talked about moving to a new place nearer Farmer Green's cornfield. But his plan had gone no further than that.

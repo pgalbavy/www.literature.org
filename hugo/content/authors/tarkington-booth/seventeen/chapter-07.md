@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Mr. Baxter's Evening Clothes"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-07.html"
+url: "/authors/tarkington-booth/seventeen/chapter-07.html"
 ---
 
 That evening, at about half-past seven o'clock, dinner being over and Mr. and Mrs. Baxter (parents of William) seated in the library, Mrs. Baxter said:

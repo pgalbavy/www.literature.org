@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-18.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-18.html"
 ---
 
 In which Phileas Fogg, Passepartout, and Fix go each about his business

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Stepping High"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-15.html"
 ---
 
 Twinkleheels was feeling quite important. Something that Farmer Green had said to Johnnie in his hearing made him hold his head higher than he usually did--and step higher, too.

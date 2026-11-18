@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Caught By Mr. Crow"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-05.html"
 ---
 
 It wasn't far to the edge of the cornfield from the farmyard fence. And Henrietta Hen was quick to discover that the freshly ploughed and harrowed field offered a fine place to scratch for all kinds of worms and bugs and grubs.

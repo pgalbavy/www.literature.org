@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-10.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-10.html"
 ---
 
 Bibbs's room, that neat apartment for transients to which the "lamidal" George had shown him upon his return, still bore the appearance of temporary quarters, possibly because Bibbs had no clear conception of himself as a permanent incumbent. However, he had set upon the mantelpiece the two photographs that he owned: one, a "group" twenty years old—his father and mother, with Jim and Roscoe as boys—and the other a "cabinet" of Edith at sixteen. And upon a table were the books he had taken from his trunk: Sartor Resartus, Virginibus Puerisque, Huckleberry Finn, and Afterwhiles. There were some other books in the trunk—a large one, which remained unremoved at the foot of the bed, adding to the general impression of transiency. It contained nearly all the possessions as well as the secret life of Bibbs Sheridan, and Bibbs sat beside it, the day after his interview with his father, raking over a small collection of manuscripts in the top tray. Some of these he glanced through dubiously, finding little comfort in them; but one made him smile. Then he shook his head ruefully indeed, and ruefully began to read it. It was written on paper stamped "Hood Sanitarium," and bore the title, "Leisure."

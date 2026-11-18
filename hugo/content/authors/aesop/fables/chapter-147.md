@@ -1,8 +1,7 @@
 ---
 title: "The Mouse And The Bull"
 weight: 149
-aliases:
-  - "/authors/aesop/fables/chapter-147.html"
+url: "/authors/aesop/fables/chapter-147.html"
 ---
 
 A BULL was bitten by a Mouse and, angered by the wound, tried to capture him. But the Mouse reached his hole in safety. Though the Bull dug into the walls with his horns, he tired before he could rout out the Mouse, and crouching down, went to sleep outside the hole. The Mouse peeped out, crept furtively up his flank, and again biting him, retreated to his hole. The Bull rising up, and not knowing what to do, was sadly perplexed. At which the Mouse said, "The great do not always prevail. There are times when the small and lowly are the strongest to do mischief."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 60 - The Line"
 weight: 60
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-060.html"
+url: "/authors/melville-herman/moby-dick/chapter-060.html"
 ---
 
 With reference to the whaling scene shortly to be described, as well as for the better understanding of all similar scenes elsewhere presented, I have here to speak of the magical, sometimes horrible whale-line.

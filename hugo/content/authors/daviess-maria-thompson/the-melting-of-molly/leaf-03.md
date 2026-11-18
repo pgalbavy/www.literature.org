@@ -1,8 +1,7 @@
 ---
 title: "Leaf 3 - Monument Or Trousseau?"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-03.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-03.html"
 ---
 
 Men are very strange people. They are like those horrible sums in algebra that you think about and worry about and cry about and try to get help from other women about, and then, all of a sudden, X works itself out into perfectly good sense. Not that I thought much about Mr. Carter, poor man! When he wasn't right around I felt it best to forget him as much as I could, but it seems hard for other women to let you forget either your husband or theirs.

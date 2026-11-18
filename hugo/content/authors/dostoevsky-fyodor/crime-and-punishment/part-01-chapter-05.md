@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 6
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-05.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-05.html"
 ---
 
 "Of course, I've been meaning lately to go to Razumihin's to ask for work, to ask him to get me lessons or something . . ." Raskolnikov thought, "but what help can he be to me now? Suppose he gets me lessons, suppose he shares his last farthing with me, if he has any farthings, so that I could get some boots and make myself tidy enough to give lessons . . . hm . . . Well and what then? What shall I do with the few coppers I earn? That's not what I want now. It's really absurd for me to go to Razumihin. . . ."

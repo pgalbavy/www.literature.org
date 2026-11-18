@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Mysterious Footprints"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-15.html"
 ---
 
 As the British plane piloted by Lieutenant Harold Percy Smith-Oldwick rose above the jungle wilderness where Bertha Kircher's life had so often been upon the point of extinction, and sped toward the east, the girl felt a sudden contraction of the muscles of her throat. She tried very hard to swallow something that was not there. It seemed strange to her that she should feel regret in leaving behind her such hideous perils, and yet it was plain to her that such was the fact, for she was also leaving behind something beside the dangers that had menaced her -- a unique figure that had en- tered her life, and for which she felt an unaccountable at- traction.

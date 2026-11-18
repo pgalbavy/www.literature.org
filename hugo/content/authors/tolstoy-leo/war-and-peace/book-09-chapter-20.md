@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 20"
 weight: 187
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-20.html"
 ---
 
 A few intimate friends were dining with the Rostovs that day, as usual on Sundays.

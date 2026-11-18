@@ -1,8 +1,7 @@
 ---
 title: "Life Of Aesop"
 weight: 2
-aliases:
-  - "/authors/aesop/fables/biography.html"
+url: "/authors/aesop/fables/biography.html"
 ---
 
 THE LIFE and History of Aesop is involved, like that of Homer, the most famous of Greek poets, in much obscurity. Sardis, the capital of Lydia; Samos, a Greek island; Mesembria, an ancient colony in Thrace; and Cotiaeum, the chief city of a province of Phrygia, contend for the distinction of being the birthplace of Aesop. Although the honor thus claimed cannot be definitely assigned to any one of these places, yet there are a few incidents now generally accepted by scholars as established facts, relating to the birth, life, and death of Aesop. He is, by an almost universal consent, allowed to have been born about the year 620 B.C., and to have been by birth a slave. He was owned by two masters in succession, both inhabitants of Samos, Xanthus and Jadmon, the latter of whom gave him his liberty as a reward for his learning and wit. One of the privileges of a freedman in the ancient republics of Greece, was the permission to take an active interest in public affairs; and Aesop, like the philosophers Phaedo, Menippus, and Epictetus, in later times, raised himself from the indignity of a servile condition to a position of high renown. In his desire alike to instruct and to be instructed, he travelled through many countries, and among others came to Sardis, the capital of the famous king of Lydia, the great patron, in that day, of learning and of learned men. He met at the court of Croesus with Solon, Thales, and other sages, and is related so to have pleased his royal master, by the part he took in the conversations held with these philosophers, that he applied to him an expression which has since passed into a proverb, "The Phrygian has spoken better than all."

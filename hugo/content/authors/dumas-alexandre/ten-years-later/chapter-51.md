@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - A Passion"
 weight: 51
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-51.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-51.html"
 ---
 
 The day of his arrival, on returning from the Palais Royal, Athos, as we have seen, went straight to his hotel in the Rue Saint-Honore. He there found the Vicomte de Bragelonne waiting for him in his chamber, chatting with Grimaud. It was not an easy thing to talk with this old servant. Two men only possessed the secret, Athos and D'Artagnan. The first succeeded, because Grimaud sought to make him speak himself; D'Artagnan, on the contrary, because he knew how to make Grimaud talk. Raoul was occupied in making him describe the voyage to England, and Grimaud had related it in all its details, with a limited number of gestures and eight words, neither more nor less. He had, at first, indicated by an undulating movement of his hand, that his master and he had crossed the sea. "Upon some expedition?" Raoul had asked.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-08.html"
+url: "/authors/greene-homer/the-guardsman/chapter-08.html"
 ---
 
 The audience in the armory at Fairweather on the evening of Donatello’s visit and expulsion had been treated to something more, and something of vastly greater moment, than a mere exhibition drill. They had not appreciated it at first, and while it was going on their attention had been too greatly strained to fully take it in. But when Sergeant McCormack reported the fulfilment of his orders, and started around the right of the line to take his post, it dawned on the people who had seen the incident that an exhibition of American military spirit had been witnessed, the spirit of the soldier as distinct from that of the civilian, that it would have been worth going far to see. Simultaneously, from all quarters of the hall, people began to applaud. The applause grew more vigorous and was punctured with loud hurrahs. Men and women rose to their feet and waved hands and handkerchiefs. Sarah Halpert mounted the chair in which she had been sitting, stood on it, and clapped her gloved hands until they burned.

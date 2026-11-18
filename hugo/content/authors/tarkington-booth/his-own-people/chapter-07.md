@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Next Morning"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-07.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-07.html"
 ---
 
 Suddenly he sat up in bed in his room at the Magnifique, gazing upon a disconsolate Cooley in gray tweeds who sat heaped in a chair at the foot of the bed with his head in his hands.

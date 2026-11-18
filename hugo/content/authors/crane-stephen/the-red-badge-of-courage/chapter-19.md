@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-19.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-19.html"
 ---
 
 THE youth stared at the land in front of him. Its foliages now seemed to veil powers and hor- rors. He was unaware of the machinery of orders that started the charge, although from the cor- ners of his eyes he saw an officer, who looked like a boy a-horseback, come galloping, waving his hat. Suddenly he felt a straining and heaving among the men. The line fell slowly forward like a toppling wall, and, with a convulsive gasp that was intended for a cheer, the regiment began its journey. The youth was pushed and jostled for a moment before he understood the move- ment at all, but directly he lunged ahead and began to run.

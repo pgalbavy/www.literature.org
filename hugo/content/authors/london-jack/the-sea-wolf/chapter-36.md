@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-36.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-36.html"
 ---
 
 For two days Maud and I ranged the sea and explored the beaches in search of the missing masts. But it was not till the third day that we found them, all of them, the shears included, and, of all perilous places, in the pounding surf of the grim south-western promontory. And how we worked! At the dark end of the first day we returned, exhausted, to our little cove, towing the mainmast behind us. And we had been compelled to row, in a dead calm, practically every inch of the way.

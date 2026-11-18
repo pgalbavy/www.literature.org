@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - Agony"
 weight: 48
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-48.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-48.html"
 ---
 
 The day that the deed of gift had been sent to the king, the cardinal caused himself to be transported to Vincennes. The king and the court followed him thither. The last flashes of this torch still cast splendor enough around to absorb all other lights in its rays. Besides, as it has been seen, the faithful satellite of his minister, young Louis XIV., marched to the last minute in accordance with his gravitation. The disease, as Guenaud had predicted, had become worse; it was no longer an attack of gout, it was an attack of death; then there was another thing which made that agony more agonizing still, - and that was the agitation brought into his mind by the donation he had sent to the king, and which, according to Colbert, the king ought to send back unaccepted to the cardinal. The cardinal had, as we have said, great faith in the predictions of his secretary; but the sum was a large one, and whatever might be the genius of Colbert, from time to time the cardinal thought to himself that the Theatin also might possibly have been mistaken, and that there was at least as much chance of his not being damned, as there was of Louis XIV. sending back his millions.

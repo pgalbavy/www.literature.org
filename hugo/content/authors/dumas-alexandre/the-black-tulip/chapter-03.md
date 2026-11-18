@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Pupil Of John De Witt"
 weight: 3
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-03.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-03.html"
 ---
 
 Whilst the clamour of the crowd in the square of Buytenhof, which grew more and more menacing against the two brothers, determined John de Witt to hasten the departure of his brother Cornelius, a deputation of burghers had gone to the Town-hall to demand the withdrawal of Tilly's horse.

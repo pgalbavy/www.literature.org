@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-20.html"
 ---
 
 As they were preparing to leave, Dorothy asked: "Can you tell us where there is a dark well?"

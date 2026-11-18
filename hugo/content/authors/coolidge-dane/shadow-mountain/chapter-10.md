@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Best Head In Town"
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-10.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-10.html"
 ---
 
 What was Wiley Holman up to? Virginia paced the floor in a very unloverlike mood; and at last she sat down and wrote a scathing letter to the assayer, demanding her assay at once. She also enclosed one dollar in advance to test the sample for gold and silver and then, as an afterthought, she enclosed another bill and told him to test it for copper, lead, and zinc. There was something in that rock--she knew it just as well as she knew that Wiley was in love with her, and this was no time to pinch dollars. For ten years and more they had stuck there in Keno, waiting and waiting for something to happen, but now things had come to such a pass that it was better to know even the worst. For if the mine was barren and Wiley, after all, was only trying in his dumb way to help, then she must pocket her pride and sell him her stock and go away and hide her head. But if the white quartz was rich--well, that would be different; there would be several things to explain.

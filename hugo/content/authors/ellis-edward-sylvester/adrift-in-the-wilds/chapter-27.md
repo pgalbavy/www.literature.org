@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Night Voyage"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-27.html"
 ---
 
 The indistinct object gradually took shape, and the boys then saw Shasta sitting in his small canoe, while directly behind him was Tim O'Rooney, his left hand extended backward and grasping the prow of his own boat, which was being towed by the Indian.

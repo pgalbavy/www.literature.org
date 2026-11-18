@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Driving Head-On"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-10.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-10.html"
 ---
 
 It was mid-afternoon when they began to pass through that series of suburbs which the city has flung like a single tentacle northward for a hundred miles along the eastern banks of the Hudson.

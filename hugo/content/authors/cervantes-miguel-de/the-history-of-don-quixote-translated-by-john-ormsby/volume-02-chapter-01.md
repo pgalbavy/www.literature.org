@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 1 - Of The Interview The Curate And The Barber Had With Don Quixote About His Malady"
 weight: 57
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-01.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-01.html"
 ---
 
 Cide Hamete Benengeli, in the Second Part of this history, and third sally of Don Quixote, says that the curate and the barber remained nearly a month without seeing him, lest they should recall or bring back to his recollection what had taken place. They did not, however, omit to visit his niece and housekeeper, and charge them to be careful to treat him with attention, and give him comforting things to eat, and such as were good for the heart and the brain, whence, it was plain to see, all his misfortune proceeded. The niece and housekeeper replied that they did so, and meant to do so with all possible care and assiduity, for they could perceive that their master was now and then beginning to show signs of being in his right mind. This gave great satisfaction to the curate and the barber, for they concluded they had taken the right course in carrying him off enchanted on the ox-cart, as has been described in the First Part of this great as well as accurate history, in the last chapter thereof. So they resolved to pay him a visit and test the improvement in his condition, although they thought it almost impossible that there could be any; and they agreed not to touch upon any point connected with knight-errantry so as not to run the risk of reopening wounds which were still so tender.

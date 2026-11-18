@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1"
 weight: 35
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-01.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-01.html"
 ---
 
 The car ran as far as Hayward's, but at Saxon's suggestion they got off at San Leandro.

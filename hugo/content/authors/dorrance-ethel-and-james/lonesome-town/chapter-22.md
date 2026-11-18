@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Beef On The Hoof"
 weight: 22
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-22.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-22.html"
 ---
 
 Often the entrances to Central Park had spanned a couple of thousand miles for Peter Pape and his “Friend Equus.” Now it seemed to do as much for the Montana bovine. In the expanses he sighted freedom. Off the spring breeze he breathed the joy of life. More riotously tossed his horns. Faster and harder pounded his hoofs in a fresh access of speed.

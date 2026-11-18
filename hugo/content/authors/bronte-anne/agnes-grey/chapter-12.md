@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Shower"
 weight: 12
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-12.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-12.html"
 ---
 
 THE next visit I paid to Nancy Brown was in the second week in March: for, though I had many spare minutes during the day, I seldom could look upon an hour as entirely my own; since, where everything was left to the caprices of Miss Matilda and her sister, there could be no order or regularity. Whatever occupation I chose, when not actually busied about them or their concerns, I had, as it were, to keep my loins girded, my shoes on my feet, and my staff in my hand; for not to be immediately forthcoming when called for, was regarded as a grave and inexcusable offence: not only by my pupils and their mother, but by the very servant, who came in breathless haste to call me, exclaiming, 'You're to go to the schoolroom DIRECTLY, mum, the young ladies is WAITING!!' Climax of horror! actually waiting for their governess!!!

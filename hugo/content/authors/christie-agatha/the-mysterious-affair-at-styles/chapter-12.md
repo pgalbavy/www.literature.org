@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Last Link"
 weight: 12
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-12.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-12.html"
 ---
 
 Poirot’s abrupt departure had intrigued us all greatly. Sunday morning wore away, and still he did not reappear. But about three o’clock a ferocious and prolonged hooting outside drove us to the window, to see Poirot alighting from a car, accompanied by Japp and Summerhaye. The little man was transformed. He radiated an absurd complacency. He bowed with exaggerated respect to Mary Cavendish.

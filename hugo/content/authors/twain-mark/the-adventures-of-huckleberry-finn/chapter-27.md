@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-27.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-27.html"
 ---
 
 I CREPT to their doors and listened; they was snoring. So I tiptoed along, and got down stairs all right. There warn't a sound anywheres. I peeped through a crack of the dining-room door, and see the men that was watching the corpse all sound asleep on their chairs. The door was open into the parlor, where the corpse was laying, and there was a candle in both rooms. I passed along, and the parlor door was open; but I see there warn't nobody in there but the remainders of Peter; so I shoved on by; but the front door was locked, and the key wasn't there. Just then I heard somebody coming down the stairs, back behind me. I run in the parlor and took a swift look around, and the only place I see to hide the bag was in the coffin. The lid was shoved along about a foot, showing the dead man's face down in there, with a wet cloth over it, and his shroud on. I tucked the moneybag in under the lid, just down beyond where his hands was crossed, which made me creep, they was so cold, and then I run back across the room and in behind the door.

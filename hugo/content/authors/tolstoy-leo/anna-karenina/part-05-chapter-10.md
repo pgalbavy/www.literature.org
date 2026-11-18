@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 10"
 weight: 134
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-10.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-10.html"
 ---
 
 The artist Mihailov was, as always, at work when the cards of Count Vronsky and Golenishtchev were brought to him. In the morning he had been working in his studio at his big picture. On getting home he flew into a rage with his wife for not having managed to put off the landlady, who had been asking for money.

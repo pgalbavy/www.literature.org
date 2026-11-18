@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Box Five"
 weight: 5
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-04.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-04.html"
 ---
 
 Armand Moncharmin wrote such voluminous Memoirs during the fairly long period of his co-management that we may well ask if he ever found time to attend to the affairs of the Opera otherwise than by telling what went on there. M. Moncharmin did not know a note of music, but he called the minister of education and fine arts by his Christian name, had dabbled a little in society journalism and enjoyed a considerable private income. Lastly, he was a charming fellow and showed that he was not lacking in intelligence, for, as soon as he made up his mind to be a sleeping partner in the Opera, he selected the best possible active manager and went straight to Firmin Richard.

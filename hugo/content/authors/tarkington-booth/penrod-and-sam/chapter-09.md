@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Reward Of Merit"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-09.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-09.html"
 ---
 
 "Penrod," said his mother, "what did you do with that loaf of bread Della says you took from the table?"

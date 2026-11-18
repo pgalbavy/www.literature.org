@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Party Of Search"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-05.html"
 ---
 
 When Nick Ribsam set out to find his missing sister Nellie, he made the search as thorough as possible.

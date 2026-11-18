@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 25 - Which Treats Of The Strange Things That Happened To The Stout Knight Of La Mancha In The Sierra Morena, And Of His Imitation Of The Penance Of Beltenebros"
 weight: 28
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-25.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-25.html"
 ---
 
 Don Quixote took leave of the goatherd, and once more mounting Rocinante bade Sancho follow him, which he having no ass, did very discontentedly. They proceeded slowly, making their way into the most rugged part of the mountain, Sancho all the while dying to have a talk with his master, and longing for him to begin, so that there should be no breach of the injunction laid upon him; but unable to keep silence so long he said to him:

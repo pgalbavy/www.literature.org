@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/romance/part-01-chapter-02.html"
+url: "/authors/conrad-joseph/romance/part-01-chapter-02.html"
 ---
 
 Between moonrise and sunset I was stumbling through the bracken of the little copse that was like a tuft of hair on the brow of the great white quarry. It was quite dark, in among the trees. I made the circuit of the copse, whistling softly my three bars of "Lillibulero." Then I plunged into it. The bracken underfoot rustled and rustled. I came to a halt. A little bar of light lay on the horizon in front of me, almost colourless. It was crossed again and again by the small fir-trunks that were little more than wands. A woodpigeon rose with a sudden crash of sound, flapping away against the branches. My pulse was dancing with delight—my heart, too. It was like a game of hide-and-seek, and yet it was life at last. Everything grew silent again and I began to think I had missed my time. Down below in the plain, a great way off, a dog was barking continuously. I moved forward a few paces and whistled. The glow of adventure began to die away. There was nothing at all—a little mystery of light on the tree-trunks.

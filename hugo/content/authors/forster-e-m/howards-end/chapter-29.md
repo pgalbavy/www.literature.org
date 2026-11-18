@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-29.html"
+url: "/authors/forster-e-m/howards-end/chapter-29.html"
 ---
 
 “Henry dear--” was her greeting.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-20.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-20.html"
 ---
 
 A COMPETENCY was what I wanted; a competency it was now my aim and resolve to secure; but never had I been farther from the mark. With August the school-year (l'annee scolaire) closed, the examinations concluded, the prizes were adjudged, the schools dispersed, the gates of all colleges, the doors of all pensionnats shut, not to be reopened till the beginning or middle of October. The last day of August was at hand, and what was my position? Had I advanced a step since the commencement of the past quarter? On the contrary, I had receded one. By renouncing my engagement as English master in Mdlle. Reuter's establishment, I had voluntarily cut off 20l. from my yearly income; I had diminished my 60l. per annum to 40l., and even that sum I now held by a very precarious tenure.

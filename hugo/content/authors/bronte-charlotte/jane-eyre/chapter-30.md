@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-30.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-30.html"
 ---
 
 The more I knew of the inmates of Moor House, the better I liked them. In a few days I had so far recovered my health that I could sit up all day, and walk out sometimes. I could join with Diana and Mary in all their occupations; converse with them as much as they wished, and aid them when and where they would allow me. There was a reviving pleasure in this intercourse, of a kind now tasted by me for the first time-the pleasure arising from perfect congeniality of tastes, sentiments, and principles.

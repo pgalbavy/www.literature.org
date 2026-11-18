@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Footsteps In The Darkness"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-32.html"
 ---
 
 The direct result of this exchange of shots was to make the two parties more cautious. Mickey and Fred kept further away from the camp-fire, which they suffered to die out gradually. There was really no need fot it, and, since its presence meant danger, it was only prudent to dispense with it altogether.

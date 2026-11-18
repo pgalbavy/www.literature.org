@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Wanderings"
 weight: 43
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-43.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-43.html"
 ---
 
 The light increased each moment, and Elwood Brandon soon saw the position in which he was placed. He had walked along the path and fallen abruptly off, alighting on a projection that ran along the edge of the ravine, and was of sufficient width to only comfortably hold him. Had he gone a yard forward he would have fallen over to another ledge, although this was not more than a dozen feet below. Indeed, his rifle had done this, and now lay on this broad band of earth and gravel, which here sloped so gradually down to the bottom of the ravine that it could be descended without difficulty.

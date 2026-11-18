@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Home Life Of Alexis Daubrecq"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-03.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-03.html"
 ---
 
 When Daubrecq the deputy came in from lunch on the day after the police had searched his house he was stopped by Clemence, his portress, who told him that she had found a cook who could be thoroughly relied on.

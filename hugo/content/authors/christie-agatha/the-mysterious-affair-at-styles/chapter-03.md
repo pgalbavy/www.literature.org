@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Night Of The Tragedy"
 weight: 3
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-03.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-03.html"
 ---
 
 To make this part of my story clear, I append the following plan of the first floor of Styles. The servants’ rooms are reached through the door B. They have no communication with the right wing, where the Inglethorps’ rooms were situated.

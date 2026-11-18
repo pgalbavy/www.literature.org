@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Silver Horn"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-23.html"
 ---
 
 During the next week, which they spent in journeying towards Vienna, they gave the Sign to three different persons at places which were on the way. In a village across the frontier in Bavaria they found a giant of an old man sitting on a bench under a tree before his mountain "Gasthaus" or inn; and when the four words were uttered, he stood up and bared his head as the guide had done. When Marco gave the Sign in some quiet place to a man who was alone, he noticed that they all did this and said their "God be thanked" devoutly, as if it were part of some religious ceremony. In a small town a few miles away he had to search some hours before he found a stalwart young shoemaker with bright red hair and a horseshoe-shaped scar on his forehead. He was not in his workshop when the boys first passed it, because, as they found out later, he had been climbing a mountain the day before, and had been detained in the descent because his companion had hurt himself.

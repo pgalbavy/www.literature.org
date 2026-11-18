@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Miss Ladd"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-18.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-18.html"
 ---
 
 Arriving at the cottage, Doctor Allday discovered a gentleman, who was just closing the garden gate behind him.

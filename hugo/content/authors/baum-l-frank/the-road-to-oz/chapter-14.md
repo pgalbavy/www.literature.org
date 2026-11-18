@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-14.html"
 ---
 
 They had not walked far across the flower-strewn meadows when they came upon a fine road leading toward the northwest and winding gracefully among the pretty yellow hills.

@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 5"
 weight: 58
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-05.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-05.html"
 ---
 
 B Company reached the training camp at S-- thirty-six men short: twenty-five they had buried on the voyage over, and eleven sick were left at the base hospital. The company was to be attached to a battalion which had already seen service, commanded by Lieutenant Colonel Scott. Arriving early in the morning, the officers reported at once to Headquarters. Captain Maxey must have suffered a shock when the Colonel rose from his desk to acknowledge his salute, then shook hands with them all around and asked them about their journey. The Colonel was not a very martial figure; short, fat, with slouching shoulders, and a lumpy back like a sack of potatoes. Though he wasn't much over forty, he was bald, and his collar would easily slip over his head without being unbuttoned. His little twinkling eyes and good-humoured face were without a particle of arrogance or official dignity.

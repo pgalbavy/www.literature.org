@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Plotters"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-01.html"
 ---
 
 Jim McGovern was poring over his lesson one afternoon in the Ashton public school, perplexed by the thought that unless he mastered the problem on which he was engaged he would be kept after the dismissal of the rest, when he was startled by the fall of a twisted piece of paper on his slate.

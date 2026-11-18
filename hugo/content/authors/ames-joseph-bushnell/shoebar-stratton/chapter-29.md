@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Creeping Shadows"
 weight: 29
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-29.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-29.html"
 ---
 
 With her back against the veranda pillar, Mary Thorne watched the group of mounted men canter down the slope, splash across the creek, and file briskly through the gate leading to middle pasture. Perhaps it would be more accurate to say that, for the most part, her glance followed one of them, and when the erect, jaunty, broad-shouldered figure on the big roan had disappeared, she gave a little sigh.

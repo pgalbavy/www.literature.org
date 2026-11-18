@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54"
 weight: 54
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-54.html"
+url: "/authors/dickens-charles/great-expectations/chapter-54.html"
 ---
 
 IT was one of those March days when the sun shines hot and the wind blows cold: when it is summer in the light, and winter in the shade. We had our pea-coats with us, and I took a bag. Of all my worldly possessions I took no more than the few necessaries that filled the bag. Where I might go, what I might do, or when I might return, were questions utterly unknown to me; nor did I vex my mind with them, for it was wholly set on Provis's safety. I only wondered for the passing moment, as I stopped at the door and looked back, under what altered circumstances I should next see those rooms, if ever.

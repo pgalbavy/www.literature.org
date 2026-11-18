@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 11"
 weight: 240
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-11.html"
 ---
 
 In the middle of this fresh tale Pierre was summoned to the commander in chief.

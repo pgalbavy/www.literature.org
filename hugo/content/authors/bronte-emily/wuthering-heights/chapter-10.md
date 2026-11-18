@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-10.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-10.html"
 ---
 
 A CHARMING introduction to a hermit's life! Four weeks' torture, tossing, and sickness! Oh, these bleak winds and bitter northern skies, and impassable roads, and dilatory country surgeons! And oh, this dearth of the human physiognomy! and, worse than all, the terrible intimation of Kenneth that I need not expect to be out of doors till spring!

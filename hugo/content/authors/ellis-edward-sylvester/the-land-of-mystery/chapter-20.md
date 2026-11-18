@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - At The Murhapa Village"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-20.html"
 ---
 
 The sun was half-way down the sky when the canoe containing the explorers, and accompanied by the smaller craft impelled by Ziffak, rounded a bend of the upper Xingu and came in sight of the village of the Murhapas.

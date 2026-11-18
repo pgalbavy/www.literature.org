@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Dainty China Country "
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-20.html"
 ---
 
 While the Woodman was making a ladder from wood which he found in the forest Dorothy lay down and slept, for she was tired by the long walk. The Lion also curled himself up to sleep and Toto lay beside him.

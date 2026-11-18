@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Magnificent Remedies"
 weight: 17
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-17.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-17.html"
 ---
 
 “DON’T want to bother you,” remarked the toddling baby, catching the hem of the other’s overcoat; “but if you could spare a minute!”

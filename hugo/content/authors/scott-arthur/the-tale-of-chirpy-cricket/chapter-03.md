@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Bumblebee Family"
 weight: 3
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-03.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-03.html"
 ---
 
 The farmyard was not the first place that Chirpy Cricket chose for his home. Before he dug himself a hole under the straw near the barn he had settled in the pasture. Although the cows seemed to think that the grass in the pasture belonged to them alone, Chirpy decided that there ought to be enough for him too, if he didn't eat too much.

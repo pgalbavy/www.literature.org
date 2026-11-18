@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Strange Visit--Ominous Signs"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-05.html"
 ---
 
 Melville Clarendon went up the short stairs three steps at a time, startled as much by the call of his sister as by anything that had taken place since the siege of the cabin began.

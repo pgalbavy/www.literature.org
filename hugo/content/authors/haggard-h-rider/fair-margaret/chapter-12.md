@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Father Henriques"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-12.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-12.html"
 ---
 
 The night came down swiftly, for a great stormcloud, in which jagged lightning played, blotted out the last rays of the sunk sun. Then, with rolling thunder and torrents of rain, the tempest burst over the sinking ship. The mariners could no longer see to steer, they knew not whither they were going, only the lessened seas told them that they had entered the harbour mouth. Presently the San Antonio struck upon a rock, and the shock of it threw Castell, who was bending over the senseless shape of Margaret, against the bulwarks and dazed him.

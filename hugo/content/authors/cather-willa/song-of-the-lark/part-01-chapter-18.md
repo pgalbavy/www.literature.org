@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-18.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-18.html"
 ---
 
 Mr. Kronborg was too fond of his ease and too sensible to worry his children much about religion. He was more sincere than many preachers, but when he spoke to his family about matters of conduct it was usually with a regard for keeping up appearances. The church and church work were discussed in the family like the routine of any other business. Sunday was the hard day of the week with them, just as Saturday was the busy day with the merchants on Main Street. Revivals were seasons of extra work and pressure, just as threshing-time was on the farms. Visiting elders had to be lodged and cooked for, the folding-bed in the parlor was let down, and Mrs. Kronborg had to work in the kitchen all day long and attend the night meetings.

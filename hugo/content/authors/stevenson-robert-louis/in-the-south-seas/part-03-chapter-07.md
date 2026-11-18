@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 7 - Husband And Wife"
 weight: 28
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-07.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-07.html"
 ---
 
 The trader accustomed to the manners of Eastern Polynesia has a lesson to learn among the Gilberts. The ridi is but a spare attire; as late as thirty years back the women went naked until marriage; within ten years the custom lingered; and these facts, above all when heard in description, conveyed a very false idea of the manners of the group. A very intelligent missionary described it (in its former state) as a ‘Paradise of naked women’ for the resident whites. It was at least a platonic Paradise, where Lothario ventured at his peril. Since 1860, fourteen whites have perished on a single island, all for the same cause, all found where they had no business, and speared by some indignant father of a family; the figure was given me by one of their contemporaries who had been more prudent and survived. The strange persistence of these fourteen martyrs might seem to point to monomania or a series of romantic passions; gin is the more likely key. The poor buzzards sat alone in their houses by an open case; they drank; their brain was fired; they stumbled towards the nearest houses on chance; and the dart went through their liver. In place of a Paradise the trader found an archipelago of fierce husbands and of virtuous women. ‘Of course if you wish to make love to them, it’s the same as anywhere else,’ observed a trader innocently; but he and his companions rarely so choose.

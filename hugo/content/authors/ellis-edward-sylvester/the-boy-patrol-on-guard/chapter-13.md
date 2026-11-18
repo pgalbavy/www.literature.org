@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Bit Of Detective Work"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-13.html"
 ---
 
 Less than half a mile farther brought the troop of Boy Scouts to the home of Elkanah Sisum, their Instructor in Woodcraft. Naturally he took the lead, with Scout Master Hall next and the youths straggling after them.

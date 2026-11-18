@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Revelation"
 weight: 18
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-18.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-18.html"
 ---
 
 The following day, the 29th of December, at six in the morning, the schooner set sail with a north-east wind, and this time her course was due south. The two succeeding days passed wholly without incident; neither land nor any sign of land was observed. The men on the Halbrahe took great hauls of fish, to their own satisfaction and ours. It was New Year's Day, 1840, four months and seventeen days since I had left the Kerguelens and two months and five days since the Halbrahe had sailed from the Falklands. The half-breed, between whom and myself an odd kind of tacit understanding subsisted, approached the bench on which I was sitting—the captain was in his cabin, and West was not in sight—with a plain intention of conversing with me. The subject may easily be guessed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-12.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-12.html"
 ---
 
 THE column that had butted stoutly at the obstacles in the roadway was barely out of the youth's sight before he saw dark waves of men come sweeping out of the woods and down through the fields. He knew at once that the steel fibers had been washed from their hearts. They were bursting from their coats and their equipments as from entanglements. They charged down upon him like terrified buffaloes.

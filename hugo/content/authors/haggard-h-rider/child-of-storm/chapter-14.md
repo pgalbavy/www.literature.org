@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Umbezi And The Blood Royal"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-14.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-14.html"
 ---
 
 After this I think that some of the Usutu came up, for it seemed to me that I heard Saduko say:

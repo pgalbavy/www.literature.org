@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4 - The \"Good Hope\""
 weight: 17
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-04.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-03-chapter-04.html"
 ---
 
 An hour thereafter, Dick was back at the Goat and Bagpipes, breaking his fast, and receiving the report of his messengers and sentries. Duckworth was still absent from Shoreby; and this was frequently the case, for he played many parts in the world, shared many different interests, and conducted many various affairs. He had founded that fellowship of the Black Arrow, as a ruined man longing for vengeance and money; and yet among those who knew him best, he was thought to be the agent and emissary of the great king-maker of England, Richard, Earl of Warwick.

@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 18"
 weight: 297
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-18.html"
 ---
 
 From the time he received this news to the end of the campaign all Kutuzov's activity was directed toward restraining his troops, by authority, by guile, and by entreaty, from useless attacks, maneuvers, or encounters with the perishing enemy. Dokhturov went to Malo-Yaroslavets, but Kutuzov lingered with the main army and gave orders for the evacuation of Kaluga- a retreat beyond which town seemed to him quite possible.

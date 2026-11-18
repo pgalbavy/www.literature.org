@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - An Exciting Day For Danny Meadow Mouse"
 weight: 21
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-21.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-21.html"
 ---
 
 *DANNY MEADOW MOUSE* started along one of his private little paths very early one morning. He was on his way to get a supply of a certain kind of grass-seed of which he is very fond. He had been thinking about that seed for some time and waiting for it to get ripe. Now it was just right, as he had found out the day before by a visit to the place where this particular grass grew. The only trouble was it grew a long way from Danny’s home, and to reach it he had to cross an open place where the grass was so short that he couldn’t make a path under it.

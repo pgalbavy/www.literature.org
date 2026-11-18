@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Fundevogel"
 weight: 14
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-14.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-14.html"
 ---
 
 There was once a forester who went into the forest to hunt, and as he entered it he heard a sound of screaming as if a little child were there. He followed the sound, and at last came to a high tree, and at the top of this a little child was sitting, for the mother had fallen asleep under the tree with the child, and a bird of prey had seen it in her arms, had flown down, snatched it away, and set it on the high tree.

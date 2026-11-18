@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A New Deal"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-09.html"
+url: "/authors/coolidge-dane/wunpost/chapter-09.html"
 ---
 
 The rush of burro-men to Hungry Bill's ranch followed close in Dusty Rhodes' wake, and some there were who came on foot; but they soon came stringing back, for it was a fine, large country and Hungry Bill was about as communicative as a rattlesnake. All he knew, or cared to know, was the price of corn and fruit, which he sold at Blackwater prices; and the search for Wunpost had only served to show to what lengths a man will go for revenge. In some mysterious way Wunpost had acquired a horse and mule, both sharp-shod for climbing over rocks, and he had dallied at Hungry Bill's until the first of the stampeders had come in sight on the Panamint trail. Then he had set out up the ridge, riding the horse and packing the mule, and even an Indian trailer had given out and quit without ever bringing them in sight of him again. He had led them such a chase that the hardiest came back satisfied, and they agreed that he could keep his old mine.

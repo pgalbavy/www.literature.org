@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Fight In The Cabin"
 weight: 12
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-12.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-12.html"
 ---
 
 “It strikes me,” Havens observed, as he sat at the little table in the screened-off corner of the Nancy’s cabin, gazing at the brutal features of Captain DeMott, the son of the old hag who had so deceived him. “It strikes me,” he repeated, “that you people have some strong motive for getting me out of the way.”

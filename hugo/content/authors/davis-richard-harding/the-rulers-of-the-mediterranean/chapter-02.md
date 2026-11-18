@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tangier"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-02.html"
+url: "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-02.html"
 ---
 
 A great many thousand years ago Hercules built the mountain of Abyla and its twin mountain which we call Gibraltar. It was supposed to mark the limits of the unknown world, and it would seem from casual inspection, as I suggested in the last chapter, that it serves the same purpose to this day. Men have crept into Africa and crept out again, like flies over a ceiling, and they have gained much renown at Africa's expense for having done so. They have built little towns along its coasts, and run little rocking, bumping railroads into its forests, and dragged launches over its cataracts, and partitioned it off among emperors and powers and trading companies, without having ventured into the countries they pretend to have subdued. But from Paul du Chaillu to W. A. Chanler, "the Last Explorer," as he has been called, just how much more do we know of Africa than did the Romans whose bridges still stand in Tangier?

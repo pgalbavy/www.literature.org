@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Hints For Those Who Want To Help"
 weight: 12
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-11.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-11.html"
 ---
 
 PARIS, January, 1916.

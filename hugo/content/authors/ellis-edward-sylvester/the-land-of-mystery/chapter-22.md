@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Ariel The Beautiful"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-22.html"
 ---
 
 It will be understood that during the interview described, the three white men stood near the front entrance to the royal apartment with their faces turned toward King Haffgo.

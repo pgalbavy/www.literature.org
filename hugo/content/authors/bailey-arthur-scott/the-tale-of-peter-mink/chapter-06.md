@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mr. Rabbit Is Worried"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-06.html"
 ---
 
 When Mr. Rabbit reached home, after Peter Mink's lecture, and told his wife about the money that had been collected for the poor boy whom Peter Mink knew, she asked:

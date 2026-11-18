@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Hunting Of The Man"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-11.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-11.html"
 ---
 
 IT came before my mind with an unreasonable hope of escape that the outer door of my room was still open to me. I was convinced now, absolutely assured, that Moreau had been vivisecting a human being. All the time since I had heard his name, I had been trying to link in my mind in some way the grotesque animalism of the islanders with his abominations; and now I thought I saw it all. The memory of his work on the transfusion of blood recurred to me. These creatures I had seen were the victims of some hideous experiment. These sickening scoundrels had merely intended to keep me back, to fool me with their display of confidence, and presently to fall upon me with a fate more horrible than death,--with torture; and after torture the most hideous degradation it is possible to conceive,--to send me off a lost soul, a beast, to the rest of their Comus rout.

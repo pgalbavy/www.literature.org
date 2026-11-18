@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-33.html"
+url: "/authors/austen-jane/mansfield-park/chapter-33.html"
 ---
 
 The conference was neither so short nor so conclusive as the lady had designed. The gentleman was not so easily satisfied. He had all the disposition to persevere that Sir Thomas could wish him. He had vanity, which strongly inclined him in the first place to think she did love him, though she might not know it herself; and which, secondly, when constrained at last to admit that she did know her own present feelings, convinced him that he should be able in time to make those feelings what he wished.

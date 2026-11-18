@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4"
 weight: 16
-aliases:
-  - "/authors/conrad-joseph/romance/part-03-chapter-04.html"
+url: "/authors/conrad-joseph/romance/part-03-chapter-04.html"
 ---
 
 One evening Carlos, after a silence of distress, had said, "There's nothing else for it. When the crisis comes, you must carry her off from this unhappiness and misery that hangs over her head. You must take her out of Cuba; there is no safety for her here."

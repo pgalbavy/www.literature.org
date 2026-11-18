@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Uncle Teddy"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-11.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-11.html"
 ---
 
 For a week Dan only moved from bed to sofa; a long week and a hard one, for the hurt foot was very painful at times, the quiet days were very wearisome to the active lad, longing to be out enjoying the summer weather, and especially difficult was it to be patient. But Dan did his best, and every one helped him in their various ways; so the time passed, and he was rewarded at last by hearing the doctor say, on Saturday morning,

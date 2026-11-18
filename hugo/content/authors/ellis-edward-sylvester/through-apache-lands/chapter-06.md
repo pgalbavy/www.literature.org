@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Two Scouts"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-06.html"
 ---
 
 The hunter was within a hundred yards or so of the clump of trees, when he suddenly checked his mustang, or rather the mustang checked himself, at the light of a camp fire, which all at once flashed out from among them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Way It Often Happens"
 weight: 20
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-20.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-20.html"
 ---
 
 Anne rose betimes the next morning and blithely greeted the fresh day, when the banners of the sunrise were shaken triumphantly across the pearly skies. Green Gables lay in a pool of sunshine, flecked with the dancing shadows of poplar and willow. Beyond the land was Mr. Harrison's wheatfield, a great, windrippled expanse of pale gold. The world was so beautiful that Anne spent ten blissful minutes hanging idly over the garden gate drinking the loveliness in.

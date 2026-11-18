@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 14"
 weight: 83
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-14.html"
 ---
 
 As he neared Petersburg, Alexey Alexandrovitch not only adhered entirely to his decision, but was even composing in his head the letter he would write to his wife. Going into the porter's room, Alexey Alexandrovitch glanced at the letters and papers brought from his office, and directed that they should be brought to him in his study.

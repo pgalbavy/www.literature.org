@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-26.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-26.html"
 ---
 
 "Take a cheer an' sit down, an' light a pipe--unless ye've got a cigar." The invitation came from the Honorable William Renshaw, circuit judge, seated in the same small chamber adjoining the court-room in Marlin Town, from which Kinnard Towers had issued orders on that afternoon of Big-meetin' time.

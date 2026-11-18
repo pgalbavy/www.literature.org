@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Incident Of The Letter"
 weight: 5
-aliases:
-  - "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-05.html"
+url: "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-05.html"
 ---
 
 It was late in the afternoon, when Mr. Utterson found his way to Dr. Jekyll’s door, where he was at once admitted by Poole, and carried down by the kitchen offices and across a yard which had once been a garden, to the building which was indifferently known as the laboratory or dissecting rooms. The doctor had bought the house from the heirs of a celebrated surgeon; and his own tastes being rather chemical than anatomical, had changed the destination of the block at the bottom of the garden. It was the first time that the lawyer had been received in that part of his friend’s quarters; and he eyed the dingy, windowless structure with curiosity, and gazed round with a distasteful sense of strangeness as he crossed the theatre, once crowded with eager students and now lying gaunt and silent, the tables laden with chemical apparatus, the floor strewn with crates and littered with packing straw, and the light falling dimly through the foggy cupola. At the further end, a flight of stairs mounted to a door covered with red baize; and through this, Mr. Utterson was at last received into the doctor’s cabinet. It was a large room fitted round with glass presses, furnished, among other things, with a cheval-glass and a business table, and looking out upon the court by three dusty windows barred with iron. The fire burned in the grate; a lamp was set lighted on the chimney shelf, for even in the houses the fog began to lie thickly; and there, close up to the warmth, sat Dr. Jekyll, looking deathly sick. He did not rise to meet his visitor, but held out a cold hand and bade him welcome in a changed voice.

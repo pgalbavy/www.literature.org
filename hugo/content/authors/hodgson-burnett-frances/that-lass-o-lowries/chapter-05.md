@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Outside The Hedge"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-05.html"
 ---
 
 Deeply as Anice was interested in Joan, she left her to herself. She did not go to see her, and still more wisely, she managed to hush in her father any awakening tendency toward parochial visits. But from Grace and Fergus Derrick she heard much of her, and through Grace she contrived to convey work and help to Liz, and encouragement to her protectress. From what source the assistance came, Joan did not know, and she was not prone to ask questions.

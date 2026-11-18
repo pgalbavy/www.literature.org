@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - In The Charnel House"
 weight: 21
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-20.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-20.html"
 ---
 
 *THE* recital which follows is the integral reproduction of what came out of the mouth of Théophraste while plunged in hypnotic sleep, from the moment that he submitted to the torture until he died. This part is of the highest importance, not only for the experimental spirit of science, but for history, for it destroys the legend of the wheel and shows to us, in an indisputable fashion, the real death of Cartouche. I have not found this part stored in the oaken chest, but in the papers and statements which have been read in the Spiritual Congress of 1889. It is all from M. Eliphaste’s hand.

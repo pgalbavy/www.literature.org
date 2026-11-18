@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Return Of Ulysses"
 weight: 12
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-12.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-12.html"
 ---
 
 When it began to grow dark, the Rat, with an air of excitement and mystery, summoned them back into the parlour, stood each of them up alongside of his little heap, and proceeded to dress them up for the coming expedition. He was very earnest and thorough-going about it, and the affair took quite a long time. First, there was a belt to go round each animal, and then a sword to be stuck into each belt, and then a cutlass on the other side to balance it. Then a pair of pistols, a policeman's truncheon, several sets of handcuffs, some bandages and sticking-plaster, and a flask and a sandwich-case. The Badger laughed good-humouredly and said, "All right, Ratty! It amuses you and it doesn't hurt me. I'm going to do all I've got to do with this here stick." But the Rat only said, "Please, Badger. You know I shouldn't like you to blame me afterwards and say I had forgotten anything!"

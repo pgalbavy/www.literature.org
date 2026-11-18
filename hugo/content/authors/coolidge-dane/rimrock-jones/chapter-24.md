@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The New Year"
 weight: 24
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-24.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-24.html"
 ---
 
 A crafty-eyed lawyer on an East-side street told Rimrock all he needed to know--a summons in equity could not be served outside the bounds of the state. And so, a year after his triumphal arrival, Rimrock Jones left gay New York. He slipped out of town with a mysterious swiftness that baffled certain officers of the court, but, though Jepson watched the trains in something approaching a panic, he did not drop off at Gunsight. Mary Fortune watched the trains, too, though with different motives and hopes, and when the last day dawned and no Rimrock appeared she went off by herself on the desert.

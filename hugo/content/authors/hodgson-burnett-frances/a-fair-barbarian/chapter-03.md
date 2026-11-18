@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - L'Argentville"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-03.html"
 ---
 
 Miss Belinda sat, looking at her niece, with a sense of being at once stunned and fascinated. To see a creature so young, so pretty, so luxuriously splendid, and at the same time so simply and completely at ease with herself and her surroundings, was a revelation quite beyond her comprehension. The best-bred and nicest girls Slowbridge could produce were apt to look a trifle conscious and timid when they found themselves attired in the white muslin and floral decorations; but this slender creature sat in her gorgeous attire, her train flowing over the modest carpet, her rings flashing, her ear-pendants twinkling, apparently entirely oblivious of, or indifferent to, the fact that all her belongings were sufficiently out of place to be startling beyond measure.

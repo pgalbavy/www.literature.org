@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Instinct"
 weight: 10
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-08.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-08.html"
 ---
 
 Instincts comparable with habits, but different in their origin -- Instincts graduated -- Aphides and ants -- Instincts variable -- Domestic instincts, their origin -- Natural instincts of the cuckoo, molothrus, ostrich, and parasitic bees -- Slave-making ants -- Hive-bee, its cell-making instinct -- Changes of instinct and structure not necessarily simultaneous -- Difficulties of the theory of the Natural Selection of instincts -- Neuter or sterile insects -- Summary.

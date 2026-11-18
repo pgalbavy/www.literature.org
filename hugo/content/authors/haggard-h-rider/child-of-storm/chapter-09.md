@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Allan Returns To Zululand"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-09.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-09.html"
 ---
 
 A whole year had gone by, in which I did, or tried to do, various things that have no connection with this story, when once more I found myself in Zululand--at Umbezi’s kraal indeed. Hither I had trekked in fulfilment of a certain bargain, already alluded to, that was concerned with ivory and guns, which I had made with the old fellow, or, rather, with Masapo, his son-in-law, whom he represented in this matter. Into the exact circumstances of that bargain I do not enter, since at the moment I cannot recall whether I ever obtained the necessary permit to import those guns into Zululand, although now that I am older I earnestly hope that I did so, since it is wrong to sell weapons to natives that may be put to all sorts of unforeseen uses.

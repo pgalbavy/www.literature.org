@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Return To Life"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-11.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-11.html"
 ---
 
 My first remembrance when I began to recover my senses was the remembrance of Pain--agonizing pain, as if every nerve in my body were being twisted and torn out of me. My whole being writhed and quivered under the dumb and dreadful protest of Nature against the effort to recall me to life. I would have given worlds to be able to cry out--to entreat the unseen creatures about me to give me back to death. How long that speechless agony held me I never knew. In a longer or shorter time there stole over me slowly a sleepy sense of relief. I heard my own labored breathing. I felt my hands moving fee bly and mechanically, like the hands of a baby. I faintly opened my eyes and looked round me--as if I had passed through the ordeal of death, and had awakened to new senses in a new world.

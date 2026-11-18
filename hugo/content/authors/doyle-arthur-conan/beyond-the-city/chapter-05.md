@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Naval Conquest"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-05.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-05.html"
 ---
 
 It was the habit of the Doctor and the Admiral to accompany each other upon a morning ramble between breakfast and lunch. The dwellers in those quiet tree-lined roads were accustomed to see the two figures, the long, thin, austere seaman, and the short, bustling, tweed-clad physician, pass and repass with such regularity that a stopped clock has been reset by them. The Admiral took two steps to his companion's three, but the younger man was the quicker, and both were equal to a good four and a half miles an hour.

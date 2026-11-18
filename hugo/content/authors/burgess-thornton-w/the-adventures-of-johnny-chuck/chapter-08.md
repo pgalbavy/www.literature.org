@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Johnny Has Another Adventure"
 weight: 8
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-08.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-08.html"
 ---
 
 Johnny Chuck lay stretched out on the cool, soft grass of the Green Meadows, panting for breath. He was very tired and very sore. His face was scratched and bitten. His clothes were torn, and he smarted dreadfully in a dozen places. But still Johnny Chuck was happy. When he raised his head to look, he could see a gray old Chuck limping off towards the Old Pasture. Once in a while the gray old Chuck would turn his head and show his teeth, but he kept right on towards the Old Pasture. Johnny Chuck smiled.

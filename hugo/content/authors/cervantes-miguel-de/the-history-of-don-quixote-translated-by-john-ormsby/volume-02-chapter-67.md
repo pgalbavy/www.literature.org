@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 67 - Of The Resolution Don Quixote Formed To Turn Shepherd And Take To A Life In The Fields While The Year For Which He Had Given His Word Was Running Its Course; With Other Events Truly Delectable And Happy"
 weight: 123
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-67.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-67.html"
 ---
 
 If a multitude of reflections used to harass Don Quixote before he had been overthrown, a great many more harassed him since his fall. He was under the shade of a tree, as has been said, and there, like flies on honey, thoughts came crowding upon him and stinging him. Some of them turned upon the disenchantment of Dulcinea, others upon the life he was about to lead in his enforced retirement. Sancho came up and spoke in high praise of the generous disposition of the lacquey Tosilos.

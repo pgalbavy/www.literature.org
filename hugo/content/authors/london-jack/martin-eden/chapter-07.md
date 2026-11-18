@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-07.html"
+url: "/authors/london-jack/martin-eden/chapter-07.html"
 ---
 
 A week of heavy reading had passed since the evening he first met Ruth Morse, and still he dared not call. Time and again he nerved himself up to call, but under the doubts that assailed him his determination died away. He did not know the proper time to call, nor was there any one to tell him, and he was afraid of committing himself to an irretrievable blunder. Having shaken himself free from his old companions and old ways of life, and having no new companions, nothing remained for him but to read, and the long hours he devoted to it would have ruined a dozen pairs of ordinary eyes. But his eyes were strong, and they were backed by a body superbly strong. Furthermore, his mind was fallow. It had lain fallow all his life so far as the abstract thought of the books was concerned, and it was ripe for the sowing. It had never been jaded by study, and it bit hold of the knowledge in the books with sharp teeth that would not let go.

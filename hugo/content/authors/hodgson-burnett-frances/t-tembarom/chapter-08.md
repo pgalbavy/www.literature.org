@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-08.html"
 ---
 
 There was a slight awkwardness even to Tembarom in entering the dining-room that evening. He had not seen his fellow boarders, as his restless night had made him sleep later than usual. But Mrs. Bowse had told him of the excitement he had caused.

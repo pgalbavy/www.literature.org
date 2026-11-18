@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-11.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-11.html"
 ---
 
 Little had Mrs. Dashwood or her daughters imagined when they first came into Devonshire, that so many engagements would arise to occupy their time as shortly presented themselves, or that they should have such frequent invitations and such constant visitors as to leave them little leisure for serious employment. Yet such was the case. When Marianne was recovered, the schemes of amusement at home and abroad, which Sir John had been previously forming, were put into execution. The private balls at the park then began; and parties on the water were made and accomplished as often as a showery October would allow. In every meeting of the kind Willoughby was included; and the ease and familiarity which naturally attended these parties were exactly calculated to give increasing intimacy to his acquaintance with the Dashwoods, to afford him opportunity of witnessing the excellencies of Marianne, of marking his animated admiration of her, and of receiving, in her behaviour to himself, the most pointed assurance of her affection.

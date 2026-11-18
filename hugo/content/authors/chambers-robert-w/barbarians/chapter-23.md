@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Madam Death"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-23.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-23.html"
 ---
 
 There was no reply, because the young man was hanging out over his window sill in the darkness trying to switch away, from her closed window below, the big, clattering Death’s Head moth which obstinately and persistently fluttered there.

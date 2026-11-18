@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - It Might Have Been Very Sweet"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-14.html"
 ---
 
 Lisbeth looked out into the garden, where the two stood together, Georgie blushing and smiling, as fresh and flower-like herself as any of Miss Clarissa’s many blossoms, Hector talking to her eagerly, his eyes full of pleasure in her beauty and youth.

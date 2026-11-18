@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Strange Man's Arrival"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-01.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-01.html"
 ---
 
 The stranger came early in February one wintry day, through a biting wind and a driving snow, the last snowfall of the year, over the down, walking as it seemed from Bramblehurst railway station and carrying a little black portmanteau in his thickly gloved hand. He was wrapped up from head to foot, and the brim of his soft felt hat hid every inch of his face but the shiny tip of his nose; the snow had piled itself against his shoulders and chest, and added a white crest to the burden he carried. He staggered into the Coach and Horses, more dead than alive as it seemed, and flung his portmanteau down. "A fire," he cried, "in the name of human charity! A room and a fire!" He stamped and shook the snow from off himself in the bar, and followed Mrs. Hall into her guest parlour to strike his bargain. And with that much introduction, that and a ready acquiescence to terms and a couple of sovereigns flung upon the table, he took up his quarters in the inn.

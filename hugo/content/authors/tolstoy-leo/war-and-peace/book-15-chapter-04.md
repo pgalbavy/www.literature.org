@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 4"
 weight: 321
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-04.html"
 ---
 
 After the encounter at Vyazma, where Kutuzov had been unable to hold back his troops in their anxiety to overwhelm and cut off the enemy and so on, the farther movement of the fleeing French, and of the Russians who pursued them, continued as far as Krasnoe without a battle. The flight was so rapid that the Russian army pursuing the French could not keep up with them; cavalry and artillery horses broke down, and the information received of the movements of the French was never reliable.

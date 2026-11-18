@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Jack And Hay-Uta"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-19.html"
 ---
 
 Deerfoot's survey of the opposite shore was ended; but whether it was satisfactory to himself or not, could be learned only by questioning him. Jack Carleton took good care not to do that. He had never seen the young Shawanoe so reserved, and having once been denied the knowledge he sought, he left his friend to work in his own way.

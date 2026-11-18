@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Mr. Coulson Is Indiscreet"
 weight: 18
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-18.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-18.html"
 ---
 
 On the following morning Mr. Coulson received what he termed his mail from America. Locked in his room on the fifth floor of the hotel, he carefully perused the contents of several letters. A little later he rang and ordered his bill. At four o'clock he left the Gare du Nord for London.

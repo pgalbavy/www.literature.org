@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Camera Work In The Jungle"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-14.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-14.html"
 ---
 
 The completed cage, with Gipsy behind the bars, framed a spectacle sufficiently thrilling and panther-like. Gipsy raved, "spat", struck virulently at taunting fingers, turned on his wailing siren for minutes at a time, and he gave his imitation of a dromedary almost continuously. These phenomena could be intensified in picturesqueness, the boys discovered, by rocking the cage a little, tapping it with a hammer, or raking the bars with a stick. Altogether, Gipsy was having a lively afternoon.

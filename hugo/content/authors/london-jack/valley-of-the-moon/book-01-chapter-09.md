@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-09.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-09.html"
 ---
 
 Sunday morning Saxon was beforehand in getting ready, and on her return to the kitchen from her second journey to peep through the front windows, Sarah began her customary attack.

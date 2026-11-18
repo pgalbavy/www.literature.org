@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-03.html"
 ---
 
 Anna Pavlovna's reception was in full swing. The spindles hummed steadily and ceaselessly on all sides. With the exception of the aunt, beside whom sat only one elderly lady, who with her thin careworn face was rather out of place in this brilliant society, the whole company had settled into three groups. One, chiefly masculine, had formed round the abbe. Another, of young people, was grouped round the beautiful Princess Helene, Prince Vasili's daughter, and the little Princess Bolkonskaya, very pretty and rosy, though rather too plump for her age. The third group was gathered round Mortemart and Anna Pavlovna.

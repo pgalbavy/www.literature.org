@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-23.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-23.html"
 ---
 
 'I shall never re-establish myself,' said Siegmund as he closed behind him the dining-room door and went upstairs in the dark. 'I am a family criminal. Beatrice might come round, but the children's insolent judgement is too much. And I am like a dog that creeps round the house from which it escaped with joy. I have nowhere else to go. Why did I come back? But I am sleepy. I will not bother tonight.'

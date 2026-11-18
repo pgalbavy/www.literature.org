@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-06.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-06.html"
 ---
 
 Emma could not feel a doubt of having given Harriet's fancy a proper direction and raised the gratitude of her young vanity to a very good purpose, for she found her decidedly more sensible than before of Mr. Elton's being a remarkably handsome man, with most agreeable manners; and as she had no hesitation in following up the assurance of his admiration by agreeable hints, she was soon pretty confident of creating as much liking on Harriet's side, as there could be any occasion for. She was quite convinced of Mr. Elton's being in the fairest way of falling in love, if not in love already. She had no scruple with regard to him. He talked of Harriet, and praised her so warmly, that she could not suppose any thing wanting which a little time would not add. His perception of the striking improvement of Harriet's manner, since her introduction at Hartfield, was not one of the least agreeable proofs of his growing attachment.

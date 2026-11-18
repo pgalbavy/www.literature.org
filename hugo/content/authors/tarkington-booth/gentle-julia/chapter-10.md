@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-10.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-10.html"
 ---
 
 Now August came, that florid lazy month when mid-summer dawdles along in trailing greeneries, and the day is like some jocund pagan, all flushed and asleep, with dripping beard rosy in a wine bowl of fat vine leaves. Yet, in this languorous time there may befall a brisker night, cool and lively as an intrusive boy—a night made for dancing. On such a night a hasty thought might put it as desirable that all the world should be twenty-two years old and in love, like Noble Dill.

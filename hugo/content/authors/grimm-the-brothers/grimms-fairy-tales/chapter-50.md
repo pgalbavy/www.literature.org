@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - The Seven Ravens"
 weight: 50
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-50.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-50.html"
 ---
 
 There was once a man who had seven sons, and last of all one daughter. Although the little girl was very pretty, she was so weak and small that they thought she could not live; but they said she should at once be christened.

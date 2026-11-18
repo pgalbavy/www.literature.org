@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5"
 weight: 24
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-05.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-05.html"
 ---
 
 When Frank Shabata came in from work at five o'clock that evening, old Moses Marcel, Raoul's father, telephoned him that Amedee had had a seizure in the wheatfield, and that Doctor Paradis was going to operate on him as soon as the Hanover doctor got there to help. Frank dropped a word of this at the table, bolted his supper, and rode off to Sainte-Agnes, where there would be sympathetic discussion of Amedee's case at Marcel's saloon.

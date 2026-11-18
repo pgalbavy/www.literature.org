@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Conflict"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-17.html"
 ---
 
 Each kind affection nature gives  

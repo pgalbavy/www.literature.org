@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-08.html"
+url: "/authors/london-jack/martin-eden/chapter-08.html"
 ---
 
 Several weeks went by, during which Martin Eden studied his grammar, reviewed the books on etiquette, and read voraciously the books that caught his fancy. Of his own class he saw nothing. The girls of the Lotus Club wondered what had become of him and worried Jim with questions, and some of the fellows who put on the glove at Riley's were glad that Martin came no more. He made another discovery of treasure-trove in the library. As the grammar had shown him the tie-ribs of language, so that book showed him the tie-ribs of poetry, and he began to learn metre and construction and form, beneath the beauty he loved finding the why and wherefore of that beauty. Another modern book he found treated poetry as a representative art, treated it exhaustively, with copious illustrations from the best in literature. Never had he read fiction with so keen zest as he studied these books. And his fresh mind, untaxed for twenty years and impelled by maturity of desire, gripped hold of what he read with a virility unusual to the student mind.

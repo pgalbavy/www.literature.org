@@ -1,8 +1,7 @@
 ---
 title: "Chapter 68"
 weight: 68
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-68.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-68.html"
 ---
 
 "All thoughts, all passions, all delights, Whatever stirs this mortal frame, All are but ministers of Love, And feed his sacred flame." - COLERIDGE.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-14.html"
 ---
 
 Leaving the grove where they had slept, the Frogman and the Cookie Cook turned to the east to seek another house, and after a short walk came to one where the people received them very politely. The children stared rather hard at the big, pompous Frogman, but the woman of the house, when Cayke asked for something to eat, at once brought them food and said they were welcome to it. "Few people in need of help pass this way," she remarked, "for the Winkies are all prosperous and love to stay in their own homes. But perhaps you are not a Winkie," she added.

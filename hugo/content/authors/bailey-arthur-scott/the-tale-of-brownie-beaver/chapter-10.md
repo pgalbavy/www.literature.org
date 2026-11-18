@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Holiday"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-10.html"
 ---
 
 There was great rejoicing in the little village in the pond when Brownie Beaver returned with the good news that there would be no more hunting and fishing. And when old Grandaddy Beaver said that everybody ought to take a holiday to celebrate the occasion, all the villagers said it was a fine idea.

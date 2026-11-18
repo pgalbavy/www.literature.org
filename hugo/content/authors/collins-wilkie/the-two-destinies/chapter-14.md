@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mrs. Van Brandt At Home"
 weight: 15
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-14.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-14.html"
 ---
 
 As I lifted my hand to ring the house bell, the door was opened from within, and no less a person than Mr. Van Brandt himself stood before me. He had his hat on. We had evidently met just as he was going out.

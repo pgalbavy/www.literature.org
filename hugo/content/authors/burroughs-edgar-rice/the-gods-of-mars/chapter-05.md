@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Corridors of Peril"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-05.html"
 ---
 
 How long I slept upon the floor of the storeroom I do not know, but it must have been many hours.

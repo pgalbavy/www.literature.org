@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 14 - Wherein Are Inserted The Despairing Verses Of The Dead Shepherd, Together With Other Incidents Not Looked For"
 weight: 17
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-14.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-14.html"
 ---
 
 *THE LAY OF CHRYSOSTOM*

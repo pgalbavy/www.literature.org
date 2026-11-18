@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-30.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-30.html"
 ---
 
 Granet, on his return to Sackville Street, paid the taxicab driver, ascended the stairs and let himself into his rooms with very much the air of a man who has passed through a dream. A single glance around, however, brought him vivid realisations of his unwelcome visitor. The little plate of sandwiches, half finished, the partly emptied bottle of wine, were still there. One of her gloves lay in the corner of the easy-chair. He picked it up, drew it for a moment through his fingers, then crushed it into a ball and flung it into the fire. Jarvis, who had heard him enter, came from one of the back rooms.

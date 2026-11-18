@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/buchan-john/huntingtower/prologue.html"
+url: "/authors/buchan-john/huntingtower/prologue.html"
 ---
 
 TO

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Conclusion"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-12.html"
 ---
 
 They come!—be firm—in silence rally! The Long Knives our retreat have found! Hark! their tramp is in the valley, And they hem the forest round! The burthened boughs with pale scouts quiver, The echoing hills tumultuous ring, While, across the eddying river, Their barks, like foaming war-steeds, spring, The bloodhounds darken land and water, They come—like buffaloes for slaughter. —G. P. *MORRIS*.

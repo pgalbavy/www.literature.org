@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Under Tropical Stars"
 weight: 11
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-11.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-11.html"
 ---
 
 The manager glanced at the millionaire’s startled face for a moment and then asked, his voice showing sympathy rather than curiosity:

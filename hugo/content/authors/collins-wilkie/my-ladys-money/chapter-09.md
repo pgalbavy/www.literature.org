@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-09.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-09.html"
 ---
 
 THE next day, Mr. Troy (taking Robert Moody with him as a valuable witness) rang the bell at the mean and dirty lodging-house in which Old Sharon received the clients who stood in need of his advice.

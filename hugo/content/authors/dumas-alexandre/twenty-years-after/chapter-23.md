@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - One Of The Forty Methods Of Escape Of The Duc De Beaufort"
 weight: 23
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-23.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-23.html"
 ---
 
 Meanwhile time was passing on for the prisoner, as well as for those who were preparing his escape; only for him it passed more slowly. Unlike other men, who enter with ardor upon a perilous resolution and grow cold as the moment of execution approaches, the Duc de Beaufort, whose buoyant courage had become a proverb, seemed to push time before him and sought most eagerly to hasten the hour of action. In his escape alone, apart from his plans for the future, which, it must be admitted, were for the present sufficiently vague and uncertain, there was a beginning of vengeance which filled his heart. In the first place his escape would be a serious misfortune to Monsieur de Chavigny, whom he hated for the petty persecutions he owed to him. It would be a still worse affair for Mazarin, whom he execrated for the greater offences he had committed. It may be observed that there was a proper proportion in his sentiments toward the governor of the prison and the minister - toward the subordinate and the master.

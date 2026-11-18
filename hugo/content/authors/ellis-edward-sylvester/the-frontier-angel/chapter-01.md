@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Night Before The Departure"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-01.html"
 ---
 
 IN the western part of Pennsylvania, near the commencement of the Ohio river, stands a small town, which, at the close of the last century, numbered about thirty dwellings. Although properly a border settlement at the time mentioned, there were so many others beyond, that it was hardly regarded as being in the "Mighty West." The inhabitants were mostly farmers, possessed of large and beautiful farms, who commenced their labors in the morning, and retired to rest in the evening, without much fear of the molestation of their savage brethren. True, a few years previous, the latter had committed murders and depredations even farther east than this, and the settlers never allowed themselves fully to give way to an undue sense of security. But, unless a most unexpected triumph should crown the struggles of the Indians, there was little occasion for apprehension upon the part of the whites.

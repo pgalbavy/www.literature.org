@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Hunter Loses His Temper"
 weight: 18
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-18.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-18.html"
 ---
 
 The hunter, hidden near the pond of Paddy the Beaver, chuckled silently. That is to say, he laughed without making any sound. The hunter thought the warning of Mr. and Mrs. Quack by Sammy Jay was a great joke on Reddy. To tell the truth, he was very much pleased. As you know, he wanted those Ducks himself. He suspected that they would stay in that little pond for some days, and he planned to return there and shoot them after he had got Lightfoot the Deer. He wanted to get Lightfoot first, and he knew that to shoot at anything else might spoil his chance of getting a shot at Lightfoot.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-02.html"
 ---
 
 South of the armory of Westminster Palace lay the gardens, and here, on the third day following the King's affront to De Vac, might have been a seen a black-haired woman gowned in a violet cyclas, richly embroidered with gold about the yoke and at the bottom of the loose-pointed sleeves, which reached almost to the similar bordering on the lower hem of the garment. A richly wrought leathern girdle, studded with precious stones, and held in place by a huge carved buckle of gold, clasped the garment about her waist so that the upper portion fell outward over the girdle after the manner of a blouse. In the girdle was a long dagger of beautiful workmanship. Dainty sandals encased her feet, while a wimple of violet silk bordered in gold fringe, lay becomingly over her head and shoulders.

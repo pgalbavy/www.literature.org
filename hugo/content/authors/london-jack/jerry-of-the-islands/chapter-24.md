@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-24.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-24.html"
 ---
 
 When the Ariel cleared from Malu, on the north-west coast of Malaita, Malaita sank down beneath the sea-rim astern and, so far as Jerry's life was concerned, remained sunk for ever--another vanished world, that, in his consciousness, partook of the ultimate nothingness that had befallen Skipper. For all Jerry might have known, though he pondered it not, Malaita was a universe, beheaded and resting on the knees of some brooding lesser god, himself vastly mightier than Bashti whose knees bore the brooding weight of Skipper's sun-dried, smoke-cured head, this lesser god vexed and questing, feeling and guessing at the dual twin-mysteries of time and space and of motion and matter, above, beneath, around, and beyond him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Fred Linden Awakens To An Alarming Fact"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-33.html"
 ---
 
 The approach of the cyclone was attended by an appalling roar, and a mass of branches and trees flying through the air, which warned the boys of their danger.

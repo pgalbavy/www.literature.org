@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Out-Doors On A Dark Night"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-16.html"
 ---
 
 In the meantime Jo Stinger, the veteran frontiersman, had not found the "plain sailing" which he anticipated.

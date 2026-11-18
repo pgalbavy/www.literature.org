@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - At The Sign Of Mercury"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-08.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-08.html"
 ---
 
 To Madame Daniel, La Roncière, near Bassicourt.

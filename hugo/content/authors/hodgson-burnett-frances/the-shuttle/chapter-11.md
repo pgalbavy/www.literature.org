@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - “I Thought You Had All Forgotten.”"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-11.html"
 ---
 
 As, after a singular half hour spent among the bracken under the trees, they began their return to the house, Bettina felt that her sense of adventure had altered its character. She was still in the midst of a remarkable sort of exploit, which might end anywhere or in anything, but it had become at once more prosaic in detail and more intense in its significance. What its significance might prove likely to be when she faced it, she had not known, it is true. But this was different from--from anything. As they walked up the sun-dappled avenue she kept glancing aside at Rosy, and endeavouring to draw useful conclusions. The poor girl's air of being a plain, insignificant frump, long past youth, struck an extraordinary and, for the time, unexplainable note. Her ill-cut, out-of-date dress, the cheap suit of the hunchbacked boy, who limped patiently along, helped by his crutch, suggested possible explanations which were without doubt connected with the thought which had risen in Bettina's mind, as she had been driven through the broken-hinged entrance gate. What extraordinary disposal was being made of Rosy's money? But her each glance at her sister also suggested complication upon complication.

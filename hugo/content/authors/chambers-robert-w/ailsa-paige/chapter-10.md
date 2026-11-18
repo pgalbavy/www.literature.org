@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-10.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-10.html"
 ---
 
 Her hatred and horror of him gave her no peace. Angry, incensed, at moments almost beside herself with grief and shame and self-contempt, she awaited the letter which he must write—the humble and hopeless effort for pardon which she never, never would answer or even in her own soul grant.

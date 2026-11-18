@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - Billy's First Command"
 weight: 26
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-08.html"
 ---
 
 AND so it was that having breakfasted in the morning Bridge and Miguel started downward toward the valley protected by an escort under Captain Billy Byrne. An old service jacket and a wide-brimmed hat, both donated by brother officers, constituted Captain Byrne's uniform. His mount was the largest that the picket line of Pesita's forces could produce. Billy loomed large amongst his men.

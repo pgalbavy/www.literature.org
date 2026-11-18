@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Busybodies"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-04.html"
 ---
 
 LITTLE Mrs. Ladybug said that she wished Betsy Butterfly no ill luck. But she thought that perhaps it would have been a good thing for her if Johnnie Green had caught her and put her in his collection.

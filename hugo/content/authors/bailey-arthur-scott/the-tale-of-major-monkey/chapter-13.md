@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Major Hesitates"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-13.html"
 ---
 
 Major Monkey's army soon became known far and wide. Its fame reached beyond Pleasant Valley, to the other side of Blue Mountain. And a good many persons who had been in the habit of making excursions into the valley now and then began to think that it was a good place to avoid.

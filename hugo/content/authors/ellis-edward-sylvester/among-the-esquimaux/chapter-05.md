@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Icy Couch"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-05.html"
 ---
 
 By this time the sailor felt that he had forgotten himself in the agitation caused by the loss of the boat. Although he might see the dark future with clearer vision than his young friends, it was his duty to keep their sight veiled as long as he could. Time enough to face the terrors and their direful consequences when the possibility of avoiding them no longer existed.

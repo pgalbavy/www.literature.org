@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Rector"
 weight: 14
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-14.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-14.html"
 ---
 
 THE following day was as fine as the preceding one. Soon after breakfast Miss Matilda, having galloped and blundered through a few unprofitable lessons, and vengeably thumped the piano for an hour, in a terrible humour with both me and it, because her mamma would not give her a holiday, had betaken herself to her favourite places of resort, the yards, the stables, and the dog-kennels; and Miss Murray was gone forth to enjoy a quiet ramble with a new fashionable novel for her companion, leaving me in the schoolroom hard at work upon a water-colour drawing which I had promised to do for her, and which she insisted upon my finishing that day.

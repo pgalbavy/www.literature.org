@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-21.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-21.html"
 ---
 
 That morning and noon had been warm, though the stirrings of a feeble breeze made weather not flagrantly intemperate; but at about three o'clock in the afternoon there came out of the southwest a heat like an affliction sent upon an accursed people, and the air was soon dead of it. Dripping negro ditch-diggers whooped with satires praising hell and hot weather, as the tossing shovels flickered up to the street level, where sluggish male pedestrians carried coats upon hot arms, and fanned themselves with straw hats, or, remaining covered, wore soaked handkerchiefs between scalp and straw. Clerks drooped in silent, big department stores, stenographers in offices kept as close to electric fans as the intervening bulk of their employers would let them; guests in hotels left the lobbies and went to lie unclad upon their beds; while in hospitals the patients murmured querulously against the heat, and perhaps against some noisy motorist who strove to feel the air by splitting it, not troubled by any foreboding that he, too, that hour next week, might need quiet near a hospital. The "hot spell" was a true spell, one upon men's spirits; for it was so hot that, in suburban outskirts, golfers crept slowly back over the low undulations of their club lands, abandoning their matches and returning to shelter.

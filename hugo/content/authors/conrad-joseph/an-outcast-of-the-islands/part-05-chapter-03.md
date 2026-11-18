@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3"
 weight: 26
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-03.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-05-chapter-03.html"
 ---
 
 On Lingard’s departure solitude and silence closed round Willems; the cruel solitude of one abandoned by men; the reproachful silence which surrounds an outcast ejected by his kind, the silence unbroken by the slightest whisper of hope; an immense and impenetrable silence that swallows up without echo the murmur of regret and the cry of revolt. The bitter peace of the abandoned clearings entered his heart, in which nothing could live now but the memory and hate of his past. Not remorse. In the breast of a man possessed by the masterful consciousness of his individuality with its desires and its rights; by the immovable conviction of his own importance, of an importance so indisputable and final that it clothes all his wishes, endeavours, and mistakes with the dignity of unavoidable fate, there could be no place for such a feeling as that of remorse.

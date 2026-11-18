@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Cowland Topsy-Turvy"
 weight: 15
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-15.html"
+url: "/authors/williams-frank/the-free-range/chapter-15.html"
 ---
 
 To Bud Larkin enough had already happened to make him as philosophical as Socrates. Epictetus remarks that our chief happiness should consist in knowing that we are entirely indifferent to calamity; that disgrace is nothing if our consciences are right and that death, far from being a calamity is, in fact, a release.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - The Bitter Waters Spread"
 weight: 40
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-40.html"
+url: "/authors/eliot-george/adam-bede/chapter-40.html"
 ---
 
 MR. IRWINE returned from Stoniton in a post-chaise that night, and the first words Carroll said to him, as he entered the house, were, that Squire Donnithorne was dead - found dead in his bed at ten o'clock that morning - and that Mrs. Irwine desired him to say she should be awake when Mr. Irwine came home, and she begged him not to go to bed without seeing her.

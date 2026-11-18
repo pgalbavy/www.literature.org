@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Ant Army"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-18.html"
 ---
 
 URGED on by their leaders, the ant soldiers dashed upon meek, frightened Daddy Longlegs. On all sides they crowded about him. And as he looked down at his swarming enemies and saw how fiercely they rushed at him, his knees began to tremble just as they did when a strong wind was blowing.

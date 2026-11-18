@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 10"
 weight: 116
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-10.html"
 ---
 
 Pierre went on with his diary, and this is what he wrote in it during that time:

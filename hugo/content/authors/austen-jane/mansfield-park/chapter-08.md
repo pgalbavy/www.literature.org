@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-08.html"
+url: "/authors/austen-jane/mansfield-park/chapter-08.html"
 ---
 
 Fanny's rides recommenced the very next day; and as it was a pleasant fresh-feeling morning, less hot than the weather had lately been, Edmund trusted that her losses, both of health and pleasure, would be soon made good. While she was gone Mr. Rushworth arrived, escorting his mother, who came to be civil and to shew her civility especially, in urging the execution of the plan for visiting Sotherton, which had been started a fortnight before, and which, in consequence of her subsequent absence from home, had since lain dormant. Mrs. Norris and her nieces were all well pleased with its revival, and an early day was named and agreed to, provided Mr. Crawford should be disengaged: the young ladies did not forget that stipulation, and though Mrs. Norris would willingly have answered for his being so, they would neither authorise the liberty nor run the risk; and at last, on a hint from Miss Bertram, Mr. Rushworth discovered that the properest thing to be done was for him to walk down to the Parsonage directly, and call on Mr. Crawford, and inquire whether Wednesday would suit him or not.

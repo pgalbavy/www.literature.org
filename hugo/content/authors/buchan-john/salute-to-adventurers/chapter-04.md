@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Of A Stairhead And A Sea-Captain"
 weight: 5
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-04.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-04.html"
 ---
 
 With the escapade that landed me in the Tolbooth there came an end to the nightmare years of my first youth. A week later I got word that my father was dead of an ague in the Low Countries, and I had to be off post-haste to Auchencairn to see to the ordering of our little estate. We were destined to be bitter poor, what with dues and regalities incident on the passing of the ownership, and I thought it best to leave my mother to farm it, with the help of Robin Gilfillan the grieve, and seek employment which would bring me an honest penny. Her one brother, Andrew Sempill, from whom I was named, was a merchant in Glasgow, the owner of three ships that traded to the Western Seas, and by repute a man of a shrewd and venturesome temper. He was single, too, and I might reasonably look to be his heir; so when a letter came from him offering me a hand in his business, my mother was instant for my going. I was little loath myself, for I saw nothing now to draw me to the profession of the law, which had been my first notion. "Hame's hame," runs the proverb, "as the devil said when he found himself in the Court of Session," and I had lost any desire for that sinister company. Besides, I liked the notion of having to do with ships and far lands; for I was at the age when youth burns fiercely in a lad, and his fancy is as riotous as a poet's.

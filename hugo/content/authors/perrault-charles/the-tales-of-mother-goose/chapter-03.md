@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Little Thumb"
 weight: 4
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/chapter-03.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/chapter-03.html"
 ---
 
 Once upon a time there was a fagot-maker and his wife, who had seven children, all boys. The eldest was but ten years old, and the youngest only seven.

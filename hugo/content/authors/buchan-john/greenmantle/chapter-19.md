@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Greenmantle"
 weight: 20
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-19.html"
+url: "/authors/buchan-john/greenmantle/chapter-19.html"
 ---
 
 Peter scarcely looked up from his breakfast.

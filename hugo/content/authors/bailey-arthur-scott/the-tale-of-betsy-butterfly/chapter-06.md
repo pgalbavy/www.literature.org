@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Mrs. Ladybug's Advice"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-06.html"
 ---
 
 LITTLE did Betsy Butterfly guess what Mrs. Ladybug intended to say to her. And if she had known what it was she would have been merely amused. For Betsy was entirely too sweet-tempered to take offense at anybody's fault-finding--least of all that of Mrs. Ladybug, who was really a good-hearted soul, when she wasn't jealous. And when Betsy went to the flower garden early the next morning she felt kindly towards the whole world, not even excepting Johnnie Green, though he had tried to capture her.

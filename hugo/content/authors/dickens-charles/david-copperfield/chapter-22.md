@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Some Old Scenes, And Some New People"
 weight: 23
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-22.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-22.html"
 ---
 
 Steerforth and I stayed for more than a fortnight in that part of the country. We were very much together, I need not say; but occasionally we were asunder for some hours at a time. He was a good sailor, and I was but an indifferent one; and when he went out boating with Mr. Peggotty, which was a favourite amusement of his, I generally remained ashore. My occupation of Peggotty’s spare-room put a constraint upon me, from which he was free: for, knowing how assiduously she attended on Mr. Barkis all day, I did not like to remain out late at night; whereas Steerforth, lying at the Inn, had nothing to consult but his own humour. Thus it came about, that I heard of his making little treats for the fishermen at Mr. Peggotty’s house of call, ‘The Willing Mind’, after I was in bed, and of his being afloat, wrapped in fishermen’s clothes, whole moonlight nights, and coming back when the morning tide was at flood. By this time, however, I knew that his restless nature and bold spirits delighted to find a vent in rough toil and hard weather, as in any other means of excitement that presented itself freshly to him; so none of his proceedings surprised me.

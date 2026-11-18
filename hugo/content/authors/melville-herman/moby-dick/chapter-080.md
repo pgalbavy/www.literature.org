@@ -1,8 +1,7 @@
 ---
 title: "Chapter 80 - The Nut"
 weight: 80
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-080.html"
+url: "/authors/melville-herman/moby-dick/chapter-080.html"
 ---
 
 If the Sperm Whale be physiognomically a Sphinx, to the phrenologist his brain seems that geometrical circle which it is impossible to square.

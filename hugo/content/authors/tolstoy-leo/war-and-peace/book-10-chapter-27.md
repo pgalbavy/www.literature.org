@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 27"
 weight: 217
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-27.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-27.html"
 ---
 
 On the twenty-fifth of August, so his historians tell us, Napoleon spent the whole day on horseback inspecting the locality, considering plans submitted to him by his marshals, and personally giving commands to his generals.

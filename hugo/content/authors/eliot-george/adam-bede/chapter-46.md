@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - The Hours Of Suspense"
 weight: 46
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-46.html"
+url: "/authors/eliot-george/adam-bede/chapter-46.html"
 ---
 
 ON Sunday morning, when the church bells in Stoniton were ringing for morning service, Bartle Massey re-entered Adam's room, after a short absence, and said, "Adam, here's a visitor wants to see you."

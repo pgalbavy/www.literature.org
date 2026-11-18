@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Steel On Steel"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-12.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-12.html"
 ---
 
 The stifling summer heat fetched up wind from the south and thundercaps crowned the high peaks; then the rain came slashing and struck up the dust before it lifted and went scurrying away. The lizards gasped for breath, Drusilla ceased to sing, all Pinal seemed to palpitate with heat; but through heat and rain one song kept on--Denver's song of steel on steel. In the cool of his tunnel he drove up-holes and down, slugging manfully away until his round of holes was done and then shooting away the face. As the sun sank low he sat on the dump, sorting and sacking the best of his ore; and one evening as he worked Drusilla came by, walking slowly as if in deep thought.

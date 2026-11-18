@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Recrossing The River"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-23.html"
 ---
 
 During the time occupied in the scrutiny of the surroundings, Jack Carleton forgot all about the river for which they had set out to watch for the returning Pawnees. Though the Sauk most likely kept it in mind, yet he was so occupied that he gave it no attention. Now, that he was relieved, however, he advanced the few yards required, and took a survey of the river as it swept past.

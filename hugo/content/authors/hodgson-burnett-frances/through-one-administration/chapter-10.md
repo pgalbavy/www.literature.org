@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-10.html"
 ---
 
 As he was saying it Bertha had gone back to her sofa, and sat there with the faint, troubled smile still on her face.

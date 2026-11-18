@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - How Sir Nigel Sought For A Wayside Venture"
 weight: 14
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-14.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-14.html"
 ---
 
 FOR a time Sir Nigel was very moody and downcast, with bent brows and eyes upon the pommel of his saddle. Edricson and Terlake rode behind him in little better case, while Ford, a careless and light-hearted youth, grinned at the melancholy of his companions, and flourished his lord's heavy spear, making a point to right and a point to left, as though he were a paladin contending against a host of assailants. Sir Nigel happened, however, to turn himself in his saddle-Ford instantly became as stiff and as rigid as though he had been struck with a palsy. The four rode alone, for the archers had passed a curve in the road, though Alleyne could still hear the heavy clump, clump of their marching, or catch a glimpse of the sparkle of steel through the tangle of leafless branches.

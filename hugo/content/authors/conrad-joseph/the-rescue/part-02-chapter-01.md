@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-02-chapter-01.html"
+url: "/authors/conrad-joseph/the-rescue/part-02-chapter-01.html"
 ---
 
 The coast off which the little brig, floating upright above her anchor, seemed to guard the high hull of the yacht has no distinctive features. It is land without form. It stretches away without cape or bluff, long and low—indefinitely; and when the heavy gusts of the northeast monsoon drive the thick rain slanting over the sea, it is seen faintly under the grey sky, black and with a blurred outline like the straight edge of a dissolving shore. In the long season of unclouded days, it presents to view only a narrow band of earth that appears crushed flat upon the vast level of waters by the weight of the sky, whose immense dome rests on it in a line as fine and true as that of the sea horizon itself.

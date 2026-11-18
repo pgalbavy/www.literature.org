@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Great Misfortune"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-28.html"
 ---
 
 Ned Chadmund was too wise to go contrary to the instincts of the mustang, which, at such a time knew more than did he of the dangers of the country. The boy, however, supposed that it was some wild animal, probably a grizzly bear, which alarmed the steed. He wondered however, that if such were the fact, why the brute did not give some more tangible evidence of his presence. He sat for a moment debating whether he should make an attempt to enter the wooded ravine from another direction. He had fixed upon this place as the one in which to spend a couple of hours or more, and as no similar resting-place was in sight, he was reluctant to start ahead again. But something whispered to him that the best thing he could do would be to leave without an instant's delay. That strange stillness resting upon those stunted trees and undergrowth had a meaning more significant than anything in the shape of a grizzly bear.

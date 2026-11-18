@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-17.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-17.html"
 ---
 
 The smoke and spiteful crackle of the pickets' fusilade had risen to one unbroken crash, solidly accented by the report of field guns.

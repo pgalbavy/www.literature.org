@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-10.html"
 ---
 
 The crowd in the dépôt surged into the streets, and melted into and became an addition to the world of people there. The pavements were moving masses of human beings, the centres of the streets were pandemoniums of wagons and vans, street cars, hotel omnibuses, and carriages. The brilliant morning sunlight dazzled the children’s eyes; the roar of wheels and the clamor of car bells, of clattering horses’ feet, of cries and shouts and passing voices, mingled in a volume of sound that deafened them. The great tidal wave of human life and work and pleasure almost took them off their feet.

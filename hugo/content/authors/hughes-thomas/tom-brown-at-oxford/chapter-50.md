@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50"
 weight: 52
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-50.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-50.html"
 ---
 
 *THE POSTSCRIPT*

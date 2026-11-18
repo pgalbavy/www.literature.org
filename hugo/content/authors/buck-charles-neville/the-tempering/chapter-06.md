@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-06.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-06.html"
 ---
 
 With winter came desolation. The sumac no longer flared vermilion and the flaming torches of the maples were quenched.

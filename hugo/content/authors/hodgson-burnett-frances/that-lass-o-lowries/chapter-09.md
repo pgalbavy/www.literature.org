@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The News At The Rectory"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-09.html"
 ---
 
 If she did not hear of the incident from Grace, Anice heard of it from another quarter.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-01-chapter-02.html"
+url: "/authors/haggard-h-rider/cleopatra/book-01-chapter-02.html"
 ---
 
 OF THE DISOBEDIENCE OF HARMACHIS; OF THE SLAYING OF THE LION; AND OF THE SPEECH OF THE OLD WIFE, ATOUA

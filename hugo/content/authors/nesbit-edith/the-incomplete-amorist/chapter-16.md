@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - \u0026quot;Love And Tupper\u0026quot;"
 weight: 16
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-16.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-16.html"
 ---
 
 "Whenever Vernon liked" proved to be the very next day. He was waiting outside the door of the atelier when Betty, in charcoal-smeared pinafore, left the afternoon class.

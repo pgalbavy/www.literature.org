@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 21 - \u0026quot;Love Shall Make All Things New\u0026quot;"
 weight: 37
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-21.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-21.html"
 ---
 
 Mr. Pengarth was loth to depart. He felt that all pretext for lingering was gone, that he had outstayed his welcome. Yet he found himself desperately striving for some excuse to prolong an interview which was to all effects and purposes concluded.

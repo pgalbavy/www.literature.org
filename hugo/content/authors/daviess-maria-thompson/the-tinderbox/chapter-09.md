@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Dynamite"
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-09.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-09.html"
 ---
 
 When a man injures a woman's feelings by any particular course of conduct to which she objects, the maternal in her rises to the surface and she treats and forgives him as she would a naughty child,--but a man makes any kind of woman-affront into a lover's quarrel. That is what masculine Glendale has been doing to its women folks for four days, and I believe everybody has been secretly enjoying it.

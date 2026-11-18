@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Battle Of Life"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-22.html"
 ---
 
 After all the elaborate preparations for the capture of the burglars, the whole business had fallen so flat that the officers of the law themselves laughed at the farcical termination. Nothing criminal was attempted, and Damietta never was more peaceful in all its history than it was during the many weeks and months which followed.

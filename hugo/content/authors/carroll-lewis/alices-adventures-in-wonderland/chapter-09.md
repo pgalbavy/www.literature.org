@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Mock Turtle’s Story"
 weight: 9
-aliases:
-  - "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-09.html"
+url: "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-09.html"
 ---
 
 "You can’t think how glad I am to see you again, you dear old thing!" said the Duchess, as she tucked her arm affectionately into Alice’s, and they walked off together.

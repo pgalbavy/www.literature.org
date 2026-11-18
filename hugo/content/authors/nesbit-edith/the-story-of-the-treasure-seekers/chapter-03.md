@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Being Detectives"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-03.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-03.html"
 ---
 
 The next thing that happened to us was very interesting. It was as real as the half-crowns - not just pretending. I shall try to write it as like a real book as I can. Of course we have read Mr Sherlock Holmes, as well as the yellow-covered books with pictures outside that are so badly printed; and you get them for fourpence-halfpenny at the bookstall when the corners of them are beginning to curl up and get dirty, with people looking to see how the story ends when they are waiting for trains. I think this is most unfair to the boy at the bookstall. The books are written by a gentleman named Gaboriau, and Albert's uncle says they are the worst translations in the world - and written in vile English. Of course they're not like Kipling, but they're jolly good stories. And we had just been reading a book by Dick Diddlington - that's not his right name, but I know all about libel actions, so I shall not say what his name is really, because his books are rot. Only they put it into our heads to do what I am going to narrate.

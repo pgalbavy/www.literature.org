@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 18 - Of What Happened Don Quixote In The Castle Or House Of The Knight Of The Green Gaban, Together With Other Matters Out Of The Common"
 weight: 74
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-18.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-18.html"
 ---
 
 Don Quixote found Don Diego de Miranda’s house built in village style, with his arms in rough stone over the street door; in the patio was the store-room, and at the entrance the cellar, with plenty of wine-jars standing round, which, coming from El Toboso, brought back to his memory his enchanted and transformed Dulcinea; and with a sigh, and not thinking of what he was saying, or in whose presence he was, he exclaimed-

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Back Home"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-12.html"
+url: "/authors/coolidge-dane/wunpost/chapter-12.html"
 ---
 
 The dry heat of July gave way to the muggy heat of August and as the September storms began to gather along the summits Wunpost Calhoun returned to his own. It was his own country, after all, this land of desert spaces and jagged mountains reared up again the sky; and he came back in style, riding a big, round-bellied mule and leading another one packed. He had a rifle under his knee, a pistol on his hip and a pair of field glasses in a case on the horn; and he rode in on a trot, looking about with a knowing smile that changed suddenly to a smirk of triumph.

@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 19"
 weight: 103
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-19.html"
 ---
 
 Having returned to the regiment and told the commander the state of Denisov's affairs, Rostov rode to Tilsit with the letter to the Emperor.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-02.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-02.html"
 ---
 
 Eventually they entered into a dark region where, from a careening building, a dozen gruesome doorways gave up loads of babies to the street and the gutter. A wind of early autumn raised yellow dust from cobbles and swirled it against an hundred windows. Long streamers of garments fluttered from fire-escapes. In all unhandy places there were buckets, brooms, rags and bottles. In the street infants played or fought with other infants or sat stupidly in the way of vehicles. Formidable women, with uncombed hair and disordered dress, gossiped while leaning on railings, or screamed in frantic quarrels. Withered persons, in curious postures of submission to something, sat smoking pipes in obscure corners. A thousand odors of cooking food came forth to the street. The building quivered and creaked from the weight of humanity stamping about in its bowels.

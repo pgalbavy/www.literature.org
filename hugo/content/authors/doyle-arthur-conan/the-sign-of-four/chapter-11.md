@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Great Agra Treasure"
 weight: 11
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-11.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-11.html"
 ---
 
 Our captive sat in the cabin opposite to the iron box which he had done so much and waited so long to gain. He was a sunburned reckless-eyed fellow, with a network of lines and wrinkles all over his mahogany features, which told of a hard, open-air life. There was a singular prominence about his bearded chin which marked a man who was not to be easily turned from his purpose. His age may have been fifty or thereabouts, for his black, curly hair was thickly shot with gray. His face in repose was not an unpleasing one, though his heavy brows and aggres- sive chin gave him, as I had lately seen, a terrible expression when moved to anger. He sat now with his handcuffed hands upon his lap, and his head sunk upon his breast, while he looked with his keen, twinkling eyes at the box which had been the cause of his ill-doings. It seemed to me that there was more sorrow than anger in his rigid and contained countenance. Once he looked up at me with a gleam of something like humour in his eyes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Sleeping Beauty In The Woods"
 weight: 3
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/chapter-02.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/chapter-02.html"
 ---
 
 Once upon a time there was a king and a queen, who were very sorry that they had no children,--so sorry that it cannot be told.

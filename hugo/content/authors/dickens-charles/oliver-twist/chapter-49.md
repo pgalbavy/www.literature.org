@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - Monks And Mr. Brownlow At Length Meet.  Their Conversation, And The Intelligence That Interrupts It"
 weight: 49
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-49.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-49.html"
 ---
 
 The twilight was beginning to close in, when Mr. Brownlow alighted from a hackney-coach at his own door, and knocked softly. The door being opened, a sturdy man got out of the coach and stationed himself on one side of the steps, while another man, who had been seated on the box, dismounted too, and stood upon the other side. At a sign from Mr. Brownlow, they helped out a third man, and taking him between them, hurried him into the house. This man was Monks.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-02.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-02.html"
 ---
 
 The young man sat on one side of the saloon and Mr. John P. Dunster on the other. Although both of them were provided with a certain amount of railway literature, neither of them made any pretence at reading. The older man, with his feet upon the opposite seat and his arms folded, was looking pensively through the rain-splashed window-pane into the impenetrable darkness. The young man, although he could not ignore his companion's unsociable instincts, was fidgety.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Mappo Plays A Trick"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-02.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-02.html"
 ---
 
 Mappo, who had started to climb down to the ground, to get the cocoanut he had lost, stopped short when he heard his brother Jacko cry out about the tiger.

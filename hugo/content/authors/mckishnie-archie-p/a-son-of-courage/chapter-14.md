@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Old Harry Turns A Trick"
 weight: 14
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-14.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-14.html"
 ---
 
 Maurice Keeler, wan, hollow-eyed, and miserable, was seated on a stool just outside the door in the early morning sunlight. Near him sat his mother, peeling potatoes, her portly form obscured by a trailing wistaria vine. What Maurice had endured during his two weeks with the measles nobody knew but himself. His days had been lonely, filled with remorse that he had ever been born to give people trouble and care; his nights longer even than the days. Hideous nightmares had robbed him of slumber. Old Scroggie's ghost had visited him almost nightly. The Twin Oaks robbers, ugly, hairy giants armed with red-hot pitch-forks, had bound him to a tree and applied fire to his feet. What use to struggle or cry aloud for help? Even Billy, his dearest chum, had sat and laughed with all the mouths of his eight heads at his pain. Of course he had awakened to learn these were but dreams; but to a boy dreams are closely akin to reality.

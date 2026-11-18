@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Thread Of G. Selden"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-29.html"
 ---
 
 The Shuttle having in its weaving caught up the thread of G. Selden's rudimentary existence and drawn it, with the young man himself, across the sea, used curiously the thread in question, in the forming of the design of its huge web. As wool and coarse linen are sometimes interwoven with rich silk for decorative or utilitarian purposes, so perhaps was this previously unvalued material employed.

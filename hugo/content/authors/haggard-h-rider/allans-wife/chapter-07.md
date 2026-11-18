@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Baboon-Woman"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-07.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-07.html"
 ---
 
 Hendrika obeyed, leading the horses to the side of the tree.

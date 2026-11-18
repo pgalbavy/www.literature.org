@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-03.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-03.html"
 ---
 
 Jerry quite forgot Meringe for the time being. As he well remembered, the hawk had been sharp of beak and claw. This air- flapping, thunder-crashing monster needed watching. And Jerry, crouching for the spring and ever struggling to maintain his footing on the slippery, heeling deck, kept his eyes on the mainsail and uttered low growls at any display of movement on its part.

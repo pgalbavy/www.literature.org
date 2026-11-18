@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Spring In Bond Street"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-19.html"
 ---
 
 The visit to London was part of an evolution of both body and mind to Rosalie Anstruthers. In one of the wonderful modern hotels a suite of rooms was engaged for them. The luxury which surrounded them was not of the order Rosalie had vaguely connected with hotels. Hotel-keepers had apparently learned many things during the years of her seclusion.

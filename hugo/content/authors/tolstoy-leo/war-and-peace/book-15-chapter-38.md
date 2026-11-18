@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 38"
 weight: 355
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-38.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-38.html"
 ---
 
 What force moves the nations?

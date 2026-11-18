@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/between-friends/chapter-04.html"
+url: "/authors/chambers-robert-w/between-friends/chapter-04.html"
 ---
 
 Composition had been determined upon, and the sketch completed by the middle of August; Cecile had sat for him every day from nine until five; every evening they had dined together at the seashore or other suburban and cool resorts. Together they had seen every summer entertainment in town, had spent the cooler, starlit evenings together in his studio, chatting, reading loud sometimes, sometimes discussing he work in hand or other subjects of he moment, even topics covering a wider and more varied range than he had ever before discussed with any woman.

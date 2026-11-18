@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Naughty Nan"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-07.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-07.html"
 ---
 
 "Fritz, I've got a new idea," cried Mrs. Bhaer, as she met her husband one day after school.

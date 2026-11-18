@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-12.html"
 ---
 
 Now, General Jinjur -- who, you will remember, commanded the Army of Revolt -- was rendered very uneasy by the escape of the Scarecrow from the Emerald City. She feared, and with good reason, that if his Majesty and the Tin Woodman Joined forces, it would mean danger to her and her entire army; for the people of Oz had not yet forgotten the deeds of these famous heroes, who had passed successfully through so many startling adventures.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-18.html"
+url: "/authors/austen-jane/persuasion/chapter-18.html"
 ---
 
 It was the beginning of February; and Anne, having been a month in Bath, was growing very eager for news from Uppercross and Lyme. She wanted to hear much more than Mary had communicated. It was three weeks since she had heard at all. She only knew that Henrietta was at home again; and that Louisa, though considered to be recovering fast, was still in Lyme; and she was thinking of them all very intently one evening, when a thicker letter than usual from Mary was delivered to her; and, to quicken the pleasure and surprise, with Admiral and Mrs Croft's compliments.

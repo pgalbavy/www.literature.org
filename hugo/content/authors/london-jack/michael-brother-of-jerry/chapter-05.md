@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-05.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-05.html"
 ---
 
 For a number of days Michael saw only Steward and Kwaque. This was because he was confined to the steward's stateroom. Nobody else knew that he was on board, and Dag Daughtry, thoroughly aware that he had stolen a white man's dog, hoped to keep his presence secret and smuggle him ashore when the Makambo docked in Sydney.

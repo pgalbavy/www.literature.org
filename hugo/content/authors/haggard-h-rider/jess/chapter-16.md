@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Pretoria"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-16.html"
+url: "/authors/haggard-h-rider/jess/chapter-16.html"
 ---
 
 Jess was not very happy at Pretoria previous to the unexpected outbreak of hostilities. Most people who have made a great moral effort, and after some severe mental struggle have entered on the drear path from self-sacrifice, experience the reaction that will follow as certainly as the night follows the day. It is one thing to renounce the light, to stand in the full glow of the setting beams of our imperial joy and chant out our farewell, and quite another to live alone in the darkness. For a little while memory may support us, but memory grows faint. On every side is the thick, cheerless pall and that stillness through which no sound comes. We are alone, quite alone, cut off from the fellowship of the day, unseeing and unseen. More especially is this so when the dungeon is of our own making, and we ourselves have shot its bolts. There is a natural night that comes to all, and in its unwavering course swallows every mortal hope and fear, for ever and for ever. To this we can more easily resign ourselves, for we recognise the universal lot and bow ourselves beneath the all-effacing hand. The earth does not pine when the daylight passes from its peaks; it only sleeps.

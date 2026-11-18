@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Fight And A Chance"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-07.html"
 ---
 
 After occupying the new village, Orthis and I were separated, he being assigned a hut close to Ga-va-go, while I was placed in another section of the village. If I could have been said to have been on good terms with any of the terrible creatures of the tribe, it was with the woman who had taught me the language of the Va-gas, and it was from her that I learned why Orthis was treated with such marked distinction by Ga-va-go, whom, it seemed, he had promised to lead to the land of our origin, where, he had assured the savage chieftain, he would find flesh in abundance.

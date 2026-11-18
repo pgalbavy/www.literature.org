@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Ferdinand Frog Is In No Hurry"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-11.html"
 ---
 
 Although everybody in the Beaver village looked worried, Mr. Frog seemed to be all the more cheerful. He knew well enough that there was hardly one Beaver in the pond that didn't wish and long for clothes which were, like Mr. Frog's, five years ahead of the times.

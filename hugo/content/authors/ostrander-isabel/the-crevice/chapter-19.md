@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Unseen Listener"
 weight: 19
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-19.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-19.html"
 ---
 
 "There's a man outside who wishes to speak to you, sir. Says his name is Hicks, but won't tell his business."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Brigade And An Old Friend"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-11.html"
 ---
 
 After bidding Imogene good-by, I started on a rapid pace to the northward. At night I kindled a fire by which I slept in safety, and at an early hour resumed my journey. The character of the country continued much the same—broad belts of prairie relieved by groves of trees and streams of considerable magnitude. Birds of all kinds whirred through the air and sang within the wood, and the dark forms of wild animals were more than once seen gamboling in the distance.

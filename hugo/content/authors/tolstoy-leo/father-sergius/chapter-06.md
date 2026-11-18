@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tolstoy-leo/father-sergius/chapter-06.html"
+url: "/authors/tolstoy-leo/father-sergius/chapter-06.html"
 ---
 
 Pashenka had already long ceased to be Pashenka and had become old, withered, wrinkled Praskovya Mikhaylovna, mother-in-law of that failure, the drunken official Mavrikyev. She was living in the country town where he had had his last appointment, and there she was supporting the family: her daughter, her ailing neurasthenic son-in-law, and her five grandchildren. She did this by giving music lessons to tradesmen's daughters, giving four and sometimes five lessons a day of an hour each, and earning in this way some sixty rubles (6 pounds) a month. So they lived for the present, in expectation of another appointment. She had sent letters to all her relations and acquaintances asking them to obtain a post for her son-in-law, and among the rest she had written to Sergius, but that letter had not reached him.

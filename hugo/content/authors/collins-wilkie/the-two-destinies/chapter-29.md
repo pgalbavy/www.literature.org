@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Our Destinies Part Us"
 weight: 30
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-29.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-29.html"
 ---
 
 DESCENDING to the ground-floor of the house, I sent to request a moment's interview with the landlady. I had yet to learn in which of the London prisons Van Brandt was confined; and she was the only person to whom I could venture to address the question.

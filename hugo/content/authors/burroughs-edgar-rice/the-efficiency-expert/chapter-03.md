@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Lizard"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-03.html"
 ---
 
 That night Jimmy attended a show, and treated himself to a lonely dinner afterward. He should have liked very much to have looked up some of his friends. A telephone call would have brought invitations to dinner and a pleasant evening with convivial companions, but he had mapped his course and he was determined to stick to it to the end.

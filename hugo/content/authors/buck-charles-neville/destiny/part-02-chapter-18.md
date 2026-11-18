@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-18.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-18.html"
 ---
 
 Paul, who was named for the apostle, and Loraine Haswell had drifted further into midstream than either realized. Less keen observers than Norvil Thayre now spoke of their frequent meetings. Club conversation intimated that not only financial stress was responsible for the silencing of Len Haswell's jovial laughter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - \u0026quot;Somebody Else\u0026quot;"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-25.html"
 ---
 
 But Barold did not make any very ardent search for Lucia. He stopped to watch a game of lawn-tennis, in which Octavia and Lord Lansdowne had joined, and finally forgot Lady Theobald's errand altogether.

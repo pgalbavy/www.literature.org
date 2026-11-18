@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-02.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-02.html"
 ---
 
 They were a weary, half-starved and travel-stained quartette when the Red Guards stopped them for the last time in Russia and passed them through, warning them that the White Guards would surely do murder if they caught them.

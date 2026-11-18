@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Indians Help Some!"
 weight: 14
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-14.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-14.html"
 ---
 
 When Sam Weller turned the corner of the cliff and looked out at the spot where the Ann had been left, his first impression was that the machine had been removed from the valley.

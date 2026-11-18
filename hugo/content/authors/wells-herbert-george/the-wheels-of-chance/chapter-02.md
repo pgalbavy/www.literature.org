@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-02.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-02.html"
 ---
 
 But enough of these revelations. The central figure of our story is now going along behind the counter, a draper indeed, with your purchases in his arms, to the warehouse, where the various articles you have selected will presently be packed by the senior porter and sent to you. Returning thence to his particular place, he lays hands on a folded piece of gingham, and gripping the corners of the folds in his hands, begins to straighten them punctiliously. Near him is an apprentice, apprenticed to the same high calling of draper's assistant, a ruddy, red-haired lad in a very short tailless black coat and a very high collar, who is deliberately unfolding and refolding some patterns of cretonne. By twenty-one he too may hope to be a full-blown assistant, even as Mr. Hoopdriver. Prints depend from the brass rails above them, behind are fixtures full of white packages containing, as inscriptions testify, Lino, Hd Bk, and Mull. You might imagine to see them that the two were both intent upon nothing but smoothness of textile and rectitude of fold. But to tell the truth, neither is thinking of the mechanical duties in hand. The assistant is dreaming of the delicious time--only four hours off now--when he will resume the tale of his bruises and abrasions. The apprentice is nearer the long long thoughts of boyhood, and his imagination rides cap-a-pie through the chambers of his brain, seeking some knightly quest in honour of that Fair Lady, the last but one of the girl apprentices to the dress-making upstairs. He inclines rather to street fighting against revolutionaries--because then she could see him from the window.

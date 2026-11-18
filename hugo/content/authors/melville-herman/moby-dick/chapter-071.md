@@ -1,8 +1,7 @@
 ---
 title: "Chapter 71 - The Jeroboam's Story"
 weight: 71
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-071.html"
+url: "/authors/melville-herman/moby-dick/chapter-071.html"
 ---
 
 Hand in hand, ship and breeze blew on; but the breeze came faster than the ship, and soon the Pequod began to rock.

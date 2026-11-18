@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Zany Or Lunatic"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-19.html"
 ---
 
 In no respect did the Indian display his matchless coolness more strikingly than when, amid the terrific exertion he was compelled to put forth, he never ceased his doleful singing, if such it may be called. It continued, indeed, while he was paddling directly against the current, until, when one of his strains was half complete, it ceased abruptly, as if cut in two.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3 - The Fen Ferry"
 weight: 4
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-03.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-03.html"
 ---
 
 The river Till was a wide, sluggish, clayey water, oozing out of fens, and in this part of its course it strained among some score of willow-covered, marshy islets.

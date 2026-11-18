@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-19.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-19.html"
 ---
 
 But Hewet need not have increased his torments by imagining that Hirst was still talking to Rachel. The party very soon broke up, the Flushings going in one direction, Hirst in another, and Rachel remaining in the hall, pulling the illustrated papers about, turning from one to another, her movements expressing the unformed restless desire in her mind. She did not know whether to go or to stay, though Mrs. Flushing had commanded her to appear at tea. The hall was empty, save for Miss Willett who was playing scales with her fingers upon a sheet of sacred music, and the Carters, an opulent couple who disliked the girl, because her shoe laces were untied, and she did not look sufficiently cheery, which by some indirect process of thought led them to think that she would not like them. Rachel certainly would not have liked them, if she had seen them, for the excellent reason that Mr. Carter waxed his moustache, and Mrs. Carter wore bracelets, and they were evidently the kind of people who would not like her; but she was too much absorbed by her own restlessness to think or to look.

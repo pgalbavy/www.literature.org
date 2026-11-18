@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/ridge-w-pett/a-son-of-the-state/chapter-15.html"
+url: "/authors/ridge-w-pett/a-son-of-the-state/chapter-15.html"
 ---
 
 LIFE on the Westmouth being too exacting to permit one to count the hours, Robert Lancaster came to the end of his training there with a sudden jerk that almost astonished him. Fifty lads were taken off the books, of whom he found himself to be one; some of them deciding for the merchant service, were despatched to the Home at Limehouse for that purpose; others, qualified in regard to measurement and desires, only waited for the brigantine to arrive for their names to be taken off the Watch Bill, and to resign their numbers to other lads. The old captain, meeting Robert on the upper deck, honoured him with five minutes’ conversation, giving him a word of counsel, and directing him to give the old ship a call whenever the chance to do so offered.

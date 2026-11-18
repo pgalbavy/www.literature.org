@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-02.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-02.html"
 ---
 
 One works quickly when prodded by the pique of curiosity. And in spite of all that omens could foretell, in spite of the dull, gloomy life which had done its best to fashion a matter-of-fact brain for Robert Fairchild, one sentence in that letter had found an echo, had started a pulsating something within him that he never before had known:

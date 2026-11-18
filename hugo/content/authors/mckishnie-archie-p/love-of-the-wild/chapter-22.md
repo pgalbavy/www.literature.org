@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Shot In The Dark"
 weight: 22
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-22.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-22.html"
 ---
 
 For the first night since the long nights had come Big McTavish’s fiddle was silent. It hung on the wall and the man sat before the fire, his chin in his hands. Mrs. McTavish reclined on a couch of willows beside him, and her eyes rested on her husband’s face sympathetically.

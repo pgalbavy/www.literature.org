@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Drinking"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-03.html"
 ---
 
 Many diseases of the body are caused by what we take into our stomachs. You can see, therefore, how important it is that we should know what and how to eat and drink.

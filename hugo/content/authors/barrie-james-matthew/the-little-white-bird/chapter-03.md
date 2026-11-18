@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Her Marriage, Her Clothes, Her Appetite, And An Inventory Of Her"
 weight: 3
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-03.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-03.html"
 ---
 
 Furniture

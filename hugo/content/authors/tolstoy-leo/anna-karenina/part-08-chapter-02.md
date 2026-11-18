@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 2"
 weight: 222
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-02.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-02.html"
 ---
 
 Sergey Ivanovitch and Katavasov had only just reached the station of the Kursk line, which was particularly busy and f ull of people that day, when, looking round for the groom who was following with their things, they saw a party of volunteers driving up in four cabs. Ladies met them with bouquets of flowers, and followed by the rushing crowd they went into the station.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-13.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-13.html"
 ---
 
 Jimmie did not return home for a number of days after the fight with Pete in the saloon. When he did, he approached with extreme caution.

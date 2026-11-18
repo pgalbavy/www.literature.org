@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Winning By A Trick"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-12.html"
 ---
 
 Grumpy Weasel wouldn't stop long with his cousin, Peter Mink, and old Mr. Crow and all the rest.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Run Of Good Fortune"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-17.html"
 ---
 
 We have now reached a point in our narrative where it once more becomes necessary to follow the fortunes of Jethro Juggens, whom we were obliged to leave in anything but a pleasant situation.

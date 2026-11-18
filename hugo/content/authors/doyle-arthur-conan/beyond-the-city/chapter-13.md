@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - In Strange Waters"
 weight: 13
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-13.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-13.html"
 ---
 
 When Doctor Walker had departed, the Admiral packed all his possessions back into his sea chest with the exception of one little brass-bound desk. This he unlocked, and took from it a dozen or so blue sheets of paper all mottled over with stamps and seals, with very large V. R.'s printed upon the heads of them. He tied these carefully into a small bundle, and placing them in the inner pocket of his coat, he seized his stick and hat.

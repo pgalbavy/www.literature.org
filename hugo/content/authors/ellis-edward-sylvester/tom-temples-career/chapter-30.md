@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Effect Of A Name"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-30.html"
 ---
 
 "SO *YOU* haven’t changed your mind, young man," said Gates, as Tom presented himself at the hotel the following evening.

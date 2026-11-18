@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-09.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-09.html"
 ---
 
 Connie was surprised at her own feeling of aversion from Clifford. What is more, she felt she had always really disliked him. Not hate: there was no passion in it. But a profound physical dislike. Almost, it seemed to her, she had married him because she disliked him, in a secret, physical sort of way. But of course, she had married him really because in a mental way he attracted her and excited her. He had seemed, in some way, her master, beyond her.

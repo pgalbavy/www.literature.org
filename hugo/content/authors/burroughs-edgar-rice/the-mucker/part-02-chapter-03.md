@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - “Five Hundred Dollars Reward”"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-03.html"
 ---
 
 “'WE KEPT a-rambling all the time. I rustled grub, he rustled rhyme,'” quoted Billy Byrne, sitting up and stretching himself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Logic Of Youth"
 weight: 13
-aliases:
-  - "/authors/london-jack/adventure/chapter-13.html"
+url: "/authors/london-jack/adventure/chapter-13.html"
 ---
 
 "I wish I knew whether you are merely headstrong, or whether you really intend to be a Solomon planter," Sheldon said in the morning, at breakfast.

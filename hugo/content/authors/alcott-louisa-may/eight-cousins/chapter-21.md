@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Scare"
 weight: 22
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-21.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-21.html"
 ---
 
 "Brother Alec, you surely don't mean to allow that child to go out such a bitter cold day as this," said Mrs. Myra, looking into the study, where the Doctor sat reading his paper, one February morning.

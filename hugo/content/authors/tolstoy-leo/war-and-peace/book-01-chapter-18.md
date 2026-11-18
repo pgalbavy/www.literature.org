@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-18.html"
 ---
 
 Countess Rostova, with her daughters and a large number of guests, was already seated in the drawing room. The count took the gentlemen into his study and showed them his choice collection of Turkish pipes. From time to time he went out to ask: "Hasn't she come yet?" They were expecting Marya Dmitrievna Akhrosimova, known in society as le terrible dragon, a lady distinguished not for wealth or rank, but for common sense and frank plainness of speech. Marya Dmitrievna was known to the Imperial family as well as to all Moscow and Petersburg, and both cities wondered at her, laughed privately at her rudenesses, and told good stories about her, while none the less all without exception respected and feared her.

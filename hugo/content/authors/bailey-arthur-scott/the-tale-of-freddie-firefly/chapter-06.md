@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Banners"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-06.html"
 ---
 
 When Chirpy Cricket mentioned "banners," Mehitable Moth, Kiddie Katydid, and Moses Mosquito stepped forward with looks of pride on their faces--so far as one could see their faces by the glimmer of the flashing lights of the Firefly family. And at the same time Freddie Firefly shouldered his way through the crowd and plucked at Chirpy Cricket's sleeve.

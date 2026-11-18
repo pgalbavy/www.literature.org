@@ -1,8 +1,7 @@
 ---
 title: "Chapter 89 - Fast-Fish and Loose-Fish"
 weight: 89
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-089.html"
+url: "/authors/melville-herman/moby-dick/chapter-089.html"
 ---
 
 The allusion to the waifs and waif-poles in the last chapter but one, necessitates some account of the laws and regulations of the whale fishery, of which the waif may be deemed the grand symbol and badge.

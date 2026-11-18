@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Procurator's Dinner"
 weight: 33
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-32.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-32.html"
 ---
 
 However brilliant had been the part played by Porthos in the duel, it had not made him forget the dinner of the procurator's wife.

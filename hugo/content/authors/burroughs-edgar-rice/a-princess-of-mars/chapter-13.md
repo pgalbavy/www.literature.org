@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Love-Making on Mars"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-13.html"
 ---
 
 Following the battle with the air ships, the community remained within the city for several days, abandoning the homeward march until they could feel reasonably assured that the ships would not return; for to be caught on the open plains with a cavalcade of chariots and children was far from the desire of even so warlike a people as the green Martians.

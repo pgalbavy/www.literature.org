@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Little Faithful"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-17.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-17.html"
 ---
 
 For a week the amount of virtue in the old house would have supplied the neighborhood. It was really amazing, for everyone seemed in a heavenly frame of mind, and self-denial was all the fashion. Relieved of their first anxiety about their father, the girls insensibly relaxed their praiseworthy efforts a little, and began to fall back into old ways. They did not forget their motto, but hoping and keeping busy seemed to grow easier, and after such tremendous exertions, they felt that Endeavor deserved a holiday, and gave it a good many.

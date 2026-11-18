@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - \"Feed My Sheep\""
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-10.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-10.html"
 ---
 
 The slow, monotonous days of Summer crept listlessly by like dreams which, having neither beginning nor end, pass away into nothingness, leaving only a dim memory of restlessness and mystery.

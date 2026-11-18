@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Countess And Cabinet Noir Join Forces"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-14.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-14.html"
 ---
 
 When Monsieur François Jusseret, the cleverest unattached ambassador of France's Cabinet Noir, had first met the Countess Astaride, his sardonic eyes had twinkled dry appreciation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-05.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-05.html"
 ---
 
 Toward the last of June Neville left town to spend a month with his father and mother at their summer Lome near Portsmouth. Valerie had already gone to the mountains with Rita Tevis, gaily refusing her address to everybody. And, packing their steamer trunks and satchels, the two young girls departed triumphantly for the unindicated but modest boarding-house tucked away somewhere amid the hills of Delaware County, determined to enjoy every minute of a vacation well earned, and a surcease from the round of urban and suburban gaiety which the advent of July made a labour instead of a relaxation.

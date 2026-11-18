@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - At The Opera"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-05.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-05.html"
 ---
 
 A friend had given Josephine Ford a box at the opera for one evening; our story continues by night. The box was large and important, near the stage. Josephine and Julia were there, with Robert and Jim - also two more men. The women sat in the front of the box, conspicuously. They were both poor, they were rather excited. But they belonged to a set which looked on social triumphs as a downfall that one allows oneself. The two men, Lilly and Struthers, were artists, the former literary, the latter a painter. Lilly sat by Josephine in the front of the box: he was her little lion of the evening.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Men Who Laughed"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-14.html"
 ---
 
 Before the party fell to work, the driver walked to the edge of the lake and tied his white handkerchief to the limb of a tree, which projected over the water. There was enough breeze to make it flutter, and the background of emerald brought it out with vivid distinctness. It was the signal to the bungalow that the chuck wagon, as they called it, had arrived, and the two canoes were to be sent across the lake for the supplies. Since it was expected at a certain time, our friends were on the watch for it. Within ten minutes after the piece of linen was fastened in place, the large canoes, each containing two persons, one of whom was Scout Master Hall, were seen heading for the spot where the provisions were awaiting them. It does not take a man and four lusty boys long to prepare a wagon load of such freight for shipment by water, and the cargo was ready a good while before the arrival of the craft.

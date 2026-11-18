@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Quarrel"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-19.html"
 ---
 
 Kiddie Katydid and Leaper the Locust quarreled so loudly that they soon drew a crowd around them.

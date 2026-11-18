@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-09.html"
 ---
 
 The car was quite crowded. There were more people than themselves who were going to the Fair and were obliged to economize. When the children entered, and looked about them in the dim light, they thought at first that all the seats were full. People seemed to be huddled up asleep or sitting up awake in all of them. Everybody had been trying to get to sleep, at least, and the twins found themselves making their whispers even lower than before.

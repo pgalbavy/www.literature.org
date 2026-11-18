@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Some Men"
 weight: 2
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-02.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-02.html"
 ---
 
 Ann Lytton ate alone--ate alone, but did not sit alone. She was the last patron of the dining room that evening, and, after Nora Brewster, the waitress, had surrounded her plate with an odd assortment of heavy side-dishes, she drew out a chair at the end of the table, seated herself, elbows on the limp, light linen, and, black eyes fast on the face of the other woman, pushed conversation.

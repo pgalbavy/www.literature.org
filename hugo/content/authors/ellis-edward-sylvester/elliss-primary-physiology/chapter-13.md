@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Pure Air, Clothing, Etc"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-13.html"
 ---
 
 There can be no good health without pure air. Always have it if possible. Before you lie down to sleep at night, make sure your windows are lowered at the top and slightly raised at the bottom, so that the room is well ventilated. If the bed has enough covering, you will sleep much better if the air is fresh and cool.

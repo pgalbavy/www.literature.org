@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Troopers"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-13.html"
 ---
 
 Cemuri, the wounded scout, did his duty well. Convinced that Lieutenant Decker did the right thing in ordering him to return to Fort Reno, to have his hurt looked after, he was as eager as ever to befriend the gallant young officer and his companions, thus deprived of his services.

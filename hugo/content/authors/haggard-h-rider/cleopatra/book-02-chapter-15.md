@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 15"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-15.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-15.html"
 ---
 
 OF THE FEAST OF CLEOPATRA; OF THE MELTING OF THE PEARL; OF THE SAYING OF HARMACHIS; AND OF CLEOPATRA’S VOW OF LOVE

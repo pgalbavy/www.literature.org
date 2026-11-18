@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Squinty Runs Away"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-02.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-02.html"
 ---
 
 Between the barking of Don, the dog, and the squealing of Squinty, the comical pig, who was being led along by his ear, there was so much noise in the farmer's potato patch, for a few moments, that, if you had been there, I think you would have wondered what was happening.

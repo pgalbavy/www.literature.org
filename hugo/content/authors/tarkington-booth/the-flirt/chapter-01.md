@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-01.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-01.html"
 ---
 
 Valentine Corliss walked up Corliss Street the hottest afternoon of that hot August, a year ago, wearing a suit of white serge which attracted a little attention from those observers who were able to observe anything except the heat. The coat was shaped delicately; it outlined the wearer, and, fitting him as women's clothes fit women, suggested an effeminacy not an attribute of the tall Corliss. The effeminacy belonged all to the tailor, an artist plying far from Corliss Street, for the coat would have encountered a hundred of its fellows at Trouville or Ostende this very day. Corliss Street is the Avenue du Bois de Boulogne, the Park Lane, the Fifth Avenue, of Capitol City, that smoky illuminant of our great central levels, but although it esteems itself an established cosmopolitan thoroughfare, it is still provincial enough to be watchful; and even in its torrid languor took some note of the alien garment.

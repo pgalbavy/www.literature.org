@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-07.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-07.html"
 ---
 
 NO *FIGURE* was more familiar to the downtown streets of those days than that of the young promoter of Ornaby Addition. Always in a hurry and usually with eyes fixed on what appeared to be something important in the distance, he had the air of a man hastening to complete a profitable transaction before traintime. Now and then, as he strode along, his coat blowing out behind him in the spring breeze, his gaze would be not upon the distance, but eagerly engaged in computations, with the aid of a shabby memorandum book and an obviously dangerous fountain pen. Moreover, the shabbiness of the memorandum book was not out of keeping with the rest of him; for here again Harlan’s sketch of his brother failed to exaggerate. Dan’s metropolitan gloss had disappeared almost in a day, and though it might make a brief reappearance upon Sundays, when he walked to church with his mother and swung the gold-topped cane as he talked earnestly to her of Ornaby Addition, yet for the rest of the week he did seem to be almost unconscious, as Harlan said, of what he wore; so much so that his mother gently scolded him about it.

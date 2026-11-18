@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Back To The Breaker"
 weight: 19
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-19.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-19.html"
 ---
 
 It was a dull day in the court-room at Wilkesbarre. The jury trials had all been disposed of, and for the last hour or more the court had been listening to an argument on a rule for a new trial in an ejectment case. It was a very uninteresting matter. Every one had left the court-room with the exception of the court officers, a few lawyers, and a half-dozen spectators who seemed to be there for the purpose of resting on the benches rather than with any desire to hear the proceedings before the court.

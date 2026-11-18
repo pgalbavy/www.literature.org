@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-30.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-30.html"
 ---
 
 Catherine’s disposition was not naturally sedentary, nor had her habits been ever very industrious; but whatever might hitherto have been her defects of that sort, her mother could not but perceive them now to be greatly increased. She could neither sit still nor employ herself for ten minutes together, walking round the garden and orchard again and again, as if nothing but motion was voluntary; and it seemed as if she could even walk about the house rather than remain fixed for any time in the parlour. Her loss of spirits was a yet greater alteration. In her rambling and her idleness she might only be a caricature of herself; but in her silence and sadness she was the very reverse of all that she had been before.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Billy Brings The Doctor"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-17.html"
 ---
 
 Billy Woodchuck was alarmed. His mother had come home very ill. At least, that was what Billy thought. It was a warm summer's day; but Mrs. Woodchuck seemed to be freezing with cold. Her teeth chattered so hard that the sound filled the whole house. And when Billy asked her what was the matter with her she did not say a word.

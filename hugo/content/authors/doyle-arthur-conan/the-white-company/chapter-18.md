@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - How Sir Nigel Loring Put A Patch Upon His Eye"
 weight: 18
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-18.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-18.html"
 ---
 
 IT was on the morning of Friday, the eight-and twentieth day of November, two days before the feast of St. Andrew, that the cog and her two prisoners, after a weary tacking up the Girondo and the Garonne, dropped anchor at last in front of the noble city of Bordeaux. With wonder and admiration, Alleyne, leaning over the bulwarks, gazed at the forest of masts, the swarm of boats darting hither and thither on the bosom of the broad curving stream, and the gray crescent-shaped city which stretched with many a tower and minaret along the western shore. Never had he in his quiet life seen so great a town, nor was there in the whole of England, save London alone, one which might match it in size or in wealth. Here came the merchandise of all the fair countries which are watered by the Garonne and the Dordogne--the cloths of the south, the skins of Guienne, the wines of the Medoc--to be borne away to Hull, Exeter, Dartmouth, Bristol or Chester, in exchange for the wools and woolfels of England. Here too dwelt those famous smelters and welders who had made the Bordeaux steel the most trusty upon earth, and could give a temper to lance or to sword which might mean dear life to its owner. Alleyne could see the smoke of their forges reeking up in the clear morning air. The storm had died down now to a gentle breeze, which wafted to his ears the long-drawn stirring bugle-calls which sounded from the ancient ramparts.

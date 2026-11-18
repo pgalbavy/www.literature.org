@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 24"
 weight: 148
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-24.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-24.html"
 ---
 
 The levee was drawing to a close. People met as they were going away, and gossiped of the latest news, of the newly bestowed honors and the changes in the positions of the higher functionaries.

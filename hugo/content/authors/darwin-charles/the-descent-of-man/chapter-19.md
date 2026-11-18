@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-19.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-19.html"
 ---
 
 WITH mankind the differences between the sexes are greater than in most of the Quadrumana, but not so great as in some, for instance, the mandrill. Man on an average is considerably taller, heavier, and stronger than woman, with squarer shoulders and more plainly pronounced muscles. Owing to the relation which exists between muscular development and the projection of the brows,* the superciliary ridge is generally more marked in man than in woman. His body, and especially his face, is more hairy, and his voice has a different and more powerful tone. In certain races the women are said to differ slightly in tint from the men. For instance, Schweinfurth, in speaking of a negress belonging to the Monbuttoos, who inhabit the interior of Africa a few degrees north of the equator, says, "Like all her race, she had a skin several shades lighter than her husband's, being something of the colour of half-roasted coffee."*(2) As the women labour in the fields and are quite unclothed, it is not likely that they differ in colour from the men owing to less exposure to the weather. European women are perhaps the brighter coloured of the two sexes, as may be seen when both have been equally exposed.

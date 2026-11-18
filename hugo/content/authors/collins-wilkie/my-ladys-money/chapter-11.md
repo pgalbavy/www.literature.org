@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-11.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-11.html"
 ---
 
 THE trim little maid-servant ran upstairs from her modest little kitchen, trembling at the terrible prospect of having to open the door. Miss Pink, deafened by the barking, had just time to say, "What a very ill-behaved dog!" when a sound of small objects overthrown in the hall, and a scurrying of furious claws across the oil-cloth, announced that Tommie had invaded the house. As the servant appeared, introducing Lady Lydiard, the dog ran in. He made one frantic leap at Isabel, which would certainly have knocked her down but for the chair that happened to be standing behind her. Received on her lap, the faithful creature half smothered her with his caresses. He barked, he shrieked, in his joy at seeing her again. He jumped off her lap and tore round and round the room at the top of his speed; and every time he passed Miss Pink he showed the whole range of his teeth and snarled ferociously at her ankles. Having at last exhausted his superfluous energy, he leaped back again on Isabel's lap, with his tongue quivering in his open mouth--his tail wagging softly, and his eye on Miss Pink, inquiring how she liked a dog in her drawing-room!

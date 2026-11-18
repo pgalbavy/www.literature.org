@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-03.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-03.html"
 ---
 
 "Mister Gumbril!" Surprise was mingled with delight. "This is indeed a pleasure!" Delight was now the prevailing emotion expressed by the voice that advanced, as yet without a visible source, from the dark recesses of the shop.

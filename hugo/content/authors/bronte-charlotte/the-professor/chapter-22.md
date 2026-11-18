@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-22.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-22.html"
 ---
 
 A WEEK is gone; LE JOUR DES NOCES arrived; the marriage was solemnized at St. Jacques; Mdlle. Zoraide became Madame Pelet, NEE Reuter; and, in about an hour after this transformation, "the happy pair," as newspapers phrase it, were on their way to Paris; where, according to previous arrangement, the honeymoon was to be spent. The next day I quitted the pensionnat. Myself and my chattels (some books and clothes) were soon transferred to a modest lodging I had hired in a street not far off. In half an hour my clothes were arranged in a commode, my books on a shelf, and the "flitting" was effected. I should not have been unhappy that day had not one pang tortured me--a longing to go to the Rue Notre Dame aux Neiges, resisted, yet irritated by an inward resolve to avoid that street till such time as the mist of doubt should clear from my prospects.

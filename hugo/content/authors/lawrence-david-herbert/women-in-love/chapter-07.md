@@ -1,8 +1,7 @@
 ---
 title: "chapter 07"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-07.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-07.html"
 ---
 
 In the morning Gerald woke late. He had slept heavily. Pussum was still asleep, sleeping childishly and pathetically. There was something small and curled up and defenceless about her, that roused an unsatisfied flame of passion in the young man's blood, a devouring avid pity. He looked at her again. But it would be too cruel to wake her. He subdued himself, and went away.

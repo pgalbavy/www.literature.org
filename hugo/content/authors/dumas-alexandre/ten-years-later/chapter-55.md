@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - The Abbe Fouquet"
 weight: 55
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-55.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-55.html"
 ---
 
 Fouquet hastened back to his apartment by the subterranean passage, and immediately closed the mirror with the spring. He was scarcely in his closet, when he heard some one knocking violently at the door, and a well-known voice crying: - "Open the door, monseigneur, I entreat you, open the door!" Fouquet quickly restored a little order to everything that might have revealed either his absence or his agitation: he spread his papers over the desk, took up a pen, and, to gain time, said, through the closed door, - "Who is there?"

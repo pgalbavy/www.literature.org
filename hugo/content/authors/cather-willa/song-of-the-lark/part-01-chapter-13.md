@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-13.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-13.html"
 ---
 
 At the beginning of June, when school closed, Thea had told Wunsch that she didn't know how much practicing she could get in this summer because Thor had his worst teeth still to cut.

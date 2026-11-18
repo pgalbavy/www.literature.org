@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Woof!"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-12.html"
 ---
 
 Night found Grunty Pig huddled close to the outside of the piggery. Many times he had walked around the low building, snuffing at the doors and trying in vain to find some opening through which he might crawl. To his dismay, all was snug and tight. There wasn't a hole big enough even for Miss Kitty Cat to creep through.

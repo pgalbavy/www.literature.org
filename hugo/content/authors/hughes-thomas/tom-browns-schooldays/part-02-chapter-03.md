@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - Arthur Makes A Friend"
 weight: 12
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-03.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-03.html"
 ---
 
 "Let Nature be your teacher:  

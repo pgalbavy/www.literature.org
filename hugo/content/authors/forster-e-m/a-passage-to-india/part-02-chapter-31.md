@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 31"
 weight: 31
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-31.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-31.html"
 ---
 
 Aziz had no sense of evidence. The sequence of his emotions decided his beliefs, and led to the tragic coolness between himself and his English friend. They had conquered but were not to be crowned. Fielding was away at a conference, and after the rumour about Miss Quested had been with him undisturbed for a few days, he assumed it was true. He had no objection on moral grounds to his friends amusing themselves, and Cyril, being middle-aged, could no longer expect the pick of the female market, and must take his amusement where he could find it. But he resented him making up to this particular woman, whom he still regarded as his enemy; also, why had he not been told? What is friendship without confidences? He himself had told things sometimes regarded as shocking, and the Englishman had listened, tolerant, but surrendering nothing in return.

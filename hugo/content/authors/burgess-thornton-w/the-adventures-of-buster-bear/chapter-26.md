@@ -1,8 +1,7 @@
 ---
 title: "chapter 26"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-26.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-26.html"
 ---
 
 "Gr-r-r-r! I'll eat you all up to the last hair on your tail!" growled Buster, scrambling a little nearer.

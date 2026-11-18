@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Consequences"
 weight: 30
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-30.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-30.html"
 ---
 
 Mrs. Chester's fair was so very elegant and select that it was considered a great honor by the young ladies of the neighborhood to be invited to take a table, and everyone was much interested in the matter. Amy was asked, but Jo was not, which was fortunate for all parties, as her elbows were decidedly akimbo at this period of her life, and it took a good many hard knocks to teach her how to get on easily. The 'haughty, uninteresting creature' was let severely alone, but Amy's talent and taste were duly complimented by the offer of the art table, and she exerted herself to prepare and secure appropriate and valuable contributions to it.

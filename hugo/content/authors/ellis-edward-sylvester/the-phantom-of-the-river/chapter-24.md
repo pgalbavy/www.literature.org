@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Forlorn Hope"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-24.html"
 ---
 
 It is useless to dwell upon the grief and consternation of the occupants of the flatboat when the discovery was made that little Mabel Ashbridge was missing.

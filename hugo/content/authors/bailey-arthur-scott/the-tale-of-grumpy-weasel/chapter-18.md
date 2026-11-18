@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Pop! Goes The Weasel"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-18.html"
 ---
 
 There were many things that did not please Grumpy Weasel--things that almost any one else would have liked. For instance, there was music. The Pleasant Valley Singing Society, to which most of the bird people belonged, did not number Grumpy Weasel among its admirers. He never cared to hear a bird sing--not even Jolly Robin's cousin the Hermit, who was one of the most beautiful singers in the woods. And as for Buddy Brown Thrasher, whom most people thought a brilliant performer, Grumpy Weasel always groaned whenever he heard him singing in the topmost branches of a tree.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-41.html"
+url: "/authors/eliot-george/middlemarch/chapter-41.html"
 ---
 
 "By swaggering could I never thrive, For the rain it raineth every day. - Twelfth Night

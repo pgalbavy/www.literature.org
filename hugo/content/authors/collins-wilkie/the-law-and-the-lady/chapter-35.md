@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Mr. Playmore's Prophecy"
 weight: 35
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-35.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-35.html"
 ---
 
 WE reached London between eight and nine in the evening. Strictly methodical in all his habits, Benjamin had telegraphed to his housekeeper, from Edinburgh, to have supper ready or us by ten o'clock, and to send the cabman whom he always employed to meet us at the station.

@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 9"
 weight: 238
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-09.html"
 ---
 
 Scarcely had Pierre laid his head on the pillow before he felt himself falling asleep, but suddenly, almost with the distinctness of reality, he heard the boom, boom, boom of firing, the thud of projectiles, groans and cries, and smelled blood and powder, and a feeling of horror and dread of death seized him. Filled with fright he opened his eyes and lifted his head from under his cloak. All was tranquil in the yard. Only someone's orderly passed through the gateway, splashing through the mud, and talked to the innkeeper. Above Pierre's head some pigeons, disturbed by the movement he had made in sitting up, fluttered under the dark roof of the penthouse. The whole courtyard was permeated by a strong peaceful smell of stable yards, delightful to Pierre at that moment. He could see the clear starry sky between the dark roofs of two penthouses.

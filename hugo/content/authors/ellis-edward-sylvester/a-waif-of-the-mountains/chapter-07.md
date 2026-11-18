@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Pupil And Teacher"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-07.html"
 ---
 
 Mr. Brush glanced nervously around, to learn whether any of his friends were within hearing, shuddering to think what the consequences might be. He believed that he could explain the matter to some of the folks, but the majority were so radical in their views that they would refuse to admit the distinction, and would take him to task for teaching improper language to his young pupil. It caused him another shudder at the thought that the same penalty that Wade Ruggles had undergone might be visited upon him, though it is doubtful if the issue would have been similar.

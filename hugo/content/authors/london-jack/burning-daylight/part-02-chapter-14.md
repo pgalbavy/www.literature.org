@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14"
 weight: 27
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-14.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-14.html"
 ---
 
 Life at the office went on much the way it had always gone. Never, by word or look, did they acknowledge that the situation was in any wise different from what it had always been. Each Sunday saw the arrangement made for the following Sunday's ride; nor was this ever referred to in the office. Daylight was fastidiously chivalrous on this point. He did not want to lose her from the office. The sight of her at her work was to him an undiminishing joy. Nor did he abuse this by lingering over dictation or by devising extra work that would detain her longer before his eyes. But over and beyond such sheer selfishness of conduct was his love of fair play. He scorned to utilize the accidental advantages of the situation. Somewhere within him was a higher appeasement of love than mere possession. He wanted to be loved for himself, with a fair field for both sides.

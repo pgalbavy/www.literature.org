@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - In Lone Wolf's Clutches"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-09.html"
 ---
 
 Poor Fred Munson struggled with the vigor of desperation to escape the clutches of the Indian, who swooped down upon him in the fashion described, but it was in vain; and he scarcely heard the thunder of the horses' hoofs and saw the figure of the rushing mustang, when he was snatched up by the muscular and far-reaching Apache, and borne away amid the shower of bullets, which hurtled as harmlessly about the red rider and his steed as if the two bore charmed lives.

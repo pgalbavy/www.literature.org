@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Branding-Iron"
 weight: 4
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-04.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-04.html"
 ---
 
 Stratton was never sure just how long he stood staring at her in dumb, dazed bewilderment. After those mental pictures of the Mary Thorne he had expected to find, it was small wonder that the sight of this slip of a black-frocked girl, with her soft voice, her tawny-golden hair and wistful eyes, should stun him into temporary speechlessness. Even when he finally pulled himself together to feel a hot flush flaming in his face and find one gloved hand recklessly crumpling his new Stetson, he could not quite credit the evidence of his hearing.

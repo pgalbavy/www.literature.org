@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Wonderful Work"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-17.html"
 ---
 
 Absolute hush followed the exclamation of young Burton and, as all were intently listening, there sounded through the soft stillness of the night a strange, piercing cry,—the baying of a bloodhound following the trail of a person. It was neither a bark nor a growl, but a mixture of the two,—a deep howl that might well fill a fleeing fugitive with shivering fear.

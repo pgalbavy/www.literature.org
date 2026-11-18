@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Field Of Honor"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-16.html"
 ---
 
 Deerfoot did not interrupt the Blackfoot while he was relating the legend of the Spirit Circle. He listened attentively. He had heard many such myths among his own people, and once they impressed him, but he had come to look upon them as idle tales not worth a thought. Instead of commenting upon the rude beauty of the story that had been told to his friend many years before, he asked the practical question:

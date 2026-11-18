@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Brothers And Sisters"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-10.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-10.html"
 ---
 
 POLLY'S happiest day was Sunday, for Will never failed to spend it with her. Instead of sleeping later than usual that morning, she was always up bright and early, flying round to get ready for her guest, for Will came to breakfast, and they made a long day of it. Will considered his sister the best and prettiest girl going, and Polly, knowing well that a time would come when he would find a better and a prettier, was grateful for his good opinion, and tried to deserve it. So she made her room and herself as neat and inviting as possible, and always ran to meet him with a bright face and a motherly greeting, when he came tramping in, ruddy, brisk, and beaming, with the brown loaf and the little pot of beans from the bake-house near by.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Abdul Said Bey Effects A Rescue"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-25.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-25.html"
 ---
 
 Martin, tall and aggressively British, from the black silk tassel on his red fez to the battered puttees and brown boots that had once come out of Bond Street, stood watching the Isis outlined against the opposite walls of the Yildiz Kiosk.

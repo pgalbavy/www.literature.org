@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5 - The Tea-Party"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/chance/part-01-chapter-05.html"
+url: "/authors/conrad-joseph/chance/part-01-chapter-05.html"
 ---
 
 "Amiable personality," I observed seeing Fyne on the point of falling into a brown study. But I could not help adding with meaning: "He hadn't the gift of prophecy though."

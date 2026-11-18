@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - A Dreary Night"
 weight: 42
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-42.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-42.html"
 ---
 
 Elwood fell about twenty feet, striking the solid earth, without losing his own perpendicular position. He was considerably pained, but not seriously hurt. His rifle had fallen from his hand, and was not found again until daybreak, as not knowing where he stood, whether upon the edge of some precipice or ravine, he scarcely dared move a limb.

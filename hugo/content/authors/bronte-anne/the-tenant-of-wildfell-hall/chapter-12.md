@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-12.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-12.html"
 ---
 
 In little more than twenty minutes the journey was accomplished. I paused at the gate to wipe my streaming forehead, and recover my breath and some degree of composure. Already the rapid walking had somewhat mitigated my excitement; and with a firm and steady tread I paced the garden-walk. In passing the inhabited wing of the building, I caught a sight of Mrs. Graham, through the open window, slowly pacing up and down her lonely room.

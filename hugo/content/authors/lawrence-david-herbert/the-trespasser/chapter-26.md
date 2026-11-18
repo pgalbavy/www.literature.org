@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-26.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-26.html"
 ---
 
 Helena, Louisa, and Olive climbed the steps to go to the South-Western platform. They were laden with dress-baskets, umbrellas, and little packages. Olive and Louisa, at least, were in high spirits. Olive stopped before the indicator.

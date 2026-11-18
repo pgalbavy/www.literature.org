@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-11.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-11.html"
 ---
 
 The hero of the Yukon in the younger days before the Carmack strike, Burning Daylight now became the hero of the strike. The story of his hunch and how he rode it was told up and down the land. Certainly he had ridden it far and away beyond the boldest, for no five of the luckiest held the value in claims that he held. And, furthermore, he was still riding the hunch, and with no diminution of daring. The wise ones shook their heads and prophesied that he would lose every ounce he had won. He was speculating, they contended, as if the whole country was made of gold, and no man could win who played a placer strike in that fashion.

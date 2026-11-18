@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - On The Edge Of The Gold-Fields"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-13.html"
 ---
 
 The little party of gold-seekers had every cause to congratulate themselves, for after a journey of nearly two thousand miles from Seattle, through wild passes, dangerous rapids and cañons, over precipitous mountains, amid storm and tempests, with their lives many a time in peril, half frozen and exhausted by the most wearisome toil, they had arrived at Dawson City, in the midst of the wonderful gold district of the Northwest, all without mishap and in better condition than when they left home.

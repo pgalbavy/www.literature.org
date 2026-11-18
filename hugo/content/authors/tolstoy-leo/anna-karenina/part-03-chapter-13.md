@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 13"
 weight: 82
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-13.html"
 ---
 
 None but those who were most intimate with Alexey Alexandrovitch knew that, while on the surface the coldest and most reasonable of men, he had one weakness quite opposed to the general trend of his character. Alexey Alexandrovitch could not hear or see a child or woman crying without being moved. The sight of tears threw him into a state of nervous agitation, and he utterly lost all power of reflection. The chief secretary of his department and his private secretary were aware of this, and used to warn women who came with petitions on no account to give way to tears, if they did not want to ruin their chances. "He will get angry, and will not listen to you," they used to say. And as a fact, in such cases the emotional disturbance set up in Alexey Alexandrovitch by the sight of tears found expression in hasty anger. "I can do nothing. Kindly leave the room!" he would commonly cry in such cases.

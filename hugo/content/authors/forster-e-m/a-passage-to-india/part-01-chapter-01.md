@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-01.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-01.html"
 ---
 
 Except for the Marabar Caves—and they are twenty miles off—the city of Chandrapore presents nothing extraordinary. Edged rather than washed by the river Ganges, it trails for a couple of miles along the bank, scarcely distinguishable from the rubbish it deposits so freely. There are no bathing-steps on the river front, as the Ganges happens not to be holy here; indeed there is no river front, and bazaars shut out the wide and shifting panorama of the stream. The streets are mean, the temples ineffective, and though a few fine houses exist they are hidden away in gardens or down alleys whose filth deters all but the invited guest. Chandrapore was never large or beautiful, but two hundred years ago it lay on the road between Upper India, then imperial, and the sea, and the fine houses date from that period. The zest for decoration stopped in the eighteenth century, nor was it ever democratic. There is no painting and scarcely any carving in the bazaars. The very wood seems made of mud, the inhabitants of mud moving. So abased, so monotonous is everything that meets the eye, that when the Ganges comes down it might be expected to wash the excrescence back into the soil. Houses do fall, people are drowned and left rotting, but the general outline of the town persists, swelling here, shrinking there, like some low but indestructible form of life.

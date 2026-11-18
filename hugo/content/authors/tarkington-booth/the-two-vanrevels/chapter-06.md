@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Ever Unpractical Feminine"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-06.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-06.html"
 ---
 
 It was an investigating negro child of tender years, who, possessed of a petty sense of cause and effect, brought an illuminative simplicity to bear upon the problem of the force-pump; and a multitudinous agitation greeted his discovery that the engineers had forgotten to connect their pipes with the river.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Passage of the Cordillera"
 weight: 16
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-15.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-15.html"
 ---
 
 arrow_rightValparaiso arrow_rightPortillo Pass arrow_rightSagacity of Mules arrow_rightMountain-torrents arrow_rightMines, how discovered arrow_rightProofs of the gradual Elevation of the Cordillera arrow_rightEffect of Snow on Rocks arrow_rightGeological Structure of the two main Ranges, their distinct Origin and Upheaval arrow_rightGreat Subsidence arrow_rightRed Snow arrow_rightWinds arrow_rightPinnacles of Snow arrow_rightDry and clear Atmosphere arrow_rightElectricity arrow_rightPampas arrow_rightZoology of the opposite Side of the Andes arrow_rightLocusts arrow_rightGreat Bugs arrow_rightMendoza arrow_rightUspallata Pass arrow_rightSilicified Trees buried as they grew arrow_rightIncas Bridge arrow_rightBadness of the Passes exaggerated arrow_rightCumbre arrow_rightCasuchas arrow_rightValparaiso ---

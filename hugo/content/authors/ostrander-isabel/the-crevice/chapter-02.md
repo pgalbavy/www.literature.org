@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Revelations"
 weight: 2
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-02.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-02.html"
 ---
 
 For two days Anita wandered wraithlike about the great darkened house. The thought that Ramon was keeping something from her--that he and her dead father together had kept a secret which, for some reason, must not be revealed to her, weighed upon her spirits. Conjectures as to the unknown intruder on the night of her father's death, and his possible purpose, flooded her mind to the exclusion of all else.

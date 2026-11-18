@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-43.html"
+url: "/authors/forster-e-m/howards-end/chapter-43.html"
 ---
 
 Out of the turmoil and horror that had begun with Aunt Juley’s illness and was not even to end with Leonard’s death, it seemed impossible to Margaret that healthy life should re-emerge. Events succeeded in a logical, yet senseless, train. People lost their humanity, and took values as arbitrary as those in a pack of playing-cards. It was natural that Henry should do this and cause Helen to do that, and then think her wrong for doing it; natural that she herself should think him wrong; natural that Leonard should want to know how Helen was, and come, and Charles be angry with him for coming--natural, but unreal. In this jangle of causes and effects what had become of their true selves? Here Leonard lay dead in the garden, from natural causes; yet life was a deep, deep river, death a blue sky, life was a house, death a wisp of hay, a flower, a tower, life and death were anything and everything, except this ordered insanity, where the king takes the queen, and the ace the king. Ah, no; there was beauty and adventure behind, such as the man at her feet had yearned for; there was hope this side of the grave; there were truer relationships beyond the limits that fetter us now. As a prisoner looks up and sees stars beckoning, so she, from the turmoil and horror of those days, caught glimpses of the diviner wheels.

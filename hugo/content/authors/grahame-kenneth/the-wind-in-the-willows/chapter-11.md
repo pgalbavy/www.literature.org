@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \"Like Summer Tempests Came His Tears\""
 weight: 11
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-11.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-11.html"
 ---
 
 The Rat put out a neat little brown paw, gripped Toad firmly by the scruff of the neck, and gave a great hoist and a pull; and the water-logged Toad came up slowly but surely over the edge of the hole, till at last he stood safe and sound in the hall, streaked with mud and weed, to be sure, and with the water streaming off him, but happy and high-spirited as of old, now that he found himself once more in the house of a friend, and dodgings and evasions were over, and he could lay aside a disguise that was unworthy of his position and wanted such a lot of living up to.

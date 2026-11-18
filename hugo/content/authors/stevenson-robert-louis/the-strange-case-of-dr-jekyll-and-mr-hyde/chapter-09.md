@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Dr. Lanyon’s Narrative"
 weight: 9
-aliases:
-  - "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-09.html"
+url: "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-09.html"
 ---
 
 On the ninth of January, now four days ago, I received by the evening delivery a registered envelope, addressed in the hand of my colleague and old school companion, Henry Jekyll. I was a good deal surprised by this; for we were by no means in the habit of correspondence; I had seen the man, dined with him, indeed, the night before; and I could imagine nothing in our intercourse that should justify formality of registration. The contents increased my wonder; for this is how the letter ran:

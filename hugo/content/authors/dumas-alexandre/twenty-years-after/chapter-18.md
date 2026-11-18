@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Grimaud Begins His Functions"
 weight: 18
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-18.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-18.html"
 ---
 
 Grimaud thereupon presented himself with his smooth exterior at the donjon of Vincennes. Now Monsieur de Chavigny piqued himself on his infallible penetration; for that which almost proved that he was the son of Richelieu was his everlasting pretension; he examined attentively the countenance of the applicant for place and fancied that the contracted eyebrows, thin lips, hooked nose, and prominent cheek-bones of Grimaud were favorable signs. He addressed about twelve words to him; Grimaud answered in four.

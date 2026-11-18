@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Enter Julian"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-13.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-13.html"
 ---
 
 A WEEK has passed. The scene opens again in the dining-room at Mablethorpe House.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Captain's Notions"
 weight: 14
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-12.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-12.html"
 ---
 
 The old lady dropped her work, the barmaid turned round with a start and little ejaculation, and the foreman stared with all his eyes for a moment, and then, jumping up, exclaimed—

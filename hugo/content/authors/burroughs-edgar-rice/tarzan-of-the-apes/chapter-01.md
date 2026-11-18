@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Out to Sea"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-01.html"
 ---
 
 I had this story from one who had no business to tell it to me, or to any other. I may credit the seductive influence of an old vintage upon the narrator for the beginning of it, and my own skeptical incredulity during the days that followed for the balance of the strange tale.

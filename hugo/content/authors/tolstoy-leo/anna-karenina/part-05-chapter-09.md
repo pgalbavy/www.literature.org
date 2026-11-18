@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 9"
 weight: 133
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-09.html"
 ---
 
 The old neglected palazzo, with its lofty carved ceilings and frescoes on the walls, with its floors of mosaic, with its heavy yellow stuff curtains on the windows, with its vases on pedestals, and its open fireplaces, its carved doors and gloomy reception-rooms, hung with pictures--this palazzo did much, by its very appearance after they had moved into it, to confirm in Vronsky the agreeable illusion that he was not so much a Russian country gentleman, a retired army officer, as an enlightened amateur and patron of the arts, himself a modest artist who had renounced the world, his connections, and his ambition for the sake of the woman he loved.

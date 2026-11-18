@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-01.html"
 ---
 
 On a certain summer day, a few years ago, the little village of Briggsville, in Pennsylvania, was thrown into a state of excitement, the like of which was never known since the fearful night, a hundred years before, when a band of red men descended like a cyclone upon the little hamlet with its block-house, and left barely a dozen settlers alive to tell the story of the visitation to their descendants.

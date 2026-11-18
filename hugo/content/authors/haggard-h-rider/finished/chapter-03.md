@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Hunters Hunted"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-03.html"
+url: "/authors/haggard-h-rider/finished/chapter-03.html"
 ---
 
 While I was taking off my boots I heard a noise of jabbering in some native tongue which I took to be Sisutu, and not wishing to go to the trouble of putting them on again, called to the driver of the wagon to find out what it was. This man was a Cape Colony Kaffir, a Fingo I think, with a touch of Hottentot in him. He was an excellent driver, indeed I do not think I have ever seen a better, and by no means a bad shot. Among Europeans he rejoiced in the name of Footsack, a Boer Dutch term which is generally addressed to troublesome dogs and means "Get out." To tell the truth, had I been his master he would have got out, as I suspected him of drinking, and generally did not altogether trust him. Anscombe, however, was fond of him because he had shown courage in some hunting adventure in Matabeleland, I think it was at the shooting of that very dark-coloured lion whose skin had been the means of making us acquainted nearly two years before. Indeed he said that on this occasion Footsack had saved his life, though from all that I could gather I do not think this was quite the case. Also the man, who had been on many hunting trips with sportsmen, could talk Dutch well and English enough to make himself understood, and therefore was useful.

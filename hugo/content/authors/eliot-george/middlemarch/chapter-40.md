@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-40.html"
+url: "/authors/eliot-george/middlemarch/chapter-40.html"
 ---
 
 Wise in his daily work was he: To fruits of diligence, And not to faiths or polity, He plied his utmost sense. These perfect in their little parts, Whose work is all their prize - Without them how could laws, or arts, Or towered cities rise?

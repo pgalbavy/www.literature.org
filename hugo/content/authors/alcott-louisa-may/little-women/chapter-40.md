@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - The Valley Of The Shadow"
 weight: 40
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-40.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-40.html"
 ---
 
 When the first bitterness was over, the family accepted the inevitable, and tried to bear it cheerfully, helping one another by the increased affection which comes to bind households tenderly together in times of trouble. They put away their grief, and each did his or her part toward making that last year a happy one.

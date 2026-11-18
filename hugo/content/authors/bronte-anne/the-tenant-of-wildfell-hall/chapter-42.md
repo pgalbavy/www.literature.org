@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 43
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-42.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-42.html"
 ---
 
 September 1st. - No Mr. Huntingdon yet. Perhaps he will stay among his friends till Christmas; and then, next spring, he will be off again. If he continue this plan, I shall be able to stay at Grassdale well enough - that is, I shall be able to stay, and that is enough; even an occasional bevy of friends at the shooting season may be borne, if Arthur get so firmly attached to me, so well established in good sense and principles before they come that I shall be able, by reason and affection, to keep him pure from their contaminations. Vain hope, I fear! but still, till such a time of trial comes I will forbear to think of my quiet asylum in the beloved old hall.

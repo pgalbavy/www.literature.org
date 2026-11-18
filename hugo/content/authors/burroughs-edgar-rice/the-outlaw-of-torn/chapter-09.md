@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-outlaw-of-torn/chapter-09.html"
 ---
 
 The visit of Bertrade de Montfort with her friend Mary de Stutevill was drawing to a close. Three weeks had passed since Roger de Conde had ridden out from the portals of Stutevill and many times the handsome young knight's name had been on the lips of his fair hostess and her fairer friend.

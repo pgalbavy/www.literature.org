@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Rabbit Foot Charm"
 weight: 7
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-07.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-07.html"
 ---
 
 The place which old Harry O'Dule called home was a crumbling log cabin on the shore of Levee Creek, just on the border of the Scroggie bush. Originally it had been built as a shelter for sheep, but with the clearing of the land it had fallen into disuse. O'Dule had found it on one of his pilgrimages and had promptly appropriated it unto himself. Nobody thought of disputing his possession, perhaps because most of the good people of Scotia inwardly feared the old man's uncanny powers of second sight, and the foreshadowing--on those who chose to cross him--of dire evils, some of which had been known to materialize. Old Harry boasted that he was the seventh son of a seventh son.

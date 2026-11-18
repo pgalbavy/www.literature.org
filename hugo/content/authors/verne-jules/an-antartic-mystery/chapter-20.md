@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \u0026quot;Unmerciful Disaster\u0026quot;"
 weight: 20
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-20.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-20.html"
 ---
 
 In the morning, after breakfast, it was decided that the men should begin to dig a sloping bed which would allow the Halbrane to slide to the foot of the iceberg. Would that Heaven might grant success to the operation, for who could contemplate without terror having to brave the severity of the austral winter, and to pass six months under such conditions as ours on a vast iceberg, dragged none could tell whither? Once the winter had set in, none of us could have escaped from that most terrible of fates—dying of cold.   At this moment, Dirk Peters, who was observing the horizon from south to east at about one hundred paces off, cried out in a rough voice: "Lying to!"   Lying to? What could the half-breed mean by that, except that the floating mass had suddenly ceased to drift? As for the cause of this stoppage, it was neither the moment to investigate it, nor to ask ourselves what the consequences were likely to be.   "It is true, however," cried the boatswain. "The iceberg is not stirring, and perhaps has not stirred since it capsized ! "

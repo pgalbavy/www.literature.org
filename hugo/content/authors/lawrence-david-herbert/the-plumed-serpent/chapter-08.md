@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Night In The House"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-08.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-08.html"
 ---
 
 Over the gateway of Kate's house was a big tree called a cuenta tree, because it dropped its fruits, that were little, round, hard balls like little dark marbles, perfect in shape, for the natives to gather up and string for beads, cuentas, or, more particularly, for the Pater Noster beads of the rosary. At night, the little road outside was quite dark, and the dropping of the cuentas startled the silence.

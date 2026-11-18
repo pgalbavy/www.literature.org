@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Further East"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-11.html"
 ---
 
 "With your lave?" said Tim O'Rooney, stepping forward and drawing the pipe of their Indian host from his mouth. The latter gazed at him in amazement but said nothing, and offered no objection to the impudent proceeding.

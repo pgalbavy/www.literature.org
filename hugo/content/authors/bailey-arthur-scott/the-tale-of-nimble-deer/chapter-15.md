@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Mock Battle"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-15.html"
 ---
 
 When Nimble had three-points on each of his antlers, in his fourth summer, he felt that he was at last grown up. He was now a "three-pointer." Some of the older bucks had no more points than he. Many of them were but "four-pointers." His own father had been a "five-pointer." So Nimble hoped, secretly, that he would have five-point antlers in another two years.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Operation"
 weight: 19
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-18.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-18.html"
 ---
 
 *THIS* savage onslaught, which but for the presence of mind of M. Eliphaste would have terminated in the amputation of M. Longuet’s hand, proved to them that the sanguine imagination of Cartouche had so completely invaded the brain of M. Longuet that it seemed to them the only remedy for such a misfortune was the death of Cartouche.

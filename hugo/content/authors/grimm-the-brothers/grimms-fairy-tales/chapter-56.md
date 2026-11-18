@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - Iron Hans"
 weight: 56
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-56.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-56.html"
 ---
 
 There was once upon a time a king who had a great forest near his palace, full of all kinds of wild animals. One day he sent out a huntsman to shoot him a roe, but he did not come back. ‘Perhaps some accident has befallen him,’ said the king, and the next day he sent out two more huntsmen who were to search for him, but they too stayed away. Then on the third day, he sent for all his huntsmen, and said: ‘Scour the whole forest through, and do not give up until you have found all three.’ But of these also, none came home again, none were seen again. From that time forth, no one would any longer venture into the forest, and it lay there in deep stillness and solitude, and nothing was seen of it, but sometimes an eagle or a hawk flying over it. This lasted for many years, when an unknown huntsman announced himself to the king as seeking a situation, and offered to go into the dangerous forest. The king, however, would not give his consent, and said: ‘It is not safe in there; I fear it would fare with you no better than with the others, and you would never come out again.’ The huntsman replied: ‘Lord, I will venture it at my own risk, of fear I know nothing.’

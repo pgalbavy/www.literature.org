@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Friendship"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-17.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-17.html"
 ---
 
 She tried once more to lift the big, warm, flexible body, exerting all her slender strength. It was useless. It was like attempting to lift the earth. The weight of the body frightened her.

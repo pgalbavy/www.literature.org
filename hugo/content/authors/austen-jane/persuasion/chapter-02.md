@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-02.html"
+url: "/authors/austen-jane/persuasion/chapter-02.html"
 ---
 
 Mr Shepherd, a civil, cautious lawyer, who, whatever might be his hold or his views on Sir Walter, would rather have the disagreeable prompted by anybody else, excused himself from offering the slightest hint, and only begged leave to recommend an implicit reference to the excellent judgement of Lady Russell, from whose known good sense he fully expected to have just such resolute measures advised as he meant to see finally adopted.

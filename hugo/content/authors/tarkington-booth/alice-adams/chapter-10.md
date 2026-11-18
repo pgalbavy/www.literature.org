@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-10.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-10.html"
 ---
 
 In her pocket as she spoke her hand rested upon the little sack of tobacco, which responded accusingly to the touch of her restless fingers; and she found time to wonder why she was building up this fiction for Mr. Arthur Russell. His discovery of Walter's device for whiling away the dull evening had shamed and distressed her; but she would have suffered no less if almost any other had been the discoverer. In this gentleman, after hearing that he was Mildred's Mr. Arthur Russell, Alice felt not the slightest "personal interest"; and there was yet to develop in her life such a thing as an interest not personal. At twenty-two this state of affairs is not unique.

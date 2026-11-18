@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The World Turns White"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-18.html"
 ---
 
 After he outwitted the strange dog, Tommy Fox became more of a braggart than ever. He thought that he knew just about all there was to know. But with the coming of winter Tommy found that he had many things to learn. It was almost like living in a different world, for the ground was white everywhere. And though Tommy Fox loved to play in the snow, he discovered one thing about it that he did not like at all. It frightened him when he saw how plainly his footprints showed after a fresh snow-fall. And he wondered how he would ever be able to escape being caught, should any strange dog chase him.

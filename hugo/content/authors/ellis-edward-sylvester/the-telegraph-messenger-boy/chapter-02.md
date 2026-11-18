@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Collision"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-02.html"
 ---
 
 Meanwhile Ben Mayberry was vigorously working the log in toward shore. It moved slowly, but the current was sluggish, the space brief, and he was certain to land in a few minutes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Warning"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-02.html"
 ---
 
 It must not be supposed that all of Kiddie Katydid's family made the same neverending din at night. Actually it was only the gentlemen that so amused themselves. No doubt the ladies, too, knew the secret about the mysterious Katy--and what she did.

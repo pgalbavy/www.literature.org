@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Don'T Do That!"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-13.html"
 ---
 
 Benny Badger turned in his tracks and went straight back to the place where he had left Mr. Fox.

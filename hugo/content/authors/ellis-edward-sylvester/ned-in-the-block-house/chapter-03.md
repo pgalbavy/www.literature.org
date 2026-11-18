@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Old Friends"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-03.html"
 ---
 
 The discharge of the second arrow over the head and shoulders of Ned Preston and Wildblossom Brown lent wings to their flight; instead of coming to a standstill, as they did a short time before, they bent all their energies to escape, and ran with the utmost speed.

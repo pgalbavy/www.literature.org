@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Brother John’s Story"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-12.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-12.html"
 ---
 
 Although I went to bed late I was up before sunrise. Chiefly because I wished to have some private conversation with Brother John, whom I knew to be a very early riser. Indeed, he slept less than any man I ever met.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Faith's Awakening"
 weight: 9
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-09.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-09.html"
 ---
 
 "Do you know where Faith is?" asked Gail one Saturday morning in early spring, finding Hope busy at making the beds, which was the older sister's work.

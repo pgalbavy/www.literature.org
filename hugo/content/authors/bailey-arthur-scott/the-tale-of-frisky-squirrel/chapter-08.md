@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Uncle Sammy Coon"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-08.html"
 ---
 
 One day Frisky Squirrel was looking for something to eat in the woods, when whom should he meet but Uncle Sammy Coon, a good-for-nothing old fellow who lived over in the swamp.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - You Think I Have A Secret"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-18.html"
 ---
 
 A week or so after Anstruthers’ departure Georgie decided that her visit must come to an end. Mamma was not so very well, and poor papa had a touch of his old enemy, the gout; and, really she had been away from home a long time. Did not Lisbeth think that they had better return to London, even though Pen’yllan was still as delightful as ever?

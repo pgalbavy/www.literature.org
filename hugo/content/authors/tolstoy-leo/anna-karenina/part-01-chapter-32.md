@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 32"
 weight: 32
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-32.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-32.html"
 ---
 
 The first person to meet Anna at home was her son. He dashed down the stairs to her, in spite of the governess's call, and with desperate joy shrieked: "Mother! mother!" Running up to her, he hung on her neck.

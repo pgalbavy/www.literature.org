@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-19.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-19.html"
 ---
 
 That inflexible grip which the service takes upon its units and fractions of units, had slowly and unconsciously altered the view-point of The Fifth Kentucky foot. Back there in the stagnant riffle of a life which for a century had not taken a forward step, their motto had been, "Let us alone," and every man had been a law to himself; despot over his own affairs and the affairs of his family. Now, because they obeyed in a common cause and of their own volition, obedience no longer irked them, and they had come to think of themselves less as individuals than as bricks mortared together in a military arch.

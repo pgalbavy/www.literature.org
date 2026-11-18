@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Footprints In The Snow"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-07.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-07.html"
 ---
 
 To Prince Serge Rénine, Boulevard Haussmann, Paris

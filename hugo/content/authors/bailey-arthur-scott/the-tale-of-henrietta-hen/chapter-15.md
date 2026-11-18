@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Henrietta's Fright"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-15.html"
 ---
 
 When the old horse Ebenezer stood in his stall in the barn he was always glad to talk with anybody that came along.

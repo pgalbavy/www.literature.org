@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 18"
 weight: 60
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-18.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-18.html"
 ---
 
 Elizabeth's spirits soon rising to playfulness again, she wanted Mr. Darcy to account for his having ever fallen in love with her. "How could you begin?" said she. "I can comprehend your going on charmingly, when you had once made a beginning; but what could set you off in the first place?"

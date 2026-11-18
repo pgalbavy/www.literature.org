@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Fight On The Ledge"
 weight: 34
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-34.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-34.html"
 ---
 
 In that instant of supreme horror, Mary Thorne found time to be thankful that terror struck her momentarily dumb. For now, with lips parted and a cry of warning trembling there, she saw that it was too late. Like a pointer freezing to the scent, Lynch's whole body had stiffened; one hand gripped the leveled Colt, a finger caressed the trigger. At this juncture a cry would almost surely bring that tiny, muscular contraction which might be fatal.

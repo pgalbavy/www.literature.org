@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Sword Of Damocles"
 weight: 35
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-35.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-35.html"
 ---
 
 At last the weary journey was over, and to George's intense relief he found himself upon the platform at Boisingham. He was a pretty tough subject, but he felt that a very little more of the company of the fair Edithia would be too much for him. As it happened, the station-master was a particular friend of his, and the astonishment of that worthy when he saw the respectable George in such company could scarcely be expressed in words.

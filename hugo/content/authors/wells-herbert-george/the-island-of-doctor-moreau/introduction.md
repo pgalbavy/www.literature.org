@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/introduction.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/introduction.html"
 ---
 
 ON February the First 1887, the Lady Vain was lost by collision with a derelict when about the latitude 1' S. and longitude 107' W.

@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 8"
 weight: 114
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-08.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-08.html"
 ---
 
 Again Pierre was overtaken by the depression he so dreaded. For three days after the delivery of his speech at the lodge he lay on a sofa at home receiving no one and going nowhere.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - Harvest Time"
 weight: 47
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-47.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-47.html"
 ---
 
 For a year Jo and her Professor worked and waited, hoped and loved, met occasionally, and wrote such voluminous letters that the rise in the price of paper was accounted for, Laurie said. The second year began rather soberly, for their prospects did not brighten, and Aunt March died suddenly. But when their first sorrow was over - for they loved the old lady in spite of her sharp tongue - they found they had cause for rejoicing, for she had left Plumfield to Jo, which made all sorts of joyful things possible.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Of The Vertues Commonly Called Intellectual; And Their Contrary Defects"
 weight: 10
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-08.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-08.html"
 ---
 
 Intellectuall Vertue Defined Vertue generally, in all sorts of subjects, is somewhat that is valued for eminence; and consisteth in comparison. For if all things were equally in all men, nothing would be prized. And by Vertues INTELLECTUALL, are always understood such abilityes of the mind, as men praise, value, and desire should be in themselves; and go commonly under the name of a Good Witte; though the same word Witte, be used also, to distinguish one certain ability from the rest.

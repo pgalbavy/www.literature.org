@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-40.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-40.html"
 ---
 
 With Joe Gregory entered three others, and to Anne, who was walled off from any sight of what went on, every word and intonation came up the enclosed stair well as if from a sounding board. She felt like a blind theatregoer whose ears strain to make amends for the want of eyes while a tense melodrama is building toward its climax.

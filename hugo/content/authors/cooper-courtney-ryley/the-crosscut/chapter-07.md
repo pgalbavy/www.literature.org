@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-07.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-07.html"
 ---
 
 It came to Fairchild then,--the sentence in his father's letter regarding some one who would hurry to his aid when he needed him, the references of Beamish, and the allusion of Mother Howard to a faithful friend. He forgot the pain as the tremendous Cornishman banged him on the back, he forgot the surprise of it all; he only knew that he was laughing and welcoming a big man old enough in age to be his father, yet young enough in spirit to want to come back and finish a fight he had seen begun, and strong enough in physique to stand it. Again the heavy voice boomed:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-24.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-24.html"
 ---
 
 The more Mimi thought over the late events, the more puzzled she was. What did it all mean--what could it mean, except that there was an error of fact somewhere. Could it be possible that some of them--all of them had been mistaken, that there had been no White Worm at all? On either side of her was a belief impossible of reception. Not to believe in what seemed apparent was to destroy the very foundations of belief. . . yet in old days there had been monsters on the earth, and certainly some people had believed in just such mysterious changes of identity. It was all very strange. Just fancy how any stranger--say a doctor--would regard her, if she were to tell him that she had been to a tea-party with an antediluvian monster, and that they had been waited on by up-to-date men-servants.

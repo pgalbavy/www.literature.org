@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-01.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-01.html"
 ---
 
 *PEOPLE* used to say of the two Oliphant brothers that Harlan Oliphant looked as if he lived in the Oliphants’ house, but Dan didn’t. This was a poor sort of information to any one who had never seen the house, but of course the supposition was that everybody had seen it and was familiar with its significance. It stood in a great, fine yard, in that row of great, fine yards at the upper end of National Avenue, before the avenue swung off obliquely and changed its name to Amberson Boulevard. The houses in the long row were such houses as are built no more; bricklayers worked for a dollar a day and the workman’s day was ten hours long when National Avenue grew into its glory. Those houses were of a big-walled solidity to withstand time, fire, and tornado, but they found another assailant not to be resisted by anything: this conqueror, called Progress, being the growth of the city. Until the growth came they were indomitable and fit for the centuries.

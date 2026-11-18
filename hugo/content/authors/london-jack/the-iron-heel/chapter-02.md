@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Challenges"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-02.html"
+url: "/authors/london-jack/the-iron-heel/chapter-02.html"
 ---
 
 After the guests had gone, father threw himself into a chair and gave vent to roars of Gargantuan laughter. Not since the death of my mother had I known him to laugh so heartily.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-21.html"
+url: "/authors/haggard-h-rider/dawn/chapter-21.html"
 ---
 
 Early on the day following Arthur's departure from Isleworth, Lady Bellamy received a note from George requesting her, if convenient, to come and see him that morning, as he had something rather important to talk to her about.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Men And Art"
 weight: 4
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-04.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-04.html"
 ---
 
 Among the many counts in which women have been proven inferior to men in human development is the oft-heard charge that there are no great women artists. Where one or two are proudly exhibited in evidence, they are either pooh-poohed as not very great, or held to be the trifling exceptions which do but prove the rule.

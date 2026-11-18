@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 7"
 weight: 39
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-07.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-07.html"
 ---
 
 The same day, about seven o'clock in the evening, Raskolnikov was on his way to his mother's and sister's lodging - the lodging in Bakaleyev's house which Razumihin had found for them. The stairs went up from the street. Raskolnikov walked with lagging steps, as though still hesitating whether to go or not. But nothing would have turned him back: his decision was taken.

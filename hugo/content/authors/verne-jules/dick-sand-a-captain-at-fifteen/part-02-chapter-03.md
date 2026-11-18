@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - On The March"
 weight: 21
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-03.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-03.html"
 ---
 
 Africa! That name so terrible under the present circumstances, that name which he must now substitute for that of America, was not for an instant out of Dick Sand's thoughts. When the young novice traced back the last weeks, it was to ask himself how the "Pilgrim" had ended by reaching this dangerous shore, how it had doubled Cape Horn, and passed from one ocean to the other! He could now explain to himself why, in spite of the rapid motion of his vessel, land was so long coming in sight, because the length of the distance which he should have made to reach the American coast had been doubled without his knowledge.

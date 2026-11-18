@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-21.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-21.html"
 ---
 
 Why, Deacon Henzy, besides all his cares about the buzz saw mill, and his farm work, had bought a steam threshin' machine that made him sights of work. It was a good machine. But it wuz fairly skairful to see it a-steamin' and a-blowin' right along the streets of Jonesville without the sign of a horse or ox or anything nigh it to draw it. A-puffin' out the steam, and a-tearin' right along, that awful lookin' that it skairt she that wuz Celestine Bobbet most into fits.

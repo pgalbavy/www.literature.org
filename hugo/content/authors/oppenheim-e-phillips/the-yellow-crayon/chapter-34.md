@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-34.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-34.html"
 ---
 
 The Prince presented himself with a low bow. Lucille had a copy of the morning paper in her hand.

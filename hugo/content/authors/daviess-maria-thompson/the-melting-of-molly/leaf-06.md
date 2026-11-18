@@ -1,8 +1,7 @@
 ---
 title: "Leaf 6 - The Resurrection Razoo"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-06.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-06.html"
 ---
 
 Most parties are just bunches of selfish people who go off in the corners and have good times all by themselves, but in Hillsboro, Tennessee, it is not that way. Everybody that is not invited helps the hostess get ready and have nice things for the others, and sometimes I think they really have the best time of all.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59 - The Accident At Belford"
 weight: 59
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-59.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-59.html"
 ---
 
 Early in the morning Mirabel set forth for Redwood Hall, in one of the vehicles which Mrs. Delvin still kept at "The Clink" for the convenience of visitors. He returned soon after noon; having obtained information of the whereabout of Mrs. Rook and her husband. When they had last been heard of, they were at Lasswade, near Edinburgh. Whether they had, or had not, obtained the situation of which they were in search, neither Miss Redwood nor any one else at the Hall could tell.

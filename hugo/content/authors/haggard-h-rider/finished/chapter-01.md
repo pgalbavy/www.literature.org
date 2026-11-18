@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Allan Quatermain Meets Anscombe"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-01.html"
+url: "/authors/haggard-h-rider/finished/chapter-01.html"
 ---
 
 You, my friend, into whose hand, if you live, I hope these scribblings of mine will pass one day, must well remember the 12th of April of the year 1877 at Pretoria. Sir Theophilus Shepstone, or Sompseu, for I prefer to call him by his native name, having investigated the affairs of the Transvaal for a couple of months or so, had made up his mind to annex that country to the British Crown. It so happened that I, Allan Quatermain, had been on a shooting and trading expedition at the back of the Lydenburg district where there was plenty of game to be killed in those times. Hearing that great events were toward I made up my mind, curiosity being one of my weaknesses, to come round by Pretoria, which after all was not very far out of my way, instead of striking straight back to Natal. As it chanced I reached the town about eleven o'clock on this very morning of the 12th of April and, trekking to the Church Square, proceeded to outspan there, as was usual in the Seventies. The place was full of people, English and Dutch together, and I noted that the former seemed very elated and were talking excitedly, while the latter for the most part appeared to be sullen and depressed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Strange Proceedings"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-11.html"
 ---
 
 *THE* elder Texan turned to the boys and said:

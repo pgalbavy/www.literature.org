@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Ben's Birthday"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-20.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-20.html"
 ---
 
 A superb display of flags flapped gayly in the breeze on the September morning when Ben proudly entered his teens. An irruption of bunting seemed to have broken out all over the old house, for banners of every shape and size, color and design, flew from chimney-top to gable, porch and gate-way, making the quiet place look as lively as a circus tent, which was just what Ben most desired and delighted in.

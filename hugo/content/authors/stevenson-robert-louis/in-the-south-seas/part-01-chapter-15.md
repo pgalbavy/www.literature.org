@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 15 - The Two Chiefs Of Atuona"
 weight: 15
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-15.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-15.html"
 ---
 
 It had chanced (as the Casco beat through the Bordelais Straits for Taahauku) she approached on one board very near the land in the opposite isle of Tauata, where houses were to be seen in a grove of tall coco-palms. Brother Michel pointed out the spot. ‘I am at home now,’ said he. ‘I believe I have a large share in these cocoa-nuts; and in that house madame my mother lives with her two husbands!’ ‘With two husbands?’ somebody inquired. ‘C’est ma honte,’ replied the brother drily.

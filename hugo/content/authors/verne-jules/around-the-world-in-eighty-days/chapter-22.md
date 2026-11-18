@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-22.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-22.html"
 ---
 
 In which Passepartout finds out that, even at the Antipodes, it is convenient to have some money in one's pocket

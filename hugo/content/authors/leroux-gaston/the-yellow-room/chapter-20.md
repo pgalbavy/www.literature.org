@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - An Act Of Mademoiselle Stangerson"
 weight: 20
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-20.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-20.html"
 ---
 
 "You remember me, Monsieur?" asked Rouletabille.

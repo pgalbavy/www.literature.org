@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-01.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-01.html"
 ---
 
     "And shippes by the brinke comen and gon,  

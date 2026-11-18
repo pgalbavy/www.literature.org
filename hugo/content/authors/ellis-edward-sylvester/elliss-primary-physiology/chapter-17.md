@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Cigarette Smoking"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-17.html"
 ---
 
 I have now a few words to say to the boys. I hope the girls will also listen, and help to impress the words on their friends.

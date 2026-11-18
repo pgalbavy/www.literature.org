@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Riding Forth Of Mr. Hoopdriver"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-04.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-04.html"
 ---
 
 Only those who toil six long days out of the seven, and all the year round, save for one brief glorious fortnight or ten days in the summer time, know the exquisite sensations of the First Holiday Morning. All the dreary, uninteresting routine drops from you suddenly, your chains fall about your feet. All at once you are Lord of yourself, Lord of every hour in the long, vacant day; you may go where you please, call none Sir or Madame, have a lappel free of pins, doff your black morning coat, and wear the colour of your heart, and be a Man. You grudge sleep, you grudge eating, and drinking even, their intrusion on those exquisite moments. There will be no more rising before breakfast in casual old clothing, to go dusting and getting ready in a cheerless, shutterdarkened, wrappered-up shop, no more imperious cries of, "Forward, Hoopdriver," no more hasty meals, and weary attendance on fitful old women, for ten blessed days. The first morning is by far the most glorious, for you hold your whole fortune in your hands. Thereafter, every night, comes a pang, a spectre, that will not be exorcised--the premonition of the return. The shadow of going back, of being put in the cage again for another twelve months, lies blacker and blacker across the sunlight. But on the first morning of the ten the holiday has no past, and ten days seems as good as infinity.

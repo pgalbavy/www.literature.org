@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66"
 weight: 66
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-66.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-66.html"
 ---
 
 Meanwhile Ezra and Mirah, whom Gwendolen did not include in her thinking about Deronda, were having their relation to him drawn closer and brought into fuller light.

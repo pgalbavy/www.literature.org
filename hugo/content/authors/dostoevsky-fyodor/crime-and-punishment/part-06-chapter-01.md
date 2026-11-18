@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 1"
 weight: 33
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-01.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-01.html"
 ---
 
 A strange period began for Raskolnikov: it was as though a fog had fallen upon him and wrapped him in a dreary solitude from which there was no escape. Recalling that period long after, he believed that his mind had been clouded at times, and that it had continued so, with intervals, till the final catastrophe. He was convinced that he had been mistaken about many things at that time, for instance as to the date of certain events. Anyway, when he tried later on to piece his recollections together, he learnt a great deal about himself from what other people told him. He had mixed up incidents and had explained events as due to circumstances which existed only in his imagination. At times he was a prey to agonies of morbid uneasiness, amounting sometimes to panic. But he remembered, too, moments, hours, perhaps whole days, of complete apathy, which came upon him as a reaction from his previous terror and might be compared with the abnormal insensibility, sometimes seen in the dying. He seemed to be trying in that latter stage to escape from a full and clear understanding of his position. Certain essential facts which required immediate consideration were particularly irksome to him. How glad he would have been to be free from some cares, the neglect of which would have threatened him with complete, inevitable ruin.

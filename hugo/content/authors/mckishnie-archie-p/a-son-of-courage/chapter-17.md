@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Dread Day Dawns"
 weight: 17
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-17.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-17.html"
 ---
 
 It was broad daylight when Anson, in response to an angry call from the bottom of the stairway, sat up in bed. Vaguely he realized that in some dire way this glad morning proclaimed a day of doom, but his drowsy senses were still leaping vast chasms of dreamland--striving to slip from the control of saner reasoning and drift away with a happy abandon of dire results to follow. What boy has not had the same experience, even although he knew that a razor-strop, wielded by a vigorous hand, would in all probability accomplish quickly what his drowsy will had failed to accomplish? Anson was just dropping off into the lulling arms of Morpheus when that extra sense, possessed by all boys in a measure and by certain boys in particular, warned him back to wakefulness and a realization of his danger.

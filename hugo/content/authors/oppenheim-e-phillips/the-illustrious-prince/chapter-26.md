@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Some Farewells"
 weight: 26
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-26.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-26.html"
 ---
 
 Never did Prince Maiyo show fewer signs of his Japanese origin than when in the company of other men of his own race. Side by side with His Excellency the Baron Hesho, the contrasts in feature and expression were so marked as to make it hard, indeed, to believe that these two men could belong to the same nation. The Baron Hesho had high cheekbones, a yellow skin, close-cropped black hair, and wore gold-rimmed spectacles through which he beamed upon the whole world. The Prince, as he lounged in his wicker chair and watched the blue smoke of his cigarette curl upwards, looked more like an Italian--perhaps a Spaniard. The shape of his head was perfectly Western, perfectly and typically Romanesque. The carriage of his body must have been inherited from his mother, of whom it was said that no more graceful woman ever walked. Yet between these two men, so different in all externals, there was the strongest sympathy, although they met but seldom.

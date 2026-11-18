@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Call"
 weight: 21
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-21.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-21.html"
 ---
 
 There is a regrettable but very well defined tendency in human nature which prompts the author of a miss-fire revenge to take it out on the dog. Certainly there was no more innocent party to the inveigling of Gloomy Gus than Bowles, and yet for some reason Hardy Atkins and his comrades in crime chose to gaze upon him with a frown. After laboring far into the night they had finally persuaded the cook that it was all a mistake; that no insult was intended to his years; and that it would be contrary to those high principles of Southern chivalry of which he had always been such an illustrious exponent to report the fake fight to the boss. Then they had busied themselves in the early morning with chopping wood and packing water, and similar ingratiating tasks, with the result that, when Henry Lee came down after breakfast, there was no complaint from anybody. But when he had let it pass, and started off for Chula Vista, it was cloudy in the south for Bowles.

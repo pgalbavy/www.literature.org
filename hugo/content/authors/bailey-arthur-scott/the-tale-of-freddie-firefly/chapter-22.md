@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Work On The Railroad"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-22.html"
 ---
 
 Freddie Firefly did not intend to go into the village itself. He expected to travel only as far as the railroad tracks, where they curved around a bend in the river before stretching straight away towards the town.

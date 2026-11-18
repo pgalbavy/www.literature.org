@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-15.html"
 ---
 
 Now when Dorothy had entered the palace to make her guesses and the Scarecrow was left with the Nome King, the two sat in moody silence for several minutes. Then the monarch exclaimed, in a tone of satisfaction:

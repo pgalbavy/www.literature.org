@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 19"
 weight: 209
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-19.html"
 ---
 
 On the twenty-fourth of August the battle of the Shevardino Redoubt was fought, on the twenty-fifth not a shot was fired by either side, and on the twenty-sixth the battle of Borodino itself took place.

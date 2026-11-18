@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10"
 weight: 23
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-10.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-10.html"
 ---
 
 One Sunday, late in the afternoon, found Daylight across the bay in the Piedmont hills back of Oakland. As usual, he was in a big motor-car, though not his own, the guest of Swiftwater Bill, Luck's own darling, who had come down to spend the clean-up of the seventh fortune wrung from the frozen Arctic gravel. A notorious spender, his latest pile was already on the fair road to follow the previous six. He it was, in the first year of Dawson, who had cracked an ocean of champagne at fifty dollars a quart; who, with the bottom of his gold-sack in sight, had cornered the egg-market, at twenty-four dollars per dozen, to the tune of one hundred and ten dozen, in order to pique the lady-love who had jilted him; and he it was, paying like a prince for speed, who had chartered special trains and broken all records between San Francisco and New York. And here he was once more, the "luck-pup of hell," as Daylight called him, throwing his latest fortune away with the same old-time facility.

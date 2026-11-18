@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Slight Mistake"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-17.html"
 ---
 
 Scarcely had Dickie Deer Mouse plunged into the woods when he met Fatty Coon coming in the opposite direction.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-14.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-14.html"
 ---
 
 Next morning, I bethought me, I, too, had business at L-; so I mounted my horse, and set forth on the expedition soon after breakfast. It was a dull, drizzly day; but that was no matter: it was all the more suitable to my frame of mind. It was likely to be a lonely journey; for it was no market-day, and the road I traversed was little frequented at any other time; but that suited me all the better too.

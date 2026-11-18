@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 13 - The Pleasures Of A Conscience"
 weight: 13
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-13.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-13.html"
 ---
 
 It was half-way down the glen that the full ignominy of his position came on Lewis with the shock of a thunder-clap. A hateful bitterness against her preserver and the tricks of fate had been his solitary feeling, till suddenly he realized the part he had played, and saw himself for a naked coward. Coward he called himself—without reflection; for in such a moment the mind thinks in crude colours and bold lines of division. He set his teeth in his lip, and with a heart sinking at the shameful thought stalked into the farm stables where the Glenavelin servants were.

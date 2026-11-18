@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Woodpile"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-04.html"
 ---
 
 Farmer Green always had a woodpile in the back yard. Sometimes it was big. Sometimes it was little. Sometimes it was mostly made up of four-foot logs. Sometimes the logs were all split and sawed, ready to burn.

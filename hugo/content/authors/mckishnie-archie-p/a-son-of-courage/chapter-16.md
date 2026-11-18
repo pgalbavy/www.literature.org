@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Billy Meets A Divinity"
 weight: 16
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-16.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-16.html"
 ---
 
 Billy spent the days preceding the reopening of the Valley School much as a criminal awaiting execution might spend his last hours of life. The fact that Trigger Finger Tim had always accepted the inevitable sentence of fate with calm and undaunted spirit was the one buoy to which he might cling in a turbulent sea of uncertainty. There had been so much to do; so little had been done. The hiding place of old Scroggie's will was still a secret; no check had been put upon the preparations of the interloper who claimed to be the heir of the Scroggie estate; the mystery surrounding the store robbery remained a mystery; his friend Frank Stanhope was growing thin and pale from secret suffering. And on Monday morning the Valley School would open!

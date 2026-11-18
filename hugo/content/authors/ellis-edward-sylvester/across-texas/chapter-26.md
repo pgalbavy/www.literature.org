@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Bell Rickard’s Scheme"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-26.html"
 ---
 
 *HERBERT WATROUS* turned his field glass to the left, and, for the first time since he caught sight of the adobe structure, gave attention to another part of his field of vision.

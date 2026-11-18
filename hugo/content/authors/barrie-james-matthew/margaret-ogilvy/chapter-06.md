@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Her Maid Of All Work"
 weight: 6
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-06.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-06.html"
 ---
 
 And sometimes I was her maid of all work.

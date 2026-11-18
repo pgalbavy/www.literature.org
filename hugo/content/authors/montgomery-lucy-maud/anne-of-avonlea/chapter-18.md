@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - An Adventure On The Tory Road"
 weight: 18
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-18.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-18.html"
 ---
 
 "Anne," said Davy, sitting up in bed and propping his chin on his hands, "Anne, where is sleep? People go to sleep every night, and of course I know it's the place where I do the things I dream, but I want to know WHERE it is and how I get there and back without knowing anything about it. . .and in my nighty too. Where is it?"

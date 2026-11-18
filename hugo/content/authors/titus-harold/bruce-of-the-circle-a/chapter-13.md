@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Scourging"
 weight: 13
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-13.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-13.html"
 ---
 
 In the last moments of twilight Ann sat alone in her room, cheeks still flushed, limbs still trembling at intervals, pulses retaining their swift measure. She was unstrung, aquiver with strange emotions.

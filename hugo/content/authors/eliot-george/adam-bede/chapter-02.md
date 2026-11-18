@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Preaching"
 weight: 2
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-02.html"
+url: "/authors/eliot-george/adam-bede/chapter-02.html"
 ---
 
 About a quarter to seven there was an unusual appearance of excitement in the village of Hayslope, and through the whole length of its little street, from the Donnithorne Arms to the churchyard gate, the inhabitants had evidently been drawn out of their houses by something more than the pleasure of lounging in the evening sunshine. The Donnithorne Arms stood at the entrance of the village, and a small farmyard and stackyard which flanked it, indicating that there was a pretty take of land attached to the inn, gave the traveller a promise of good feed for himself and his horse, which might well console him for the ignorance in which the weather-beaten sign left him as to the heraldic bearings of that ancient family, the Donnithornes. Mr. Casson, the landlord, had been for some time standing at the door with his hands in his pockets, balancing himself on his heels and toes and looking towards a piece of unenclosed ground, with a maple in the middle of it, which he knew to be the destination of certain grave- looking men and women whom he had observed passing at intervals.

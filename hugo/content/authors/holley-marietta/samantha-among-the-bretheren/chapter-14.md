@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-14.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-14.html"
 ---
 
 He come to our house a visitin' along the first week in June, and the last day in June wuz the day they had sot for the world to come to an end. I, myself, didn't believe she knew positive about it, and Josiah didn't either. And I sez to her, "The Bible sez that it hain't agoin' to be revealed to angels even, or to the Son himself, but only to the Father when that great day shall be." And sez I to Trueman's wife, sez I, "How should you be expected to know it?"

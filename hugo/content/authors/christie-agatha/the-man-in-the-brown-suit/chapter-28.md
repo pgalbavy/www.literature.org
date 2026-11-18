@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-28.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-28.html"
 ---
 
 _(Extract from the diary of Sir Eustace Pedler)_

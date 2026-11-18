@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 4 - In The Abbey Church"
 weight: 23
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-04.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-04.html"
 ---
 
 In Shoreby Abbey Church the prayers were kept up all night without cessation, now with the singing of psalms, now with a note or two upon the bell.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-12.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-12.html"
 ---
 
 As Elinor and Marianne were walking together the next morning the latter communicated a piece of news to her sister, which in spite of all that she knew before of Marianne's imprudence and want of thought, surprised her by its extravagant testimony of both. Marianne told her, with the greatest delight, that Willoughby had given her a horse, one that he had bred himself on his estate in Somersetshire, and which was exactly calculated to carry a woman. Without considering that it was not in her mother's plan to keep any horse, that if she were to alter her resolution in favour of this gift, she must buy another for the servant, and keep a servant to ride it, and after all, build a stable to receive them, she had accepted the present without hesitation, and told her sister of it in raptures.

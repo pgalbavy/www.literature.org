@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Nat"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-01.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-01.html"
 ---
 
 "Please, sir, is this Plumfield?" asked a ragged boy of the man who opened the great gate at which the omnibus left him.

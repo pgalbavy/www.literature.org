@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5 - How Dick Changed Sides"
 weight: 13
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-05.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-05.html"
 ---
 
 Dick, blowing out his lamp lest it should attract attention, led the way up-stairs and along the corridor. In the brown chamber the rope had been made fast to the frame of an exceeding heavy and ancient bed. It had not been detached, and Dick, taking the coil to the window, began to lower it slowly and cautiously into the darkness of the night. Joan stood by; but as the rope lengthened, and still Dick continued to pay it out, extreme fear began to conquer her resolution.

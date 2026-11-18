@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 21"
 weight: 127
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-21.html"
 ---
 
 Pierre, as one of the principal guests, had to sit down to boston with Count Rostov, the general, and the colonel. At the card table he happened to be directly facing Natasha, and was struck by a curious change that had come over her since the ball, She was silent, and not only less pretty than at the ball, but only redeemed from plainness by her look of gentle indifference to everything around.

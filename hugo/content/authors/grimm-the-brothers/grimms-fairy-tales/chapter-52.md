@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52 - First Story"
 weight: 52
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-52.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-52.html"
 ---
 
 There was once upon a time an old fox with nine tails, who believed that his wife was not faithful to him, and wished to put her to the test. He stretched himself out under the bench, did not move a limb, and behaved as if he were stone dead. Mrs Fox went up to her room, shut herself in, and her maid, Miss Cat, sat by the fire, and did the cooking. When it became known that the old fox was dead, suitors presented themselves. The maid heard someone standing at the house-door, knocking. She went and opened it, and it was a young fox, who said:

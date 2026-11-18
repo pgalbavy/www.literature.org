@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 6"
 weight: 163
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-06.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-06.html"
 ---
 
 During the time of the children's tea the grown-up people sat in the balcony and talked as though nothing had happened, though they all, especially Sergey Ivanovitch and Varenka, were very well aware that there had happened an event which, though negative, was of very great importance. They both had the same feeling, rather like that of a schoolboy after an examination, which has left him in the same class or shut him out of the school forever. Every one present, feeling too that something had happened, talked eagerly about extraneous subjects. Levin and Kitty were particularly happy and conscious of their love that evening. And their happiness in their love seemed to imply a disagreeable slur on those who would have liked to feel the same and could not--and they felt a prick of conscience.

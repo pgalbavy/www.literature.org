@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-30.html"
+url: "/authors/haggard-h-rider/dawn/chapter-30.html"
 ---
 
 Into Philip's guilty thoughts, as he wended his homeward way, we will not inquire, and indeed, for all the warm glow that the thousand pound cheque in his pocket diffused through his system, they were not to be envied. Perhaps no scoundrel presents at heart such a miserable object to himself and all who know him, as the scoundrel who attempts to deceive himself and, whilst reaping its profits, tries to shoulder the responsibility of his iniquity on to the backs of others!

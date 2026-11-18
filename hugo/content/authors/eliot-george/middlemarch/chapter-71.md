@@ -1,8 +1,7 @@
 ---
 title: "Chapter 71"
 weight: 71
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-71.html"
+url: "/authors/eliot-george/middlemarch/chapter-71.html"
 ---
 
 Clown. . . . 'Twas in the Bunch of Grapes, where, indeed, you have a delight to sit, have you not? Froth. I have so: because it is an open room, and good for winter. Clo. Why, very well then: I hope here be truths. - Measure for Measure.

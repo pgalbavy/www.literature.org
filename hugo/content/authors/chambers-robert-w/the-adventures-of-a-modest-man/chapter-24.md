@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Journey To The Moon"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-24.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-24.html"
 ---
 
 There was a silence so politely indifferent on her part that he felt it to be the signal for his dismissal. And he took his leave with a formality so attractive, and a good humour so informal, that before she meant to she had spoken again—a phrase politely meaningless in itself, yet—if he chose to take it so—acting as a stay of execution.

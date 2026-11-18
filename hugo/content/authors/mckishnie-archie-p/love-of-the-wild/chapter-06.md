@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Go-Between"
 weight: 6
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-06.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-06.html"
 ---
 
 A big man, past middle age, and seated astride a small white horse, came picking his way between the huge beech and maple trees, down through the quiet morning of the woods. He had shaggy red brows and a big mouth that drooped at the corners. The little eyes, flashing sideways in search of the blaze on the trees, were sharp and calculating. Where the ridge sloped to the valley he reined up.

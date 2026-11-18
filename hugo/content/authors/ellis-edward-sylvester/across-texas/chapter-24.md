@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Race With An Avalanche"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-24.html"
 ---
 
 *THE* little party had encamped in a hollow in the prairie, where, after eating their sparse lunch, they lolled on the ground, the men smoking their pipes, while their animals cropped the grass before lying down for the rest which they needed as much as their owners.

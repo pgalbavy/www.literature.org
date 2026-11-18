@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Metem Sells Images"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-11.html"
+url: "/authors/haggard-h-rider/elissa/chapter-11.html"
 ---
 
 Upon reaching the palace, Aziel went to the apartments of Issachar. Finding no keeper at the door, he entered, to discover the old priest kneeling in prayer at the window, which faced towards Jerusalem. So absorbed was he in his devotions that it was not until he had ended them and risen that Issachar saw Aziel standing in the chamber.

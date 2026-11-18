@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - A Postscript by Clarence"
 weight: 45
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-44.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-44.html"
 ---
 
 I, CLARENCE, must write it for him. He proposed that we two go out and see if any help could be accorded the wounded. I was strenuous against the project. I said that if there were many, we could do but little for them; and it would not be wise for us to trust ourselves among them, anyway. But he could seldom be turned from a purpose once formed; so we shut off the electric current from the fences, took an escort along, climbed over the enclosing ramparts of dead knights, and moved out upon the field. The first wounded mall who appealed for help was sitting with his back against a dead comrade. When The Boss bent over him and spoke to him, the man recognized him and stabbed him. That knight was Sir Meliagraunce, as I found out by tearing off his helmet. He will not ask for help any more.

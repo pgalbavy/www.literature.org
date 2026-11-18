@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-11.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-11.html"
 ---
 
 A new chapter in a novel is something like a new scene in a play; and when I draw up the curtain this time, reader, you must fancy you see a room in the George Inn at Millcote, with such large figured papering on the walls as inn rooms have; such a carpet, such furniture, such ornaments on the mantelpiece, such prints, including a portrait of George the Third, and another of the Prince of Wales, and a representation of the death of Wolfe. All this is visible to you by the light of an oil lamp hanging from the ceiling, and by that of an excellent fire, near which I sit in my cloak and bonnet; my muff and umbrella lie on the table, and I am warming away the numbness and chill contracted by sixteen hours' exposure to the rawness of an October day: I left Lowton at four o'clock a.m., and the Millcote town clock is now just striking eight.

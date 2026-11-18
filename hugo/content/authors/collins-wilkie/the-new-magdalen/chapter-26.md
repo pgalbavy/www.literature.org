@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Great Heart And Little Heart"
 weight: 26
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-26.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-26.html"
 ---
 
 THERE was a pause.

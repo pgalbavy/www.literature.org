@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - \"The Presbytery Has Lost Nothing Of Its Charm, Nor The Garden Its Brightness\""
 weight: 13
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-13.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-13.html"
 ---
 
 A week after the occurrence of the events I have just recounted—on the 2nd of November, to be exact —I received at my home in Paris the following telegraphic message: "Come to the Glandier by the earliest train. Bring revolvers. Friendly greetings. Rouletabille."

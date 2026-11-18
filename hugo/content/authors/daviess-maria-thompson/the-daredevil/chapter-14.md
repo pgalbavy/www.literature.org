@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - To Bear Men And To Save Them"
 weight: 14
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-14.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-14.html"
 ---
 
 In going I turned and looked back at him to see that he was standing looking after me with a very great weariness in the manner of the drooping of his shoulders and the sadness of his face.

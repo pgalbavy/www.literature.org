@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 9 - An Item Added To The Family Register"
 weight: 29
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-09.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-09.html"
 ---
 
 That first moment of renunciation and submission was followed by days of violent struggle in the miller's mind, as the gradual access of bodily strength brought with it increasing ability to embrace in one view all the conflicting conditions under which he found himself. Feeble limbs easily resign themselves to be tethered, and when we are subdued by sickness it seems possible to us to fulfil pledges which the old vigor comes back and breaks. There were times when poor Tulliver thought the fulfilment of his promise to Bessy was something quite too hard for human nature; he had promised her without knowing what she was going to say, - she might as well have asked him to carry a ton weight on his back. But again, there were many feelings arguing on her side, besides the sense that life had been made hard to her by having married him. He saw a possibility, by much pinching, of saving money out of his salary toward paying a second dividend to his creditors, and it would not be easy elsewhere to get a situation such as he could fill.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-31.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-31.html"
 ---
 
 In which Fix, the detective, considerably furthers the interests of Phileas Fogg

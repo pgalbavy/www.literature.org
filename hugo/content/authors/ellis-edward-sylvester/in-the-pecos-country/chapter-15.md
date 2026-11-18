@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Leap For Liberty"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-15.html"
 ---
 
 It seemed that nothing could be more favorable for the attempt to escape. There was Fred seated upon the back of a mustang. His copper colored captors were some distance away at the side of the ravine, while the only Indian in sight was a dozen feet ahead with his back toward him. True, there was the risk of being shot, but he felt that he did not deserve safety unless he was willing to run that or any risk.

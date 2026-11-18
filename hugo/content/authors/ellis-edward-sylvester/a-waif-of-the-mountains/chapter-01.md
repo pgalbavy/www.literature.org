@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - At New Constantinople"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-01.html"
 ---
 
 IT had been snowing hard for twenty-four hours at Dead Man's Gulch. Beginning with a few feathery particles, they had steadily increased in number until the biting air was filled with billions of snowflakes, which whirled and eddied in the gale that howled through the gorges and cañons of the Sierras. It was still snowing with no sign of cessation, and the blizzard blanketed the earth to the depth of several feet, filling up the treacherous hollows, caverns and abysses and making travel almost impossible for man or animal.

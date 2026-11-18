@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 20"
 weight: 33
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-20.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-20.html"
 ---
 
 Though Daylight appeared among his fellows hearty voiced, inexhaustible, spilling over with energy and vitality, deep down he was a very weary man. And sometime under the liquor drug, snatches of wisdom came to him far more lucidity than in his sober moments, as, for instance, one night, when he sat on the edge of the bed with one shoe in his hand and meditated on Dede's aphorism to the effect that he could not sleep in more than one bed at a time. Still holding the shoe, he looked at the array of horsehair bridles on the walls. Then, carrying the shoe, he got up and solemnly counted them, journeying into the two adjoining rooms to complete the tale. Then he came back to the bed and gravely addressed his shoe:--

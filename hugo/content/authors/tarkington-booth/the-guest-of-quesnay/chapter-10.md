@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-10.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-10.html"
 ---
 
 I had finished dressing, next morning, and was strapping my things together for the day's campaign, when I heard a shuffling step upon the porch, and the door opened gently, without any previous ceremony of knocking. To my angle of vision what at first appeared to have opened it was a tray of coffee, rolls, eggs, and a packet of sandwiches, but, after hesitating somewhat, this apparition advanced farther into the room, disclosing a pair of supporting hands, followed in due time by the whole person of a nervously smiling and visibly apprehensive Amedee. He closed the door behind him by the simple action of backing against it, took the cloth from his arm, and with a single gesture spread it neatly upon a small table, then, turning to me, laid the forefinger of his right hand warningly upon his lips and bowed me a deferential invitation to occupy the chair beside the table.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-23.html"
 ---
 
 During the long ride to Los Angeles, and later in his cell in the county jail, Custer Pennington had devoted many hours to seeking an explanation of the motives underlying the plan to involve him in a crime of which he had no knowledge, nor even a suspicion of the identity of its instigators. To his knowledge, he had no enemies whose hostility was sufficiently active to lead them to do him so great a wrong. He had had no trouble with any one recently, other than his altercation with Slick Allen several months before; yet it was obvious that he had been deliberately sacrificed for some ulterior purpose. What that purpose was he could only surmise.

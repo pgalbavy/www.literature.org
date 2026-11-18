@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Through The Mountains"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-11.html"
 ---
 
 The moon was high in the sky, and it was near midnight. O'Rooney, who had taken upon himself the task of guiding the mustang, continued him on up the ridge, directly toward the spot where Fred had lain so long watching the action of the Apaches gathered around the opening of the cave.

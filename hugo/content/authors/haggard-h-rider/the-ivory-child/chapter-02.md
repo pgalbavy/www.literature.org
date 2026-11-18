@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Allan Makes A Bet"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-02.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-02.html"
 ---
 
 On the following morning Scroope and I arrived at Castle Ragnall at or about a quarter to ten. On our way we stopped to pick up my three hundred and fifty cartridges. I had to pay something over three solid sovereigns for them, as in those days such things were dear, which showed me that I was not going to get my lesson in English pheasant shooting for nothing. The gunsmith, however, to whom Scroope gave a lift in his cart to the castle, impressed upon me that they were dirt cheap, since he and his assistant had sat up most of the night loading them with my special No. 3 shot.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-07.html"
 ---
 
 Nanda brought Dorothy bread and water for her supper, and she slept upon a hard stone couch with a single pillow and a silken coverlet.

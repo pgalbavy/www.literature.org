@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - A Old Acquaintance"
 weight: 44
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-44.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-44.html"
 ---
 
 The instant the hindmost Indian uttered his exclamation of surprise, the others paused, and thus, before Elwood Brandon fully realized his danger, he found himself confronted by the whole force. Resistance or flight was not to be thought of, so he merely stood still and tremblingly awaited their will regarding him.

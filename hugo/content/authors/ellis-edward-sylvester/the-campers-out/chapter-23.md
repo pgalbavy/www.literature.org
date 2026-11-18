@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Brilliant Shot"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-23.html"
 ---
 
 The new arrival was Hero the hound. He came on the scene with a rush and proceeded straight to business.

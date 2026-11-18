@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Ahab"
 weight: 28
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-028.html"
+url: "/authors/melville-herman/moby-dick/chapter-028.html"
 ---
 
 For several days after leaving Nantucket, nothing above hatches was seen of Captain Ahab. The mates regularly relieved each other at the watches, and for aught that could be seen to the contrary, they seemed to be the only commanders of the ship; only they sometimes issued from the cabin with orders so sudden and peremptory, that after all it was plain they but commanded vicariously. Yes, their supreme lord and dictator was there, though hitherto unseen by any eyes not permitted to penetrate into the now sacred retreat of the cabin.

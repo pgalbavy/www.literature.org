@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Haarlem"
 weight: 31
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-31.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-31.html"
 ---
 
 Haarlem, whither, three days ago, we conducted our gentle reader, and whither we request him to follow us once more in the footsteps of the prisoner, is a pleasant city, which justly prides itself on being one of the most shady in all the Netherlands.

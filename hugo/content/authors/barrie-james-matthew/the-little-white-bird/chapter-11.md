@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Runaway Perambulator"
 weight: 11
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-11.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-11.html"
 ---
 
 I sometimes met David in public places such as the Kensington Gardens, where he lorded it surrounded by his suite and wearing the blank face and glass eyes of all carriage-people. On these occasions I always stalked by, meditating on higher things, though Mary seemed to think me very hardhearted, and Irene, who had become his nurse (I forget how, but fear I had something to do with it), ran after me with messages, as, would I not call and see him in his home at twelve o'clock, at which moment, it seemed, he was at his best.

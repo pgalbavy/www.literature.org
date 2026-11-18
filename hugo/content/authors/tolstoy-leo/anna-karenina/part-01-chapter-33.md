@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 33"
 weight: 33
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-33.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-33.html"
 ---
 
 Alexey Alexandrovitch came back from the meeting of the ministers at four o'clock, but as often happened, he had not time no come in to her. He went into his study to see the people waiting for him with petitions, and to sign some papers brought him by his chief secretary. At dinner time (there were always a few people dining with the Karenins) there arrived an old lady, a cousing of Alexey Alexandrovitch, the chief secretary of the department and his wife, and a young man who had been recommended to Alexey Alexandrovitch for the service. Anna went into the drawing room to receive these guests. Precisely at five o'clock, before the bronze Peter the First clock had struck the fifth stroke, Alexey Alexandrovitch came in, wearing a white tie and evening coat with two stars, as he had to go out directly after dinner. Every minute of Alexey Alexandrovitch's life was portioned out and occupied. And to make time to get through all that lay before him every day, he adhered to the strictest punctuality. "Unhasting and unresting," was his motto. He came into the dining hall, greeted everyone, and hurriedly sat down, smiling to his wife.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - In The Nick Of Time"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-19.html"
 ---
 
 Standing in the darkness of the upper front room, stealthily watching the mysterious stranger on the other side of the street in the shadow of the elm, and knowing that burglars were at work below stairs—the nerves of mother and daughter and of Alvin Landon and Chester Haynes were on edge. Had they peered out of the window less than half an hour earlier they would have seen the meeting between the lookout and young Jim Buxton.

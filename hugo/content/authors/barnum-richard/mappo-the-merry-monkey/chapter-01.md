@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Mappo And The Cocoanut"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-01.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-01.html"
 ---
 
 Once upon a time, not so very many years ago, there lived in a tree, in a big woods, a little monkey boy. It was in a far-off country, where this little monkey lived, so far that you would have to travel many days in the steam cars, and in a steamship, to get there.

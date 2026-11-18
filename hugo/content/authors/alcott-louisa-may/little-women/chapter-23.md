@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Aunt March Settles The Question"
 weight: 23
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-23.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-23.html"
 ---
 
 Like bees swarming after their queen, mother and daughters hovered about Mr. March the next day, neglecting everything to look at, wait upon, and listen to the new invalid, who was in a fair way to be killed by kindness. As he sat propped up in a big chair by Beth's sofa, with the other three close by, and Hannah popping in her head now and then 'to peek at the dear man', nothing seemed needed to complete their happiness. But something was needed, and the elder ones felt it, though none confessed the fact. Mr. and Mrs. March looked at one another with an anxious expression, as their eyes followed Meg. Jo had sudden fits of sobriety, and was seen to shake her fist at Mr. Brooke's umbrella, which had been left in the hall. Meg was absent-minded, shy, and silent, started when the bell rang, and colored when John's name was mentioned. Amy said, "Everyone seemed waiting for something, and couldn't settle down, which was queer, since Father was safe at home," and Beth innocently wondered why their neighbors didn't run over as usual.

@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 20"
 weight: 126
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-20.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-20.html"
 ---
 
 One morning Colonel Berg, whom Pierre knew as he knew everybody in Moscow and Petersburg, came to see him. Berg arrived in an immaculate brand-new uniform, with his hair pomaded and brushed forward over his temples as the Emperor Alexander wore his hair.

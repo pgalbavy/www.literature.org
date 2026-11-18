@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 11"
 weight: 34
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-11.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-11.html"
 ---
 
 When they were gone, Elizabeth, as if intending to exasperate herself as much as possible against Mr. Darcy, chose for her employment the examination of all the letters which Jane had written to her since her being in Kent. They contained no actual complaint, nor was there any revival of past occurrences, or any communication of present suffering. But in all, and in almost every line of each, there was a want of that cheerfulness which had been used to characterize her style, and which, proceeding from the serenity of a mind at ease with itself, and kindly disposed towards every one, had been scarcely ever clouded. Elizabeth noticed every sentence conveying the idea of uneasiness, with an attention which it had hardly received on the first perusal. Mr. Darcy's shameful boast of what misery he had been able to inflict, gave her a keener sense of her sister's sufferings. It was some consolation to think that his visit to Rosings was to end on the day after the next, and a still greater, that in less than a fortnight she should herself be with Jane again, and enabled to contribute to the recovery of her spirits, by all that affection could do.

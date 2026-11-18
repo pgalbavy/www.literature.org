@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mr. Frog's Secret Sorrow"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-05.html"
 ---
 
 Ferdinand Frog always looked so cheerful that no one ever suspected that he had a secret sorrow. But it is true, nevertheless, that something troubled him, though he took great pains not to let a single one of his neighbors know that anything grieved him.

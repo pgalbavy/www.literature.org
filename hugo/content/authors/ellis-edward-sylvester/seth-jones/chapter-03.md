@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Dark Cloud Bursts"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-03.html"
 ---
 
 "Are you certain?" asked Haverland, with a painful eagerness.

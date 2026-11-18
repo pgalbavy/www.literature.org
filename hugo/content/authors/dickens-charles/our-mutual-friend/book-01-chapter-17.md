@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 17 - A Dismal Swamp"
 weight: 17
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-17.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-17.html"
 ---
 
 And now, in the blooming summer days, behold Mr and Mrs Boffin established in the eminently aristocratic family mansion, and behold all manner of crawling, creeping, fluttering, and buzzing creatures, attracted by the gold dust of the Golden Dustman!

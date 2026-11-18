@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-20.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-20.html"
 ---
 
 It is impossible to say what Mariana would have done had there been no interference, for she had worked herself into one of those furies which women of her type can attain when they feel the occasion demands it, a paroxysm none the less dangerous because its foundation is histrionic. But Rameau threw his arms about her; Mr. Percy came hastily to his assistance, and Ward and I sprang in between her and the too-fearless lady she strove to reach. Even at that, the finger-nails of Mariana's right hand touched the pretty white hat—but only touched it and no more.

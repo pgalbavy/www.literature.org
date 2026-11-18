@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - His Story"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-04.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-04.html"
 ---
 
 "I ran away from a circus," began Ben, but got no further, for Bab and Betty gave a simultaneous bounce of delight, and both cried out at once, -

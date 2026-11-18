@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4"
 weight: 5
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-04.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-04.html"
 ---
 
 ON THE AFTERNOON of that same Sunday I took my first long ride on my pony, under Otto’s direction. After that Dude and I went twice a week to the post-office, six miles east of us, and I saved the men a good deal of time by riding on errands to our neighbours. When we had to borrow anything, or to send about word that there would be preaching at the sod schoolhouse, I was always the messenger. Formerly Fuchs attended to such things after working hours.

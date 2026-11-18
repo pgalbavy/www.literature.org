@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Nero Meets Don"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-08.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-08.html"
 ---
 
 One day when Nero awoke in his circus cage, which stood in the big winter barn, the lion saw that something very different was going on from what had happened since he had been brought there from the jungle. Men were running to and fro, and the first thing Nero noticed was that Tum Tum, the jolly elephant, and all the other big animals with the long trunks were gone.

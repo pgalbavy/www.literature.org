@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Tommy Becomes Boastful"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-16.html"
 ---
 
 When Johnnie Green turned Tommy Fox loose, out in the meadow, in the moonlight, Tommy hurried across the fields as fast as he could go. You remember that he heard a fox barking, near the foot of Blue Mountain, and he thought it sounded like his mother. So Tommy barked, too. And as he ran he could hear that other fox coming towards him. Pretty soon they met, and such a joyful meeting you never saw in all your life. For it was old Mrs. Fox. And she was so delighted to see Tommy that she licked him all over with her tongue, and looked at him carefully, to see if he was hurt anywhere. Mrs. Fox had never expected to see Tommy again. But there he was, bigger than ever, and altogether too fat, for Johnnie had fed him well; and then, there were those two hens that Tommy had stolen.

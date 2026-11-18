@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Anne's History"
 weight: 5
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-05.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-05.html"
 ---
 
 "Do you know," said Anne confidentially, "I've made up my mind to enjoy this drive. It's been my experience that you can nearly always enjoy things if you make up your mind firmly that you will. Of course, you must make it up FIRMLY. I am not going to think about going back to the asylum while we're having our drive. I'm just going to think about the drive. Oh, look, there's one little early wild rose out! Isn't it lovely? Don't you think it must be glad to be a rose? Wouldn't it be nice if roses could talk? I'm sure they could tell us such lovely things. And isn't pink the most bewitching color in the world? I love it, but I can't wear it. Redheaded people can't wear pink, not even in imagination. Did you ever know of anybody whose hair was red when she was young, but got to be another color when she grew up?"

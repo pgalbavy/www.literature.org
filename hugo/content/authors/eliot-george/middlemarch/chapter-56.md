@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56"
 weight: 56
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-56.html"
+url: "/authors/eliot-george/middlemarch/chapter-56.html"
 ---
 
 "How happy is he born and taught That serveth not another's will; Whose armor is his honest thought, And simple truth his only skill! . . . . . . . This man is freed from servile bands Of hope to rise or fear to fall; Lord of himself though not of lands; And having nothing yet hath all." - SIR HENRY WOTTON.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Flank Movement"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-05.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-05.html"
 ---
 
 Young Hamil, moving thoughtfully along through the gardens, caught a glimpse of a group under the palms which halted him for an instant, then brought him forward, hat off, hand cordially outstretched.

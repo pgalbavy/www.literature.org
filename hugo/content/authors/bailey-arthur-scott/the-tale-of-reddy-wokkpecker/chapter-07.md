@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Two Neighbors"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-07.html"
 ---
 
 While Reddy Woodpecker and his cousin were getting acquainted their wives became quite friendly. Living as they did, each in an old apple tree at the lower end of the orchard, they often met. And since their doorways were almost opposite each other Mrs. Woodpecker and Mrs. Flicker didn’t even have to leave their homes to enjoy a neighborly chat.

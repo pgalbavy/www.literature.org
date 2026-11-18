@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Swede Luck"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-13.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-13.html"
 ---
 
 As the sun set that evening in a trailing blaze of glory Denver Russell came out and sat with bared arms, looking lazily down at the town. The news of his strike had roused them at last, these easy-going, do-nothing old-timers; and now, from an outcast, a crack-brained hobo miner, he was suddenly accepted as an equal. They spoke to him, they recognized him, they rushed up to his mine and stared at the ore he had dug; and even the Professor had purloined a specimen to take over and show to Murray. And all because, while the rest of them loafed, he had drifted in on his vein until he cut the stringer of copper. It was Swede luck again--the luck of that great people who invented the wheel-barrow, and taught the Irish to stand erect and run it.

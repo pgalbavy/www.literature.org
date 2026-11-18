@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61 - D'artagnan Hits On A Plan"
 weight: 61
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-61.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-61.html"
 ---
 
 As night closed in they arrived at Thirsk. The four friends appeared to be entire strangers to one another and indifferent to the precautions taken for guarding the king. They withdrew to a private house, and as they had reason every moment to fear for their safety, they occupied but one room and provided an exit, which might be useful in case of an attack. The lackeys were sent to their several posts, except that Grimaud lay on a truss of straw across the doorway.

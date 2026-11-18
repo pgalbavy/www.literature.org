@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-06.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-06.html"
 ---
 
 Neville had begun to see less and less of Valerie West. When she first returned from the country in September she had come to the studio and had given him three or four mornings on the portrait which he had begun during the previous summer. But the painting of it involved him in difficulties entirely foreign to him—difficulties born of technical timidity of the increasing and inexplicable lack of self-confidence. And deeply worried, he laid it aside, A dull, unreasoning anxiety possessed him. Those who had given him commissions to execute were commencing to importune him for results. He had never before disappointed any client. Valerie could be of very little service to him in the big mural decorations which, almost in despair, he had abruptly started. Here and there, in the imposing compositions designed for the Court House, a female figure, or group of figures, was required, but, in the main, male figures filled the preliminary cartoons—great law-givers and law-defenders of all ages and all lands, in robes and gowns of silks; in armour, in skins, in velvet and ermine—men wearing doublet, jack-coat, pourpoint; men in turban and caftan, men covered with mail of all kinds—armour of leather, of fibre, of lacquer, of quilted silk, of linked steel, Milanaise, iron cuirass; the emblazoned panoply of the Mongol paladins; Timour Melek's greaves of virgin gold; men of all nations and of all ages who fashioned or executed human law, from Moses to Caesar, from Mohammed to Genghis Kahn and the Golden Emperor, from Charlemagne to Napoleon, and down through those who made and upheld the laws in the Western world, beginning with Hiawatha, creator of the Iroquois Confederacy—the Great League.

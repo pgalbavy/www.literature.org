@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Reunited"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-32.html"
 ---
 
 "How was it that you came to leave me for so long a time?" inquired Ned, after he had welcomed his two friends with boyish enthusiasm and congratulated himself upon his timely deliverance.

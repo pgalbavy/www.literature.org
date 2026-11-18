@@ -1,8 +1,7 @@
 ---
 title: "chapter 00"
 weight: 999
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-00.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-00.html"
 ---
 
 M. Wollstonecraft was born in 1759. Her father was so great a wanderer, that the place of her birth is uncertain; she supposed, however, it was London, or Epping Forest: at the latter place she spent the first five years of her life. In early youth she exhibited traces of exquisite sensibility, soundness of understanding, and decision of character; but her father being a despot in his family, and her mother one of his subjects, Mary, derived little benefit from their parental training. She received no literary instructions but such as were to be had in ordinary day schools. Before her sixteenth year she became acquainted with Mr. Clare a clergyman, and Miss Frances Blood; the latter, two years older than herself; who possessing good taste and some knowledge of the fine arts, seems to have given the first impulse to the formation of her character. At the age of nineteen, she left her parents, and resided with a Mrs. Dawson for two years; when she returned to the parental roof to give attention to her mother, whose ill health made her presence necessary. On the death of her mother, Mary bade a final adieu to her father's house, and became the inmate of F. Blood; thus situated, their intimacy increased, and a strong attachment was reciprocated. In 1783 she commenced a day school at Newington green, in conjunction with her friend, F. Blood. At this place she became acquainted with Dr. Price, to whom she became strongly attached; the regard was mutual.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Relates How Oliver Twist Was Very Near Getting A Place Which Would Not Have Been A Sinecure"
 weight: 3
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-03.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-03.html"
 ---
 
 For a week after the commission of the impious and profane offence of asking for more, Oliver remained a close prisoner in the dark and solitary room to which he had been consigned by the wisdom and mercy of the board. It appears, at first sight not unreasonable to suppose, that, if he had entertained a becoming feeling of respect for the prediction of the gentleman in the white waistcoat, he would have established that sage individual's prophetic character, once and for ever, by tying one end of his pocket-handkerchief to a hook in the wall, and attaching himself to the other. To the performance of this feat, however, there was one obstacle: namely, that pocket-handkerchiefs being decided articles of luxury, had been, for all future times and ages, removed from the noses of paupers by the express order of the board, in council assembled: solemnly given and pronounced under their hands and seals. There was a still greater obstacle in Oliver's youth and childishness. He only cried bitterly all day; and, when the long, dismal night came on, spread his little hands before his eyes to shut out the darkness, and crouching in the corner, tried to sleep: ever and anon waking with a start and tremble, and drawing himself closer and closer to the wall, as if to feel even its cold hard surface were a protection in the gloom and loneliness which surrounded him.

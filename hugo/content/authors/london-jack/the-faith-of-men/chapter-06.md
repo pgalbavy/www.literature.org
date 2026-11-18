@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Marriage Of Lit-Lit"
 weight: 6
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-06.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-06.html"
 ---
 
 When John Fox came into a country where whisky freezes solid and may be used as a paper-weight for a large part of the year, he came without the ideals and illusions that usually hamper the progress of more delicately nurtured adventurers. Born and reared on the frontier fringe of the United States, he took with him into Canada a primitive cast of mind, an elemental simplicity and grip on things, as it were, that insured him immediate success in his new career. From a mere servant of the Hudson Bay Company, driving a paddle with the voyageurs and carrying goods on his back across the portages, he swiftly rose to a Factorship and took charge of a trading post at Fort Angelus.

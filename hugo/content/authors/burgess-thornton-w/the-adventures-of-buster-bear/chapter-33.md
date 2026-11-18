@@ -1,8 +1,7 @@
 ---
 title: "chapter 33"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-33.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-33.html"
 ---
 
 The question is, did Buster Bear steal Farmer Brown's boy's pail? To steal is to take something which belongs to some one else. There is no doubt that he stole the berries that were in the pail when he found it, for he deliberately ate them. He knew well enough that some one must have picked them—for whoever heard of blueberries growing in tin pails? So there is no doubt that when Buster took them, he stole them. But with the pail it was different. He took the pail, but he didn't mean to take it. In fact, he didn't want that pail at all.

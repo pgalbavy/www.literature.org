@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-12.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-12.html"
 ---
 
 When Susan's engagement had been approved at home, and made public to any one who took an interest in it at the hotel—and by this time the society at the hotel was divided so as to point to invisible chalk-marks such as Mr. Hirst had described, the news was felt to justify some celebration—an expedition? That had been done already. A dance then. The advantage of a dance was that it abolished one of those long evenings which were apt to become tedious and lead to absurdly early hours in spite of bridge.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 2"
 weight: 159
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-02.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-02.html"
 ---
 
 On the terrace were assembled all the ladies of the party. They always liked sitting there after dinner, and that day they had work to do there too. Besides the sewing and knitting of baby-clothes, with which all of them were busy, that afternoon jam was being made on the terrace by a method new to Agafea Mihaloyna, without the addition of water. Kitty had introduced this new method, which had been in use in her home. Agafea Mihalovna, to whom the task of jam-making had always been intrusted, considering that what had been done in the Levin household could not be amiss, had nevertheless put water with the strawberries, maintaining that the jam could not be made without it. She had been caught in the act, and was now making jam before every one, and it was to be proved to her conclusively that jam could be very well made without water.

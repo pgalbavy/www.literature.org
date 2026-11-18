@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/preface.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/preface.html"
 ---
 
 See how the Autumn leaves float by, decaying,  

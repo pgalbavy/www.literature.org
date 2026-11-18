@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-08.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-08.html"
 ---
 
 About half-past nine Jacob left the house, his door slamming, other doors slamming, buying his paper, mounting his omnibus, or, weather permitting, walking his road as other people do. Head bent down, a desk, a telephone, books bound in green leather, electric light.... "Fresh coals, sir?" ... "Your tea, sir."... Talk about football, the Hotspurs, the Harlequins; six-thirty Star brought in by the office boy; the rooks of Gray's Inn passing overhead; branches in the fog thin and brittle; and through the roar of traffic now and again a voice shouting: "Verdict—verdict—winner—winner," while letters accumulate in a basket, Jacob signs them, and each evening finds him, as he takes his coat down, with some muscle of the brain new stretched.

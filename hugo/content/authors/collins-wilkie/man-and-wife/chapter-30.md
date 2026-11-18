@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Anne In The Newspapers"
 weight: 32
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-30.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-30.html"
 ---
 
 MRS. KARNEGIE was a woman of feeble intelligence and violent temper; prompt to take offense, and not, for the most part, easy to appease. But Mrs. Karnegie being--as we all are in our various degrees--a compound of many opposite qualities, possessed a character with more than one side to it, and had her human merits as well as her human faults. Seeds of sound good feeling were scattered away in the remoter corners of her nature, and only waited for the fertilizing occasion that was to help them to spring up. The occasion exerted that benign influence when the cab brought Mr. Crum's client back to the hotel. The face of the weary, heart-sick woman, as she slowly crossed the hall, roused all that was heartiest and best in Mrs. Karnegie's nature, and said to her, as if in words, "Jealous of this broken creature? Oh, wife and mother is there no appeal to your common womanhood _here?_"

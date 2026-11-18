@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Invasion Of England"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-03.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-03.html"
 ---
 
 This is the true inside story of the invasion of England in 1911 by the Germans, and why it failed. I got my data from Baron von Gottlieb, at the time military attaché of the German Government with the Russian army in the second Russian-Japanese War, when Russia drove Japan out of Manchuria, and reduced her to a third-rate power. He told me of his part in the invasion as we sat, after the bombardment of Tokio, on the ramparts of the Emperor's palace, watching the walls of the paper houses below us glowing and smoking like the ashes of a prairie fire.

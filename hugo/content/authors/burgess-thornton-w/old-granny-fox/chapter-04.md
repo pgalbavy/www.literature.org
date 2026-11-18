@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Quacker The Duck Grows Curious"
 weight: 4
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-04.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-04.html"
 ---
 
 The most curious thing in the world is curiosity.  

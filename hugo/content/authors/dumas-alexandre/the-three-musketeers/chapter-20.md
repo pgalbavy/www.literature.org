@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Journey"
 weight: 21
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-20.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-20.html"
 ---
 
 At two o'clock in the morning, our four adventurers left Paris by the Barriere St. Denis. As long as it was dark they remained silent; in spite of themselves they submitted to the influence of the obscurity, and apprehended ambushes on every side.

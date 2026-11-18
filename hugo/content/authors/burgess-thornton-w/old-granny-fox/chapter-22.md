@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Granny Fox Plans To Get A Fat Hen"
 weight: 22
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-22.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-22.html"
 ---
 
 Full half success for Fox or Man  

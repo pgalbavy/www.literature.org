@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Eavesdropper"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-28.html"
 ---
 
 Naturally the first impression of Jack Carleton, on seeing the light, was that it proceeded from the fire kindled by Otto. It struck him as curious that he should do so before he could be certain the horse was captured; but, in accordance with his training, Jack took nothing for granted. A few guarded steps, and he discovered the truth; the light was much closer than he suspected, and came through a slight rent in the side of an Indian wigwam.

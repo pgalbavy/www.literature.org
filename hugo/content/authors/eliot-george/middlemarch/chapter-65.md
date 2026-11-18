@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65"
 weight: 65
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-65.html"
+url: "/authors/eliot-george/middlemarch/chapter-65.html"
 ---
 
 "One of us two must bowen douteless, And, sith a man is more reasonable Than woman is, ye men moste be suffrable. - CHAUCER: Canterbury Tales.

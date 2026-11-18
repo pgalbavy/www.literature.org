@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Wonderful Tidings"
 weight: 19
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-19.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-19.html"
 ---
 
 "Well," sighed Peace blissfully, while Mrs. Campbell was helping her dress for Sunday School the first Sunday after her return from Fairview, "this has been a busy week. There hasn't been a minute to spare, yet it doesn't seem like this could be Sunday already. Where has the time gone to?"

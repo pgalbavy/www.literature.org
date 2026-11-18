@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Crooked Work"
 weight: 2
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-02.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-02.html"
 ---
 
 Stratton suddenly turned his back and stared blankly through the open door. With the same unconscious instinct which had moved him to conceal his face from the old man, he fumbled in one pocket and drew forth papers and tobacco sack. It spoke well for his self-control that his fingers were almost steady as he deliberately fashioned a cigarette and thrust it between his lips. When he had lighted it and inhaled a puff or two, he turned slowly to Pop Daggett again.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Danger In The East"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-10.html"
 ---
 
 *THE* sun was no more than fairly above the horizon when the party were on the move, headed in the direction named. The expected norther did not come, the weather continuing as perfect as heart could wish. The uneven ground rendered the progress slow for a couple of hours, the horsemen being obliged to pick their way with care; but, by bearing to the right, better ground was reached, and they struck into an easy gallop which lasted for several hours.

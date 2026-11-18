@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Incident At The Window"
 weight: 7
-aliases:
-  - "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-07.html"
+url: "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-07.html"
 ---
 
 It chanced on Sunday, when Mr. Utterson was on his usual walk with Mr. Enfield, that their way lay once again through the by-street; and that when they came in front of the door, both stopped to gaze on it.

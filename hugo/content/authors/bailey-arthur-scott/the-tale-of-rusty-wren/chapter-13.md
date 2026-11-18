@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Boy Wanted!"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-13.html"
 ---
 
 It seemed to take Rusty Wren's wife a long time to recover from the fright that Jasper Jay had given her. He had amused himself by dropping cherries upon the roof of her house. But the trick had not amused the Wren family in the least.

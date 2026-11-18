@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The First Effort"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-12.html"
 ---
 
 "I've broken my jack-knife," said the yellow-headed, yellow-faced tar who rejoiced in the nickname of Brimstone. The speech was accompanied by an oath that chilled the very soul of Blair Robertson; but it was the morning after the watch which had so changed his views towards his wild associates, and he at once seized the opportunity to begin his new line of conduct.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-13.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-13.html"
 ---
 
 The next few weeks were busy ones on the farm. Before the wheat harvest was over, Nat Wheeler packed his leather trunk, put on his "store clothes," and set off to take Tom Welted back to Maine. During his absence Ralph began to outfit for life in Yucca county. Ralph liked being a great man with the Frankfort merchants, and he had never before had such an opportunity as this. He bought a new shot gun, saddles, bridles, boots, long and short storm coats, a set of furniture for his own room, a fireless cooker, another music machine, and had them shipped to Colorado. His mother, who did not like phonograph music, and detested phonograph monologues, begged him to take the machine at home, but he assured her that she would be dull without it on winter evenings. He wanted one of the latest make, put out under the name of a great American inventor.

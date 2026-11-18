@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 4"
 weight: 224
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-04.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-04.html"
 ---
 
 While the train was stopping at the provincial town, Sergey Ivanovitch did not go to the refreshment-room, but walked up and down the platform.

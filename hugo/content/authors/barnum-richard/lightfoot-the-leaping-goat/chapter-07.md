@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Lightfoot On A Boat"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-07.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-07.html"
 ---
 
 The park where Lightfoot, the leaping goat, had worked with Mike for several weeks, giving rides to children, was quite a large one. There were many paths in it, and driveways. There were also patches of woods, and places where the bushes grew in tangled clumps, making many hiding places.

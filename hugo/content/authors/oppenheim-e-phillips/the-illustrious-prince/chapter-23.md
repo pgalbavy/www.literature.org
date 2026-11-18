@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - On The Trail"
 weight: 23
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-23.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-23.html"
 ---
 
 Inspector Jacks studied the brass plate for a moment, and then rang the patients' bell. The former, he noticed was very much in want of cleaning, and for a doctor's residence there was a certain lack of smartness about the house and its appointments which betokened a limited practice. The railing in front was broken, and no pretence had been made at keeping the garden in order. Inspector Jacks had time to notice these things, for it was not until after his second summons that the door was opened by Dr. Whiles himself.

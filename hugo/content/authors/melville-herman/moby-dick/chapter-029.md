@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Enter Ahab; to Him, Stubb"
 weight: 29
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-029.html"
+url: "/authors/melville-herman/moby-dick/chapter-029.html"
 ---
 
 Some days elapsed, and ice and icebergs all astern, the Pequod now went rolling through the bright Quito spring, which at sea, almost perpetually reigns on the threshold of the eternal August of the Tropic. The warmly cool, clear, ringing perfumed, overflowing, redundant days, were as crystal goblets of Persian sherbet, heaped up-- flaked up, with rose-water snow. The starred and stately nights seemed haughty dames in jewelled velvets, nursing at home in lonely pride, the memory of their absent conquering Earls, the golden helmeted suns! For sleeping man, 'twas hard to choose between such winsome days and such seducing nights. But all the witcheries of that unwaning weather did not merely lend new spells and potencies to the outward world. Inward they turned upon the soul, especially when the still mild hours of eve came on; then, memory shot her crystals as the clear ice most forms of noiseless twilights. And all these subtle agencies, more and more they wrought on Ahab's texture.

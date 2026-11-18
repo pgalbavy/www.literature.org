@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 22"
 weight: 22
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-22.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-22.html"
 ---
 
 Adela lay for several days in the McBrydes’ bungalow. She had been touched by the sun, also hundreds of cactus spines had to be picked out of her flesh. Hour after hour Miss Derek and Mrs. McBryde examined her through magnifying glasses, always coming on fresh colonies, tiny hairs that might snap off and be drawn into the blood if they were neglected. She lay passive beneath their fingers, which developed the shock that had begun in the cave. Hitherto she had not much minded whether she was touched or not: her senses were abnormally inert and the only contact she anticipated was that of mind. Everything now was transferred to the surface of her body, which began to avenge itself, and feed unhealthily. People seemed very much alike, except that some would come close while others kept away. “In space things touch, in time things part,” she repeated to herself while the thorns were being extracted—her brain so weak that she could not decide whether the phrase was a philosophy or a pun.

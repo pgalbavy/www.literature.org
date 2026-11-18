@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Old Briar-Patch Has A New Tenant"
 weight: 12
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-12.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-12.html"
 ---
 
 *DANNY MEADOW MOUSE* slowly opened his eyes and then closed them again quickly, as if afraid to look around. He could hear some one talking. It was a pleasant voice, not at all like the terrible voice of Hooty the Owl, which was the very last thing that Danny Meadow Mouse could remember. Danny lay still a minute and listened.

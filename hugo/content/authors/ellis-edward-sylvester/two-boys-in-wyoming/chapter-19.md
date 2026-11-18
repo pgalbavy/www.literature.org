@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Into The Cavern"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-19.html"
 ---
 
 Hank Hazletine and Jack Dudley having failed to find the missing Fred Greenwood, let us try our hand at the task.

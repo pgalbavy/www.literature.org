@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-26.html"
 ---
 
 But Bertha did not go abroad, and the season reached its height and its wane, and, though Miss Jessup began to refer occasionally to the much-to-be regretted delicacy of the charming Mrs. Amory's health, there seemed but little alteration in her mode of life.

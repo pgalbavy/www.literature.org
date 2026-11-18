@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-18.html"
 ---
 
 The Tin Woodman had just noticed the cupboards and was curious to know what they contained, so he went to one of them and opened the door. There were shelves inside, and upon one of the shelves which was about on a level with his tin chin the Emperor discovered a Head -- it looked like a doll's head, only it was larger, and he soon saw it was the Head of some person. It was facing the Tin Woodman and as the cupboard door swung back, the eyes of the Head slowly opened and looked at him. The Tin Woodman was not at all surprised, for in the Land of Oz one runs into magic at every turn.

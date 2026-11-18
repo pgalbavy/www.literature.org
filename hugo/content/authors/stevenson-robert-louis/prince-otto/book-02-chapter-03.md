@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3 - The Prince And The English Traveller"
 weight: 9
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-03.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-03.html"
 ---
 
 So far Otto read, with waxing indignation; and here his fury overflowed. He tossed the roll upon the table and stood up. ‘This man,’ he said, ‘is a devil. A filthy imagination, an ear greedy of evil, a ponderous malignity of thought and language: I grow like him by the reading! Chancellor, where is this fellow lodged?’

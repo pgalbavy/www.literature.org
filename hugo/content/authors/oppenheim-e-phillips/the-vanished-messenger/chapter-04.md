@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-04.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-04.html"
 ---
 
 "My advice to you, sir, is to chuck it!"

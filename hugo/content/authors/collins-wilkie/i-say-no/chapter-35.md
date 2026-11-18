@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Treachery Of The Pipe"
 weight: 35
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-35.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-35.html"
 ---
 
 Alban took Mrs. Ellmother at her word. "I am going to venture on a guess," he said. "You have been with Miss de Sor to-night."

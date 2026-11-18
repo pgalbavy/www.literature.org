@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5"
 weight: 36
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-03-chapter-05.html"
+url: "/authors/cather-willa/song-of-the-lark/part-03-chapter-05.html"
 ---
 
 MARCH began badly for Thea. She had a cold during the first week, and after she got through her church duties on Sunday she had to go to bed with tonsilitis. She was still in the boarding-house at which young Ottenburg had called when he took her to see Mrs. Nathanmeyer. She had stayed on there because her room, although it was inconvenient and very small, was at the corner of the house and got the sunlight.

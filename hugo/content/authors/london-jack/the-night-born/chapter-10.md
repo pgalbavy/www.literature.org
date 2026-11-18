@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Mexican"
 weight: 10
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-10.html"
+url: "/authors/london-jack/the-night-born/chapter-10.html"
 ---
 
 NOBODY knew his history-- they of the Junta least of all. He was their "little mystery," their "big patriot," and in his way he worked as hard for the coming Mexican Revolution as did they. They were tardy in recognizing this, for not one of the Junta liked him. The day he first drifted into their crowded, busy rooms, they all suspected him of being a spy--one of the bought tools of the Diaz secret service. Too many of the comrades were in civil an military prisons scattered over the United States, and others of them, in irons, were even then being taken across the border to be lined up against adobe walls and shot.

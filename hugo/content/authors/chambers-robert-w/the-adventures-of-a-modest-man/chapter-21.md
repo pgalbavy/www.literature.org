@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - In A Belgian Garden"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-21.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-21.html"
 ---
 
 That evening I found Williams curled up in his corner at the Café Jaune.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59 - Squid"
 weight: 59
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-059.html"
+url: "/authors/melville-herman/moby-dick/chapter-059.html"
 ---
 
 Slowly wading through the meadows of brit, the Pequod still held on her way north-eastward towards the island of Java; a gentle air impelling her keel, so that in the surrounding serenity her three tall tapering masts mildly waved to that languid breeze, as three mild palms on a plain. And still, at wide intervals in the silvery night, the lonely, alluring jet would be seen.

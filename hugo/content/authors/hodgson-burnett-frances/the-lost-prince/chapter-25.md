@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Voice In The Night"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-25.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-25.html"
 ---
 
 Late that afternoon there wandered about the gardens two quiet, inconspicuous, rather poorly dressed boys. They looked at the palace, the shrubs, and the flower-beds, as strangers usually did, and they sat on the seats and talked as people were accustomed to seeing boys talk together. It was a sunny day and exceptionally warm, and there were more saunterers and sitters than usual, which was perhaps the reason why the ___portier___ at the entrance gates gave such slight notice to the pair that he did not observe that, though two boys came in, only one went out. He did not, in fact, remember, when he saw The Rat swing by on his crutches at closing-time, that he had entered in company with a dark-haired lad who walked without any aid. It happened that, when The Rat passed out, the ___portier___ at the entrance was much interested in the aspect of the sky, which was curiously threatening. There had been heavy clouds hanging about all day and now and then blotting out the sunshine entirely, but the sun had refused to retire altogether. Just now, however, the clouds had piled themselves in thunderous, purplish mountains, and the sun had been forced to set behind them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Idea Of A Church"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/god-the-invisible-king/chapter-07.html"
+url: "/authors/wells-herbert-george/god-the-invisible-king/chapter-07.html"
 ---
 
 1\. THE WORLD DAWN

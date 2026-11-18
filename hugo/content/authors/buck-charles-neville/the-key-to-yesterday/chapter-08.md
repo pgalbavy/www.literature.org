@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-08.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-08.html"
 ---
 
 When he reached the cabin, Saxon found Steele still awake. The gray advance-light of dawn beyond the eastern ridges had grown rosy, and the rosiness had brightened into the blue of living day when an early teamster, passing along the turnpike, saw two men garbed in what he would have called "full-dress suits," still sitting over their cigars on the verandah of the hill shack. A losing love either expels a man into the outer sourness of resentment, or graduates him into a friendship that needs no further testing. Steele was not the type that goes into an embittered exile. His face had become somewhat fixed as he listened, but there had been no surprise. He had known already, and, when the story was ended, he was an ally.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Promoted"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-12.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-12.html"
 ---
 
 There was quite a little excitement in the bunk-house that night, and when it was at its height Brigham Clark came tottering out with his bed.

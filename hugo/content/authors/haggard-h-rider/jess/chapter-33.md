@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Vengeance"
 weight: 33
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-33.html"
+url: "/authors/haggard-h-rider/jess/chapter-33.html"
 ---
 
 For three or four minutes more Jess and Jantje whispered together, after which the Hottentot rose and crept away to find out what was passing among the Boers below, and watch when Frank Muller retired to his tent. So soon as he had marked him down it was agreed that he was to come back and report to Jess.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - It's Just The Very Biggest Thing In The World"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-04.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-04.html"
 ---
 
 Hardly was it shut when Mrs. Challenger darted out from the dining-room. The small woman was in a furious temper. She barred her husband's way like an enraged chicken in front of a bulldog. It was evident that she had seen my exit, but had not observed my return.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Lightfoot Meets Slicko"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-11.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-11.html"
 ---
 
 Lightfoot and Dido stood looking at one another for a few seconds. It was the first time the goat had ever seen a bear, for though there were wild animals in the park where Mike used to drive him, Lightfoot had never been taken near the bear dens. But it was not the first time Dido had seen a goat.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Letter And A Narrative"
 weight: 11
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-11.html"
+url: "/authors/titus-harold/i-conquered/chapter-11.html"
 ---
 
 Jed Avery had been away from Young VB almost two weeks, and he had grown impatient in the interval. So he pushed his bay pony up the trail from Ranger, putting the miles behind him as quickly as possible. The little man had fretted over every step of the journey homeward, and from Colt on into the hills it was a conscious effort that kept him from abusing his horse by overtravel.

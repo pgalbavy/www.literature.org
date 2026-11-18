@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Long Walk In Christchurch Meadows"
 weight: 28
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-26.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-26.html"
 ---
 
 "Do well unto thyself and men will speak good of thee," is a maxim as old as King David's time, and just as true now as it was then. Hardy had found it so since the publication of the class list. Within a few days of that event it was known that his was a very good first. His college tutor had made his own inquiries, and repeated on several occasions in a confidential way the statement that, "with the exception of a want of polish in his Latin and Greek verses, which we seldom get except in the most finished public school men —Etonians in particular—there has been no better examination in the schools for several years." The worthy tutor went on to take glory to the college, and in a lower degree to himself. He called attention, in more than one common room, to the fact that Hardy had never had any private tuition, but had attained his intellectual development solely in the *curriculum* provided by St. Ambrose's College for the training of the youth entrusted to her. "He himself, indeed," he would add, "had always taken much interest in Hardy, and had, perhaps, done more for him than would be possible in every case, but only with direct reference to, and in supplement of the college course."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Opening Of The Flower"
 weight: 22
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-22.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-22.html"
 ---
 
 The night passed away very sweetly for Cornelius, although in great agitation. Every instant he fancied he heard the gentle voice of Rosa calling him. He then started up, went to the door, and looked through the grating, but no one was behind it, and the lobby was empty.

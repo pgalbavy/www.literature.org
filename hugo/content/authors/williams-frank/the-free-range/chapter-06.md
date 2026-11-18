@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Ugly Company"
 weight: 6
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-06.html"
+url: "/authors/williams-frank/the-free-range/chapter-06.html"
 ---
 
 Larkin's revolver was empty, and his hands mechanically went up.

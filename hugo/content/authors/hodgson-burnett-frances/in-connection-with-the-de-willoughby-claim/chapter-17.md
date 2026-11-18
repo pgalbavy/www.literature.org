@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-17.html"
 ---
 
 When, in accordance with Baird's instructions, Susan Chapman took the note to Miss Starkweather, she walked through the tree-shaded streets, feeling as if she had suddenly found herself in a foreign country. To the inhabitants of Janway's Mills, certain parts of Willowfield stood for wealth, luxury, and decorous splendour. The Mills, which lived within itself, was easily impressed. Its--occasionally resentful--respect for Willowfield was enormous. It did not behold it as a simple provincial town, whose business establishments were primitive, and whose frame houses, even when surrounded by square gardens with flower-beds adorning them, were merely comfortable middle-class abodes of domesticity. It was awed by the Willowfield Times, it revered the button factory, and bitterly envied the carriages driven and the occasional festivities held by the families of the representatives of these monopolies. The carriages were sober and middle-aged, and so were the parties, but to Janway's Mills they illustrated wealth and gaiety. People drove about in the vehicles and wore fine clothes and ate cakes and ice-cream at the parties--neither of which things had ever been possible or ever would become possible to Janway's.

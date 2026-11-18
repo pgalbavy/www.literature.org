@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Masterpiece Of Kultur"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-14.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-14.html"
 ---
 
 On the morning of Sunday, the tenth of January, Lieutenant Delroze and Sergeant d'Andeville stepped on to the platform at Corvigny, went to call on the commandant of the town and then took a carriage in which they drove to the Château d'Ornequin.

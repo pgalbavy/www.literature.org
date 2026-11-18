@@ -1,8 +1,7 @@
 ---
 title: "Dedication"
 weight: 1
-aliases:
-  - "/authors/byron-lord/don-juan/dedication.html"
+url: "/authors/byron-lord/don-juan/dedication.html"
 ---
 
 Bob Southey! You're a poet, poet laureate,  

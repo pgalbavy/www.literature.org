@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-39.html"
+url: "/authors/austen-jane/mansfield-park/chapter-39.html"
 ---
 
 Could Sir Thomas have seen all his niece's feelings, when she wrote her first letter to her aunt, he would not have despaired; for though a good night's rest, a pleasant morning, the hope of soon seeing William again, and the comparatively quiet state of the house, from Tom and Charles being gone to school, Sam on some project of his own, and her father on his usual lounges, enabled her to express herself cheerfully on the subject of home, there were still, to her own perfect consciousness, many drawbacks suppressed. Could he have seen only half that she felt before the end of a week, he would have thought Mr. Crawford sure of her, and been delighted with his own sagacity.

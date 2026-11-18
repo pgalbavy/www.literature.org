@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-06.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-06.html"
 ---
 
 There was incipient demoralisation already in the offices of Craig & Son. Young gentlemen perched on high benches still searched city maps and explored high-way and by-way with compass and pencil-point, but their ears were alert to every shout from the streets, and their interest remained centred in the newspaper bulletins across the way, where excited crowds clamoured for details not forthcoming.

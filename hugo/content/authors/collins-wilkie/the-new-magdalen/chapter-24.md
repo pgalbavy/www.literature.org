@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Lady Janet's Letter"
 weight: 24
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-24.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-24.html"
 ---
 
 THE narrative leaves Lady Janet and Horace Holmcroft together, and returns to Julian and Mercy in the library.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/chapter-04.html"
 ---
 
 WHEN the Good Wolf had drawn the red sled with Barty on it nearly to the edge of the deep forest, he stopped. "Now," he said, "you must get off and unharness me."

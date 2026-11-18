@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-06.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-06.html"
 ---
 
 The adventure that was so to alter the future occurred when Michael, in no uncertain manner, announced to all and sundry his presence on the Makambo. It was due to Kwaque's carelessness, to commence with, for Kwaque left the stateroom without tight-closing the door. As the Makambo rolled on an easy sea the door swung back and forth, remaining wide open for intervals and banging shut but not banging hard enough to latch itself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Mishap"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-06.html"
 ---
 
 *THE* flight of so immense a number of bison during the dry season would have filled the air with thick clouds of suffocating dust, but our friends were spared this infliction. It was not only early in the season, when the grass was green and the soil damp, but there had been a heavy rainfall a couple of days before.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Flood"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-15.html"
 ---
 
 "THIS means another move for me," said Master Meadow Mouse. Fatty Coon had broken into the house in the shock of corn where Master Meadow Mouse had been living. And Master Meadow Mouse had fled.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - An Interlude"
 weight: 19
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-19.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-19.html"
 ---
 
 "To think that this is my twentieth birthday, and that I've left my teens behind me forever," said Anne, who was curled up on the hearth-rug with Rusty in her lap, to Aunt Jamesina who was reading in her pet chair. They were alone in the living room. Stella and Priscilla had gone to a committee meeting and Phil was upstairs adorning herself for a party.

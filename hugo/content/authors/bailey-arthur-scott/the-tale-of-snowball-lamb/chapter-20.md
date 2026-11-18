@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Swimming Hole"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-20.html"
 ---
 
 After the affair at the swing it was as much as a week before Johnnie Green saw anything of his neighbor Red.

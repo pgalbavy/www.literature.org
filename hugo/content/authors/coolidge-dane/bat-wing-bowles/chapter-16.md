@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Straw-Boss"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-16.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-16.html"
 ---
 
 It is the philosophy of the poseurs in pessimism that for every happy moment we have in life we pay at a later date a greater price. Of course, any one who ever took a kid to the circus knows better, but there are times when the doctrine seems to hold. When Bowles returned to the round-up, the news of his perfidy had preceded him--he had taken advantage of his position and spent the evening at the big house! Thereupon the hotheads lowered upon him malignantly, and Hardy Atkins hunted up his high-life bottle.

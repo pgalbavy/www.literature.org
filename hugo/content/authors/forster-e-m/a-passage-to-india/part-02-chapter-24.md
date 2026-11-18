@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 24"
 weight: 24
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-24.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-24.html"
 ---
 
 Making sudden changes of gear, the heat accelerated its advance after Mrs. Moore’s departure until existence had to be endured and crime punished with the thermometer at a hundred and twelve. Electric fans hummed and spat, water splashed on to screens, ice clinked, and outside these defences, between a greyish sky and a yellowish earth, clouds of dust moved hesitatingly. In Europe life retreats out of the cold, and exquisite fireside myths have resulted—Balder, Persephone—but here the retreat is from the source of life, the treacherous sun, and no poetry adorns it because disillusionment cannot be beautiful. Men yearn for poetry though they may not confess it; they desire that joy shall be graceful and sorrow august and infinity have a form, and India fails to accommodate them. The annual helter-skelter of April, when irritability and lust spread like a canker, is one of her comments on the orderly hopes of humanity. Fish manage better; fish, as the tanks dry, wriggle into the mud and wait for the rains to uncake them. But men try to be harmonious all the year round, and the results are occasionally disastrous. The triumphant machine of civilization may suddenly hitch and be immobilized into a car of stone, and at such moments the destiny of the English seems to resemble their predecessors’, who also entered the country with intent to refashion it, but were in the end worked into its pattern and covered with its dust.

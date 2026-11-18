@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4"
 weight: 35
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-04.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-04.html"
 ---
 
 From her upstairs window Mrs. Wheeler could see Claude moving back and forth in the west field, drilling wheat. She felt lonely for him. He didn't come home as often as he might. She had begun to wonder whether he was one of those people who are always discontented; but whatever his disappointments were, he kept them locked in his own breast. One had to learn the lessons of life. Nevertheless, it made her a little sad to see him so settled and indifferent at twenty-three.

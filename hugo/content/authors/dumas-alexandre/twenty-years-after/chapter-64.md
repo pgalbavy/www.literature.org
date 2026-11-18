@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64 - Whitehall"
 weight: 64
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-64.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-64.html"
 ---
 
 The parliament condemned Charles to death, as might have been foreseen. Political judgments are generally vain formalities, for the same passions which give rise to the accusation ordain to the condemnation. Such is the atrocious logic of revolutions.

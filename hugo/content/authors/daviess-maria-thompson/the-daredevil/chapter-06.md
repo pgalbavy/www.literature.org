@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - \"We Both Need You\""
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-06.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-06.html"
 ---
 
 I do not know how it is that I shall find words in which to write down the loveliness of that Gouverneur of Old Harpeth. He was not as tall as my Uncle, the General Robert, and he was slender and lithe as some wild thing in a forest, but the power in the broadness of his shoulders and in the strength of his nervous hands was of a greatness of which to be frightened; that is, I think, of which a man should be frightened but in which a woman would take much glory. His hair was of the tarnished gold of a sunset storm and upon his temples was a curved crest of white that sparkled like the spray of a wave. All of which I must have seen with some kind of inward eyes, for from the moment my eyes lifted themselves from contemplating the carpet in embarrassment over my tweed trousers they were looking into his in a way which at dawn my eyes have gazed into the morning star rising near to me over the little wood at the Chateau de Grez. I did not for many days know whether those eyes were gray or blue or purple, for when I regarded them I forgot to decide, and also they were so deep and shadowed by the blackness of their lashes and brows that such a decision was difficult. At this time I only knew that in them lay the fire of the lightning over Old Harpeth when the storm breaks, the laugh of the very small boy who splashes bare feet in the water with glee, and also a coldness of the stars upon the frost of winter. I was glad that I came across the dark ocean to flee from the cruel guns into a strange land to look into those eyes.

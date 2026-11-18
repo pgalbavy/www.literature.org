@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - No One At Home"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-03.html"
 ---
 
 Since there seemed to be nobody lurking in the shadows around him, and watching him, Benny Badger turned to the ground squirrel's hole and began to dig. How he did make the dirt fly! He scooped it up with his big feet and flung it back in a shower, not caring in the least where it fell. For he was interested not in what lay behind, but before him.

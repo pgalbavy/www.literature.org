@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Slicko’s Big Adventure"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-11.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-11.html"
 ---
 
 Slicko had been a tame squirrel for several months. Before that, and for a longer time, she had been just a little wild squirrel, living in the woods, and doing as all wild squirrels do.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Letter From The Secretary"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-20.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-20.html"
 ---
 
 As Mrs. Hardesty guessed, Rimrock was hurrying away in order to follow Mary Fortune; and as Rimrock guessed, she had invited him in to keep him from doing just that. She failed, for once, and it hurt her pride; but Rimrock failed as well. After a swift spin through the streets he returned to his hotel and called up his detective in a rage.

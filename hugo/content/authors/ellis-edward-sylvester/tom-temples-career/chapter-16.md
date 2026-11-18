@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - New Plans"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-16.html"
 ---
 
 IT *MUST* not be supposed that Tom cared nothing for the loss of his fortune. He was old enough to know the value of money, and to realize the great difference it would make in the life that lay before him. But he was one of those who think it foolish to cry over spilled milk, and he at once resolved to make the best of his position. As to the loss of such friends as the Davenports, he cared little. He had always understood that they cared for him only because he was rich, and he was neither astonished nor disappointed at the change which had come over them.

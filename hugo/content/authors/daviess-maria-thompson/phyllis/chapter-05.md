@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-05.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-05.html"
 ---
 
 The desire to be popular may be one of the unworthy ambitions of a person's heart, yet there is nothing in the world so delightful as having it happen to you. And if having almost everybody like you, and show it by being nice and friendly to you on all occasions, makes you happy your own self, how much more happy you are when somebody you love gets a slice of it all along with you!

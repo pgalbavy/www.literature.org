@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 3"
 weight: 48
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-05-chapter-03.html"
+url: "/authors/cather-willa/song-of-the-lark/part-05-chapter-03.html"
 ---
 
 ON Friday afternoon Thea Kronborg was walking excitedly up and down her sitting-room, which at that hour was flooded by thin, clear sunshine. Both windows were open, and the fire in the grate was low, for the day was one of those false springs that sometimes blow into New York from the sea in the middle of winter, soft, warm, with a persuasive salty moisture in the air and a relaxing thaw under foot. Thea was flushed and animated, and she seemed as restless as the sooty sparrows that chirped and cheeped distractingly about the windows. She kept looking at the black clock, and then down into the Square. The room was full of flowers, and she stopped now and then to arrange them or to move them into the sunlight. After the bellboy came to announce a visitor, she took some Roman hyacinths from a glass and stuck them in the front of her dark-blue dress.

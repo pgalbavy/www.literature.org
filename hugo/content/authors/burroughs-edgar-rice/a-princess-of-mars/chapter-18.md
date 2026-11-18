@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Chained in Warhoon"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-18.html"
 ---
 
 It must have been several hours before I regained consciousness and I well remember the feeling of surprise which swept over me as I realized that I was not dead.

@@ -1,8 +1,7 @@
 ---
 title: "Translator's Preface"
 weight: 1
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/preface.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/preface.html"
 ---
 
 Translated By Constance Garnett

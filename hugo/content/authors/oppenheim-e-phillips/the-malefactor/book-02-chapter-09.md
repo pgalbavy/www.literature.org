@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 9 - \u0026quot;I Am Misanthropos, And Hate Mankind\u0026quot;"
 weight: 25
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-09.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-09.html"
 ---
 
 Wingrave had just come in from an early gallop. His pale cheeks were slightly flushed, and his eyes were bright. He had been riding hard to escape from disconcerting thoughts. He looked in at the study, and found Aynesworth with a mass of correspondence before him.

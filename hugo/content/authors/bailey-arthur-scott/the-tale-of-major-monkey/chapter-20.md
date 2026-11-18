@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Fast Ride"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-20.html"
 ---
 
 For once Mrs. Robin had reason to complain that her husband did not do his share of the work. Jolly Robin would spend most of his time at the further end of the orchard, talking with "that good-for-nothing Major Monkey," to use Mrs. Robin's own words.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Home Of The Holy Flower"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-17.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-17.html"
 ---
 
 Half an hour or so passed, during which I was engaged alternately in thinking over our position and in listening to Stephen’s rhapsodies. First he dilated on the loveliness of the Holy Flower that he had caught a glimpse of when he climbed the wall, and secondly, on the beauty of the eyes of the young lady in white. Only by telling him that he might offend her did I persuade him not to attempt to break into the sacred enclosure where the orchid grew. As we were discussing the point, the gate opened and she appeared.

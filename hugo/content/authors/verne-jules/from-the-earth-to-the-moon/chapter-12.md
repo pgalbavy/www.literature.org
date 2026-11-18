@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-12.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-12.html"
 ---
 
 The astronomical, mechanical, and topographical difficulties resolved, finally came the question of finance. The sum required was far too great for any individual, or even any single State, to provide the requisite millions.

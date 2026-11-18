@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 4"
 weight: 22
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-04.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-04.html"
 ---
 
 Human nature is so well disposed towards those who are in interesting situations, that a young person, who either marries or dies, is sure of being kindly spoken of.

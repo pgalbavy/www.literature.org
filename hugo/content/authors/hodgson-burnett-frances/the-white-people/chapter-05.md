@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-05.html"
 ---
 
 I went to tea under the big apple-tree. It was very big and old and wonderful. No wonder Mr. MacNairn and his mother loved it. Its great branches spread out farther than I had ever seen the branches of an apple-tree spread before. They were gnarled and knotted and beautiful with age. Their shadows upon the grass were velvet, deep and soft. Such a tree could only have lived its life in such a garden. At least it seemed so to me. The high, dim-colored walls, with their curious, low corner towers and the leafage of the wall fruits spread against their brick, inclosed it embracingly, as if they were there to take care of it and its beauty. But the tree itself seemed to have grown there in all its dignified loveliness of shadow to take care of Mrs. MacNairn, who sat under it. I felt as if it loved and was proud of her.

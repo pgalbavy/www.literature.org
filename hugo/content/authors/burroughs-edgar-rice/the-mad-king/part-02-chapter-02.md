@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - Condemned To Death"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-02.html"
 ---
 
 For some time Barney Custer lay there in the dark revolving in his mind all that he had overheard through the partition--the thin partition which alone lay between himself and three men who would be only too glad to embrace the first opportunity to destroy him. But his fears were not for himself so much as for the daughter of old Von der Tann, and for all that might befall that princely house were these three unhung rascals to gain Lutha and have their way with the weak and cowardly king who reigned there.

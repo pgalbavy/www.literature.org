@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-05.html"
 ---
 
 "Do you want me to befriend you?" asked the renegade, bending his head down close to the scared countenance of Maggie Brainerd, smiling and trying to speak in so low a voice that no one else could catch his words.

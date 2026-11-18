@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - How The White Company Came To Be Disbanded"
 weight: 37
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-37.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-37.html"
 ---
 
 THEN uprose from the hill in the rugged Calabrian valley a sound such as had not been heard in those parts before, nor was again, until the streams which rippled amid the rocks had been frozen by over four hundred winters and thawed by as many returning springs. Deep and full and strong it thundered down the ravine, the fierce battle-call of a warrior race, the last stern welcome to whoso should join with them in that world-old game where the stake is death. Thrice it swelled forth and thrice it sank away, echoing and reverberating amidst the crags. Then, with set faces, the Company rose up among the storm of stones, and looked down upon the thousands who sped swiftly up the slope against them. Horse and spear had been set aside, but on foot, with sword and battle-axe, their broad shields slung in front of them, the chivalry of Spain rushed to the attack.

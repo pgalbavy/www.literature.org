@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Storm Brews And Breaks"
 weight: 17
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-15.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-15.html"
 ---
 
 Certainly Drysdale's character came out well that night. He did not seem the least jealous of the success which had been achieved through his dismissal. On the contrary, there was no man in the college who showed more interest in the race, or joy at the result, then he. Perhaps the pleasure of being out of it himself may have reckoned for something with him. In any case, there he was at the door with Jack, to meet the crew as they landed after the race, with a large pewter, foaming with shandygaff, in each hand, for their recreation. Draco himself could not have forbidden them to drink at that moment; so, amidst shaking of hands and clapping on the back, the pewters travelled round from stroke to bow, and then the crew went off to their dressing-room, accompanied by Drysdale and others.

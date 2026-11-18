@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Conclusion"
 weight: 39
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-39.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-39.html"
 ---
 
 The horrified Fred Ashman saw that the poisoned arrow, aimed at his own heart had buried itself in the fair arm of Ariel, as she clasped him about the neck anxious to shield him from harm at the expense of her own life.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Singular Meeting"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-25.html"
 ---
 
 The paint on the face of the Shawanoe could not hide the astonishment caused by the words of Wharton Edwards. Despite the askew brain, the Indian was wonderfully shrewd in some respects.

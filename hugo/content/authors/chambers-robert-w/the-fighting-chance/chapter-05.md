@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Winning Loser"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-05.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-05.html"
 ---
 
 The week passed swiftly, day after day echoing with the steady fusillade from marsh to covert, from valley to ridge. Guns flashed at dawn and dusk along the flat tidal reaches haunted of black mallard and teal; the smokeless powder cracked through alder swamp and tangled windfall where the brown grouse burst away into noisy blundering flight; where the woodcock, wilder now, shrilled skyward like feathered rockets, and the big northern hares, not yet flecked with snowy patches of fur, loped off into swamps to the sad undoing of several of the younger setters.

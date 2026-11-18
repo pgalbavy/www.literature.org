@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-22.html"
 ---
 
 In little more than two weeks Dowie descended from her train in the London station and took a hansom cab which carried her through the familiar streets to Eaton Square. She was comforted somewhat by the mere familiarity of things--even by the grade of smoke which seemed in some way to be different from the smoke of Manchester's cotton factory chimneys--by the order of rattle and roar and rumble, which had a homelike sound. She had not felt at home in Manchester and she had not felt quite at home with Henrietta though she had done her duty by her. Their worlds had been far apart and daily adjustment to circumstances is not easy though it may be accomplished without the betrayal of any outward sign. His lordship's summons had come soon, as he had said it would, but he had made it possible for her to leave in the little house a steady and decent woman to take her place when she gave it up.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Gardners' Call"
 weight: 36
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-36.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-36.html"
 ---
 
 "Here is a letter with an Indian stamp for you, Aunt Jimsie," said Phil. "Here are three for Stella, and two for Pris, and a glorious fat one for me from Jo. There's nothing for you, Anne, except a circular."

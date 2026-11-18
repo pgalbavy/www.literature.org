@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-15.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-15.html"
 ---
 
 Now it seems that when Queen Cor fled from her island to Regos, she had wit enough, although greatly frightened, to make a stop at the royal dairy, which was near to the bridge, and to drag poor Queen Garee from the butter-house and across to Regos with her. The warriors of King Gos had never before seen the terrible Queen Cor frightened, and therefore when she came running across the bridge of boats, dragging the Queen of Pingaree after her by one arm, the woman's great fright had the effect of terrifying the waiting warriors.

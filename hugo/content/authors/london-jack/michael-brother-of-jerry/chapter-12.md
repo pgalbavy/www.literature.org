@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-12.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-12.html"
 ---
 
 So sailed the Ship of Fools--Michael playing with Scraps, respecting Cocky and by Cocky being bullied and wheedled, singing with Steward and worshipping him; Daughtry drinking his six quarts of beer each day, collecting his wages the first of each month, and admiring Charles Stough Greenleaf as the finest man on board; Kwaque serving and loving his master and thickening and darkening and creasing his brow with the growing leprous infiltration; Ah Moy avoiding the Black Papuan as the very plague, washing himself continuously and boiling his blankets once a week; Captain Doane doing the navigating and worrying about his flat-building in San Francisco; Grimshaw resting his ham-hands on his colossal knees and girding at the pawnbroker to contribute as much to the adventure as he was contributing from his wheat-ranches; Simon Nishikanta wiping his sweaty neck with the greasy silk handkerchief and painting endless water-colours; the mate patiently stealing the ship's latitude and longitude with his duplicate key; and the Ancient Mariner, solacing himself with Scotch highballs, smoking fragrant three-for-a-dollar Havanas that were charged to the adventure, and for ever maundering about the hell of the longboat, the cross-bearings unnamable, and the treasure a fathom under the sand.

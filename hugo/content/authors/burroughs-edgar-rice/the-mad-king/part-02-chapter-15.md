@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15 - Maenck Blunders"
 weight: 27
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-15.html"
 ---
 
 After a hurried breakfast Peter of Blentz and Captain Ernst Maenck left the castle of Blentz. Prince Peter rode north toward the frontier, Austria, and safety, Captain Maenck rode south toward Lustadt. Neither knew that general orders had been issued to soldiery and gendarmerie of Lutha to capture them dead or alive. So Prince Peter rode carelessly; but Captain Maenck, because of the nature of his business and the proximity of enemies about Lustadt, proceeded with circumspection.

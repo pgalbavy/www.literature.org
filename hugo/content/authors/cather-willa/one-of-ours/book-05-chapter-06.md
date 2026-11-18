@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 6"
 weight: 59
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-06.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-06.html"
 ---
 
 The next morning Claude awoke with such a sense of physical well-being as he had not had for a long time. The sun was shining brightly on the white plaster walls and on the red tiles of the floor. Green jalousies, half-drawn, shaded the upper part of the two windows. Through their slats, he could see the forking branches of an old locust tree that grew by the gate. A flock of pigeons flew over it, dipping and mounting with a sharp twinkle of silver wings. It was good to lie again in a house that was cared for by women. He must have felt that even in his sleep, for when he opened his eyes he was thinking about Mahailey and breakfast and summer mornings on the farm. The early stillness was sweet, and the feeling of dry, clean linen against his body. There was a smell of lavender about his warm pillow. He lay still for fear of waking Lieutenant Gerhardt. This was the sort of peace one wanted to enjoy alone. When he rose cautiously on his elbow and looked at the other bed, it was empty. His companion must have dressed and slipped out when day first broke. Somebody else who liked to enjoy things alone; that looked hopeful. But now that he had the place to himself, he decided to get up. While he was dressing he could see old M. Joubert down in the garden, watering the plants and vines, raking the sand fresh and smooth, clipping off dead leaves and withered flowers and throwing them into a wheelbarrow. These people had lost both their sons in the war, he had been told, and now they were taking care of the property for their grandchildren,--two daughters of the elder son. Claude saw Gerhardt come into the garden, and sit down at the table under the trees, where they had their dinner last night. He hurried down to join him. Gerhardt made room for him on the bench.

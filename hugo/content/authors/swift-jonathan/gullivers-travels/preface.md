@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/preface.html"
+url: "/authors/swift-jonathan/gullivers-travels/preface.html"
 ---
 
 *THE PUBLISHER TO THE READER*

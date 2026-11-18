@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Chunky Is Surprised"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-02.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-02.html"
 ---
 
 “Oh, Chunky!” cried Mumpy, as she saw Big Foot rushing at her brother. “Oh, Chunky, come on home!”

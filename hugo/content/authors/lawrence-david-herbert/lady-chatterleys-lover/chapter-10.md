@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-10.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-10.html"
 ---
 
 Connie was a good deal alone now, fewer people came to Wragby. Clifford no longer wanted them. He had turned against even the cronies. He was queer. He preferred the radio, which he had installed at some expense, with a good deal of success at last. He could sometimes get Madrid or Frankfurt, even there in the uneasy Midlands.

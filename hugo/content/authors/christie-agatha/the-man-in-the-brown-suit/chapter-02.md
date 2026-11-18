@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-02.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-02.html"
 ---
 
 Every one was very kind to me. Dazed as I was, I appreciated that. I felt no overwhelming grief. Papa had never loved me, I knew that well enough. If he had, I might have loved him in return. No, there had not been love between us, but we had belonged together, and I had looked after him, and had secretly admired his learning and his uncompromising devotion to science. And it hurt me that Papa should have died just when the interest of life was at its height for him. I should have felt happier if I could have buried him in a cave, with paintings of reindeer and flint implements, but the force of public opinion constrained a neat tomb (with marble slab) in our hideous local churchyard. The vicar’s consolations, though well meant, did not console me in the least.

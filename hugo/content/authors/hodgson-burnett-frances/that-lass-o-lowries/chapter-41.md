@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - “A Soart O' Pollygy”"
 weight: 41
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-41.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-41.html"
 ---
 
 The interview between Anice and Derrick was a long one. At the end Derrick said:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"It Is Not A Game\""
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-09.html"
 ---
 
 Loristan walked slowly up and down the back sitting-room and listened to Marco, who sat by the small fire and talked.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Magic"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-03.html"
 ---
 
 One of the first things Mrs. Woodchuck taught her children was to beware of dogs and foxes, minks and weasels, skunks and great horned owls. She often made them say the names of those enemies over and over again.

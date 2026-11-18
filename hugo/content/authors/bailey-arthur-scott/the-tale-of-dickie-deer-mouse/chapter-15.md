@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Plunge In The Dark"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-15.html"
 ---
 
 There was one hole, especially, among those he found in Farmer Green's pasture, from which Dickie Deer Mouse ran as fast as he could scamper.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11 - Maggie Tries To Run Away From Her Shadow"
 weight: 11
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-11.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-11.html"
 ---
 
 Maggie'S intentions, as usual, were on a larger scale than Tom imagined. The resolution that gathered in her mind, after Tom and Lucy had walked away, was not so simple as that of going home. No! she would run away and go to the gypsies, and Tom should never see her any more. That was by no means a new idea to Maggie; she had been so often told she was like a gypsy, and "half wild," that when she was miserable it seemed to her the only way of escaping opprobrium, and being entirely in harmony with circumstances, would be to live in a little brown tent on the commons; the gypsies, she considered, would gladly receive her and pay her much respect on account of her superior knowledge. She had once mentioned her views on this point to Tom and suggested that he should stain his face brown, and they should run away together; but Tom rejected the scheme with contempt, observing that gypsies were thieves, and hardly got anything to eat and had nothing to drive but a donkey. To-day however, Maggie thought her misery had reached a pitch at which gypsydom was her refuge, and she rose from her seat on the roots of the tree with the sense that this was a great crisis in her life; she would run straight away till she came to Dunlow Common, where there would certainly be gypsies; and cruel Tom, and the rest of her relations who found fault with her, should never see her any more. She thought of her father as she ran along, but she reconciled herself to the idea of parting with him, by determining that she would secretly send him a letter by a small gypsy, who would run away without telling where she was, and just let him know that she was well and happy, and always loved him very much.

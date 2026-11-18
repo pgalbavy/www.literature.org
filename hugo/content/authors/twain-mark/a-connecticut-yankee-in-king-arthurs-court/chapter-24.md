@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Rival Magician"
 weight: 25
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-24.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-24.html"
 ---
 
 MY influence in the Valley of Holiness was something prodigious now. It seemed worth while to try to turn it to some valuable account. The thought came to me the next morning, and was suggested by my seeing one of my knights who was in the soap line come riding in. According to history, the monks of this place two centuries before had been worldly minded enough to want to wash. It might be that there was a leaven of this unrighteousness still remaining. So I sounded a Brother:

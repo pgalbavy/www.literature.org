@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Beginning Of A Long Journey"
 weight: 33
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-32.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-32.html"
 ---
 
 What is natural in me, is natural in many other men, I infer, and so I am not afraid to write that I never had loved Steerforth better than when the ties that bound me to him were broken. In the keen distress of the discovery of his unworthiness, I thought more of all that was brilliant in him, I softened more towards all that was good in him, I did more justice to the qualities that might have made him a man of a noble nature and a great name, than ever I had done in the height of my devotion to him. Deeply as I felt my own unconscious part in his pollution of an honest home, I believed that if I had been brought face to face with him, I could not have uttered one reproach. I should have loved him so well still--though he fascinated me no longer--I should have held in so much tenderness the memory of my affection for him, that I think I should have been as weak as a spirit-wounded child, in all but the entertainment of a thought that we could ever be re-united. That thought I never had. I felt, as he had felt, that all was at an end between us. What his remembrances of me were, I have never known--they were light enough, perhaps, and easily dismissed--but mine of him were as the remembrances of a cherished friend, who was dead.

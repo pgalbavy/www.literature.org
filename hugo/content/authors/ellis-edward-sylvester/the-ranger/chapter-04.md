@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Captives"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-04.html"
 ---
 
 When Rosalind Leland felt herself seized by the savage, she fainted in the arms of her swarthy captor, and so remained for a long space of time. When she recovered, she found that she was a secure prisoner in the hands of her enemies. She was grieved to see that Zeb was a companion in captivity. She felt that, could she alone suffer, she would willingly bear it. Although acquainted with many Indians, she was unable to recognize any of those around. This, of course, was a gratification. It showed that the kindness of her parents and herself had not been lost upon them. Although the recipients of her kindness might not strive to prevent violence being done her, yet they refused to participate in it themselves.

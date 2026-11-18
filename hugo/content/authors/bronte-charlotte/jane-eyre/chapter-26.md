@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-26.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-26.html"
 ---
 
 Sophie came at seven to dress me: she was very long indeed in accomplishing her task; so long that Mr. Rochester, grown, I suppose, impatient of my delay, sent up to ask why I did not come. She was just fastening my veil (the plain square of blond after all) to my hair with a brooch; I hurried from under her hands as soon as I could.

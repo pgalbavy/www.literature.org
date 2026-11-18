@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Border Bravery"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-09.html"
 ---
 
 Mr. Perkins having been allowed to relate his own story—in the telling of which he drew a pretty long bow—his listeners judged it was time to do something practical. He was asked therefore whether he could inform them where to lay hands on a boat with which to cross the Susquehanna.

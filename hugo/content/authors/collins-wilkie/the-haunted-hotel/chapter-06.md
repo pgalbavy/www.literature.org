@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-06.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-06.html"
 ---
 
 The next day, the friend and legal adviser of Agnes Lockwood, Mr. Troy, called on her by appointment in the evening.

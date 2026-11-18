@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-23.html"
 ---
 
 I wish I could tell you how fine the company was that assembled that evening at Ozma's royal banquet. A long table was spread in the center of the great dining-hall of the palace and the splendor of the decorations and the blaze of lights and jewels was acknowledged to be the most magnificent sight that any of the guests had ever seen.

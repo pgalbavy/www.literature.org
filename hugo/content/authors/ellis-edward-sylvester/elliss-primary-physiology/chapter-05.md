@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Hair, Ears, Eyes, And Feet"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-05.html"
 ---
 
 The hair needs little attention. A boy should not wear it long and it should be carefully combed and brushed. Girls who let theirs grow longer should have it frequently clipped, as it gives it vigor.

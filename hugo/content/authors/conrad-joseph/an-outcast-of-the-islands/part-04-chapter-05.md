@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 5"
 weight: 23
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-05.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-04-chapter-05.html"
 ---
 
 Willems turned a little from her and spoke lower.

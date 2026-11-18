@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 23 - Fire Rises"
 weight: 29
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-23.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-23.html"
 ---
 
 THERE WAS a change on the village where the fountain fell, and where the mender of roads went forth daily to hammer out of the stones on the highway such morsels of bread as might serve for patches to hold his poor ignorant soul and his poor reduced body together. The prison on the crag was not so dominant as of yore; there were soldiers to guard it, but not many; there were officers to guard the soldiers, but not one of them knew what his men would do- beyond this: that it would probably not be what he was ordered.

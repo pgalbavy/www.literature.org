@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 26"
 weight: 132
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-26.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-26.html"
 ---
 
 In the middle of the summer Princess Mary received an unexpected letter from Prince Andrew in Switzerland in which he gave her strange and surprising news. He informed her of his engagement to Natasha Rostova. The whole letter breathed loving rapture for his betrothed and tender and confiding affection for his sister. He wrote that he had never loved as he did now and that only now did he understand and know what life was. He asked his sister to forgive him for not having told her of his resolve when he had last visited Bald Hills, though he had spoken of it to his father. He had not done so for fear Princess Mary should ask her father to give his consent, irritating him and having to bear the brunt of his displeasure without attaining her object. "Besides," he wrote, "the matter was not then so definitely settled as it is now. My father then insisted on a delay of a year and now already six months, half of that period, have passed, and my resolution is firmer than ever. If the doctors did not keep me here at the spas I should be back in Russia, but as it is I have to postpone my return for three months. You know me and my relations with Father. I want nothing from him. I have been and always shall be independent; but to go against his will and arouse his anger, now that he may perhaps remain with us such a short time, would destroy half my happiness. I am now writing to him about the same question, and beg you to choose a good moment to hand him the letter and to let me know how he looks at the whole matter and whether there is hope that he may consent to reduce the term by four months."

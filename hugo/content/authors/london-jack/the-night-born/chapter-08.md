@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Under The Deck Awnings"
 weight: 8
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-08.html"
+url: "/authors/london-jack/the-night-born/chapter-08.html"
 ---
 
 "CAN any man--a gentleman, I mean--call a woman a pig?"

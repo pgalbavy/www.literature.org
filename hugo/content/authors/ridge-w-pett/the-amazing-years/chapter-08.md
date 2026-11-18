@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-08.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-08.html"
 ---
 
 I should, perhaps, have given more attention to the case of Miss Muriel, but for the demands upon my time made by the business: it appeared that many of my Woolwich customers were well satisfied with their dealings with me, and they handed my cards around, with the result that the shop was rarely free of callers, and sometimes Millwood, and Peter, and myself would be all engaged in answering questions, quoting figures. Once the visitors had made up their minds that they wanted a certain article--a cheval glass, a sideboard, a card table, or anything else--there was little haggling about price: from a well-filled purse they produced one pound notes and ten shilling notes, and settled the account; their chief difficulty came in an urgent and feverish desire to get the articles of furniture home with the least possible delay. I once saw two women, customers of mine, who had bought a music stool, and a settee, and a brass fender with fire-irons, endeavouring to board a tram-car with the burden of these possessions. They told the conductor, after argument, that he would undoubtedly come to a bad end.

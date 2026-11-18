@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Stone That Walked"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-03.html"
 ---
 
 One day Frisky Squirrel was playing in the woods when he came upon a chestnut bur which had lain upon the ground all winter. And in a twinkling Frisky had picked the nut from inside it and popped it into his mouth. Then he started home to show his mother what he had found.

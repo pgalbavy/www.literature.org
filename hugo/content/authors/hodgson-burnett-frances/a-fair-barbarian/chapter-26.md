@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - \u0026quot;Jack\u0026quot;"
 weight: 26
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-26.html"
 ---
 
 The first person they saw, when they reached the lawn, was Mr. Dugald Binnie, who had deigned to present himself, and was talking to Mr. Burmistone, Lucia, and Miss Belinda.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-18.html"
 ---
 
 Kalfastoban turned immediately to a search of the various chambers of his quarters, but Caraftap laid a restraining hand upon his arm.

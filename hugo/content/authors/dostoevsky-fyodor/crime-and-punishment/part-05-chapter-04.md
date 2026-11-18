@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 4"
 weight: 31
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-05-chapter-04.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-05-chapter-04.html"
 ---
 
 Raskolnikov had been a vigorous and active champion of Sonia against Luzhin, although he had such a load of horror and anguish in his own heart. But having gone through so much in the morning, he found a sort of relief in a change of sensations, apart from the strong personal feeling which impelled him to defend Sonia. He was agitated too, especially at some moments, by the thought of his approaching interview with Sonia: he /had/ to tell her who had killed Lizaveta. He knew the terrible suffering it would be to him and, as it were, brushed away the thought of it. So when he cried as he left Katerina Ivanovna's, "Well, Sofya Semyonovna, we shall see what you'll say now!" he was still superficially excited, still vigorous and defiant from his triumph over Luzhin. But, strange to say, by the time he reached Sonia's lodging, he felt a sudden impotence and fear. He stood still in hesitation at the door, asking himself the strange question: "Must he tell her who killed Lizaveta?" It was a strange question because he felt at the very time not only that he could not help telling her, but also that he could not put off the telling. He did not yet know why it must be so, he only /felt/ it, and the agonising sense of his impotence before the inevitable almost crushed him. To cut short his hesitation and suffering, he quickly opened the door and looked at Sonia from the doorway. She was sitting with her elbows on the table and her face in her hands, but seeing Raskolnikov she got up at once and came to meet him as though she were expecting him.

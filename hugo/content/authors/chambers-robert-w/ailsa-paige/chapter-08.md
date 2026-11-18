@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-08.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-08.html"
 ---
 
 Berkley, hollow-eyed, ghastly white, but smiling, glanced at the clock.

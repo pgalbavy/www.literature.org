@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-15.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-15.html"
 ---
 
 "Why, Bert!--you're squiffed!" Mary cried reproachfully.

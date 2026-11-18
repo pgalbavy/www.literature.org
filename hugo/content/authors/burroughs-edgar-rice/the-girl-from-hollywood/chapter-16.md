@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-16.html"
 ---
 
 It was four o’clock the following morning before she awoke. The craving awoke with her. It seized her mercilessly; yet even as she gave in to it, she had the satisfaction of knowing that she had gone without the little white powders longer this time than since she had first started to use them. She took but a third of her normal dose.

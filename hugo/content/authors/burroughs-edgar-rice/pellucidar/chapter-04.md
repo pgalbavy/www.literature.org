@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Friendship And Treachery"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-04.html"
 ---
 
 The Sari proved a most erratic craft. She might have done well enough upon a park lagoon if safely anchored, but upon the bosom of a mighty ocean she left much to be desired.

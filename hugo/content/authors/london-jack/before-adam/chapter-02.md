@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/before-adam/chapter-02.html"
+url: "/authors/london-jack/before-adam/chapter-02.html"
 ---
 
 I have said that in my dreams I never saw a human being. Of this fact I became aware very early, and felt poignantly the lack of my own kind. As a very little child, even, I had a feeling, in the midst of the horror of my dreaming, that if I could find but one man, only one human, I should be saved from my dreaming, that I should be surrounded no more by haunting terrors. This thought obsessed me every night of my life for years--if only I could find that one human and be saved!

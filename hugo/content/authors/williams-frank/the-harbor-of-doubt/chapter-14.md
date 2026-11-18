@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Discovery"
 weight: 14
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-14.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-14.html"
 ---
 
 Taken aback as he had been by the strange doings of Nat's schooner, his dismay then was a feeble imitation of the panic that smote him now. It had long been a favorite formula of Bijonah's that "A schooner's a gal you can understand. She goes where ye send her, an' ye know she'll come back when ye tell her to. She's a snug, trustin' kind of critter, an' she's man's best friend because she hain't got a grain o' sense. But woman!"

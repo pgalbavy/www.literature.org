@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-14.html"
 ---
 
 It is astonishing how short a time it takes for very wonderful things to happen. It had taken only a few minutes, apparently, to change all the fortunes of the little boy dangling his red legs from the high stool in Mr. Hobbs's store, and to transform him from a small boy, living the simplest life in a quiet street, into an English nobleman, the heir to an earldom and magnificent wealth. It had taken only a few minutes, apparently, to change him from an English nobleman into a penniless little impostor, with no right to any of the splendors he had been enjoying. And, surprising as it may appear, it did not take nearly so long a time as one might have expected, to alter the face of everything again and to give back to him all that he had been in danger of losing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-09.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-09.html"
 ---
 
 LAUNA and Mr. Wainbridge drove to the concert—a private one—where Herr Donau was going to play the piano for his hostess—Lady Blake, Launa, and a friend.

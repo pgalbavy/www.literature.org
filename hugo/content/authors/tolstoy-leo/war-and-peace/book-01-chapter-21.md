@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-21.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-21.html"
 ---
 
 While in the Rostovs' ballroom the sixth anglaise was being danced, to a tune in which the weary musicians blundered, and while tired footmen and cooks were getting the supper, Count Bezukhov had a sixth stroke. The doctors pronounced recovery impossible. After a mute confession, communion was administered to the dying man, preparations made for the sacrament of unction, and in his house there was the bustle and thrill of suspense usual at such moments. Outside the house, beyond the gates, a group of undertakers, who hid whenever a carriage drove up, waited in expectation of an important order for an expensive funeral. The Military Governor of Moscow, who had been assiduous in sending aides-de-camp to inquire after the count's health, came himself that evening to bid a last farewell to the celebrated grandee of Catherine's court, Count Bezukhov.

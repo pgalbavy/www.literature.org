@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Fatty Coon And The Monster"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-10.html"
 ---
 
 One night Fatty Coon was strolling along the road that wound through the valley. He was in no hurry, for he had just left Farmer Green's apple orchard, where he had bolted all the apples he could possibly eat. The night was dark and though it was not very late, all the country people seemed to be in bed. There were no farmers driving along the road. Fatty had it all to himself. And so he walked slowly homewards. It was then that the terrible monster almost caught him.

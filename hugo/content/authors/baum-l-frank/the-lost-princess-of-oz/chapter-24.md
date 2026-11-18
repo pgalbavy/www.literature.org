@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-24.html"
 ---
 
 For several minutes they all stood staring at the black spot on the canvas of the Magic Picture, wondering what it could mean. "P'r'aps we'd better ask the little Pink Bear about Ozma," suggested Trot.

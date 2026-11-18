@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Conversation With My Mother"
 weight: 27
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-26.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-26.html"
 ---
 
 I REACHED my own house in time to snatch two or three hours of repose, before I paid my customary morning visit to my mother in her own room. I observed, in her reception of me on this occasion, certain peculiarities of look and manner which were far from being familiar in my experience of her.

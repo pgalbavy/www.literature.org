@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-28.html"
+url: "/authors/dickens-charles/great-expectations/chapter-28.html"
 ---
 
 IT was clear that I must repair to our town next day, and in the first flow of my repentance it was equally clear that I must stay at Joe's. But, when I had secured my box-place by to-morrow's coach and had been down to Mr Pocket's and back, I was not by any means convinced on the last point, and began to invent reasons and make excuses for putting up at the Blue Boar. I should be an inconvenience at Joe's; I was not expected, and my bed would not be ready; I should be too far from Miss Havisham's, and she was exacting and mightn't like it. All other swindlers upon earm are nothing to the self-swindlers, and with such pretences did I cheat myself. Surely a curious thing. That I should innocently take a bad half-crown of somebody else's manufucture, is reasonable enough; but that I should knowingly reckon the spurious coin of my own make, as good money! An obliging stranger, under pretence of compactly folding up my bank-notes for security's sake, abstracts the notes and gives me nutshells; but what is his sleight of hand to mine, when I fold up my own nutshells and pass them on myself as notes!

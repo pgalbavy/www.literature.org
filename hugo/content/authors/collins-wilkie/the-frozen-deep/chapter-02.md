@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-02.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-02.html"
 ---
 
 "Now, my dear!" Mrs. Crayford began, "what does this mean?"

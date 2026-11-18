@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 40
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-06.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-06.html"
 ---
 
 Princess Betsy drove home from the theater, without waiting for the end of the last act. She had only just time to go into her dressing room, sprinkle her long, pale face with powder, rub it, set her dress to rights, and order tea in the big drawing room, when one after another carriages drove up to her huge house in Bolshaia Morskaia. Her guests stepped out at the wide entrance, and the stout porter, who used to read the newspapers in the mornings behind the glass door, to the edification of the passers-by, noiselessly opened the immense door, letting the visitors pass by him into the house.

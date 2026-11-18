@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Inanda's Kraal"
 weight: 17
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-16.html"
+url: "/authors/buchan-john/prester-john/chapter-16.html"
 ---
 
 The vow was at an end. In place of the silent army of yesterday a mob of maddened savages surged around me. They were chanting a wild song, and brandishing spears and rifles to its accompaniment. From their bloodshot eyes stared the lust of blood, the fury of conquest, and all the aboriginal passions on which Laputa had laid his spell. In my mind ran a fragment from Laputa's prayer in the cave about the 'Terrible Ones.' Machudi's men—stout fellows, they held their ground as long as they could—were swept out of the way, and the wave of black savagery seemed to close over my head.

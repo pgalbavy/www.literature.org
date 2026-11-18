@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Blissful"
 weight: 34
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-33.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-33.html"
 ---
 
 All this time, I had gone on loving Dora, harder than ever. Her idea was my refuge in disappointment and distress, and made some amends to me, even for the loss of my friend. The more I pitied myself, or pitied others, the more I sought for consolation in the image of Dora. The greater the accumulation of deceit and trouble in the world, the brighter and the purer shone the star of Dora high above the world. I don’t think I had any definite idea where Dora came from, or in what degree she was related to a higher order of beings; but I am quite sure I should have scouted the notion of her being simply human, like any other young lady, with indignation and contempt.

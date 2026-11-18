@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-16.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-16.html"
 ---
 
 "It seems to me," began the Scarecrow, when all were again assembled in the throne room, "that the girl Jinjur is quite right in claiming to be Queen. And if she is right, then I am wrong, and we have no business to be occupying her palace."

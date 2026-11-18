@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Arqu-Wao"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-22.html"
 ---
 
 An inexplainable instinct sometimes warns a person of the approach of peril. The experience of most of us confirms this statement, and we are tempted to suspect that it is another manifestation of that occult "sixth sense" of which we have only a shadowy conception.

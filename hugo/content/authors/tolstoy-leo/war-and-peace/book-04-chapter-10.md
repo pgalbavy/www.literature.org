@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 10"
 weight: 78
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-10.html"
 ---
 
 Rostov's share in Dolokhov's duel with Bezukhov was hushed up by the efforts of the old count, and instead of being degraded to the ranks as he expected he was appointed an adjutant to the governor general of Moscow. As a result he could not go to the country with the rest of the family, but was kept all summer in Moscow by his new duties. Dolokhov recovered, and Rostov became very friendly with him during his convalescence. Dolokhov lay ill at his mother's who loved him passionately and tenderly, and old Mary Ivanovna, who had grown fond of Rostov for his friendship to her Fedya, often talked to him about her son.

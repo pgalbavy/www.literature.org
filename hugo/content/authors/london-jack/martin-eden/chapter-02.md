@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-02.html"
+url: "/authors/london-jack/martin-eden/chapter-02.html"
 ---
 
 The process of getting into the dining room was a nightmare to him. Between halts and stumbles, jerks and lurches, locomotion had at times seemed impossible. But at last he had made it, and was seated alongside of Her. The array of knives and forks frightened him. They bristled with unknown perils, and he gazed at them, fascinated, till their dazzle became a background across which moved a succession of forecastle pictures, wherein he and his mates sat eating salt beef with sheath-knives and fingers, or scooping thick pea-soup out of pannikins by means of battered iron spoons. The stench of bad beef was in his nostrils, while in his ears, to the accompaniment of creaking timbers and groaning bulkheads, echoed the loud mouth-noises of the eaters. He watched them eating, and decided that they ate like pigs. Well, he would be careful here. He would make no noise. He would keep his mind upon it all the time.

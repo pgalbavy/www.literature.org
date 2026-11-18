@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/cather-willa/alexanders-bridge/chapter-10.html"
+url: "/authors/cather-willa/alexanders-bridge/chapter-10.html"
 ---
 
 On Tuesday afternoon a Boston lawyer, who had been trying a case in Vermont, was standing on the siding at White River Junction when the Canadian Express pulled by on its northward journey. As the day-coaches at the rear end of the long train swept by him, the lawyer noticed at one of the windows a man’s head, with thick rumpled hair. “Curious,” he thought; “that looked like Alexander, but what would he be doing back there in the daycoaches?”

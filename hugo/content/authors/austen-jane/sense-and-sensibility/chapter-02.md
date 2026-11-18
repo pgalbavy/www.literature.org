@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-02.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-02.html"
 ---
 
 Mrs. John Dashwood now installed herself mistress of Norland; and her mother and sisters-in-law were degraded to the condition of visitors. As such, however, they were treated by her with quiet civility; and by her husband with as much kindness as he could feel towards anybody beyond himself, his wife, and their child. He really pressed them, with some earnestness, to consider Norland as their home; and, as no plan appeared so eligible to Mrs. Dashwood as remaining there till she could accommodate herself with a house in the neighbourhood, his invitation was accepted.

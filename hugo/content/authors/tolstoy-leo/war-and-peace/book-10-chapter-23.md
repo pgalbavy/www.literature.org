@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 23"
 weight: 213
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-23.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-23.html"
 ---
 
 From Gorki, Bennigsen descended the highroad to the bridge which, when they had looked it from the hill, the officer had pointed out as being the center of our position and where rows of fragrant new-mown hay lay by the riverside. They rode across that bridge into the village of Borodino and thence turned to the left, passing an enormous number of troops and guns, and came to a high knoll where militiamen were digging. This was the redoubt, as yet unnamed, which afterwards became known as the Raevski Redoubt, or the Knoll Battery, but Pierre paid no special attention to it. He did not know that it would become more memorable to him than any other spot on the plain of Borodino.

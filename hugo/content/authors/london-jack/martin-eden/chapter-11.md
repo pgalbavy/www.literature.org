@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-11.html"
+url: "/authors/london-jack/martin-eden/chapter-11.html"
 ---
 
 Martin went back to his pearl-diving article, which would have been finished sooner if it had not been broken in upon so frequently by his attempts to write poetry. His poems were love poems, inspired by Ruth, but they were never completed. Not in a day could he learn to chant in noble verse. Rhyme and metre and structure were serious enough in themselves, but there was, over and beyond them, an intangible and evasive something that he caught in all great poetry, but which he could not catch and imprison in his own. It was the elusive spirit of poetry itself that he sensed and sought after but could not capture. It seemed a glow to him, a warm and trailing vapor, ever beyond his reaching, though sometimes he was rewarded by catching at shreds of it and weaving them into phrases that echoed in his brain with haunting notes or drifted across his vision in misty wafture of unseen beauty. It was baffling. He ached with desire to express and could but gibber prosaically as everybody gibbered. He read his fragments aloud. The metre marched along on perfect feet, and the rhyme pounded a longer and equally faultless rhythm, but the glow and high exaltation that he felt within were lacking. He could not understand, and time and again, in despair, defeated and depressed, he returned to his article. Prose was certainly an easier medium.

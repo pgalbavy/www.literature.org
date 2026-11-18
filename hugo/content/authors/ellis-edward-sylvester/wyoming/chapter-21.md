@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-21.html"
 ---
 
 The finger of Mr. Brainerd was pressing the trigger, and the hammer with its cumbrous flint was on the very eve of descending, when he suddenly released the pressure, and gave utterance to a peculiar half-chuckle. Those who were gazing along the line of direction indicated by the gleaming rifle-barrel, saw at the point where the Seneca was expected to appear, something which looked very much like the forerunner of that interesting person.

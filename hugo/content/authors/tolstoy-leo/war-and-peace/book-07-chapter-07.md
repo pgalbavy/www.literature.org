@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 7"
 weight: 139
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-07.html"
 ---
 
 Toward evening Ilagin took leave of Nicholas, who found that they were so far from home that he accepted "Uncle's" offer that the hunting party should spend the night in his little village of Mikhaylovna.

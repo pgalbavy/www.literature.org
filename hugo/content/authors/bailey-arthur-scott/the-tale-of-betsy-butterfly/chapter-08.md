@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Do You Like Butter?"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-08.html"
 ---
 
 AFTER Mrs. Ladybug failed in her attempt to brush the dust off Betsy Butterfly she grew more jealous of Betsy than ever.

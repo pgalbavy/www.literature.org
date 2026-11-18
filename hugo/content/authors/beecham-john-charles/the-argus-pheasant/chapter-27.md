@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Woman Scorned"
 weight: 28
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-27.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-27.html"
 ---
 
 It was Inchi who brought the news of Paddy's return. Three days after Koyala's departure the little Dyak lad burst breathlessly upon a colloquy between Peter Gross and Captain Carver and announced excitedly:

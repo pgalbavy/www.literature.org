@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - I Embark On A Fool's Errand"
 weight: 3
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-03.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-03.html"
 ---
 
 I was sitting on the terrace at Shepheard's Hotel on the evening of my arrival there. I was finding life flat, as one must who can discover no fascination in Cairo's appeal to the eyes, nostrils and ears. Before me was the olla-podrida of touring fashion and fellaheen squalor; the smell of camels and attar of roses; the polyglot chatter of European pleasure-seekers and the tom-toms of Arab pilgrims.

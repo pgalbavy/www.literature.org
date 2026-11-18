@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-29.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-29.html"
 ---
 
 Outside on the straggling streets clumps of perplexed men gathered to mull over the seven days' wonder which had been enacted before their eyes.

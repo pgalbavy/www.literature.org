@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Pursuit"
 weight: 9
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-09.html"
+url: "/authors/titus-harold/i-conquered/chapter-09.html"
 ---
 
 Summer drew toward its close and the work became more exacting. Jed was sure that more of his colts ran the range without brands, and the two rode constantly, searching every gulch and break for the strays. One day they went far to the east, and at noon encountered three of Bob Thorpe's men building fence.

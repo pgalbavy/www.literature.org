@@ -1,8 +1,7 @@
 ---
 title: "Chapter 92 - Forever!"
 weight: 92
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-92.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-92.html"
 ---
 
 The Duke of Buckingham, obedient to the queen-mother's invitation, presented himself in her apartments half an hour after the departure of the Duc d'Orleans. When his name was announced by the gentleman-usher in attendance, the queen, who was sitting with her elbow resting on a table, and her head buried in her hands, rose, and smilingly received the graceful and respectful salutation which the duke addressed to her. Anne of Austria was still beautiful. It is well known that at her then somewhat advanced age, her long auburn hair, perfectly formed hands, and bright ruby lips, were still the admiration of all who saw her. On the present occasion, abandoned entirely to a remembrance which evoked all the past in her heart, she looked almost as beautiful as in the days of her youth, when her palace was open to the visits of the Duke of Buckingham's father, then a young and impassioned man, as well as an unfortunate prince, who lived for her alone, and died with her name upon his lips. Anne of Austria fixed upon Buckingham a look so tender in its expression, that it denoted, not alone the indulgence of maternal affection, but a gentleness of expression like the coquetry of a woman who loves.

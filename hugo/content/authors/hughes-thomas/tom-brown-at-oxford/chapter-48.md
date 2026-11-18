@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - The Beginning Of The End"
 weight: 50
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-48.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-48.html"
 ---
 
 From the Englebourn festivities, Tom and East returned to London. The Captain was bent on starting for his possessions in the South Pacific; and, as he regained strength, energized over all his preparations, and went about in cabs purchasing agricultural implements, sometimes by the light of nature, and sometimes under the guidance of Harry Winburn. He invested also in something of a library, and in large quantities of saddlery. In short, packages of all kinds began to increase and multiply upon him. Then there was the selecting of a vessel, and all the negotiations with the ship's captain as to terms, and the business of getting introduced to, and conferring with, people from the colony, or who were supposed to know something about it. Altogether, East had plenty of work on his hands; and the more he had to do, the better and more cheery he became.

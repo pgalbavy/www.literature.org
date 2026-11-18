@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - The Stages To Calvary"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-08.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-08.html"
 ---
 
 The little sentence, so terrible in its conciseness, set up a clear issue between the two adversaries.

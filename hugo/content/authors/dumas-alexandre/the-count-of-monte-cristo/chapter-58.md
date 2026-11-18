@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58 - M. Noirtier De Villefort"
 weight: 58
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-58.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-58.html"
 ---
 
 We will now relate what was passing in the house of the king's attorney after the departure of Madame Danglars and her daughter, and during the time of the conversation between Maximilian and Valentine, which we have just detailed. M. de Villefort entered his father's room, followed by Madame de Villefort. Both of the visitors, after saluting the old man and speaking to Barrois, a faithful servant, who had been twenty-five years in his service, took their places on either side of the paralytic.

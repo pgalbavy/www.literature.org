@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Sapphire Ring"
 weight: 13
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-13.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-13.html"
 ---
 
 For a time that ring set with sapphires seemed to be, after all, the satisfactory solution of Ann Veronica's difficulties. It was like pouring a strong acid over dulled metal. A tarnish of constraint that had recently spread over her intercourse with Capes vanished again. They embarked upon an open and declared friendship. They even talked about friendship. They went to the Zoological Gardens together one Saturday to see for themselves a point of morphological interest about the toucan's bill--that friendly and entertaining bird--and they spent the rest of the afternoon walking about and elaborating in general terms this theme and the superiority of intellectual fellowship to all merely passionate relationships. Upon this topic Capes was heavy and conscientious, but that seemed to her to be just exactly what he ought to be. He was also, had she known it, more than a little insincere. "We are only in the dawn of the Age of Friendship," he said, "when interest, I suppose, will take the place of passions. Either you have had to love people or hate them--which is a sort of love, too, in its way--to get anything out of them. Now, more and more, we're going to be interested in them, to be curious about them and--quite mildly-experimental with them." He seemed to be elaborating ideas as he talked. They watched the chimpanzees in the new apes' house, and admired the gentle humanity of their eyes--"so much more human than human beings" --and they watched the Agile Gibbon in the next apartment doing wonderful leaps and aerial somersaults.

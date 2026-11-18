@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-15.html"
 ---
 
 It was a pleasant place to wander, and the two travelers were proceeding at a brisk pace when suddenly a voice shouted, "Halt!"

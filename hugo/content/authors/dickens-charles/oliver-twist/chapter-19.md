@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - In Which A Notable Plan Is Discussed And Determined On"
 weight: 19
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-19.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-19.html"
 ---
 
 It was a chill, damp, windy night, when the Jew: buttoning his great-coat tight round his shrivelled body, and pulling the collar up over his ears so as completely to obscure the lower part of his face: emerged from his den. He paused on the step as the door was locked and chained behind him; and having listened while the boys made all secure, and until their retreating footsteps were no longer audible, slunk down the street as quickly as he could.

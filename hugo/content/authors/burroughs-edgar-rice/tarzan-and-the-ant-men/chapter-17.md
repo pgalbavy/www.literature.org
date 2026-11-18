@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-17.html"
 ---
 
 "Where now?" demanded Komodoflorensal as the two emerged from the mouth of The Slaves' Corridor and stood for a moment in the brilliant sunlight without.

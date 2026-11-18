@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 6"
 weight: 285
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-06.html"
 ---
 
 Next day the troops assembled in their appointed places in the evening and advanced during the night. It was an autumn night with dark purple clouds, but no rain. The ground was damp but not muddy, and the troops advanced noiselessly, only occasionally a jingling of the artillery could be faintly heard. The men were forbidden to talk out loud, to smoke their pipes, or to strike a light, and they tried to prevent their horses neighing. The secrecy of the undertaking heightened its charm and they marched gaily. Some columns, supposing. they had reached their destination, halted, piled arms, and settled down on the cold ground, but the majority marched all night and arrived at places where they evidently should not have been.

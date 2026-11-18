@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-17.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-17.html"
 ---
 
 At ten o'clock that night I sat in the coffee-room of the "Virginia Arms," outwardly cool enough, I trust, but terribly excited nevertheless, and scarce able to touch the food on my plate.

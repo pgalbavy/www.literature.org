@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3"
 weight: 22
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-03.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-03.html"
 ---
 
 During the next few weeks Claude often ran his car down to the mill house on a pleasant evening and coaxed Enid to go into Frankfort with him and sit through a moving picture show, or to drive to a neighbouring town. The advantage of this form of companionship was that it did not put too great a strain upon one's conversational powers. Enid could be admirably silent, and she was never embarrassed by either silence or speech. She was cool and sure of herself under any circumstances, and that was one reason why she drove a car so well,--much better than Claude, indeed.

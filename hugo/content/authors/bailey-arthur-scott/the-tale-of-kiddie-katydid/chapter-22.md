@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Short-Horns Arrive"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-22.html"
 ---
 
 In at least one respect, the short-horned messenger had told the truth. Before twenty-four hours had gone by, the fellow returned to Farmer Green's dooryard; and with him came a great, fat person who belonged without question to the Locust family.

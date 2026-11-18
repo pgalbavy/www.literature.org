@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In Which The Catastrophe Which Appears On The Point Of Being Explained, Grows Yet More Inexplicable"
 weight: 23
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-22.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-22.html"
 ---
 
 So far I have only given the simplest plan of the line that I might get the basis of the affair as clear as possible. That plan is not quite complete, for though there was only this one line joining the stations A and B there was a short side-line, H I, which led to a sand-pit which had supplied a glass-factory. But since the glass-factory had failed, they no longer worked the sand-pit; and the side-line was practically abandoned. Here is the complete plan:

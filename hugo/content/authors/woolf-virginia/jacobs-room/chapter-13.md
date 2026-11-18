@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-13.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-13.html"
 ---
 
 "The Height of the season," said Bonamy.

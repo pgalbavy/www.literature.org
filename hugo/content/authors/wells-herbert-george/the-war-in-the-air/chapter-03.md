@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Balloon"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-03.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-03.html"
 ---
 
 I

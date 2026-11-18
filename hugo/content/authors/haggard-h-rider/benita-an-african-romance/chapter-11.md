@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Sleepers In The Cave"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-11.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-11.html"
 ---
 
 Like every other passage in this old fortress, the approach to the cave was narrow and winding; presumably the ancients had arranged them thus to facilitate their defence. After the third bend, however, Benita saw a light ahead which flowed from a native lamp lit in the arched entrance. At the side of this arch was a shell-shaped hollow, cut in the rock about three feet above the floor. Its appearance seemed familiar to her; why, she was soon to learn, although at the moment she did not connect it with anything in particular. The cave beyond was large, lofty, and not altogether natural, for its walls had evidently been shaped, or at any rate trimmed, by man. Probably here the old Priests had established their oracle, or place of offering.

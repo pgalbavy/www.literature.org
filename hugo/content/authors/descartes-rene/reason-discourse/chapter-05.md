@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/descartes-rene/reason-discourse/chapter-05.html"
+url: "/authors/descartes-rene/reason-discourse/chapter-05.html"
 ---
 
 I would here willingly have proceeded to exhibit the whole chain of truths which I deduced from these primary but as with a view to this it would have been necessary now to treat of many questions in dispute among the earned, with whom I do not wish to be embroiled, I believe that it will be better for me to refrain from this exposition, and only mention in general what these truths are, that the more judicious may be able to determine whether a more special account of them would conduce to the public advantage. I have ever remained firm in my original resolution to suppose no other principle than that of which I have recently availed myself in demonstrating the existence of God and of the soul, and to accept as true nothing that did not appear to me more clear and certain than the demonstrations of the geometers had formerly appeared; and yet I venture to state that not only have I found means to satisfy myself in a short time on all the principal difficulties which are usually treated of in philosophy, but I have also observed certain laws established in nature by God in such a manner, and of which he has impressed on our minds such notions, that after we have reflected sufficiently upon these, we cannot doubt that they are accurately observed in all that exists or takes place in the world and farther, by considering the concatenation of these laws, it appears to me that I have discovered many truths more useful and more important than all I had before learned, or even had expected to learn.

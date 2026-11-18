@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-08.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-08.html"
 ---
 
 The next few months passed away, as many years can pass away, without definite events, and yet, if suddenly disturbed, it would be seen that such months or years had a character unlike others. The three months which had passed had brought them to the beginning of March. The climate had kept its promise, and the change of season from winter to spring had made very little difference, so that Helen, who was sitting in the drawing-room with a pen in her hand, could keep the windows open though a great fire of logs burnt on one side of her. Below, the sea was still blue and the roofs still brown and white, though the day was fading rapidly. It was dusk in the room, which, large and empty at all times, now appeared larger and emptier than usual. Her own figure, as she sat writing with a pad on her knee, shared the general effect of size and lack of detail, for the flames which ran along the branches, suddenly devouring little green tufts, burnt intermittently and sent irregular illuminations across her face and the plaster walls. There were no pictures on the walls but here and there boughs laden with heavy-petalled flowers spread widely against them. Of the books fallen on the bare floor and heaped upon the large table, it was only possible in this light to trace the outline.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-08.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-08.html"
 ---
 
 Edith, glancing casually into the "ready-made" library, stopped abruptly, seeing Bibbs there alone. He was standing before the pearl-framed and golden-lettered poem, musingly inspecting it. He read it:

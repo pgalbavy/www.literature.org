@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Princess"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-red-one/chapter-04.html"
+url: "/authors/london-jack/the-red-one/chapter-04.html"
 ---
 
 A FIRE burned cheerfully in the jungle camp, and beside the fire lolled a cheerful-seeming though horrible-appearing man. This was a hobo jungle, pitched in a thin strip of woods that lay between a railroad embankment and the bank of a river. But no hobo was the man. So deep-sunk was he in the social abyss that a proper hobo would not sit by the same fire with him. A gay-cat, who is an ignorant new-comer on the "Road," might sit with such as he, but only long enough to learn better. Even low down bindle-stiffs and stew-bums, after a once-over, would have passed this man by. A genuine hobo, a couple of punks, or a bunch of tender-yeared road- kids might have gone through his rags for any stray pennies or nickels and kicked him out into the darkness. Even an alki-stiff would have reckoned himself immeasurably superior.

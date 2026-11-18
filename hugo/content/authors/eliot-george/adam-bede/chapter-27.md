@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Crisis"
 weight: 27
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-27.html"
+url: "/authors/eliot-george/adam-bede/chapter-27.html"
 ---
 
 IT was beyond the middle of August - nearly three weeks after the birthday feast. The reaping of the wheat had begun in our north midland county of Loamshire, but the harvest was likely still to be retarded by the heavy rains, which were causing inundations and much damage throughout the country. From this last trouble the Broxton and Hayslope farmers, on their pleasant uplands and in their brook-watered valleys, had not suffered, and as I cannot pretend that they were such exceptional farmers as to love the general good better than their own, you will infer that they were not in very low spirits about the rapid rise in the price of bread, so long as there was hope of gathering in their own corn undamaged; and occasional days of sunshine and drying winds flattered this hope.

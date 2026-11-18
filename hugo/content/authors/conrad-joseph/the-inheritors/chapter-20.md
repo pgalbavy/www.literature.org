@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/conrad-joseph/the-inheritors/chapter-20.html"
+url: "/authors/conrad-joseph/the-inheritors/chapter-20.html"
 ---
 
 *NINETEEN*

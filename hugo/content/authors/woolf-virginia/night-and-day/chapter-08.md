@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-08.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-08.html"
 ---
 
 She took her letters up to her room with her, having persuaded her mother to go to bed directly Mr. Hilbery left them, for so long as she sat in the same room as her mother, Mrs. Hilbery might, at any moment, ask for a sight of the post. A very hasty glance through many sheets had shown Katharine that, by some coincidence, her attention had to be directed to many different anxieties simultaneously. In the first place, Rodney had written a very full account of his state of mind, which was illustrated by a sonnet, and he demanded a reconsideration of their position, which agitated Katharine more than she liked. Then there were two letters which had to be laid side by side and compared before she could make out the truth of their story, and even when she knew the facts she could not decide what to make of them; and finally she had to reflect upon a great many pages from a cousin who found himself in financial difficulties, which forced him to the uncongenial occupation of teaching the young ladies of Bungay to play upon the violin.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-20.html"
 ---
 
 And now let's take a big jump forward. Hold your breath while we gather our muscles for the effort, for when we land, it is at a point four years from the day when Tom Gordon entered the employ of Josiah Warmore, the leading merchant in the town of Bellemore, on the Hudson.

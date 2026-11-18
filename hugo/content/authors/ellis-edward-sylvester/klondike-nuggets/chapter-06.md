@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Significant Discovery"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-06.html"
 ---
 
 Game is so scarce in the valley of the Upper Yukon and in the Klondike country that many gold-seekers take no firearms at all with them. Years ago the Indians showed occasional hostility toward the missions and trading-posts, but nothing now is to be feared from them. They are often hired to help carry loads through the passes, and with that aptitude for imitating the white man, they have speedily learned to charge high prices for their labor.

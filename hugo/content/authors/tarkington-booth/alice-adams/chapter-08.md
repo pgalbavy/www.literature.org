@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-08.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-08.html"
 ---
 
 The device of the absentee partner has the defect that it cannot be employed for longer than ten or fifteen minutes at a time, and it may not be repeated more than twice in one evening: a single repetition, indeed, is weak, and may prove a betrayal. Alice knew that her present performance could be effective during only this interval between dances; and though her eyes were guarded, she anxiously counted over the partnerless young men who lounged together in the doorways within her view. Every one of them ought to have asked her for dances, she thought, and although she might have been put to it to give a reason why any of them "ought," her heart was hot with resentment against them.

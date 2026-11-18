@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - \"I've Done My Pickin'\""
 weight: 3
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-03.html"
+url: "/authors/titus-harold/i-conquered/chapter-03.html"
 ---
 
 Then he felt his gaze drawn away from those vague, alluring distances. It was one of those pulls which psychologists have failed to explain with any great clarity; but every human being recognizes them. Danny followed the impulse.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Lucia"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-05.html"
 ---
 
 In this manner Slowbridge received the shock which shook it to its foundations, and it was a shock from which it did not recover for some time. Before ten o'clock the next morning, everybody knew of the arrival of Martin Bassett's daughter.

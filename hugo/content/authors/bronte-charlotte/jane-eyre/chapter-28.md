@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-28.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-28.html"
 ---
 
 Two days are passed. It is a summer evening; the coachman has set me down at a place called Whitcross; he could take me no farther for the sum I had given, and I was not possessed of another shilling in the world. The coach is a mile off by this time; I am alone. At this moment I discover that I forgot to take my parcel out of the pocket of the coach, where I had placed it for safety; there it remains, there it must remain; and now, I am absolutely destitute.

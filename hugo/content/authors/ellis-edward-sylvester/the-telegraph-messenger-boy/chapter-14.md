@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Conspiracy"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-14.html"
 ---
 
 Rutherford Richmond recognized Ben Mayberry at the same instant that the latter identified him. But neither gave any evidence of the fact that could be understood by other parties.

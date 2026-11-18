@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Canoe"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-34.html"
 ---
 
 It certainly was remarkable that when Fred Linden was watching the three Winnebagos so closely, and when, as I have said, he noticed more than one trifling matter, that he failed to recognize the animals they were riding. All three were familiar to him, and the one he had spoken of as being darker in color than the others, and as having a star in his forehead, was the identical animal owned by his father. Fred, himself, had ridden him more than once.

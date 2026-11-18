@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Way Out"
 weight: 28
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-28.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-28.html"
 ---
 
 When a woman treads the ways of deceit she smiles--like Mona Lisa. But was the great Leonardo deceived by the smile of his wife when she posed for him so sweetly? No, he read her thoughts--how she was thinking of another--and his master hand wove them in. There she smiles to-day, smooth and pretty and cryptic; but Leonardo, the man, worked with heavy heart as he laid bare the tragedy of his love. The message was for her, if she cared to read it, or for him, that rival for her love; or, if their hearts were pure and free from guilt, then there was no message at all. She was just a pretty woman, soft and gentle and smiling--as Virginia Huff had smiled.

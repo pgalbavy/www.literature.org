@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Letters From Home"
 weight: 5
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-05.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-05.html"
 ---
 
 For the next three weeks Anne and Priscilla continued to feel as strangers in a strange land. Then, suddenly, everything seemed to fall into focus -- Redmond, professors, classes, students, studies, social doings. Life became homogeneous again, instead of being made up of detached fragments. The Freshmen, instead of being a collection of unrelated individuals, found themselves a class, with a class spirit, a class yell, class interests, class antipathies and class ambitions. They won the day in the annual "Arts Rush" against the Sophomores, and thereby gained the respect of all the classes, and an enormous, confidence-giving opinion of themselves. For three years the Sophomores had won in the "rush"; that the victory of this year perched upon the Freshmen's banner was attributed to the strategic generalship of Gilbert Blythe, who marshalled the campaign and originated certain new tactics, which demoralized the Sophs and swept the Freshmen to triumph. As a reward of merit he was elected president of the Freshman Class, a position of honor and responsibility -- from a Fresh point of view, at least -- coveted by many. He was also invited to join the "Lambs" -- Redmondese for Lamba Theta -- a compliment rarely paid to a Freshman. As a preparatory initiation ordeal he had to parade the principal business streets of Kingsport for a whole day wearing a sunbonnet and a voluminous kitchen apron of gaudily flowered calico. This he did cheerfully, doffing his sunbonnet with courtly grace when he met ladies of his acquaintance. Charlie Sloane, who had not been asked to join the Lambs, told Anne he did not see how Blythe could do it, and HE, for his part, could never humiliate himself so.

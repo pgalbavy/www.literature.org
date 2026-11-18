@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Solomon Owl's Eyes"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-12.html"
 ---
 
 AFTER a while Jasper Jay saw that his friends were growing tired of teasing Solomon Owl. So he said to them suddenly, in what was for him a low voice, "Let's go hunt acorns now!" And he flew off with a pleased grin upon his face, for he hoped that he had made trouble for Noisy Jake. His friends all followed him, too, while Noisy Jake hurried on behind them, trying to overtake and pass Jasper Jay.

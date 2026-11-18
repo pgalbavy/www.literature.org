@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-20.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-20.html"
 ---
 
 Two general officers were eye-witnesses to that river crossing; they chatted about it over the cable with the government at Washington. Major Falkins, too, who had conceived the plan and crossed in the first barge, before the mortar got the exact range of the loop-holed breast-works, was also mentioned in these despatches. Later, both the major and corporal were given the Medal of Honor, and Newt became Sergeant Spooner, whereat the Deacon, now battalion sergeant-major, patted him approvingly on the back. But fate sometimes indulges in satiric contrasts. One afternoon, when the rush on a trench was over, and had been so mild an affair that the men felt like a fire company turning out to a false alarm, the last straggling volley from the routed enemy dropped both the major and the new sergeant in the stubble.

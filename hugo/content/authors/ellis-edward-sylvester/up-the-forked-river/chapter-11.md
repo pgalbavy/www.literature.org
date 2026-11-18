@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-11.html"
 ---
 
 Since every one in tropical America called Warrenia Rowland by the surname of Major Jack Starland and the two were accepted as brother and sister we will do the same for the present, and thus avoid possible confusion.

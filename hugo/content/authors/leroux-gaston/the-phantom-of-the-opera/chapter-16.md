@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Mme. Giry's Astounding Revelations As To Her Personal Relations With The Opera Ghost"
 weight: 17
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-16.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-16.html"
 ---
 
 Before following the commissary into the manager's office I must describe certain extraordinary occurrences that took place in that office which Remy and Mercier had vainly tried to enter and into which *MM.* Richard and Moncharmin had locked themselves with an object which the reader does not yet know, but which it is my duty, as an historian, to reveal without further postponement.

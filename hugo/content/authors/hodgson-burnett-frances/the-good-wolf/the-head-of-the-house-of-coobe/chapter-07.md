@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-07.html"
 ---
 
 The slice of a house from that time forward presented the external aspect to which the inhabitants of the narrow and fashionable street and those who passed through it had been accustomed. Such individuals as had anticipated beholding at some early day notices conspicuously placed announcing "Sale by Auction. Elegant Modern Furniture" were vaguely puzzled as well as surprised by the fact that no such notices appeared even inconspicuously. Also there did not draw up before the door--even as the weeks went on--huge and heavy removal vans with their resultant litter, their final note of farewell a "To Let" in the front windows.

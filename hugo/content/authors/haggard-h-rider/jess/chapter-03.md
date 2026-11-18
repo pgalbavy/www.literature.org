@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mr. Frank Muller"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-03.html"
+url: "/authors/haggard-h-rider/jess/chapter-03.html"
 ---
 
 John Niel woke early the next morning, feeling as sore and stiff as though he had been well beaten and then wrapped up tight in horse-girths. He made shift, however, to dress himself, and then, with the help of a stick, limped through the French windows that opened from his room on to the verandah, and surveyed the scene before him. It was a delightful spot. At the back of the stead was the steep boulder-strewn face of the flat-topped hill that curved round on each side, embosoming a great slope of green, in the lap of which the house was placed. It was very solidly built of brown stone, and, with the exception of the waggon-shed and other outbuildings which were roofed with galvanised iron, that shone and glistened in the rays of the morning sun in a way that would have made an eagle blink, was covered with rich brown thatch. All along its front ran a wide verandah, up the trellis-work of which green vines and blooming creepers trailed pleasantly, and beyond was the broad carriage-drive of red soil, bordered with bushy orange-trees laden with odorous flowers and green and golden fruit. On the farther side of the orange-trees were the gardens, fenced in with low walls of rough stone, and the orchard planted with standard fruit-trees, and beyond these again the oxen and ostrich kraals, the latter full of long-necked birds. To the right of the house grew thriving plantations of blue-gum and black wattle, and to the left was a broad stretch of cultivated lands, lying so that they could be irrigated for winter crops by means of water led from the great spring that gushed out of the mountain-side high above the house, and gave its name of Mooifontein to the place.

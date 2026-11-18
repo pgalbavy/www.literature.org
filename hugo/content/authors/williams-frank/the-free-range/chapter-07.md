@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Prairie Bell"
 weight: 7
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-07.html"
+url: "/authors/williams-frank/the-free-range/chapter-07.html"
 ---
 
 When Juliet Bissell rode back to the Bar T ranch after her parting with Larkin at the fork of Grass Creek, she was a decidedly more thoughtful and sober young woman than she had been at the same hour the day previous.

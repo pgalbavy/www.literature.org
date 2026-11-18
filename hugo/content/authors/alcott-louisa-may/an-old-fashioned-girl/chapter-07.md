@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Good-By"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-07.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-07.html"
 ---
 
 “OH, dear! Must you really go home Saturday?” said Fan, some days after what Tom called the “grand scrimmage.”

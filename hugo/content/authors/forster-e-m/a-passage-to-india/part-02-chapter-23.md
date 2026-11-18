@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 23"
 weight: 23
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-23.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-23.html"
 ---
 
 Lady Mellanby, wife to the Lieutenant-Governor of the Province, had been gratified by the appeal addressed to her by the ladies of Chandrapore. She could not do anything—besides, she was sailing for England; but she desired to be informed if she could show sympathy in any other way. Mrs. Turton replied that Mr. Heaslop’s mother was trying to get a passage, but had delayed too long, and all the boats were full; could Lady Mellanby use her influence? Not even Lady Mellanby could expand the dimensions of a P. and O., but she was a very, very nice woman, and she actually wired offering the unknown and obscure old lady accommodation in her own reserved cabin. It was like a gift from heaven; humble and grateful, Ronny could not but reflect that there are compensations for every woe. His name was familiar at Government House owing to poor Adela, and now Mrs. Moore would stamp it on Lady Mellanby’s imagination, as they journeyed across the Indian Ocean and up the Red Sea. He had a return of tenderness for his mother—as we do for our relatives when they receive conspicuous and unexpected honour. She was not negligible, she could still arrest the attention of a high official’s wife.

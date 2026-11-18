@@ -1,8 +1,7 @@
 ---
 title: "Chapter 63 - The Drop Of Water"
 weight: 64
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-63.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-63.html"
 ---
 
 Rochefort had scarcely departed when Mme. Bonacieux re-entered. She found Milady with a smiling countenance.

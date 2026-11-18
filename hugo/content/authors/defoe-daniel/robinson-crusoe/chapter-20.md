@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Fight Between Friday And A Bear"
 weight: 20
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-20.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-20.html"
 ---
 
 BUT never was a fight managed so hardily, and in such a surprising manner as that which followed between Friday and the bear, which gave us all, though at first we were surprised and afraid for him, the greatest diversion imaginable. As the bear is a heavy, clumsy creature, and does not gallop as the wolf does, who is swift and light, so he has two particular qualities, which generally are the rule of his actions; first, as to men, who are not his proper prey (he does not usually attempt them, except they first attack him, unless he be excessively hungry, which it is probable might now be the case, the ground being covered with snow), if you do not meddle with him, he will not meddle with you; but then you must take care to be very civil to him, and give him the road, for he is a very nice gentleman; he will not go a step out of his way for a prince; nay, if you are really afraid, your best way is to look another way and keep going on; for sometimes if you stop, and stand still, and look steadfastly at him, he takes it for an affront; but if you throw or toss anything at him, though it were but a bit of stick as big as your finger, he thinks himself abused, and sets all other business aside to pursue his revenge, and will have satisfaction in point of honour - that is his first quality: the next is, if he be once affronted, he will never leave you, night or day, till he has his revenge, but follows at a good round rate till he overtakes you.

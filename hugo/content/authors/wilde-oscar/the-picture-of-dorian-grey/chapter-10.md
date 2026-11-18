@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-10.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-10.html"
 ---
 
 When his servant entered, he looked at him steadfastly and wondered if he had thought of peering behind the screen. The man was quite impassive and waited for his orders. Dorian lit a cigarette and walked over to the glass and glanced into it. He could see the reflection of Victor's face perfectly. It was like a placid mask of servility. There was nothing to be afraid of, there. Yet he thought it best to be on his guard.

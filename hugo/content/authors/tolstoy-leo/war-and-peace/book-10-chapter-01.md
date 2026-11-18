@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 1"
 weight: 191
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-01.html"
 ---
 
 BOOK TEN: 1812

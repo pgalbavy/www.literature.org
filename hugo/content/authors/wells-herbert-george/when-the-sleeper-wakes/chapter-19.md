@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Ostrog's Point Of View"
 weight: 19
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-19.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-19.html"
 ---
 
 Graham found Ostrog waiting to give a formal account of his day's stewardship. On previous occasions he had passed over this ceremony as speedily as possible, in order to resume his aerial experiences, but now he began to ask quick short questions. He was very anxious to take up his empire forthwith. Ostrog brought flattering reports of the development of affairs abroad. In Paris and Berlin, Graham perceived that he was saying, there had been trouble, not organised resistance indeed, but insubordinate proceedings. "After all these years," said Ostrog, when Graham pressed enquiries; "the Commune has lifted its head again. That is the real nature of the struggle, to be explicit." But order had been restored in these cities. Graham, the more deliberately judicial for the stirring emotions he felt, asked if there had been any fighting. "A little," said Ostrog. "In one quarter only. But the Senegalese division of our African agricultural police-- the Consolidated African Companies have a very well drilled police--was ready, and so were the aeroplanes. We expected a little trouble in the continental cities, and in America. But things are very quiet in America. They are satisfied with the overthrow of the Council For the time."

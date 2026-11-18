@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-31.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-31.html"
 ---
 
 The Prince, being host, arranged the places at his supper-table. Mr. Sabin found himself, therefore, between Lady Carey and a young German attache, whom they had met in the ante-room of the restaurant. Lucille had the Prince and Mr. Brott on either side of her.

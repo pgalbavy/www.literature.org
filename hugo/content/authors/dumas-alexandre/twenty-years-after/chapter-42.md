@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Another Queen In Want Of Help"
 weight: 42
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-42.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-42.html"
 ---
 
 Athos had not failed to send early to Aramis and had given his letter to Blaisois, the only serving-man whom he had left. Blaisois found Bazin donning his beadle's gown, his services being required that day at Notre Dame.

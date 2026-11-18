@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-13.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-13.html"
 ---
 
 'My dear Gilbert, I wish you would try to be a little more amiable,' said my mother one morning after some display of unjustifiable ill-humour on my part. 'You say there is nothing the matter with you, and nothing has happened to grieve you, and yet I never saw anyone so altered as you within these last few days. You haven't a good word for anybody - friends and strangers, equals and inferiors - it's all the same. I do wish you'd try to check it.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The War Again"
 weight: 10
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-10.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-10.html"
 ---
 
 "One is a fool," said Lilly, "to be lachrymose. The thing to do is to get a move on."

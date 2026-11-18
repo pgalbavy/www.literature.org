@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 11"
 weight: 201
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-11.html"
 ---
 
 An hour later Dunyasha came to tell the princess that Dron had come, and all the peasants had assembled at the barn by the princess' order and wished to have word with their mistress.

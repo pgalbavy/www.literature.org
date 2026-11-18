@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - From Paris To The Piræus"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-04.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-04.html"
 ---
 
 ATHENS, November, 1915.

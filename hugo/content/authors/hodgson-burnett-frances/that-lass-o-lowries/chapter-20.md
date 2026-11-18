@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The New Gate-Keeper"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-20.html"
 ---
 
 Sammy Craddock made his appearance at Mr. Haviland's promptly, and being shown into the library, which was empty, took a seat and proceeded to regard the surroundings critically.

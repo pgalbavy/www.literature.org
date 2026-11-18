@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Adam On A Working Day"
 weight: 19
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-19.html"
+url: "/authors/eliot-george/adam-bede/chapter-19.html"
 ---
 
 NOTWITHSTANDING Mr. Craig's prophecy, the dark-blue cloud dispersed itself without having produced the threatened consequences. "The weather" - as he observed the next morning - "the weather, you see, 's a ticklish thing, an' a fool 'ull hit on't sometimes when a wise man misses; that's why the almanecks get so much credit. It's one o' them chancy things as fools thrive on."

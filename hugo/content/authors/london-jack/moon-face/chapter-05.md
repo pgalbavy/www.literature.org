@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Minions Of Midas"
 weight: 5
-aliases:
-  - "/authors/london-jack/moon-face/chapter-05.html"
+url: "/authors/london-jack/moon-face/chapter-05.html"
 ---
 
 WADE ATSHELER is dead--dead by his own hand. To say that this was entirely unexpected by the small coterie which knew him, would be to say an untruth; and yet never once had we, his intimates, ever canvassed the idea. Rather had we been prepared for it in some incomprehensible subconscious way. Before the perpetration of the deed, its possibility is remotest from our thoughts; but when we did know that he was dead, it seemed, somehow, that we had understood and looked forward to it all the time. This, by retrospective analysis, we could easily explain by the fact of his great trouble. I use "great trouble" advisedly. Young, handsome, with an assured position as the right-hand man of Eben Hale, the great street-railway magnate, there could be no reason for him to complain of fortune's favors. Yet we had watched his smooth brow furrow and corrugate as under some carking care or devouring sorrow. We had watched his thick, black hair thin and silver as green grain under brazen skies and parching drought. Who can forget, in the midst of the hilarious scenes he toward the last sought with greater and greater avidity--who can forget, I say, the deep abstractions and black moods into which he fell? At such times, when the fun rippled and soared from height to height, suddenly, without rhyme or reason, his eyes would turn lacklustre, his brows knit, as with clenched hands and face overshot with spasms of mental pain he wrestled on the edge of the abyss with some unknown danger.

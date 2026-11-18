@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 4"
 weight: 54
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-04.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-04.html"
 ---
 
 ONE bright morning late in February Dr. Archie was breakfasting comfortably at the Waldorf. He had got into Jersey City on an early train, and a red, windy sunrise over the North River had given him a good appetite. He consulted the morning paper while he drank his coffee and saw that “Lohengrin” was to be sung at the opera that evening. In the list of the artists who would appear was the name “Kronborg.” Such abruptness rather startled him. “Kronborg”: it was impressive and yet, somehow, disrespectful; somewhat rude and brazen, on the back page of the morning paper. After breakfast he went to the hotel ticket office and asked the girl if she could give him something for “Lohengrin,” “near the front.” His manner was a trifle awkward and he wondered whether the girl noticed it. Even if she did, of course, she could scarcely suspect. Before the ticket stand he saw a bunch of blue posters announcing the opera casts for the week. There was “Lohengrin,” and under it he saw:--

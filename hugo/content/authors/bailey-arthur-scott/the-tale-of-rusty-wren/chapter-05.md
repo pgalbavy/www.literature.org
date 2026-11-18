@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The New Bird"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-05.html"
 ---
 
 Farmer Green had not been home long, after his trip to the village, when Rusty Wren heard a sound that for once made him keep quite still for at least five seconds.

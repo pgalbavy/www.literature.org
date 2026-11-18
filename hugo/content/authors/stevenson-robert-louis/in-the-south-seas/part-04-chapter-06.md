@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6 - The King Of Apemama: Devil-Work"
 weight: 34
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-06.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-06.html"
 ---
 
 The ocean beach of Apemama was our daily resort. The coast is broken by shallow bays. The reef is detached, elevated, and includes a lagoon about knee-deep, the unrestful spending-basin of the surf. The beach is now of fine sand, now of broken coral. The trend of the coast being convex, scarce a quarter of a mile of it is to be seen at once; the land being so low, the horizon appears within a stone-cast; and the narrow prospect enhances the sense of privacy. Man avoids the place—even his footprints are uncommon; but a great number of birds hover and pipe there fishing, and leave crooked tracks upon the sand. Apart from these, the only sound (and I was going to say the only society), is that of the breakers on the reef.

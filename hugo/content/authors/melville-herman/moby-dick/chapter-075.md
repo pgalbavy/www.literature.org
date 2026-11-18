@@ -1,8 +1,7 @@
 ---
 title: "Chapter 75 - The Right Whale's Head - Contrasted View"
 weight: 75
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-075.html"
+url: "/authors/melville-herman/moby-dick/chapter-075.html"
 ---
 
 Crossing the deck, let us now have a good long look at the the Right Whale's head.

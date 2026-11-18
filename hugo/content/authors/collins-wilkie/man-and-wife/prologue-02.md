@@ -1,8 +1,7 @@
 ---
 title: "Prologue - An Irish Marriage - Part the Second - The March of Time"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/prologue-02.html"
+url: "/authors/collins-wilkie/man-and-wife/prologue-02.html"
 ---
 
 V.

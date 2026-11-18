@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 19"
 weight: 186
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-19.html"
 ---
 
 From the day when Pierre, after leaving the Rostovs' with Natasha's grateful look fresh in his mind, had gazed at the comet that seemed to be fixed in the sky and felt that something new was appearing on his own horizon- from that day the problem of the vanity and uselessness of all earthly things, that had incessantly tormented him, no longer presented itself. That terrible question "Why?" "Wherefore?" which had come to him amid every occupation, was now replaced, not by another question or by a reply to the former question, but by her image. When he listened to, or himself took part in, trivial conversations, when he read or heard of human baseness or folly, he was not horrified as formerly, and did not ask himself why men struggled so about these things when all is so transient and incomprehensible- but he remembered her as he had last seen her, and all his doubts vanished- not because she had answered the questions that had haunted him, but because his conception of her transferred him instantly to another, a brighter, realm of spiritual activity in which no one could be justified or guilty- a realm of beauty and love which it was worth living for. Whatever worldly baseness presented itself to him, he said to himself:

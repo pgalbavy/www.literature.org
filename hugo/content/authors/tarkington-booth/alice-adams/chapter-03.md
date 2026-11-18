@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-03.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-03.html"
 ---
 
 Mrs. Adams had remained in Alice's room, but her mood seemed to have changed, during her daughter's little more than momentary absence.

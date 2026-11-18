@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-04.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-04.html"
 ---
 
 The gold march of sunset passed quickly, the ragged curtains of mist closed to. Soon Siegmund and Helena were shut alone within the dense wide fog. She shivered with the cold and the damp. Startled, he took her in his arms, where she lay and clung to him. Holding her closely, he bent forward, straight to her lips. His moustache was drenched cold with fog, so that she shuddered slightly after his kiss, and shuddered again. He did not know why the strong tremor passed through her. Thinking it was with fear and with cold, he undid his overcoat, put her close on his breast, and covered her as best he could. That she feared him at that moment was half pleasure, half shame to him. Pleadingly he hid his face on her shoulder, held her very tightly, till his face grew hot, buried against her soft strong throat.

@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 18"
 weight: 247
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-18.html"
 ---
 
 For the last two days, ever since leaving home, Pierre had been living in the empty house of his deceased benefactor, Bazdeev. This is how it happened.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Croquet"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-16.html"
 ---
 
 Lucia was permitted to form one of the players in the game of croquet, being escorted to and from the scene by Francis Barold. Perhaps it occurred to Lady Theobald that the contrast of English reserve and maidenliness with the free-and-easy manners of young women from Nevada might lead to some good result.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Paisley Reconnoiters"
 weight: 14
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-14.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-14.html"
 ---
 
 The early autumn twilight had fallen when Bill Paisley stepped from the wood into the fallow. He dropped the long muzzle-loading rifle into the hollow of his arm and peered down through the gathering dusk toward Totherside.

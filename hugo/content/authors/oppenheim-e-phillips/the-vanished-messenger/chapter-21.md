@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-21.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-21.html"
 ---
 
 "To-day," Hamel declared, as he stood at the sideboard the following morning at breakfast-time and helped himself to bacon and eggs, "I am positively going to begin reading. I have a case full of books down at the Tower which I haven't unpacked yet."

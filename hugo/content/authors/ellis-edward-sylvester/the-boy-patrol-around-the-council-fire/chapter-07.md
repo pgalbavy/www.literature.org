@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Concerning Certain New England Birds"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-07.html"
 ---
 
 "One reason why I deferred our talk about birds," said Uncle Elk, addressing the troop of Boy Scouts who had gathered in the large room of the bungalow the next evening, "is that you might have more opportunity to brighten up your knowledge on the subject. Scout Master Hall tells me that when you learned you were to spend your vacation in southern Maine, you started in to inform yourselves about the birds which are to be found in New England. It is impossible under the circumstances that you should see them all, for the season is not the most favorable and not even a majority are to be found in this section. Instead of dealing out a lot of facts, I am going to ask you do it for me. Secretary Rothstein has given me a list of all the Boy Scouts who are present. There are too many of you for me to identify separately, so I shall call upon you at random. I think," he added with a sly glance at the invalid on his right, "that I shall except Jack, since he seems to know all about our feathered inhabitants and would be simply taking my place.

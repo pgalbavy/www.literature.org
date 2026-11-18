@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Fighting For The Flag"
 weight: 10
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-10.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-10.html"
 ---
 
 For three days, Robert Barnwell Bannister had been a soldier of the United States. On the evening of the third day he sat at the opening of his tent studying a small volume of infantry tactics which had fallen into his hands. Inside the tent his comrade and tent-mate, a young fellow hardly older and no less patriotic and enthusiastic than himself, just in from two hours of picket-duty, lay resting on a rude board couch, with a block of wood and a coat for a pillow, singing softly to himself a rude bit of doggerel that had recently become popular in camp.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - In The Alcove"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-21.html"
 ---
 
 As Smith-Oldwick realized that he was alone and practi- cally defenseless in an enclosure filled with great lions he was, in his weakened condition, almost in a state verging upon hysterical terror. Clinging to the grating for support he dared not turn his head in the direction of the beasts behind him. He felt his knees giving weakly beneath him. Something within his head spun rapidly around. He be- came very dizzy and nauseated and then suddenly all went black before his eyes as his limp body collapsed at the foot of the grating.

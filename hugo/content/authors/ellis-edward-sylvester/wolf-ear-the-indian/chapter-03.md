@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - \"There Are Fifty Hostiles\""
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-03.html"
 ---
 
 To the westward the Black Hills thrust their vast rugged summits against the wintry sky; to the south, a spur of the same mountains put out toward the frontier town of Buffalo Gap; to the north-east wound the Big Cheyenne, on its way to the Missouri, and marking through a part of its course the southern boundary of the Cheyenne Reservation, while creek, stream, and river crossed the rolling plain that intervened, and over all stretched the sunless sky, from which the snow-flakes were eddying and whirling to the frozen earth below.

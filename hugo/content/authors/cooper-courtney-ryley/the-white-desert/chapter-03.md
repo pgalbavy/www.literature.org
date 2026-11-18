@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-03.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-03.html"
 ---
 
 It was with an effort that Houston gave no indication that he had heard. Before, there had been only suspicions, one flimsy clue leading to another, a building-block process, which, in its culmination, had determined Barry to take a trip into the West to see for himself. He had believed that it would be a long process, the finding of a certain telegram and the possibilities which might ensue if this bit of evidence should turn out to be the thing he had suspected. He had not, however, hoped to have from the lips of the man himself a confession that conditions were not right at the lumber mill of which Barry Houston now formed the executive head; to receive the certain statement that somewhere, somehow, something was wrong, something which was working against the best interests of himself and the stern necessities of the future. But now--

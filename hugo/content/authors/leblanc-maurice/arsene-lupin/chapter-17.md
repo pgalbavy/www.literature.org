@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Sonia's Escape"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-17.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-17.html"
 ---
 
 "One of M. Formery's innocents," said Guerchard, turning to the Duke.

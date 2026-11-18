@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - A Desperate Scheme"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-36.html"
 ---
 
 The two scouts carefully descended until they reached the spot where the dead Apache lay. They moved as noiselessly as shadows until they stood directly by the inanimate form. Then, while Tom Hardynge began adjusting his outer garments, Dick Morris stooped over and drew forth the blanket which was crumpled beneath the dead warrior.

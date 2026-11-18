@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Encounter"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-32.html"
 ---
 
 *SUFFICIENT* has been told to show that Eph Bozeman’s stealthy approach to the mission building was attended by one stirring incident, if not more.

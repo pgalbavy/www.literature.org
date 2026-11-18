@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Looking Eastward"
 weight: 26
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-25.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-25.html"
 ---
 
 "It's just a week," I said, three days later, to Arthur, "since we heard of Lady Muriel's engagement. I think I ought to call, at any rate, and offer my congratulations. Won't you come with me?"

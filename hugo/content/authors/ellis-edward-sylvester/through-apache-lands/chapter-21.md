@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Friends Together"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-21.html"
 ---
 
 Up to this stage the two hunters had found no opportunity to pay much heed to Ned, who had been rescued so narrowly from horrible cruelty. Tom Hardynge now advanced to where he stood, and thrust out his hand, his face one broad grin.

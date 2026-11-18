@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-10.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-10.html"
 ---
 
 Jimmie had an idea it wasn't common courtesy for a friend to come to one's home and ruin one's sister. But he was not sure how much Pete knew about the rules of politeness.

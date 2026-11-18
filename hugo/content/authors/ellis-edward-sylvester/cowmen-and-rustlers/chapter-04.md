@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Report Of Guns"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-04.html"
 ---
 
 And now comes a change of scene and incident.

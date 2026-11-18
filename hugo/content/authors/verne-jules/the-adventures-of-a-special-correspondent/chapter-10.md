@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-10.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-10.html"
 ---
 
 At a quarter-past twelve our train passed the station of Kari Bata, which resembles one of the stations on the line from Naples to Sorrento, with its Italian roofs. I noticed a vast Asiatico-Russian camp, the flags waving in the fresh breeze. We have entered the Mervian oasis, eighty miles long and eight wide, and containing about six hundred thousand hectares—there is nothing like being precise at the finish. Right and left are cultivated fields, clumps of fine trees, an uninterrupted succession of villages, huts among the thickets, fruit gardens between the houses, flocks of sheep and herds of cattle among the pastures. All this rich country is watered by the Mourgab—the White Water—or its tributaries, and pheasants swarm like crows on the plains of Normandy. At one o'clock in the afternoon the train stopped at Merv Station, over five hundred miles from Uzun Ada.

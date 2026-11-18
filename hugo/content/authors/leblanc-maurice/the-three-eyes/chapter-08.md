@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - \"Some One Will Emerge From The Darkness\""
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-08.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-08.html"
 ---
 
 Notwithstanding Noël Dorgeroux's advanced age, there had been a violent struggle. The murderer, whose footprints I traced along the path which led from the fence to the wall, had flung himself upon his victim and had first tried to strangle him. It was not until later, in the second phase of the contest, that he had seized a pick-axe with which to strike Noël Dorgeroux.

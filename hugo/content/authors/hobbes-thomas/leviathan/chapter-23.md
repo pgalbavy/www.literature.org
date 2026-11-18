@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Of The Publique Ministers Of Soveraign Power"
 weight: 25
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-23.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-23.html"
 ---
 
 In the last Chapter I have spoken of the Similar parts of a Common-wealth; In this I shall speak of the parts Organicall, which are Publique Ministers.

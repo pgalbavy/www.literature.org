@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 3 - On Parole"
 weight: 31
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-03.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-03.html"
 ---
 
 I WAS wakened--indeed, we were all wakened, for I could see even the sentinel shake himself together from where he had fallen against the door-post--by a clear, hearty voice hailing us from the margin of the wood:

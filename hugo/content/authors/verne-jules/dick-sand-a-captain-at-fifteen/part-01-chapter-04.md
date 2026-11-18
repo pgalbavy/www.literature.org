@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4 - The Survivors Of The \u0026quot;Waldeck\u0026quot;"
 weight: 4
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-04.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-04.html"
 ---
 
 The slave trade was still carried on, on a large scale, in all equinoctial Africa. Notwithstanding the English and French cruisers, ships loaded with slaves leave the coasts of Angola and Mozambique every year to transport negroes to various parts of the world, and, it must be said, of the civilized world.

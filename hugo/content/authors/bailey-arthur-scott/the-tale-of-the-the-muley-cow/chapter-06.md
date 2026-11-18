@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Buffalo Hunts"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-06.html"
 ---
 
 Johnnie Green found, after a while, that owning a cow wasn't all fun. There were times when he would have been willing to let his father, or the hired man, milk the Muley Cow. For instance, a boy from a neighboring farm might come along about milking-time with a fine plan for play. Or someone driving past the house on his way to the village might ask Johnnie to go along too.

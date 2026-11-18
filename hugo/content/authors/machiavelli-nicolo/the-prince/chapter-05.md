@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Concerning The Way To Govern Cities Or Principalities Which Lived Under Their Own Laws Before They Were Annexed"
 weight: 6
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-05.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-05.html"
 ---
 
 Whenever those states which have been acquired as stated have been accustomed to live under their own laws and in freedom, there are three courses for those who wish to hold them: the first is to ruin them, the next is to reside there in person, the third is to permit them to live under their own laws, drawing a tribute, and establishing within it an oligarchy which will keep it friendly to you. Because such a government, being created by the prince, knows that it cannot stand without his friendship and interest, and does its utmost to support him; and therefore he who would keep a city accustomed to freedom will hold it more easily by the means of its own citizens than in any other way.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Silly Mrs. Hen"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-13.html"
 ---
 
 Strange to say, Grumpy Weasel was trying to be pleasant. Of course he didn't really know how, for he always practiced being surly and rude. It must be confessed, too, that he had succeeded in making himself heartily disliked by everybody that knew him.

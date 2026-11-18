@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53"
 weight: 54
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-53.html"
+url: "/authors/haggard-h-rider/dawn/chapter-53.html"
 ---
 
 By return of post Angela received her strange agreement, duly copied and signed, and after this the preparations for the marriage went on rapidly. But where such a large transaction is concerned as the sale of between three and four thousand acres of land, copyhold and freehold, together with sundry rent-charges and the lordship of six manors, things cannot be done in a minute.

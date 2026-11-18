@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Bell Rickard"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-08.html"
 ---
 
 *NICK RIBSAM* had no wish to figure as a rough border character, who ordered his captive to "throw up his hands," when able to secure "the drop on him"; but the youth had the native shrewdness to suit himself to the situation. He and Herbert had been in the Lone Star State long enough to pick up a good deal of information.

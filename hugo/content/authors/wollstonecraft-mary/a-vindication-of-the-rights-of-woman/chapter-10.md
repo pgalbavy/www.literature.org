@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Parental Affection"
 weight: 11
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-10.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/chapter-10.html"
 ---
 
 Parental affection is, perhaps, the blindest modification of perverse self-love; for we have not, like the French two terms (L'amour propre, L'amour de soi meme) to distinguish the pursuit of a natural and reasonable desire, from the ignorant calculations of weakness. Parents often love their children in the most brutal manner, and sacrifice every relative duty to promote their advancement in the world. To promote, such is the perversity of unprincipled prejudices, the future welfare of the very beings whose present existence they imbitter by the most despotic stretch of power. Power, in fact, is ever true to its vital principle, for in every shape it would reign without controul or inquiry. Its throne is built across a dark abyss, which no eye must dare to explore, lest the baseless fabric should totter under investigation. Obedience, unconditional obedience, is the catch-word of tyrants of every description, and to render "assurance doubly sure," one kind of despotism supports another. Tyrants would have cause to tremble if reason were to become the rule of duty in any of the relations of life, for the light might spread till perfect day appeared. And when it did appear, how would men smile at the sight of the bugbears at which they started during the night of ignorance, or the twilight of timid inquiry.

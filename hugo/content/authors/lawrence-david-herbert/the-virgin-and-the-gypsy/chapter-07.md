@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-07.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-07.html"
 ---
 
 Yvette was rather thrilled by the Eastwoods, as she called them. The little Jewess had only to wait three months now, for the final decree. She had boldly rented a small summer cottage, by the moors up at Scoresby, not far from the hills. Now it was dead winter, and she and the Major lived in comparative isolation, without any maid-servant. He had already resigned his commission in the regular army, and called himself Mr. Eastwood. In fact, they were already Mr. and Mrs. Eastwood, to the common world.

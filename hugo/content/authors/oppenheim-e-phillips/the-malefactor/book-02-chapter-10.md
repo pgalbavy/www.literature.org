@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10 - Juliet Gains Experience"
 weight: 26
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-10.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-10.html"
 ---
 
 "Of course," Juliet said, "after Tredowen it seems very small, almost poky, but it isn't, really, and Tredowen was not for me all my days. It was quite time I got used to something else."

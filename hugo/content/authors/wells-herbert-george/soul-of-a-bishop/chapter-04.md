@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Sympathy Of Lady Sunderbund"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-04.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-04.html"
 ---
 
 (1)

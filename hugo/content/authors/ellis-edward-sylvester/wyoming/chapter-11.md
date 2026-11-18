@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-11.html"
 ---
 
 It caused Lieutenant Godfrey the deepest chagrin to reflect that, after his remarkable escapes of the day, he had been taken prisoner in this fashion.

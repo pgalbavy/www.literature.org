@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Jimmie Thomas's Strategy"
 weight: 8
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-08.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-08.html"
 ---
 
 On a chart the island of Grande Mignon bears the same relation to surrounding islands that a mother-ship bears to a flock of submarines. Westward her coast is rocky and forbidding, being nothing but a succession of frowning headlands that rise almost perpendicularly from the sea. It is one of the most desolate stretches of coast in moderate latitudes, for no one lives there, nor has ever lived there, except a few hermit dulce-pickers during the summer months.

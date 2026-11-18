@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-23.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-23.html"
 ---
 
 An instant later, with a roar of fury, as he realized the trick that had been played upon him, Bas was beating his fists against the panels and hurling against them the weight of his powerful shoulders. But those hot moments of agitation and mental riot had left him breathless, too, and presently he drew away for a quieter survey of the situation. He strolled insolently over to the window which was still open and leaned with his elbows on the sill looking in. The room was empty, and he guessed that Dorothy had hurried out to bar the back door, forgetting, in her excitement, the nearer danger of the raised sash.

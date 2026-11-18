@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-20.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-20.html"
 ---
 
 Long before Sir John returned, or, indeed, long before we had any word from him, I was dressed and making hourly essays at walking, first in the house, then through the door-yard to the guard-house, where I would sit in the hot sun and breathe the full-throated October winds. Keen and sweet as apple-wine, the air I drank warmed and excited me; my eyes grew clear and strong, my lean cheeks filled, my wasted limbs once more began to bear me with the old-time lightness and delight.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Through the Valley of the Shadow"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-10.html"
 ---
 
 As Tarzan walked down the wild canon beneath the brilliant African moon the call of the jungle was strong upon him. The solitude and the savage freedom filled his heart with life and buoyancy. Again he was Tarzan of the Apes--every sense alert against the chance of surprise by some jungle enemy--yet treading lightly and with head erect, in proud consciousness of his might.

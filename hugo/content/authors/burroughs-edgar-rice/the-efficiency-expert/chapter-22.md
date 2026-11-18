@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Letter From Murray"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/the-efficiency-expert/chapter-22.html"
 ---
 
 The girl opposite him looked up from the card before her. The lines of her face were softened by the suggestion of a contented smile. "My gracious!" she exclaimed. "What's the matter now? You look as though you had lost your last friend."

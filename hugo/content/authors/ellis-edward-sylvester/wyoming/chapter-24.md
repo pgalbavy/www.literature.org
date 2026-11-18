@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-24.html"
 ---
 
 Meanwhile the fugitives in the cavern were placed in a situation almost as grave as that of Gravity Gimp himself.

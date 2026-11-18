@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Kidnappers"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/the-scarlet-car/chapter-03.html"
+url: "/authors/davis-richard-harding/the-scarlet-car/chapter-03.html"
 ---
 
 During the last two weeks of the "whirlwind" campaign, automobiles had carried the rival candidates to every election district in Greater New York.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-20.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-20.html"
 ---
 
 One afternoon, swinging along Fifth Avenue in his down-town walk, Samson met Mr. Farbish, who fell into step with him, and began to make conversation.

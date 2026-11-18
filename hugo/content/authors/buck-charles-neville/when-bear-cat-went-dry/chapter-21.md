@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-21.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-21.html"
 ---
 
 Three times along the way, as the new crusader trudged on to Dog Tate's cabin, the late-setting moon glinted on queerly twisted things suspended from road-side trees--things unlike the fruit of either hickory or poplar.

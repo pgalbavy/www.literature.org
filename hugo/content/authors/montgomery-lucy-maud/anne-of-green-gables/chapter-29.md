@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - An Epoch in Anne's Life"
 weight: 29
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-29.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-29.html"
 ---
 
 Anne was bringing the cows home from the back pasture by way of Lover's Lane. It was a September evening and all the gaps and clearings in the woods were brimmed up with ruby sunset light. Here and there the lane was splashed with it, but for the most part it was already quite shadowy beneath the maples, and the spaces under the firs were filled with a clear violet dusk like airy wine. The winds were out in their tops, and there is no sweeter music on earth than that which the wind makes in the fir trees at evening.

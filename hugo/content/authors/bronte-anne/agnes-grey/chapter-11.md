@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Cottagers"
 weight: 11
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-11.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-11.html"
 ---
 
 AS I had now only one regular pupil - though she contrived to give me as much trouble as three or four ordinary ones, and though her sister still took lessons in German and drawing - I had considerably more time at my own disposal than I had ever been blessed with before, since I had taken upon me the governess's yoke; which time I devoted partly to correspondence with my friends, partly to reading, study, and the practice of music, singing, &c., partly to wandering in the grounds or adjacent fields, with my pupils if they wanted me, alone if they did not.

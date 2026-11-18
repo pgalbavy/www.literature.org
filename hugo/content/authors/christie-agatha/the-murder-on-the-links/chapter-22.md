@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - I Find Love"
 weight: 22
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-22.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-22.html"
 ---
 
 For a moment or two I sat as though frozen, the photograph still in my hand. Then, summoning all my courage to appear unmoved, I handed it back. At the same time, I stole a quick glance at Poirot. Had he noticed anything? But to my relief he did not seem to be observing me. Anything unusual in my manner had certainly escaped him.

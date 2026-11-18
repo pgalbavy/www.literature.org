@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Chief Of The Enemies"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-04.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-04.html"
 ---
 
 “Poor boy!” murmured Lupin, when his eyes fell on Gilbert’s letter next morning. “How he must feel it!”

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-12.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-12.html"
 ---
 
 The Ganges, though flowing from the foot of Vishnu and through Siva’s hair, is not an ancient stream. Geology, looking further than religion, knows of a time when neither the river nor the Himalayas that nourished it existed, and an ocean flowed over the holy places of Hindustan. The mountains rose, their debris silted up the ocean, the gods took their seats on them and contrived the river, and the India we call immemorial came into being. But India is really far older. In the days of the prehistoric ocean the southern part of the peninsula already existed, and the high places of Dravidia have been land since land began, and have seen on the one side the sinking of a continent that joined them to Africa, and on the other the upheaval of the Himalayas from a sea. They are older than anything in the world. No water has ever covered them, and the sun who has watched them for countless æons may still discern in their outlines forms that were his before our globe was torn from his bosom. If flesh of the sun’s flesh is to be touched anywhere, it is here, among the incredible antiquity of these hills.

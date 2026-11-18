@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-33.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-33.html"
 ---
 
 SO I started for town in the wagon, and when I was half-way I see a wagon coming, and sure enough it was Tom Sawyer, and I stopped and waited till he come along. I says "Hold on!" and it stopped alongside, and his mouth opened up like a trunk, and stayed so; and he swallowed two or three times like a person that's got a dry throat, and then says:

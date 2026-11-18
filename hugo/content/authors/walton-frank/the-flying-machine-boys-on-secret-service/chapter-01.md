@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Fall Of The Bear"
 weight: 1
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-01.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-01.html"
 ---
 
 Two aeroplanes lay in a green basin in the heart of the Rocky mountains. To the east of the basin lay a slope of half a mile or more. At the top of the slope stretched a summit not more than half an acre in extent. Thirty miles away lifted the snowy peaks of the Continental Divide. To the west a broken country stretched to the Pacific.

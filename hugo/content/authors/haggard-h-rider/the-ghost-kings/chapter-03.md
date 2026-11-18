@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Good-Bye"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-03.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-03.html"
 ---
 
 Rachel was the first to wake, which she did, feeling cold, for the fire had burnt almost out. She rose and walked from the cave. The dawn was breaking quietly, for now no wind stirred, and no rain fell. So dense was the mist which rose from the river and sodden land, however, that she could not see two yards in front of her, and fearing lest she should stumble on the lions or some other animals, she did not dare to wander far from the mouth of the cave. Near to it was a large, hollow-surfaced rock, filled now with water like a bath. From this she drank, then washed and tidied herself as well as she could without the aid of soap, comb or towels, which done, she returned to the cave.

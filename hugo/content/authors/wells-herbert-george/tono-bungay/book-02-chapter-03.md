@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3 - How We Made Tono-Bungay Hum"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-02-chapter-03.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-02-chapter-03.html"
 ---
 
 I

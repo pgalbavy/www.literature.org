@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6 - Hundreds of People"
 weight: 12
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-06.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-06.html"
 ---
 
 THE QUIET LODGINGS of Doctor Manette were in a quiet street-corner not far from Soho-square. On the afternoon of a certain fine Sunday when the waves of four months had rolled over the trial for treason, and carried it, as to the public interest and memory, far out to sea, Mr. Jarvis Lorry walked along the sunny streets from Clerkenwell where he lived, on his way to dine with the Doctor. After several relapses into business-absorption, Mr. Lorry had become the Doctor's friend, and the quiet street-corner was the sunny part of his life.

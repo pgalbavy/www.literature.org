@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 42
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-41.html"
+url: "/authors/haggard-h-rider/dawn/chapter-41.html"
 ---
 
 Meanwhile at Madeira matters were going on much as we left them; there had indeed been little appreciable change in the situation.

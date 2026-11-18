@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - On The Mountain Side"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-20.html"
 ---
 
 Maurice Freeman was withdrawing from his perilous position, when without the slightest warning an Apache warrior stepped from behind a rock a short way ahead and confronted him.

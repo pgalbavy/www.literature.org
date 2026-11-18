@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-02.html"
 ---
 
 The Head of the House of Coombe was not a title to be found in Burke or Debrett. It was a fine irony of the Head's own and having been accepted by his acquaintances was not infrequently used by them in their light moments in the same spirit. The peerage recorded him as a Marquis and added several lesser attendant titles.

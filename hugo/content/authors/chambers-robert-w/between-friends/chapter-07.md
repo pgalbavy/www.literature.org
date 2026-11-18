@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/between-friends/chapter-07.html"
+url: "/authors/chambers-robert-w/between-friends/chapter-07.html"
 ---
 
 It was late in December before Drene opened his eyes in his right senses. He unclosed them languidly, gazed at the footboard of his bed, then, around at the four shabby walls of his room.

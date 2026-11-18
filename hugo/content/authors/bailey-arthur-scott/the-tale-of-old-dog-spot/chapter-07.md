@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Swimming"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-07.html"
 ---
 
 Old dog Spot liked boys. Somehow they always managed to have a lively time; and usually they seemed glad to have him join them in their sports.

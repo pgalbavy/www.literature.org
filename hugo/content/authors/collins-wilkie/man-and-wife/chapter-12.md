@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Arnold"
 weight: 14
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-12.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-12.html"
 ---
 
 MEANWHILE Arnold remained shut up in the head-waiter's pantry--chafing secretly at the position forced upon him.

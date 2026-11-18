@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-18.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-18.html"
 ---
 
 Merry days were these at Thornfield Hall; and busy days too: how different from the first three months of stillness, monotony, and solitude I had passed beneath its roof! All sad feelings seemed now driven from the house, all gloomy associations forgotten: there was life everywhere, movement all day long. You could not now traverse the gallery, once so hushed, nor enter the front chambers, once so tenantless, without encountering a smart lady's-maid or a dandy valet.

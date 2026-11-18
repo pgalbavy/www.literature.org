@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - And His Squirrel Story"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-17.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-17.html"
 ---
 
 The upper range of the Bat Wing was a country by itself. To reach it they rode due north from Chula Vista, following an old road that had been fenced so many times that Gloomy Gus became discouraged. Twisting and turning, driving around through new-made lanes, or jerking a world of staples and laying the wire on the ground, he toiled on in the wake of the outfit, which was rounding up spare corners of the unfenced range. Behind him came the horse wrangler and his helper, doing their best to keep the remuda out of the barbed-wire, and jerking up more fence with their ropes than Gus laid down with his nail-puller. Certainly in that wide, windmill-dotted valley, the open range was a thing of the past. It was only thirty feet to water, and the nesters were settling everywhere.

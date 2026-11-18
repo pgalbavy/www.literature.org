@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Hard Shell"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-05.html"
 ---
 
 RUSTY WREN hurried home, carrying Mrs. Ladybug despite her frantic efforts to escape. She wriggled all her six legs at the same time.

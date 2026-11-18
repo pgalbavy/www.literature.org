@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-13.html"
 ---
 
 It was no custom of his to outstay other people; in fact, he usually went away comparatively early. Feather could not imagine what his reason could be, but she was sure there was a reason. She was often disturbed by his reasons, and found it difficult to adjust herself to them. How--even if one had a logically brilliant mind--could one calculate on a male being, who seemed not exactly to belong to the race of men.

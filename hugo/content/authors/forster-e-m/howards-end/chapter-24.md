@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-24.html"
+url: "/authors/forster-e-m/howards-end/chapter-24.html"
 ---
 
 “It gave her quite a turn,” said Mr. Wilcox, when retailing the incident to Dolly at tea-time. “None of you girls have any nerves, really. Of course, a word from me put it all right, but silly old Miss Avery--she frightened you, didn’t she, Margaret? There you stood clutching a bunch of weeds. She might have said something, instead of coming down the stairs with that alarming bonnet on. I passed her as I came in. Enough to make the car shy. I believe Miss Avery goes in for being a character; some old maids do.” He lit a cigarette. “It is their last resource. Heaven knows what she was doing in the place; but that’s Bryce’s business, not mine.”

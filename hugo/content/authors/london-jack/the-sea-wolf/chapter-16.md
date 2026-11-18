@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-16.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-16.html"
 ---
 
 I cannot say that the position of mate carried with it anything more joyful than that there were no more dishes to wash. I was ignorant of the simplest duties of mate, and would have fared badly indeed, had the sailors not sympathized with me. I knew nothing of the minutiae of ropes and rigging, of the trimming and setting of sails; but the sailors took pains to put me to rights, - Louis proving an especially good teacher, - and I had little trouble with those under me.

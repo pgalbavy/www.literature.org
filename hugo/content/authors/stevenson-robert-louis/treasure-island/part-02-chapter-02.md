@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - At The Sign Of The Spy-Glass"
 weight: 9
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-02.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-02.html"
 ---
 
 WHEN I had done breakfasting the squire gave me a note addressed to John Silver, at the sign of the Spy-glass, and told me I should easily find the place by following the line of the docks and keeping a bright lookout for a little tavern with a large brass telescope for sign. I set off, overjoyed at this opportunity to see some more of the ships and seamen, and picked my way among a great crowd of people and carts and bales, for the dock was now at its busiest, until I found the tavern in question.

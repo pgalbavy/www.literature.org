@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Great Peril And A Great Salvation"
 weight: 23
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-22.html"
+url: "/authors/buchan-john/prester-john/chapter-22.html"
 ---
 
 I must now take up some of the ragged ends which I have left behind me. It is not my task, as I have said, to write the history of the great Rising. That has been done by abler men, who were at the centre of the business, and had some knowledge of strategy and tactics; whereas I was only a raw lad who was privileged by fate to see the start. If I could, I would fain make an epic of it, and show how the Plains found at all points the Plateau guarded, how wits overcame numbers, and at every pass which the natives tried the great guns spoke and the tide rolled back. Yet I fear it would be an epic without a hero. There was no leader left when Laputa had gone. There were months of guerrilla fighting, and then months of reprisals, when chief after chief was hunted down and brought to trial. Then the amnesty came and a clean sheet, and white Africa drew breath again with certain grave reflections left in her head. On the whole I am not sorry that the history is no business of mine. Romance died with 'the heir of John,' and the crusade became a sorry mutiny. I can fancy how differently Laputa would have managed it all had he lived; how swift and sudden his plans would have been; how under him the fighting would not have been in the mountain glens, but far in the high-veld among the dorps and townships. With the Inkulu alive we warred against odds; with the Inkulu dead the balance sank heavily in our favour. I leave to others the marches and strategy of the thing, and hasten to clear up the obscure parts in my own fortunes.

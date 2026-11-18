@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-13.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-13.html"
 ---
 
 The passing of the fugitive insurrectos; their mad turning at bay for one savage rally; their wavering and breaking; their disorganized stampede spurred on by a decimating fire and the bayonet's point: these were all incidents of a sudden squall that swept violently through the narrow street, to leave it again empty and quiet. It was empty except for the grotesque shapes that stretched in all the undignified awkwardness of violent death and helplessness, feeding thin lines of red that trickled between the cobblestones. It was silent except for echoes of the stubborn fighting coming from the freer spaces of the plazas and alamedas, where the remnants of the invading force clung to their positions behind improvised barricades with the doggedness of men for whom surrender holds no element of hope or mercy.

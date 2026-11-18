@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - When The Sun Went Down"
 weight: 22
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-22.html"
 ---
 
 When his head was out of sight Colin turned to Mary.

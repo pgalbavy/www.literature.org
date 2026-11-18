@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 14
-aliases:
-  - "/authors/conrad-joseph/romance/part-03-chapter-02.html"
+url: "/authors/conrad-joseph/romance/part-03-chapter-02.html"
 ---
 
 All this is in my mind now, softened by distance, by the tenderness of things remembered—the wonderful dawn of life, with all the mystery and promise of the young day breaking amongst heavy thunder-clouds. At the time I was overwhelmed —I can't express it otherwise. I felt like a man thrown out to sink or swim, trying to keep his head above water. Of course, I did not suspect Carlos now; I was ashamed of ever having done so. I had long ago forgiven him his methods. "In a great need, you must," he had said, looking at me anxiously, "recur to desperate remedies." And he was going to die. I had made no answer, and only hung my head—not in resentment, but in doubt of my strength to bear the burden of the great trust that this man whom I loved for his gayety, his recklessness and romance, was going to leave in my inexperienced hands.

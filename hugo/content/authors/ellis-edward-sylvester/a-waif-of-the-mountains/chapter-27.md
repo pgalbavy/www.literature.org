@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - No Braver Deed Ever Was Done"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-27.html"
 ---
 
 The hearts of two of the party were wrung as never before. Wade Ruggles and Felix Brush saw with noonday clearness the dreadful mistake they had made in the past in hoping to win the heart of the maiden who had declared that if her beloved was to die she would die with him. It was contrary to nature and the laws of God, and it was characteristic of each that he felt a thrill of gratitude over the belief that no person suspected his secret. Both would have died rather than allow it ever to become known.

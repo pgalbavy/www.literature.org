@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 22"
 weight: 339
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-22.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-22.html"
 ---
 
 If we assume as the historians do that great men lead humanity to the attainment of certain ends- the greatness of Russia or of France, the balance of power in Europe, the diffusion of the ideas of the Revolution general progress or anything else- then it is impossible to explain the facts of history without introducing the conceptions of chance and genius.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Mountain Law"
 weight: 13
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-12.html"
+url: "/authors/coolidge-dane/the-texican/chapter-12.html"
 ---
 
 As the sheriff's posse spurred their tired horses up the long slope of the rocky mountain and down into the rough country beyond, the trail grew fresher with every hour, until the blood from mutilated ears showed wet in the trampled dirt. But as the herd made its way into the broken ground the heavy trail split up and divided; at each fork of the cañon a bunch was cut off from the drag of the herd and drifted by a hand or two down onto the lower range, and when at last the trail broke out into the open country again the posse was following the tracks of only three men and twenty or thirty cows. Then they picked up a stray, burned clean into a Circle-Double-cross and freshly ear-marked, and after that the remnant of the band, standing wearily by a water-hole. Every one of them had been freshly branded with a hot iron—no hair-brand or attempt at burning through a sack—and half of their ears were bloody from being torn in the brush; but there were no cowboys loitering near, waiting to be caught with the goods. The horse-tracks still led on until at last they scattered out and mounted the neighboring ridges. But if the trail was lost there were other signs to lead Morgan on his way. The sun was hanging low now, and their horses were jaded from hard riding, but at the familiar bellowing of a cow-herd they pricked up their ears and forged ahead. The valley opened out suddenly before them and there on their regular parada grounds was the entire U outfit, holding a big herd and cutting, roping, and branding by days' works. Innocence and industry were the twin watchwords in that aggregation—they were too busy even to look up—and when Boone Morgan saw the game he rode past them without speaking and tackled the cook for supper.

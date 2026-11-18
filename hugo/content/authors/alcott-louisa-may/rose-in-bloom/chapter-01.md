@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Coming Home"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-01.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-01.html"
 ---
 
 Three young men stood together on a wharf one bright October day awaiting the arrival of an ocean steamer with an impatience which found a vent in lively skirmishes with a small lad, who pervaded the premises like a will-o'-the-wisp and afforded much amusement to the other groups assembled there.

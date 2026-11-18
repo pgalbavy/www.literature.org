@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-17.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-17.html"
 ---
 
 Mrs. Dashwood was surprised only for a moment at seeing him; for his coming to Barton was, in her opinion, of all things the most natural. Her joy and expression of regard long outlived her wonder. He received the kindest welcome from her; and shyness, coldness, reserve could not stand against such a reception. They had begun to fail him before he entered the house, and they were quite overcome by the captivating manners of Mrs. Dashwood. Indeed a man could not very well be in love with either of her daughters, without extending the passion to her; and Elinor had the satisfaction of seeing him soon become more like himself. His affections seemed to reanimate towards them all, and his interest in their welfare again became perceptible. He was not in spirits, however; he praised their house, admired its prospect, was attentive, and kind; but still he was not in spirits. The whole family perceived it, and Mrs. Dashwood, attributing it to some want of liberality in his mother, sat down to table indignant against all selfish parents.

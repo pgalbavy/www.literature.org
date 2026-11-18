@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1 - How My Shore Adventure Began"
 weight: 14
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-03-chapter-01.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-03-chapter-01.html"
 ---
 
 THE appearance of the island when I came on deck next morning was altogether changed. Although the breeze had now utterly ceased, we had made a great deal of way during the night and were now lying becalmed about half a mile to the south-east of the low eastern coast. Grey-coloured woods covered a large part of the surface. This even tint was indeed broken up by streaks of yellow sand-break in the lower lands, and by many tall trees of the pine family, out-topping the others--some singly, some in clumps; but the general colouring was uniform and sad. The hills ran up clear above the vegetation in spires of naked rock. All were strangely shaped, and the Spy-glass, which was by three or four hundred feet the tallest on the island, was likewise the strangest in configuration, running up sheer from almost every side and then suddenly cut off at the top like a pedestal to put a statue on.

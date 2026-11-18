@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Melchisedec"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-09.html"
 ---
 
 The third person in the trio was Lottie. She was a small thing and did not know what adversity meant, and was much bewildered by the alteration she saw in her young adopted mother. She had heard it rumored that strange things had happened to Sara, but she could not understand why she looked different--why she wore an old black frock and came into the school-room only to teach instead of to sit in her place of honor and learn lessons herself. There had been much whispering among the little ones when it had been discovered that Sara no longer lived in the rooms in which Emily had so long sat in state. Lottie's chief difficulty was that Sara said so little when one asked her questions. At seven mysteries must be made very clear if one is to understand them.

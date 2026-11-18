@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-24.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-24.html"
 ---
 
 It wuz Deacon Garven and he wuz a close communion Baptist by perswaision, and a good man, so fur as firm morals and a sound creed goes.

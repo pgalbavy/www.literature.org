@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Capture"
 weight: 10
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-10.html"
+url: "/authors/titus-harold/i-conquered/chapter-10.html"
 ---
 
 It does not take a horse that is bearing a rider downhill an appreciable length of time to take one more stride. Gravity does the work. The horse jerks his fore legs from under his body and then shoots them out again for fresh hold to keep his downward progress within reason.

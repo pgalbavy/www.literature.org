@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-32.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-32.html"
 ---
 
 Granet emerged from the Tregarten Hotel at St. Mary's on the following morning, about half-past eight, and strolled down the narrow strip of lawn which bordered the village street. A couple of boatmen advanced at once to meet him. Granet greeted them cheerily.

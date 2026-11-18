@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-15.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-15.html"
 ---
 
 Whether too slight or too vague the ties that bind people casually meeting in a hotel at midnight, they possess one advantage at least over the bonds which unite the elderly, who have lived together once and so must live for ever. Slight they may be, but vivid and genuine, merely because the power to break them is within the grasp of each, and there is no reason for continuance except a true desire that continue they shall. When two people have been married for years they seem to become unconscious of each other's bodily presence so that they move as if alone, speak aloud things which they do not expect to be answered, and in general seem to experience all the comfort of solitude without its loneliness. The joint lives of Ridley and Helen had arrived at this stage of community, and it was often necessary for one or the other to recall with an effort whether a thing had been said or only thought, shared or dreamt in private. At four o'clock in the afternoon two or three days later Mrs. Ambrose was standing brushing her hair, while her husband was in the dressing-room which opened out of her room, and occasionally, through the cascade of water—he was washing his face—she caught exclamations, "So it goes on year after year; I wish, I wish, I wish I could make an end of it," to which she paid no attention.

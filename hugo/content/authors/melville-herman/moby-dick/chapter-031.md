@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Queen Mab"
 weight: 31
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-031.html"
+url: "/authors/melville-herman/moby-dick/chapter-031.html"
 ---
 
 Next morning Stubb accosted Flask.

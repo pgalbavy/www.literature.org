@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Storm Breaks"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-06.html"
+url: "/authors/haggard-h-rider/jess/chapter-06.html"
 ---
 
 “Do you know, you are a very odd person, Miss Jess,” John said presently, with a little laugh. “I don’t think you can have a happy mind.”

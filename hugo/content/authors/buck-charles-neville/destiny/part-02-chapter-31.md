@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 31"
 weight: 31
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-31.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-31.html"
 ---
 
 An hour later she felt as if she had known Smitherton for a long while and could rely upon him. Then he lighted a cigar and said slowly: "I have taken all this time and said nothing useful. I did it deliberately--because what comes next will sound so cruel that I wouldn't say it if the reason wasn't sufficient. I'm going to hurt you--but only as the dentist or surgeon might hurt you. Shall I go on?"

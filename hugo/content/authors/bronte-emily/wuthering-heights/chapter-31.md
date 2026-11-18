@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-31.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-31.html"
 ---
 
 YESTERDAY was bright, calm, and frosty. I went to the Heights as I proposed: my housekeeper entreated me to bear a little note from her to her young lady, and I did not refuse, for the worthy woman was not conscious of anything odd in her request. The front door stood open, but the jealous gate was fastened, as at my last visit; I knocked and invoked Earnshaw from among the garden-beds; he unchained it, and I entered. The fellow is as handsome a rustic as need be seen. I took particular notice of him this time; but then he does his best apparently to make the least of his advantages.

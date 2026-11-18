@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Isidore Beautrelet, Sixth-Form Schoolboy"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-02.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-02.html"
 ---
 
 From the Grand Journal.

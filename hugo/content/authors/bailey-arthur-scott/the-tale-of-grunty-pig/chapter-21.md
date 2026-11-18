@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Beechnuts"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-21.html"
 ---
 
 Down the hill, a little way from Farmer Green's house, a great beech tree stood beside the road. In the fall, when the nuts were ripe, Johnnie Green often visited the tree. And so did Frisky Squirrel. And so, likewise, did that noisy rascal, Jasper Jay. They liked beechnuts--all three. And somehow they got the notion that the beech tree belonged to them--and to nobody else.

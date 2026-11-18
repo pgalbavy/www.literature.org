@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Wrecked On A Desert Island"
 weight: 3
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-03.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-03.html"
 ---
 
 AFTER this stop, we made on to the southward continually for ten or twelve days, living very sparingly on our provisions, which began to abate very much, and going no oftener to the shore than we were obliged to for fresh water. My design in this was to make the river Gambia or Senegal, that is to say anywhere about the Cape de Verde, where I was in hopes to meet with some European ship; and if I did not, I knew not what course I had to take, but to seek for the islands, or perish there among the negroes. I knew that all the ships from Europe, which sailed either to the coast of Guinea or to Brazil, or to the East Indies, made this cape, or those islands; and, in a word, I put the whole of my fortune upon this single point, either that I must meet with some ship or must perish.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-33.html"
+url: "/authors/london-jack/john-barleycorn/chapter-33.html"
 ---
 
 I went to Australia to go into hospital and get tinkered up, after which I planned to go on with the voyage. And during the long weeks I lay in hospital, from the first day I never missed alcohol. I never thought about it. I knew I should have it again when I was on my feet. But when I regained my feet I was not cured of my major afflictions. Naaman's silvery skin was still mine. The mysterious sun-sickness, which the experts of Australia could not fathom, still ripped and tore my tissues. Malaria still festered in me and put me on my back in shivering delirium at the most unexpected moments, compelling me to cancel a double lecture tour which had been arranged.

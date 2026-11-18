@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-01.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-01.html"
 ---
 
 The palings of the grandstand inclosure creaked in protest under the pressure. The shadows of forward-surging men wavered far out across the track. A smother of ondriving dust broke, hurricane-like, around the last turn, sweeping before it into the straightaway a struggling mass of horse-flesh and a confusion of stable-colors. Back to the right, the grandstand came to its feet, bellowing in a madman's chorus.

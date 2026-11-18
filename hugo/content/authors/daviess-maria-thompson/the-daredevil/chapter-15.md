@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"Behold, I Am A Spy!\""
 weight: 15
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-15.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-15.html"
 ---
 
 As I sat and held in my hand those papers in which were two long messages, the one written in a very poor English and the other in a very elegant French, the woman Roberta, Marquise of Grez and Bye, trembled with fear of a discovery of her woman's estate while that daredevil Robert Carruthers raged within and also turned with a deadly hatred and distrust of the greatest gentleman that le bon Dieu had ever given to him to know. It was as I say, and for this reason: In the letters were announcements of the arrival of the Lieutenant, Count Edouard de Bourdon, on that Tuesday which the Madam Whitworth had mentioned. They were written with great ceremony to my Uncle, the General Robert Carruthers, as Secretary of the State of Harpeth, to give to him that information to be conveyed to His Excellency, the Gouverneur Faulkner, in due form though he already had that information.

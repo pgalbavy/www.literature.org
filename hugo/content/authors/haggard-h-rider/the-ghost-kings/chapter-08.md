@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Mr. Dove Visits Ishmael"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-08.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-08.html"
 ---
 
 When Rachel and Noie reached the house, which they did not do for some time, as they waited to make sure that Ishmael had really gone, it was to see the man himself riding away from its gate.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - From The Crow S Nest"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-14.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-14.html"
 ---
 
 And so after strange delays and through an avenue of doubt and battle, this man from the nineteenth century came at last to his position at the head of that complex world.

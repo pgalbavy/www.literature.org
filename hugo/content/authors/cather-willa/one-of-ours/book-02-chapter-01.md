@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1"
 weight: 20
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-01.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-01.html"
 ---
 
 One afternoon that spring Claude was sitting on the long flight of granite steps that leads up to the State House in Denver. He had been looking at the collection of Cliff Dweller remains in the Capitol, and when he came out into the sunlight the faint smell of fresh-cut grass struck his nostrils and persuaded him to linger. The gardeners were giving the grounds their first light mowing. All the lawns on the hill were bright with daffodils and hyacinths. A sweet, warm wind blew over the grass, drying the waterdrops. There had been showers in the afternoon, and the sky was still a tender, rainy blue, where it showed through the masses of swiftly moving clouds.

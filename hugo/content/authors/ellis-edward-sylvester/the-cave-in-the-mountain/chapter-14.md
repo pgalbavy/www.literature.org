@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Between Two Fires"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-14.html"
 ---
 
 Mickey had scarcely given utterance to this hopeful remark when he drew up his mustang with a spasmodic jerk and exclaimed, in a startled in a startled voice:

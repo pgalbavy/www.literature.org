@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-17.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-17.html"
 ---
 
 "I have come, not to quarrel with you, but to try to dissuade you." The Honorable Mr. Wickliffe bit savagely at his cigar, and gave a despairing spread to his well-manicured hands. "You stand in danger of becoming the most cordially hated man in New York--hated by the most powerful combinations in New York."

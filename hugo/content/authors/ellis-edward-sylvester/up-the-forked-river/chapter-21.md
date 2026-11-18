@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-21.html"
 ---
 
 So it was that the daring native came up the plateau, saluted the first sentinel whom he saw, and brusquely announced that he had immediate business with Captain Navarro. The latter was in one of the large lower apartments engaged with his evening meal. When word was brought to him, he sprang up and hastened outside, where Martella was standing erect, like a true soldier of the Atlamalcan army, and saluted him.

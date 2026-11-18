@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - What A Welcome!"
 weight: 12
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-12.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-12.html"
 ---
 
 At exactly ten of the clock next morning Peter Stansbury Pape, Esquire, garbed in the form prescribed by the chart on the wall of his Astor suite, was admitted for the second time to the Sturgis brownstone. He had awakened with the idea. His mind, which last night had felt shell-shocked out of its normal functions by that “home-at-last-dear” bomb, must have worked it out while he slept. The telephone, Jasper of the jowls and a certain exuberant “young lady of to-day”—all seemed to approve it. Even Aunt Helene, who received him, wore a manner that went with her ante-meridian negligée, pliable and gracious as its material of rose-hued Georgette.

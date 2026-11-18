@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Story Club Is Formed"
 weight: 26
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-26.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-26.html"
 ---
 
 Junior Avonlea found it hard to settle down to humdrum existence again. To Anne in particular things seemed fearfully flat, stale, and unprofitable after the goblet of excitement she had been sipping for weeks. Could she go back to the former quiet pleasures of those faraway days before the concert? At first, as she told Diana, she did not really think she could.

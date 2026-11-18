@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-27.html"
 ---
 
 An Unexpected Preacher—Andrew Hull Foote —His Character and Early Career —His Brilliant Services in the War for the Union.

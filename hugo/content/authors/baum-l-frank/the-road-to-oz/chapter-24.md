@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-24.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-24.html"
 ---
 
 A clear, perfect day, with a gentle breeze and a sunny sky, greeted Princess Ozma as she wakened next morning, the anniversary of her birth. While it was yet early all the city was astir and crowds of people came from all parts of the Land of Oz to witness the festivities in honor of their girl Ruler's birthday.

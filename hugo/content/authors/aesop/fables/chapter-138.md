@@ -1,8 +1,7 @@
 ---
 title: "The Monkey And The Fishermen"
 weight: 140
-aliases:
-  - "/authors/aesop/fables/chapter-138.html"
+url: "/authors/aesop/fables/chapter-138.html"
 ---
 
 A MONKEY perched upon a lofty tree saw some Fishermen casting their nets into a river, and narrowly watched their proceedings. The Fishermen after a while gave up fishing, and on going home to dinner left their nets upon the bank. The Monkey, who is the most imitative of animals, descended from the treetop and endeavored to do as they had done. Having handled the net, he threw it into the river, but became tangled in the meshes and drowned. With his last breath he said to himself, "I am rightly served; for what business had I who had never handled a net to try and catch fish?'

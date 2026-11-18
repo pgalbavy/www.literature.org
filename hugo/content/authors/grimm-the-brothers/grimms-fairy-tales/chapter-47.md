@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Twelve Huntsmen"
 weight: 47
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-47.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-47.html"
 ---
 
 There was once a king’s son who had a bride whom he loved very much. And when he was sitting beside her and very happy, news came that his father lay sick unto death, and desired to see him once again before his end. Then he said to his beloved: ‘I must now go and leave you, I give you a ring as a remembrance of me. When I am king, I will return and fetch you.’ So he rode away, and when he reached his father, the latter was dangerously ill, and near his death. He said to him: ‘Dear son, I wished to see you once again before my end, promise me to marry as I wish,’ and he named a certain king’s daughter who was to be his wife. The son was in such trouble that he did not think what he was doing, and said: ‘Yes, dear father, your will shall be done,’ and thereupon the king shut his eyes, and died.

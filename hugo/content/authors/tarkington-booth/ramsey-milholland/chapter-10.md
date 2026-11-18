@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-10.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-10.html"
 ---
 
 He never saw her again. She sent him a "picture postal" from Oconomowoc, Wisconsin, which his father disengaged from the family mail, one morning at breakfast, and considerately handed to him without audible comment. Upon it was written, *"Oh, you Ramsey!"* This was the last of Milla.

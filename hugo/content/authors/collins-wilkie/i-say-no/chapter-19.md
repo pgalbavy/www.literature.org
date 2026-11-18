@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Sir Jervis Redwood"
 weight: 19
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-19.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-19.html"
 ---
 
 In the meantime, Emily, left by herself, had her own correspondence to occupy her attention. Besides the letter from Cecilia (directed to the care of Sir Jervis Redwood), she had received some lines addressed to her by Sir Jervis himself. The two inclosures had been secured in a sealed envelope, directed to the cottage.

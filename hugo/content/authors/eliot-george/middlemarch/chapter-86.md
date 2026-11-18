@@ -1,8 +1,7 @@
 ---
 title: "Chapter 86"
 weight: 86
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-86.html"
+url: "/authors/eliot-george/middlemarch/chapter-86.html"
 ---
 
 "Le coeur se sature d'amour comme d'un sel divin qui le conserve; de la l'incorruptible adherence de ceux qui se sont aimes des l'aube de la vie, et la fraicheur des vielles amours prolonges. Il existe un embaumement d'amour. C'est de Daphnis et Chloe que sont faits Philemon et Baucis. Cette vieillesse la, ressemblance du soir avec l'aurore." - VICTOR HUGO: L'homme qui rit.

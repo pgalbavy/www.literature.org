@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/prologue.html"
+url: "/authors/buchan-john/the-path-of-the-king/prologue.html"
 ---
 
 The three of us in that winter camp in the Selkirks were talking the slow aimless talk of wearied men.

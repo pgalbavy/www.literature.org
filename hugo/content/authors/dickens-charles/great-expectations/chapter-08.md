@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-08.html"
+url: "/authors/dickens-charles/great-expectations/chapter-08.html"
 ---
 
 MR PUMBLECHOOK's premises in the High-street of the market town, were of a peppercorny and farinaceous character, as the pre- mises of a corn-chandler and seedsman should be. It appeared to me that he must be a very happy man indeed, to have so many little drawers in his shop; and I wondered when I peeped into one or two on the lower tiers, and saw the tied-up brown paper packets inside, whether the flower-seeds and bulbs ever wanted of a fine day to break out of those jails, and bloom.

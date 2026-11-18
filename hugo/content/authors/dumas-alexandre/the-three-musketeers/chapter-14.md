@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Man Of Meung"
 weight: 15
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-14.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-14.html"
 ---
 
 The crowd was caused, not by the expectation of a man to be hanged, but by the contemplation of a man who was hanged.

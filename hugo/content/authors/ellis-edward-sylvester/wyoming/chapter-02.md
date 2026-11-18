@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-02.html"
 ---
 
 Just here we must turn aside for a minute or two, in order to understand the situation.

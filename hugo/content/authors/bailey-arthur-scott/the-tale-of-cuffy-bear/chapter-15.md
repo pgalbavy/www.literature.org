@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Hunting For A Bee-Tree"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-15.html"
 ---
 
 It was a very hot summer's day. Even up on Blue Mountain Cuffy Bear felt the heat. And he wished that he might get rid of his thick coat. But though Cuffy was beginning to believe himself a very wise little bear, he could think of no way to slip off his heavy black fur. So he sat down in the shade of a big tree, where the breeze blew upon him, and tried to be as cool as he could.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - The Coronation Day"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-08.html"
 ---
 
 Toward dusk of the day upon which the mad king of Lutha had been found, a dust-covered horseman reined in before the great gate of the castle of Prince Ludwig von der Tann. The unsettled political conditions which overhung the little kingdom of Lutha were evident in the return to medievalism which the raised portcullis and the armed guard upon the barbican of the ancient feudal fortress revealed. Not for a hundred years before had these things been done other than as a part of the ceremonials of a fete day, or in honor of visiting royalty.

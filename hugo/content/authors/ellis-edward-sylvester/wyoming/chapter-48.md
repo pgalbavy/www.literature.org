@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-48.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-48.html"
 ---
 
 A most unexpected piece of good fortune had befallen our friends, in the appearance of Dick Durkee, with his six sturdy companions, all armed and ready for an encounter with the Tories and Iroquois.

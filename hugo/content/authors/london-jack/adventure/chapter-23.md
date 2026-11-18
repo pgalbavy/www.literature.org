@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Message From The Bush"
 weight: 23
-aliases:
-  - "/authors/london-jack/adventure/chapter-23.html"
+url: "/authors/london-jack/adventure/chapter-23.html"
 ---
 
 Never had runaways from Berande been more zealously hunted. The deeds of Gogoomy and his fellows had been a bad example for the one hundred and fifty new recruits. Murder had been planned, a gang- boss had been killed, and the murderers had broken their contracts by fleeing to the bush. Sheldon saw how imperative it was to teach his new-caught cannibals that bad examples were disastrous things to pattern after, and he urged Seelee on night and day, while with the Tahitians he practically lived in the bush, leaving Joan in charge of the plantation. To the north Boucher did good work, twice turning the fugitives back when they attempted to gain the coast.

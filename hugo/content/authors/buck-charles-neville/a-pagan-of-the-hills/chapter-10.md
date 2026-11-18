@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-10.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-10.html"
 ---
 
 For a moment as she turned observant eyes about the walls of the place to which she had been brought, Alexander almost hoped that the astonishing statement of the spokesman was a true one--that in store for her, instead of robbery and possible outrage, lay only the judgment of the punitive clan. Such punishment might be brutally severe but she could face it in such fashion as would vindicate her claim of playing a man's game in a man's way.

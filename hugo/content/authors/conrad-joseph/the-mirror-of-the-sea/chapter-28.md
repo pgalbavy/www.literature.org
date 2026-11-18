@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-28.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-28.html"
 ---
 
 The winds of North and South are, as I have said, but small princes amongst the powers of the sea. They have no territory of their own; they are not reigning winds anywhere. Yet it is from their houses that the reigning dynasties which have shared between them the waters of the earth are sprung. All the weather of the world is based upon the contest of the Polar and Equatorial strains of that tyrannous race. The West Wind is the greatest king. The East rules between the Tropics. They have shared each ocean between them. Each has his genius of supreme rule. The King of the West never intrudes upon the recognised dominion of his kingly brother. He is a barbarian, of a northern type. Violent without craftiness, and furious without malice, one may imagine him seated masterfully with a double-edged sword on his knees upon the painted and gilt clouds of the sunset, bowing his shock head of golden locks, a flaming beard over his breast, imposing, colossal, mighty-limbed, with a thundering voice, distended cheeks and fierce blue eyes, urging the speed of his gales. The other, the East king, the king of blood-red sunrises, I represent to myself as a spare Southerner with clear-cut features, black-browed and dark-eyed, gray-robed, upright in sunshine, resting a smooth-shaven cheek in the palm of his hand, impenetrable, secret, full of wiles, fine-drawn, keen—meditating aggressions.

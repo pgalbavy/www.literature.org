@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-18.html"
+url: "/authors/greene-homer/the-guardsman/chapter-18.html"
 ---
 
 Three days after Lieutenant McCormack’s interview with Captain Murray, First Sergeant Barriscale, in pursuance of notice duly received, presented himself before his commanding officer, in his room at the hospital, for admonition and punishment in accordance with the Army Regulations. There was no bravado in his bearing, no attempt at bluster or denial.

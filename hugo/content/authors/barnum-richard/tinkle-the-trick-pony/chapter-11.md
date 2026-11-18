@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Tinkle Is Sad"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-11.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-11.html"
 ---
 
 “Now, Tinkle, we can have a nice talk,” said Tum Tum, a little later, when he came back from the parade. “Tell me about yourself, how you came to join the circus and, most of all, I want to hear about my old friend Dido.”

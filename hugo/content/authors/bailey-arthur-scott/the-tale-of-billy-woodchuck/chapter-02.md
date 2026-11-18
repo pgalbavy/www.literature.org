@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Calling Names"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-02.html"
 ---
 
 Billy Woodchuck grew so fast that he soon looked very much like his father. Of course, he was still much smaller than Mr. Woodchuck. But like him, Billy was quite gray; and he had whiskers, too--though, to be sure, those were black. His eyes also were black and large and bright. When Billy sat up on his hind legs--as he often did--he appeared for all the world like a huge squirrel.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - But Not To Bed"
 weight: 40
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-40.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-40.html"
 ---
 
 Harold glanced at the clock; it was nearly one in the morning, time to go to bed if he was going. But he did not feel inclined to go to bed. If he did, with this great discovery on his mind he should not sleep. There was another thing; it was Christmas Eve, or rather Christmas Day, the day of Ida's answer. If any succour was to be given at all, it must be given at once, before the fortress had capitulated. Once let the engagement be renewed, and even if the money should subsequently be forthcoming, the difficulties would be doubled. But he was building his hopes upon sand, and he knew it. Even supposing that he held in his hand the key to the hiding place of the long-lost treasure, who knew whether it would still be there, or whether rumour had not enormously added to its proportions? He was allowing his imagination to carry him away.

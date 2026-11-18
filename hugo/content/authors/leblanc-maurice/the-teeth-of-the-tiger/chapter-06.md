@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Man With The Ebony Walking-Stick"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-06.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-06.html"
 ---
 
 A group consisting of Deputy Chief Detective Weber, Chief Inspector Ancenis, Sergeant Mazeroux, three inspectors, and the Neuilly commissary of police stood outside the gate of No. 8 Boulevard Richard-Wallace.

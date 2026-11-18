@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Scheherazade"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-16.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-16.html"
 ---
 
 At the Orangeville garage Neeland stopped his car, put on his straw hat, got out carrying suitcase and box, entered the office, and turned over the care of the machine to an employee with orders to drive it back to Neeland's Mills the next morning.

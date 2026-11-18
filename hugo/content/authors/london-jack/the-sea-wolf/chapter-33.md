@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-33.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-33.html"
 ---
 
 We waited all day for Wolf Larsen to come ashore. It was an intolerable period of anxiety. Each moment one or the other of us cast expectant glances toward the Ghost. But he did not come. He did not even appear on deck.

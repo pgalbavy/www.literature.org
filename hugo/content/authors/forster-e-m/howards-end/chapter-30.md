@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-30.html"
+url: "/authors/forster-e-m/howards-end/chapter-30.html"
 ---
 
 Tibby was now approaching his last year at Oxford. He had moved out of college, and was contemplating the Universe, or such portions of it as concerned him, from his comfortable lodgings in Long Wall. He was not concerned with much. When a young man is untroubled by passions and sincerely indifferent to public opinion his outlook is necessarily limited. Tibby wished neither to strengthen the position of the rich nor to improve that of the poor, and so was well content to watch the elms nodding behind the mildly embattled parapets of Magdalen. There are worse lives. Though selfish, he was never cruel; though affected in manner, he never posed. Like Margaret, he disdained the heroic equipment, and it was only after many visits that men discovered Schlegel to possess a character and a brain. He had done well in Mods, much to the surprise of those who attended lectures and took proper exercise, and was now glancing disdainfully at Chinese in case he should some day consent to qualify as a Student Interpreter. To him thus employed Helen entered. A telegram had preceded her.

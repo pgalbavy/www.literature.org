@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Singing Society"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-16.html"
 ---
 
 WHEN the members of the Pleasant Valley Singing Society gathered just before sunset in the maple grove, near the sugar-house (where Cuffy Bear first saw a man), they were glad to find that Jasper Jay was already there, waiting for them.

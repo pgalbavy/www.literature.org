@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-06.html"
 ---
 
 Having thanked Anna Pavlovna for her charming soiree, the guests began to take their leave.

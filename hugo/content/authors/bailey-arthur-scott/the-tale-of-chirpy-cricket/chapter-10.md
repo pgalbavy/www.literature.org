@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Caught!"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-10.html"
 ---
 
 Whatever or whoever it was that had entered Chirpy Cricket's home--the hole in the ground near Farmer Green's barn--it caused him a terrible fright. It kept poking him in a most alarming fashion. Chirpy couldn't move away from it, for his home was only big enough for himself alone. And since he didn't care to share it with another, he soon made up his mind that there was only one thing for him to do. He would quit his house for the time being, with the hope of finding it empty later. Indeed Chirpy Cricket thought he would be lucky to escape in safety. So he scrambled up into the daylight, to be greeted with a shout and a pounce, both at the same time. And Chirpy Cricket saw, too late, that it was a creature much bigger than a hen that had captured him. It was Johnnie Green!

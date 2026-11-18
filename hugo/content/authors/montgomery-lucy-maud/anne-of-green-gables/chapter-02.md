@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Matthew Cuthbert is surprised"
 weight: 2
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-02.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-02.html"
 ---
 
 Matthew Cuthbert and the sorrel mare jogged comfortably over the eight miles to Bright River. It was a pretty road, running along between snug farmsteads, with now and again a bit of balsamy fir wood to drive through or a hollow where wild plums hung out their filmy bloom. The air was sweet with the breath of many apple orchards and the meadows sloped away in the distance to horizon mists of pearl and purple; while "The little birds sang as if it were The one day of summer in all the year." Matthew enjoyed the drive after his own fashion, except during the moments when he met women and had to nod to them-- for in Prince Edward island you are supposed to nod to all and sundry you meet on the road whether you know them or not.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-10.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-10.html"
 ---
 
 Messrs. Grateley and Hooper, the solicitors in whose firm Ralph Denham was clerk, had their office in Lincoln’s Inn Fields, and there Ralph Denham appeared every morning very punctually at ten o’clock. His punctuality, together with other qualities, marked him out among the clerks for success, and indeed it would have been safe to wager that in ten years’ time or so one would find him at the head of his profession, had it not been for a peculiarity which sometimes seemed to make everything about him uncertain and perilous. His sister Joan had already been disturbed by his love of gambling with his savings. Scrutinizing him constantly with the eye of affection, she had become aware of a curious perversity in his temperament which caused her much anxiety, and would have caused her still more if she had not recognized the germs of it in her own nature. She could fancy Ralph suddenly sacrificing his entire career for some fantastic imagination; some cause or idea or even (so her fancy ran) for some woman seen from a railway train, hanging up clothes in a back yard. When he had found this beauty or this cause, no force, she knew, would avail to restrain him from pursuit of it. She suspected the East also, and always fidgeted herself when she saw him with a book of Indian travels in his hand, as though he were sucking contagion from the page. On the other hand, no common love affair, had there been such a thing, would have caused her a moment’s uneasiness where Ralph was concerned. He was destined in her fancy for something splendid in the way of success or failure, she knew not which.

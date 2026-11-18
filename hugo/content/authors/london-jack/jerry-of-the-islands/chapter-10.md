@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-10.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-10.html"
 ---
 
 Daylight saw the Arangi under way, her sails drooping heavily in the dead air while the boat's crew toiled at the oars of the whaleboat to tow her out through the narrow entrance. Once, when the ketch, swerved by some vagrant current, came close to the break of the shore-surf, the blacks on board drew toward one another in apprehension akin to that of startled sheep in a fold when a wild woods marauder howls outside. Nor was there any need for Van Horn's shout to the whaleboat: "Washee-washee! Damn your hides!" The boat's crew lifted themselves clear of the thwarts as they threw all their weight into each stroke. They knew what dire fate was certain if ever the sea-washed coral rock gripped the Arangi's keel. And they knew fear precisely of the same sort as that of the fear-struck girl below in the lazarette. In the past more than one Langa-Langa and Somo boy had gone to make a Su'u feast day, just as Su'u boys, on occasion, had similarly served feasts at Langa-Langa and at Somo.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Christmas Day With The Campbells"
 weight: 3
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-03.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-03.html"
 ---
 
 The days which followed the advent of the orphan sisters in the great house were happy ones. Oh, so happy! How can they be described? The two lonely old hearts which had hungered all these long years for the little children who had so early left them thrilled with gladness at every sound of the eager, girlish voices. Boundless content reigned in their hearts as they watched each expressive face and studied each different character; and they wondered openly how they had ever managed to live without this precious band of granddaughters, as they insisted upon calling their charges.

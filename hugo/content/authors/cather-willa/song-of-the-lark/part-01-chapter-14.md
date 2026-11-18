@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-14.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-14.html"
 ---
 
 “Mother,” said Peter Kronborg to his wife one morning about two weeks after Wunsch's departure, “how would you like to drive out to Copper Hole with me to-day?”

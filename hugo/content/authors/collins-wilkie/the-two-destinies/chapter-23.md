@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Kiss"
 weight: 24
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-23.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-23.html"
 ---
 
 SHE had need of me again. She had claimed me again. I felt all the old love, all the old devotion owning her power once more. Whatever had mortified or angered me at our last interview was forgiven and forgotten now. My whole being still thrilled with the mingled awe and rapture of beholding the Vision of her that had come to me for the second time. The minutes passed--and I stood by the fire like a man entranced; thinking only of her spoken words, "Remember me. Come to me;" looking only at her mystic writing, "At the month's end, In the shadow of Saint Paul's."

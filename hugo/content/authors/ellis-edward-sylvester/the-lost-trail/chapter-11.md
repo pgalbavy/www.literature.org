@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Primitive Fort"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-11.html"
 ---
 
 The sharp repulse of the Indians delayed rush which, as has been said, could ended only in the discomfiture of the defenders. The occurrence proved that the first warriors to scale the walls were certain to share the fate of him who had already made the attempt.

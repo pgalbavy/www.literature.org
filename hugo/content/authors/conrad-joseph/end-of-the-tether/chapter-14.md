@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-14.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-14.html"
 ---
 
 The deep, interminable hoot of the steam-whistle had, in its grave, vibrating note, something intolerable, which sent a slight shudder down Mr. Van Wyk’s back. It was the early afternoon; the Sofala was leaving Batu Beru for Pangu, the next place of call. She swung in the stream, scantily attended by a few canoes, and, gliding on the broad river, became lost to view from the Van Wyk bungalow.

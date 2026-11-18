@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Sine Die"
 weight: 23
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-23.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-23.html"
 ---
 
 The message ran:

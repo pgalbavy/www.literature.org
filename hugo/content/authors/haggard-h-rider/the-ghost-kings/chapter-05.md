@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Noie"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-05.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-05.html"
 ---
 
 That a girl should set out alone to bathe through a country inhabited chiefly by wild beasts and a few wandering savages, sounds a somewhat dangerous form of amusement. So it was indeed, but Rachel cared nothing for such dangers, in fact she never even thought of them. Long ago she had discovered that the animals would not harm her if she did not harm them, except perhaps the rhinoceros, which is given to charging on sight, and that was large and could generally be discovered at a distance. As for elephants and lions, or even buffalo, her experience was that they ran away, except on rare occasions when they stood still, and stared at her. Nor was she afraid of the savages, who always treated her with the utmost respect, even if they had never seen her before. Still, in case of accidents she took her double-barrelled gun, loaded in one barrel with ball, and in the other with loopers or slugs, and awakened Tom, the driver, to tell him where she was going. The man stared at her sleepily, and murmured a remonstrance, but taking no heed of him she pulled out some thorns from the fence to make a passage, and in another minute was lost to sight in the morning mist.

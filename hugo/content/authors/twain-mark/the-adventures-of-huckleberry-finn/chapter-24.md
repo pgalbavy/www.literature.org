@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-24.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-24.html"
 ---
 
 NEXT day, towards night, we laid up under a little willow towhead out in the middle, where there was a village on each side of the river, and the duke and the king begun to lay out a plan for working them towns. Jim he spoke to the duke, and said he hoped it wouldn't take but a few hours, because it got mighty heavy and tiresome to him when he had to lay all day in the wigwam tied with the rope. You see, when we left him all alone we had to tie him, because if anybody happened on to him all by himself and not tied it wouldn't look much like he was a runaway nigger, you know. So the duke said it WAS kind of hard to have to lay roped all day, and he'd cipher out some way to get around it.

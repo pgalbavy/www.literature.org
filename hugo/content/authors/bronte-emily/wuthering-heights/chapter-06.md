@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-06.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-06.html"
 ---
 
 MR. HINDLEY came home to the funeral; and - a thing that amazed us, and set the neighbours gossiping right and left - he brought a wife with him. What she was, and where she was born, he never informed us: probably, she had neither money nor name to recommend her, or he would scarcely have kept the union from his father.

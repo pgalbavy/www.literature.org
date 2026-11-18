@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - She Claims Me Again"
 weight: 23
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-22.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-22.html"
 ---
 
 THE moments passed; the silence between us continued. Miss Dunross made an attempt to rouse me.

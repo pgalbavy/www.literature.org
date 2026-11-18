@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Lytton's Nemesis"
 weight: 9
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-09.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-09.html"
 ---
 
 That which followed was a hard night for both Bayard and Lytton. The wounded arm was doing nicely, but the shattered nervous system could not be repaired so simply. Since the incident of the ransacked house and the pilfered whiskey, Lytton had not had so much as one drink of stimulant and, because of that indulgence of his appetite, his suffering was made manifold. Denial of further liquor was the penalty Ned was forced to pay for the abuse of Bayard's trust. Much of the time the sick man kept himself well in hand, was able to cover up outward evidence of the torture which he underwent, and in that fact rested some indication of the determination that had once been in him. But this night the effects of his excesses were tearing at his will persistently and sleep would not come.

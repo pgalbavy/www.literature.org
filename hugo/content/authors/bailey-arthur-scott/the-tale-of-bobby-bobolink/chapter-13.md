@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Mr. Catbird's Trick"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-13.html"
 ---
 
 In a clump of lilac bushes near Farmer Green's garden Mr. Catbird made his home. He was an odd fellow, very friendly toward everybody in the farmhouse, except the cat, whom he dearly loved to tease. When she passed through the garden on her way to the meadow to hunt for mice, Mr. Catbird was quite likely to begin mewing. It always made Miss Kitty furious to be mocked. And sometimes she crept into the bushes herself, hoping to surprise Mr. Catbird and teach him a lesson. But she never caught him.

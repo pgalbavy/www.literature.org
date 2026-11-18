@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-15.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-15.html"
 ---
 
 Those who had seen Edgar Caswall familiarly since his arrival, and had already estimated his cold-blooded nature at something of its true value, were surprised that he took so to heart the death of old Chester. The fact was that not one of them had guessed correctly at his character. They thought, naturally enough, that the concern which he felt was that of a master for a faithful old servant of his family. They little thought that it was merely the selfish expression of his disappointment, that he had thus lost the only remaining clue to an interesting piece of family history--one which was now and would be for ever wrapped in mystery. Caswall knew enough about the life of his ancestor in Paris to wish to know more fully and more thoroughly all that had been. The period covered by that ancestor's life in Paris was one inviting every form of curiosity.

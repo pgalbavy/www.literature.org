@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Strange Phenomenon Of The Dissociation Of Matter"
 weight: 16
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-16.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-16.html"
 ---
 
 (*EXTRACT FROM THE NOTE-BOOK OF JOSEPH ROULETABILLE,* continued)

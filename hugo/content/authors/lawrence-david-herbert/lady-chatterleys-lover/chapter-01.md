@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-01.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-01.html"
 ---
 
 Ours is essentially a tragic age, so we refuse to take it tragically. The cataclysm has happened, we are among the ruins, we start to build up new little habitats, to have new little hopes. It is rather hard work: there is now no smooth road into the future: but we go round, or scramble over the obstacles. We've got to live, no matter how many skies have fallen.

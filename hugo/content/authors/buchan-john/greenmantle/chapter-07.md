@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Christmastide"
 weight: 8
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-07.html"
+url: "/authors/buchan-john/greenmantle/chapter-07.html"
 ---
 
 Everything depended on whether the servant was in the hall. I had put Stumm to sleep for a bit, but I couldn’t flatter myself he would long be quiet, and when he came to he would kick the locked door to matchwood. I must get out of the house without a minute’s delay, and if the door was shut and the old man gone to bed I was done.

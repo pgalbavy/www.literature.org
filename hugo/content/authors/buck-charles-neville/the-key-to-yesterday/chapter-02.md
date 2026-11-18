@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-02.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-02.html"
 ---
 
 "His career has been pretty much a march of successive triumphs through the world of art, and he has left the critics only one peg on which to hang their carping."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The History of the Old Woman"
 weight: 11
-aliases:
-  - "/authors/voltaire/candide/chapter-11.html"
+url: "/authors/voltaire/candide/chapter-11.html"
 ---
 
 I have not always been blear-eyed. My nose did not always touch my chin; nor was I always a servant. You must know that I am the daughter of Pope Urban X, and of the Princess of Palestrina. To the age of fourteen I was brought up in a castle, compared with which all the castles of the German barons would not have been fit for stabling, and one of my robes would have bought half the province of Westphalia. I grew up, and improved in beauty, wit, and every graceful accomplishment; and in the midst of pleasures, homage, and the highest expectations. I already began to inspire the men with love. My breast began to take its right form, and such a breast! white, firm, and formed like that of the Venus de' Medici; my eyebrows were as black as jet, and as for my eyes, they darted flames and eclipsed the luster of the stars, as I was told by the poets of our part of the world. My maids, when they dressed and undressed me, used to fall into an ecstasy in viewing me before and behind; and all the men longed to be in their places.

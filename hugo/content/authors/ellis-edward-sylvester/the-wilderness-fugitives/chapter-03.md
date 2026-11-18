@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Eavesdropping"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-03.html"
 ---
 
 Both supposed that they heard the footsteps of Lena-Wingo and Jo Minturn; but a habit taught by the hard experience of the last few days caused them to cease speaking and to listen. Only a second was needed to tell them that strangers were approaching them, although, fortunately they were not heading in a direct line for the place where the lovers were sitting. Had it been otherwise, it is hard to see how they could have escaped observation. The men were issuing from the wood and making for the shore of the river, aiming at a point a few yards above where Ned and Rosa were stationed. They were walking at a leisurely gait, evidently with no suspicion that any white persons were within earshot. Judging from the sound of feet upon the leaves, a half dozen persons were proceeding without any caution at all, talking as freely as if together at their own homes.

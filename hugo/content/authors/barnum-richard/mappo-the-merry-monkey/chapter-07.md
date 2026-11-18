@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Mappo In The Circus"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-07.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-07.html"
 ---
 
 "Well, I declare!" exclaimed the sailor who had brought Mappo downstairs in the ship to see Tum Tum, the jolly elephant. "You two animals seem to get along fine together!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - \u0026quot;It Is The Child!\u0026quot;"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-17.html"
 ---
 
 The next afternoon three members of the Large Family sat in the Indian gentleman's library, doing their best to cheer him up. They had been allowed to come in to perform this office because he had specially invited them. He had been living in a state of suspense for some time, and to-day he was waiting for a certain event very anxiously. This event was the return of Mr. Carmichael from Moscow. His stay there had been prolonged from week to week. On his first arrival there, he had not been able satisfactorily to trace the family he had gone in search of. When he felt at last sure that he had found them and had gone to their house, he had been told that they were absent on a journey. His efforts to reach them had been unavailing, so he had decided to remain in Moscow until their return. Mr. Carrisford sat in his reclining-chair, and Janet sat on the floor beside him. He was very fond of Janet. Nora had found a footstool, and Donald was astride the tiger's head which ornamented the rug made of the animal's skin. It must be owned that he was riding it rather violently.

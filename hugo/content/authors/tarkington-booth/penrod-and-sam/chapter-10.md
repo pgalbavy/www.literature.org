@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Conscience"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-10.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-10.html"
 ---
 
 Mrs. Schofield had been away for three days, visiting her sister in Dayton, Illinois, and on the train, coming back, she fell into a reverie. Little dramas of memory were reenacted in her pensive mind, and through all of them moved the figure of Penrod as a principal figure, or star. These little dramas did not present Penrod as he really was, much less did they glow with the uncertain but glamorous light in which Penrod saw himself. No; Mrs. Schofield had indulged herself in absence from her family merely for her own pleasure, and, now that she was homeward bound, her conscience was asserting itself; the fact that she had enjoyed her visit began to take on the aspect of a crime.

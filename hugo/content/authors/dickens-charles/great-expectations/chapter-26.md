@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-26.html"
+url: "/authors/dickens-charles/great-expectations/chapter-26.html"
 ---
 
 IT fell out as Wemmick had told me it would, that I had an early opportunity of comparing my guardian's establishment with that of his cashier and clerk. My guardian was in his room, washing his hands with his scented soap, when I went into the office from Walworth; and he called me to him, and gave me the invitation for myself and friends which Wemmick had prepared me to receive. 'No ceremony,' he stipulated, 'and no dinner dress, and say to- morrow.' I asked him where we should come to (for I had no idea where he lived), and I believe it was in his general objection to make anything like an admission, that he replied, 'Come here, and I'll take you home with me.' I embrace this opportunity of remark- ing that he washed his clients off, as if he were a surgeon or a dentist. He had a closet in his room, fitted up for the purpose, which smelt of the scented soap like a perfumer's shop. It had an unusually large jack-towel on a roller inside the door, and he would wash his hands, and wipe them and dry them all over this towel, whenever he came in from a police-court or dismissed a client from his room. When I and my friends repaired to him at six o'clock next day, he seemed to have been engaged on a case of a darker complexion than usual, for, we found him with his head butted into this closet, not only washing his hands, but laving his face and gargling his throat. And even when he had done all that, and had gone all round the jack-towel, he took out his pen- knife and scraped the case out of his nails before he put his coat on.

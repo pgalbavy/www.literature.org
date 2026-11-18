@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Miss Penelope Morse"
 weight: 4
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-04.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-04.html"
 ---
 
 It was already a little past the customary luncheon hour at the Carlton, and the restaurant was well filled. The orchestra had played their first selection, and the stream of incoming guests had begun to slacken. A young lady who had been sitting in the palm court for at least half an hour rose to her feet, and, glancing casually at her watch, made her way into the hotel. She entered the office and addressed the chief reception clerk.

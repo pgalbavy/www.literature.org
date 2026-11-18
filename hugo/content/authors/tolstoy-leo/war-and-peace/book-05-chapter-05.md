@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 5"
 weight: 89
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-05.html"
 ---
 
 The day after he had been received into the Lodge, Pierre was sitting at home reading a book and trying to fathom the significance of the Square, one side of which symbolized God, another moral things, a third physical things, and the fourth a combination of these. Now and then his attention wandered from the book and the Square and he formed in imagination a new plan of life. On the previous evening at the Lodge, he had heard that a rumor of his duel had reached the Emperor and that it would be wiser for him to leave Petersburg. Pierre proposed going to his estates in the south and there attending to the welfare of his serfs. He was joyfully planning this new life, when Prince Vasili suddenly entered the room.

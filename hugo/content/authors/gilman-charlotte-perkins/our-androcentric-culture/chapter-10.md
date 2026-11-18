@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Law And Government"
 weight: 10
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-10.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-10.html"
 ---
 
 It is easy to assume that men are naturally the lawmakers and law-enforcers, under the plain historic fact that they have been such since the beginning of the patriarchate.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Full Story Of A Copy Of Heineccius"
 weight: 25
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-24.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-24.html"
 ---
 
 The place found was in the upper part of a house backed on a canal. We had two rooms, the second entering from the first; each had a chimney built out into the floor in the Dutch manner; and being alongside, each had the same prospect from the window of the top of a tree below us in a little court, of a piece of the canal, and of houses in the Hollands architecture and a church spire upon the further side. A full set of bells hung in that spire and made delightful music; and when there was any sun at all, it shone direct in our two chambers. From a tavern hard by we had good meals sent in.

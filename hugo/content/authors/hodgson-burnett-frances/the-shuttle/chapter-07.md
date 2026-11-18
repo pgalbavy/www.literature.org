@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - On Board The “Meridiana”"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-07.html"
 ---
 
 A large transatlantic steamer lying at the wharf on a brilliant, sunny morning just before its departure is an interesting and suggestive object to those who are fond of following suggestion to its end. One sometimes wonders if it is possible that the excitement in the dock atmosphere could ever become a thing to which one was sufficiently accustomed to be able to regard it as among things commonplace. The rumbling and rattling of waggons and carts, the loading and unloading of boxes and bales, the people who are late, and the people who are early, the faces which are excited, and the faces which are sad, the trunks and bales, and cranes which creak and groan, the shouts and cries, the hurry and confusion of movement, notwithstanding that every day has seen them all for years, have a sort of perennial interest to the looker-on.

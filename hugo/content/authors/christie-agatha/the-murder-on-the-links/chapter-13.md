@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Girl With The Anxious Eyes"
 weight: 13
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-13.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-13.html"
 ---
 
 We lunched with an excellent appetite. I understood well enough that Poirot did not wish to discuss the tragedy where we could so easily be overheard. But, as is usual when one topic fills the mind to the exclusion of everything else, no other subject of interest seemed to present itself. For a while we ate in silence, and then Poirot observed maliciously:

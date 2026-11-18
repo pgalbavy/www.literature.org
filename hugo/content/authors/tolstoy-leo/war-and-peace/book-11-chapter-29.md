@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 29"
 weight: 258
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-29.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-29.html"
 ---
 
 When the French officer went into the room with Pierre the latter again thought it his duty to assure him that he was not French and wished to go away, but the officer would not hear of it. He was so very polite, amiable, good-natured, and genuinely grateful to Pierre for saving his life that Pierre had not the heart to refuse, and sat down with him in the parlor- the first room they entered. To Pierre's assurances that he was not a Frenchman, the captain, evidently not understanding how anyone could decline so flattering an appellation, shrugged his shoulders and said that if Pierre absolutely insisted on passing for a Russian let it be so, but for all that he would be forever bound to Pierre by gratitude for saving his life.

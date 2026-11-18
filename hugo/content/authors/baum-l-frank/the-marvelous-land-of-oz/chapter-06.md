@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-06.html"
 ---
 
 At daybreak Tip was awakened by the Pumpkinhead. He rubbed the sleep from his eyes, bathed in a little brook, and then ate a portion of his bread and cheese. Having thus prepared for a new day the boy said:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Startling Interruption"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-04.html"
 ---
 
 IT did not take the boys long to become acquainted with Strubell and Lattin. The former showed by his conversation that he possessed a fair education, though Lattin was barely able to write his name. They were frank, outspoken, courageous, ready of resource, familiar with all the dangers they were likely to meet on the long ride toward the northwest, and the finest horsemen the boys had ever seen.

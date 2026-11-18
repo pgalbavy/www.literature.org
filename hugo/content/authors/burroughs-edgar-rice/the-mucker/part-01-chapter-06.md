@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - The Mucker At Bay"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-06.html"
 ---
 
 “WHAT has this man said to you, Miss Harding?” cried Theriere. “Has he offered you harm?”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - I See My Way"
 weight: 21
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-21.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-21.html"
 ---
 
 IN the gray light of the new morning I closed the Report of my husband's Trial for the Murder of his first Wife.

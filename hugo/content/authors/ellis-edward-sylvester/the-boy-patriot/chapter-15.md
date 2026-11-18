@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Letter"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-15.html"
 ---
 
 Blair would gladly have chosen another time and place for the composition of the difficult letter he was called on to write, but he felt compelled to fulfil his promise at once. The men passed by him in silence, save the single remark of Brimstone, "Give my love to your *sweet* mother," delivered in an insulting tone, and with a laugh more repulsive than the hiss of a snake.

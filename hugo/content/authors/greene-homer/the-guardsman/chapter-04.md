@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-04.html"
+url: "/authors/greene-homer/the-guardsman/chapter-04.html"
 ---
 
 It was the Fourth of July in the year 1913. In accordance with the law of precedent and of patriotism every town and city in the United States should have had a public celebration of the day. But Fairweather was to have none. With the exception of a flag-raising on the plaza in front of the Barriscale mills the national anniversary was to go entirely unrecognized in the town so far as any public demonstration was concerned. But the flag-raising in itself was to be no inconsiderable event. Through the liberality of certain public-spirited citizens, principally gentlemen belonging to the Barriscale Manufacturing Company, a tall and beautifully tapering staff had been erected, capped with a gilded ball, and a handsome American flag had been procured and was ready to be drawn aloft.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-39.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-39.html"
 ---
 
 It may be thought that the most galling experience of General Yozarro was the scarifying repulse of Miss Starland, when he presumed to address her; but unknown to all except the author of the insult and himself, he was compelled to taste a deeper dreg in the cup of wormwood and gall. While he paused, facing the group of Americans, a man on the outer fringe succeeded in catching his eye and made the most taunting grimace conceivable. He repeated it several times, the last being accompanied by a flirt of the forefinger across the throat to signify that that was the way he would like to serve the murderous tyrant. The man who thus grossly insulted him was Martella, the deserter, who chuckled with delight when he heard the stinging answer given to General Yozarro by Miss Starland. The others were too interested in what was going on before them to observe the by-play. General Yozarro set his teeth, and took consolation in the thought:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - What A Snowball Did"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-11.html"
 ---
 
 Jolly Robin was too frightened to laugh when he saw Johnnie Green's second snowball strike the moon-faced stranger in the orchard. You see, the snowball hit one of the stranger's arms. And to Jolly's amazement, the arm at once dropped off and dashed upon the ground, breaking into a dozen pieces.

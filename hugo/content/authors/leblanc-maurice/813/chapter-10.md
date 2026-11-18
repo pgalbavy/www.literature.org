@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Lupin's Great Scheme"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-10.html"
+url: "/authors/leblanc-maurice/813/chapter-10.html"
 ---
 
 Contrary to his expectations, Lupin had no sort of annoyance to undergo in consequence of his assault on M. Formerie.

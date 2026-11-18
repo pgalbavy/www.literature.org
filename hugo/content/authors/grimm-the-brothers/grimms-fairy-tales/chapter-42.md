@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - The Fox And The Horse"
 weight: 42
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-42.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-42.html"
 ---
 
 A farmer had a horse that had been an excellent faithful servant to him: but he was now grown too old to work; so the farmer would give him nothing more to eat, and said, ‘I want you no longer, so take yourself off out of my stable; I shall not take you back again until you are stronger than a lion.’ Then he opened the door and turned him adrift.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Mysterious Dog"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-01.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-01.html"
 ---
 
 The elm-tree avenue was all overgrown, the great gate was never unlocked, and the old house had been shut up for several years.

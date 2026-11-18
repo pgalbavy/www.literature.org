@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-18.html"
 ---
 
 The great dragon still had his eyes closed and was even snoring in a manner that resembled distant thunder; but Polychrome was now desperate, because any further delay meant the destruction of her friends. She seized the pearl necklace, to which was attached the great locket, and jerked it with all her strength.

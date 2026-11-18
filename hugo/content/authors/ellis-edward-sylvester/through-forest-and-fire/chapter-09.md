@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Little Wanderer"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-09.html"
 ---
 
 Although Nellie Ribsam was only eight years old at the time she was lost in the big woods, yet the results of the training received from her sensible father and mother showed themselves in a marked degree on that memorable occasion.

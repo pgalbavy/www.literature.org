@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-01.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-01.html"
 ---
 
 Along this particular stretch of line no express had ever passed. All the trains—the few that there were—stopped at all the stations. Denis knew the names of those stations by heart. Bole, Tritton, Spavin Delawarr, Knipswich for Timpany, West Bowlby, and, finally, Camlet-on-the-Water. Camlet was where he always got out, leaving the train to creep indolently onward, goodness only knew whither, into the green heart of England.

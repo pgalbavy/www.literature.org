@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Death And Taxes"
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-09.html"
+url: "/authors/coolidge-dane/the-texican/chapter-09.html"
 ---
 
 The iron hand of the law after hovering long above the Verde at last descended suddenly and with crushing force upon the unsuspecting cowmen. For a year Boone Morgan had been dallying around, even as other sheriffs had done before him, and the first fears of the wary mountain men had speedily been lulled into a feeling of false security. Then the fall round-ups came on and in the general scramble of that predatory period Morgan managed to scatter a posse of newly appointed deputies, disguised as cowboys, throughout the upper range. They returned and reported the tally at every branding and the next week every cowman on the Verde received notice that his taxes on so many head of cattle, corral count, were due and more than due. They were due for several years back but Mr. Boone Morgan, as deputy assessor, deputy tax-collector, and so forth, would give them a receipt in full upon the payment of the fiscal demand. This would have sounded technical in the mouth of an ordinary tax-collector but coming from a large, iron-gray gentleman with a six-shooter that had been through the war, it went. Upton paid; Crittenden paid; they all paid—all except Pecos Dalhart.

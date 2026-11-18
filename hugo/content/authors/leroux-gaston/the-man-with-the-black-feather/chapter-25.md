@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - M. Mifroid Takes The Lead"
 weight: 26
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-25.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-25.html"
 ---
 
 "When M. Longuet had recovered from the emotion with which my explanation of the disappearance of the express had filled him, he embraced me and handed me a revolver which he had found in the pocket of Signor Petito. He did not wish to keep it on him. He was desirous that I should be able, at need, to defend myself against the eccentricities of which he feared, on grounds based, alas! on a too real experience, the dangerous return. For the same reason he entrusted to me a large knife which had also come from the pocket of Signor Petito.

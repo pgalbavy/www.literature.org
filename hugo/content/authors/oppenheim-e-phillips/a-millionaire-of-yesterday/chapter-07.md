@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-07.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-07.html"
 ---
 
 In a handsomely appointed room of one of the largest hotels in London a man was sitting at the head of a table strewn with blotting-paper and writing materials of every description. Half a dozen chairs had been carelessly pushed back, there were empty champagne bottles upon the sideboard, the air was faintly odorous of tobacco smoke - blue wreaths were still curling upwards towards the frescoed ceiling. Yet the gathering had not been altogether a festive one. There were sheets of paper still lying about covered with figures, a brass-bound ledger lay open at the further end of the table, In the background a young man, slim, pale, ill-dressed in sober black, was filling a large tin box with documents and letters.

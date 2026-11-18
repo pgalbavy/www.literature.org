@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The New Boss"
 weight: 1
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-01.html"
+url: "/authors/titus-harold/the-last-straw/chapter-01.html"
 ---
 
 The last patches of snow, even in the most secluded gulches, had been licked up by the mounting sun; the waters of Coyote Creek had returned to the confines of the stream bed; in places a suggestion of green was making its appearance about the bases of grass clumps, and cottonwood buds were swelling. Four men sat on the bench before the bunkhouse of the H.C. ranch; one was braiding a belt, another whittling and two more, hats over their eyes to shield them from the brilliant light, joined in the desultory conversation from time to time.

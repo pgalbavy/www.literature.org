@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Caught Fast--A Friend In Need"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-03.html"
 ---
 
 Melville Clarendon was so interested in the efforts of the three Sioux to capture his horse, that for a minute or two he forgot that Dot was below-stairs. Her cry, however, roused him to the situation and truth, and he flew down the steps.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-26.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-26.html"
 ---
 
 WELL, when they was all gone the king he asks Mary Jane how they was off for spare rooms, and she said she had one spare room, which would do for Uncle William, and she'd give her own room to Uncle Harvey, which was a little bigger, and she would turn into the room with her sisters and sleep on a cot; and up garret was a little cubby, with a pallet in it. The king said the cubby would do for his valley -- meaning me.

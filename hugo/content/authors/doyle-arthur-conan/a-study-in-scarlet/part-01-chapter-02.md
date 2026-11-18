@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - The Science Of Deduction"
 weight: 2
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-02.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-01-chapter-02.html"
 ---
 
 WE met next day as he had arranged, and inspected the rooms at No. 221B, {5} Baker Street, of which he had spoken at our meeting. They consisted of a couple of comfortable bed-rooms and a single large airy sitting-room, cheerfully furnished, and illuminated by two broad windows. So desirable in every way were the apartments, and so moderate did the terms seem when divided between us, that the bargain was concluded upon the spot, and we at once entered into possession. That very evening I moved my things round from the hotel, and on the following morning Sherlock Holmes followed me with several boxes and portmanteaus. For a day or two we were busily employed in unpacking and laying out our property to the best advantage. That done, we gradually began to settle down and to accommodate ourselves to our new surroundings.

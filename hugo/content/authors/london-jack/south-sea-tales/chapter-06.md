@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Terrible Solomons"
 weight: 6
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-06.html"
+url: "/authors/london-jack/south-sea-tales/chapter-06.html"
 ---
 
 There is no gainsaying that the Solomons are a hard-bitten bunch of islands. On the other hand, there are worse places in the world. But to the new chum who has no constitutional understanding of men and life in the rough, the Solomons may indeed prove terrible.

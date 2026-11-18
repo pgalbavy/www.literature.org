@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Boss"
 weight: 9
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-08.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-08.html"
 ---
 
 TO be vested with enormous authority is a fine thing; but to have the on-looking world consent to it is a finer. The tower episode solidified my power, and made it impregnable. If any were perchance disposed to be jealous and critical before that, they experienced a change of heart, now. There was not any one in the kingdom who would have considered it good judgment to meddle with my matters.

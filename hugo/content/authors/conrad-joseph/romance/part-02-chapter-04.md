@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/romance/part-02-chapter-04.html"
+url: "/authors/conrad-joseph/romance/part-02-chapter-04.html"
 ---
 
 The room was very lofty and coldly dim; there were great bars in front of the begrimed windows. It was very bare, containing only a long black table, some packing cases, and half a dozen rocking chairs. Of these, five were very new and one very old, black and heavy, with a green leather seat and a coat of arms worked on its back cushions. There were little heaps of mahogany sawdust here and there on the dirty tiled floor, and a pile of sacking in one corner. Beneath a window the flap of an open trap-door half hid a large green damp-stain; a deep recess in the wall yawned like a cavern, and had two or three tubs in the right corner; a man with a blond head, slightly bald as if he had been tonsured, was rocking gently in one of the new chairs.

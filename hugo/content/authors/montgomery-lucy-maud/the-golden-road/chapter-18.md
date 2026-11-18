@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Sara Ray Helps Out"
 weight: 19
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-18.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-18.html"
 ---
 
 We all missed Aunt Olivia greatly; she had been so merry and companionable, and had possessed such a knack of understanding small fry. But youth quickly adapts itself to changed conditions; in a few weeks it seemed as if the Story Girl had always been living at Uncle Alec's, and as if Uncle Roger had always had a fat, jolly housekeeper with a double chin and little, twinkling blue eyes. I don't think Aunt Janet ever quite got over missing Aunt Olivia, or looked upon Mrs. Hawkins as anything but a necessary evil; but life resumed its even tenor on the King farm, broken only by the ripples of excitement over the school concert and letters from Aunt Olivia describing her trip through the land of Evangeline. We incorporated the letters in Our Magazine under the heading "From Our Special Correspondent" and were very proud of them.

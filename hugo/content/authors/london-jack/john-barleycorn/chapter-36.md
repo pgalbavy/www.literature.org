@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-36.html"
+url: "/authors/london-jack/john-barleycorn/chapter-36.html"
 ---
 
 Back to personal experiences and the effects in the past of John Barleycorn's White Logic on me. On my lovely ranch in the Valley of the Moon, brain-soaked with many months of alcohol, I am oppressed by the cosmic sadness that has always been the heritage of man. In vain do I ask myself why I should be sad. My nights are warm. My roof does not leak. I have food galore for all the caprices of appetite. Every creature comfort is mine. In my body are no aches nor pains. The good old flesh-machine is running smoothly on. Neither brain nor muscle is overworked. I have land, money, power, recognition from the world, a consciousness that I do my meed of good in serving others, a mate whom I love, children that are of my own fond flesh. I have done, and am doing, what a good citizen of the world should do. I have built houses, many houses, and tilled many a hundred acres. And as for trees, have I not planted a hundred thousand? Everywhere, from any window of my house, I can gaze forth upon these trees of my planting, standing valiantly erect and aspiring toward the sun.

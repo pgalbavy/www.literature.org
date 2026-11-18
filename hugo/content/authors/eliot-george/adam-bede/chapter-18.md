@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Church"
 weight: 18
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-18.html"
+url: "/authors/eliot-george/adam-bede/chapter-18.html"
 ---
 
 "HETTY, Hetty, don't you know church begins at two, and it's gone half after one a'ready? Have you got nothing better to think on this good Sunday as poor old Thias Bede's to be put into the ground, and him drownded i' th' dead o' the night, as it's enough to make one's back run cold, but you must be 'dizening yourself as if there was a wedding i'stid of a funeral?"

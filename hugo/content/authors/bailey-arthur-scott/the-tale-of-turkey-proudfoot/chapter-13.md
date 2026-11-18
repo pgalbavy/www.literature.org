@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The New Pet"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-13.html"
 ---
 
 Turkey Proudfoot came hurrying back to the farmyard from the meadow where Mr. Crow had stopped and advised him to go home and see Johnnie Green's new pet.

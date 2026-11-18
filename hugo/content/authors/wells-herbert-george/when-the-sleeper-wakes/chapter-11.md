@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Old Man Who Knew Everything"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-11.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-11.html"
 ---
 
 He was startled by a cough close at hand.

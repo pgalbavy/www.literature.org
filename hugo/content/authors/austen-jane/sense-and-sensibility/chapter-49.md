@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 49
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-49.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-49.html"
 ---
 
 Unaccountable, however, as the circumstances of his release might appear to the whole family, it was certain that Edward was free; and to what purpose that freedom would be employed was easily pre-determined by all;--for after experiencing the blessings of ONE imprudent engagement, contracted without his mother's consent, as he had already done for more than four years, nothing less could be expected of him in the failure of THAT, than the immediate contraction of another.

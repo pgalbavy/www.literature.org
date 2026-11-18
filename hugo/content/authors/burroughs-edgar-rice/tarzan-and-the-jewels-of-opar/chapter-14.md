@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-14.html"
 ---
 
 At first La closed her eyes and clung to Tarzan in terror, though she made no outcry; but presently she gained sufficient courage to look about her, to look down at the ground beneath and even to keep her eyes open during the wide, perilous swings from tree to tree, and then there came over her a sense of safety because of her confidence in the perfect physical creature in whose strength and nerve and agility her fate lay. Once she raised her eyes to the burning sun and murmured a prayer of thanks to her pagan god that she had not been permitted to destroy this godlike man, and her long lashes were wet with tears. A strange anomaly was La of Opar--a creature of circumstance torn by conflicting emotions. Now the cruel and bloodthirsty creature of a heartless god and again a melting woman filled with compassion and tenderness. Sometimes the incarnation of jealousy and revenge and sometimes a sobbing maiden, generous and forgiving; at once a virgin and a wanton; but always--a woman. Such was La.

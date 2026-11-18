@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Little Harpeth Woman Of Many Sorrows"
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-09.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-09.html"
 ---
 
 "This here are a curious spell of weather," remarked Mother Mayberry, as she paused beside the singer lady who was holding Martin Luther up on the broad window-sill, and with him was looking disconsolately down the Road. "June's gone to acting like a woman with nerves that cries just because she can. I'm glad all the chicken babies are feathered out and can shed rain. Them little Hoosier pullets have already sprouted tail feathers. They ain't a one of 'em a-going into the skillet no matter how hungry Tom Mayberry looks after 'em. If I don't hold you and Cindy back from spoiling him with chicken-fixings three times a day he'll begin to show pin feathers hisself in no time."

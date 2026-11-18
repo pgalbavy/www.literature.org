@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/the-call-of-the-wild/chapter-05.html"
+url: "/authors/london-jack/the-call-of-the-wild/chapter-05.html"
 ---
 
 Thirty days from the time it left Dawson, the Salt Water Mail, with Buck and his mates at the fore, arrived at Skaguay. They were in a wretched state, worn out and worn down. Buck's one hundred and forty pounds had dwindled to one hundred and fifteen. The rest of his mates, though lighter dogs, had relatively lost more weight than he. Pike, the malingerer, who, in his lifetime of deceit, had often successfully feigned a hurt leg, was now limping in earnest. Sol-leks was limping, and Dub was suffering from a wrenched shoulder-blade.

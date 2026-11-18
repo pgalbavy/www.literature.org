@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Natural Selection"
 weight: 6
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-04.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-04.html"
 ---
 
 arrow_rightNatural Selection arrow_rightits power compared with man's selection arrow_rightits power on characters of trifling importance arrow_rightits power at all ages and on both sexes arrow_rightSexual Selection arrow_rightOn the generality of intercrosses between individuals of the same species arrow_rightCircumstances favourable and unfavourable to Natural Selection, namely, intercrossing, isolation, number of individuals arrow_rightSlow action arrow_rightExtinction caused by Natural Selection arrow_rightDivergence of Character, related to the diversity of inhabitants of any small area, and to naturalisation arrow_rightAction of Natural Selection, through Divergence of Character and Extinction, on the descendants from a common parent arrow_rightExplains the Grouping of all organic beings ---

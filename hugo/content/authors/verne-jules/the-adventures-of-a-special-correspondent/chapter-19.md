@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-19.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-19.html"
 ---
 
 When I awoke I seemed to have had an unpleasant dream. A dream in no way like those we interpret by the Clef d'Or. No! Nothing could be clearer. The bandit chief Ki Tsang had prepared a scheme for the seizure of the Chinese treasure; he had attacked the train in the plains of Gobi; the car is assaulted, pillaged, ransacked; the gold and precious stones, to the value of fifteen millions, are torn from the grasp of the Celestials, who yield after a courageous defence. As to the passengers, another two minutes of sleep would have settled their fate—and mine.

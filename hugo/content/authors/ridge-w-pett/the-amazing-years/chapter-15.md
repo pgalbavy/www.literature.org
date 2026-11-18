@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-15.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-15.html"
 ---
 
 One ought to have been made apprehensive and cautious by the fact that everything seemed to be going so well. In congratulating myself on the smoothness with which the machinery was running, I should have adopted one of the precautionary measures of a superstitious nature, handed down to me and impressed on me by my mother. But it was satisfactory to observe the chastened deportment and comfortable peace in the Hillier household--the loss endured seemed to have brought all the members closer in affection--it was cheering to find that John's tour could be reckoned a success; it was so pleasant to discover in the notes from Herbert Millwood a new tone of cheeriness, that there seemed no grounds for anticipating disaster. Herbert was unable for the present to obtain leave; he wrote that he intended to come up to town and see Muriel at the earliest possible moment; I gave her the message in a way that deprived it of any special meaning, and she said, casually,

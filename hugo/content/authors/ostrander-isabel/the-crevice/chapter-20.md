@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Crevice"
 weight: 20
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-20.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-20.html"
 ---
 
 "But I don't understand"--Guy Morrow's voice was plaintive, and he eyed his chief reproachfully, as he stood before Blaine's desk, twisting his hat nervously--"why you didn't nail him! You've got the goods on him, all right; and now, just because you only had him arrested on a charge of assault with intent to kill, he's gone and used his influence, and got himself released under heavy bail. Oh, why won't you go heeled or guarded? We can't afford to lose you, sir, any of us, and now he'll do for you, as sure as shooting!"

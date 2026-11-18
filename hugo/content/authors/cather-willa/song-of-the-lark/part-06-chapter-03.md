@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 3"
 weight: 53
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-03.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-03.html"
 ---
 
 FOR the first four years after Thea went to Germany things went on as usual with the Kronborg family. Mrs. Kronborg's land in Nebraska increased in value and brought her in a good rental. The family drifted into an easier way of living, half without realizing it, as families will. Then Mr. Kronborg, who had never been ill, died suddenly of cancer of the liver, and after his death Mrs. Kronborg went, as her neighbors said, into a decline. Hearing discouraging reports of her from the physician who had taken over his practice, Dr. Archie went up from Denver to see her. He found her in bed, in the room where he had more than once attended her, a handsome woman of sixty with a body still firm and white, her hair, faded now to a very pale primrose, in two thick braids down her back, her eyes clear and calm. When the doctor arrived, she was sitting up in her bed, knitting. He felt at once how glad she was to see him, but he soon gathered that she had made no determination to get well. She told him, indeed, that she could not very well get along without Mr. Kronborg. The doctor looked at her with astonishment. Was it possible that she could miss the foolish old man so much? He reminded her of her children.

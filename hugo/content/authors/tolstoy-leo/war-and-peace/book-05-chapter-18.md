@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 18"
 weight: 102
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-18.html"
 ---
 
 Going along the corridor, the assistant led Rostov to the officers' wards, consisting of three rooms, the doors of which stood open. There were beds in these rooms and the sick and wounded officers were lying or sitting on them. Some were walking about the rooms in hospital dressing gowns. The first person Rostov met in the officers' ward was a thin little man with one arm, who was walking about the first room in a nightcap and hospital dressing gown, with a pipe between his teeth. Rostov looked at him, trying to remember where he had seen him before.

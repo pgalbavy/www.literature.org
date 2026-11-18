@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-32.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-32.html"
 ---
 
 The professor sat in his favorite chair by his library fire, an open volume on his knee, and his after-dinner glass of wine, still unfinished, on the table near him. He had dined a couple of hours ago with Mr. Arbuthnot, who had entertained him very agreeably and had not long since left him to present himself upon some social scene.

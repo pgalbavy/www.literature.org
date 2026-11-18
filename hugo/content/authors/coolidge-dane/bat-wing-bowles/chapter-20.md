@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Death Of Happy Jack"
 weight: 20
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-20.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-20.html"
 ---
 
 When Bowles rode back to the Bat Wing Ranch he was a hard-looking citizen. His aunt, the hypothetical Mrs. Earl-Bowles, would scarcely have recognized him; Mrs. Lee started visibly at sight of his battered face; and Dixie smiled knowingly as she glanced at his half-closed eye.

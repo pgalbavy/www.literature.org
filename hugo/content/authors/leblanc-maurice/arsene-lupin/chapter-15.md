@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Examination Of Sonia"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-15.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-15.html"
 ---
 
 M. Formery gasped: "The real track?" he muttered.

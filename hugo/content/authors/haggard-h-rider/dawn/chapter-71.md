@@ -1,8 +1,7 @@
 ---
 title: "Chapter 71"
 weight: 72
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-71.html"
+url: "/authors/haggard-h-rider/dawn/chapter-71.html"
 ---
 
 Just as Angela was engaged in finishing her long letter to Arthur-- surely one of the strangest ever written by a girl to the man she loved--Mr. Fraser was reading an epistle which had reached him by that afternoon's post. We will look over his shoulder, and see what was in it.

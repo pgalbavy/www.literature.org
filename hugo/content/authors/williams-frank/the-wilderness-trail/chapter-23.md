@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Brothers"
 weight: 23
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-23.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-23.html"
 ---
 
 One by one, exhausted, but joyful, the trappers of the Free-Traders' Brotherhood straggled into their long-sought camp. Nearly all had small packs on their backs, as though the provisions secured had been distributed around evenly. In the lead, as usual, was Charley Seguis. At the end of the procession came two or three wounded trappers, supported by their comrades.

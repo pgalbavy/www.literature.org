@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Man Who Emerged From The Darkness"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-09.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-09.html"
 ---
 
 "When the time comes," they had said, "some one will emerge from the darkness. When the time comes, some one will remove the mask from his face."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - How The Bailiff Of Southampton Slew The Two Masterless Men"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-04.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-04.html"
 ---
 
 THE road along which he travelled was scarce as populous as most other roads in the kingdom, and far less so than those which lie between the larger towns. Yet from time to time Alleyne met other wayfarers, and more than once was overtaken by strings of pack mules and horsemen journeying in the same direction as himself. Once a begging friar came limping along in a brown habit, imploring in a most dolorous voice to give him a single groat to buy bread wherewith to save himself from impending death. Alleyne passed him swiftly by, for he had learned from the monks to have no love for the wandering friars, and, besides, there was a great half-gnawed mutton bone sticking out of his pouch to prove him a liar. Swiftly as he went, however, he could not escape the curse of the four blessed evangelists which the mendicant howled behind him. So dreadful are his execrations that the frightened lad thrust his fingers into his ear-holes, and ran until the fellow was but a brown smirch upon the yellow road.

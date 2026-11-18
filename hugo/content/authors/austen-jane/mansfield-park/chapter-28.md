@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-28.html"
+url: "/authors/austen-jane/mansfield-park/chapter-28.html"
 ---
 
 Her uncle and both her aunts were in the drawing-room when Fanny went down. To the former she was an interesting object, and he saw with pleasure the general elegance of her appearance, and her being in remarkably good looks. The neatness and propriety of her dress was all that he would allow himself to commend in her presence, but upon her leaving the room again soon afterwards, he spoke of her beauty with very decided praise.

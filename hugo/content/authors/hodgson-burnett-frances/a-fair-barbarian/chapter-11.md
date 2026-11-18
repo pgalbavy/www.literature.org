@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Slight Indiscretion"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-11.html"
 ---
 
 During the remainder of the evening, Miss Belinda was a prey to wretchedness and despair. When she raised her eyes to her hostess, she met with a glance full of icy significance; when she looked across the tea-table, she saw Octavia seated next to Mr. Francis Barold, monopolizing his attention, and apparently in the very best possible spirits. It only made matters worse, that Mr. Francis Barold seemed to find her remarks worthy of his attention. He drank very little tea, and now and then appeared much interested and amused. In fact, he found Miss Octavia even more entertaining than he had found her during their journey. She did not hesitate at all to tell him that she was delighted to see him again at this particular juncture.

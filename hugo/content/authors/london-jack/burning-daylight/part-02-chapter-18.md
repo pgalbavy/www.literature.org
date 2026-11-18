@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 18"
 weight: 31
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-18.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-18.html"
 ---
 
 Once again, on a rainy Sunday, weeks afterward, Daylight proposed to Dede. As on the first time, he restrained himself until his hunger for her overwhelmed him and swept him away in his red automobile to Berkeley. He left the machine several blocks away and proceeded to the house on foot. But Dede was out, the landlady's daughter told him, and added, on second thought, that she was out walking in the hills. Furthermore, the young lady directed him where Dede's walk was most likely to extend.

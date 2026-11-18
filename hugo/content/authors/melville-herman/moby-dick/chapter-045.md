@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - The Affidavit"
 weight: 45
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-045.html"
+url: "/authors/melville-herman/moby-dick/chapter-045.html"
 ---
 
 So far as what there may be of a narrative in this book; and, indeed, as indirectly touching one or two very interesting and curious particulars in the habits of sperm whales, the foregoing chapter, in its earlier part, is as important a one as will be found in this volume; but the leading matter of it requires to be still further and more familiarly enlarged upon, in order to be adequately understood, and moreover to take away any incredulity which a profound ignorance of the entire subject may induce in some minds, as to the natural verity of the main points of this affair.

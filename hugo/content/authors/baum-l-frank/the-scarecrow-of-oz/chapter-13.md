@@ -1,8 +1,7 @@
 ---
 title: "chapter 13"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-13.html"
 ---
 
 That country south of the Emerald City, in the Land of Oz, is known as the Quadling Country, and in the very southernmost part of it stands a splendid palace in which lives Glinda the Good.

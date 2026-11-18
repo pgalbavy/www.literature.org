@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The End Of The Match"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-22.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-22.html"
 ---
 
 They began the afternoon with several small drives, but on the whole the birds did very badly. They broke back, went off to one side or the other, and generally misbehaved themselves. In the first drive the Colonel and Edward Cossey got a bird each. In the second drive the latter got three birds, firing five shots, and his antagonist only got a hare and a pheasant that jumped out of a ditch, neither of which, of course, counted anything. Only one brace of birds came his way at all, but if the truth must be told, he was talking to Ida at the moment and did not see them till too late.

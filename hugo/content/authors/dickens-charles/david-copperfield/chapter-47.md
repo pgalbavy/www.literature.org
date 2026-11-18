@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - Martha"
 weight: 48
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-47.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-47.html"
 ---
 
 We were now down in Westminster. We had turned back to follow her, having encountered her coming towards us; and Westminster Abbey was the point at which she passed from the lights and noise of the leading streets. She proceeded so quickly, when she got free of the two currents of passengers setting towards and from the bridge, that, between this and the advance she had of us when she struck off, we were in the narrow water-side street by Millbank before we came up with her. At that moment she crossed the road, as if to avoid the footsteps that she heard so close behind; and, without looking back, passed on even more rapidly.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-09.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-09.html"
 ---
 
 Fan-shaped, blond, mounted on gauze and guaranteed undetectable, it arrived from the wig-maker, preciously packed in a stout cardboard box six times too large for it and accompanied by a quarter of a pint of the choicest spirit gum. In the privacy of his bedroom Gumbril uncoffined it, held it out for his own admiration, caressed its silkiness and finally tried it on, holding it provisionally to his chin, in front of the looking-glass. The effect, he decided immediately, was stunning, was grandiose. From melancholy and all too mild he saw himself transformed on the instant into a sort of jovial Henry the Eighth, into a massive Rabelaisian man, broad and powerful and exuberant with vitality and hair.

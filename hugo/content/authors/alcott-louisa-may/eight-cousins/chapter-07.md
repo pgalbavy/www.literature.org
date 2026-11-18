@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Trip To China"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-07.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-07.html"
 ---
 
 "Come, little girl, I've got another dose for you. I fancy you won't take it as well as you did the last, but you will like it better after a while," said Dr. Alec, about a week after the grand surprise.

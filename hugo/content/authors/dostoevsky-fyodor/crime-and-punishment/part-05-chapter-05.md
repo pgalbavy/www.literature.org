@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5"
 weight: 32
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-05-chapter-05.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-05-chapter-05.html"
 ---
 
 "I've come to you, Sofya Semyonovna," he began. "Excuse me . . . I thought I should find you," he said, addressing Raskolnikov suddenly, "that is, I didn't mean anything . . . of that sort . . . But I just thought . . . Katerina Ivanovna has gone out of her mind," he blurted out suddenly, turning from Raskolnikov to Sonia.

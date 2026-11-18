@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Tragedy At The Palace Hotel"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-01.html"
+url: "/authors/leblanc-maurice/813/chapter-01.html"
 ---
 
 Mr. Kesselbach stopped short on the threshold of the sitting-room, took his secretary's arm and, in an anxious voice, whispered:

@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3 - A Voice From The Past"
 weight: 32
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-04-chapter-03.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-04-chapter-03.html"
 ---
 
 One afternoon, when the chestnuts were coming into flower, Maggie had brought her chair outside the front door, and was seated there with a book on her knees. Her dark eyes had wandered from the book, but they did not seem to be enjoying the sunshine which pierced the screen of jasmine on the projecting porch at her right, and threw leafy shadows on her pale round cheek; they seemed rather to be searching for something that was not disclosed by the sunshine. It had been a more miserable day than usual; her father, after a visit of Wakem's had had a paroxysm of rage, in which for some trifling fault he had beaten the boy who served in the mill. Once before, since his illness, he had had a similar paroxysm, in which he had beaten his horse, and the scene had left a lasting terror in Maggie's mind. The thought had risen, that some time or other he might beat her mother if she happened to speak in her feeble way at the wrong moment. The keenest of all dread with her was lest her father should add to his present misfortune the wretchedness of doing something irretrievably disgraceful. The battered school-book of Tom's which she held on her knees could give her no fortitude under the pressure of that dread; and again and again her eyes had filled with tears, as they wandered vaguely, seeing neither the chestnut-trees, nor the distant horizon, but only future scenes of home-sorrow.

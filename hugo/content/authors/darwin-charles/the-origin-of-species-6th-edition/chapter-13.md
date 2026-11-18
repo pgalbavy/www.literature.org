@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Geographical Distribution--Continued"
 weight: 15
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-13.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-13.html"
 ---
 
 Distribution of fresh-water productions -- On the inhabitants of oceanic islands -- Absence of Batrachians and of terrestrial Mammals -- On the relation of the inhabitants of islands to those of the nearest mainland -- On colonisation from the nearest source with subsequent modification -- Summary of the last and present chapters.

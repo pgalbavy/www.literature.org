@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Concerning A Civil Principality"
 weight: 10
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-09.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-09.html"
 ---
 
 But coming to the other point—where a leading citizen becomes the prince of his country, not by wickedness or any intolerable violence, but by the favour of his fellow citizens—this may be called a civil principality: nor is genius or fortune altogether necessary to attain to it, but rather a happy shrewdness. I say then that such a principality is obtained either by the favour of the people or by the favour of the nobles. Because in all cities these two distinct parties are found, and from this it arises that the people do not wish to be ruled nor oppressed by the nobles, and the nobles wish to rule and oppress the people; and from these two opposite desires there arises in cities one of three results, either a principality, self-government, or anarchy.

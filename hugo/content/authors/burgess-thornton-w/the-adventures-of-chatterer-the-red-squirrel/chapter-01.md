@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Chatterer The Red Squirrel Runs For His Life"
 weight: 1
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-01.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-01.html"
 ---
 
 Chatterer the Red Squirrel had been scolding because there was no excitement. He had even tried to make some excitement by waking Bobby Coon and making him so angry that Bobby had threatened to eat him alive. It had been great fun to dance around and call Bobby names and make fun of him. Oh, yes, it had been great fun. You see, he knew all the time that Bobby couldn't catch him if he should try. But now things were different. Chatterer had all the excitement that he wanted. Indeed, he had more than he wanted. The truth is, Chatterer was running for his life, and he knew it.

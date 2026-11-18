@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Voice In A Dream"
 weight: 14
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-14.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-14.html"
 ---
 
 Entirely free from ice? No. It would have been premature to affirm this as a fact. A few icebergs were visible in the distance, while some drifts and packs were still going east. Nevertheless, the break-up had been very thorough on that side, and the sea was in reality open, since a ship could sail freely.   "God has come to our aid," said Captain Len Guy. May He be pleased to guide us to the end."   "In a week," I remarked, "our schooner might come in sight of Tsalal Island."   "Provided that the east wind lasts, Mr. Jeorling. Don't forget that in sailing along the icebergs to their eastern extremity, the Halbrane went out of her course, and she must be brought back towards the west."

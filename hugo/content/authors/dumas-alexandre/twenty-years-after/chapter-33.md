@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Grimaud Speaks"
 weight: 33
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-33.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-33.html"
 ---
 
 Grimaud was left alone with the executioner, who in a few moments opened his eyes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-25.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-25.html"
 ---
 
 AS they went together down the steep path, there was no flaw in the woman's composure and no fault in the lightness of her manner, but when they reached the float, with the dark water fall of mirrored stars she turned abruptly so that she stood face to face with the man. In the light of the crescent moon he saw that her eyes were wide and full of a deep seriousness. For a moment she did not speak and recognizing the light of fixed resolve and the attitude of steeling herself for some ordeal, he also refrained from words until she should choose her moment.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Machine Breakers"
 weight: 9
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-08.html"
+url: "/authors/london-jack/the-iron-heel/chapter-08.html"
 ---
 
 It was just before Ernest ran for Congress, on the socialist ticket, that father gave what he privately called his "Profit and Loss" dinner. Ernest called it the dinner of the Machine Breakers. In point of fact, it was merely a dinner for business men--small business men, of course. I doubt if one of them was interested in any business the total capitalization of which exceeded a couple of hundred thousand dollars. They were truly representative middle- class business men.

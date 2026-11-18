@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-03.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-03.html"
 ---
 
 *THE* Oliphants’ high white iron fence was a hundred and fifty feet long on National Avenue, a proud frontage, but the next yard to the north had one even prouder: it was of a hundred and eighty feet, and the big house that stood in this yard was almost that far back from the street. Built of brick and painted white, it reached a palatial climax in a facing of smooth white stone under a mansard roof, and the polished black walnut front doors opened upon a stone veranda. From the veranda a broad stone path led through the lawn and passed a stone fountain on its way to the elaborate cast-iron front gate, which was a congenial neighbour to the Oliphants’ cast-iron gate to the south. The stone fountain culminated in a bronze swan, usually well supplied with ejectory water in the summertime but somewhat bleak of aspect in winter, when the swan’s open beak, perpetually vacant, suggested to an observer the painful strain of unending effort absolutely wasted. It was a relief, after a snowstorm, to see the too-conscientious cavity partially choked.

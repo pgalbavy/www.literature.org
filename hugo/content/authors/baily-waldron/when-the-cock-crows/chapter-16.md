@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Coming-Out Party"
 weight: 16
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-16.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-16.html"
 ---
 
 As Captain Ichabod left the physician's house after having made his confession, Doctor Hudson stood watching him while he walked briskly away.

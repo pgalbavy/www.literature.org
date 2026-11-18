@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-21.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-21.html"
 ---
 
 LILY HERBERT had accepted her fate—one must, no matter how rebellious the heart may be. The days were long and black and endless; the nights were worse, and full of spectres. The path of life behind her shone with the brilliancy of past happiness, which is often imaginary; before her the path was dark, with the gloom of hopelessness and despair.

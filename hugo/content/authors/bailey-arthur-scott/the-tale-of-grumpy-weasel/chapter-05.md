@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Solomon Owl Interrupts"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-05.html"
 ---
 
 Plump little Mr. Meadow Mouse wished he had stayed away from Grumpy Weasel's hunting ground. He would have scampered off, had he not known that Grumpy could overtake him before he had made three leaps. So he saw no way out of his trouble, though he could think of nothing less agreeable than trying to slip through a small hole with Grumpy Weasel close at hand, watching him narrowly.

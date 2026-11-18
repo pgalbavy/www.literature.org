@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-33.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-33.html"
 ---
 
 There was a shrill whistle from the captain's bridge, and the steamer, which had scarcely yet gathered way, swung slowly around. Rushing up towards it through the mists came a little naval launch, in the stern of which a single man was seated. In an incredibly short space of time it was alongside, the passenger had climbed up the rope ladder, the pinnace had sheered off and the steamer was once more heading towards the Channel.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-06.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-06.html"
 ---
 
 When the Wizard awoke the six colored suns were shining down upon the Land of the Mangaboos just as they had done ever since his arrival. The little man, having had a good sleep, felt rested and refreshed, and looking through the glass partition of the room he saw Zeb sitting up on his bench and yawning. So the Wizard went in to him.

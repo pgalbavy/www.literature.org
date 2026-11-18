@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-09.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-09.html"
 ---
 
 After the vacation Claude again settled down to his reading in the University Library. He worked at a table next the alcove where the books on painting and sculpture were kept. The art students, all of whom were girls, read and whispered together in this enclosure, and he could enjoy their company without having to talk to them. They were lively and friendly; they often asked him to lift heavy books and portfolios from the shelves, and greeted him gaily when he met them in the street or on the campus, and talked to him with the easy cordiality usual between boys and girls in a co-educational school. One of these girls, Miss Peachy Millmore, was different from the others,--different from any girl Claude had ever known. She came from Georgia, and was spending the winter with her aunt on B street.

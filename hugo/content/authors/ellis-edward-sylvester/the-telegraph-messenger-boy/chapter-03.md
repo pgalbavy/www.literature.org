@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Office Boy"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-03.html"
 ---
 
 When I approached the office the next morning, little Ben Mayberry was standing outside, smiling and expectant.

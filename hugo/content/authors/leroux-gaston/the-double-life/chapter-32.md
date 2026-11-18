@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Dissertation On Fish"
 weight: 33
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-32.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-32.html"
 ---
 
 M. *LONGUET* had from the first been complaining of his great hunger. He was getting very weak, and the end of the thirty-sixth hour saw him cursing their misfortune. However, what would have been the good of a little food? They were buried alive, and food would have been like a buoy to a shipwrecked sailor, alone in the middle of the ocean. It could only serve to prolong the agony.

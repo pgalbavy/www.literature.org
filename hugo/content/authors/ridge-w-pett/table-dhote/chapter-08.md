@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Jules Zwinger"
 weight: 8
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-08.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-08.html"
 ---
 
 THE probability is that, if you arrive by train and see first the Restaurant of the Station, you will stay at Zwinger’s; if you come into the town by road, crossing the bridge that spans the harbour, and see first the Restaurant of Zwinger, you will put up at the Restaurant of the Station.

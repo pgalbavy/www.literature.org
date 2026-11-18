@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Armistice"
 weight: 6
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-06.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-06.html"
 ---
 
 The young girl beside him had finished her guava, and now, idly swinging her tennis-bat, stood watching the games in the sunken courts below.

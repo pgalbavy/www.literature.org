@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Terrible Fright"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-08.html"
 ---
 
 It was the very next night after old dog Spot had treed Fatty Coon in the big oak near the cornfield. They had finished their evening meal at Farmer Green's house. The cows were milked, the horses had been fed, the chickens had all gone to roost. And Farmer Green looked up at the moon, rising from behind Blue Mountain.

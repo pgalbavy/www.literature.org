@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - May Baskets"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-18.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-18.html"
 ---
 
 Spring was late that year, but to Jill it seemed the loveliest she had ever known, for hope was growing green and strong in her own little heart, and all the world looked beautiful. With the help of the brace she could sit up for a short time every day, and when the air was mild enough she was warmly wrapped and allowed to look out at the open window into the garden, where the gold and purple crocuses were coming bravely up, and the snowdrops nodded their delicate heads as if calling to her, -

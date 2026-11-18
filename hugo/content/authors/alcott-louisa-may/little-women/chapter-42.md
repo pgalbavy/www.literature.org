@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - All Alone"
 weight: 42
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-42.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-42.html"
 ---
 
 It was easy to promise self-abnegation when self was wrapped up in another, and heart and soul were purified by a sweet example. But when the helpful voice was silent, the daily lesson over, the beloved presence gone, and nothing remained but loneliness and grief, then Jo found her promise very hard to keep. How could she 'comfort Father and Mother' when her own heart ached with a ceaseless longing for her sister, how could she 'make the house cheerful' when all its light and warmth and beauty seemed to have deserted it when Beth left the old home for the new, and where in all the world could she 'find some useful, happy work to do', that would take the place of the loving service which had been its own reward? She tried in a blind, hopeless way to do her duty, secretly rebelling against it all the while, for it seemed unjust that her few joys should be lessened, her burdens made heavier, and life get harder and harder as she toiled along. Some people seemed to get all sunshine, and some all shadow. It was not fair, for she tried more than Amy to be good, but never got any reward, only disappointment, trouble and hard work.

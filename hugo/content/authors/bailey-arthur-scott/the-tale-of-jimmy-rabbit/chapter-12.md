@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Strange Man"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-12.html"
 ---
 
 A strange man had come to stay at Farmer Green's house. It was Jasper Jay who brought the news into the woods.

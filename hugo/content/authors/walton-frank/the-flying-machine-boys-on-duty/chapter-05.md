@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Change Of Scene"
 weight: 5
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-05.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-05.html"
 ---
 
 “What we ought to do now,” Doctor Bolt declared, as the night matron, indignant chin in air, turned toward the door of the private room, “is to notify the officers of Westchester county.”

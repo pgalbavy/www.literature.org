@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Great Joke"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-22.html"
 ---
 
 Farmer Green played a great joke on his flock of sheep. At least that was what Snowball thought. Since he was not really one of Farmer Green's flock, but belonged to Johnnie Green, he escaped this joke himself. And that was the reason why he was able to laugh so heartily at all his companions.

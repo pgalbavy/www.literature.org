@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Trail Into The Mountains"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-19.html"
 ---
 
 On the outside of the cavern the boys halted. After the shock both were comparatively calm. Their faces were pale, and they compressed their lips with resolution. Some time during the preceding few hours thieves had entered their home and carried away one hundred thousand dollars in gold dust and nuggets, and the youths were determined to regain the property, no matter what danger had to be confronted.

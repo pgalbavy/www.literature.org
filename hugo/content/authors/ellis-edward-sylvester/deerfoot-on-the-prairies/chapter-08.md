@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Good Seed"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-08.html"
 ---
 
 *THE* young Shawanoe smiled, shook his head and looked into the keen eyes before him.

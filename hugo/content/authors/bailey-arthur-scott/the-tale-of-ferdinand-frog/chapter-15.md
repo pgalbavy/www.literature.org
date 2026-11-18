@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Everyone Is Happy"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-15.html"
 ---
 
 Mr. Frog led the angry Beaver around to the front of his shop, while the others followed, and pointed to his sign.

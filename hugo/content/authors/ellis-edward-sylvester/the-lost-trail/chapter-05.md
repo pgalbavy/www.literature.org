@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Around The Camp-Fire"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-05.html"
 ---
 
 On a tempestuous night in midwinter the little settlement of Coatesville, in Kentucky, was assailed by a fierce band of Shawanoes and Hurons. The pioneers were surprised, for the hour was near daybreak, and, accustomed as they were to the forays of the border, they were without the slightest warning of the danger which burst upon them. They rallied, however, and made an heroic defense, but when with the dawning of day the warriors withdrew, they left more than half the hearthstones darkened with sorrow and woe, because of one or more of its defenders who had fallen in the strife.

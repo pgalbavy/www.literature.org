@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Tragedy of the Manor-House"
 weight: 31
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-30.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-30.html"
 ---
 
 AT midnight all was over, and we sat in the presence of four corpses. We covered them with such rags as we could find, and started away, fastening the door behind us. Their home must be these people's grave, for they could not have Christian burial, or be admitted to consecrated ground. They were as dogs, wild beasts, lepers, and no soul that valued its hope of eternal life would throw it away by meddling in any sort with these rebuked and smitten outcasts.

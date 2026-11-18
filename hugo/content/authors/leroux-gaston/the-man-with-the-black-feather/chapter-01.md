@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - M. Theophrastus Longuet Desires To Improve His Mind And Visits Historical Monuments"
 weight: 2
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-01.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-01.html"
 ---
 
 M. Theophrastus Longuet was not alone when he rang the bell of that old-time palace prison, the Conciergerie: he was accompanied by his wife Marceline, a very pretty woman, uncommonly fair for a Frenchwoman, of an admirable figure, and by M. Adolphe Lecamus, his best friend.

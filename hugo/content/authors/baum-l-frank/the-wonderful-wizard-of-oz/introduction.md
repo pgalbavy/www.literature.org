@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/introduction.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/introduction.html"
 ---
 
 Folklore, legends, myths and fairy tales have followed childhood through the ages, for every healthy youngster has a wholesome and instinctive love for stories fantastic, marvelous and manifestly unreal. The winged fairies of Grimm and Andersen have brought more happiness to childish hearts than all other human creations.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-03.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-03.html"
 ---
 
 OF THE COMING OF HARMACHIS TO THE PALACE; OF HOW HE DREW PAULUS THROUGH THE GATES; OF CLEOPATRA SLEEPING; AND OF THE MAGIC OF HARMACHIS WHICH HE SHOWED HER

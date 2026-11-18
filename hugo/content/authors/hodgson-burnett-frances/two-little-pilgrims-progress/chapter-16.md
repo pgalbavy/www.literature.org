@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-16.html"
 ---
 
 It was such a strange thing—so unlike the things of every day, and so totally an unexpected thing, that for a little while they all three had a sense of scarcely knowing what to do with themselves. If Robin and Meg had not somehow rather liked the man, and vaguely felt him friendly, and if there had not been in their impressionable minds that fancy about his being far from as happy as the other people of the crowds looked, it is more than probable that they would not have liked their position, and would have felt that it might spoil their pleasure.

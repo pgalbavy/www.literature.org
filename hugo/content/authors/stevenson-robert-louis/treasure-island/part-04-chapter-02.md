@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2 - Narrative Continued By The Doctor: The Jolly-Boat's Last Trip"
 weight: 18
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-02.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-02.html"
 ---
 
 THIS fifth trip was quite different from any of the others. In the first place, the little gallipot of a boat that we were in was gravely overloaded. Five grown men, and three of them--Trelawney, Redruth, and the captain--over six feet high, was already more than she was meant to carry. Add to that the powder, pork, and bread-bags. The gunwale was lipping astern. Several times we shipped a little water, and my breeches and the tails of my coat were all soaking wet before we had gone a hundred yards.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Among The Breakers"
 weight: 2
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-02.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-02.html"
 ---
 
 Ordinarily, Captain Ichabod Jones enjoyed being crooned to sleep by the weird sounds of the winds as they beat about the corners of his cottage. Now, his mind was filled with a memory of last frantic cries uttered by men, women and children as their clinging hold was loosed from the derelict, the sturdy frame of which he had heard strike on the rocks, as she went to her grave in the sea. Now, he heard the clamors of despair, voiced in the shrieking of the gale. He tossed uneasily upon his bed, offering ever and anon a prayer to the God that rules mad waters to have mercy upon those even then fighting a last grim battle with death.

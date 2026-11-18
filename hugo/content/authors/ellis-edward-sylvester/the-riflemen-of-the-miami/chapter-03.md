@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Riflemen Of The Miami"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-03.html"
 ---
 
 There they sat and chatted gayly, while the flickering of the blaze  

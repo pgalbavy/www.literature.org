@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 16 - The Exodus From London"
 weight: 16
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-16.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-16.html"
 ---
 
 So you understand the roaring wave of fear that swept through the greatest city in the world just as Monday was dawning--the stream of flight rising swiftly to a torrent, lash- ing in a foaming tumult round the railway stations, banked up into a horrible struggle about the shipping in the Thames, and hurrying by every available channel northward and east- ward. By ten o'clock the police organisation, and by midday even the railway organisations, were losing coherency, losing shape and efficiency, guttering, softening, running at last in that swift liquefaction of the social body.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Hunter Hunted"
 weight: 28
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-28.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-28.html"
 ---
 
 Mr. Heelas, Mr. Kemp's nearest neighbour among the villa holders, was asleep in his summer house when the siege of Kemp's house began. Mr. Heelas was one of the sturdy minority who refused to believe "in all this nonsense" about an Invisible Man. His wife, however, as he was to be reminded subsequently, did. He insisted upon walking about his garden just as if nothing was the matter, and he went to sleep in the afternoon in accordance with the custom of years. He slept through the smashing of the windows, and then woke up suddenly with a curious persuasion of something wrong. He looked across at Kemp's house, rubbed his eyes and looked again. Then he put his feet to the ground, and sat listening. He said he was damned, and still the strange thing was visible. The house looked as though it had been deserted for weeks--after a violent riot. Every window was broken, and every window, save those of the belvedere study, was blinded by the internal shutters.

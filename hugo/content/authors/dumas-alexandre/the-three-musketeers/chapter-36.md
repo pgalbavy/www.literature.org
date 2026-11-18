@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - Dream Of Vengeance"
 weight: 37
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-36.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-36.html"
 ---
 
 That evening Milady gave orders that when M. D'Artagnan came as usual, he should be immediately admitted; but he did not come.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Apollo's Lyre"
 weight: 13
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-12.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-12.html"
 ---
 
 On this way, they reached the roof. Christine tripped over it as lightly as a swallow. Their eyes swept the empty space between the three domes and the triangular pediment. She breathed freely over Paris, the whole valley of which was seen at work below. She called Raoul to come quite close to her and they walked side by side along the zinc streets, in the leaden avenues; they looked at their twin shapes in the huge tanks, full of stagnant water, where, in the hot weather, the little boys of the ballet, a score or so, learn to swim and dive.

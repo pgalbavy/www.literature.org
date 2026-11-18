@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58"
 weight: 58
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-58.html"
+url: "/authors/dickens-charles/great-expectations/chapter-58.html"
 ---
 
 THE tidings of my high fortunes having had a heavy fall, had got down to my native place and its neighbourhood, before I got there. I found the Blue Boar in possession of the intelligence, and I found that it made a great change in the Boar's demeanour. Whereas the Boar had cultivated my good opinion with warm assiduity when I was coming into property, the Boar was exceedingly cool on the subject now that I was going out of property.

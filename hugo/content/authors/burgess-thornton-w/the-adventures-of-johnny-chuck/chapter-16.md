@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Sammy Jay Plans Mischief"
 weight: 16
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-16.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-16.html"
 ---
 
 Mischief may not mean to be really truly bad,  

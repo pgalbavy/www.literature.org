@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Lawyer Quest"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-06.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-06.html"
 ---
 
 The day following that of the conversation just described was one of those glorious autumn mornings which sometimes come as a faint compensation for the utter vileness and bitter disappointment of the season that in this country we dignify by the name of summer. Notwithstanding his vigils and melancholy of the night before, the Squire was up early, and Ida, who between one thing and another had not had the best of nights, heard his loud cheery voice shouting about the place for "George."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Extra-Dry?"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-10.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-10.html"
 ---
 
 On one of the hills that girdle Nice with the finest scenery in the world, between the Vallon de Saint-Silvestre and the Vallon de La Mantega, stands a huge hotel which overlooks the town and the wonderful Baie des Anges. A crowd flocks to it from all parts, forming a medley of every class and nation.

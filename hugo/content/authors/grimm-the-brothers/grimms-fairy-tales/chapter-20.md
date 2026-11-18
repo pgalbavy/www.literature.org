@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Tom Thumb"
 weight: 20
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-20.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-20.html"
 ---
 
 A poor woodman sat in his cottage one night, smoking his pipe by the fireside, while his wife sat by his side spinning. ‘How lonely it is, wife,’ said he, as he puffed out a long curl of smoke, ‘for you and me to sit here by ourselves, without any children to play about and amuse us while other people seem so happy and merry with their children!’ ‘What you say is very true,’ said the wife, sighing, and turning round her wheel; ‘how happy should I be if I had but one child! If it were ever so small--nay, if it were no bigger than my thumb--I should be very happy, and love it dearly.’ Now--odd as you may think it--it came to pass that this good woman’s wish was fulfilled, just in the very way she had wished it; for, not long afterwards, she had a little boy, who was quite healthy and strong, but was not much bigger than my thumb. So they said, ‘Well, we cannot say we have not got what we wished for, and, little as he is, we will love him dearly.’ And they called him Thomas Thumb.

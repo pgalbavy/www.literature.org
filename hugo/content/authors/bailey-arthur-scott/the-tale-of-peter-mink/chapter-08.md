@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - At The Garden Party"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-08.html"
 ---
 
 Peter Mink was angry with Tommy Fox; for it was he who showed everybody that Peter was afraid of Fatty Coon. Peter Mink was so angry that he went about telling everyone he met how he was going to punish Tommy Fox. "When I finish with him," he said, "he'll know enough to keep his advice to himself."

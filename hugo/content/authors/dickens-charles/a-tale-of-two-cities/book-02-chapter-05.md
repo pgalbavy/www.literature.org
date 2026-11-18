@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5 - The Jackal"
 weight: 11
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-05.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-05.html"
 ---
 
 THOSE WERE drinking days, and most men drank hard. So very great is the improvement Time has brought about in such habits, that a moderate statement of the quantity of wine and punch which one man would swallow in the course of a night, without any detriment to his reputation as a perfect gentleman, would seem, in these days, a ridiculous exaggeration. The learned profession of the law was certainly not behind any other learned profession in its Bacchanalian propensities; neither was Mr. Stryver, already fast shouldering his way to a large and lucrative practice, behind his compeers in this particular, any more than in the drier parts of the legal race.

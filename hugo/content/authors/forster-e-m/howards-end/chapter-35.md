@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-35.html"
+url: "/authors/forster-e-m/howards-end/chapter-35.html"
 ---
 
 One speaks of the moods of spring, but the days that are her true children have only one mood; they are all full of the rising and dropping of winds, and the whistling of birds. New flowers may come out, the green embroidery of the hedges increase, but the same heaven broods overhead, soft, thick, and blue, the same figures, seen and unseen, are wandering by coppice and meadow. The morning that Margaret had spent with Miss Avery, and the afternoon she set out to entrap Helen, were the scales of a single balance. Time might never have moved, rain never have fallen, and man alone, with his schemes and ailments, was troubling Nature until he saw her through a veil of tears.

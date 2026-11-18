@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - How To Treat Drowned Persons"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-09.html"
 ---
 
 Many persons are drowned every month, and almost every day. Hundreds doubtless could be saved by a knowledge of the art of swimming, while others could have been revived, had the proper means been used.

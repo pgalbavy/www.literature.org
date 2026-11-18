@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-30.html"
+url: "/authors/dickens-charles/great-expectations/chapter-30.html"
 ---
 
 AFTER well considering the matter while I was dressing at the Blue Boar in the morning, I resolved to tell my guardian that I doubted Orlick's being the right sort of man to fill a post of trust at Miss Havisham's. 'Why, of course he is not the right sort of man, Pip,' said my guardian, comfortably satisfied beforehand on the general head, 'because the man who fills the post of trust never is the right sort of man.' It seemed quite to put him into spirits, to find that this particular post was not exceptionally held by the right sort of man, and he listened in a satisfied manner while I told him what knowledge I had of Orlick. 'Very good, Pip,' he observed, when I had concluded, 'I'll go round presently, and pay our friend off.' Rather alarmed by this summary action, I was for a little delay, and even hinted that our friend himself might be difficult to deal with. 'Oh no he won't,' said my guardian, making his pocket-handkerchief-point, with perfect confidence; 'I should like to see him argue the question with me.'

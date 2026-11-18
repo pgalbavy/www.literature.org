@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Miss Wayne"
 weight: 12
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-12.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-12.html"
 ---
 
 Peace awoke to find herself lying in a narrow iron bed, drawn close beside a window, through which she could see clouds of great, feathery snow-flakes swirling lazily, softly downwards; and not remembering where she was or how she came to be there, she murmured half aloud, "The angels seem to be shedding their feathers pretty lively today, don't they?"

@@ -1,8 +1,7 @@
 ---
 title: "chapter 23"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-23.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-23.html"
 ---
 
 Next day Birkin sought Ursula out. It happened to be the half-day at the Grammar School. He appeared towards the end of the morning, and asked her, would she drive with him in the afternoon. She consented. But her face was closed and unresponding, and his heart sank.

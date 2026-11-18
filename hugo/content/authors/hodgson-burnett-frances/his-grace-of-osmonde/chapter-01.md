@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Fifth Day Of April, 1676"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-01.html"
 ---
 
 Upon the village of Camylott there had rested since the earliest peep of dawn a hush of affectionate and anxious expectancy, the very plough-boys going about their labours without boisterous laughter, the children playing quietly, and the good wives in their kitchens and dairies bustling less than usual and modulating the sharpness of their voices, the most motherly among them in truth finding themselves falling into whispering as they gossiped of the great subject of the hour.

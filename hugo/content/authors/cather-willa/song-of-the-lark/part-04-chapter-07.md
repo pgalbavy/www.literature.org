@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 7"
 weight: 44
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-07.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-07.html"
 ---
 
 FROM the day of Fred's arrival, he and Thea were unceasingly active. They took long rides into the Navajo pine forests, bought turquoises and silver bracelets from the wandering Indian herdsmen, and rode twenty miles to Flagstaff upon the slightest pretext. Thea had never felt this pleasant excitement about any man before, and she found herself trying very hard to please young Ottenburg. She was never tired, never dull. There was a zest about waking up in the morning and dressing, about walking, riding, even about sleep.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - From The Kerguelen Isles To Prince Edward Island"
 weight: 4
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-04.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-04.html"
 ---
 
 Never did a voyage begin more prosperously, or a passenger start in better spirits. The interior of the Halbrane corresponded with its exterior. Nothing could exceed the perfect order, the Dutch cleanliness of the vessel. The captain's cabin, and that of the lieutenant, one on the port, the other on the starboard side, were fitted up with a narrow berth, a cupboard anything but capacious, an arm-chair, a fixed table, a lamp hung from the ceiling, various nautical instruments, a barometer, a thermometer, a chronometer, and a sextant in its oaken box. One of the two other cabins was prepared to receive me. It was eight feet in length, five in breadth. I was accustomed to the exigencies of sea life, and could do with its narrow proportions, also with its furniture—a table, a cupboard, a cane-bottomed arm-chair, a washing-stand on an iron pedestal, and a berth to which a less accommodating passenger would doubtless have objected. The passage would be a short one, however, so I took possession of that cabin, which I was to occupy for only four, or at the worst five weeks, with entire content.

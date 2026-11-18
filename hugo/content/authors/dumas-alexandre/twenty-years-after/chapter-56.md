@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - The Avenger"
 weight: 56
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-56.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-56.html"
 ---
 
 They all four entered the tent; they had no plan ready - they must think of one.

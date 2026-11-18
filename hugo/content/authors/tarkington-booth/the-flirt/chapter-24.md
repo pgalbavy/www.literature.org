@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-24.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-24.html"
 ---
 
 Valentine Corliss had nothing to do but to wait for the money his friend Antonio would send him by cable. His own cable, anticipating his letter, had been sent yesterday, when he came back to the hotel, after lunching in the country with Cora.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Lively Times"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-11.html"
 ---
 
 Rob's fall was not far, and his heavy clothing saved him from the bruises that otherwise might have disabled him. He stared about him and saw that he had fallen into a rough depression of the ice from six to eight feet in depth, and of about the same diameter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Dead Man's Messenger"
 weight: 13
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-13.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-13.html"
 ---
 
 For the written message on Thompson's lost card was plain. Macartney was--Hutton! And Hutton's gang were just the new, rough men Macartney had dribbled in to the La Chance mine!

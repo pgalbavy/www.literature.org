@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-02.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-02.html"
 ---
 
 When my hour was finished and I in liberty to leave that horrible corner, I pushed out of the crowd and walked down the boulevard, my hat covering my sin, and went quickly. To be in love with my mystery, I thought, that was a strange happiness! It was enough. It was romance! To hear a voice which speaks two sentences of pity and silver is to have a chime of bells in the heart. But to have a shaven head is to be a monk! And to have a shaven head with a sign painted upon it is to be a pariah. Alas! I was a person whom the Parisians laughed at, not with!

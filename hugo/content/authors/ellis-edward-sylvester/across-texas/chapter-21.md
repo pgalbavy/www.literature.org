@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Pursuit"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-21.html"
 ---
 
 *MEN* trained in the profession of the cowboys think and act quickly. Within a half hour following their meeting with Herbert Watrous, the party were travelling the other way, and shortly after emerged from the hills, where the ground was perfectly level, and advantage could be taken of the faint moonlight which would soon aid them.

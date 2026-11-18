@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The One And The Other"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-08.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-08.html"
 ---
 
 "Some idiot," remarked Eustace Vernon, sipping Vermouth at a little table, "insists that, if you sit long enough outside the Café de la Paix, you will see everyone you have ever known or ever wanted to know pass by. I have sat here for half-an-hour - and - voila."

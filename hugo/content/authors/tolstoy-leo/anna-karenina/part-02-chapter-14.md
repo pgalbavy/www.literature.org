@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 14"
 weight: 48
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-14.html"
 ---
 
 As he rode up to the house in the happiest frame of mind, Levin heard the bell ring at the side of the principal entrance of the house.

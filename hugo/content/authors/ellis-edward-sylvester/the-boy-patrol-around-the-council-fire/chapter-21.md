@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Call For Help"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-21.html"
 ---
 
 On the evening of one Thursday in August, Scout Master Hall and the members of the three patrols composing the troop of Boy Scouts were lounging on the piazza of the bungalow or clubhouse which stands on the shore of Gosling Lake in Southern Maine. It was the day succeeding the departure of George Burton and his bloodhound Zip.

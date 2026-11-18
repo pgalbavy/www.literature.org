@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-22.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-22.html"
 ---
 
 WHEN the woods again began to pour forth the dark-hued masses of the enemy the youth felt serene self-confidence. He smiled briefly when he saw men dodge and duck at the long screech- ings of shells that were thrown in giant handfuls over them. He stood, erect and tranquil, watch- ing the attack begin against a part of the line that made a blue curve along the side of an adja- cent hill. His vision being unmolested by smoke from the rifles of his companions, he had oppor- tunities to see parts of the hard fight. It was a relief to perceive at last from whence came some of these noises which had been roared into his ears.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Gilbert And Anne Disagree"
 weight: 29
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-29.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-29.html"
 ---
 
 Gilbert laid down the ponderous medical tome over which he had been poring until the increasing dusk of the March evening made him desist. He leaned back in his chair and gazed meditatively out of the window. It was early spring--probably the ugliest time of the year. Not even the sunset could redeem the dead, sodden landscape and rotten black harbor ice upon which he looked. No sign of life was visible, save a big black crow winging his solitary way across a leaden field. Gilbert speculated idly concerning that crow. Was he a family crow, with a black but comely crow wife awaiting him in the woods beyond the Glen? Or was he a glossy young buck of a crow on courting thoughts intent? Or was he a cynical bachelor crow, believing that he travels the fastest who travels alone? Whatever he was, he soon disappeared in congenial gloom and Gilbert turned to the cheerier view indoors.

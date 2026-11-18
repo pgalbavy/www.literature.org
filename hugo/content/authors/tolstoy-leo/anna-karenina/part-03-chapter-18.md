@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 18"
 weight: 87
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-18.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-18.html"
 ---
 
 They heard the sound of steps and a man's voice, then a woman's voice and laughter, and immediately thereafter there walked in the expected guests: Sappho Shtoltz, and a young man beaming with excess of health, the so-called Vaska. It was evident that ample supplies of beefsteak, truffles, and Burgundy never failed to reach him at the fitting hour. Vaska bowed to the two ladies, and glanced at them, but only for one second. He walked after Sappho into the drawing-room, and followed her about as though he were chained to her, keeping his sparkling eyes fixed on her as though he wanted to eat her. Sappho Shtoltz was a blonde beauty with black eyes. She walked with smart little steps in high-heeled shoes, and shook hands with the ladies vigorously like a man.

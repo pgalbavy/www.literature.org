@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - I Find Sanctuary"
 weight: 8
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-07.html"
+url: "/authors/buchan-john/the-power-house/chapter-07.html"
 ---
 
 My nervousness and indecision dropped from me at the news. I had won the first round, and I would win the last, for it suddenly became clear to me that I had now evidence which would blast Lumley. I believed that it would not be hard to prove his identity with Pavia and his receipt of the telegram from Saronov; Tuke was his creature, and Tuke's murderous mission was his doing. No doubt I knew little and could prove nothing about the big thing, the Power-House, but conspiracy to murder is not the lightest of criminal charges. I was beginning to see my way to checkmating my friend, at least so far as Pitt-Heron was concerned. Provided—and it was a pretty big proviso—that he gave me the chance to use my knowledge.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Trial"
 weight: 4
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-04.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-04.html"
 ---
 
 Tom turned his head away, and covered his face with his hands. This was cruel. For the first time in his life, he was glad Bennie could not see him. But he felt that it was necessary for him to say something, so he stammered out,--

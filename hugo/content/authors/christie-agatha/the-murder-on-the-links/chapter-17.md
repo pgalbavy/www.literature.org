@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - We Make Further Investigations"
 weight: 17
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-17.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-17.html"
 ---
 
 I have set down the Beroldy case in full. Of course all the details did not present themselves to my memory as I have recounted them here. Nevertheless, I recalled the case fairly accurately. It had attracted a great deal of interest at the time, and had been fully reported by the English papers, so that it did not need much effort of memory on my part to recollect the salient details.

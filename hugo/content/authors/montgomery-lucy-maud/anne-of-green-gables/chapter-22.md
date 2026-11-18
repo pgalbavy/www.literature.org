@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Anne is Invited Out to Tea"
 weight: 22
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-22.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-22.html"
 ---
 
 "And what are your eyes popping out of your head about. Now?" asked Marilla, when Anne had just come in from a run to the post office. "Have you discovered another kindred spirit?" Excitement hung around Anne like a garment, shone in her eyes, kindled in every feature. She had come dancing up the lane, like a wind-blown sprite, through the mellow sunshine and lazy shadows of the August evening.

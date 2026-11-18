@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 9"
 weight: 307
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-09.html"
 ---
 
 Having put on French greatcoats and shakos, Petya and Dolokhov rode to the clearing from which Denisov had reconnoitered the French camp, and emerging from the forest in pitch darkness they descended into the hollow. On reaching the bottom, Dolokhov told the Cossacks accompanying him to await him there and rode on at a quick trot along the road to the bridge. Petya, his heart in his mouth with excitement, rode by his side.

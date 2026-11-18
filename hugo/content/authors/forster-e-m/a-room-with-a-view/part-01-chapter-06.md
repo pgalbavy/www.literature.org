@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - The Reverend Arthur Beebe... Drive Out In Carriages To See A View; Italians Drive Them"
 weight: 6
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-06.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-06.html"
 ---
 
 It was Phaethon who drove them to Fiesole that memorable day, a youth all irresponsibility and fire, recklessly urging his master’s horses up the stony hill. Mr. Beebe recognized him at once. Neither the Ages of Faith nor the Age of Doubt had touched him; he was Phaethon in Tuscany driving a cab. And it was Persephone whom he asked leave to pick up on the way, saying that she was his sister--Persephone, tall and slender and pale, returning with the Spring to her mother’s cottage, and still shading her eyes from the unaccustomed light. To her Mr. Eager objected, saying that here was the thin edge of the wedge, and one must guard against imposition. But the ladies interceded, and when it had been made clear that it was a very great favour, the goddess was allowed to mount beside the god.

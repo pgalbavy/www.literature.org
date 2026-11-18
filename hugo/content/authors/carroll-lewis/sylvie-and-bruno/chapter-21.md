@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Through the Ivory Door"
 weight: 22
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-21.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-21.html"
 ---
 
 "I don't know," said Sylvie. "Hush! I must think. I could go to him, by myself, well enough. But I want you to come too."

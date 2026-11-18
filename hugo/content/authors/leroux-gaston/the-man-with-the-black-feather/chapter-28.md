@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Theophrastus Goes Into Eternal Exile"
 weight: 29
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-28.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-28.html"
 ---
 
 At this point I leave the report of the Commissary of Police, M. Mifroid. The conclusion of it indeed is filled with the most profound and philosophic reflections on the effect of companionship in misfortune on the human heart; but they are not relevant to the story of Theophrastus.

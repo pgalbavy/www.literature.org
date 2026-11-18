@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A New Expedition"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-18.html"
 ---
 
 Docak had no children, the single son born to him ten years before having died in infancy. His wife was about his age, and had noticeably lighter skin and bright brown eyes. It was evident that she had more white blood in her veins than her husband, who was of mixed breed.

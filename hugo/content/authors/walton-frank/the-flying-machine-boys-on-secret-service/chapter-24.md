@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Conclusion"
 weight: 24
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-24.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-24.html"
 ---
 
 “You’re sure that’s a dog in the cavern?” demanded Ben as the three crossed the summit and entered the gully, after leaving their machine on the shelf to the east.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-02.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-02.html"
 ---
 
 Fessenden turned to the right on the main road. At a little distance he paused to glance back at White Cottage.

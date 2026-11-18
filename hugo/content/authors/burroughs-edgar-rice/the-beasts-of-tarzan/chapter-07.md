@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Betrayed"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-07.html"
 ---
 
 The two savages, Kaviri and Mugambi, squatting before the entrance to Kaviri's hut, looked at one another-- Kaviri with ill-concealed alarm.

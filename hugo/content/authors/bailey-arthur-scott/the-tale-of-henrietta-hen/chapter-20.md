@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Great Flurry"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-20.html"
 ---
 
 There was a great flurry among Farmer Green's hens. They all insisted on talking at the same time, because they had heard an astonishing bit of news. It was about Henrietta Hen. Wherever she went her neighbors craned their necks at her, just as if they hadn't seen her every day for as long as they could remember.

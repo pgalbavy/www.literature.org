@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The End And The Beginning"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-24.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-24.html"
 ---
 
 On the day following that when she had summoned Eddo to speak with her, Nya sat at the mouth of the cave. It was late afternoon, and already the shadows gathered so quickly that save for her white hair, her little childlike shape, withered now almost to a skeleton, was scarcely visible against the black rock. Walking to and fro in her aimless fashion, as she would do for hours at a time, Rachel accompanied by Noie passed and repassed her, till at length the old woman lifted her head and listened to something which was quite inaudible to their ears. Then she beckoned to Noie, who led Rachel to her.

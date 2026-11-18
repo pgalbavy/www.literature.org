@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - In A Circle"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-09.html"
 ---
 
 This was alarming news. Ben Ripley imitated the action of Linna. Kneeling down, he pressed his ear to the earth.

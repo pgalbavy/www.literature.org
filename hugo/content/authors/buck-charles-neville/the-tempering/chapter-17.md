@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-17.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-17.html"
 ---
 
 Beyond the goal of getting through college in three years, Boone had planned his future but vaguely. He might seek election to the Legislature, when he came of qualifying age, and strive upwards from that beginning toward Congress and the larger rewards of a political life. For such a career the law was a necessary preparation, so while he was still in college he began its reading.

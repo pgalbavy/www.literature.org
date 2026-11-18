@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Turjun, The Panthan"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-13.html"
 ---
 
 The face of carthoris of Helium gave no token of the emotions that convulsed him inwardly as he heard from the lips of Hal Vas that Helium was at war with Dusar, and that fate had thrown him into the service of the enemy.

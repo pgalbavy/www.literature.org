@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 2"
 weight: 191
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-02.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-02.html"
 ---
 
 "Go, please, go then and call on the Bols," Kitty said to her husband, when he came in to see her at eleven o'clock before going out. "I know you are dining at the club; papa put down your name. But what are you going to do in the morning?"

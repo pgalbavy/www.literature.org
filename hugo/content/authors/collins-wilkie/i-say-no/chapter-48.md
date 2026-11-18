@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - Investigating"
 weight: 48
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-48.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-48.html"
 ---
 
 Having revived his sinking energies in the fruit garden, Mirabel seated himself under the shade of a tree, and reflected on the critical position in which he was placed by Francine's jealousy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Lac Tremblant"
 weight: 18
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-18.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-18.html"
 ---
 
 "Across the ice that never froze The snow that never bore, My love ran out to follow me-- To follow to the shore."

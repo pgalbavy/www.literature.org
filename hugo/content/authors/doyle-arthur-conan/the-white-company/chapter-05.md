@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - How A Strange Company Gathered At The \u0026quot;Pied Merlin\u0026quot;"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-05.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-05.html"
 ---
 
 THE night had already fallen, and the moon was shining between the rifts of ragged, drifting clouds, before Alleyne Edricson, footsore and weary from the unwonted exercise, found himself in front of the forest inn which stood upon the outskirts of Lyndhurst. The building was long and low, standing back a little from the road, with two flambeaux blazing on either side of the door as a welcome to the traveller. From one window there thrust forth a long pole with a bunch of greenery tied to the end of it- -a sign that liquor was to be sold within. As Alleyne walked up to it he perceived that it was rudely fashioned out of beams of wood, with twinkling lights all over where the glow from within shone through the chinks. The roof was poor and thatched; but in strange contrast to it there ran all along under the eaves a line of wooden shields, most gorgeously painted with chevron, bend, and saltire. and every heraldic de-vice. By the door a horse stood tethered, the ruddy glow beating strongly upon his brown head and patient eyes, while his body stood back in the shadow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Lie"
 weight: 18
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-18.html"
+url: "/authors/titus-harold/i-conquered/chapter-18.html"
 ---
 
 VB's eyes burned after Gail as she drove away. He followed the car in its flight until it disappeared over the hump in the road; then continued staring in that direction with eyes that did not see--that merely burned like his throat.

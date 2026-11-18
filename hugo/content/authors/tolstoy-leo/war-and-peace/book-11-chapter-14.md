@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 14"
 weight: 243
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-14.html"
 ---
 
 Madame Schoss, who had been out to visit her daughter, increased the countess' fears still more by telling what she had seen at a spirit dealer's in Myasnitski Street. When returning by that street she had been unable to pass because of a drunken crowd rioting in front of the shop. She had taken a cab and driven home by a side street and the cabman had told her that the people were breaking open the barrels at the drink store, having received orders to do so.

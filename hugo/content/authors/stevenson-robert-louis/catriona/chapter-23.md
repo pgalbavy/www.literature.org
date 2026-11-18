@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Travels In Holland"
 weight: 24
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-23.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-23.html"
 ---
 
 The rattel-waggon, which is a kind of a long waggon set with benches, carried us in four hours of travel to the great city of Rotterdam. It was long past dark by then, but the streets were pretty brightly lighted and thronged with wild-like, outlandish characters—bearded Hebrews, black men, and the hordes of courtesans, most indecently adorned with finery and stopping seamen by their very sleeves; the clash of talk about us made our heads to whirl; and what was the most unexpected of all, we appeared to be no more struck with all these foreigners than they with us. I made the best face I could, for the lass’s sake and my own credit; but the truth is I felt like a lost sheep, and my heart beat in my bosom with anxiety. Once or twice I inquired after the harbour or the berth of the ship *Rose*: but either fell on some who spoke only Hollands, or my own French failed me. Trying a street at a venture, I came upon a lane of lighted houses, the doors and windows thronged with wauf-like painted women; these jostled and mocked upon us as we passed, and I was thankful we had nothing of their language. A little after we issued forth upon an open place along the harbour.

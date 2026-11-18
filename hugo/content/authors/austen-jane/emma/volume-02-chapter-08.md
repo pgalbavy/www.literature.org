@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 8"
 weight: 26
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-08.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-08.html"
 ---
 
 Frank Churchill came back again; and if he kept his father's dinner waiting, it was not known at Hartfield; for Mrs. Weston was too anxious for his being a favourite with Mr. Woodhouse, to betray any imperfection which could be concealed.

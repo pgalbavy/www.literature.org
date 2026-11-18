@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-28.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-28.html"
 ---
 
 Mr. Fentolin, his carriage drawn up close to the beach, was painting steadily when Hamel stood once more by his side. His eyes moved only from the sea to the canvas. He never turned his head.

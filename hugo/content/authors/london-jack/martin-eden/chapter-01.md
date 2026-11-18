@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-01.html"
+url: "/authors/london-jack/martin-eden/chapter-01.html"
 ---
 
 The one opened the door with a latch-key and went in, followed by a young fellow who awkwardly removed his cap. He wore rough clothes that smacked of the sea, and he was manifestly out of place in the spacious hall in which he found himself. He did not know what to do with his cap, and was stuffing it into his coat pocket when the other took it from him. The act was done quietly and naturally, and the awkward young fellow appreciated it. "He understands," was his thought. "He'll see me through all right."

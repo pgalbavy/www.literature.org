@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67 - Conclusion"
 weight: 68
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-67.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-67.html"
 ---
 
 On the sixth of the following month the king, in compliance with the promise he had made the cardinal to return to La Rochelle, left his capital still in amazement at the news which began to spread itself of Buckingham's assassination.

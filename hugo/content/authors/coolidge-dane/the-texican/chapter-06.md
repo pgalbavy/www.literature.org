@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - \"The Voice Of Reason\""
 weight: 7
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-06.html"
+url: "/authors/coolidge-dane/the-texican/chapter-06.html"
 ---
 
 The fierce heat of summer fell suddenly upon Lost Dog Cañon and all the Verde country—the prolonged heat which hatches flies by the million and puts an end to ear-marking and branding. Until the cool weather of October laid them and made it possible to heal a wound there was nothing for Pecos to do but doctor a few sore ears and read the Voice of Reason. Although he had spent most of his life in the saddle the school-teacher back on the Pecos had managed to corral him long enough to beat the three R's into him and, being still young, he had not yet had time to forget them. Only twenty summers had passed over his head, so far, and he was a man only in stature and the hard experience of his craft. He was a good Texan—born a Democrat and taught to love whiskey and hate Mexicans—but so far his mind was guiltless of social theory. That there was something in the world that kept a poor man down he knew, vaguely; but never, until the Voice of Reason brought it to his attention, had he heard of the conspiracy of wealth or the crime of government. Not until, sprawling at the door of his cave, he mumbled over the full-mouthed invective of that periodical had he realized what a poor, puny creature a wage-slave really was, and when he read of the legalized robbery which went on under the name of law his young blood boiled in revolt. The suppression of strikes by Pinkertons, the calling out of the State Militia to shoot down citizens, the blacklisting of miners, and the general oppression of workingmen was all far away and academic to him—the thing that gripped and held him was an article on the fee system, under which officers of the law arrest all transient citizens who are unfortunate enough to be poor, and judges condemn them in order to gain a fee.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 36
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-35.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-35.html"
 ---
 
 "It was the strangest experience of my existence. It seemed suddenly to change me to another type of man."

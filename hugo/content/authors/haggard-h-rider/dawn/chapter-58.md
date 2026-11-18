@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58"
 weight: 59
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-58.html"
+url: "/authors/haggard-h-rider/dawn/chapter-58.html"
 ---
 
 Arthur took the same path by which he had come--all paths were alike to him now--but before he had gone ten yards he saw the figure of George Caresfoot, who appeared to have been watching him. In George's hand was a riding-whip, for he had ridden from the scene of the fire, and was all begrimed with smoke and dirt. But this Arthur did not notice.

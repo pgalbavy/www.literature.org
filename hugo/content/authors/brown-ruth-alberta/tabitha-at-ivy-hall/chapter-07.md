@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The New Boy"
 weight: 7
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-07.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-07.html"
 ---
 
 There was a new boy at school.

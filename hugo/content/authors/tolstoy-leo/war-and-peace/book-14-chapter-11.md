@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 11"
 weight: 309
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-11.html"
 ---
 
 The men rapidly picked out their horses in the semidarkness, tightened their saddle girths, and formed companies. Denisov stood by the watchman's hut giving final orders. The infantry of the detachment passed along the road and quickly disappeared amid the trees in the mist of early dawn, hundreds of feet splashing through the mud. The esaul gave some orders to his men. Petya held his horse by the bridle, impatiently awaiting the order to mount. His face, having been bathed in cold water, was all aglow, and his eyes were particularly brilliant. Cold shivers ran down his spine and his whole body pulsed rhythmically.

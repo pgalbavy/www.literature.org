@@ -1,8 +1,7 @@
 ---
 title: "Chapter 108 - Ahab and the Carpenter"
 weight: 108
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-108.html"
+url: "/authors/melville-herman/moby-dick/chapter-108.html"
 ---
 
 The Deck - First Night Watch

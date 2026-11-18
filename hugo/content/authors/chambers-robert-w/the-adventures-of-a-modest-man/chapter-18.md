@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Master Knot Of Human Fate"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-18.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-18.html"
 ---
 
 The conversation dropped there: she gazed thoughtfully out upon the Teutonic magnificence of One Hundred and Twenty-fifth Street by gaslight; he, arms folded, relapsed into bitter contemplation of the breakfast-food. So immersed he became in the picture of an unctuous little boy stuffing himself to repletion under the admiring smirk of a benevolent parent that he forgot his manacles, and attempting to stretch his cramped leg, returned to his senses in a hurry.

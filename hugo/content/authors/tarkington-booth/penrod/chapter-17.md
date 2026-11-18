@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Retiring From The Show-Business"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-17.html"
+url: "/authors/tarkington-booth/penrod/chapter-17.html"
 ---
 
 Megaphones were constructed out of heavy wrapping-paper, and Penrod, Sam, and Herman set out in different directions, delivering vocally the inflammatory proclamation of the poster to a large section of the residential quarter, and leaving Roderick Magsworth Bitts, Junior, with Verman in the loft, shielded from all deadhead eyes. Upon the return of the heralds, the Schofield and Williams Military Band played deafeningly, and an awakened public once more thronged to fill the coffers of the firm.

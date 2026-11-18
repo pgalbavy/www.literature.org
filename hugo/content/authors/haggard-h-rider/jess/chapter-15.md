@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Rough Journey"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-15.html"
+url: "/authors/haggard-h-rider/jess/chapter-15.html"
 ---
 
 The four greys were fresh horses, in good condition and with a light load behind them, so, notwithstanding the bad state of the tracks which they call roads in South Africa, John made good progress.

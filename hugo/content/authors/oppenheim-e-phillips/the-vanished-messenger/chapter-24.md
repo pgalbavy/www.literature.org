@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-24.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-24.html"
 ---
 
 Hamel sat alone upon the terrace, his afternoon coffee on a small table in front of him. His eyes were fixed upon a black speck at the end of the level roadway which led to the Tower. Only a few minutes before, Mr. Fentolin, in his little carriage, bad shot out from the passage beneath the terrace, on his way to the Tower. Behind him came Meekins, bending over his bicycle. Hamel watched them both with thoughtful eyes. There were several little incidents in connection with their expedition which he scarcely understood.

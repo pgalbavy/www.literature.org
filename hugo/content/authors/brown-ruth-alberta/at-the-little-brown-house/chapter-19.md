@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Heartbreak"
 weight: 19
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-19.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-19.html"
 ---
 
 It was a wild, stormy, October night. The rain fell fitfully, and the howling wind raced madly through forest and over farmland, shrieking down chimneys, rattling windows and doors, whistling through every conceivable crack and crevice, and rudely buffeting any traveler who chanced to be abroad. In the brown house three rosy-cheeked little maids lay fast asleep in their beds in the tiny back chamber, blissfully unconscious of wind and rain; but in the room below Faith and Hope kept anxious vigil, awaiting Gail's return from the darkness and the storm.

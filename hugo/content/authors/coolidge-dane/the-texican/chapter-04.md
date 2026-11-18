@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Show-Down"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-04.html"
+url: "/authors/coolidge-dane/the-texican/chapter-04.html"
 ---
 
 It is a great sensation to feel that you are a prospective cattle king, but somehow when Pecos Dalhart rode back to Verde Crossing his accustomed gaiety had fled. There were no bows and smiles for Marcelina, no wordy exchanges with the garrulous Babe—there is a difference, after all, between stealing cows for eighty dollars a month and stealing for yourself, and while a moralist might fail to see the distinction it showed in its effect on Pecos's spirits.

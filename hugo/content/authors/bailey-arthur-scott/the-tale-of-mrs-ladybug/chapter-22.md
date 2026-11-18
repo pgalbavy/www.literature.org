@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Mrs. Ladybug Leaves"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-22.html"
 ---
 
 THE Carpenter Bee, who lived in the big poplar by the brook, wasn't building a house for Mrs. Ladybug. That skillful woodworker hadn't been able to agree with her--so he told Buster Bumblebee. Furthermore, he knew nothing of Mrs. Ladybug's present plans as to where she was going to spend the winter.

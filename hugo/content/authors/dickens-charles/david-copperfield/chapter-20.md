@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Steerforth’s Home"
 weight: 21
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-20.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-20.html"
 ---
 
 When the chambermaid tapped at my door at eight o’clock, and informed me that my shaving-water was outside, I felt severely the having no occasion for it, and blushed in my bed. The suspicion that she laughed too, when she said it, preyed upon my mind all the time I was dressing; and gave me, I was conscious, a sneaking and guilty air when I passed her on the staircase, as I was going down to breakfast. I was so sensitively aware, indeed, of being younger than I could have wished, that for some time I could not make up my mind to pass her at all, under the ignoble circumstances of the case; but, hearing her there with a broom, stood peeping out of window at King Charles on horseback, surrounded by a maze of hackney-coaches, and looking anything but regal in a drizzling rain and a dark-brown fog, until I was admonished by the waiter that the gentleman was waiting for me.

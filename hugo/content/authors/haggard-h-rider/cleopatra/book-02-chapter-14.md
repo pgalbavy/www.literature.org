@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14"
 weight: 22
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-14.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-14.html"
 ---
 
 OF THE TENDER CARE OF CHARMION; OF THE HEALING OF HARMACHIS; OF THE SAILING OF THE FLEET OF CLEOPATRA FOR CILICIA; AND OF THE SPEECH OF BRENNUS TO HARMACHIS

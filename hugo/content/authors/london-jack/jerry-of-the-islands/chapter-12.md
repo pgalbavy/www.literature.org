@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-12.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-12.html"
 ---
 
 What happened aboard the Arangi Jerry never knew. He did know that it was a world destroyed, for he saw it destroyed. The boy who had knocked him on the head with the paddle, tied his legs securely and tossed him out on the beach ere he forgot him in the excitement of looting the Arangi.

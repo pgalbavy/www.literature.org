@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - An Afternoon At The Stone House"
 weight: 27
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-27.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-27.html"
 ---
 
 "Where are you going, all dressed up, Anne?" Davy wanted to know. "You look bully in that dress."

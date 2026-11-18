@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Barbed Shaft Kills"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-19.html"
 ---
 
 KRASKI spent a sleepless night. He could not help but realize that sooner or later Tarzan would discover the loss of his pouch of diamonds, and that he would return and demand an accounting of the four Londoners he had befriended. And so it was that as the first streak of dawn lighted the eastern horizon, the Russian arose from his pallet of dried grasses within the hut that had been assigned him and Bluber by the chief, and crept stealthily out into the village street.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-28.html"
+url: "/authors/chambers-robert-w/athalie/chapter-28.html"
 ---
 
 Clive's enforced idleness had secretly humiliated him and made him restless. Athalie in her tender wisdom understood how it was with him before he did himself, and she was already deftly guiding his balked energy into a brand new channel, the same being a bucolic one.

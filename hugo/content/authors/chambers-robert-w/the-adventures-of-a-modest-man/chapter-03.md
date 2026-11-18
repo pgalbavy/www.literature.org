@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Trouble For Two"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-03.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-03.html"
 ---
 
 *A Note Found by Young Harroll on his Dresser the Evening of his Arrival at Palm Beach.*

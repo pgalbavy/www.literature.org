@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Mrs. Woodchuck Runs"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-16.html"
 ---
 
 Mrs. Woodchuck was on her way home, waddling across the pasture. She had been making a call on Aunt Polly Woodchuck, the herb doctor, who lived under the hill. They had talked over all the news in the neighborhood. And Mrs. Woodchuck had her mind on some gossip that Aunt Polly had told her. Otherwise she might have noticed sooner that old dog Spot had spied her.

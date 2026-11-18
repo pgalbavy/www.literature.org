@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-08.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-08.html"
 ---
 
 MRS. CARDEN drove home in a hansom, a strange and unusual extravagance. At Launa’s she had been bewildered—the conversation was so difficult to understand, so full of proverbs and of Solomon.

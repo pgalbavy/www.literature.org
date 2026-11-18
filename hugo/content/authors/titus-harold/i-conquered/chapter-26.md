@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - To The Victor"
 weight: 26
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-26.html"
+url: "/authors/titus-harold/i-conquered/chapter-26.html"
 ---
 
 Up the flagged walk to the house of chill, white stone overlooking the North River went a messenger, and through the imposing front portal he handed a letter, hidden away in a sheaf of others. A modest-appearing letter; indeed, perhaps something less than modest; possibly humble, for its corners were crumpled and its edges frayed. Yet, of all the packages handed him, Daniel Lenox, alone at his breakfast, singled it out for the earliest attention.

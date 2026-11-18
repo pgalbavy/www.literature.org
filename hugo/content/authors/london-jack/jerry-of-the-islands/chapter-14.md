@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-14.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-14.html"
 ---
 
 For many days, tied by the stick, Jerry remained Lamai's prisoner. It was not a happy time, for the house of Lumai was a house of perpetual bickering and quarrelling. Lamai fought pitched battles with his brothers and sisters for teasing Jerry, and these battles invariably culminated in Lenerengo taking a hand and impartially punishing all her progeny.

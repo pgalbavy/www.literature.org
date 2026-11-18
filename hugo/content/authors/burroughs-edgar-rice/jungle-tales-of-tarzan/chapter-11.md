@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Jungle Joke"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-11.html"
 ---
 
 TIME SELDOM HUNG heavily upon Tarzan's hands. Even where there is sameness there cannot be monotony if most of the sameness consists in dodging death first in one form and then in another; or in inflicting death upon others. There is a spice to such an existence; but even this Tarzan of the Apes varied in activities of his own invention.

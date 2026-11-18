@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Strange Encounter"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-14.html"
 ---
 
 Fred Ashman was standing near the edge of the Xingu, as will be remembered, when his attention was diverted for the moment by a puma, which came out of the wood, drank from the stream, and then, after a brief pause, returned to his shelter.

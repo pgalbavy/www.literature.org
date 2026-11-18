@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 29"
 weight: 29
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-29.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-29.html"
 ---
 
 The visit of the Lieutenant-Governor of the Province formed the next stage in the decomposition of the Marabar. Sir Gilbert, though not an enlightened man, held enlightened opinions. Exempted by a long career in the Secretariate from personal contact with the peoples of India, he was able to speak of them urbanely, and to deplore racial prejudice. He applauded the outcome of the trial, and congratulated Fielding on having taken “the broad, the sensible, the only possible charitable view from the first. Speaking confidentially . . .” he proceeded. Fielding deprecated confidences, but Sir Gilbert insisted on imparting them; the affair had been “mishandled by certain of our friends up the hill” who did not realize that “the hands of the clock move forward, not back,” etc., etc. One thing he could guarantee: the Principal would receive a most cordial invitation to rejoin the club, and he begged, nay commanded him, to accept. He returned to his Himalayan altitudes well satisfied; the amount of money Miss Quested would have to pay, the precise nature of what had happened in the caves—these were local details, and did not concern him.

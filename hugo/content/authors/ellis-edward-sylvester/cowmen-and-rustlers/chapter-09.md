@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Summons And A Reply"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-09.html"
 ---
 
 Brother and sister were astounded. The hour was late, and they had been urging their guest to remain several days with them. He had not consented, nor had he refused, from which they were confident he would stay.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Magnet Switch"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-12.html"
 ---
 
 The guardsmen paid not the slightest attention to their wards, for the red men could not move over two feet from the great rings to which they were padlocked, though each had seized a weapon upon which he had been engaged when I entered the room, and stood ready to join me could they have but done so.

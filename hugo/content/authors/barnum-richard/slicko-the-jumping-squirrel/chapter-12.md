@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Slicko Finds Her Nest"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-12.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-12.html"
 ---
 
 Scampering softly over the oilcloth of the kitchen floor, Slicko came close to the man. Slicko thought it was Bob’s papa, but it was not. I’ll soon tell you who the man was.

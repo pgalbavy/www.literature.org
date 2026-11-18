@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Luckiest Of All"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-18.html"
 ---
 
 Grunty Pig found that being the smallest of the family wasn't all fun. Not only could his brothers and sisters crowd him at the feeding trough. Even when they were playing in the pen they often knocked him down and walked right over him. And if he objected--as he usually did--they were sure to laugh and call him "Runt."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 73 - In Which Porthos Begins To Be Sorry For Having Come With D'artagnan"
 weight: 73
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-73.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-73.html"
 ---
 
 Scarcely had D'Artagnan extinguished his taper, when Aramis, who had watched through his curtains the last glimmer of light in his friend's apartment, traversed the corridor on tiptoe, and went to Porthos's room. The giant, who had been in bed nearly an hour and a half, lay grandly stretched out on the down bed. He was in that happy calm of the first sleep, which, with Porthos, resisted the noise of bells or the report of cannon; his head swam in that soft oscillation which reminds us of the soothing movement of a ship. In a moment Porthos would have begun to dream. The door of the chamber opened softly under the delicate pressure of the hand of Aramis. The bishop approached the sleeper. A thick carpet deadened the sound of his steps, besides which Porthos snored in a manner to drown all noise. He laid one hand on his shoulder - "Rouse," said he, "wake up, my dear Porthos." The voice of Aramis was soft and kind, but it conveyed more than a notice, - it conveyed an order. His hand was light, but it indicated a danger. Porthos heard the voice and felt the hand of Aramis, even in the depth of his sleep. He started up. "Who goes there?" cried he, in his giant's voice.

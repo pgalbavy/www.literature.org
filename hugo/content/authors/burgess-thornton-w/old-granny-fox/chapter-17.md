@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Granny Fox Promises Reddy Bowser's Dinner"
 weight: 17
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-17.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-17.html"
 ---
 
 To give her children what each needs  

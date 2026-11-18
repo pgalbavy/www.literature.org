@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The White Man's Way"
 weight: 3
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-03.html"
+url: "/authors/london-jack/love-of-life/chapter-03.html"
 ---
 
 "TO cook by your fire and to sleep under your roof for the night," I had announced on entering old Ebbits's cabin; and he had looked at me blear-eyed and vacuous, while Zilla had favored me with a sour face and a contemptuous grunt. Zilla was his wife, and no more bitter-tongued, implacable old squaw dwelt on the Yukon. Nor would I have stopped there had my dogs been less tired or had the rest of the village been inhabited. But this cabin alone had I found occupied, and in this cabin, perforce, I took my shelter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Piper At The Gates Of Dawn"
 weight: 7
-aliases:
-  - "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-07.html"
+url: "/authors/grahame-kenneth/the-wind-in-the-willows/chapter-07.html"
 ---
 
 The Willow-Wren was twittering his thin little song, hidden himself in the dark selvedge of the river bank. Though it was past ten o'clock at night, the sky still clung to and retained some lingering skirts of light from the departed day; and the sullen heats of the torrid afternoon broke up and rolled away at the dispersing touch of the cool fingers of the short midsummer night. Mole lay stretched on the bank, still panting from the stress of the fierce day that had been cloudless from dawn to late sunset, and waited for his friend to return. He had been on the river with some companions, leaving the Water Rat free to keep an engagement of long standing with Otter; and he had come back to find the house dark and deserted, and no sign of Rat, who was doubtless keeping it up late with his old comrade. It was still too hot to think of staying indoors, so he lay on some cool dock-leaves, and thought over the past day and its doings, and how very good they all had been.

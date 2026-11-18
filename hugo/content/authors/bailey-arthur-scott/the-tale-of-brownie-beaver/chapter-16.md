@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Looking Pleasant"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-16.html"
 ---
 
 After Jasper Jay left Brownie Beaver, on that day when Jasper told Brownie that the photographer had made a flashlight picture of him, Brownie could hardly wait for it to grow dark. He had made up his mind that he would go back to that same tree, which was still not quite gnawed through; and he hoped that he would succeed in having his picture taken again. Like many other people, Brownie Beaver felt that he could not have too much of a good thing.

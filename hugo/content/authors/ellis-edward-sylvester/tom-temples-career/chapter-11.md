@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - After Three Months"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-11.html"
 ---
 
 *THREE* months passed, and Tom was still a boarder with the Middletons. The academy—for there was one in the town—was in session, and Tom was numbered among the pupils. James Davenport, his sister Imogene, and Mary Somers, also attended. Edwin, who had only been on a visit, had returned to his home in the city.

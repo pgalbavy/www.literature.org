@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-05.html"
+url: "/authors/eliot-george/middlemarch/chapter-05.html"
 ---
 
 "Hard students are commonly troubled with gowts, catarrhs, rheums, cachexia, bradypepsia, bad eyes, stone, and collick, crudities, oppilations, vertigo, winds, consumptions, and all such diseases as come by over-much sitting: they are most part lean, dry, ill-colored . . . and all through immoderate pains and extraordinary studies. If you will not believe the truth of this, look upon great Tostatus and Thomas Aquainas' works; and tell me whether those men took pains." - BURTON'S Anatomy of Melancholy, P. I, s. 2.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - Surprises"
 weight: 43
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-43.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-43.html"
 ---
 
 Jo was alone in the twilight, lying on the old sofa, looking at the fire, and thinking. It was her favorite way of spending the hour of dusk. No one disturbed her, and she used to lie there on Beth's little red pillow, planning stories, dreaming dreams, or thinking tender thoughts of the sister who never seemed far away. Her face looked tired, grave, and rather sad, for tomorrow was her birthday, and she was thinking how fast the years went by, how old she was getting, and how little she seemed to have accomplished. Almost twenty-five, and nothing to show for it. Jo was mistaken in that. There was a good deal to show, and by-and-by she saw, and was grateful for it.

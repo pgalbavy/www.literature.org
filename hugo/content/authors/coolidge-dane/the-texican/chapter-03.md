@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Double Cross"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-03.html"
+url: "/authors/coolidge-dane/the-texican/chapter-03.html"
 ---
 
 A month passed, drearily; and while Ike Crittenden and his punchers gathered U cows on one side of the Four Peaks and shoved them over the summit Pecos Dalhart roped them as they came in to Carrizo Springs for water and doctored over their brands. The boys were following in the wake of Upton's round-up and the brands on the calves were freshly made and therefore easy to change, but it called for all of Pecos's professional skill to alter the cow brands to match. In order not to cause adverse comment it is necessary that the cow and calf shall show the same mark and since the mother's brand was always old and peeled Pecos called into requisition a square of wet gunny-sack or blanket to help give the antique effect. Spreading this over the old U he retraced the letter through it with a red-hot iron and then extended the brand downward until it formed a neat Wine-glass ([Illustration: Y [++] Brand in the shape of a wine-glass.]), scalded rather than seared into the hair. Such a brand would never look fresh or peel, though it might grow dim with years, and after working the ear-marks over on cow and calf the transformation was complete. But while the results of his labor was a fine little bunch of Wine-glass cows hanging around Carrizo Springs, to Pecos himself, tying a knot in a buckskin string to count off each weary day, the month seemed interminable.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 10"
 weight: 23
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-03-chapter-10.html"
+url: "/authors/conrad-joseph/the-rescue/part-03-chapter-10.html"
 ---
 
 When Lingard went to his boat to follow Carter, who had gone back to the yacht, Wasub, mast and sail on shoulder, preceded him down the ladder. The old man leaped in smartly and busied himself in getting the dinghy ready for his commander.

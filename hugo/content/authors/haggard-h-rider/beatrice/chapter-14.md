@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Drifting"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-14.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-14.html"
 ---
 
 On the day following their religious discussion an accident happened which resulted in Geoffrey and Beatrice being more than ever thrown in the company of each other. During the previous week two cases of scarlatina had been reported among the school children, and now it was found that the complaint had spread so much that it was necessary to close the school. This meant, of course, that Beatrice had all her time upon her hands. And so had Geoffrey. It was his custom to bathe before breakfast, after which he had nothing to do for the rest of the day. Beatrice with little Effie also bathed before breakfast from the ladies’ bathing-place, a quarter of a mile off, and sometimes he would meet her as she returned, glowing with health and beauty like Venus new risen from the Cyprian sea, her half-dried hair hanging in heavy masses down her back. Then after breakfast they would take Effie down to the beach, and her “auntie,” as the child learned to call Beatrice, would teach her lessons and poetry till she was tired, and ran away to paddle in the sea or look for prawns among the rocks.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Want Supplied"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-18.html"
 ---
 
 One thing attracted the notice and pleased our friends, and gave them a hope of being able to supply a want they had felt every moment since landing upon the California coast. Each of the miners had two rifles, and were abundantly supplied with ammunition and mining tools. The wonder was how they could carry so heavy a load for such a distance. It could not be understood until Ned Trimble stated that they had two good, tough mules pasturing in a secluded place about a half-mile distant.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-15.html"
 ---
 
 During the hot days and nights of the next few weeks Tredennis found life rather a dreary affair. Gradually the familiar faces he met on the avenue became fewer and fewer; the houses he knew one after another assumed their air of summer desertion, offering as their only evidences of life an occasional colored servant sunning him or herself on the steps; the crowds of nursery-maids, with their charges, thinned out in the parks, and the freshness of the leaves was lost under a coating of dust, while the countenances of those for whom there was no prospect of relief expressed either a languid sense of injury or the patience of despair.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Cosey Corner"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-13.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-13.html"
 ---
 
 Vacation was over, the boys went back to school, and poor Mac was left lamenting. He was out of the darkened room now, and promoted to blue goggles, through which he took a gloomy view of life, as might have been expected; for there was nothing he could do but wander about, and try to amuse himself without using his eyes. Anyone who has ever been condemned to that sort of idleness knows how irksome it is, and can understand the state of mind which caused Mac to say to Rose in a desperate tone one day

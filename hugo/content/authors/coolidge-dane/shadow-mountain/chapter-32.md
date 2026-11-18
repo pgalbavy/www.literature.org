@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Huff"
 weight: 32
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-32.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-32.html"
 ---
 
 The Colonel was sitting in the shade of a wild grapevine rapping out a series of questions at Charley, but at sight of the young people coming back hand in hand, he paused and smiled understandingly.

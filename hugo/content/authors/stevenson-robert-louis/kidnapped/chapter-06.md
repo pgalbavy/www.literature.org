@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - What Befell At The Queen’s Ferry"
 weight: 7
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-06.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-06.html"
 ---
 
 As soon as we came to the inn, Ransome led us up the stair to a small room, with a bed in it, and heated like an oven by a great fire of coal. At a table hard by the chimney, a tall, dark, sober-looking man sat writing. In spite of the heat of the room, he wore a thick sea-jacket, buttoned to the neck, and a tall hairy cap drawn down over his ears; yet I never saw any man, not even a judge upon the bench, look cooler, or more studious and self-possessed, than this ship-captain.

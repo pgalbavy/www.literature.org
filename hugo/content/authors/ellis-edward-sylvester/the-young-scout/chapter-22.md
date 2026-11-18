@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - What Does It Mean?"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-22.html"
 ---
 
 "Now," said Lieutenant Decker, as the horrible serpent glided from sight in the gloom, "if you’ll pass round the end of that big rock over yonder and give that Apache your attention, I’ll forgive you for the way you scared me."

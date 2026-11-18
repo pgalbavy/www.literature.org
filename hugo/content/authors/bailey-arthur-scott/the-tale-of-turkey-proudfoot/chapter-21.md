@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Farmyard Manners"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-21.html"
 ---
 
 "Oh, very well!" said Simon Screecher to Turkey Proudfoot. "I'll give my cousin your message. I'll tell him that you want him to meet you here in this clearing in the woods to-morrow night." So off Simon Screecher flew.

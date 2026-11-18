@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-03.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-03.html"
 ---
 
 The terrace in front of the house was a long narrow strip of turf, bounded along its outer edge by a graceful stone balustrade. Two little summer-houses of brick stood at either end. Below the house the ground sloped very steeply away, and the terrace was a remarkably high one; from the balusters to the sloping lawn beneath was a drop of thirty feet. Seen from below, the high unbroken terrace wall, built like the house itself of brick, had the almost menacing aspect of a fortification—a castle bastion, from whose parapet one looked out across airy depths to distances level with the eye. Below, in the foreground, hedged in by solid masses of sculptured yew trees, lay the stone-brimmed swimming-pool. Beyond it stretched the park, with its massive elms, its green expanses of grass, and, at the bottom of the valley, the gleam of the narrow river. On the farther side of the stream the land rose again in a long slope, chequered with cultivation. Looking up the valley, to the right, one saw a line of blue, far-off hills.

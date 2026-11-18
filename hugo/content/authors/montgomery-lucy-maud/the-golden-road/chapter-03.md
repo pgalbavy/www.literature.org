@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Christmas Harp"
 weight: 4
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-03.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-03.html"
 ---
 
 Great was the excitement in the houses of King as Christmas drew nigh. The air was simply charged with secrets. Everybody was very penurious for weeks beforehand and hoards were counted scrutinizingly every day. Mysterious pieces of handiwork were smuggled in and out of sight, and whispered consultations were held, about which nobody thought of being jealous, as might have happened at any other time. Felicity was in her element, for she and her mother were deep in preparations for the day. Cecily and the Story Girl were excluded from these doings with indifference on Aunt Janet's part and what seemed ostentatious complacency on Felicity's. Cecily took this to heart and complained to me about it.

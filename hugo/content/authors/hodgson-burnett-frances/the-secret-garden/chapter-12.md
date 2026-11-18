@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - “Might I Have A Bit Of Earth?”"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-12.html"
 ---
 
 Mary ran so fast that she was rather out of breath when she reached her room. Her hair was ruffled on her forehead and her cheeks were bright pink. Her dinner was waiting on the table, and Martha was waiting near it.

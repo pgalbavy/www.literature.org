@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-12.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-12.html"
 ---
 
 "O gentlemen, the time of life is short; To spend that shortness basely were too long, If life did ride upon a dial's point, Still ending at the arrival of an hour." - SHAKESPEARE: Henry IV.

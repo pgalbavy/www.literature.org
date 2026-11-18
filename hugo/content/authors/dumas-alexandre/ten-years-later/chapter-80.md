@@ -1,8 +1,7 @@
 ---
 title: "Chapter 80 - Manicamp And Malicorne"
 weight: 80
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-80.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-80.html"
 ---
 
 Malicorne, then, left Blois, as we have said, and went to find his friend Manicamp, then in temporary retreat in the city of Orleans. It was just at the moment when that young nobleman was employed in selling the last decent clothing he had left. He had, a fortnight before extorted from the Comte de Guiche a hundred pistoles, all he had, to assist in equipping him properly to go and meet Madame, on her arrival at Havre. He had drawn from Malicorne, three days before, fifty pistoles, the price of the brevet obtained for Montalais. He had then no expectation of anything else, having exhausted all his resources, with the exception of selling a handsome suit of cloth and satin, embroidered and laced with gold, which had been the admiration of the court. But to be able to sell this suit, the last he had left - as we have been forced to confess to the reader - Manicamp had been obliged to take to his bed. No more fire, no more pocket-money, no more walking-money, nothing but sleep to take the place of repasts, companies and balls. It has been said - "he who sleeps, dines;" but it has never been affirmed - he who sleeps, plays - or he who sleeps, dances. Manicamp, reduced to this extremity of neither playing nor dancing, for a week at least, was, consequently, very sad; he was expecting a usurer, and saw Malicorne enter. A cry of distress escaped him.

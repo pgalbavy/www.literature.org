@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Friend In Need"
 weight: 13
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-12.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-12.html"
 ---
 
 *FRIDAY* and Saturday passed uneventfully. Tuppence had received a brief answer to her appeal from Mr. Carter. In it he pointed out that the Young Adventurers had undertaken the work at their own risk, and had been fully warned of the dangers. If anything had happened to Tommy he regretted it deeply, but he could do nothing.

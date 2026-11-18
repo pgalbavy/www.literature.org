@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Star"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-02.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-02.html"
 ---
 
 It was on the first day of the New Year that the announcement was made, almost simultaneously from three observatories, that the motion of the planet Neptune, the outermost of all the planets that wheel about the sun, had become very erratic. Ogilvy had already called attention to a suspected retardation in its velocity in December. Such a piece of news was scarcely calculated to interest a world the greater portion of whose inhabitants were unaware of the existence of the planet Neptune, nor outside the astronomical profession did the subsequent discovery of a faint remote speck of light in the region of the perturbed planet cause any very great excitement. Scientific people, however, found the intelligence remarkable enough, even before it became known that the new body was rapidly growing larger and brighter, that its motion was quite different from the orderly progress of the planets, and that the deflection of Neptune and its satellite was becoming now of an unprecedented kind.

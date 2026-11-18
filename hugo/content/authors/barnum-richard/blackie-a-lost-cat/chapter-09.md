@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Blackie Meets Don"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-09.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-09.html"
 ---
 
 Blackie scrambled down out of the cage of Dido, the dancing bear, ran between the legs of Tum Tum, the jolly elephant, who called to her in his big, kind, trumpety voice, and then stuck her head out under the circus tent.

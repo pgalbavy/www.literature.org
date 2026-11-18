@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Fiddler"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-01.html"
 ---
 
 If Chirpy Cricket had begun to make music earlier in the summer perhaps he wouldn't have given so much time to fiddling in Farmer Green's farmyard. Everybody admitted that Chirpy was the most musical insect in the whole neighborhood. And it seemed as if he tried his hardest to crowd as much music as possible into a few weeks, though he had been silent enough during all the spring.

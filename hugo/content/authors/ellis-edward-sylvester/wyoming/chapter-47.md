@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-47.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-47.html"
 ---
 
 Lieutenant Godfrey and Gravity Gimp shook hands warmly, for they were overjoyed to meet in this manner, after their enforced parting a brief while before.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - The Dangerous Archipelago—atolls At A Distance"
 weight: 16
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-01.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-01.html"
 ---
 
 In the early morning of 4th September a whale-boat manned by natives dragged us down the green lane of the anchorage and round the spouting promontory. On the shore level it was a hot, breathless, and yet crystal morning; but high overhead the hills of Atuona were all cowled in cloud, and the ocean-river of the trades streamed without pause. As we crawled from under the immediate shelter of the land, we reached at last the limit of their influence. The wind fell upon our sails in puffs, which strengthened and grew more continuous; presently the Casco heeled down to her day’s work; the whale-boat, quite outstripped, clung for a noisy moment to her quarter; the stipulated bread, rum, and tobacco were passed in; a moment more and the boat was in our wake, and our late pilots were cheering our departure.

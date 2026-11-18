@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/monsieur-beaucaire/chapter-01.html"
+url: "/authors/tarkington-booth/monsieur-beaucaire/chapter-01.html"
 ---
 
 The young Frenchman did very well what he had planned to do. His guess that the Duke would cheat proved good. As the unshod half-dozen figures that had been standing noiselessly in the entryway stole softly into the shadows of the chamber, he leaned across the table and smilingly plucked a card out of the big Englishman's sleeve.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Marvel"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-16.html"
 ---
 
 Weeks flew by while the Molly was cruising about, waiting and watching for the expected East Indiaman. The privateer, meanwhile, was not losing time. Several small merchant vessels came in her way, and submitted without a blow to the argument of her compelling pair of guns. These vessels were either stripped of their cargo and then burnt, or else sent with a few sailors as their prize crew to some American port. The capture of the British merchant ships kept the Molly supplied with the necessaries for her continued cruise, and served besides to calm the impatience of the men, who were beginning to complain of their captain's pertinacious clinging to the hope of taking the East Indiaman, which might already be safely harbored in English waters. There had been dark nights and foggy days in which she might well have passed them, so they reasoned. But Derry Duck said there was no moving the captain, and grumblers would do best to "keep their tongues between their teeth." The mail-bag of the Molly had gone home on board one of the captured vessels, and it was a pleasant thought to Blair that his dear mother would soon feel almost as if she heard the voice of her son at her side. Derry's little daughter too would receive her letter, and Blair tried to picture her joy as she held this treasure in her hands.

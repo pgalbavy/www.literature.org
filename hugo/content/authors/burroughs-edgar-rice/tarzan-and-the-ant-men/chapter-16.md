@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-16.html"
 ---
 
 Komodoflorensal stood at Tarzan's side, his weapon ready to take issue with any who might question their presence here; but presently the end of his iron rod dropped to the floor and a broad smile overspread his features.

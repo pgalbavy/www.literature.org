@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-03.html"
+url: "/authors/verne-jules/round-the-moon/chapter-03.html"
 ---
 
 This curious but certainly correct explanation once given, the three friends returned to their slumbers. Could they have found a calmer or more peaceful spot to sleep in? On the earth, houses, towns, cottages, and country feel every shock given to the exterior of the globe. On sea, the vessels rocked by the waves are still in motion; in the air, the balloon oscillates incessantly on the fluid strata of divers densities. This projectile alone, floating in perfect space, in the midst of perfect silence, offered perfect repose.

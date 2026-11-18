@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - In Which Dromio Becomes Romeo"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-07.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-07.html"
 ---
 
 When Cara, waiting at the bridge, had seen the car flash up, a bearded Bedouin at the wheel, she had leaped lightly to the seat beside him, without waiting for the machine to come to a full stop; then she had thrown herself back luxuriously on the cushions with a sigh of satisfaction, and had only said: "Drive me fast."

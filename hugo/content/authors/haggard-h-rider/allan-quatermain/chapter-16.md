@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Before The Statue"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-16.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-16.html"
 ---
 
 It was night--dead night--and the silence lay on the Frowning City like a cloud.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - Outside Dorlcote Mill"
 weight: 1
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-01.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-01.html"
 ---
 
 A wide plain, where the broadening Floss hurries on between its green banks to the sea, and the loving tide, rushing to meet it, checks its passage with an impetuous embrace. On this mighty tide the black ships - laden with the fresh-scented fir-planks, with rounded sacks of oil-bearing seed, or with the dark glitter of coal - are borne along to the town of St. Ogg's, which shows its aged, fluted red roofs and the broad gables of its wharves between the low wooded hill and the river-brink, tingeing the water with a soft purple hue under the transient glance of this February sun. Far away on each hand stretch the rich pastures, and the patches of dark earth made ready for the seed of broad-leaved green crops, or touched already with the tint of the tender-bladed autumn-sown corn. There is a remnant still of last year's golden clusters of beehive-ricks rising at intervals beyond the hedgerows; and everywhere the hedgerows are studded with trees; the distant ships seem to be lifting their masts and stretching their red-brown sails close among the branches of the spreading ash. Just by the red-roofed town the tributary Ripple flows with a lively current into the Floss. How lovely the little river is, with its dark changing wavelets! It seems to me like a living companion while I wander along the bank, and listen to its low, placid voice, as to the voice of one who is deaf and loving. I remember those large dipping willows. I remember the stone bridge.

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 2"
 weight: 46
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-02.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-02.html"
 ---
 
 It was midnight when the men had got their supper and began unrolling their blankets to sleep on the floor of the long dock waiting-rooms,--which in other days had been thronged by people who came to welcome home-coming friends, or to bid them God-speed to foreign shores. Claude and some of his men had tried to look about them; but there was little to be seen. The bow of a boat, painted in distracting patterns of black and white, rose at one end of the shed, but the water itself was not visible. Down in the cobble-paved street below they watched for awhile the long line of drays and motor trucks that bumped all night into a vast cavern lit by electricity, where crates and barrels and merchandise of all kinds were piled, marked American Expeditionary Forces; cases of electrical machinery from some factory in Ohio, parts of automobiles, gun-carriages, bath-tubs, hospital supplies, bales of cotton, cases of canned food, grey metal tanks full of chemical fluids. Claude went back to the waiting room, lay down and fell asleep with the glare of an arc-light shining full in his face.

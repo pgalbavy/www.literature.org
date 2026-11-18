@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-37.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-37.html"
 ---
 
 It was morning when the colonel reached the ranch. He found his wife and Eva sitting in Custer’s room. They knew the hour, and they were waiting there to be as near him as they could. They were weeping quietly. In the kitchen across the patio they could hear Hannah sobbing.

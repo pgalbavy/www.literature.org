@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Flight To London"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-05.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-05.html"
 ---
 
 Ann Veronica had an impression that she did not sleep at all that night, and at any rate she got through an immense amount of feverish feeling and thinking.

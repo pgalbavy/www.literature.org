@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - An Estray"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-01.html"
 ---
 
 One day in the autumn Terence Clark came to the house of Frederick Linden and urged him to join in a hunt for a cow that had been missing since the night before. The latter got the consent of his mother and the two lads started on a search that proved to be the most eventful one they had ever known.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - “I Shall Live Forever—and Ever—and Ever!”"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-20.html"
 ---
 
 But they were obliged to wait more than a week because first there came some very windy days and then Colin was threatened with a cold, which two things happening one after the other would no doubt have thrown him into a rage but that there was so much careful and mysterious planning to do and almost every day Dickon came in, if only for a few minutes, to talk about what was happening on the moor and in the lanes and hedges and on the borders of streams. The things he had to tell about otters’ and badgers’ and water-rats’ houses, not to mention birds’ nests and field-mice and their burrows, were enough to make you almost tremble with excitement when you heard all the intimate details from an animal charmer and realized with what thrilling eagerness and anxiety the whole busy underworld was working.

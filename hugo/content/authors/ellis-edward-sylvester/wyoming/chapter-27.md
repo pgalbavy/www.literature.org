@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-27.html"
 ---
 
 "Great Cæsar!" exclaimed the terrified McEwen, as he began swinging back and forth, head downward, like a huge pendulum; "won't somebody set me right side up?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-07.html"
 ---
 
 In the central western part of the Gillikin Country is a great tangle of trees called Gugu Forest. It is the biggest forest in all Oz and stretches miles and miles in every direction--north, south, east and west. Adjoining it on the east side is a range of rugged mountains covered with underbrush and small twisted trees. You can find this place by looking at the Map of the Land of Oz.

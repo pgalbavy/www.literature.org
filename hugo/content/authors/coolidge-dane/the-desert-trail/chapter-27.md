@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-27.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-27.html"
 ---
 
 As the sun, after a passing storm, comes forth all the more gloriously, so the joy of their new-found friendship changed the world for Bud and Gracia. The rainbow that glowed against the retreating clouds held forth more than a promise of sunshine for them, and they conversed only of pleasant things as they rode on up the trail.

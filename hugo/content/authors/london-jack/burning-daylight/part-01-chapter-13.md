@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 13"
 weight: 13
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-13.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-13.html"
 ---
 
 Six thousand spent the winter of 1897 in Dawson, work on the creeks went on apace, while beyond the passes it was reported that one hundred thousand more were waiting for the spring. Late one brief afternoon, Daylight, on the benches between French Hill and Skookum Hill, caught a wider vision of things. Beneath him lay the richest part of Eldorado Creek, while up and down Bonanza he could see for miles. It was a scene of a vast devastation. The hills, to their tops, had been shorn of trees, and their naked sides showed signs of goring and perforating that even the mantle of snow could not hide. Beneath him, in every direction were the cabins of men. But not many men were visible. A blanket of smoke filled the valleys and turned the gray day to melancholy twilight. Smoke arose from a thousand holes in the snow, where, deep down on bed-rock, in the frozen muck and gravel, men crept and scratched and dug, and ever built more fires to break the grip of the frost. Here and there, where new shafts were starting, these fires flamed redly. Figures of men crawled out of the holes, or disappeared into them, or, on raised platforms of hand-hewn timber, windlassed the thawed gravel to the surface, where it immediately froze. The wreckage of the spring washing appeared everywhere--piles of sluice-boxes, sections of elevated flumes, huge water-wheels,--all the debris of an army of gold-mad men.

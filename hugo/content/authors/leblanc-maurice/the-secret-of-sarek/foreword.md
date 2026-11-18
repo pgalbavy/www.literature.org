@@ -1,8 +1,7 @@
 ---
 title: "Foreword"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/foreword.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/foreword.html"
 ---
 
 The war has led to so many upheavals that not many people now remember the Hergemont scandal of seventeen years ago. Let us recall the details in a few lines.

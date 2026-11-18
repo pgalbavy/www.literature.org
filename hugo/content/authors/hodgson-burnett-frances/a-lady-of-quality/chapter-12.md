@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Which Treats Of The Obsequies Of My Lord Of Dunstanwolde, Of His Lady's Widowhood, And Of Her Return To Town"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-12.html"
 ---
 
 All that remained of my Lord Dunstanwolde was borne back to his ancestral home, and there laid to rest in the ancient tomb in which his fathers slept. Many came from town to pay him respect, and the Duke of Osmonde was, as was but fitting, among them. The countess kept her own apartments, and none but her sister, Mistress Anne, beheld her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-20.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-20.html"
 ---
 
 In a moment the passengers, more or less bruised and alarmed, were out on the track. Nothing but complaints and questions uttered in three or four different languages, amid general bewilderment.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Big Family"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-01.html"
 ---
 
 When Mrs. Field Mouse moved from her home in Farmer Green's meadow to the more fashionable neighborhood near the gristmill, she had no idea that anyone would care to live in the little old house that she had left.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Jorinda And Jorindel"
 weight: 3
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-03.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-03.html"
 ---
 
 There was once an old castle, that stood in the middle of a deep gloomy wood, and in the castle lived an old fairy. Now this fairy could take any shape she pleased. All the day long she flew about in the form of an owl, or crept about the country like a cat; but at night she always became an old woman again. When any young man came within a hundred paces of her castle, he became quite fixed, and could not move a step till she came and set him free; which she would not do till he had given her his word never to come there again: but when any pretty maiden came within that space she was changed into a bird, and the fairy put her into a cage, and hung her up in a chamber in the castle. There were seven hundred of these cages hanging in the castle, and all with beautiful birds in them.

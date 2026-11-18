@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-21.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-21.html"
 ---
 
 I had no further difficulty in carrying out my plans. I found a small hotel in a back street, got a room there, paid a deposit as I had no luggage with me, and went placidly to bed.

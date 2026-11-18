@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Queer Way To Help"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-12.html"
 ---
 
 MRS. LADYBUG wished that she hadn't come to the vegetable garden to see the person who called herself Mrs. Ladybug's cousin. She wasn't at all the sort of relation that Mrs. Ladybug cared to have.

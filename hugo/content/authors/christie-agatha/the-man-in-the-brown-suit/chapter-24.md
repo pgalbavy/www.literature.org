@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-24.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-24.html"
 ---
 
 We arrived at Bulawayo early on Saturday morning. I was disappointed in the place. It was very hot, and I hated the hotel. Also Sir Eustace was what I can only describe as thoroughly sulky. I think it was all our wooden animals that annoyed him—especially the big giraffe. It was a colossal giraffe with an impossible neck, a mild eye and a dejected tail. It had character. It had charm. A controversy was already arising as to whom it belonged—me or Suzanne. We had each contributed a tiki to its purchase. Suzanne advanced the claims of seniority and the married state, I stuck to the position that I had been the first to behold its beauty.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Miss Boke"
 weight: 26
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-26.html"
+url: "/authors/tarkington-booth/seventeen/chapter-26.html"
 ---
 
 Nothing could have been more evident than William's difficulties. They continued to exist, with equal obviousness, when the group broke up in some confusion, after a few minutes of animated discussion; Mr. Wallace Banks, that busy and executive youth, bearing Miss Pratt triumphantly off to the lemonade-punch-bowl, while William pursued Johnnie Watson and Joe Bullitt. He sought to detain them near the edge of the platform, though they appeared far from anxious to linger in his company; and he was able to arrest their attention only by clutching an arm of each. In fact, the good feeling which had latterly prevailed among these three appeared to be in danger of disintegrating. The occasion was too vital; and the watchword for "Miss Pratt's last night" was Devil-Take-the-Hindmost!

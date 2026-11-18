@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Lost Yet Won"
 weight: 24
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-24.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-24.html"
 ---
 
 With the stealth of a Blackfoot brave, Peter Pape approached the powder cart in temporary use as a rostrum. Jane he had left where her safety no longer troubled him. His entire attention reached forward. Having gained the cover of a venerable cottonwood whose drooping catkins fringed the shafts of the lowering sun he stopped and deliberately listened, excused by the necessity of discovering just what was underway.

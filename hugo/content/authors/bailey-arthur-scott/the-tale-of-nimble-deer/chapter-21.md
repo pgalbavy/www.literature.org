@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - An Untold Secret"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-21.html"
 ---
 
 All the field and forest people soon knew that at last Jimmy Rabbit had invited Nimble Deer to his party. And everybody was pleased--that is, everybody except Grumpy Weasel and old Timothy Turtle, who were left out in the cold, so to speak. Grumpy Weasel, when he heard the news, said, "Humph!" And Timothy Turtle, when he heard it, said, "Ho!" And they both declared that they were glad they were not going to the party.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Torchlight Parade"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-07.html"
 ---
 
 At last the torchlight procession was about to begin its march. Chirpy Cricket took his place at its head, as leader. And close behind him came Mehitable Moth, gaily bearing her banner aloft, with Freddie Firefly perched on top of it, and flashing his greenish-white light so that its rays fell full upon the words, which told Farmer Green's wife not to worry, because Mehitable Moth agreed to pay her a call before cold weather set in.

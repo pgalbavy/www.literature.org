@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3 - Lady Ruth's Last Card"
 weight: 19
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-03.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-03.html"
 ---
 
 "There are two letters," Aynesworth announced, "which I have not opened. One, I think, is from the Marchioness of Westhampton, the other from some solicitors at Truro. They were both marked private."

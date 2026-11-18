@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Coals Of Fire"
 weight: 12
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-12.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-12.html"
 ---
 
 Willa paused in the vestibule of the shabby apartment-house and looked carefully up and down the street before venturing forth. The early dusk had fallen and the lamps were not yet alight, but the passers-by were still clearly discernible in the gloom. The girl studied their movements for a time, and noting that none loitered or retraced their steps, she descended and made her way around the corner to where her car was waiting.

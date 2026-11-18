@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-02.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-02.html"
 ---
 
 *WHEN* you are young so many things are difficult to believe, and yet the dullest people will tell you that they are true—such things, for instance, as that the earth goes round the sun, and that it is not flat but round. But the things that seem really likely, like fairy-tales and magic, are, so say the grown-ups, not true at all. Yet they are so easy to believe, especially when you see them happening. And, as I am always telling you, the most wonderful things happen to all sorts of people, only you never hear about them because the people think that no one will believe their stories, and so they don't tell them to any one except me. And they tell me, because they know that I can believe anything.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-11.html"
+url: "/authors/dickens-charles/great-expectations/chapter-11.html"
 ---
 
 AT the appointed time I returned to Miss Havisham's, and my hesitating ring at the gate brought out Estella. She locked it after admitting me, as she had done before, and again preceded me into the dark passage where her candle stood. She took no notice of me until she had the candle in her hand, when she looked over her shoulder, superciliously saying, 'You are to come this way to- day,' and took me to quite another part of the house.

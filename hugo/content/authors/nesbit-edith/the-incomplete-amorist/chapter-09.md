@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Opportunity"
 weight: 9
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-09.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-09.html"
 ---
 
 Vernon in those two days decided that he did not wish to see Betty again. She was angry with him, and, though he never for an instant distrusted his power to dissipate the cloud, he felt that the lifting of it would leave him and her in that strong light wherein the frail flower of sentiment must wither and perish. Explications were fatal to the delicate mystery, the ethereal half-lights, that Vernon loved. Above all things he detested the trop dit.

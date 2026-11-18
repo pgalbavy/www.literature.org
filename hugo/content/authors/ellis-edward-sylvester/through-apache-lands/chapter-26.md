@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Capturing A Mustang"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-26.html"
 ---
 
 It struck Ned that there was something very strange in the continued absence of the two hunters.

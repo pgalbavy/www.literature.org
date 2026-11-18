@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - White And Yellow"
 weight: 1
-aliases:
-  - "/authors/london-jack/tales-of-the-fish-patrol/chapter-01.html"
+url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-01.html"
 ---
 
 San Francisco Bay is so large that often its storms are more disastrous to ocean-going craft than is the ocean itself in its violent moments. The waters of the bay contain all manner of fish, wherefore its surface is ploughed by the keels of all manner of fishing boats manned by all manner of fishermen. To protect the fish from this motley floating population many wise laws have been passed, and there is a fish patrol to see that these laws are enforced. Exciting times are the lot of the fish patrol: in its history more than one dead patrolman has marked defeat, and more often dead fishermen across their illegal nets have marked success.

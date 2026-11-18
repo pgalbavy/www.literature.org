@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Stop That!"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-16.html"
 ---
 
 On a cool summer's morning Ferdinand Frog was sitting among the reeds near the bank of the pond when a harsh voice suddenly said:

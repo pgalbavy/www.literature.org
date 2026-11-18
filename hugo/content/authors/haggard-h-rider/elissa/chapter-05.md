@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Place Of Sacrifice"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-05.html"
+url: "/authors/haggard-h-rider/elissa/chapter-05.html"
 ---
 
 Suddenly Aziel, looking up from his reverie, saw the Phoenician bowing before him, cap in hand.

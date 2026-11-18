@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How A Retired Provision Merchant Felt The Impulse Of Spring"
 weight: 2
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-01.html"
+url: "/authors/buchan-john/huntingtower/chapter-01.html"
 ---
 
 Mr. Dickson McCunn completed the polishing of his smooth cheeks with the towel, glanced appreciatively at their reflection in the looking-glass, and then permitted his eyes to stray out of the window. In the little garden lilacs were budding, and there was a gold line of daffodils beside the tiny greenhouse. Beyond the sooty wall a birch flaunted its new tassels, and the jackdaws were circling about the steeple of the Guthrie Memorial Kirk. A blackbird whistled from a thorn-bush, and Mr. McCunn was inspired to follow its example. He began a tolerable version of "Roy's Wife of Aldivalloch."

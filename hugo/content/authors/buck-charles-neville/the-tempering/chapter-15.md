@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-15.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-15.html"
 ---
 
 One day McCalloway received a paper, several days old, that contained a piece of news which he was anxious for Boone to see at once, and he straightway set out to find the boy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-06.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-06.html"
 ---
 
 It is difficult to disconnect the idea of ships’ anchors from the idea of the ship’s chief mate—the man who sees them go down clear and come up sometimes foul; because not even the most unremitting care can always prevent a ship, swinging to winds and tide, from taking an awkward turn of the cable round stock or fluke. Then the business of "getting the anchor" and securing it afterwards is unduly prolonged, and made a weariness to the chief mate. He is the man who watches the growth of the cable—a sailor’s phrase which has all the force, precision, and imagery of technical language that, created by simple men with keen eyes for the real aspect of the things they see in their trade, achieves the just expression seizing upon the essential, which is the ambition of the artist in words. Therefore the sailor will never say, "cast anchor," and the ship-master aft will hail his chief mate on the forecastle in impressionistic phrase: "How does the cable grow?" Because "grow" is the right word for the long drift of a cable emerging aslant under the strain, taut as a bow-string above the water. And it is the voice of the keeper of the ship’s anchors that will answer: "Grows right ahead, sir," or "Broad on the bow," or whatever concise and deferential shout will fit the case.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Tristan Love Song"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-07.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-07.html"
 ---
 
 After dinner father and I sat out on the porch in the soft, warm breeze that waved a misty spring moonlight around us, and talked garden until after ten o'clock. He was brilliant and delightful, but three times he made trips to ice bowl and decanter on the sideboard.

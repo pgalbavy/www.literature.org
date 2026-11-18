@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Timothy Needs Help"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-17.html"
 ---
 
 Everybody who lived near Black Creek noticed Timothy Turtle's new collar. And almost every one, being curious, asked Mr. Turtle where he got it, and why he was wearing it.

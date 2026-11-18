@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-13.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-13.html"
 ---
 
 Lieutenant and Mrs. Langford went off to town, and by nine o'clock the following morning Katherine was at the bank, her wedding ring in hiding and attached to a thin gold chain that hung around her neck; I am sure she found a keener delight in the secrecy than she would have discovered in the most elaborate publicity. Young Langford's battalion left Southampton with three rumoured destinations--France, The Dardanelles, Mesopotamia--and all we could say of these was that at least two were surely inaccurate; the dear girl came to London Street that evening and in the back room, and on my shoulder had a long cry, and, this over, gave no signs of depression or tears. We had good news one Sunday night of an advance by British troops south of La Bassée, and a victory by the French in the Champagne district; to hear folk talking of this near the railway station you would have guessed that the war was almost at an end. A few days later the casualty lists of our officers came in, and we knew then some of the expense of the small victory, and could guess at the total. The newspapers were in disagreement concerning the proposed landing of troops at Salonica. A quotation from a Paris journal was headed, "Help Mother First." My customers, at times, brought me their definite and resolute views on the conduct of the war, and seemed disappointed that I was prepared to go no further than admit relief in the thought that I had not to take a share in the direction.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Captain And Crew"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-06.html"
 ---
 
 When the elder Landon received a report from the principal of the military school on the Hudson to the effect that Alvin led all his classmates in their studies and had not once been brought under discipline, he was glad to fulfil the promise made months before, and bought him a handsome motor launch, the selection of which was left to the youth himself. The craft was shipped to Portland, Maine, there set afloat in the capacious bay and sped northeastward for forty miles or so, to the bungalow which the banker had erected a year before on Southport Island. The retreat was to be used by him and his family as a restful refuge from the feverish work which kept him in New York most of the year, with occasional flying trips to the great cities in the West or as far as the Pacific coast.

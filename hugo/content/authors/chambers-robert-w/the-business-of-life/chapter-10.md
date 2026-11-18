@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-10.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-10.html"
 ---
 
 Desboro's guests were determined to turn the house out of the windows; its stodgy respectability incited them; every smug, smooth portrait goaded them to unusual effort, and they racked their brains to invent novelties.

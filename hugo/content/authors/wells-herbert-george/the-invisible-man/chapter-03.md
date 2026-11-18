@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Thousand and One Bottles"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-03.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-03.html"
 ---
 
 Thus it was that on the ninth day of February, at the beginning of the thaw, this singular person fell out of infinity into Iping Village. Next day his luggage arrived through the slush. And very remarkable luggage it was. There was a couple of trunks indeed, such as a rational man might need, but in addition there were a box of books,--big, fat books, of which some were just in an incomprehensible handwriting,--and a dozen or more crates, boxes, and cases, containing objects packed in straw, as it seemed to Hall, tugging with a casual curiosity at the straw--glass bottles. The stranger, muffled in hat, coat, gloves, and wrapper, came out impatiently to meet Fearenside's cart, while Hall was having a word or so of gossip preparatory to helping bring them in. Out he came, not noticing Fearenside's dog, who was sniffing in a dilettante spirit at Hall's legs. "Come along with those boxes," he said. "I've been waiting long enough."

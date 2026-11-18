@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-32.html"
+url: "/authors/dickens-charles/great-expectations/chapter-32.html"
 ---
 
 ONE day when I was busy with my books and Mr Pocket, I received a note by the post, the mere o utside of which threw me into a great flutter; for, though I had never seen the handwriting in which it was addressed, I divined whose hand it was. It had no set beginning, as Dear Mr Pip, or Dear Pip, or Dear Sir, or Dear Anything, but ran thus:

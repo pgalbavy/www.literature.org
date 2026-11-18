@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - The Recital"
 weight: 41
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-41.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-41.html"
 ---
 
 The maliciousness of the cardinal did not leave much for the ambassador to say; nevertheless, the word "restoration" had struck the king, who, addressing the comte, upon whom his eyes had been fixed since his entrance, - "Monsieur," said he, "will you have the kindness to give us some details concerning the affairs of England. You come from that country, you are a Frenchman, and the orders which I see glittering upon your person announce you to be a man of merit as well as a man of quality."

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10"
 weight: 38
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-10.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-10.html"
 ---
 
 Prince Andrew stayed at Brunn with Bilibin, a Russian acquaintance of his in the diplomatic service.

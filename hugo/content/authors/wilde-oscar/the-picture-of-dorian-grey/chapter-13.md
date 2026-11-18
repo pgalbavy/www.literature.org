@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-13.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-13.html"
 ---
 
 He passed out of the room and began the ascent, Basil Hallward following close behind. They walked softly, as men do instinctively at night. The lamp cast fantastic shadows on the wall and staircase. A rising wind made some of the windows rattle.

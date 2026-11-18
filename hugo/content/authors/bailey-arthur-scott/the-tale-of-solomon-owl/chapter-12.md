@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Benjamin Bat"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-12.html"
 ---
 
 Solomon Owl was by no means the only night-prowler in Pleasant Valley. He had neighbors that chose to sleep in the daytime, so they might roam through the woods and fields after dark. One of these was Benjamin Bat. And furthermore, he was the color of night itself.

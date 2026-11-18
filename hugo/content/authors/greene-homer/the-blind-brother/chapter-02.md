@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Burned Breaker"
 weight: 2
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-02.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-02.html"
 ---
 
 For a long time Bennie lay there, pitifully weeping. Then, away off somewhere in the mine, he heard a noise. He lifted his head. By degrees the noise grew louder; then it sounded almost like footsteps. Suppose it were some one coming; suppose it were Tom! The light of hope flashed up in Bennie’s breast with the thought.

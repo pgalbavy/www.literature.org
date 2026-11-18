@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11 - The Pride Before A Fall"
 weight: 11
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-11.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-11.html"
 ---
 
 The result of the election was announced in Gledsmuir on the next Wednesday evening, and carried surprise to all save Lewis's nearer friends. For Mr. Albert Stocks was duly returned member for the constituency by a majority of seventy votes. The defeated candidate received the news with great composure, addressed some good-humoured words to the people, had a generous greeting for his opponent, and met his committee with a smiling face. But his heart was sick within him, and as soon as he decently might he escaped from the turmoil, found his horse, and set off up Glenavelin for his own dwelling.

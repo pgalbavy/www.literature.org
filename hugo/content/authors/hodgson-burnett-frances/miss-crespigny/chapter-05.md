@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Georgie Esmond"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-05.html"
 ---
 
 It suited Lisbeth to be charming this morning, and she was really very agreeable indeed. She knew enough of art to appear to advantage among pictures, and she had, withal, a certain demure and modest way of admitting her ignorance, which was by no means unattractive. She was bright, amiable, and, as it seemed, in the best of spirits. She made friends with Miss Georgie, and delighted Colonel Esmond; she propitiated Miss Estabrook, and rendered that inflammable elderly beau, her brother, supremely happy by her friendly condescension; she treated Anstruthers as if there had been no other event in their two lives but this one morning and this one nice little party. She made the luncheon even more entertaining than such small feasts usually were; in short, she was Lisbeth Crespigny at her best, her spiciest, and in her most engaging mood.

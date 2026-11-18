@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 21 - Echoing Footsteps"
 weight: 27
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-21.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-21.html"
 ---
 
 A WONDERFUL CORNER for echoes, it has been remarked, that corner where the Doctor lived. Ever busily winding the golden thread which bound her husband, and her father, and herself, and her old directress and companion, in a life of quiet bliss, Lucie sat in the still house in the tranquilly resounding corner, listening to the echoing footsteps of years.

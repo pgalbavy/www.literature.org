@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Primeval Instinct"
 weight: 17
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-17.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-17.html"
 ---
 
 On the other side of the house Buck found the mistress of the ranch and her two guests standing in a little group beside one of the dusty, discouraged-looking flower-beds. As he appeared they all glanced toward him, and a troubled, almost frightened expression flashed across Mary Thorne's face.

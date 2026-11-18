@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - Ants And Their Dwelling"
 weight: 23
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-05.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-05.html"
 ---
 
 At this moment the storm burst with a violence unknown in temperate latitudes.

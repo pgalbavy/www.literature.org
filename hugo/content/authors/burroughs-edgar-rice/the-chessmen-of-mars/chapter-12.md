@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-12.html"
 ---
 
 WHILE Tara of Helium was being led to The Towers of Jetan, Ghek was escorted to the pits beneath the palace where he was imprisoned in a dimly-lighted chamber. Here he found a bench and a table standing upon the dirt floor near the wall, and set in the wall several rings from which depended short lengths of chain. At the base of the walls were several holes in the dirt floor. These, alone, of the several things he saw, interested him. Ghek sat down upon the bench and waited in silence, listening. Presently the lights were extinguished. If Ghek could have smiled he would have then, for Ghek could see as well in the dark as in the light--better, perhaps. He watched the dark openings of the holes in the floor and waited. Presently he detected a change in the air about him--it grew heavy with a strange odor, and once again might Ghek have smiled, could he have smiled.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Pleasant Meadows"
 weight: 22
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-22.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-22.html"
 ---
 
 Like sunshine after a storm were the peaceful weeks which followed. The invalids improved rapidly, and Mr. March began to talk of returning early in the new year. Beth was soon able to lie on the study sofa all day, amusing herself with the well-beloved cats at first, and in time with doll's sewing, which had fallen sadly behind-hand. Her once active limbs were so stiff and feeble that Jo took her for a daily airing about the house in her strong arms. Meg cheerfully blackened and burned her white hands cooking delicate messes for 'the dear', while Amy, a loyal slave of the ring, celebrated her return by giving away as many of her treasures as she could prevail on her sisters to accept.

@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/prologue.html"
+url: "/authors/haggard-h-rider/the-brethren/prologue.html"
 ---
 
 R.M.S. Mongolia, 12th May, 1904 Mayhap, Ella, here too distance lends its enchantment, and these gallant brethren would have quarrelled over Rosamund, or even had their long swords at each other's throat. Mayhap that Princess and heroine might have failed in the hour of her trial and never earned her saintly crown. Mayhap the good horse "Smoke" would have fallen on the Narrow Way, leaving false Lozelle a victor, and Masouda, the royal-hearted, would have offered up a strangely different sacrifice upon the altars of her passionate desire.

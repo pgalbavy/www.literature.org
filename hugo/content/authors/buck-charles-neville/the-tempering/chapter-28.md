@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-28.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-28.html"
 ---
 
 One morning of frosty tang, that touched the pulses with its livening, found Boone's eyes and thoughts wandering discursively from the papers massed on his desk. His customary concentration had become a slack force, though these were days of pressing hours and insistent minutes in the Wallifarro offices. The reception room was crowded with waiting figures that savoured of the motley, and this was one of the new things brought to pass by the strange bedfellowship of politics. Yonder in a corner sat with fidgeting restiveness a young man whose eyes, despite his obvious youth, were mature in guile and pouched with that pasty ugliness with which unwholesome night life trade-marks its own.

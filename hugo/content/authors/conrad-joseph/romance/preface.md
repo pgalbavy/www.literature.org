@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/romance/preface.html"
+url: "/authors/conrad-joseph/romance/preface.html"
 ---
 
 *ELSIE AND JESSIE*

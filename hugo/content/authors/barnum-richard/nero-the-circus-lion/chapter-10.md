@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Nero Runs Away"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-10.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-10.html"
 ---
 
 Once more Nero roared as he looked over the heads of the crowd to see what had become of the boy who had tried to give Tum Tum the rotten apple.

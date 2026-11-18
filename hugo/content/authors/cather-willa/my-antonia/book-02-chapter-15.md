@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 15"
 weight: 35
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-15.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-15.html"
 ---
 
 LATE IN AUGUST the Cutters went to Omaha for a few days, leaving Antonia in charge of the house. Since the scandal about the Swedish girl, Wick Cutter could never get his wife to stir out of Black Hawk without him.

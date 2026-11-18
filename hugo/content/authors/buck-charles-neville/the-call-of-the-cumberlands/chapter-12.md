@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-12.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-12.html"
 ---
 
 Lescott stayed on a week after that simply in deference to Samson's insistence. To leave at once might savor of flight under fire, but when the week was out the painter turned his horse's head toward town, and his train swept him back to the Bluegrass and the East. As he gazed out of his car windows at great shoulders of rock and giant trees, things he was leaving behind, he felt a sudden twinge of something akin to homesickness. He knew that he should miss these great humps of mountains and the ragged grandeur of the scenery. With the rich smoothness of the Bluegrass, a sense of flatness and heaviness came to his lungs. Level metal roads and loamy fields invited his eye. The tobacco stalks rose in profuse heaviness of sticky green; the hemp waved its feathery tops; and woodlands were clear of underbrush--the pauper counties were behind him.

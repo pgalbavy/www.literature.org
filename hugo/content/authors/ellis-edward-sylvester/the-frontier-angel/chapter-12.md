@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Mingling Of Fear, Doubt, And Hope"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-12.html"
 ---
 
 *AND* so it happened that the terrible sentence, "He shall first be shot and then be burnt in the clearing and cast into the river," was never executed upon Tom McGable. The opportunity was never given.

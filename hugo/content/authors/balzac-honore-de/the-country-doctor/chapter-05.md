@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Elegies"
 weight: 5
-aliases:
-  - "/authors/balzac-honore-de/the-country-doctor/chapter-05.html"
+url: "/authors/balzac-honore-de/the-country-doctor/chapter-05.html"
 ---
 
 As Benassis finished his story, he was struck by the troubled expression of the officer's face. It touched him to have been so well understood. He was almost ready to reproach himself for having distressed his visitor. He spoke:

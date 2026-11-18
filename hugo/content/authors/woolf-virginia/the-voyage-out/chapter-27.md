@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-27.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-27.html"
 ---
 
 All that evening the clouds gathered, until they closed entirely over the blue of the sky. They seemed to narrow the space between earth and heaven, so that there was no room for the air to move in freely; and the waves, too, lay flat, and yet rigid, as if they were restrained. The leaves on the bushes and trees in the garden hung closely together, and the feeling of pressure and restraint was increased by the short chirping sounds which came from birds and insects.

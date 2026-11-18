@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Théophraste And His Black Plume"
 weight: 8
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-07.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-07.html"
 ---
 
 *FOR* the next few days M. Lecamus and M.

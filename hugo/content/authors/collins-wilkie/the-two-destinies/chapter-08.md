@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Kindred Spirits"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-08.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-08.html"
 ---
 
 THE morning sunlight shining in at a badly curtained window; a clumsy wooden bed, with big twisted posts that reached to the ceiling; on one side of the bed, my mother's welcome face; on the other side, an elderly gentleman unremembered by me at that moment--such were the objects that presented themselves to my view, when I first consciously returned to the world that we live in.

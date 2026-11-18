@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Costume"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-03.html"
+url: "/authors/tarkington-booth/penrod/chapter-03.html"
 ---
 
 After lunch his mother and his sister Margaret, a pretty girl of nineteen, dressed him for the sacrifice. They stood him near his mother's bedroom window and did what they would to him.

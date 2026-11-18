@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 15
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-07.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-07.html"
 ---
 
 An elegant carriage stood in the middle of the road with a pair of spirited grey horses; there was no one in it, and the coachman had got off his box and stood by; the horses were being held by the bridle. . . . A mass of people had gathered round, the police standing in front. One of them held a lighted lantern which he was turning on something lying close to the wheels. Everyone was talking, shouting, exclaiming; the coachman seemed at a loss and kept repeating:

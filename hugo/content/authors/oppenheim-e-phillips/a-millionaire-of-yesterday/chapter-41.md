@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-41.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-41.html"
 ---
 
 He looked at him calmly, but in her set, white face he seemed to read already his sentence!

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 100 - Leg and Arm"
 weight: 100
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-100.html"
+url: "/authors/melville-herman/moby-dick/chapter-100.html"
 ---
 
 The Pequod of Nantucket, Meets the Samuel Enderby, of London

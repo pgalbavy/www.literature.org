@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - In The Mountains"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-17.html"
 ---
 
 *MUL-TAL-LA,* the Blackfoot, performed some mental calculations that would have been creditable to Deerfoot, the Shawanoe.

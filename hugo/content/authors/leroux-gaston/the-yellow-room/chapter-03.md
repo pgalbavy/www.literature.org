@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - \"A Man Has Passed Like A Shadow Through The Blinds\""
 weight: 3
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-03.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-03.html"
 ---
 
 Half an hour later Rouletabille and I were on the platform of the Orleans station, awaiting the departure of the train which was to take us to Epinay-sur-Orge.

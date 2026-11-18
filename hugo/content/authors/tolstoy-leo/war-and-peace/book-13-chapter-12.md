@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 12"
 weight: 291
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-12.html"
 ---
 
 Four weeks had passed since Pierre had been taken prisoner and though the French had offered to move him from the men's to the officers' shed, he had stayed in the shed where he was first put.

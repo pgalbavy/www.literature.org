@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Soubrette And Mistress"
 weight: 34
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-33.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-33.html"
 ---
 
 Meantime, as we have said, despite the cries of his conscience and the wise counsels of Athos, D'Artagnan became hourly more in love with Milady. Thus he never failed to pay his diurnal court to her; and the self-satisfied Gascon was convinced that sooner or later she could not fail to respond.

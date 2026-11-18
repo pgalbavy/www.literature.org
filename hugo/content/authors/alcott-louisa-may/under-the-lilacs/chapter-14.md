@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Somebody Gets Lost"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-14.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-14.html"
 ---
 
 Putting all care behind them, the young folks ran down the hill, with a very lively dog gambolling beside them, and took a delightfully tantalizing survey of the external charms of the big tent. But people were beginning to go in, and it was impossible to delay when they came round to the entrance.

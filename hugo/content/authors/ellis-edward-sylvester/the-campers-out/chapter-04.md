@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Runaways"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-04.html"
 ---
 
 That fate which had seemed to favor the three audacious youngsters did not desert them when the critical point in their enterprise arrived.

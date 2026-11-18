@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-28.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-28.html"
 ---
 
 Siegmund's lying late in bed made Beatrice very angry. The later it became, the more wrathful she grew. At half past nine she had taken up his shaving-water. Then she proceeded to tidy the dining-room, leaving the breakfast spread in the kitchen.

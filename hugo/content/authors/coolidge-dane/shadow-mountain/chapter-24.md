@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Double Trouble"
 weight: 24
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-24.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-24.html"
 ---
 
 The next two weeks of Wiley Holman's life were packed so full of trouble that there were those who almost pitied him, though the word had been passed around to lay off. It was Samuel J. Blount who was making the trouble, and who notified the rest to keep out, and so great was his influence in all the desert country that no one dared to interfere. What he did was all legal and according to business ethics, but it gloved the iron hand. Blount was reaching for the mine and he intended to get it, if he had to crush his man. The attachments and suits were but the shadow boxing of the bout; the rough stuff was held in reserve. And somehow Wiley sensed this, for he sat tight at the mine and hired a lawyer to meet the suits. His job was mining ore and he shoveled it out by the ton.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Kar Komak, The Bowman"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-10.html"
 ---
 
 As Carthoris moved through the forest toward the distant cliffs with Thuvia's hand still tight pressed in his, he wondered a little at the girl's continued silence, yet the contact of her cool palm against his was so pleasant that he feared to break the spell of her new-found reliance in him by speaking.

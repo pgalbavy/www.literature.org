@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Yes--To Lisbeth"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-16.html"
 ---
 
 Georgie stood still, and looked after her. She blushed more deeply than ever. A queer distress and discomfort came upon her, and filled her mind. She had only wondered, before, if it was possible that Lisbeth did not know, did not wholly understand; but now the truth revealed itself in an uncomfortable flash of recognition.

@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 13"
 weight: 203
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-13.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-13.html"
 ---
 
 On the seventeenth of August Rostov and Ilyin, accompanied by Lavrushka who had just returned from captivity and by an hussar orderly, left their quarters at Yankovo, ten miles from Bogucharovo, and went for a ride- to try a new horse Ilyin had bought and to find out whether there was any hay to be had in the villages.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-09.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-09.html"
 ---
 
 THE youth fell back in the procession until the tattered soldier was not in sight. Then he started to walk on with the others.

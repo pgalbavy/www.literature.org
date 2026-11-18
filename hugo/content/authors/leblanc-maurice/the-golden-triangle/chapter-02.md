@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Right Hand And Left Leg"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-02.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-02.html"
 ---
 
 "One rogue less in the world, Little Mother Coralie!" cried Patrice Belval, after he had led the girl back to the drawing-room and made a rapid investigation with Ya-Bon. "Remember his name--I found it engraved on his watch--Mustapha Rovalaïof, the name of a rogue!"

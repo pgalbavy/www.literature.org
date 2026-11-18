@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Red Peril"
 weight: 2
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-02.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-02.html"
 ---
 
 Five minutes of plunging and slipping brought him down to the main road that gleamed a dim gray in the blackness. A quarter of a mile east lay the wharfs, the general store, and some of the best dwellings in Freekirk Head.

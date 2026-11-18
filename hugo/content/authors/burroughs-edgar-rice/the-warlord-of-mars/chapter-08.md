@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Through the Carrion Caves"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-08.html"
 ---
 
 Straight toward the north, day and night, our destination compass led us after the fleeing flier upon which it had remained set since I first attuned it after leaving the thern fortress.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-03.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-03.html"
 ---
 
 The opportunity and the temptation were too much for Willems, and under the pressure of sudden necessity he abused that trust which was his pride, the perpetual sign of his cleverness and a load too heavy for him to carry. A run of bad luck at cards, the failure of a small speculation undertaken on his own account, an unexpected demand for money from one or another member of the Da Souza family—and almost before he was well aware of it he was off the path of his peculiar honesty. It was such a faint and ill-defined track that it took him some time to find out how far he had strayed amongst the brambles of the dangerous wilderness he had been skirting for so many years, without any other guide than his own convenience and that doctrine of success which he had found for himself in the book of life—in those interesting chapters that the Devil has been permitted to write in it, to test the sharpness of men’s eyesight and the steadfastness of their hearts. For one short, dark and solitary moment he was dismayed, but he had that courage that will not scale heights, yet will wade bravely through the mud—if there be no other road. He applied himself to the task of restitution, and devoted himself to the duty of not being found out. On his thirtieth birthday he had almost accomplished the task—and the duty had been faithfully and cleverly performed. He saw himself safe. Again he could look hopefully towards the goal of his legitimate ambition. Nobody would dare to suspect him, and in a few days there would be nothing to suspect. He was elated. He did not know that his prosperity had touched then its high-water mark, and that the tide was already on the turn.

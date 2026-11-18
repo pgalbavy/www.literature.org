@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Nestlings"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-01.html"
 ---
 
 Of course, there was a time, once, when Jolly Robin was just a nestling himself. With two brothers and one sister--all of them, like him, much spotted with black--he lived in a house in one of Farmer Green's apple trees.

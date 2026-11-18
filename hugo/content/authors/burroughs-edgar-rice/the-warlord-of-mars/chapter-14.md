@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Rewards"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-14.html"
 ---
 
 With the realization that Dejah Thoris was no longer within the throneroom came the belated recollection of the dark face that I had glimpsed peering from behind the draperies that backed the throne of Salensus Oll at the moment that I had first come so unexpectedly upon the strange scene being enacted within the chamber.

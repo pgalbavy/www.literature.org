@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Grand Cross Of The Crescent"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-02.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-02.html"
 ---
 
 Of some college students it has been said that, in order to pass their examinations, they will deceive and cheat their kind professors. This may or may not be true. One only can shudder and pass hurriedly on. But whatever others may have done, when young Peter Hallowell in his senior year came up for those final examinations which, should he pass them even by a nose, would gain him his degree, he did not cheat. He may have been too honest, too confident, too lazy, but Peter did not cheat. It was the professors who cheated.

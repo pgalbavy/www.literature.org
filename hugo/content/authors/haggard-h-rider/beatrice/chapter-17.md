@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Geoffrey Wins His Case"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-17.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-17.html"
 ---
 
 Before ten o’clock on the following morning, having already spent two hours over his brief, that he had now thoroughly mastered, Geoffrey was at his chambers, which he had some difficulty in reaching owing to the thick fog that still hung over London, and indeed all England.

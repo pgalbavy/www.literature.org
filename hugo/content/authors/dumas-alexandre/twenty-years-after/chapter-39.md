@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - How, Sometimes, The Unhappy Mistake Chance For Providence"
 weight: 39
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-39.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-39.html"
 ---
 
 "Well, madame," said De Winter, when the queen had dismissed her attendants.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-18.html"
 ---
 
 Captures Made After the Signing of the Treaty of Peace —The Privateers—Exploit of the *General Armstrong* —Its Far-Reaching Result.

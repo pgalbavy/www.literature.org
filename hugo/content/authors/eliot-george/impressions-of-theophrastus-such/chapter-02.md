@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Looking Backward"
 weight: 2
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-02.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-02.html"
 ---
 
 Most of us who have had decent parents would shrink from wishing that our father and mother had been somebody else whom we never knew; yet it is held no impiety, rather, a graceful mark of instruction, for a man to wail that he was not the son of another age and another nation, of which also he knows nothing except through the easy process of an imperfect imagination and a flattering fancy.

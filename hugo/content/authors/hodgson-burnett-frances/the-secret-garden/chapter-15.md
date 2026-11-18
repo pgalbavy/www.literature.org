@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Nest Building"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-15.html"
 ---
 
 After another week of rain the high arch of blue sky appeared again and the sun which poured down was quite hot. Though there had been no chance to see either the secret garden or Dickon, Mistress Mary had enjoyed herself very much. The week had not seemed long. She had spent hours of every day with Colin in his room, talking about Rajahs or gardens or Dickon and the cottage on the moor. They had looked at the splendid books and pictures and sometimes Mary had read things to Colin, and sometimes he had read a little to her. When he was amused and interested she thought he scarcely looked like an invalid at all, except that his face was so colorless and he was always on the sofa.

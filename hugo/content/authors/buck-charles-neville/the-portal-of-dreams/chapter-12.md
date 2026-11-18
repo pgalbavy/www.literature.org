@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Port And Starboard Lights"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-12.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-12.html"
 ---
 
 There are men whose lives develop in gradations of gentle growth. Decade merges into decade by unstartling evolution. Variations of thread and color run smoothly into the life-pattern. With me it has been otherwise. The constantly recurring dream of the portal in the cliff was in a fashion symbolical of my life. The dreamed-of rescue never came by degrees, but by the abrupt opening of a door where there had been no door before and by the sudden changing of worlds in a step across the threshold. For me epoch had followed epoch with sudden breaks and few connecting threads. One day I was a bored tourist lounging under the striped awnings of Shepheard's Hotel. The next day found me on a disreputable ocean tramp bound for the Ultima Thule. That voyage had ended as suddenly as it began--with a quick curtain of unconsciousness on a tableau of violence. Mansfield, too, dropped out of my life with more instant suddenness that he had entered it. Now, presto! with the sudden trickeries of a mountebank the sprite who played with my destinies ushered in another unprefaced era. Across an invisible line I stepped into days of luxury and prosperity.

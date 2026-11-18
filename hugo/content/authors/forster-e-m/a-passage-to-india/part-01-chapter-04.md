@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-04.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-04.html"
 ---
 
 The Collector kept his word. Next day he issued invitation cards to numerous Indian gentlemen in the neighbourhood, stating that he would be at home in the garden of the club between the hours of five and seven on the following Tuesday, also that Mrs. Turton would be glad to receive any ladies of their families who were out of purdah. His action caused much excitement and was discussed in several worlds.

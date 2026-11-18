@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Shadow Of Death"
 weight: 7
-aliases:
-  - "/authors/greene-homer/the-blind-brother/chapter-07.html"
+url: "/authors/greene-homer/the-blind-brother/chapter-07.html"
 ---
 
 “Why, lads!” exclaimed Rennie; “lads!” Then, flashing the light of his lamp into the boys’ faces, “What, Tom, is it you? you and the blind brither? Ah! but it’s main bad for ye, bairnies, main bad--an’ warse yet for the poor mither at hame.”

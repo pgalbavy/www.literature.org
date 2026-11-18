@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-10.html"
+url: "/authors/greene-homer/the-flag/chapter-10.html"
 ---
 
 It was three days later that Pen came home one evening, alert of step, bright-eyed, his countenance beaming with satisfaction and delight.

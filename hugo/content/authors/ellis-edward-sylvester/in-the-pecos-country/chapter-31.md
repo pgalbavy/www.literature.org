@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - An Exchange Of Shots"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-31.html"
 ---
 
 Mickey proposed to act upon his own suggestion, which was to go to sleep as soon as the day ended and discuss the many different plans during his slumbers. He had a strong hope that the right one could be hit upon by this method. Somehow or other, his thoughts were fixed upon the stream, where it disappeared under the rocks, and, leaving Fred by the camp-fire, he relit his torch and went off to make another survey.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-25.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-25.html"
 ---
 
 It was at eleven in the morning that the pale youth-god put collar and chain on Michael, led him out of the segregation ward, and turned him over to a dark youth-god who wasted no time of greeting on him and manifested no friendliness. A captive at the end of a chain, on the way Michael quickly encountered other captives going in his direction. There were three of them, and never had he seen the like. Three slouching, ambling monsters of bears they were, and at sight of them Michael bristled and uttered the lowest of growls; for he knew them, out of his heredity (as a domestic cow knows her first wolf), as immemorial enemies from the wild. But he had travelled too far, seen too much, and was altogether too sensible, to attack them. Instead, walking stiff-legged and circumspectly, but smelling with all his nose the strange scent of the creatures, he followed at the end of his chain his own captor god.

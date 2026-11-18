@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Forging Bonds of Hate and ----?"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-02.html"
 ---
 
 It was not until late the following afternoon that Tarzan saw anything more of the fellow passengers into the midst of whose affairs his love of fair play had thrust him. And then he came most unexpectedly upon Rokoff and Paulvitch at a moment when of all others the two might least appreciate his company.

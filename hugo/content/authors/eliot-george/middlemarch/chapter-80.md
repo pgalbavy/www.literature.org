@@ -1,8 +1,7 @@
 ---
 title: "Chapter 80"
 weight: 80
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-80.html"
+url: "/authors/eliot-george/middlemarch/chapter-80.html"
 ---
 
 "Stern lawgiver! yet thou dost wear The Godhead's most benignant grace; Nor know we anything so fair As is the smile upon thy face; Flowers laugh before thee on their beds, And fragrance in thy footing treads; Thou dost preserve the Stars from wrong; And the most ancient Heavens, through thee, are fresh and strong. - WORDSWORTH: Ode to Duty.

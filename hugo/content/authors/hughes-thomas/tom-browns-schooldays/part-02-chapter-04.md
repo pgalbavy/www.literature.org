@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - The Bird-Fanciers"
 weight: 13
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-04.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-04.html"
 ---
 
 "I have found out a gift for my fair—  

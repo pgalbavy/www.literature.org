@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 18"
 weight: 238
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-18.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-18.html"
 ---
 
 Durring the whole of that day, in the extremely different conversations in which he took part, only as it were with the top layer of his mind, in spite of the disappointment of not finding the change he expected in himself, Levin had been all the while joyfully conscious of the fulness of his heart.

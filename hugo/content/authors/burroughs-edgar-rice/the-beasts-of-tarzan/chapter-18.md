@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Paulvitch Plots Revenge"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-18.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-18.html"
 ---
 
 As Jane and Tarzan stood upon the vessel's deck recounting to one another the details of the various adventures through which each had passed since they had parted in their London home, there glared at them from beneath scowling brows a hidden watcher upon the shore.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Exciting Game"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-08.html"
 ---
 
 Loristan referred only once during the next day to what had happened.

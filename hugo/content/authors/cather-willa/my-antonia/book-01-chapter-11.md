@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 11"
 weight: 12
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-11.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-11.html"
 ---
 
 DURING THE WEEK before Christmas, Jake was the most important person of our household, for he was to go to town and do all our Christmas shopping. But on the twenty-first of December, the snow began to fall. The flakes came down so thickly that from the sitting-room windows I could not see beyond the windmill--its frame looked dim and grey, unsubstantial like a shadow. The snow did not stop falling all day, or during the night that followed. The cold was not severe, but the storm was quiet and resistless. The men could not go farther than the barns and corral. They sat about the house most of the day as if it were Sunday; greasing their boots, mending their suspenders, plaiting whiplashes.

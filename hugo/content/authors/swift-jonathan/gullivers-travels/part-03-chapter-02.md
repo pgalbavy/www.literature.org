@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 19
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-02.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-02.html"
 ---
 
 The humours and dispositions of the Laputians described. An account of their learning. Of the king and his court. The author’s reception there. The inhabitants subject to fear and disquietudes. An account of the women.

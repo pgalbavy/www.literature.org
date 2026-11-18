@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Herd Of Musk Oxen"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-20.html"
 ---
 
 One of the most interesting animals found in the frozen regions of the North is the musk ox, his favorite haunt being on the mainland of the Continent in the neighborhood of the Arctic circle, though he is occasionally met in Greenland.

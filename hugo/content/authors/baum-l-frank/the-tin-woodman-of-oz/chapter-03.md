@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-03.html"
 ---
 
 Woot the Wanderer slept that night in the tin castle of the Emperor of the Winkies and found his tin bed quite comfortable. Early the next morning he rose and took a walk through the gardens, where there were tin fountains and beds of curious tin flowers, and where tin birds perched upon the branches of tin trees and sang songs that sounded like the notes of tin whistles. All these wonders had been made by the clever Winkie tinsmiths, who wound the birds up every morning so that they would move about and sing.

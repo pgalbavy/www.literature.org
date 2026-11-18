@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-07.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-07.html"
 ---
 
 To Berkley the times were surcharged with agreeable agitation. A hullabaloo diverted him. He himself was never noisy; but agitated and noisy people always amused him.

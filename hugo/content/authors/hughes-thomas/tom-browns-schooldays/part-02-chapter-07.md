@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - Harry East's Dilemmas And Deliverances"
 weight: 16
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-07.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-07.html"
 ---
 
 "The Holy Supper is kept indeed,  

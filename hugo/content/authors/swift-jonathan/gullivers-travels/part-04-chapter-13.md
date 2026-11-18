@@ -1,8 +1,7 @@
 ---
 title: "part 04 chapter 13"
 weight: 999
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-13.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-13.html"
 ---
 
 The author’s veracity. His design in publishing this work. His censure of those travellers who swerve from the truth. The author clears himself from any sinister ends in writing. An objection answered. The method of planting colonies. His native country commended. The right of the crown to those countries described by the author is justified. The difficulty of conquering them. The author takes his last leave of the reader; proposes his manner of living for the future; gives good advice, and concludes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-05.html"
+url: "/authors/london-jack/john-barleycorn/chapter-05.html"
 ---
 
 This physical loathing for alcohol I have never got over. But I have conquered it. To this day I conquer it every time I take a drink. The palate never ceases to rebel, and the palate can be trusted to know what is good for the body. But men do not drink for the effect alcohol produces on the body. What they drink for is the brain-effect; and if it must come through the body, so much the worse for the body.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Mr. Rook"
 weight: 24
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-24.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-24.html"
 ---
 
 Emily's first day in the City library proved to be a day wasted.

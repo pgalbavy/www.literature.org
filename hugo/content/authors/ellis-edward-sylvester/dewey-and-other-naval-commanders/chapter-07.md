@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-07.html"
 ---
 
 Our Naval War with France —The Tribute Paid to the Barbary States by Christian Nations —War Declared Against the United States by Tripoli —Bainbridge, Decatur, Stewart, Dale and Preble.

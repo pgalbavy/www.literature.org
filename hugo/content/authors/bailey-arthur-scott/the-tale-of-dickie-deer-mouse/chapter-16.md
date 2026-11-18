@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Lucky Find"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-16.html"
 ---
 
 Though Dickie Deer Mouse was shy, he couldn't have been a coward. For when he had reached the end of that first pitch that led into the old burrow of Billy Woodchuck's uncle and aunt he never once thought of turning back. Before him stretched a dark, dry, level tunnel. And through it Dickie quickly made his way.

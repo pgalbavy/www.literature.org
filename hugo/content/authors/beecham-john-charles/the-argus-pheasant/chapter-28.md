@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Attack On The Fort"
 weight: 29
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-28.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-28.html"
 ---
 
 When Peter Gross failed to return by noon that day Captain Carver, becoming alarmed, began making inquiries. Hughes supplied the first clue.

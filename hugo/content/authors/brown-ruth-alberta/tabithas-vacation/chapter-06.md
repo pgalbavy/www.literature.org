@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Gloriana's Burglars"
 weight: 6
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-06.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-06.html"
 ---
 
 There was a glorious moon that night, and as the girls were washing the supper dishes, Tabitha proposed, "Let's go up to the peak when we are through here and watch the moon rise."

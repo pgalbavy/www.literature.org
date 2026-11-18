@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Cleopatra"
 weight: 19
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-19.html"
+url: "/authors/bronte-charlotte/villette/chapter-19.html"
 ---
 
 My stay at La Terrasse was prolonged a fortnight beyond the close of the vacation. Mrs. Bretton's kind management procured me this respite. Her son having one day delivered the dictum that "Lucy was not yet strong enough to go back to that den of a pensionnat," she at once drove over to the Rue Fossette, had an interview with the directress, and procured the indulgence, on the plea of prolonged rest and change being necessary to perfect recovery. Hereupon, however, followed an attention I could very well have dispensed with, viz - a polite call from Madame Beck.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-03.html"
 ---
 
 Cedric's good opinion of the advantages of being an earl increased greatly during the next week. It seemed almost impossible for him to realize that there was scarcely anything he might wish to do which he could not do easily; in fact, I think it may be said that he did not fully realize it at all. But at least he understood, after a few conversations with Mr. Havisham, that he could gratify all his nearest wishes, and he proceeded to gratify them with a simplicity and delight which caused Mr. Havisham much diversion. In the week before they sailed for England he did many curious things. The lawyer long after remembered the morning they went down-town together to pay a visit to Dick, and the afternoon they so amazed the apple-woman of ancient lineage by stopping before her stall and telling her she was to have a tent, and a stove, and a shawl, and a sum of money which seemed to her quite wonderful.

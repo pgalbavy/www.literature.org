@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Fight In The Village"
 weight: 5
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-05.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-05.html"
 ---
 
 Here was a horrible position! Four English children, whose proper date was A.D. 1905, and whose proper address was London, set down in Egypt in the year 6000 B.C. with no means whatever of getting back into their own time and place. They could not find the East, and the sun was of no use at the moment, because some officious person had once explained to Cyril that the sun did not really set in the West at all - nor rise in the East either, for the matter of that.

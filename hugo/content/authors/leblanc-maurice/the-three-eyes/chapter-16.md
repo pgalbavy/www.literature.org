@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Where Lips Unite"
 weight: 16
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-16.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-16.html"
 ---
 
 We have but to read the newspapers of the period, to realize that the excitement caused by the Meudon pictures reached its culminating point as the result of Benjamin Prévotelle's essay. I have four of those newspapers, dated the following day, on my table as I write. Not one of them contains throughout its eight pages a single line that does not refer to what at once became known as the Splendid Theory.

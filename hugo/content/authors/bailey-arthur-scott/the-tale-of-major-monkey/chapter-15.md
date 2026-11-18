@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Retreat"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-15.html"
 ---
 
 Major Monkey quite enjoyed the amazement of the picnickers. And he did two very odd things, for the commander of an army: first he took off his red cap and made a low bow to Johnnie Green and his mates; and next he swung off the limb of the tree and hung by his tail and one hand.

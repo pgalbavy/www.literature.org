@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 4"
 weight: 43
-aliases:
-  - "/authors/cather-willa/my-antonia/book-04-chapter-04.html"
+url: "/authors/cather-willa/my-antonia/book-04-chapter-04.html"
 ---
 
 THE NEXT AFTERNOON I walked over to the Shimerdas’. Yulka showed me the baby and told me that Antonia was shocking wheat on the southwest quarter. I went down across the fields, and Tony saw me from a long way off. She stood still by her shocks, leaning on her pitchfork, watching me as I came. We met like the people in the old song, in silence, if not in tears. Her warm hand clasped mine.

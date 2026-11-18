@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/typhoon/chapter-04.html"
+url: "/authors/conrad-joseph/typhoon/chapter-04.html"
 ---
 
 All that the boatswain, out of a superabundance of yells, could make clear to Captain MacWhirr was the bizarre intelligence that "All them Chinamen in the fore 'tween deck have fetched away, sir."

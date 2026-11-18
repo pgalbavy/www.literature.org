@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-28.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-28.html"
 ---
 
 Nothing occurred during the next three or four days, to make Elinor regret what she had done, in applying to her mother; for Willoughby neither came nor wrote. They were engaged about the end of that time to attend Lady Middleton to a party, from which Mrs. Jennings was kept away by the indisposition of her youngest daughter; and for this party, Marianne, wholly dispirited, careless of her appearance, and seeming equally indifferent whether she went or staid, prepared, without one look of hope or one expression of pleasure. She sat by the drawing-room fire after tea, till the moment of Lady Middleton's arrival, without once stirring from her seat, or altering her attitude, lost in her own thoughts, and insensible of her sister's presence; and when at last they were told that Lady Middleton waited for them at the door, she started as if she had forgotten that any one was expected.

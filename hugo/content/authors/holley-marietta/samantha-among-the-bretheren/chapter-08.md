@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-08.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-08.html"
 ---
 
 For two weeks had passed away like a nite mair of the nite - and three weeks, and four weeks - and she didn't seem to be no nigher goin' than she did when she came.

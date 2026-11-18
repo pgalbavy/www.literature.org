@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Reinforcements"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-20.html"
 ---
 
 *HERBERT WATROUS* was dumbfounded. He had stolen up the ravine and spent some time in studying the campfire and the two strangers, and now, on his return to where his pony had been tied, the animal was gone. While he was acting the spy, the same trick had been successfully played on him.

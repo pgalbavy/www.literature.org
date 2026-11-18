@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 5"
 weight: 47
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-05.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-05.html"
 ---
 
 "I have been thinking it over again, Elizabeth," said her uncle, as they drove from the town; "and really, upon serious consideration, I am much more inclined than I was to judge as your eldest sister does of the matter. It appears to me so very unlikely, that any young man should form such a design against a girl who is by no means unprotected or friendless, and who was actually staying in his colonel's family, that I am strongly inclined to hope the best. Could he expect that her friends would not step forward? Could he expect to be noticed again by the regiment, after such an affront to Colonel Forster? His temptation is not adequate to the risk."

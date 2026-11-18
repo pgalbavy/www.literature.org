@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - My Mother's Diary"
 weight: 17
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-16.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-16.html"
 ---
 
 THERE is something repellent to me, even at this distance of time, in looking back at the dreary days, of seclusion which followed each other monotonously in my Highland home. The actions of my life, however trifling they may have been, I can find some interest in recalling: they associate me with my fellow-creatures; they connect me, in some degree, with the vigorous movement of the world. But I have no sympathy with the purely selfish pleasure which some men appear to derive from dwelling on the minute anatomy of their own feelings, under the pr essure of adverse fortune. Let the domestic record of our stagnant life in Perthshire (so far as I am concerned in it) be presented in my mother's words, not in mine. A few lines of extract from the daily journal which it was her habit to keep will tell all that need be told before this narrative advances to later dates and to newer scenes.

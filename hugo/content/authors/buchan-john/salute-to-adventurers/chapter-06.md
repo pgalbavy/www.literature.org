@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Tells Of My Education"
 weight: 7
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-06.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-06.html"
 ---
 
 I had not been a week in the place before I saw one thing very clear-that I should never get on with Mr. Lambie. His notion of business was to walk down the street in a fine coat, and to sleep with a kerchief over his face in some shady veranda. There was no vice in the creature, but there was mighty little sense. He lived in awe of the great and rich, and a nod from a big planter would make him happy for a week. He used to deafen me with tales of Colonel Randolph, and worshipful Mr. Carew, and Colonel Byrd's new house at Westover, and the rare fashion in cravats that young Mr. Mason showed at the last Surrey horse-racing. Now when a Scot chooses to be a sycophant, he is more whole-hearted in the job than any one else on the globe, and I grew very weary of Mr. Lambie. He was no better than an old wife, and as timid as a hare forbye. When I spoke of fighting the English merchants, he held up his hands as if I had uttered blasphemy. So, being determined to find out for myself the truth about this wonderful new land, I left him the business in the town, bought two good horses, hired a servant, by name John Faulkner, who had worked out his time as a redemptioner, and set out on my travels.

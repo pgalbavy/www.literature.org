@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Episode of the Barrel"
 weight: 7
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-07.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-07.html"
 ---
 
 The police had brought a cab with them, and in this I escorted Miss Morstan back to her home. After the angelic fashion of women, she had borne trouble with a calm face as long as there was someone weaker than herself to support, and I had found her bright and placid by the side of the frightened housekeeper. ln the cab, however, she first turned faint and then burst into a passion of weeping -- so sorely had she been tried by the adven- tures of the night. She has told me since that she thought me cold and distant upon that journey. She little guessed the struggle within my breast, or the effort of self-restraint which held me back. My sympathies and my love went out to her, even as my hand had in the garden. I felt that years of the conventionalities of life could not teach me to know her sweet, brave nature as had this one day of strange experiences. Yet there were two thoughts which sealed the words of affection upon my lips. She was weak and helpless, shaken in mind and nerve. It was to take her at a disadvantage to obtrude love upon her at such a time. Worse still, she was rich. If Holmes's researches were successful, she would be an heiress. Was it fair, was it honourable, that a half-pay surgeon should take such advantage of an intimacy which chance had brought about? Might she not look upon me as a mere vulgar fortune-seeker? I could not bear to risk that such a thought should cross her mind. This Agra treasure intervened like an impassable barrier between us.

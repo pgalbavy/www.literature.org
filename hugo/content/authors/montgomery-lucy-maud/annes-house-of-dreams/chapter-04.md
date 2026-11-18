@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The First Bride Of Green Gables"
 weight: 4
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-04.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-04.html"
 ---
 
 Anne wakened on the morning of her wedding day to find the sunshine winking in at the window of the little porch gable and a September breeze frolicking with her curtains.

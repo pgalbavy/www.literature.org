@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Open “Davy”"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-14.html"
 ---
 
 Mester Derik

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Here!"
 weight: 27
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-27.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-27.html"
 ---
 
 She and Teresa visited one another along the lake. There was a kinship and a gentleness between them, especially now Kate was going away for a while.

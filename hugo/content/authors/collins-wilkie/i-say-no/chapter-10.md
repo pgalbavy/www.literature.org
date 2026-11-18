@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Guesses At The Truth"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-10.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-10.html"
 ---
 
 "What are we to do next? Oh, Mr. Morris, you must have seen all sorts of people in your time--you know human nature, and I don't. Help me with a word of advice!"

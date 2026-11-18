@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-25.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-25.html"
 ---
 
 Though the times had turned to war, all nature that morning was at peace, and they rode through a valley of flowers like knight and lady in a pageant. The rich grass rose knee-deep along the hillsides, the desert trees were filigreed with the tenderest green and twined with morning-glories, and in open glades the poppies and sand-verbenas spread forth masses of blue and gold.

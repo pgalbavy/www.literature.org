@@ -1,8 +1,7 @@
 ---
 title: "chapter 36"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-36.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-36.html"
 ---
 
 When things go wrong in spite of you To smile's the best thing you can do- To smile and say, "I'm mighty glad They are no worse; they're not so bad!"

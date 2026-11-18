@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9 - Finis"
 weight: 18
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-09.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-02-chapter-09.html"
 ---
 
 "Strange friend, past, present, and to be;  

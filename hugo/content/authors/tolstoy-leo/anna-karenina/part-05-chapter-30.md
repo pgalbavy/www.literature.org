@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 30"
 weight: 154
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-30.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-30.html"
 ---
 
 Meanwhile Vassily Lukitch had not at first understood who this lady was, and had learned from their conversation that it was no other person than the mother who had left her husband, and whom he had not seen, as he had entered the house after her departure. He was in doubt whether to go in or not, or whether to communicate with Alexey Alexandrovitch. Reflecting finally that his duty was to get Seryozha up at the hour fixed, and that it was therefore not his business to consider who was there, the mother or any one else, but simply to do his duty, he finished dressing, went to the door and opened it.

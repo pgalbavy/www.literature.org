@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61"
 weight: 61
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-61.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-61.html"
 ---
 
 "Within the gentle heart Love shelters him, As birds within the green shade of the grove. Before the gentle heart, in Nature's scheme, Love was not, nor the gentle heart ere Love." - GUIDO GUNICELLI (Rossetti's Translation).

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7 - The Makers Of Empire"
 weight: 7
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-01-chapter-07.html"
+url: "/authors/buchan-john/the-half-hearted/part-01-chapter-07.html"
 ---
 
 The day before the events just recorded two men had entered the door of a certain London club and made their way to a remote little smoking-room on the first floor. It was not a handsome building, nor had it any particular outlook or position. It was a small, old-fashioned place in a side street, in style obviously of last century, and the fittings within were far from magnificent. Yet no club carried more distinction in its membership. Its hundred possible inmates were the cream of the higher professions, the chef and the cellar were things to wonder at, and the man who could write himself a member of the Rota Club had obtained one of the rare social honours which men confer on one another. Thither came all manner of people—the distinguished foreigner travelling incognito, and eager to talk with some Minister unofficially on matters of import, the diplomat on a secret errand, the traveller home for a brief season, the soldier, the thinker, the lawyer. It was a catholic assembly, but exclusive—very. Each man bore the stamp of competence on his face, and there was no cheap talk of the "well-informed" variety. When the members spoke seriously they spoke like experts; otherwise they were apt to joke very much like schoolboys let loose. The Right Hon. Mr. *M⸺* was not above twitting Lord *S⸺* with gunroom stories, and suffering in turn good-natured libel.

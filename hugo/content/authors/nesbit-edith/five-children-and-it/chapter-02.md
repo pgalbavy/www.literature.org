@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Golden Guineas"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-02.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-02.html"
 ---
 
 Anthea woke in the morning from a very real sort of dream, in which she was walking in the Zoological Gardens on a pouring wet day without any umbrella. The animals seemed desperately unhappy because of the rain, and were all growling gloomily. When she awoke, both the growling and the rain went on just the same. The growling was the heavy regular breathing of her sister Jane, who had a slight cold and was still asleep. The rain fell in slow drops on to Anthea's face from the wet corner of a bath-towel which her brother Robert was gently squeezing the water out of, to wake her up, as he now explained.

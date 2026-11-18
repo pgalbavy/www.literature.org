@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-11.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-11.html"
 ---
 
 One question remained yet to be decided; it was necessary to choose a favorable spot for the experiment. According to the advice of the Observatory of Cambridge, the gun must be fired perpendicularly to the plane of the horizon, that is to say, toward the zenith. Now the moon does not traverse the zenith, except in places situated between 0@ and 28@ of latitude. It became, then, necessary to determine exactly that spot on the globe where the immense Columbiad should be cast.

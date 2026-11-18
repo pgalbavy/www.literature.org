@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Camelot"
 weight: 2
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-01.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-01.html"
 ---
 
 "CAMELOT -- Camelot," said I to myself. "I don't seem to remember hearing of it before. Name of the asylum, likely."

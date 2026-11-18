@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Sharp Eyes Meets Don"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-05.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-05.html"
 ---
 
 After the first pain felt on being caught, and when he found he could not pull his paw loose, Sharp Eyes lay quietly on the ground, partly covering up the chicken. He did not howl, which was his way of crying when he was hurt, though he wanted to do so very much. But foxes and other wild animals do not make much noise in the woods, for they like to keep quiet so no larger animals, or hunter-men with their dogs, may know where to find them.

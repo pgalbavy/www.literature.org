@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Double Scent"
 weight: 23
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-23.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-23.html"
 ---
 
 I had hardly recovered from the surprise into which this new discovery had plunged me, when Rouletabille touched me on the shoulder and asked me to follow him into his room.

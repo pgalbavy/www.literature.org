@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Disasters Of Mrs. Van Brandt"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-12.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-12.html"
 ---
 
 A MAN who passes his evening as I had passed mine, may go to bed afterward if he has nothing better to do. But he must not rank among the number of his reasonable anticipations the expectation of getting a night's rest. The morning was well advanced, and the hotel was astir, before I at last closed my eyes in slumber. When I awoke, my watch informed me that it was close on noon.

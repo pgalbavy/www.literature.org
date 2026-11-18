@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Little Em’ly"
 weight: 22
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-21.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-21.html"
 ---
 
 There was a servant in that house, a man who, I understood, was usually with Steerforth, and had come into his service at the University, who was in appearance a pattern of respectability. I believe there never existed in his station a more respectable-looking man. He was taciturn, soft-footed, very quiet in his manner, deferential, observant, always at hand when wanted, and never near when not wanted; but his great claim to consideration was his respectability. He had not a pliant face, he had rather a stiff neck, rather a tight smooth head with short hair clinging to it at the sides, a soft way of speaking, with a peculiar habit of whispering the letter S so distinctly, that he seemed to use it oftener than any other man; but every peculiarity that he had he made respectable. If his nose had been upside-down, he would have made that respectable. He surrounded himself with an atmosphere of respectability, and walked secure in it. It would have been next to impossible to suspect him of anything wrong, he was so thoroughly respectable. Nobody could have thought of putting him in a livery, he was so highly respectable. To have imposed any derogatory work upon him, would have been to inflict a wanton insult on the feelings of a most respectable man. And of this, I noticed--the women-servants in the household were so intuitively conscious, that they always did such work themselves, and generally while he read the paper by the pantry fire.

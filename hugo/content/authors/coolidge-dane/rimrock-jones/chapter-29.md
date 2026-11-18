@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Rimrock Does It Himself"
 weight: 29
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-29.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-29.html"
 ---
 
 "Now, let's talk reason," said Rimrock at last as he put away her hands. "Let's be reasonable--I don't know where I'm at. Say, where have I been and what have I been up to? Am I the same feller that blowed into town on the blind baggage, or is this all a part of the dream?"

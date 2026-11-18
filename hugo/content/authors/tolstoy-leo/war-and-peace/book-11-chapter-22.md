@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 22"
 weight: 251
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-22.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-22.html"
 ---
 
 Meanwhile, the city itself was deserted. There was hardly anyone in the streets. The gates and shops were all closed, only here and there round the taverns solitary shouts or drunken songs could be heard. Nobody drove through the streets and footsteps were rarely heard. The Povarskaya was quite still and deserted. The huge courtyard of the Rostovs' house was littered with wisps of hay and with dung from the horses, and not a soul was to be seen there. In the great drawing room of the house, which had been left with all it contained, were two people. They were the yard porter Ignat, and the page boy Mishka, Vasilich's grandson who had stayed in Moscow with his grandfather. Mishka had opened the clavichord and was strumming on it with one finger. The yard porter, his arms akimbo, stood smiling with satisfaction before the large mirror.

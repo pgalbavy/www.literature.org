@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51"
 weight: 51
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-51.html"
+url: "/authors/dickens-charles/great-expectations/chapter-51.html"
 ---
 
 WHAT purpose I had in view when I was hot on tracing out and proving Estella's parentage, I cannot say. It will presently be seen that the question was not before me in a distinct shape, until it was put before me by a wiser head than my own.

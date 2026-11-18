@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 15 - What Had Happened In Surrey"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-15.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-15.html"
 ---
 
 It was while the curate had sat and talked so wildly to me under the hedge in the flat meadows near Halliford, and while my brother was watching the fugitives stream over Westminster Bridge, that the Martians had resumed the of- fensive. So far as one can ascertain from the conflicting accounts that have been put forth, the majority of them remained busied with preparations in the Horsell pit until nine that night, hurrying on some operation that disengaged huge volumes of green smoke.

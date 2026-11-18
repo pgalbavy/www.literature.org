@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-11.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-11.html"
 ---
 
 Connie was sorting out one of the Wragby lumber rooms. There were several: the house was a warren, and the family never sold anything. Sir Geoffery's father had liked pictures and Sir Geoffery's mother had liked CINQUECENTO furniture. Sir Geoffery himself had liked old carved oak chests, vestry chests. So it went on through the generations. Clifford collected very modern pictures, at very moderate prices.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Maurice Levy's Constitution"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-14.html"
+url: "/authors/tarkington-booth/penrod/chapter-14.html"
 ---
 
 "Lo, Sam!" said Maurice cautiously. "What you doin'?"

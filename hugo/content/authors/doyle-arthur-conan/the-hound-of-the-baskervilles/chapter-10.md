@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Extract from the Diary of Dr. Watson"
 weight: 10
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-10.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-10.html"
 ---
 
 So far I have been able to quote from the reports which I have forwarded during these early days to Sherlock Holmes. Now, however, I have arrived at a point in my narrative where I am compelled to abandon this method and to trust once more to my recollections, aided by the diary which I kept at the time. A few extracts from the latter will carry me on to those scenes which are indelibly fixed in every detail upon my memory. I proceed, then, from the morning which followed our abortive chase of the convict and our other strange experiences upon the moor.

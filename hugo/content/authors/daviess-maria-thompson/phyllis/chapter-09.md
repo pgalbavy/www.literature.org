@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-09.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-09.html"
 ---
 
 Of course, I know that there are many strange things in life that seem to contradict each other and themselves in a very puzzling manner, but my disgrace has turned out in a way that nobody could have made me believe, if they had told it to me in dictionary words of six syllables. I am being befriended and honored by the whole of Byrdsville, and I don't know what to make of it. My mind refuses to explain it and my heart is just going on rejoicing over it, as I have not been able to think up any reason why it shouldn't.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - What Was Going On All This Time In The Mind Of One Of The Spectators"
 weight: 13
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-13.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-13.html"
 ---
 
 Whilst Cornelius was engaged with his own thoughts, a coach had driven up to the scaffold. This vehicle was for the prisoner. He was invited to enter it, and he obeyed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Holiday Plans"
 weight: 17
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-17.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-17.html"
 ---
 
 "Girls, girls!" cried Jessie Wayne, bursting unannounced into Bertha Peck's room where ten or twelve of her mates were feverishly at work on Christmas mysteries, anxious to have everything complete before the morrow saw them scattered in their many homes for their holiday vacation. "Just listen to this. Mamma is going to give me a party Christmas Eve, and there are a hundred invitations sent out. Isn't that gorgeous? The parties mamma gives are simply fine; almost everyone we invite comes. I wish we lived here in this city so I could have all of you. And New Years Day she is going to take six of us over to Pasadena in the auto to see the Tournament of the Roses and the chariot races. I have often been there, we go every year, but it is lots more fun with a crowd of people your own age. One day we are going up Mt. Lowe, and another day if it is warm enough she has promised to take us to one of the beaches for bathing, I just love the ocean. Isn't my vacation going to be dandy?"

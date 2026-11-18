@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-12.html"
 ---
 
 But the fly was still in the ointment. General Yozarro showed in innumerable ways that his passion swayed him more absolutely, if possible, than before. It appeared in the touch of his hand when assisting Miss Starland to mount or alight from her horse on which she rode with her friends through the picturesque country that surrounded the capital,—in the glance of his ardent black eyes, in the sigh which he pretended to try to keep from her, and in the many hints which he dropped of his lonely life since the death of his wife. The young woman could not touch upon these themes, lest he accept it as encouragement; so she contented herself with parrying them. She began to long for the time when she should turn her back upon Atlamalco forever.

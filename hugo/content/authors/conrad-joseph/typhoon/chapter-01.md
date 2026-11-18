@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/typhoon/chapter-01.html"
+url: "/authors/conrad-joseph/typhoon/chapter-01.html"
 ---
 
 Captain MacWhirr, of the steamer Nan-Shan, had a physiognomy that, in the order of material appearances, was the exact counterpart of his mind: it presented no marked characteristics of firmness or stupidity; it had no pronounced characteristics whatever; it was simply ordinary, irresponsive, and unruffled.

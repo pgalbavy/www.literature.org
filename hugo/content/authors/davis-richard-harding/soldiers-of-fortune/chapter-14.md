@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-14.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-14.html"
 ---
 
 An hour later Langham rose with a protesting sigh and shook the hood violently.

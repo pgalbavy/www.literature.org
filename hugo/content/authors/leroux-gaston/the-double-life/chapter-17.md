@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - They Decide To Kill"
 weight: 18
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-17.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-17.html"
 ---
 
 *MELIPHASTE* had been reasoning with Théophraste, and using all the arguments of spiritualists to persuade him to make an effort to rid himself of the spirit of Cartouche.

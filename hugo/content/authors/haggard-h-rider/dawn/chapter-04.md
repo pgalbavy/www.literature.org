@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-04.html"
+url: "/authors/haggard-h-rider/dawn/chapter-04.html"
 ---
 
 Philip went to college in due course, and George departed to learn his business as a lawyer in Roxham, but it will not be necessary for us to enter into the details of their respective careers during this period of their lives.

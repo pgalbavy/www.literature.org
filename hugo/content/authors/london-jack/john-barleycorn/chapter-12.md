@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-12.html"
+url: "/authors/london-jack/john-barleycorn/chapter-12.html"
 ---
 
 Nor have I ever regretted those months of mad devilry I put in with Nelson. He COULD sail, even if he did frighten every man that sailed with him. To steer to miss destruction by an inch or an instant was his joy. To do what everybody else did not dare attempt to do, was his pride. Never to reef down was his mania, and in all the time I spent with him, blow high or low, the Reindeer was never reefed. Nor was she ever dry. We strained her open and sailed her open and sailed her open continually. And we abandoned the Oakland water-front and went wider afield for our adventures.

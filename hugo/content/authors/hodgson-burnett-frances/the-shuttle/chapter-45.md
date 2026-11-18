@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - The Passing Bell"
 weight: 45
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-45.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-45.html"
 ---
 
 The following morning Sir Nigel did not appear at the breakfast table. He breakfasted in his own room, and it became known throughout the household that he had suddenly decided to go away, and his man was packing for the journey. What the journey or the reason for its being taken happened to be were things not explained to anyone but Lady Anstruthers, at the door of whose dressing room he appeared without warning, just as she was leaving it.

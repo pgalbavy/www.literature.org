@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Boastful Talk"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-16.html"
 ---
 
 "I SUPPOSE you've heard of my great adventure?" Daddy Longlegs began, as soon as he learned that Rusty Wren was alone--that is, alone except for his six growing children inside the house. "No doubt you know all about my daring deed?"

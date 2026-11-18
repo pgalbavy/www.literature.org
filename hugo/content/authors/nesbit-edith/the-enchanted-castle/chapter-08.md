@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/the-enchanted-castle/chapter-08.html"
+url: "/authors/nesbit-edith/the-enchanted-castle/chapter-08.html"
 ---
 
 IT was but too plain. The unfortunate bailiff must have opened the door before the spell had faded, while yet the Ugly-Wuglies were something more than mere coats and hats and sticks. They had rushed out upon him, and had done this. He lay there insensible—was it a golf-club or a hockey-stick that had made that horrible cut on his forehead? Gerald wondered. The girls had rushed to the sufferer; already his head was in Mabel's lap. Kathleen had tried to get it on to hers, but Mabel was too quick for her.

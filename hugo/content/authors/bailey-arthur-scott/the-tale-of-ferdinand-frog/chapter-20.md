@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Disturbing The Neighbors"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-20.html"
 ---
 
 It was no wonder that Long Bill Wren's wife did not care for Ferdinand Frog, after his blundering remark about her children.

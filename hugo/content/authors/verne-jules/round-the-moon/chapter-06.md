@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-06.html"
+url: "/authors/verne-jules/round-the-moon/chapter-06.html"
 ---
 
 On the 4th of December, when the travelers awoke after fifty-four hours' journey, the chronometer marked five o'clock of the terrestrial morning. In time it was just over five hours and forty minutes, half of that assigned to their sojourn in the projectile; but they had already accomplished nearly seven-tenths of the way. This peculiarity was due to their regularly decreasing speed.

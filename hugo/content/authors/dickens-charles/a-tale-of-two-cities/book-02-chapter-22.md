@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 22 - The Sea Still Rises"
 weight: 28
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-22.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-22.html"
 ---
 
 HAGGARD SAINT ANTOINE had had only one exultant week, in which to soften his modicum of hard and bitter bread to such extent as he could, with the relish of fraternal embraces and congratulations, when Madame Defarge sat at her counter, as usual, presiding over the customers. Madame Defarge wore no rose in her head, for the great brotherhood of Spies had become, even in one short week, extremely chary of trusting themselves to the saint's mercies. The lamps across his streets had a portentously elastic swing with them.

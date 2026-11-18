@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/eliot-george/the-lifted-veil/chapter-02.html"
+url: "/authors/eliot-george/the-lifted-veil/chapter-02.html"
 ---
 
 Before the autumn was at an end, and while the brown leaves still stood thick on the beeches in our park, my brother and Bertha were engaged to each other, and it was understood that their marriage was to take place early in the next spring. In spite of the certainty I had felt from that moment on the bridge at Prague, that Bertha would one day be my wife, my constitutional timidity and distrust had continued to benumb me, and the words in which I had sometimes premeditated a confession of my love, had died away unuttered. The same conflict had gone on within me as before - the longing for an assurance of love from Bertha's lips, the dread lest a word of contempt and denial should fall upon me like a corrosive acid. What was the conviction of a distant necessity to me? l trembled under a present glance, I hungered after a present joy, I was clogged and chilled by a present fear. And so the days passed on: I witnessed Bertha's engagement and heard her marriage discussed as if I were under a conscious nightmare - knowing it was a dream that would vanish, but feeling stifled under the grasp of hard-clutching fingers.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-08.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-08.html"
 ---
 
 Although Miss Quested had known Ronny well in England, she felt well advised to visit him before deciding to be his wife. India had developed sides of his character that she had never admired. His self-complacency, his censoriousness, his lack of subtlety, all grew vivid beneath a tropic sky; he seemed more indifferent than of old to what was passing in the minds of his fellows, more certain that he was right about them or that if he was wrong it didn’t matter. When proved wrong, he was particularly exasperating; he always managed to suggest that she needn’t have bothered to prove it. The point she made was never the relevant point, her arguments conclusive but barren, she was reminded that he had expert knowledge and she none, and that experience would not help her because she could not interpret it. A Public School, London University, a year at a crammer’s, a particular sequence of posts in a particular province, a fall from a horse and a touch of fever were presented to her as the only training by which Indians and all who reside in their country can be understood; the only training she could comprehend, that is to say, for of course above Ronny there stretched the higher realms of knowledge, inhabited by Callendars and Turtons, who had been not one year in the country but twenty and whose instincts were superhuman. For himself he made no extravagant claims; she wished he would. It was the qualified bray of the callow official, the “I am not perfect, but——” that got on her nerves.

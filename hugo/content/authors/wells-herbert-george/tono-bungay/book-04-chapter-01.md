@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 1 - The Stick Of The Rocket "
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-04-chapter-01.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-04-chapter-01.html"
 ---
 
 I That evening I talked with my uncle in the Hardingham for the last time. The atmosphere of the place had altered quite shockingly. Instead of the crowd of importunate courtiers there were just half a dozen uninviting men, journalists waiting for an interview. Ropper the big commissionaire was still there, but now indeed he was defending my uncle from something more than time-wasting intrusions. I found the little man alone in the inner office pretending to work, but really brooding. He was looking yellow and deflated.

@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 2"
 weight: 192
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-02.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-02.html"
 ---
 
 The day after his son had left, Prince Nicholas sent for Princess Mary to come to his study.

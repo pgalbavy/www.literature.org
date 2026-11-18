@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-02.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-02.html"
 ---
 
 It was not difficult to find Henry Kruger in Gadsden. The barkeepers, those efficient purveyors of information and drinks, knew him as they knew their thumbs, and a casual round of the saloons soon located him in the back room of the Waldorf.

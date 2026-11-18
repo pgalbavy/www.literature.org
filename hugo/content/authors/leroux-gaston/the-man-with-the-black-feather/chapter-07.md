@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Young Cartouche"
 weight: 8
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-07.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-07.html"
 ---
 
 On the morrow of this terrible discovery Theophrastus and Marceline sought once more the calm joys of Azure Waves Villa. Theophrastus had not said a word of the shocking business; and Marceline had not dared question him about it so that she was still ignorant of their dreadful misfortune. A blank consternation reigned perpetually on his gentle face; and every now and then tears filled his kind eyes.

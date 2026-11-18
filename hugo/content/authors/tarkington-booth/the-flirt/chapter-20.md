@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-20.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-20.html"
 ---
 
 Valentine Corliss, having breakfasted in bed at a late hour that morning, dozed again, roused himself, and, making a toilet, addressed to the image in his shaving-mirror a disgusted monosyllable.

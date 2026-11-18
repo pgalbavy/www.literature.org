@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Night Disturbance"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-29.html"
 ---
 
 Neither the Pah Utah nor the Irishman were disposed to make a move until they had finished their "smoke," and both of them whiffed as leisurely as though they had contracted to spend several hours thus. Howard and Elwood passed the time in walking around the woods and along the stream, taking particular care not to go beyond sight of Shasta, whose black orbs they could see attentively following their movements.

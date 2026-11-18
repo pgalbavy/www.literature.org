@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Tortures Begin"
 weight: 24
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-23.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-23.html"
 ---
 
 *THE PERSIAN'S NARRATIVE CONTINUED*.

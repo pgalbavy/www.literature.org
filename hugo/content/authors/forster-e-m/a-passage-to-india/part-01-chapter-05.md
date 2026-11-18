@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-05.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-05.html"
 ---
 
 The Bridge Party was not a success—at least it was not what Mrs. Moore and Miss Quested were accustomed to consider a successful party. They arrived early, since it was given in their honour, but most of the Indian guests had arrived even earlier, and stood massed at the farther side of the tennis lawns, doing nothing.

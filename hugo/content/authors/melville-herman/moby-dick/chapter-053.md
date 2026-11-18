@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - The Gam"
 weight: 53
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-053.html"
+url: "/authors/melville-herman/moby-dick/chapter-053.html"
 ---
 
 The ostensible reason why Ahab did not go on board of the whaler we had spoken was this: the wind and sea betokened storms. But even had this not been the case, he would not after all, perhaps, have boarded her--judging by his subsequent conduct on similar occasions--if so it had been that, by the process of hailing, he had obtained a negative answer to the question he put. For, as it eventually turned out, he cared not to consort, even for five minutes, with any stranger captain, except he could contribute some of that information he so absorbingly sought. But all this might remain inadequately estimated, were not something said here of the peculiar usages of whaling-vessels when meeting each other in foreign seas, and especially on a common cruising-ground.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-08.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-08.html"
 ---
 
 ON the day after Isabel's departure, diligent Mr. Troy set forth for the Head Office in Whitehall to consult the police on the question of the missing money. He had previously sent information of the robbery to the Bank of England, and had also advertised the loss in the daily newspapers.

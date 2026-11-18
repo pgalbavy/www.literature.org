@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Good Eye, The Maverick King"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-02.html"
+url: "/authors/coolidge-dane/the-texican/chapter-02.html"
 ---
 
 Angevine Thorne was still talking mean about his boss when the cowboys came stringing back from their day's riding, hungry as wolves. At the first dust sign in the northern pass the round-up cook had piled wood on the fire to make coals and as the iron-faced punchers rode up he hammered on a tin plate and yelled:—

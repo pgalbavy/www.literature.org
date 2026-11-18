@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Set Of Resolutions"
 weight: 4
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-04.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-04.html"
 ---
 
 It was the morning of the third day after the disaster at Burnham Shaft. The breaker boys were to go that morning, in a body, to the mansion of their dead employer to look for the last time on his face. They had asked that they might be permitted to do this, and the privilege had been granted.

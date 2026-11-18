@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-31.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-31.html"
 ---
 
 The tray which brought Katharine’s cup of tea the next morning brought, also, a note from her mother, announcing that it was her intention to catch an early train to Stratford-on-Avon that very day.

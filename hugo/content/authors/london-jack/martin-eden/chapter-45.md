@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-45.html"
+url: "/authors/london-jack/martin-eden/chapter-45.html"
 ---
 
 Kreis came to Martin one day - Kreis, of the "real dirt"; and Martin turned to him with relief, to receive the glowing details of a scheme sufficiently wild-catty to interest him as a fictionist rather than an investor. Kreis paused long enough in the midst of his exposition to tell him that in most of his "Shame of the Sun" he had been a chump.

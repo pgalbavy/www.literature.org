@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-13.html"
 ---
 
 "It is but honest that I should acknowledge at the beginning of my recital that I was born an ordinary Woggle-Bug," began the creature, in a frank and friendly tone. "Knowing no better, I used my arms as well as my legs for walking, and crawled under the edges of stones or hid among the roots of grasses with no thought beyond finding a few insects smaller than myself to feed upon.

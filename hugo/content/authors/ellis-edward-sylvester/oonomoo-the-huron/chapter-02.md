@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Other Characters"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-02.html"
 ---
 
 "He joys to scour the prairies wide,  

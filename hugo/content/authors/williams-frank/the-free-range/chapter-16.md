@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Message By A Strange Hand"
 weight: 16
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-16.html"
+url: "/authors/williams-frank/the-free-range/chapter-16.html"
 ---
 
 What were the feelings of Mr. Mike Stelton that dawn had better be imagined than described. The first he knew of any calamity was when Mrs. Bissell, unable to find her husband near the house, shook him frantically by the shoulder.

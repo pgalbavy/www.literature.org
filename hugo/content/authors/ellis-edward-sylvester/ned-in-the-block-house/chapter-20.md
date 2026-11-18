@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The South Wind"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-20.html"
 ---
 
 The project of placing a dummy on the roof of the block-house, with a view of drawing the fire of the Wyandots, was original with Jo Stinger. It is hard to see what good was attained, for more than enough ammunition remained to prosecute the battle with all energy, whenever the opportunity presented itself to the assailants.

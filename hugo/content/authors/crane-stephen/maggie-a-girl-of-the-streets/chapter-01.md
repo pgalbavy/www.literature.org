@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-01.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-01.html"
 ---
 
 A very little boy stood upon a heap of gravel for the honor of Rum Alley. He was throwing stones at howling urchins from Devil's Row who were circling madly about the heap and pelting at him.

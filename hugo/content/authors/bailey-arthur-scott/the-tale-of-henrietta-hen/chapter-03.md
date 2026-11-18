@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Wet Feet"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-03.html"
 ---
 
 Somehow Henrietta Hen never noticed that one of her brood was different from the rest. They were her first youngsters and they all looked beautiful to her.

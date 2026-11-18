@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Double Sign"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-01.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-01.html"
 ---
 
 Hard on twenty years have gone by since that night of Leo’s vision--the most awful years, perhaps, which were ever endured by men--twenty years of search and hardship ending in soul-shaking wonder and amazement.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The God of Tarzan"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-04.html"
 ---
 
 AMONG THE BOOKS of his dead father in the little cabin by the land-locked harbor, Tarzan of the Apes found many things to puzzle his young head. By much labor and through the medium of infinite patience as well, he had, without assistance, discovered the purpose of the little bugs which ran riot upon the printed pages. He had learned that in the many combinations in which he found them they spoke in a silent language, spoke in a strange tongue, spoke of wonderful things which a little ape-boy could not by any chance fully understand, arousing his curiosity, stimulating his imagination and filling his soul with a mighty longing for further knowledge.

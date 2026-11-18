@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-06.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-06.html"
 ---
 
 THE Cardens both went to dinner.

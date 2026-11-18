@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-03.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-03.html"
 ---
 
 One more important theft was reported in the Land of Oz that eventful morning, but it took place so far from either the Emerald City or the castle of Glinda the Good that none of those persons we have mentioned learned of the robbery until long afterward.

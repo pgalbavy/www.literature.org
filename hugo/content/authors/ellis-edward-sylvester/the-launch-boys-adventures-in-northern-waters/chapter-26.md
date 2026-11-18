@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Good Samaritans"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-26.html"
 ---
 
 She looked sharply at him through her bright blue eyes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Prophecy"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-01.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-01.html"
 ---
 
 "This is the third time I've found you poring over that old rhyme. What is the charm, Richard? Not its poetry I fancy." And the young wife laid a slender hand on the yellow, time-worn page where, in Old English text, appeared the lines she laughed at.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Too Much Gold"
 weight: 4
-aliases:
-  - "/authors/london-jack/the-faith-of-men/chapter-04.html"
+url: "/authors/london-jack/the-faith-of-men/chapter-04.html"
 ---
 
 This being a story--and a truer one than it may appear--of a mining country, it is quite to be expected that it will be a hard-luck story. But that depends on the point of view. Hard luck is a mild way of terming it so far as Kink Mitchell and Hootchinoo Bill are concerned; and that they have a decided opinion on the subject is a matter of common knowledge in the Yukon country.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Umquile The Master Of Lovat"
 weight: 7
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-06.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-06.html"
 ---
 
 There was a man waiting us in Prestongrange’s study, whom I distasted at the first look, as we distaste a ferret or an earwig. He was bitter ugly, but seemed very much of a gentleman; had still manners, but capable of sudden leaps and violences; and a small voice, which could ring out shrill and dangerous when he so desired.

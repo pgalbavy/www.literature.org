@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Jana"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-13.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-13.html"
 ---
 
 No breakfast was brought to us that morning, probably for the reason that there was none to bring. This did not matter, however, seeing that plenty of food accumulated from supper and other meals stood in a corner of the house practically untouched. So we ate what we could and then paid our usual visit to the hut in which the camelmen had been confined. I say had been, for now it was quite empty, the last poor fellow having vanished away like his companions.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Trail Of The Sheep"
 weight: 3
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-03.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-03.html"
 ---
 
 The morning dawned as clear on Bender as if there had never been storm nor clouds, and the waxy green heads of the greasewood, dotting the level plain with the regularity of a vineyard, sparkled with a thousand dewdrops. Ecstatic meadow larks, undismayed by the utter lack of meadows, sang love songs from the tops of the telegraph poles; and the little Mexican ground doves that always go in pairs tracked amiably about together in the wet litter of the corral, picking up the grain which the storm had laid bare. Before the early sun had cleared the top of the eastern mountains Jefferson Creede and Hardy had risen and fed their horses well, and while the air was yet chill they loaded their blankets and supplies upon the ranch wagon, driven by a shivering Mexican, and went out to saddle up.

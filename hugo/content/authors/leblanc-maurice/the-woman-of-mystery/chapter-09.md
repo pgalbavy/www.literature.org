@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Sprig Of Empire"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-09.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-09.html"
 ---
 
 Paul clutched with convulsive fingers the heart-breaking diary to which Élisabeth had confided her anguish:

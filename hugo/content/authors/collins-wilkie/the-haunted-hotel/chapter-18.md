@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-18.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-18.html"
 ---
 
 Before the end of the week, the manager found himself in relations with 'the family' once more. A telegram from Milan announced that Mr. Francis Westwick would arrive in Venice on the next day; and would be obliged if Number Fourteen, on the first floor, could be reserved for him, in the event of its being vacant at the time.

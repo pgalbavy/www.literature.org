@@ -1,8 +1,7 @@
 ---
 title: "Translator's Preface"
 weight: 1
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/translators-preface.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/translators-preface.html"
 ---
 
 I: *ABOUT THIS TRANSLATION*

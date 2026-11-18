@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - War"
 weight: 7
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-07.html"
+url: "/authors/london-jack/the-night-born/chapter-07.html"
 ---
 
 HE was a young man, not more than twenty-four or five, and he might have sat his horse with the careless grace of his youth had he not been so catlike and tense. His black eyes roved everywhere, catching the movements of twigs and branches where small birds hopped, questing ever onward through the changing vistas of trees and brush, and returning always to the clumps of undergrowth on either side. And as he watched, so did he listen, though he rode on in silence, save for the boom of heavy guns from far to the west. This had been sounding monotonously in his ears for hours, and only its cessation could have aroused his notice. For he had business closer to hand. Across his saddle-bow was balanced a carbine.

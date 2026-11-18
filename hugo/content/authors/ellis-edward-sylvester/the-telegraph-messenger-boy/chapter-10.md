@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Farmer Jones"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-10.html"
 ---
 
 The conclusion which I formed respecting the cipher telegram, so cleverly translated by Ben Mayberry, was that it concerned an intended robbery of one of the banks in Damietta, and that the crime, for the reason hinted in the dispatch, was postponed until the succeeding autumn.

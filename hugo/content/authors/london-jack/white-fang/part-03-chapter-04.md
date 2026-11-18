@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4 - The Trail Of The Gods"
 weight: 12
-aliases:
-  - "/authors/london-jack/white-fang/part-03-chapter-04.html"
+url: "/authors/london-jack/white-fang/part-03-chapter-04.html"
 ---
 
 In the fall of the year, when the days were shortening and the bite of the frost was coming into the air, White Fang got his chance for liberty. For several days there had been a great hubbub in the village. The summer camp was being dismantled, and the tribe, bag and baggage, was preparing to go off to the fall hunting. White Fang watched it all with eager eyes, and when the tepees began to come down and the canoes were loading at the bank, he understood. Already the canoes were departing, and some had disappeared down the river.

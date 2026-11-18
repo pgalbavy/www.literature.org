@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-21.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-21.html"
 ---
 
 In which the master of the "Tankadere" runs great risk of losing a reward of two hundred pounds

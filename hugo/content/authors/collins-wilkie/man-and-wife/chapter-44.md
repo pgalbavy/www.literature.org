@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - The Letter And The Law"
 weight: 46
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-44.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-44.html"
 ---
 
 THE many-toned murmur of the current of London life--flowing through the murky channel of Drury Lane--found its muffled way from the front room to the back. Piles of old music lumbered the dusty floor. Stage masks and weapons, and portraits of singers and dancers, hung round the walls. An empty violin case in one corner faced a broken bust of Rossini in another. A frameless print, representing the Trial of Queen Caroline, was pasted over the fireplace. The chairs were genuine specimens of ancient carving in oak. The table was an equally excellent example of dirty modern deal. A small morsel of drugget was on the floor; and a large deposit of soot was on the ceiling. The scene thus presented, revealed itself in the back drawing-room of a house in Drury Lane, devoted to the transaction of musical and theatrical business of the humbler sort. It was late in the afternoon, on Michaelmas-day. Two persons were seated together in the room: they were Anne Silvester and Sir Patrick Lundie.

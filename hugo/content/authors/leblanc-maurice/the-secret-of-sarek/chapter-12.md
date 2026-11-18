@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Ascent Of Golgotha"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-12.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-12.html"
 ---
 
 Twenty or thirty minutes elapsed. Véronique was still alone. The cords cut into her flesh; and the rails of the balcony bruised her forehead. The gag choked her. Her knees, bent in two and doubled up beneath her, carried the whole weight of her body. It was an intolerable position, an unceasing torture . . . . Still, though she suffered, she was not very clearly aware of it. She was unconscious of her physical suffering; and she had already undergone such mental suffering that this supreme ordeal did not awaken her drowsing senses.

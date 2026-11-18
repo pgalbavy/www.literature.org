@@ -1,8 +1,7 @@
 ---
 title: "Chapter 80 - The Gratitude Of Anne Of Austria"
 weight: 80
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-80.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-80.html"
 ---
 
 Athos found much less difficulty than he had expected in obtaining an audience of Anne of Austria. It was granted, and was to take place after her morning's "levee," at which, in accordance with his rights of birth, he was entitled to be present. A vast crowd filled the apartments of Saint Germain. Anne had never at the Louvre had so large a court; but this crowd represented chiefly the second class of nobility, while the Prince de Conti, the Duc de Beaufort and the coadjutor assembled around them the first nobility of France.

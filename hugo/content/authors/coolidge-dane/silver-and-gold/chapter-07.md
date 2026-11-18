@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Eminent Buttinsky"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-07.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-07.html"
 ---
 
 That there was no love lost between Bunker Hill and Professor Diffenderfer was evident by their curt greetings, but as they began to bandy words Denver became suddenly aware that he was the cause of their feud. He and his eight hundred dollars, a sum so small that a shoestring promoter would hardly notice it; and yet these two men with their superfluity of claims were fighting for his favor like pawn-brokers. Bunker Hill had seen him first and claimed him as his right; but Professor Diffenderfer, ignoring the ethics of the game, was out to make a sale anyway. He carried in one hand a large sack of specimens, and under his arm were some weighty tomes which turned out to be Government reports. He came up slowly, panting and sweating in the heat, and when he stepped in Bunk was waiting for him.

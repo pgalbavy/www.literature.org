@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-11.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-11.html"
 ---
 
 “MY dear Mr. Barnes,” wrote Lady Frances’ uncle in a genial note, dated from a Pall Mall club, “I am sorry my niece did not make my intention more apparent; possibly the mistake was my own. I never dreamt of offering you, as you assume, anything in the shape of a bribe. What I thought was that, as one who had the interests both of capital and labour at heart, I might be allowed to make a small contribution towards any movement in which you were interested. You mentioned once an idea of starting a small paper; let my small cheque assist in this excellent effort.

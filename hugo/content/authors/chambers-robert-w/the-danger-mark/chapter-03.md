@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Threshold"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-03.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-03.html"
 ---
 
 She awoke tired; she had scarcely closed her eyes that night. The fresh odour of roses filled her room when her maid arrived with morning gifts from Kathleen and Scott.

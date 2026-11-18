@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Adam Visits The Hall Farm"
 weight: 20
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-20.html"
+url: "/authors/eliot-george/adam-bede/chapter-20.html"
 ---
 
 ADAM came back from his work in the empty waggon - that was why he had changed his clothes - and was ready to set out to the Hall Farm when it still wanted a quarter to seven.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Fourth Medal"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-14.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-14.html"
 ---
 
 Violent though this sensational turn was, it provoked from those who witnessed it neither outcries nor disorder. Something mastered their terror, smothered their words, and restrained their gestures: the impossibility of conceiving how this murder had been committed. The impossible resurrection of the Marquis was transformed into a miracle of death quite as impossible; but they could not deny this miracle since it had taken place before their eyes. In truth, they had the impression, since no living being had entered, that death itself had stepped over the threshold, crossed the room to the man, struck him in their presence with its invisible hand, and then gone away, leaving the murderous weapon in the corpse. None but a phantom could have passed. None but a phantom could have killed.

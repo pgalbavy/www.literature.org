@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-01.html"
+url: "/authors/eliot-george/middlemarch/chapter-01.html"
 ---
 
 "Since I can do no good because a woman, Reach constantly at something that is near it. - The Maid's Tragedy: BEAUMONT AND FLETCHER.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Seeing A Sample"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-23.html"
 ---
 
 GRANDFATHER MOLE'S remark made Billy Woodchuck smile.

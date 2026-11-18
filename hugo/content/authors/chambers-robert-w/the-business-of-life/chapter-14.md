@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-14.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-14.html"
 ---
 
 Desboro came for her in his car at five and found her standing alone in her office, dressed in a blue travelling dress, hatted and closely veiled. He partly lifted the veil, kissed the cold, unresponsive lips, the pallid cheek, the white-gloved fingers.

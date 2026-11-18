@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6 - A Riddle Without An Answer"
 weight: 23
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-06.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-06.html"
 ---
 
 Again Mr Mortimer Lightwood and Mr Eugene Wrayburn sat together in the Temple. This evening, however, they were not together in the place of business of the eminent solicitor, but in another dismal set of chambers facing it on the same second-floor; on whose dungeon-like black outer-door appeared the legend:

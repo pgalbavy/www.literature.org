@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-16.html"
+url: "/authors/greene-homer/the-guardsman/chapter-16.html"
 ---
 
 When Lieutenant McCormack, after reading the message announcing the coming of the mob, crossed the plaza and faced his company, he found his men already in ranks and standing at “order arms.” They also had heard the ominous sound of approaching disorder. Already the forefront of the procession was in sight on the street leading up from the south. Inflamed with the liquor which they had seized in the course of their journey, the exuberant and reckless spirit of the marchers was showing itself. Men were singing, shouting, waving clubs, demanding justice for their fellow-workers, and the recognition of the rule of the proletariat. At the junction of every street and alley their members had been swelled by the angry and resentful Industrialists of Fairweather. The cordon of police that had attempted to block their way was swept down as though it had been a rope of straw. Now, five hundred strong, reckless and determined, they were bearing down on the center of the city’s industries.

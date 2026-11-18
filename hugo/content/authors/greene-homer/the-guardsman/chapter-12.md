@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-12.html"
+url: "/authors/greene-homer/the-guardsman/chapter-12.html"
 ---
 
 On Tuesday, the fifth day of October, 1915, Major Mowbray Huntington came to Fairweather, in pursuance of the order issued to him, to hold an election for the office of first lieutenant of Company E. The election was to be held at eight o’clock in the evening of that day, in the company room at the armory. But, long before the hour for balloting had arrived, members of the company came strolling in by ones and twos and began to gather in little groups on the drill floor of the armory. There was no acrimonious debate, nor was there any exhibition of violent partisanship. The time for argument and for proselyting had gone by. But there was intense interest. It was now a question of which of the two candidates had secured the most prospective votes. Every one agreed that the contest was fairly close, but Barriscale’s adherents were confident in their prediction that he would win out by a safe majority. Nor had Hal’s friends given up hope. They felt that it was still among the possibilities that he should be elected. At any rate, he had made a clean, aggressive, splendid fight, and they were proud of him. He had never been half-hearted in the matter; not from the moment of his decision to enter the contest. At first he had been contented simply to announce his candidacy without entering into any active campaign. But when he learned what a strenuous fight his opponent was putting up, how he was leaving no stone unturned, no influence unsolicited, no argument, fair or unfair, unused; he threw himself more keenly into the contest, enlisted the active support of his friends in the company, and carried on a vigorous fight up to the very close of the campaign. And now the final chapter had been reached.

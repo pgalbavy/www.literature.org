@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Reddy Fox Is Afraid To Go Home"
 weight: 5
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-05.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-05.html"
 ---
 
 Yes, Sir, a chicken track is good to see, but  

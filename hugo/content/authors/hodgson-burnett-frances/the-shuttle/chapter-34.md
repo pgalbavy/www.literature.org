@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - Red Godwyn"
 weight: 34
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-34.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-34.html"
 ---
 
 Stornham Court had taken its proper position in the county as a place which was equal to social exchange in the matter of entertainment. Sir Nigel and Lady Anstruthers had given a garden party, according to the decrees of the law obtaining in country neighbourhoods. The curiosity to behold Miss Vanderpoel, and the change which had been worked in the well-known desolation and disrepair, precluded the possibility of the refusal of any invitations sent, the recipient being in his or her right mind, and sound in wind and limb. That astonishing things had been accomplished, and that the party was a successful affair, could not but be accepted as truths. Garden parties had been heard of, were a trifle repetitional, and even dull, but at this one there was real music and real dancing, and clever entertainments were given at intervals in a green-embowered little theatre, erected for the occasion. These were agreeable additions to mere food and conversation, which were capable of palling.

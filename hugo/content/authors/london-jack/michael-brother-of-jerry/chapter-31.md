@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 32
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-31.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-31.html"
 ---
 
 A post card from Davis to Collins explained the reasons for Michael's return. "He sings too much to suit my fancy," was Davis's way of putting it, thereby unwittingly giving the clue to what Collins had vainly sought, and which Collins as unwittingly failed to grasp. As he told Johnny:

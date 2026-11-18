@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - I Climb The Crags A Second Time"
 weight: 22
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-21.html"
+url: "/authors/buchan-john/prester-john/chapter-21.html"
 ---
 
 I remember that I looked over the brink into the yeasty abyss with a mind hovering between perplexity and tears. I wanted to sit down and cry—why, I did not know, except that some great thing had happened. My brain was quite clear as to my own position. I was shut in this place, with no chance of escape and with no food. In a little I must die of starvation, or go mad and throw myself after Laputa. And yet I did not care a rush. My nerves had been tried too greatly in the past week. Now I was comatose, and beyond hoping or fearing.

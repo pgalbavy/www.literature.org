@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Inspiration"
 weight: 6
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-05.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-05.html"
 ---
 
 I WAS so tired that even my fears were not able to keep me awake long.

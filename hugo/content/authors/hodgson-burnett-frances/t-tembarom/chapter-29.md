@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-29.html"
 ---
 
 After this came a pause. Each man sat thinking his own thoughts, which, while marked with difference in form, were doubtless subtly alike in the line they followed. During the silence T. Tembarom looked out at the late afternoon shadows lengthening themselves in darkening velvet across the lawns.

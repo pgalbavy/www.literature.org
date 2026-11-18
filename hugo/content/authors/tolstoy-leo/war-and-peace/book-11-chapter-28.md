@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 28"
 weight: 257
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-28.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-28.html"
 ---
 
 Pierre, having decided that until he had carried out his design he would disclose neither his identity nor his knowledge of French, stood at the half-open door of the corridor, intending to conceal himself as soon as the French entered. But the French entered and still Pierre did not retire- an irresistible curiosity kept him there.

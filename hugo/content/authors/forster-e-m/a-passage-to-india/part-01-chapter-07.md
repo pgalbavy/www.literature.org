@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-07.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-07.html"
 ---
 
 This Mr. Fielding had been caught by India late. He was over forty when he entered that oddest portal, the Victoria Terminus at Bombay, and—having bribed a European ticket inspector—took his luggage into the compartment of his first tropical train. The journey remained in his mind as significant. Of his two carriage companions one was a youth, fresh to the East like himself, the other a seasoned Anglo-Indian of his own age. A gulf divided him from either; he had seen too many cities and men to be the first or to become the second. New impressions crowded on him, but they were not the orthodox new impressions; the past conditioned them, and so it was with his mistakes. To regard an Indian as if he were an Italian is not, for instance, a common error, nor perhaps a fatal one, and Fielding often attempted analogies between this peninsula and that other, smaller and more exquisitely shaped, that stretches into the classic waters of the Mediterranean.

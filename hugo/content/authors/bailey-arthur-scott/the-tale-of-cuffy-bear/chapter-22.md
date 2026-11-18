@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Rain Comes"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-22.html"
 ---
 
 Cuffy Bear was disappointed. For when at last his father came galloping up to his house he brought no pig with him. Indeed he seemed to have forgotten that it was his birthday.

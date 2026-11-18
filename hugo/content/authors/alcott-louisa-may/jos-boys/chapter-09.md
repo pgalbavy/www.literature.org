@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Worm Turns"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-09.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-09.html"
 ---
 
 Two very superior bicycles went twinkling up the road to Plumfield one September afternoon, bearing two brown and dusty riders evidently returning from a successful run, for though their legs might be a trifle weary, their faces beamed as they surveyed the world from their lofty perches with the air of calm content all wheelmen wear after they have learned to ride; before that happy period anguish of mind and body is the chief expression of the manly countenance.

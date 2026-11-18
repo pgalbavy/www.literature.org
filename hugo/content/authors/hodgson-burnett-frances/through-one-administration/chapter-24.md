@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-24.html"
 ---
 
 They moved away and went to the supper-room themselves, leaving Tredennis to his reflections. What these were he scarcely knew himself for a few seconds. The murmur of voices and passing to and fro confused him. For half an hour of quiet in some friendly corner, where none could see his face, he felt that he would have given a year or so of his life--perhaps a greater number of years than a happier man would have been willing to part with. It was of Bertha these people had been speaking--of Bertha, and it was Bertha he could see through the open doors of the supper-room, eating ices, listening to compliment and laughter and jest! It was Planefield who was holding her flowers, and the man who had just picked up her fan was one of his friends; in two or three others near her, Tredennis recognized his associates: it seemed as if the ground had been ceded to them by those who had at first formed her little court.

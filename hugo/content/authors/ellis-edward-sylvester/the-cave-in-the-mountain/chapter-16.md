@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Friend Or Enemy?"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-16.html"
 ---
 
 It can scarcely be said that either of the fugitives had any definite hope of escape, for neither was able to see how the thing was possible. Mickey knew that occasionally, in the affairs of the world, seemingly providential interferences had occurred, but he looked for nothing of the kind. He considered that there would be a siege, lasting perhaps several days, then a desperate hand-to-hand struggle, and then.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Pigeons Of Dort"
 weight: 14
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-14.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-14.html"
 ---
 
 It was indeed in itself a great honour for Cornelius van Baerle to be confined in the same prison which had once received the learned master Grotius.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 77 - The Great Heidelburgh Tun"
 weight: 77
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-077.html"
+url: "/authors/melville-herman/moby-dick/chapter-077.html"
 ---
 
 Now comes the Baling of the Case. But to comprehend it aright, you must know something of the curious internal structure of the thing operated upon.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Polly And Sally"
 weight: 21
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-21.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-21.html"
 ---
 
 Without a care to trouble her; abroad or at home, finding inexhaustible varieties of amusement; seeing new places, making new acquaintances--what a disheartening contrast did Cecilia's happy life present to the life of her friend! Who, in Emily's position, could have read that joyously-written letter from Switzerland, and not have lost heart and faith, for the moment at least, as the inevitable result?

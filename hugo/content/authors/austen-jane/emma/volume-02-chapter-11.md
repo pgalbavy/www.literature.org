@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 11"
 weight: 29
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-11.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-11.html"
 ---
 
 It may be possible to do without dancing entirely. Instances have been known of young people passing many, many months successively, without being at any ball of any description, and no material injury accrue either to body or mind;--but when a beginning is made--when the felicities of rapid motion have once been, though slightly, felt--it must be a very heavy set that does not ask for more.

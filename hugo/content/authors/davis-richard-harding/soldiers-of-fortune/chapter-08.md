@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-08.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-08.html"
 ---
 
 Clay reached the President's Palace during the supper-hour, and found Mr. Langham and his daughter at the President's table. Madame Alvarez pointed to a place for him beside Alice Langham, who held up her hand in welcome. "You were very foolish to rush off like that," she said.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Home To Sayula"
 weight: 14
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-14.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-14.html"
 ---
 
 The morning came perfectly blue, with a freshness in the air and a blue luminousness over the trees and the distant mountains, and birds so bright, absolutely like new-opened buds sparking in the air.

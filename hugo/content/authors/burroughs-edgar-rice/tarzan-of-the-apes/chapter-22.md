@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Search Party"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-22.html"
 ---
 
 When dawn broke upon the little camp of Frenchmen in the heart of the jungle it found a sad and disheartened group.

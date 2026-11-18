@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-22.html"
 ---
 
 First entered a band of Ryls from the Happy Valley, all merry little sprites like fairy elves. A dozen crooked Knooks followed from the great Forest of Burzee. They had long whiskers and pointed caps and curling toes, yet were no taller than Button-Bright's shoulder. With this group came a man so easy to recognize and so important and dearly beloved throughout the known world, that all present rose to their feet and bowed their heads in respectful homage, even before the High Chamberlain knelt to announce his name.

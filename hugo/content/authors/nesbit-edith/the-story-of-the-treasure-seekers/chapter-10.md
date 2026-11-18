@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Lord Tottenham"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-10.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-10.html"
 ---
 
 Oswald is a boy of firm and unswerving character, and he had never wavered from his first idea. He felt quite certain that the books were right, and that the best way to restore fallen fortunes was to rescue an old gentleman in distress. Then he brings you up as his own son: but if you preferred to go on being your own father's son I expect the old gentleman would make it up to you some other way. In the books the least thing does it - you put up the railway carriage window - or you pick up his purse when he drops it - or you say a hymn when he suddenly asks you to, and then your fortune is made.

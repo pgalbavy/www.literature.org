@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Horn Of Fame"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-22.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-22.html"
 ---
 
 "Bet he won't come back!" said Sam.

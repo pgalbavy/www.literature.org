@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-20.html"
 ---
 
 The Land of the Munchkins is full of surprises, as our travelers had already learned, and although Mount Munch was constantly growing larger as they advanced toward it, they knew it was still a long way off and were not certain, by any means, that they had escaped all danger or encountered their last adventure.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - How Paddy Warned Lightfoot"
 weight: 14
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-14.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-14.html"
 ---
 
 It was a queer partnership, that partnership between Lightfoot and Paddy, but it was a good partnership. They had been the best of friends for a long time. Paddy had always been glad to have Lightfoot visit his pond. To tell the truth, he was rather fond of handsome Lightfoot. You know Paddy is himself not at all handsome. On land he is a rather clumsy-looking fellow and really homely. So he admired Lightfoot greatly. That is one reason why he proposed that they be partners.

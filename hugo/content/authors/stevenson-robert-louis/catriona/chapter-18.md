@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Tee’d Ball"
 weight: 19
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-18.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-18.html"
 ---
 
 On the morrow, from the justices’ private room, where none could see me, I heard the verdict given in and judgment rendered upon James. The Duke’s words I am quite sure I have correctly; and since that famous passage has been made a subject of dispute, I may as well commemorate my version. Having referred to the year ’45, the chief of the Campbells, sitting as Justice-General upon the bench, thus addressed the unfortunate Stewart before him: "If you had been successful in that rebellion, you might have been giving the law where you have now received the judgment of it; we, who are this day your judges, might have been tried before one of your mock courts of judicature; and then you might have been satiated with the blood of any name or clan to which you had an aversion."

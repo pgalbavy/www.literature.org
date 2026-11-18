@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Major Goes South"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-major-monkey/chapter-23.html"
 ---
 
 Out of one of his pockets the hand-organ man pulled a stout collar, from which dangled a long, thin chain. And Major Monkey made no protest when his master buckled the collar about his neck.

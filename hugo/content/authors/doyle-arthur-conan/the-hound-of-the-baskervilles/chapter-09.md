@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Second Report of Dr. Watson"
 weight: 9
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-09.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-09.html"
 ---
 
 THE LIGHT UPON THE MOOR Baskerville Hall, Oct. 15th.

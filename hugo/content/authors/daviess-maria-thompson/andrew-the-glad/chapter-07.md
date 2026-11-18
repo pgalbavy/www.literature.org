@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Strange Wild Things"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/andrew-the-glad/chapter-07.html"
+url: "/authors/daviess-maria-thompson/andrew-the-glad/chapter-07.html"
 ---
 
 "Phoebe," said David Kildare as he seated himself on the corner of the table just across from where Phoebe sat in Major Buchanan's chair writing up her one o'clock notes, "what is there about me that makes people think they must make me judge of the criminal court of this county? Do I look job-hungry so as to notice it?"

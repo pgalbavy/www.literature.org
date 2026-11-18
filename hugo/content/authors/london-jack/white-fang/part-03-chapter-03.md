@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3 - The Outcast"
 weight: 11
-aliases:
-  - "/authors/london-jack/white-fang/part-03-chapter-03.html"
+url: "/authors/london-jack/white-fang/part-03-chapter-03.html"
 ---
 
 Lip-lip continued so to darken his days that White Fang became wickeder and more ferocious than it was his natural right to be. Savageness was a part of his make-up, but the savageness thus developed exceeded his make-up. He acquired a reputation for wickedness amongst the man-animals themselves. Wherever there was trouble and uproar in camp, fighting and squabbling or the outcry of a squaw over a bit of stolen meat, they were sure to find White Fang mixed up in it and usually at the bottom of it. They did not bother to look after the causes of his conduct. They saw only the effects, and the effects were bad. He was a sneak and a thief, a mischief-maker, a fomenter of trouble; and irate squaws told him to his face, the while he eyed them alert and ready to dodge any quick-flung missile, that he was a wolf and worthless and bound to come to an evil end.

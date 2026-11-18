@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Old Mr. Crow Is Pleased"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-12.html"
 ---
 
 There was a very good reason why Mrs. Fox did not come home that day when the dog Spot chased Tommy Fox into his house. She had heard old Spot barking in the field and she had hurried toward home as fast as she could, to see what was the matter.

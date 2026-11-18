@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-33.html"
 ---
 
 Red Crow, the friendly Shawanoe, who had proved his loyalty to the whites in so many striking instances, left the little party where he had halted them in the wood and walked rapidly toward the gorge, which he intended should be crossed by the fugitives and their animals.

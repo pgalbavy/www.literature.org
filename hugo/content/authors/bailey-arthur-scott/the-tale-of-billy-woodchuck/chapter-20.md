@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Family Escapes"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-20.html"
 ---
 
 After that frightful noise, when her house suddenly grew light, and her husband ran away, Mrs. Woodchuck saw with dismay that there was a big hole in the ceiling. The earth had split open and the daylight was streaming in.

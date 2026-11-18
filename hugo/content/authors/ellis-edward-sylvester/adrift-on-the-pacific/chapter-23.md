@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Dismal Home"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-23.html"
 ---
 
 Captain Bergen and his mate were not certain that one or more of the mutineers had not survived the foundering of the schooner *Coral*, and had managed to reach the island.

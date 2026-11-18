@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The New Umbrella"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-08.html"
 ---
 
 Old Mr. Crow was feeling very happy, because he had a new umbrella--the only umbrella that was owned for miles around. And wherever Mr. Crow went, the umbrella went too, tucked snugly under his wing.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - An Unwelcome Passenger"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-36.html"
 ---
 
 A second time a loud snort was heard, as though some large animal were blowing the water from his nostrils, and at the same instant Nick and Nellie caught sight of the huge snout of the bear coming through the water toward them.

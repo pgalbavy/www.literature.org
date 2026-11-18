@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - George Prophesies Again"
 weight: 32
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-32.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-32.html"
 ---
 
 Six weeks passed, and in that time several things happened. In the first place the miserly old banker, Edward Cossey's father, had died, his death being accelerated by the shock of his son's accident. On his will being opened, it was found that property and money to no less a value than 600,000 pounds passed under it to Edward absolutely, the only condition attached being that he should continue in the house of Cossey and Son and leave a certain share of his fortune in the business.

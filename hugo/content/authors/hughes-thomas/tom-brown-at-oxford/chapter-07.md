@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - An Explosion"
 weight: 9
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-07.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-07.html"
 ---
 
 Our hero soon began to feel that he was contracting his first college friendship. The great, strong, badly-dressed, badly-appointed servitor, who seemed almost at the same time utterly reckless of, and nervously alive to, the opinion of all around him, with his bursts of womanly tenderness and Berserker rage, alternating like storms and sunshine of a July day on a high moorland, his keen sense of humor and appreciation of all the good things of life, the use and enjoyment of which he was so steadily denying himself from high principle, had from the first seized powerfully on all Tom's sympathies, and was daily gaining more hold upon him.

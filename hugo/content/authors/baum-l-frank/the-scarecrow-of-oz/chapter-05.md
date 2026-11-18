@@ -1,8 +1,7 @@
 ---
 title: "chapter 05"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-05.html"
 ---
 
 A few steps brought them to the shed, which was merely a roof of boughs built over a square space, with some branches of trees fastened to the sides to keep off the wind. The front was quite open and faced the sea, and as our friends came nearer they observed a little man, with a long pointed beard, sitting motionless on a stool and staring thoughtfully out over the water.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Farmer Brown Sets A Trap"
 weight: 14
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-14.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-14.html"
 ---
 
 *PETER RABBIT* was in trouble. He had gotten into mischief and now, like every one who gets into mischief, he wished that he hadn’t. The worst of it was that he was a long way from his home in the dear Old Briar-patch, and he didn’t know how he ever could get back there again. Where was he? Why, in the stone wall on one side of Farmer Brown’s young peach orchard. How Peter blessed the old stone wall in which he had found a safe hiding-place! Bowser had hung around nearly all night, so that Peter had not dared to try to go home. Now it was daylight, and Peter knew it would not be safe to put his nose outside.

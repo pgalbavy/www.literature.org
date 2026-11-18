@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Beginnings Of A Bull-Fight"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-01.html"
 ---
 
 It was the Sunday after Easter, and the last bull-fight of the season in Mexico City. Four special bulls had been brought over from Spain for the occasion, since Spanish bulls are more fiery than Mexican. Perhaps it is the altitude, perhaps just the spirit of the western Continent which is to blame for the lack of 'pep', as Owen put it, in the native animal.

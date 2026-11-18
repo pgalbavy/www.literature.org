@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-15.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-15.html"
 ---
 
 Had the trade wind not failed on the second day after laying the course for the Marquesas; had Captain Doane, at the mid-day meal, not grumbled once again at being equipped with only one chronometer; had Simon Nishikanta not become viciously angry thereat and gone on deck with his rifle to find some sea-denizen to kill; and had the sea-denizen that appeared close alongside been a bonita, a dolphin, a porpoise, an albacore, or anything else than a great, eighty-foot cow whale accompanied by her nursing calf--had any link been missing from this chain of events, the Mary Turner would have undoubtedly reached the Marquesas, filled her water-barrels, and returned to the treasure-hunting; and the destinies of Michael, Daughtry, Kwaque, and Cocky would have been quite different and possibly less terrible.

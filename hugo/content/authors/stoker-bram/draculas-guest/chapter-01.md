@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/stoker-bram/draculas-guest/chapter-01.html"
+url: "/authors/stoker-bram/draculas-guest/chapter-01.html"
 ---
 
 DRACULA'S GUEST

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Over It"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-12.html"
+url: "/authors/haggard-h-rider/jess/chapter-12.html"
 ---
 
 On leaving the house Bessie and John took their way down the long avenue of blue gums. This avenue was old Silas Croft’s particular pride, since although it had only been planted for about twenty years, the trees, which in the divine climate and virgin soil of the Transvaal grow at the most extraordinary rate, were for the most part very lofty, and as thick in the stem as English oaks of a hundred and fifty years’ standing. The avenue was not over wide, and the trees were planted quite close one to another, with the result that their brown, pillar-like stems shot up for many feet without a branch, whilst high overhead the boughs crossed and intermingled in such a way as to form a leafy tunnel, through which the landscape beyond appeared as though through a telescope.

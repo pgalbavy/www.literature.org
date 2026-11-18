@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Black Flier"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-12.html"
 ---
 
 The girl was almost crushed by terror and disappointment. To have been thus close to safety and then to have all hope snatched away by a cruel stroke of fate seemed unendurable. The man was disappointed, too, but more was he angry. He noted the remnants of the uniforms upon the blacks and immediately he demanded to know where were their officers.

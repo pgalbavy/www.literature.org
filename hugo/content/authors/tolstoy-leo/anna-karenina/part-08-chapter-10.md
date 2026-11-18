@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 10"
 weight: 230
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-10.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-10.html"
 ---
 
 When Levin thought what he was and what he was living for, he could find no answer to the questions and was reduced to despair, but he left off questioning himself about it. It seemed as though he knew both what he was and for what he was living, for he acted and lived resolutely and without hesitation. Indeed, in these latter days he was far more decided and unhesitating in life than he had ever been.

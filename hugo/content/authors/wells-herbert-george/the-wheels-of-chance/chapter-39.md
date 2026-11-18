@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-39.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-39.html"
 ---
 
 So here is the world with us again, and our sentimental excursion is over. In the front of the Rufus Stone Hotel conceive a remarkable collection of wheeled instruments, watched over by Dangle and Phipps in grave and stately attitudes, and by the driver of a stylish dogcart from Ringwood. In the garden behind, in an attitude of nervous prostration, Mr. Hoopdriver was seated on a rustic seat. Through the open window of a private sitting-room came a murmur of voices, as of men and women in conference. Occasionally something that might have been a girlish sob.

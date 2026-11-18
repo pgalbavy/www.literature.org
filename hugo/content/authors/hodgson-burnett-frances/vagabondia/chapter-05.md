@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In Which The Philistines Be Upon Us"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-05.html"
 ---
 
 “We are going,” Dolly to Ralph Gowan, “to have a family rejoicing, and we should like you to join us. We are going to celebrate Mollie's birthday.”

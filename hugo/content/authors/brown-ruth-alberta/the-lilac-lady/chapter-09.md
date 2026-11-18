@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Giuseppe Nicoli And The Monkey"
 weight: 9
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-09.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-09.html"
 ---
 
 The next morning dawned bright and clear and cool, and Peace, hurrying to school with her nose buried in a great bunch of early roses from the stone house, pranced gaily down the hill chanting under her breath, "Roses, roses, yellow, red and white, you are surely lovely, sweet and bright—another rhyme! They always come when I ain't trying to make 'em. I wonder if I'll ever be a big poet like Longfellow was. It must be nice to have folks learn the things you write and speak 'em at concerts and school exercises like I'm going to do his 'Children's Hour' next Friday. I've got it so I can say it backwards almost. Elizabeth says I know it perfectly. I hope Miss Peyton will think the same way. She is lots harder to please and I 'most never can do anything to suit her."

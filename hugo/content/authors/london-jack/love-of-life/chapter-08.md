@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Negore, The Coward"
 weight: 8
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-08.html"
+url: "/authors/london-jack/love-of-life/chapter-08.html"
 ---
 
 HE had followed the trail of his fleeing people for eleven days, and his pursuit had been in itself a flight; for behind him he knew full well were the dreaded Russians, toiling through the swampy lowlands and over the steep divides, bent on no less than the extermination of all his people. He was travelling light. A rabbit-skin sleeping-robe, a muzzle-loading rifle, and a few pounds of sun-dried salmon constituted his outfit. He would have marvelled that a whole people - women and children and aged - could travel so swiftly, had he not known the terror that drove them on.

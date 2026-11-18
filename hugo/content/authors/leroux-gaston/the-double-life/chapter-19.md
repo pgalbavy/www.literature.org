@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Torture Chamber"
 weight: 20
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-19.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-19.html"
 ---
 
 IT is only the basest of literature that describes without adequate reason the weird, the horrible. However, many authors find it necessary to dilate upon the most satanic personalities of men, and the worst cruelties imaginable.

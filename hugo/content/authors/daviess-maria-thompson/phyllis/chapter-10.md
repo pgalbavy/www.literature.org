@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-10.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-10.html"
 ---
 
 Some people are so afflicted with energy that their days are twenty-five and a half hours long. Mine are twenty-six just now. If it were not for the fact that several hours each day I am under the influence of Roxanne's repose, I suspect I would run down like a clock that has exhausted its mainspring. Mamie Sue says that Belle says Roxanne is shiftless, but Belle is unable to distinguish shiftlessness from noble composure under difficulties. I told Mamie Sue that it would be best for her to forget all that Belle has ever said to her; and she is trying.

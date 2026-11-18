@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8"
 weight: 28
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-08.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-08.html"
 ---
 
 THE HARLING CHILDREN and I were never happier, never felt more contented and secure, than in the weeks of spring which broke that long winter. We were out all day in the thin sunshine, helping Mrs. Harling and Tony break the ground and plant the garden, dig around the orchard trees, tie up vines and clip the hedges. Every morning, before I was up, I could hear Tony singing in the garden rows. After the apple and cherry trees broke into bloom, we ran about under them, hunting for the new nests the birds were building, throwing clods at each other, and playing hide-and-seek with Nina. Yet the summer which was to change everything was coming nearer every day. When boys and girls are growing up, life can’t stand still, not even in the quietest of country towns; and they have to grow up, whether they will or no. That is what their elders are always forgetting.

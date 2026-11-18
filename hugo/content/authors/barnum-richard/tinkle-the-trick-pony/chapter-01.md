@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Tinkle In The Swamp"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/tinkle-the-trick-pony/chapter-01.html"
+url: "/authors/barnum-richard/tinkle-the-trick-pony/chapter-01.html"
 ---
 
 Tinkle stopped nibbling the sweet, green grass of the meadow, blew a long breath from his nose, raised his head and looked around. Then he blinked his eyes slowly, turned to look first on one side, then on the other, and to himself he said:

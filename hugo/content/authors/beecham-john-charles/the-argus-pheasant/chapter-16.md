@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Peter Gross's Pledge"
 weight: 17
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-16.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-16.html"
 ---
 
 The afternoon sun was pouring its full strength on the coral highway to Bulungan when Peter Gross rode to the council. He was mounted on a thoroughbred that he had brought with him from Java, and was in full-dress uniform. On his breast gleamed several decorations awarded him by Governor-General Van Schouten. It was the first time he had used them, and it was not vanity that inspired him to pin them on his coat. He realized the importance of employing every artifice to impress the native mind favorably toward its new ruler. Paddy Rouse was in field-service uniform, and rode a chestnut borrowed from the military stables.

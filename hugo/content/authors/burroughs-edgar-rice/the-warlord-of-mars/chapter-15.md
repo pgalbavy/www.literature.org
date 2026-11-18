@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The New Ruler"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-15.html"
 ---
 
 The flier upon whose deck Dejah Thoris and I found ourselves after twelve long years of separation proved entirely useless. Her buoyancy tanks leaked badly. Her engine would not start. We were helpless there in mid air above the arctic ice.

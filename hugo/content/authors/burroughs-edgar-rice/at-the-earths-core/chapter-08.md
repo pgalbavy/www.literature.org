@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Mahar Temple"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-08.html"
 ---
 
 THE ABORIGINE, APPARENTLY UNINJURED, CLIMBED quickly into the skiff, and seizing the spear with me helped to hold off the infuriated creature. Blood from the wounded reptile was now crimsoning the waters about us and soon from the weakening struggles it became evident that I had inflicted a death wound upon it. Presently its efforts to reach us ceased entirely, and with a few convulsive movements it turned upon its back quite dead.

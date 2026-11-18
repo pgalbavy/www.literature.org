@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Sentence Of Death"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-11.html"
 ---
 
 But it was an hour before the king re-entered the apartment and in the meantime the ape-man had occupied himself in examining the carvings upon the walls and the numerous specimens of the handicraft of Pal-ul-donian artisans which combined to impart an atmosphere of richness and luxury to the apartment.

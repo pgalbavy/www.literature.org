@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Too Many Callers"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-14.html"
 ---
 
 The news of Rusty Wren's sign, "Boy Wanted," spread like wildfire through the whole of Pleasant Valley. Rusty had put the sign out at daybreak. And before sunset as many as fifty of the field and forest people had come shyly to Farmer Green's dooryard.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-08.html"
+url: "/authors/forster-e-m/howards-end/chapter-08.html"
 ---
 
 The friendship between Margaret and Mrs. Wilcox, which was to develop so quickly and with such strange results, may perhaps have had its beginnings at Speyer, in the spring. Perhaps the elder lady, as she gazed at the vulgar, ruddy cathedral, and listened to the talk of her husband and Helen, may have detected in the other and less charming of the sisters a deeper sympathy, a sounder judgment. She was capable of detecting such things. Perhaps it was she who had desired the Miss Schlegels to be invited to Howards End, and Margaret whose presence she had particularly desired. All this is speculation; Mrs. Wilcox has left few clear indications behind her. It is certain that she came to call at Wickham Place a fortnight later, the very day that Helen was going with her cousin to Stettin.

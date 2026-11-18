@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Ethics And Religion"
 weight: 7
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-07.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-07.html"
 ---
 
 The laws of physics were at work before we were on earth, and continued to work on us long before we had intelligence enough to perceive, much less understand, them. Our proven knowledge of these processes constitutes "the science of physics"; but the laws were there before the science.

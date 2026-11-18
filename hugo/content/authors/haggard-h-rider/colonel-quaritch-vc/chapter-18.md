@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - \"What Some Have Found So Sweet\""
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-18.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-18.html"
 ---
 
 Time went on. Mr. Quest had been back at Boisingham for ten days or more, and was more cheerful than Belle (we can no longer call her his wife) had seen him for many a day. Indeed he felt as though ten years had been lifted off his back. He had taken a great and terrible decision and had acted upon it, and it had been successful, for he knew that his evil genius was so thoroughly terrified that for a long while at least he would be free from her persecution. But with Belle his relations remained as strained as ever.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Peasant-Woman At Corvigny"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-05.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-05.html"
 ---
 
 Three weeks before, on hearing that war was declared, Paul had felt rising within him the immediate resolution to get killed at all costs. The tragedy of his life, the horror of his marriage with a woman whom he still loved in his heart, the certainty which he had acquired at the Château d'Ornequin: all this had affected him to such a degree that he came to look upon death as a boon. To him, war represented, from the first and without the least demur, death. However much he might admire the solemnly impressive and magnificently consoling events of those first few weeks--the perfect order of the mobilization, the enthusiasm of the soldiers, the wonderful unity that prevailed in France, the awakening of the souls of the nation--none of these great spectacles attracted his attention. Deep down within himself he had determined that he would perform acts of such kind that not even the most improbable hazard could succeed in saving him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-17.html"
+url: "/authors/dickens-charles/great-expectations/chapter-17.html"
 ---
 
 I Now fell into a regular routine of apprenticeship life, which was varied beyond the limits of the village and the marshes, by no more remarkable circumstance than the arrival of my birthday and my paying another visit to Miss Havisham. I found Miss Sarah Pocket still on duty at the gate, I found Miss Havisham just as I had left her, and she spoke of Estella in the very same way, if not in the very same words. The interview lasted but a few minutes, and she gave me a guinea when I was going, and told me to come again on my next birthday. I may mention at once that this became an annual custom. I tried to decline taking the guinea on the first occasion, but with no better effect than causing her to ask me very angrily, if I expected more? Then, and after that, I took it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Why Freddie Was Glad"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-23.html"
 ---
 
 Even after the train had rushed shrieking into the village two miles away, and the echoes had grown still, Freddie Firefly cowered in his hiding-place on the railroad track, crouched in the chink beneath one of the ties.

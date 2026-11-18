@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 1 - The Long Trail"
 weight: 21
-aliases:
-  - "/authors/london-jack/white-fang/part-05-chapter-01.html"
+url: "/authors/london-jack/white-fang/part-05-chapter-01.html"
 ---
 
 It was in the air. White Fang sensed the coming calamity, even before there was tangible evidence of it. In vague ways it was borne in upon him that a change was impending. He knew not how nor why, yet he got his feel of the oncoming event from the gods themselves. In ways subtler than they knew, they betrayed their intentions to the wolf-dog that haunted the cabin-stoop, and that, though he never came inside the cabin, knew what went on inside their brains.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Last Request"
 weight: 32
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-32.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-32.html"
 ---
 
 At this solemn moment, and whilst the cheers still resounded, a carriage was driving along the road on the outskirts of the green on which the scene occurred; it pursued its way slowly, on account of the flocks of children who were pushed out of the avenue by the crowd of men and women.

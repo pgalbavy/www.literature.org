@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Squaring Accounts"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-29.html"
 ---
 
 When Simon Kenton was left alone by the missionary, who had been the means of bringing about this hostile meeting, he knew that a full hour must pass before his mortal enemy, The Panther, would reach the spot. The ranger was in need of sleep, and he did a thing which, while the most sensible act he could perform under the circumstances, was certainly extraordinary; he sat down on the ground, with his back against a tree, closed his eyes in slumber, and did not open them again until the hour had passed. He possessed that ability, which almost any one can acquire, of awaking at any time previously fixed upon.

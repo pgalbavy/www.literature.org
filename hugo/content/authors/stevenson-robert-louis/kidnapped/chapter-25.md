@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - In Balquhidder"
 weight: 26
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-25.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-25.html"
 ---
 
 At the door of the first house we came to, Alan knocked, which was of no very safe enterprise in such a part of the Highlands as the Braes of Balquhidder. No great clan held rule there; it was filled and disputed by small septs, and broken remnants, and what they call “chiefless folk,” driven into the wild country about the springs of Forth and Teith by the advance of the Campbells. Here were Stewarts and Maclarens, which came to the same thing, for the Maclarens followed Alan’s chief in war, and made but one clan with Appin. Here, too, were many of that old, proscribed, nameless, red-handed clan of the Macgregors. They had always been ill-considered, and now worse than ever, having credit with no side or party in the whole country of Scotland. Their chief, Macgregor of Macgregor, was in exile; the more immediate leader of that part of them about Balquhidder, James More, Rob Roy’s eldest son, lay waiting his trial in Edinburgh Castle; they were in ill-blood with Highlander and Lowlander, with the Grahames, the Maclarens, and the Stewarts; and Alan, who took up the quarrel of any friend, however distant, was extremely wishful to avoid them.

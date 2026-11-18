@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Last Camp-Fire"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-37.html"
 ---
 
 It seemed to strike all three of the friends at the same moment that they had shown a strange forgetfulness of the occasion. A sudden impulse had led them into a test of skill, that had continued fully a quarter of an hour, during which there was no thought on the part of any one of the gravity of their situation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-20.html"
 ---
 
 A line of rabbit soldiers was drawn up before the palace entrance, and they wore green and gold uniforms with high shakos upon their heads and held tiny spears in their hands. The Captain had a sword and a white plume in his shako.

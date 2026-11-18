@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Plot That Failed"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-05.html"
 ---
 
 For a month Tarzan was a regular and very welcome devotee at the shrine of the beautiful Countess de Coude. Often he met other members of the select little coterie that dropped in for tea of an afternoon. More often Olga found devices that would give her an hour of Tarzan alone.

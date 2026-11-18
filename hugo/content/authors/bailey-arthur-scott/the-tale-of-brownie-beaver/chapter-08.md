@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Mr. Crow Is Upset"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-08.html"
 ---
 
 Brownie Beaver couldn't help feeling that Mr. Crow had not treated him very well, because Mr. Crow hadn't told him all the news about Frisky Squirrel's tail. He thought that maybe there were things about a newspaper that even Mr. Crow didn't know.

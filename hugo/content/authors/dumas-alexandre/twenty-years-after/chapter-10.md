@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Monsieur Porthos Du Vallon De Bracieux De Pierrefonds"
 weight: 10
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-10.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-10.html"
 ---
 
 Thanks to what Aramis had told him, D'Artagnan, who knew already that Porthos called himself Du Vallon, was now aware that he styled himself, from his estate, De Bracieux; and that he was, on account of this estate, engaged in a lawsuit with the Bishop of Noyon. It was, then, in the neighborhood of Noyon that he must seek that estate. His itinerary was promptly determined: he would go to Dammartin, from which place two roads diverge, one toward Soissons, the other toward Compiegne; there he would inquire concerning the Bracieux estate and go to the right or to the left according to the information obtained.

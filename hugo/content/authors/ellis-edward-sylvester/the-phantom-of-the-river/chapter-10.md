@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - At Rattlesnake Gulch"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-10.html"
 ---
 
 By this time night was closing over forest and river. The sun had set, and a strong west wind blew steadily up stream. Masses of clouds were drifting across the sky, and when the moon should appear its light would be treacherous and uncertain.

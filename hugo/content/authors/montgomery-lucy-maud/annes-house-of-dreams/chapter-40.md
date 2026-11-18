@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Farewell To The House Of Dreams"
 weight: 40
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-40.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-40.html"
 ---
 
 Captain Jim was buried in the little over-harbor graveyard, very near to the spot where the wee white lady slept. His relatives put up a very expensive, very ugly "monument"--a monument at which he would have poked sly fun had he seen it in life. But his real monument was in the hearts of those who knew him, and in the book that was to live for generations.

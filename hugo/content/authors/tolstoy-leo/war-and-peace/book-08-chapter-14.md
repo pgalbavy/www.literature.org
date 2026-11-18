@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 14"
 weight: 159
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-14.html"
 ---
 
 Morning came with its cares and bustle. Everyone got up and began to move about and talk, dressmakers came again. Marya Dmitrievna appeared, and they were called to breakfast. Natasha kept looking uneasily at everybody with wide-open eyes, as if wishing to intercept every glance directed toward her, and tried to appear the same as usual.

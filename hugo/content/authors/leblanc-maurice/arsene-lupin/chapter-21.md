@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Cutting Of The Telephone Wires"
 weight: 21
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-21.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-21.html"
 ---
 
 The door opened, and in came Charolais, bearing a tray.

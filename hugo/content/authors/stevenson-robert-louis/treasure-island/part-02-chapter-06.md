@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - Council Of War"
 weight: 13
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-06.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-02-chapter-06.html"
 ---
 
 THERE was a great rush of feet across the deck. I could hear people tumbling up from the cabin and the forecastle, and slipping in an instant outside my barrel, I dived behind the fore-sail, made a double towards the stern, and came out upon the open deck in time to join Hunter and Dr. Livesey in the rush for the weather bow.

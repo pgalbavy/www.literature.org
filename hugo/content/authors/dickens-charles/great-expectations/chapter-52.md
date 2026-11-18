@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52"
 weight: 52
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-52.html"
+url: "/authors/dickens-charles/great-expectations/chapter-52.html"
 ---
 
 FROM Little Britain, I went, with my cheque in my pocket, to Miss Skiffins's brother, the accountant; and Miss Skiffins's brother, the accountant, going straight to Clarriker's and bringing Clarriker to me, I had the great satisfaction of concluding that arrangement. It was the only good thing I had done, and the only completed thing I had done, since I was first apprised of my great expectations.

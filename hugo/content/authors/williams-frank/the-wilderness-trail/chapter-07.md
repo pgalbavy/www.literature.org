@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Jean Puts It Up To Her Father"
 weight: 7
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-07.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-07.html"
 ---
 
 Jean Fitzpatrick rose from the breakfast-table at Fort Severn, and asked for the Winnipeg papers. Three days before, the mail-carrier had dashed in with dogs on the gallop, and ever since the white folk at the fort had been having a riot of joy. Months-old letters from almost forgotten friends, and papers many weeks behind their dates had been perused over and over again, until they could almost be recited from memory.

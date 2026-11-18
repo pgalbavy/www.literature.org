@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/the-pretty-sister-of-jose/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/the-pretty-sister-of-jose/chapter-03.html"
 ---
 
 By the time Pepita had reached home her mood had changed--her anger was gone, or at least the signs of it were. She sang as she prepared the supper, and chatted gayly with José. It appeared that, after all, she had enjoyed the bull-fight; it had even been better than the others; she had had great pleasure. She made delightful little jests about everything; she recounted the names of the people she had seen and known; she described to him the dresses of the girls, the airs and graces of the men. She laughed, and obliged José to laugh also, and all the time she looked so pretty, with the queer light in her eyes, the gleam of her little wicked white teeth, and the brilliant spot of color on her cheeks, that she was enough to turn one’s head.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 4"
 weight: 27
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-04.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-04.html"
 ---
 
 With no greater events than these in the Longbourn family, and otherwise diversified by little beyond the walks to Meryton, sometimes dirty and sometimes cold, did January and February pass away. March was to take Elizabeth to Hunsford. She had not at first thought very seriously of going thither; but Charlotte, she soon found, was depending on the plan, and she gradually learned to consider it herself with greater pleasure as well as greater certainty. Absence had increased her desire of seeing Charlotte again, and weakened her disgust of Mr. Collins. There was novelty in the scheme, and as, with such a mother and such uncompanionable sisters, home could not be faultless, a little change was not unwelcome for its own sake. The journey would moreover give her a peep at Jane; and, in short, as the time drew near, she would have been very sorry for any delay. Every thing, however, went on smoothly, and was finally settled according to Charlotte's first sketch. She was to accompany Sir William and his second daughter. The improvement of spending a night in London was added in time, and the plan became perfect as plan could be.

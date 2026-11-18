@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - The She-Wolf"
 weight: 2
-aliases:
-  - "/authors/london-jack/white-fang/part-01-chapter-02.html"
+url: "/authors/london-jack/white-fang/part-01-chapter-02.html"
 ---
 
 Breakfast eaten and the slim camp-outfit lashed to the sled, the men turned their backs on the cheery fire and launched out into the darkness. At once began to rise the cries that were fiercely sad - cries that called through the darkness and cold to one another and answered back. Conversation ceased. Daylight came at nine o'clock. At midday the sky to the south warmed to rose-colour, and marked where the bulge of the earth intervened between the meridian sun and the northern world. But the rose-colour swiftly faded. The grey light of day that remained lasted until three o'clock, when it, too, faded, and the pall of the Arctic night descended upon the lone and silent land.

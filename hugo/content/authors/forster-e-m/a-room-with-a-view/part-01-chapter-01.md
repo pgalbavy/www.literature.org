@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - The Bertolini"
 weight: 1
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-01.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-01-chapter-01.html"
 ---
 
 “The Signora had no business to do it,” said Miss Bartlett, “no business at all. She promised us south rooms with a view close together, instead of which here are north rooms, looking into a courtyard, and a long way apart. Oh, Lucy!”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Desire And Feeling"
 weight: 4
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-03.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-03.html"
 ---
 
 Desire is a subject upon which, if I am not mistaken, true views can only be arrived at by an almost complete reversal of the ordinary unreflecting opinion. It is natural to regard desire as in its essence an attitude towards something which is imagined, not actual; this something is called the *END* or *OBJECT* of the desire, and is said to be the *PURPOSE* of any action resulting from the desire. We think of the content of the desire as being just like the content of a belief, while the attitude taken up towards the content is different. According to this theory, when we say: "I hope it will rain," or "I expect it will rain," we express, in the first case, a desire, and in the second, a belief, with an identical content, namely, the image of rain. It would be easy to say that, just as belief is one kind of feeling in relation to this content, so desire is another kind. According to this view, what comes first in desire is something imagined, with a specific feeling related to it, namely, that specific feeling which we call "desiring" it. The discomfort associated with unsatisfied desire, and the actions which aim at satisfying desire, are, in this view, both of them effects of the desire. I think it is fair to say that this is a view against which common sense would not rebel; nevertheless, I believe it to be radically mistaken. It cannot be refuted logically, but various facts can be adduced which make it gradually less simple and plausible, until at last it turns out to be easier to abandon it wholly and look at the matter in a totally different way.

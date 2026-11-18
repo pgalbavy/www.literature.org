@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Good Hunting"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-04.html"
+url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-04.html"
 ---
 
 When we had got that four shillings by digging for treasure we ought, by rights, to have tried Dicky's idea of answering the advertisement about ladies and gentlemen and spare time and two pounds a week, but there were several things we rather wanted.

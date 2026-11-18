@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15 - Where A Manticore May Lead"
 weight: 33
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-15.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-15.html"
 ---
 
 To what plank of safety will not an unfortunate being cling? Will not the eyes of the condemned seek to seize any ray of hope, no matter how vague?

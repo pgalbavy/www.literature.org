@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-21.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-21.html"
 ---
 
 As a mischievous caricaturist, in the beginning, draws a fairly good portrait of his victim and then gradually habituates his public to a series of progressively exaggerated extravagances, so progressed the programme of the Bolsheviki in America, revealing little by little their final conception of liberty and equality in the bloody and distorted monster which they had now evolved, and which they publicly owned as their ideal emblem.

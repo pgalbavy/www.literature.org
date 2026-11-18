@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Smuggled Supper"
 weight: 1
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-01.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-01.html"
 ---
 
 Outside the bedroom the night was black and still.

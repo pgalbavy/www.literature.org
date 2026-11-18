@@ -1,8 +1,7 @@
 ---
 title: "Chapter 114 - The Gilder"
 weight: 114
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-114.html"
+url: "/authors/melville-herman/moby-dick/chapter-114.html"
 ---
 
 Penetrating further and further into the heart of the Japanese cruising ground the Pequod was soon all astir in the fishery. Often, in mild, pleasant weather, for twelve, fifteen, eighteen, and twenty hours on the stretch, they were engaged in the boats, steadily pulling, or sailing, or paddling after the whales, or for an interlude of sixty or seventy minutes calmly awaiting their uprising; though with but small success for their pains.

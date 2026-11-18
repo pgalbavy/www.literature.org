@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-06.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-06.html"
 ---
 
 Harrow had not overstated the facts when he said that it had been his privilege to serve in families "where niceties were highly regarded." He was the accomplished servant, seeing and hearing only such things as his betters intended for his eyes and ears. If he had human emotions he ordinarily revealed them only when his livery was doffed. Yet even the impeccably correct serving man has his moments of weakness, and, as Hamilton Burton left the room, he muttered low, but quite audibly, "My God!" Then, feeling Carl Bristoll's chilling glance upon him, he sought to cover his indiscretion in an apologetic cough.

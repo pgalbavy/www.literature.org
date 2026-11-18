@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - 999 Priscilla"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-17.html"
 ---
 
 As the cutter touched the bank the entire party from the long-house, whites and natives, were gathered on the shore to meet it. At first the officers held off as though fearing a hostile demonstration, but when they saw the whites among the throng, a command was given to pull in, and a moment later one of the officers stepped ashore.

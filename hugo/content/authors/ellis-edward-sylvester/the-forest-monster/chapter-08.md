@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Lovers"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-08.html"
 ---
 
 Hammond felt that he had done his duty. He had awakened the trapper to a sense of his personal danger, and that was enough. Without waiting for his reply, he moved rapidly away, taking a direction that led toward the Meagan village.

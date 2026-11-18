@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Surprises"
 weight: 21
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-21.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-21.html"
 ---
 
 "Why, Gail, what are you doing?" asked Faith one cold, dull November day, as she hurried into the kitchen from her village trip, and found the older sister picking two plump hens.

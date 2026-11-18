@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Dangerous Game"
 weight: 11
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-11.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-11.html"
 ---
 
 “I’ll tell you my idea of the situation in about one minute!” Jimmie broke in. “If you follow my advice, you’ll get into the aeroplanes and get away from this old smuggler’s den. I want to get somewhere where I can lay down and sleep, and get up and eat, and go back and sleep, and get up and eat again, without being interrupted!”

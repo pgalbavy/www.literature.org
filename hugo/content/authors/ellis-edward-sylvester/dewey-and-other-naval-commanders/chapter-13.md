@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-13.html"
 ---
 
 Captains Carden and Decatur—Cruise of the *Macedonian* —Battle with the Frigate *United States* —Decatur's Chivalry.

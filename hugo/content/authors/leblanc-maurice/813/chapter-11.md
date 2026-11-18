@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Charlemagne"
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-11.html"
+url: "/authors/leblanc-maurice/813/chapter-11.html"
 ---
 
 "Silence!" said the stranger, sharply. "Don't use that word."

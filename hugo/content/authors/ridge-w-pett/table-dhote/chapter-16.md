@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Savoir Faire"
 weight: 16
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-16.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-16.html"
 ---
 
 “AUNT kept on saying I ought to bring her up to London with me.” The perturbed lad examined closely the peak of his cap. “What the others seeggested was that I should get you to go down to Railway Terrace and argy it all out with my late landlady. One of the ticket collectors said there wasn’t nobody on the station who could make himself so unpleasant as you, Mr. Swan, when you felt so inclined.”

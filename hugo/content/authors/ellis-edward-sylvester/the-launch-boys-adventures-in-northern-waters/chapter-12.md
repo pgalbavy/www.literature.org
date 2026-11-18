@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Hostesses And Guests"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-12.html"
 ---
 
 Mike affected to be greatly embarrassed by the question of Nora Friestone. He swallowed what seemed to be a lump rising in his throat, grinned in a sickly way and then asked as if much distressed:

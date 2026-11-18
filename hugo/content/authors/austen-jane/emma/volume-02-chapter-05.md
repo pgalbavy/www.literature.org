@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 5"
 weight: 23
-aliases:
-  - "/authors/austen-jane/emma/volume-02-chapter-05.html"
+url: "/authors/austen-jane/emma/volume-02-chapter-05.html"
 ---
 
 Small heart had Harriet for visiting. Only half an hour before her friend called for her at Mrs. Goddard's, her evil stars had led her to the very spot where, at that moment, a trunk, directed to The Rev. Philip Elton, White-Hart, Bath, was to be seen under the operation of being lifted into the butcher's cart, which was to convey it to where the coaches past; and every thing in this world, excepting that trunk and the direction, was consequently a blank.

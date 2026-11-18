@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Together"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-07.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-07.html"
 ---
 
 The end of June and of the house party at Roya-Neh was now near at hand, and both were to close with a moonlight fête and dance in the forest, invitations having been sent to distant neighbours who had been entertaining similar gatherings at Iron Hill and Cloudy Mountain—the Grays, Beekmans, Ellises, and Grandcourts.

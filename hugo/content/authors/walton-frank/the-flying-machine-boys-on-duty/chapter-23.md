@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Look At The Bowl"
 weight: 23
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-23.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-23.html"
 ---
 
 The interruption which came at the restaurant during the meal Ben and Carl were having with Mr. Havens and the two officers, was, to the boys at least, a most astonishing one.

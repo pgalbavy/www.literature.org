@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Red Lightning"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-18.html"
 ---
 
 "What's the matter with my tail!" cried Mr. Grouse.

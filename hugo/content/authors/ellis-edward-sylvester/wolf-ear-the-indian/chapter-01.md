@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - \"The Bullet Had Passed Startlingly Near Him\""
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-01.html"
 ---
 
 Before relating to my young friends the incidents which follow, I think a few words of explanation will help them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Diligence"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-01.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-01.html"
 ---
 
 James Therne is not my real name, for why should I publish it to the world? A year or two ago it was famous--or infamous--enough, but in that time many things have happened. There has been a war, a continental revolution, two scandals of world-wide celebrity, one moral and the other financial, and, to come to events that interest me particularly as a doctor, an epidemic of Asiatic plague in Italy and France, and, stranger still, an outbreak of the mediaeval grain sickness, which is believed to have carried off 20,000 people in Russia and German Poland, consequent, I have no doubt, upon the wet season and poor rye harvest in those countries.

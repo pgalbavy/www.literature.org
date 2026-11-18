@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-46.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-46.html"
 ---
 
 "If any one should importune me to give a reason why I loved him, I feel it could no otherwise be expressed than by making answer, 'Because it was he, because it was I.' There is, beyond what I am able to say, I know not what inexplicable power that brought on this union." - MONTAIGNE: On Friendship.

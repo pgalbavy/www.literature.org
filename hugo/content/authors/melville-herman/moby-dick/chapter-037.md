@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Sunset"
 weight: 37
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-037.html"
+url: "/authors/melville-herman/moby-dick/chapter-037.html"
 ---
 
 The cabin; by the stern windows; Ahab sitting alone, and gazing out.

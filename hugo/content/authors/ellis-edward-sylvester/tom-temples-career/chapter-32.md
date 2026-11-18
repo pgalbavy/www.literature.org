@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Captured By Highwaymen"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-32.html"
 ---
 
 "*WHAT* do you want?" demanded Gates.

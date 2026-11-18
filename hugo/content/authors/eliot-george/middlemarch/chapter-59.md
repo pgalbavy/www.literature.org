@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59"
 weight: 59
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-59.html"
+url: "/authors/eliot-george/middlemarch/chapter-59.html"
 ---
 
 They said of old the Soul had human shape, But smaller, subtler than the fleshly self, So wandered forth for airing when it pleased. And see! beside her cherub-face there floats A pale-lipped form aerial whispering Its promptings in that little shell her ear."

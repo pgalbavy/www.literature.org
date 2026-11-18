@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 16 - Minders And Re-Minders"
 weight: 16
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-16.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-16.html"
 ---
 
 The Secretary lost no time in getting to work, and his vigilance and method soon set their mark on the Golden Dustman’s affairs. His earnestness in determining to understand the length and breadth and depth of every piece of work submitted to him by his employer, was as special as his despatch in transacting it. He accepted no information or explanation at second hand, but made himself the master of everything confided to him.

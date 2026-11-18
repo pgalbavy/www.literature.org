@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-34.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-34.html"
 ---
 
 In which Phileas Fogg at last reaches London

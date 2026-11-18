@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - An Engagement"
 weight: 14
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-14.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-14.html"
 ---
 
 "Your rooms, Prince, are wonderful," Penelope said to him. "I knew that you were a man of taste, but I did not know that you were also a millionaire."

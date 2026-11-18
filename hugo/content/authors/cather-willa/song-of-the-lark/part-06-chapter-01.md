@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 1"
 weight: 51
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-01.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-01.html"
 ---
 
 It is a glorious winter day. Denver, standing on her high plateau under a thrilling green-blue sky, is masked in snow and glittering with sunlight. The Capitol building is actually in armor, and throws off the shafts of the sun until the beholder is dazzled and the outlines of the building are lost in a blaze of reflected light. The stone terrace is a white field over which fiery reflections dance, and the trees and bushes are faithfully repeated in snow--on every black twig a soft, blurred line of white. From the terrace one looks directly over to where the mountains break in their sharp, familiar lines against the sky. Snow fills the gorges, hangs in scarfs on the great slopes, and on the peaks the fiery sunshine is gathered up as by a burning-glass.

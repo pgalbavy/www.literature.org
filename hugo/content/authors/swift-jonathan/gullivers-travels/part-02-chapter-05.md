@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 14
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-05.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-05.html"
 ---
 
 Several adventurers that happened to the author. The execution of a criminal. The author shows his skill in navigation.

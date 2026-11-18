@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-46.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-46.html"
 ---
 
 Habakkuk McEwen entered upon his strange mission with ardor. A few seconds carried him beyond sight of the fire, and he pushed forward until fully two hundred yards distant, when he paused, and listened.

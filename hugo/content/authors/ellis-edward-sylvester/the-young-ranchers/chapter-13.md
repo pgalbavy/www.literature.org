@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - In The Fringe Of The Woods"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-13.html"
 ---
 
 Fully realizing the mistake he had made in waiting, the rancher now did his best to improve the precious time at his disposal.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-11.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-11.html"
 ---
 
 The door clanged, shutting out all but a little light, and I was left alone on my back. By the tricks I had long since learned in the jacket, I managed to writhe myself across the floor an inch at a time until the edge of the sole of my right shoe touched the door. There was an immense cheer in this. I was not utterly alone. If the need arose, I could at least rap knuckle talk to Morrell.

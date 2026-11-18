@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-14.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-14.html"
 ---
 
 The outward usualness of things continued after dinner. It was Sheridan's custom to read the evening paper beside the fire in the library, while his wife, sitting near by, either sewed (from old habit) or allowed herself to be repeatedly baffled by one of the simpler forms of solitaire. To-night she did neither, but sat in her customary chair, gazing at the fire, while Sheridan let the unfolded paper rest upon his lap, though now and then he lifted it, as if to read, and let it fall back upon his knees again. Bibbs came in noiselessly and sat in a corner, doing nothing; and from a "reception-room" across the hall an indistinct vocal murmur became just audible at intervals. Once, when this murmur grew louder, under stress of some irrepressible merriment, Edith's voice could be heard—"Bobby, aren't you awful!" and Sheridan glanced across at his wife appealingly.

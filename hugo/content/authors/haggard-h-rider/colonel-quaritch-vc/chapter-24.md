@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - \"Good-Bye, My Dear, Good-Bye!\""
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-24.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-24.html"
 ---
 
 When Edward Cossey had gone, Ida rose and put her hands to her head. So the blow had fallen, the deed was done, and she was engaged to be married to Edward Cossey. And Harold Quaritch! Well, there must be an end to that. It was hard, too--only a woman could know how hard. Ida was not a person with a long record of love affairs. Once, when she was twenty, she had received a proposal which she had refused, and that was all. So it happened that when she became attached to Colonel Quaritch she had found her heart for the first time, and for a woman, somewhat late in life. Consequently her feelings were all the more profound, and so indeed was her grief at being forced not only to put them away, but to give herself to another man who was not agreeable to her. She was not a violent or ill-regulated woman like Mrs. Quest. She looked facts in the face, recognised their meaning and bowed before their inexorable logic. It seemed to her almost impossible that she could hope to avoid this marriage, and if that proved to be so, she might be relied upon to make the best of it. Scandal would, under any circumstances, never find a word to say against Ida, for she was not a person who could attempt to console herself for an unhappy marriage. But it was bitter, bitter as gall, to be thus forced to turn aside from her happiness--for she well knew that with Harold Quaritch her life would be very happy--and fit her shoulders to this heavy yoke. Well, she had saved the place to her father, and also to her descendants, if she had any, and that was all that could be said.

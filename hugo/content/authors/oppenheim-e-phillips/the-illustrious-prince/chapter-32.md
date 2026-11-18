@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Prince Maiyo Speaks"
 weight: 32
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-32.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-32.html"
 ---
 
 The library at Devenham Castle was a large and sombre apartment, with high oriel windows and bookcases reaching to the ceiling. It had an unused and somewhat austere air. Tonight especially an atmosphere of gloom seemed to pervade it. The Prince, when he opened the door, found the three men who were awaiting him seated at an oval table at the further end of the room.

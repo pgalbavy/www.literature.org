@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-14.html"
 ---
 
 "Now no one will ever know."

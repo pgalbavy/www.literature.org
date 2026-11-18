@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 48
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-47.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-47.html"
 ---
 
 One morning, about the beginning of November, while I was inditing some business letters, shortly after breakfast, Eliza Millward came to call upon my sister. Rose had neither the discrimination nor the virulence to regard the little demon as I did, and they still preserved their former intimacy. At the moment of her arrival, however, there was no one in the room but Fergus and myself, my mother and sister being both of them absent, 'on household cares intent'; but I was not going to lay myself out for her amusement, whoever else might so incline: I merely honoured her with a careless salutation and a few words of course, and then went on with my writing, leaving my brother to be more polite if he chose. But she wanted to tease me.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Slight Mistake"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-10.html"
 ---
 
 Mrs. Woodchuck was glad that she had gone to Aunt Polly Woodchuck's house to tell her the news about the Muley Cow. Aunt Polly was all in a flutter, she was so eager to see the Muley Cow in her new poke bonnet.

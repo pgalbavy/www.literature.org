@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 6"
 weight: 112
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-06.html"
 ---
 
 During the first weeks of his stay in Petersburg Prince Andrew felt the whole trend of thought he had formed during his life of seclusion quite overshadowed by the trifling cares that engrossed him in that city.

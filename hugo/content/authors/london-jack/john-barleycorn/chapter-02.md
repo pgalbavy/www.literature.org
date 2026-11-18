@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-02.html"
+url: "/authors/london-jack/john-barleycorn/chapter-02.html"
 ---
 
 And, ere I begin, I must ask the reader to walk with me in all sympathy; and, since sympathy is merely understanding, begin by understanding me and whom and what I write about. In the first place, I am a seasoned drinker. I have no constitutional predisposition for alcohol. I am not stupid. I am not a swine. I know the drinking game from A to Z, and I have used my judgment in drinking. I never have to be put to bed. Nor do I stagger. In short, I am a normal, average man; and I drink in the normal, average way, as drinking goes. And this is the very point: I am writing of the effects of alcohol on the normal, average man. I have no word to say for or about the microscopically unimportant excessivist, the dipsomaniac.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Rifleman And Huron On The Trail"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-riflemen-of-the-miami/chapter-09.html"
 ---
 
 The woodcock, in his moist retreat,  

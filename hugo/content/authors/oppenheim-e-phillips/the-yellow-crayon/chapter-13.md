@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-13.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-13.html"
 ---
 
 He had been kept waiting longer than usual, and he had somehow the feeling that his visit was ill-timed, when at last she came to him. He looked up eagerly as she entered the little reception room which he had grown to know so well during the last few weeks, and it struck him for the first time that her welcome was a little forced, her eyes a little weary.

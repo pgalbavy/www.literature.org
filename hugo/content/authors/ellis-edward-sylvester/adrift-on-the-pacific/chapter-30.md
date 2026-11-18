@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - On The Flying Proa"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-30.html"
 ---
 
 At last the friends who had been left on Pearl Island three years before, and whose hearts had been bowed with despair more than once, saw the atoll gradually fade from view, until the top of the tallest palm-tree dipped out of sight in the blue Pacific and vanished from view forever.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Fight On The Beach"
 weight: 26
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-25.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-25.html"
 ---
 
 Carver gave a low-voiced command to halt, and enjoined his men to see to their weapons. As he ran his eyes over his company and saw their dogged jaws and alert, watchful faces, devoid of any trace of nervousness and excitability, his face lit with a quiet satisfaction. These men would fight--they were veterans who knew how to fight, and they had a motive; Paddy was a universal favorite.

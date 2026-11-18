@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - What Happened to Our Two Travelers with Two Girls, Two Monkeys, and the Savages, Called Oreillons"
 weight: 16
-aliases:
-  - "/authors/voltaire/candide/chapter-16.html"
+url: "/authors/voltaire/candide/chapter-16.html"
 ---
 
 Candide and his valet had already passed the frontiers before it was known that the German Jesuit was dead. The wary Cacambo had taken care to fill his wallet with bread, chocolate, some ham, some fruit, and a few bottles of wine. They penetrated with their Andalusian horses into a strange country, where they could discover no beaten path. At length a beautiful meadow, intersected with purling rills, opened to their view. Cacambo proposed to his master to take some nourishment, and he set him an example.

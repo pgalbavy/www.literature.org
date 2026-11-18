@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Advance"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-03.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-03.html"
 ---
 
 Hamil stood under the cocoanut palms at the lake's edge and watched the lagoon where thousands of coloured lanterns moved on crafts, invisible except when revealed in the glare of the rushing rockets.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-09.html"
 ---
 
 The country wasn't so pretty now. Before the travelers appeared a rocky plain covered with hills on which grew nothing green. They were nearing some low mountains, too, and the road, which before had been smooth and pleasant to walk upon, grew rough and uneven.

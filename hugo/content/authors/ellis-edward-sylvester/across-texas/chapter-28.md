@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Sound Of A Pistol"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-28.html"
 ---
 
 *JUST* as night was closing in, an occurrence took place which caused our friends more alarm than anything during the day.

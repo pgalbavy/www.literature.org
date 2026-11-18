@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Genius"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-03.html"
 ---
 
 *HAVING PROGRESSED* thus far in our story, or properly having began in the middle, it is now necessary that we should turn back to the proper starting point.

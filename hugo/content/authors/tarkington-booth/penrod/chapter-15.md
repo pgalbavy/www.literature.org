@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Two Families"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-15.html"
+url: "/authors/tarkington-booth/penrod/chapter-15.html"
 ---
 
 Penrod entered the schoolroom, Monday picturesquely leaning upon a man's cane shortened to support a cripple approaching the age of twelve. He arrived about twenty minutes late, limping deeply, his brave young mouth drawn with pain, and the sensation he created must have been a solace to him; the only possible criticism of this entrance being that it was just a shade too heroic. Perhaps for that reason it failed to stagger Miss Spence, a woman so saturated with suspicion that she penalized Penrod for tardiness as promptly and as coldly as if he had been a mere, ordinary, unmutilated boy. Nor would she entertain any discussion of the justice of her ruling. It seemed, almost, that she feared to argue with him.

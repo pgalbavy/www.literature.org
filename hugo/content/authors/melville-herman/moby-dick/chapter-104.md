@@ -1,8 +1,7 @@
 ---
 title: "Chapter 104 - The Fossil Whale"
 weight: 104
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-104.html"
+url: "/authors/melville-herman/moby-dick/chapter-104.html"
 ---
 
 From his mighty bulk the whale affords a most congenial theme whereon to enlarge, amplify, and generally expatiate. Would you, you could not compress him. By good rights he should only be treated of in imperial folio. Not to tell over again his furlongs from spiracle to tail, and the yards he measures about the waist; only think of the gigantic involutions of his intestines, where they lie in him like great cables and hawsers coiled away in the subterranean orlop-deck of a line-of-battle-ship.

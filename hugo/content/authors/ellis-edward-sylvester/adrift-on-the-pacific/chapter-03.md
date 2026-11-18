@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Accident"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-03.html"
 ---
 
 That which arrested the attention of the little girl in the arms of Captain Strathmore, was a sight—unique, rare and impressively beautiful.

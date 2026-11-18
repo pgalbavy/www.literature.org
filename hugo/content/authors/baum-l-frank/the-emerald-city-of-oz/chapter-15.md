@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-15.html"
 ---
 
 It was a beautiful evening, so they drew their camp chairs in a circle before one of the tents and began to tell stories to amuse themselves and pass away the time before they went to bed.

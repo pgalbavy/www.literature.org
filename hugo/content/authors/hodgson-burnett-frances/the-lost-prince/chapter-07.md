@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - \"The Lamp Is Lighted!\""
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-07.html"
 ---
 
 On his way home, Marco thought of nothing but the story he must tell his father, the story the stranger who had been to Samavia had told The Rat's father. He felt that it must be a true story and not merely an invention. The Forgers of the Sword must be real men, and the hidden subterranean caverns stacked through the centuries with arms must be real, too. And if they were real, surely his father was one of those who knew the secret. His thoughts ran very fast. The Rat's boyish invention of the rising was only part of a game, but how natural it would be that sometime--perhaps before long--there would be a real rising! Surely there would be one if the Secret Party had grown so strong, and if many weapons and secret friends in other countries were ready and waiting. During all these years, hidden work and preparation would have been going on continually, even though it was preparation for an unknown day. A party which had lasted so long--which passed its oath on from generation to generation--must be of a deadly determination.

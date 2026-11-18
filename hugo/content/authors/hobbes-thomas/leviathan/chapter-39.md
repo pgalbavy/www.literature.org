@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Of The Signification In Scripture Of The Word Church"
 weight: 41
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-39.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-39.html"
 ---
 
 Church The Lords House The word Church, (Ecclesia) signifieth in the Books of Holy Scripture divers things. Sometimes (though not often) it is taken for Gods House, that is to say, for a Temple, wherein Christians assemble to perform holy duties publiquely; as, 1 Cor. 14. ver. 34. "Let your women keep silence in the Churches:" but this is Metaphorically put, for the Congregation there assembled; and hath been since used for the Edifice it self, to distinguish between the Temples of Christians, and Idolaters. The Temple of Jerusalem was Gods House, and the House of Prayer; and so is any Edifice dedicated by Christians to the worship of Christ, Christs House: and therefore the Greek Fathers call it Kuriake, The Lords House; and thence, in our language it came to be called Kyrke, and Church.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Summons"
 weight: 14
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-14.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-14.html"
 ---
 
 Anne was sitting with Ruby Gillis in the Gillis' garden after the day had crept lingeringly through it and was gone. It had been a warm, smoky summer afternoon. The world was in a splendor of out-flowering. The idle valleys were full of hazes. The woodways were pranked with shadows and the fields with the purple of the asters.

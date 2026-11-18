@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Nantucket"
 weight: 14
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-014.html"
+url: "/authors/melville-herman/moby-dick/chapter-014.html"
 ---
 
 Nothing more happened on the passage worthy the mentioning; so, after a fine run, we safely arrived in Nantucket.

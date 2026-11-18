@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - On The Bank Of The Mississippi"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-03.html"
 ---
 
 That which reached the ears of Jack Carleton, while he stood in the woods, silent and listening, was a peculiar swashing noise, which continued a few seconds, followed by the same space of silence—the intervals being as regular as the ticking of a huge pendulum. Accompanying the sound was another, a soft, almost inaudible flow, such as one hears when standing on the bank of a vast stream of water.

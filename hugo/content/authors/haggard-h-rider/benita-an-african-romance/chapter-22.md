@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Voice Of The Living"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-22.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-22.html"
 ---
 
 Mr. Clifford was awake again now.

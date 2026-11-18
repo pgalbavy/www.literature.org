@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-08.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-08.html"
 ---
 
 Young Shotwell, still too incredulous to be either hurt or angry, stood watching Palla welcoming her guests, who arrived within a few minutes of each other.

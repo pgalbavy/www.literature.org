@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-03.html"
 ---
 
 Two or three decades earlier the prevailing sentiment would have been that "poor little Mrs. Gareth-Lawless" and her situation were pathetic. Her acquaintances would sympathetically have discussed her helplessness and absolute lack of all resource. So very pretty, so young, the mother of a dear little girl--left with no income! How very sad! What COULD she do? The elect would have paid her visits and sitting in her darkened drawing-room earnestly besought her to trust to her Maker and suggested "the Scriptures" as suitable reading. Some of them--rare and strange souls even in their time--would have known what they meant and meant what they said in a way they had as yet only the power to express through the medium of a certain shibboleth, the rest would have used the same forms merely because shibboleth is easy and always safe and creditable.

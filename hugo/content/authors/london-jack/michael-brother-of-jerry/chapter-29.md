@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-29.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-29.html"
 ---
 
 "Guess I'll have to wash my hands of him," Collins told Johnny. "I know Del Mar must have been right when he said he was the limit, but I can't get a clue to it."

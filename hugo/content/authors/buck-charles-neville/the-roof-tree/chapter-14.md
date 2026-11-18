@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-14.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-14.html"
 ---
 
 Among the men who danced at that party were Sim Squires and Pete Doane, but when they saddled and mounted at sunset, they rode divergent ways.

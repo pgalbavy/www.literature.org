@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Theo'S First Trouble"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-08.html"
 ---
 
 He had been gone three days, and, in their lapse, Theo felt as if three lustrums had passed. Their parting had been so unexpected a one, that she could not get used to it, or believe it was anything else but a painful dream. After all, it seemed that Fortune was crueller than she had imagined possible. He was gone, and to Priscilla Gower; and she had never been able to believe that some alteration, of which she had no very definite conception, would occur, and end her innocent little ghost of a love-story, as all love-stories should be ended. It had never been more than the ghost of a story. Until that last night he had never uttered a word of love to her; he had never even made the fine speeches to her which she might have expected, and, doubtless, would have expected, if she had been anybody else but Theodora North. She had not expected them, though, and, consequently, was not disappointed when she did not receive them. But she found herself feeling terribly lonely after Denis Oglethorpe left Paris. The first day she felt more stunned than anything else. The second her sensibilities began to revive keenly, and she was full of sad, desperate wonder concerning him--concerning how he would feel when he stood face to face with Priscilla Gower; how he would look, what he would say to her. The third day was only the second intensified, and filled with a something that was almost like a terror now and then.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-36.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-36.html"
 ---
 
 In which Phileas Fogg's name is once more at a premium on 'change

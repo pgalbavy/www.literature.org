@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Inside The House"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-12.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-12.html"
 ---
 
 The scene in the drawing-room represented the ideal of domestic comfort. The fire of wood and coal mixed burned brightly; the lamps shed a soft glow of light; the solid shutters and the thick red curtains kept the cold night air on the outer side of two long windows, which opened on the back garden. Snug arm-chairs were placed in every part of the room. In one of them Sir Joseph reclined, fast asleep; in another, Miss Lavinia sat knitting; a third chair, apart from the rest, near a round table in one corner of the room, was occupied by Natalie. Her head was resting on her hand, an unread book lay open on her lap. She looked pale and harassed; anxiety and suspense had worn her down to the shadow of her former self. On entering the room, Turlington purposely closed the door with a bang. Natalie started. Miss Lavinia looked up reproachfully. The object was achieved--Sir Joseph was roused from his sleep.

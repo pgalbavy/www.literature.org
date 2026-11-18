@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 35
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-34.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-34.html"
 ---
 
 It was in the Orpheum Theatre, of Oakland, California; and Harley Kennan was in the act of reaching under his seat for his hat, when his wife said:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - On The Track"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-hollow-needle/chapter-05.html"
+url: "/authors/leblanc-maurice/the-hollow-needle/chapter-05.html"
 ---
 
 Young Beautrelet was stunned by the violence of the blow. As a matter of fact, although, in publishing his article, he had obeyed one of those irresistible impulses which make a man despise every consideration of prudence, he had never really believed in the possibility of an abduction. His precautions had been too thorough. The friends at Cherbourg not only had instructions to guard and protect Beautrelet the elder: they were also to watch his comings and goings, never to let him walk out alone and not even to hand him a single letter without first opening it. No, there was no danger. Lupin, wishing to gain time, was trying to intimidate his adversary.

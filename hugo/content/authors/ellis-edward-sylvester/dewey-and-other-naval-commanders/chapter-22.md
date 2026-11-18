@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Wilkes's Exploring Expedition"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-22.html"
 ---
 
 Perhaps my young readers have wondered over the same fact that used to puzzle me when a boy. While the civilized world was interested, as it has been for hundreds of years, in trying to reach the Pole, and the nations were constantly sending expeditions to search for it, to be followed by others to hunt for the expeditions and then by others to look up those that were hunting for the others and so on, all these efforts were confined to the North Pole. Everybody seemed to have forgotten that there is also a South Pole, which is not a mile further from the equator than the North Pole.

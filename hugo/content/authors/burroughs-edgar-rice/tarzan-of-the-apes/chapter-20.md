@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Heredity"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-20.html"
 ---
 
 When Jane realized that she was being borne away a captive by the strange forest creature who had rescued her from the clutches of the ape she struggled desperately to escape, but the strong arms that held her as easily as though she had been but a day-old babe only pressed a little more tightly.

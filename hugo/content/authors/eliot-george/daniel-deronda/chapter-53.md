@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53"
 weight: 53
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-53.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-53.html"
 ---
 
 "My desolation does begin to make A better life." - SHAKESPEARE: Antony and Cleopatra.

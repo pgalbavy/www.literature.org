@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - What Saved Mike"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-25.html"
 ---
 
 Let us be just to all. I therefore make haste to say that when Kit Woodford thus threw Mike Murphy into the Back River he did not doubt for an instant that he was a swimmer, for whoever heard of a lusty youth seventeen years old who could not take care of himself in water? Of course there are such, but they are so few that they are a negligible number.

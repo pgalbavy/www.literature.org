@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 17 - The \u0026quot;Thunder Child\u0026quot;"
 weight: 17
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-17.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-17.html"
 ---
 
 Had the Martians aimed only at destruction, they might on Monday have annihilated the entire population of London, as it spread itself slowly through the home counties. Not only along the road through Barnet, but also through Edgware and Waltham Abbey, and along the roads eastward to South- end and Shoeburyness, and south of the Thames to Deal and Broadstairs, poured the same frantic rout. If one could have hung that June morning in a balloon in the blazing blue above London every northward and eastward road running out of the tangled maze of streets would have seemed stippled black with the streaming fugitives, each dot a human agony of terror and physical distress. I have set forth at length in the last chapter my brother's account of the road through Chipping Barnet, in order that my readers may realise how that swarming of black dots appeared to one of those con- cerned. Never before in the history of the world had such a mass of human beings moved and suffered together. The legendary hosts of Goths and Huns, the hugest armies Asia has ever seen, would have been but a drop in that current. And this was no disciplined march; it was a stampede--a stampede gigantic and terrible--without order and without a goal, six million people unarmed and unprovisioned, driving headlong. It was the beginning of the rout of civilisation, of the massacre of mankind.

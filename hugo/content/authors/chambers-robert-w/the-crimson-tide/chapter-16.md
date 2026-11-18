@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-16.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-16.html"
 ---
 
 "Are you worried about this Dumont girl?" asked Shotwell Senior abruptly.

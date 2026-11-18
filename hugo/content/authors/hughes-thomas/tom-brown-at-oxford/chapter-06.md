@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - How Drysdale And Blake Went Fishing"
 weight: 8
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-06.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-06.html"
 ---
 
 "Drysdale, what's a servitor?"

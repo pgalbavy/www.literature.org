@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Voice In A Garden"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-11.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-11.html"
 ---
 
 Crailey came home the next day with a new poem, but no fish. He lounged up the stairs, late in the afternoon, humming cheerfully to himself, and, dropping his rod in a corner of Tom's office, laid the poem on the desk before his partner, produced a large, newly-replenished flask, opened it, stretched himself comfortably upon a capacious horse-hair sofa, drank a deep draught, chuckled softly, and requested Mr. Vanrevel to set the rhymes to music immediately.

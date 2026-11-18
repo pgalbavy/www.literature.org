@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Sunshine"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-22.html"
 ---
 
 Amid the tense stillness, with the group of sympathetic spectators motionless and attentive, the surgeon performed his duty with the deftness and skill of long experience. Jack compressed his lips, when his attendant said with cheerful gentleness:

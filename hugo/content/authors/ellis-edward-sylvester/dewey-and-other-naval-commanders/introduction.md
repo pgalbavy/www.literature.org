@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/introduction.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/introduction.html"
 ---
 
 I purpose telling you in the following pages about the exploits of the gallant men who composed the American Navy, beginning with the Revolution and ending with the story of their wonderful deeds in our late war with Spain. You can never read a more interesting story, nor one that will make you feel prouder of your birthright. While our patriot armies have done nobly, it is none the less true that we never could have become one of the greatest nations in the world without the help of our heroic navy. Our warships penetrated into all waters of the globe, and made people, whether barbarous or civilized, respect and fear the Stars and Stripes.

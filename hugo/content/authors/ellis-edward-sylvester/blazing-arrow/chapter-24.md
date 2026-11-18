@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Tracks Of Horses"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-24.html"
 ---
 
 At the moment when neither of the youths had a thought of such a thing, they found themselves walking along a distinctly marked trail in the woods, while Arqu-wao, the Shawanoe guide, turned his head with an odd expression, as if to ask their opinion of the manner in which he had kept his agreement.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - With the Yellow Men"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-09.html"
 ---
 
 Thuvan Dihn was not long in joining me; and, though we found the hooked weapon a strange and savage thing with which to deal, the three of us soon despatched the five black-bearded warriors who opposed us.

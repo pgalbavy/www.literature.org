@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Last Night"
 weight: 8
-aliases:
-  - "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-08.html"
+url: "/authors/stevenson-robert-louis/the-strange-case-of-dr-jekyll-and-mr-hyde/chapter-08.html"
 ---
 
 Mr. Utterson was sitting by his fireside one evening after dinner, when he was surprised to receive a visit from Poole.

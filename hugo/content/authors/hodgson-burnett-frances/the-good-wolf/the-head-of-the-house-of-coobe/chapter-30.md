@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-30.html"
 ---
 
 What did occur was not at all complicated. It would not have been possible for a woman to have spent her girlhood with the cleverest mother of her day and have emerged from her training either obstinate or illogical. Lady Lothwell listened to as much of the history of Robin as her mother chose to tell her and plainly felt an amiable interest in it. She knew much more detail and gossip concerning Mrs. Gareth-Lawless than the Duchess herself did. She had heard of the child who was kept out of sight, and she had been somewhat disgusted by a vague story of Lord Coombe's abnormal interest in it and the ugly hint that he had an object in view. It was too unpleasantly morbid to be true of a man her mother had known for years.

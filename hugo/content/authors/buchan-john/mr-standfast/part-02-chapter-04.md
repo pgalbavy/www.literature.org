@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - St Anton"
 weight: 15
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-04.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-04.html"
 ---
 
 Ten days later the porter Joseph Zimmer of Arosa, clad in the tough and shapeless trousers of his class, but sporting an old velveteen shooting-coat bequeathed to him by a former German master—speaking the guttural tongue of the Grisons, and with all his belongings in one massive rucksack, came out of the little station of St Anton and blinked in the frosty sunshine. He looked down upon the little old village beside its icebound lake, but his business was with the new village of hotels and villas which had sprung up in the last ten years south of the station. He made some halting inquiries of the station people, and a cab-driver outside finally directed him to the place he sought—the cottage of the Widow Summermatter, where resided an English *interné*, one Peter Pienaar.

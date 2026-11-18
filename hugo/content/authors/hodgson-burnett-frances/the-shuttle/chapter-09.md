@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Lady Jane Grey"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-09.html"
 ---
 
 It seemed upon the whole even absurd that after a shock so awful and a panic wild enough to cause people to expose their very souls--for there were, of course, endless anecdotes to be related afterwards, illustrative of grotesque terror, cowardice, and utter abandonment of all shadows of convention--that all should end in an anticlimax of trifling danger, upon which, in a day or two, jokes might be made. Even the tramp steamer had not been seriously injured, though its injuries were likely to be less easy of repair than those of the Meridiana.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-26.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-26.html"
 ---
 
 For two or three hours longer the moon poured its light through the empty air. Unbroken by clouds it fell straightly, and lay almost like a chill white frost over the sea and the earth. During these hours the silence was not broken, and the only movement was caused by the movement of trees and branches which stirred slightly, and then the shadows that lay across the white spaces of the land moved too. In this profound silence one sound only was audible, the sound of a slight but continuous breathing which never ceased, although it never rose and never fell. It continued after the birds had begun to flutter from branch to branch, and could be heard behind the first thin notes of their voices. It continued all through the hours when the east whitened, and grew red, and a faint blue tinged the sky, but when the sun rose it ceased, and gave place to other sounds.

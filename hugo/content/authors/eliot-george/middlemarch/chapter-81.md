@@ -1,8 +1,7 @@
 ---
 title: "Chapter 81"
 weight: 81
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-81.html"
+url: "/authors/eliot-george/middlemarch/chapter-81.html"
 ---
 
 "Du Erde warst auch diese Nacht bestandig, Und athmest neu erquickt zu meinen Fussen, Beginnest schon mit Lust mich zu umgeben, Zum regst und ruhrst ein kraftiges Reschliessen Zum hochsten Dasein immerfort zu streben. - Faust: 2r Theil.

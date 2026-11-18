@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Mate Becomes Captain"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-28.html"
 ---
 
 "Poor Jack!" murmured Abe Storms, hastening after him. "I have been fearing this very thing. He has taken the matter more to heart than I, and there has been a look in his eye in the last few weeks which showed he was not right; but I thought, when he found he was going back to his home again, he would almost instantly regain his mental equipoise.

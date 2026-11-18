@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 37
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-36.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-36.html"
 ---
 
 That was two years ago. We still live on the island. Before me, on the rough wooden table, is the letter that Suzanne wrote me.

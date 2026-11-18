@@ -1,8 +1,7 @@
 ---
 title: "The Olive-Tree And The Fig-Tree"
 weight: 307
-aliases:
-  - "/authors/aesop/fables/chapter-305.html"
+url: "/authors/aesop/fables/chapter-305.html"
 ---
 
 THE OLIVE-TREE ridiculed the Fig-Tree because, while she was green all the year round, the Fig-Tree changed its leaves with the seasons. A shower of snow fell upon them, and, finding the Olive full of foliage, it settled upon its branches and broke them down with its weight, at once despoiling it of its beauty and killing the tree. But finding the Fig-Tree denuded of leaves, the snow fell through to the ground, and did not injure it at all.

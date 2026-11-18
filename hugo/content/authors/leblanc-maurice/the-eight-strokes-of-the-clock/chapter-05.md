@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Thérèse And Germaine"
 weight: 6
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-05.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-05.html"
 ---
 
 The weather was so mild that autumn that, on the 12th of October, in the morning, several families still lingering in their villas at Étretat had gone down to the beach. The sea, lying between the cliffs and the clouds on the horizon, might have suggested a mountain-lake slumbering in the hollow of the enclosing rocks, were it not for that crispness in the air and those pale, soft and indefinite colours in the sky which give a special charm to certain days in Normandy.

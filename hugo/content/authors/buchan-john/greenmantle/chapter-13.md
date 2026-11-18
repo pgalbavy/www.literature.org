@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - I Move In Good Society"
 weight: 14
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-13.html"
+url: "/authors/buchan-john/greenmantle/chapter-13.html"
 ---
 
 I walked out of that house next morning with Blenkiron’s arm in mine, a different being from the friendless creature who had looked vainly the day before for sanctuary. To begin with, I was splendidly dressed. I had a navy-blue suit with square padded shoulders, a neat black bow-tie, shoes with a hump at the toe, and a brown bowler. Over that I wore a greatcoat lined with wolf fur. I had a smart malacca cane, and one of Blenkiron’s cigars in my mouth. Peter had been made to trim his beard, and, dressed in unassuming pepper-and-salt, looked with his docile eyes and quiet voice a very respectable servant. Old Blenkiron had done the job in style, for, if you’ll believe it, he had brought the clothes all the way from London. I realized now why he and Sandy had been fossicking in my wardrobe. Peter’s suit had been of Sandy’s procuring, and it was not the fit of mine. I had no difficulty about the accent. Any man brought up in the colonies can get his tongue round American, and I flattered myself I made a very fair shape at the lingo of the Middle West.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - A Pitiful Incident"
 weight: 36
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-35.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-35.html"
 ---
 
 IT'S a world of surprises. The king brooded; this was natural. What would he brood about, should you say? Why, about the prodigious nature of his fall, of course -- from the loftiest place in the world to the lowest; from the most illustrious station in the world to the obscurest; from the grandest vocation among men to the basest. No, I take my oath that the thing that graveled him most, to start with, was not this, but the price he had fetched! He couldn't seem to get over that seven dollars. Well, it stunned me so, when I first found it out, that I couldn't believe it; it didn't seem natural. But as soon as my mental sight cleared and I got a right focus on it, I saw I was mistaken; it WAS natural. For this reason: a king is a mere artificiality, and so a king's feelings, like the impulses of an automatic doll, are mere artificialities; but as a man, he is a reality, and his feelings, as a man, are real, not phantoms. It shames the average man to be valued below his own estimate of his worth, and the king certainly wasn't anything more than an average man, if he was up that high.

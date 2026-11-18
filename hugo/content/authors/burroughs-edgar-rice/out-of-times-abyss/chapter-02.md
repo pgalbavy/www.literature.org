@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/out-of-times-abyss/chapter-02.html"
 ---
 
 When bradley went on guard at midnight, September 14th, his thoughts were largely occupied with rejoicing that the night was almost spent without serious mishap and that the morrow would doubtless see them all safely returned to Fort Dinosaur. The hopefulness of his mood was tinged with sorrow by recollection of the two members of his party who lay back there in the savage wilderness and for whom there would never again be a homecoming.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Cleared Skies"
 weight: 21
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-21.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-21.html"
 ---
 
 Just as in autumn, the period of Indian summer brings a reminiscent warmth and sunshine, so sometimes in late winter a day will come now and then which is a harbinger of the not far-distant springtide, like a promise, during present storm and stress, of better things to come.

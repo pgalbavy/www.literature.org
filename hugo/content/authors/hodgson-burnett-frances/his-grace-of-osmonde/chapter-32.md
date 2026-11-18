@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - In The Turret Chamber--And In Camylott Wood"
 weight: 33
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-32.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-32.html"
 ---
 
 When the great soldier returned to Blenheim Castle, his Grace of Osmonde bore him company and having spent a few days in his society at that great house returned to town, from whence he came again to Camylott.

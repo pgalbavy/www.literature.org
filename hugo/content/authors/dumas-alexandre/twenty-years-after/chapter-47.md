@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - The Riot"
 weight: 47
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-47.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-47.html"
 ---
 
 It was about eleven o'clock at night. Gondy had not walked a hundred steps ere he perceived the strange change which had been made in the streets of Paris.

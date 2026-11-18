@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-12.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-12.html"
 ---
 
 Winnie Verloc, the widow of Mr Verloc, the sister of the late faithful Stevie (blown to fragments in a state of innocence and in the conviction of being engaged in a humanitarian enterprise), did not run beyond the door of the parlour. She had indeed run away so far from a mere trickle of blood, but that was a movement of instinctive repulsion. And there she had paused, with staring eyes and lowered head. As though she had run through long years in her flight across the small parlour, Mrs Verloc by the door was quite a different person from the woman who had been leaning over the sofa, a little swimmy in her head, but otherwise free to enjoy the profound calm of idleness and irresponsibility. Mrs Verloc was no longer giddy. Her head was steady. On the other hand, she was no longer calm. She was afraid.

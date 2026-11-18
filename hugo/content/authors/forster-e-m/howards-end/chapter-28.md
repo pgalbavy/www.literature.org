@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-28.html"
+url: "/authors/forster-e-m/howards-end/chapter-28.html"
 ---
 
 For many hours Margaret did nothing; then she controlled herself, and wrote some letters. She was too bruised to speak to Henry; she could pity him, and even determine to marry him, but as yet all lay too deep in her heart for speech. On the surface the sense of his degradation was too strong. She could not command voice or look, and the gentle words that she forced out through her pen seemed to proceed from some other person.

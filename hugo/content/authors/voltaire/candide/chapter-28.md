@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - What Befell Candide, Cunegund, Pangloss, Martin, etc."
 weight: 28
-aliases:
-  - "/authors/voltaire/candide/chapter-28.html"
+url: "/authors/voltaire/candide/chapter-28.html"
 ---
 
 "Pardon," said Candide to the Baron; "once more let me entreat your pardon, Reverend Father, for running you through the body."

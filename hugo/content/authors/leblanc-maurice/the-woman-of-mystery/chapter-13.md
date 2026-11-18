@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Ferryman's House"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-13.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-13.html"
 ---
 
 Paul Delroze did not speak a word. Pushing his prisoner in front of him, after tying the major's wrists behind his back, he returned to the bridge of boats in the darkness illumined by brief flashes of light.

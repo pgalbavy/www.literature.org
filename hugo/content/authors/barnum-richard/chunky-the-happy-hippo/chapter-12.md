@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Chunky And The Little Girl"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-12.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-12.html"
 ---
 
 Chunky liked it very much in the park menagerie. He could do almost as he pleased. There was water always ready for him to swim in, and on cold days in winter it was made warm for him.

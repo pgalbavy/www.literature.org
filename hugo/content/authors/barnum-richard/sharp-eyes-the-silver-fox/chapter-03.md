@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Sharp Eyes Hears Something"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-03.html"
+url: "/authors/barnum-richard/sharp-eyes-the-silver-fox/chapter-03.html"
 ---
 
 “Ah ha!” cried Sharp Eyes in fox talk, “I have caught you, my fine wild turkey!”

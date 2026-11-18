@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Rowdy Runs Away"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-16.html"
 ---
 
 Rowdy Red-Squirrel jumped from one tree into another until he reached the beech tree in which Jasper Jay had caught sight of Sandy Chipmunk.

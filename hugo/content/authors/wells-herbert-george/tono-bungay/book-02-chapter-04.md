@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - Marion I"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-02-chapter-04.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-02-chapter-04.html"
 ---
 
 As I look back on those days in which we built up the great Tono-Bungay property out of human hope and credit for bottles and rent and printing, I see my life as it were arranged in two parallel columns of unequal width, a wider, more diffused, eventful and various one which continually broadens out, the business side of my life, and a narrow, darker and darkling one shot ever and again with a gleam of happiness, my home-life with Marion. For, of course, I married Marion.

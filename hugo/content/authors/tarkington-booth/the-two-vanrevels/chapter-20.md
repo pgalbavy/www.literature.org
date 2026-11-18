@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"Goodby\""
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-20.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-20.html"
 ---
 
 It was between twilight and candlelight, the gentle half-hour when the kind old Sand Man steals up the stairs of houses where children are; when rustic lovers stroll with slow and quiet steps down country lanes, and old bachelors are loneliest and dream of the things that might have been. Through the silence of the clear dusk came the whistle of the evening boat that was to bear Tom Vanrevel through the first stage of his long journey to the front of war, and the sound fell cheerlessly upon Miss Betty's ear, as she stood leaning against the sun-dial among the lilac bushes. Her attitude was not one of reverie; yet she stood very still, so still that, in the wan shimmer of the faded afterglow, one might have passed close by her and not have seen her. The long, dark folds of her gown showed faintly against the gray stone, and her arms, bare from the elbow, lay across the face of the dial with unrelaxed fingers clenching the cornice; her head drooping, not languidly but with tension, her eyes half-closed, showing the lashes against a pale cheek; and thus, motionless, leaning on the stone in the dusk, she might have been Sorrow's self.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-27.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-27.html"
 ---
 
 Hamel awoke to find his room filled with sunshine and a soft wind blowing in through the open window. There was a pleasant odour of coffee floating up from the kitchen. He looked at his watch - it was past eight o'clock. The sea was glittering and bespangled with sunlight. He found among his scanty belongings a bathing suit, and, wrapped in his overcoat, hurried down-stairs.

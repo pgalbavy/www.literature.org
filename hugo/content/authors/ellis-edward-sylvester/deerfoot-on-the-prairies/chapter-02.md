@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The First Camp"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-02.html"
 ---
 
 IT was inevitable that, during the weeks and months spent by Deerfoot and Mul-tal-la together, they talked often and long about the journey to the Northwest. At night in the depth of the forest, by the crackling camp-fire, or when lolling in the cavern home of the young Shawanoe, it was the one theme in which both, and especially the younger, was absorbingly interested.

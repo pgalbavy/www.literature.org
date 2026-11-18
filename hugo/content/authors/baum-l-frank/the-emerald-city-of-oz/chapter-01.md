@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-01.html"
 ---
 
 The Nome King was in an angry mood, and at such times he was very disagreeable. Every one kept away from him, even his Chief Steward Kaliko.

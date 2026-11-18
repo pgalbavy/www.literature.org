@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Next Morning"
 weight: 29
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-29.html"
+url: "/authors/eliot-george/adam-bede/chapter-29.html"
 ---
 
 ARTHUR did not pass a sleepless night; he slept long and well. For sleep comes to the perplexed - if the perplexed are only weary enough. But at seven he rang his bell and astonished Pym by declaring he was going to get up, and must have breakfast brought to him at eight.

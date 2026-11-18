@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-21.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-21.html"
 ---
 
 Thanks to Mr. Flushing's discipline, the right stages of the river were reached at the right hours, and when next morning after breakfast the chairs were again drawn out in a semicircle in the bow, the launch was within a few miles of the native camp which was the limit of the journey. Mr. Flushing, as he sat down, advised them to keep their eyes fixed on the left bank, where they would soon pass a clearing, and in that clearing, was a hut where Mackenzie, the famous explorer, had died of fever some ten years ago, almost within reach of civilisation —Mackenzie, he repeated, the man who went farther inland than any one's been yet. Their eyes turned that way obediently. The eyes of Rachel saw nothing. Yellow and green shapes did, it is true, pass before them, but she only knew that one was large and another small; she did not know that they were trees. These directions to look here and there irritated her, as interruptions irritate a person absorbed in thought, although she was not thinking of anything. She was annoyed with all that was said, and with the aimless movements of people's bodies, because they seemed to interfere with her and to prevent her from speaking to Terence. Very soon Helen saw her staring moodily at a coil of rope, and making no effort to listen. Mr. Flushing and St. John were engaged in more or less continuous conversation about the future of the country from a political point of view, and the degree to which it had been explored; the others, with their legs stretched out, or chins poised on the hands, gazed in silence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Making Somebody Happy"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jimmy-rabbit/chapter-04.html"
 ---
 
 Well, that very evening Jimmy Rabbit made a certain young neighbor very happy by hanging a May basket on her door. And then he hurried along to Henry Skunk's house. He hoped Henry was still there; for when Henry Skunk went out of an evening he seldom came home until morning.

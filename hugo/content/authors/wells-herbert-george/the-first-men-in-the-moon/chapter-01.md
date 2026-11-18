@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Mr. Bedford Meets Mr. Cavor At Lympne"
 weight: 1
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-01.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-01.html"
 ---
 
 As I sit down to write here amidst the shadows of vine-leaves under the blue sky of southern Italy, it comes to me with a certain quality of astonishment that my participation in these amazing adventures of Mr. Cavor was, after all, the outcome of the purest accident. It might have been any one. I fell into these things at a time when I thought myself removed from the slightest possibility of disturbing experiences. I had gone to Lympne because I had imagined it the most uneventful place in the world. "Here, at any rate," said I, "I shall find peace and a chance to work!"

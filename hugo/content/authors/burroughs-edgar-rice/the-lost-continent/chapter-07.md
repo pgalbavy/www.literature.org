@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-07.html"
 ---
 
 We stood there, grouped about the body of the dead Grabritin, looking futilely down the river to where it made an abrupt curve to the west, a quarter of a mile below us, and was lost to sight, as though we expected to see the truant returning to us with our precious launch--the thing that meant life or death to us in this unfriendly, savage world.

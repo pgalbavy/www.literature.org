@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Old Maid'S Household"
 weight: 5
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/chapter-05.html"
+url: "/authors/balzac-honore-de/an-old-maid/chapter-05.html"
 ---
 
 To complete the picture of the internal habits and ways of this house, it is necessary to group around Mademoiselle Cormon and the Abbe de Sponde Jacquelin, Josette, and Mariette, the cook, who employed themselves in providing for the comfort of uncle and niece.

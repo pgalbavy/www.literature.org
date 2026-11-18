@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - D'artagnan, Porthos ... And Monte Cristo"
 weight: 1
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-01.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-01.html"
 ---
 
 It was half-past four; M. Desmalions, the Prefect of Police, was not yet back at the office. His private secretary laid on the desk a bundle of letters and reports which he had annotated for his chief, rang the bell and said to the messenger who entered by the main door:

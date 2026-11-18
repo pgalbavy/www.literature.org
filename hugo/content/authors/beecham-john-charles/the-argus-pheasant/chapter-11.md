@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Mynheer Muller's Dream"
 weight: 12
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-11.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-11.html"
 ---
 
 The Dutch gun-boat Prins Lodewyk, a terror to evil-doers in the Java and Celebes seas, steamed smartly up Bulungan Bay and swung into anchorage a quarter of a mile below the assemblage of junks and Malay proas clustered at the mouth of Bulungan River. She carried a new flag below her ensign, the resident's flag. As she swung around, her guns barked a double salute, first to the flag and then to the resident. Peter Gross and his company were come to Bulungan.

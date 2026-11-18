@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Sundry Details"
 weight: 31
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-31.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-31.html"
 ---
 
 Scene—Chimneys, 11 *A.M.* Thursday morning.

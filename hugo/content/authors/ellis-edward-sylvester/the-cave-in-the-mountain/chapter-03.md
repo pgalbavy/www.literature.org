@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Strange Experiences"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-03.html"
 ---
 
 Young Munson was destined to learn ultimately that he had undertaken an impossible task. The hunter, in the flush and excitement attending the pursuit of game, can form no correct idea of the distance passed, and so he, in attempting to run the shadowy wolf to earth, had traveled twice as far as he supposed. The case is altogether different when the hunter starts to return. It is then that the furlongs become miles, and the wearied pursuer feels disgusted with the enthusiasm which led him so far away from headquarters.

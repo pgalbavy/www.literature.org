@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Hunting Party"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-17.html"
 ---
 
 Cuffy Bear was one of those lucky people that eat almost everything. He liked blueberries and he liked honey; he liked maple sugar and he liked baked beans. When he was eating he never complained about his food if only there was enough. Whatever he had, he wanted a plenty of it.

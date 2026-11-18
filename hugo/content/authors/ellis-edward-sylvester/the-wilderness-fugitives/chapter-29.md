@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Startling Check"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-29.html"
 ---
 
 Ned and Jo had said nothing to each other about the continued absence of the Mohawk, for whatever they might utter would necessarily be conjecture, and would only excite the alarm of Rosa without accomplishing any good. But it was in the thoughts of both, and when Ned bade the two good-bye for a season, it occupied more of his speculations than did the movements of the man who had played them false.

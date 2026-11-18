@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - The \"Veast\""
 weight: 2
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-02.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-02.html"
 ---
 
 "And the King commandeth and forbiddeth, that from  

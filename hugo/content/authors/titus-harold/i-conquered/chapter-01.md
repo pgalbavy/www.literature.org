@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Denunciation"
 weight: 1
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-01.html"
+url: "/authors/titus-harold/i-conquered/chapter-01.html"
 ---
 
 Danny Lenox wanted a drink. The desire came to him suddenly as he stood looking down at the river, burnished by bright young day. It broke in on his lazy contemplation, wiped out the indulgent smile, and made the young face serious, purposeful, as though mighty consequence depended on satisfying the urge that had just come up within him.

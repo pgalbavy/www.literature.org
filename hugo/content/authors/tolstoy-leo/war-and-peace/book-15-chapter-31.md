@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 31"
 weight: 348
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-31.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-31.html"
 ---
 
 Two months previously when Pierre was already staying with the Rostovs he had received a letter from Prince Theodore, asking him to come to Petersburg to confer on some important questions that were being discussed there by a society of which Pierre was one of the principal founders.

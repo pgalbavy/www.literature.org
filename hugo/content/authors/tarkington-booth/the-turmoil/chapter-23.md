@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-23.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-23.html"
 ---
 
 Bibbs continued to live in the shelter of his dream. He had told Edith, after his ineffective effort to be useful in her affairs, that he had decided that he was "a member of the family"; but he appeared to have relapsed to the retired list after that one attempt at participancy—he was far enough detached from membership now. These were turbulent days in the New House, but Bibbs had no part whatever in the turbulence—he seemed an absent-minded stranger, present by accident and not wholly aware that he was present. He would sit, faintly smiling over pleasant imaginings and dear reminiscences of his own, while battle raged between Edith and her father, or while Sheridan unloosed jeremiads upon the sullen Roscoe, who drank heavily to endure them. The happy dreamer wandered into storm-areas like a somnambulist, and wandered out again unawakened. He was sorry for his father and for Roscoe, and for Edith and for Sibyl, but their sufferings and outcries seemed far away.

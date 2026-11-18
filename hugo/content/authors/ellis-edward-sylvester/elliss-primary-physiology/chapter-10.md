@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Another Method Of Treatment In Cases Of Asphyxia From Drowning, Chloroform, Coal-Gas, Etc"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-10.html"
 ---
 
 The following method is recommended by Marshall Hall, a very high authority on all such questions:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Mixture"
 weight: 9
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-08.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-08.html"
 ---
 
 Dr. Richard Hale left his brood of temporary orphans without really expecting for them any particular oversight from Andrew Dykeman; but the two were sufficiently close friends to well warrant the latter in moving over to The Monastery--as Jimmie Saunders called it.

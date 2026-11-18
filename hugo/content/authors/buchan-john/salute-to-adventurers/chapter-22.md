@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - How A Fool Must Go His Own Road"
 weight: 23
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-22.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-22.html"
 ---
 
 It was a sorry party that looked at each other in the first light of dawn.

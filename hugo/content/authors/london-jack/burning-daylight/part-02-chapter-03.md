@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 16
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-03.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-03.html"
 ---
 
 Back at his hotel, though nearly two in the morning, he found the reporters waiting to interview him. Next morning there were more. And thus, with blare of paper trumpet, was he received by New York. Once more, with beating of toms-toms and wild hullaballoo, his picturesque figure strode across the printed sheet. The King of the Klondike, the hero of the Arctic, the thirty-million-dollar millionaire of the North, had come to New York. What had he come for? To trim the New Yorkers as he had trimmed the Tonopah crowd in Nevada? Wall Street had best watch out, for the wild man of Klondike had just come to town. Or, perchance, would Wall Street trim him? Wall Street had trimmed many wild men; would this be Burning Daylight's fate? Daylight grinned to himself, and gave out ambiguous interviews. It helped the game, and he grinned again, as he meditated that Wall Street would sure have to go some before it trimmed him.

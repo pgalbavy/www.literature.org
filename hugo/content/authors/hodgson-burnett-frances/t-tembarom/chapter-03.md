@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-03.html"
 ---
 
 His work upon the page began the following week. When the first morning of his campaign opened with a tumultuous blizzard, Jim Bowles and Julius Steinberger privately sympathized with him as they dressed in company, but they heard him whistling in his own hall bedroom as he put on his clothes, and to none of the three did it occur that time could be lost because the weather was inhuman. Blinding snow was being whirled through the air by a wind which had bellowed across the bay, and torn its way howling through the streets, maltreating people as it went, snatching their breath out of them, and leaving them gaspingly clutching at hats and bending their bodies before it. Street-cars went by loaded from front to back platform, and were forced from want of room to whizz heartlessly by groups waiting anxiously at street corners.

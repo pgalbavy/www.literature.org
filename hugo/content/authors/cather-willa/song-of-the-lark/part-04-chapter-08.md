@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 8"
 weight: 45
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-04-chapter-08.html"
+url: "/authors/cather-willa/song-of-the-lark/part-04-chapter-08.html"
 ---
 
 ON the first day of September Fred Ottenburg and Thea Kronborg left Flagstaff by the east-bound express. As the bright morning advanced, they sat alone on the rear platform of the observation car, watching the yellow miles unfold and disappear. With complete content they saw the brilliant, empty country flash by. They were tired of the desert and the dead races, of a world without change or ideas. Fred said he was glad to sit back and let the Santa Fe do the work for a while.

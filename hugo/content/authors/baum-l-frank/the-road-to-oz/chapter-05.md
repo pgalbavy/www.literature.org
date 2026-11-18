@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-05.html"
 ---
 
 Toto, now allowed to run about as he pleased, was glad to be free again and able to bark at the birds and chase the butterflies. The country around them was charming, yet in the pretty fields of wild-flowers and groves of leafy trees were no houses whatever, or sign of any inhabitants. Birds flew through the air and cunning white rabbits darted amongst the tall grasses and green bushes; Dorothy noticed even the ants toiling busily along the roadway, bearing gigantic loads of clover seed; but of people there were none at all.

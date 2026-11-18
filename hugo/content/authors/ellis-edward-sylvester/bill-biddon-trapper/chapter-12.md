@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Found At Last"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-12.html"
 ---
 
 I took a direction nearly due east toward the Black Hills. Near the middle of the day I reached the shore of a lake. It was a small, beautiful sheet of water, its glistening surface unruffled by a single ripple, and I stood a long time gazing upon its placid bosom. The blue outline of the opposite shore was faintly visible in the distance, and here and there the green face of a tiny island protruded from its surface adding greatly to the picturesqueness of the scene.

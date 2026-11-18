@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Sixth Century Political Economy"
 weight: 34
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-33.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-33.html"
 ---
 
 HOWEVER, I made a dead set at him, and before the first third of the dinner was reached, I had him happy again. It was easy to do -- in a country of ranks and castes. You see, in a country where they have ranks and castes, a man isn't ever a man, he is only part of a man, he can't ever get his full growth. You prove your superiority over him in station, or rank, or fortune, and that's the end of it -- he knuckles down. You can't insult him after that. No, I don't mean quite that; of course you CAN insult him, I only mean it's difficult; and so, unless you've got a lot of useless time on your hands it doesn't pay to try. I had the smith's reverence now, because I was apparently immensely prosperous and rich; I could have had his adoration if I had had some little gimcrack title of nobility. And not only his, but any commoner's in the land, though he were the mightiest production of all the ages, in intellect, worth, and character, and I bankrupt in all three. This was to remain so, as long as England should exist in the earth. With the spirit of prophecy upon me, I could look into the future and see her erect statues and monuments to her unspeakable Georges and other royal and noble clothes-horses, and leave unhonored the creators of this world -- after God -- Gutenburg, Watt, Arkwright, Whitney, Morse, Stephenson, Bell.

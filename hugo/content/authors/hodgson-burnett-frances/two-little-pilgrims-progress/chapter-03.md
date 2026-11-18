@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-03.html"
 ---
 
 During the weeks that followed they spent more time than ever in their hiding-place. They had an absorbing topic of conversation, a new and wonderful thing, better than their old books, even better than the stories Meg made when she lay on the straw, her elbows supporting her, her cheeks on her hands, and her black-lashed gray eyes staring into space. Hers were always good stories, full of palaces and knights and robber chiefs and fairies. But this new thing had the thrill of being a fairy story which was real—so real that one could read about it in the newspapers, and everybody was talking about it, even Aunt Matilda, her neighbors, and the work-hands on the farm. To the two lonely children, in their high nest in the straw-stack, it seemed a curious thing to hear these people in the world below talk about it in their ordinary, everyday way, without excitement or awe, as if it was a new kind of big ploughing or winnowing machine. To them it was a thing so beautiful that they could scarcely find the words to express their thoughts and dreams about it, and yet they were never alone together without trying to do so.

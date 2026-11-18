@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 26 - In Which Are Continued The Refinements Wherewith Don Quixote Played The Part Of A Lover In The Sierra Morena"
 weight: 29
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-26.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-26.html"
 ---
 
 Returning to the proceedings of him of the Rueful Countenance when he found himself alone, the history says that when Don Quixote had completed the performance of the somersaults or capers, naked from the waist down and clothed from the waist up, and saw that Sancho had gone off without waiting to see any more crazy feats, he climbed up to the top of a high rock, and there set himself to consider what he had several times before considered without ever coming to any conclusion on the point, namely whether it would be better and more to his purpose to imitate the outrageous madness of Roland, or the melancholy madness of Amadis; and communing with himself he said:

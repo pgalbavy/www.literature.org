@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Maneuvering And Scheming"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-15.html"
 ---
 
 Through the entire night, with now and then an occasional halt of a few minutes each, the fugitives—for they may now properly be termed such—continued their journey. When day broke, they halted in a small valley through which a small, sparkling stream made its way. On either side, it was surrounded by dark overhanging forest-trees and heavier undergrowth, through which none but the eagle eye of the hunter or savage, could discover their retreat.

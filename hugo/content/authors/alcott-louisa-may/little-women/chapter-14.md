@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Secrets"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-14.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-14.html"
 ---
 
 Jo was very busy in the garret, for the October days began to grow chilly, and the afternoons were short. For two or three hours the sun lay warmly in the high window, showing Jo seated on the old sofa, writing busily, with her papers spread out upon a trunk before her, while Scrabble, the pet rat, promenaded the beams overhead, accompanied by his oldest son, a fine young fellow, who was evidently very proud of his whiskers. Quite absorbed in her work, Jo scribbled away till the last page was filled, when she signed her name with a flourish and threw down her pen, exclaiming . . .

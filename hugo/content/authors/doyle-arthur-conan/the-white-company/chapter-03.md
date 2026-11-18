@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - How Hordle John Cozened The Fuller Of Lymington"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-03.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-03.html"
 ---
 
 IT is not, however, in the nature of things that a lad of twenty, with young life glowing in his veins and all the wide world before him, should spend his first hours of freedom in mourning for what he had left. Long ere Alleyne was out of sound of the Beaulieu bells he was striding sturdily along, swinging his staff and whistling as merrily as the birds in the thicket. It was an evening to raise a man's heart. The sun shining slantwise through the trees threw delicate traceries across the road, with bars of golden light between. Away in the distance before and behind, the green boughs, now turning in places to a coppery redness, shot their broad arches across the track. The still summer air was heavy with the resinous smell of the great forest. Here and there a tawny brook prattled out from among the underwood and lost itself again in the ferns and brambles upon the further side. Save the dull piping of insects and the sough of the leaves, there was silence everywhere--the sweet restful silence of nature.

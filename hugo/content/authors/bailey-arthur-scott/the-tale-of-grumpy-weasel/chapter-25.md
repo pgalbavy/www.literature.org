@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Peter Mink's Promise"
 weight: 25
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-25.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grumpy-weasel/chapter-25.html"
 ---
 
 It happened, on a bleak winter's day, that Grumpy Weasel was strolling along the bank of Broad Brook when all at once he heard a squall. Instantly he whirled around. There was something about the cry that sounded familiar. And while he searched the stream up and down with his sharp eyes he grew angrier every moment.

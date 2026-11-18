@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Denouement"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-19.html"
 ---
 
 The whites found in a moment that they had committed a great mistake in launching as they did. In the first place, there was not an oar in the boat, and thus, not being able to "paddle their own canoe," they were also deprived of the ability to paddle one belonging to some one else. Besides this, the river was dark as Styx, and the whole sky and air were of the same inky blackness, and not one in the boat had the remotest idea of where they were going—whether it was to pitch over some falls, down some rapids or into the bank.

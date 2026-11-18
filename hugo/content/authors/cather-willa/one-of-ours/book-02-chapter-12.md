@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12"
 weight: 31
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-12.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-12.html"
 ---
 
 On the night before his wedding Claude went to bed early. He had been dashing about with Ralph all day in the car, making final preparations, and was worn out. He fell asleep almost at once. The women of the household could not so easily forget the great event of tomorrow. After the supper dishes were washed, Mahailey clambered up to the attic to get the quilt she had so long been saving for a wedding present for Claude. She took it out of the chest, unfolded it, and counted the stars in the pattern--counting was an accomplishment she was proud of--before she wrapped it up. It was to go down to the mill house with the other presents tomorrow. Mrs. Wheeler went to bed many times that night. She kept thinking of things that ought to be looked after; getting up and going to make sure that Claude's heavy underwear had been put into his trunk, against the chance of cold in the mountains; or creeping downstairs to see that the six roasted chickens which were to help out at the wedding supper were securely covered from the cats. As she went about these tasks, she prayed constantly. She had not prayed so long and fervently since the battle of the Marne.

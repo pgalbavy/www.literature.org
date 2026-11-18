@@ -1,8 +1,7 @@
 ---
 title: "The Wasps, The Partridges, And The Farmer"
 weight: 233
-aliases:
-  - "/authors/aesop/fables/chapter-231.html"
+url: "/authors/aesop/fables/chapter-231.html"
 ---
 
 THE WASPS and the Partridges, overcome with thirst, came to a Farmer and besought him to give them some water to drink. They promised amply to repay him the favor which they asked. The Partridges declared that they would dig around his vines and make them produce finer grapes. The Wasps said that they would keep guard and drive off thieves with their stings. But the Farmer interrupted them, saying: "I have already two oxen, who, without making any promises, do all these things. It is surely better for me to give the water to them than to you."

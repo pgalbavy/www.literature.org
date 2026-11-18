@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Scrap-Book Brigade"
 weight: 2
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-02.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-02.html"
 ---
 
 When Peace awoke to her surroundings again, she was lying in the gorgeously draped bed of the Flag Room with old Dr. Coates bending over her, and she startled the worthy gentleman by asking in sprightly tones, "Well, Doctor, how are you? It's been a long time since you've been to call on me, isn't it? Do you think I have cracked a rib?"

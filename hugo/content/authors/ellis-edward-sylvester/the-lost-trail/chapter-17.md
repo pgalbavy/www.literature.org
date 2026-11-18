@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Louisiana Shore"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-17.html"
 ---
 
 Deerfoot threw himself over the side of the canoe into the river, holding fast to the gunwale with one hand and keeping the boat between him and the Indians on shore. With the arm which was free, he swam toward the Louisiana side, towing the craft after him.

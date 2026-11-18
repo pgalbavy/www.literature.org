@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - How A Champion Came Forth From The East"
 weight: 24
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-24.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-24.html"
 ---
 
 THE Bordeaux lists were, as has already been explained, situated upon the plain near the river upon those great occasions when the tilting-ground in front of the Abbey of St. Andrew's was deemed to be too small to contain the crowd. On the eastern side of this plain the country-side sloped upwards, thick with vines in summer, but now ridged with the brown bare enclosures. Over the gently rising plain curved the white road which leads inland, usually flecked with travellers, but now with scarce a living form upon it, so completely had the lists drained all the district of its inhabitants. Strange it was to see such a vast concourse of people, and then to look upon that broad, white, empty highway which wound away, bleak and deserted, until it narrowed itself to a bare streak against the distant uplands.

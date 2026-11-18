@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Conquest And Peace"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-15.html"
 ---
 
 The fleet sailed directly for Hooja's island, coming to anchor at its north-eastern extremity before the flat-topped hill that had been Hooja's stronghold. I sent one of the prisoners ashore to demand an immediate surrender; but as he told me afterward they wouldn't believe all that he told them, so they congregated on the cliff-top and shot futile arrows at us.

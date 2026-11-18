@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/preface.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/preface.html"
 ---
 
 AS a preface is the only place where an author can with propriety explain a purpose or apologize for shortcomings, I venture to avail myself of the privilege to make a statement for the benefit of my readers.

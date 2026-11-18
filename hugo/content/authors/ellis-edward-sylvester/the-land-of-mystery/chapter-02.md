@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Trio Of Enemies"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-02.html"
 ---
 
 At last, when the full moon was shining, the two men stood at the head of the rapids and surveyed their surroundings before setting out on their return to camp.

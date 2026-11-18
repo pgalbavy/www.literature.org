@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Ambush"
 weight: 7
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-06.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-06.html"
 ---
 
 We had reached the bush after six hours’ downhill trek over a pretty bad track made by cattle--of course, there were no roads in Zululand at this date. I remember the place well. It was a kind of spreading woodland on a flat bottom, where trees of no great size grew sparsely. Some were mimosa thorns, others had deep green leaves and bore a kind of plum with an acid taste and a huge stone, and others silver-coloured leaves in their season. A river, too, low at this time of the year, wound through it, and in the scrub upon its banks were many guinea-fowl and other birds. It was a pleasing, lonely place, with lots of game in it, that came here in the winter to eat the grass, which was lacking on the higher veld. Also it gave the idea of vastness, since wherever one looked there was nothing to be seen except a sea of trees.

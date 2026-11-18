@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 3"
 weight: 45
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-03.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-03.html"
 ---
 
 Convinced as Elizabeth now was that Miss Bingley's dislike of her had originated in jealousy, she could not help feeling how very unwelcome her appearance at Pemberley must be to her, and was curious to know with how much civility on that lady's side, the acquaintance would now be renewed.

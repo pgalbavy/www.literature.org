@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-08.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-08.html"
 ---
 
 THE sun was up so high when I waked that I judged it was after eight o'clock. I laid there in the grass and the cool shade thinking about things, and feeling rested and ruther comfortable and satisfied. I could see the sun out at one or two holes, but mostly it was big trees all about, and gloomy in there amongst them. There was freckled places on the ground where the light sifted down through the leaves, and the freckled places swapped about a little, showing there was a little breeze up there. A couple of squirrels set on a limb and jabbered at me very friendly.

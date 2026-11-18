@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 35
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-34.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-34.html"
 ---
 
 We were not able to return to Johannesburg that night. The shells were coming over pretty fast, and I gathered that we were now more or less cut off, owing to the rebels having obtained possession of a new part of the suburbs.

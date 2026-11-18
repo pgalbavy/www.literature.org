@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Letters"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-16.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-16.html"
 ---
 
 In the cold gray dawn the sisters lit their lamp and read their chapter with an earnestness never felt before. For now the shadow of a real trouble had come, the little books were full of help and comfort, and as they dressed, they agreed to say goodbye cheerfully and hopefully, and send their mother on her anxious journey unsaddened by tears or complaints from them. Everything seemed very strange when they went down, so dim and still outside, so full of light and bustle within. Breakfast at that early hour seemed odd, and even Hannah's familiar face looked unnatural as she flew about her kitchen with her nightcap on. The big trunk stood ready in the hall, Mother's cloak and bonnet lay on the sofa, and Mother herself sat trying to eat, but looking so pale and worn with sleeplessness and anxiety that the girls found it very hard to keep their resolution. Meg's eyes kept filling in spite of herself, Jo was obliged to hide her face in the kitchen roller more than once, and the little girls wore a grave, troubled expression, as if sorrow was a new experience to them.

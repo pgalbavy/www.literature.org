@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Captain And Inez"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-02.html"
 ---
 
 The steamer *Polynesia* was steaming swiftly across the Pacific, in the direction of Japan—bravely plunging out into the mightiest expanse of water which spans the globe, and heading for the port that loomed up from the ocean almost ten thousand miles away.

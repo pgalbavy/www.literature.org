@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - What Beatrice Dreamed"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-09.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-09.html"
 ---
 
 Geoffrey lay upon his back, watching the still patch of sunshine and listening to the ticking of the clock, as he passed all these and many other events in solemn review, till the series culminated in his vivid recollection of the scene of that very morning.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45"
 weight: 45
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-45.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-45.html"
 ---
 
 Elinor, for some time after he left her, for some time even after the sound of his carriage had died away, remained too much oppressed by a crowd of ideas, widely differing in themselves, but of which sadness was the general result, to think even of her sister.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Question Of Ownership"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-07.html"
 ---
 
 Simon Kenton proceeded on the principle of the greatest good to the greatest number.

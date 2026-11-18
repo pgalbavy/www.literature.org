@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-30.html"
+url: "/authors/eliot-george/middlemarch/chapter-30.html"
 ---
 
 "Qui veut delasser hors de propos, lasse." - PASCAL.

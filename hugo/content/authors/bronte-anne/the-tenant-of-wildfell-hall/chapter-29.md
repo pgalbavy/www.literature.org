@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 30
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-29.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-29.html"
 ---
 
 Those were four miserable months, alternating between intense anxiety, despair, and indignation, pity for him and pity for myself. And yet, through all, I was not wholly comfortless: I had my darling, sinless, inoffensive little one to console me; but even this consolation was embittered by the constantly-recurring thought, 'How shall I teach him hereafter to respect his father, and yet to avoid his example?'

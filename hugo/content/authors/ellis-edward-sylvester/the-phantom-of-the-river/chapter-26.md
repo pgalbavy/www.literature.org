@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - In The Lion's Den"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-26.html"
 ---
 
 The Panther was in the ugliest mood conceivable. Missionary Finley was well aware of this before approaching and addressing him. Consequently, when the chieftain called him a dog and declared he should die, the good man was neither silenced nor overthrown, though it would be untrue to say he was not alarmed for his own safety, but he had counted the cost before making the venture.

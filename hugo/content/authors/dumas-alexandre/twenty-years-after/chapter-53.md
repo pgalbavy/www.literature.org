@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - How D'artagnan And Porthos Earned By Selling Straw, The One Two Hundred And Nineteen, And The Other Two Hundred And Fifteen Louis D'or"
 weight: 53
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-53.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-53.html"
 ---
 
 Mazarin was desirous of setting out instantly for Saint Germain, but the queen declared that she should wait for the people whom she had appointed to meet her. However, she offered the cardinal Laporte's place, which he accepted and went from one carriage to the other.

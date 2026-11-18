@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Year Of Discretion"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-04.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-04.html"
 ---
 
 Her first winter resembled, more or less, the first winter of the average débutante.

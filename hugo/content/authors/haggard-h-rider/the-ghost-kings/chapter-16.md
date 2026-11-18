@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Three Days"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-16.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-16.html"
 ---
 
 He was gone, his presence had ceased to poison the air, and, the long strain over, Rachel gave a gasp of relief. Then she sat down upon the bench and began to think. Her position, and that of Richard, was desperate; it seemed scarcely possible that they could escape with their lives, for if he died, she would die also--as to that she was quite determined. But at least they had three days, and who could say what would happen in three days? For instance, they might escape somehow, the Providence in which she believed might intervene, or the Zulus might come to seek her, if they only knew where she was gone. Oh! why had she not brought a guard of them with her to Ramah? At least they would never have insulted her, and Ishmael’s shrift would have been short.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-01.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-01.html"
 ---
 
 When Johnnie comes marching home again,  

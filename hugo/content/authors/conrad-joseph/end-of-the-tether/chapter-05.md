@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-05.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-05.html"
 ---
 
 As soon as he had come up quite close he said, mouthing in a growl—

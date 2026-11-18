@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Two In A Tree"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-miss-kitty-cat/chapter-07.html"
 ---
 
 WHEN Miss Kitty Cat dashed out of the woodshed Frisky Squirrel was two jumps ahead of her. That was really a better lead than it sounds. Frisky was always a good jumper. And the more scared he was, the further he could leap. Anybody that knew him well would have known then--just to see him--that something had given him a great fright.

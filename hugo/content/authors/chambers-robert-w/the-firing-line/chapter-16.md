@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - An Ultimatum"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-16.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-16.html"
 ---
 
 With the beginning of March the end of the so-called social season, south of Jupiter Light, is close at hand. First, the great winter hotels close; then, one by one, doors and gates of villa and cottage are locked, bright awnings and lawn shades furled and laid away, blinds bolted, flags lowered. All summer long villa and caravansary alike stand sealed and silent amid their gardens, blazing under the pale fierce splendour of an unclouded sky; tenantless, save where, beside opened doors of quarters, black recumbent figures sprawl asleep, shiny faces fairly sizzling in the rays of a vertical sun.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Book Of Laughter"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-03.html"
+url: "/authors/daviess-maria-thompson/over-paradise-ridge/chapter-03.html"
 ---
 
 Hayesboro took Peter into its heart of hearts and then sighed for more to give him. This town is like the old man's horse whose natural gait is running away when it is not asleep. Peter woke it up and it took the bit in its mouth and bolted with him, while Peter clung to the saddle and had the time of his young poetic life.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/the-inheritors/chapter-01.html"
+url: "/authors/conrad-joseph/the-inheritors/chapter-01.html"
 ---
 
 *ONE*

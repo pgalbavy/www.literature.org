@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Chatterer Has A Pleasant Surprise"
 weight: 16
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-16.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-16.html"
 ---
 
 Chatterer the Red Squirrel, the mischief maker of the Green Forest, had never been more comfortable in his life. No matter how rough Brother North Wind roared across the Green Meadows and through the Green Forest, piling the snow in great drifts, he couldn't send so much as one tiny shiver through the little red coat of Chatterer. And always right at hand was plenty to eat—corn and nuts and other good things such as Chatterer loves. No, he never had been so comfortable in all his life. But he wasn't happy, not truly happy. You see, he was in prison, and no matter how nice a prison may be, no one can be truly happy there.

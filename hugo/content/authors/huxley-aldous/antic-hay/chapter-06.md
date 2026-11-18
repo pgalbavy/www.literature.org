@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-06.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-06.html"
 ---
 
 It was between Whitefield Street and the Tottenham Court Road, in a ‘heavenly Mews,’ as he liked to call it (for he had a characteristic weakness for philosophical paronomasia), that Casimir Lypiatt lived and worked. You passed under an archway of bald and sooty brick—and at night, when the green gas-lamp underneath the arch threw livid lights and enormous architectural shadows, you could fancy yourself at the entrance of one of Piranesi’s prisons—and you found yourself in a long cul-de-sac, flanked on either side by low buildings, having stabling for horses below and, less commodiously, stabling for human beings in the attics above. An old-fashioned smell of animals mingled with the more progressive stink of burnt oil. The air was a little thicker here, it seemed, than in the streets outside; looking down the mews on even the clearest day, you could see the forms of things dimming and softening, the colours growing richer and deeper with every yard of distance. It was the best place in the world, Lypiatt used to say, for studying aerial perspective; that was why he lived there. But you always felt about poor Lypiatt that he was facing misfortune with a jest a little too self-consciously.

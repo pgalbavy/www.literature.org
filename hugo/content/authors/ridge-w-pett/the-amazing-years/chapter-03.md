@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-03.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-03.html"
 ---
 
 I had at times complained about the folk of the neighbourhood; some made money rather suddenly and appeared anxious to persuade the residents that they belonged to aristocratic families; a few took up an attitude of reserve that could be easily mistaken for contempt. But, in the misfortune which had overtaken my people, their behaviour left no room for criticism. It was not only Colonel Edgington who showed kindness. I stayed the night in Miss Katherine's room, which was amongst the apartments that had escaped, and when I went out in the morning and walked along to the Colonel's house I found, even at that early hour, cars outside and messages being delivered, and all sorts of hospitality tendered. If we had cared to accept them, we could have put up at a dozen houses.

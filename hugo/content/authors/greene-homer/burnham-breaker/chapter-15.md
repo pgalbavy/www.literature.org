@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - An Eventful Journey"
 weight: 15
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-15.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-15.html"
 ---
 
 The shaft-tower of Burnham Breaker reached up so high from the surface of the earth that it seemed, sometimes, as if the low-hanging clouds were only a foot or two above its head. In the winter time the wind swept wildly against it, the flying snow drifted in through the wide cracks and broken windows, and the men who worked there suffered from the piercing cold. But when summer came, and the cool breeze floated across through the open places at the head, and one could look down always on the green fields far below, and the blossoming gardens, and the gray-roofed city, and the shining waters of the Lackawanna, winding southward, and the wooded hills rising like green waves to touch the far blue line of mountain peaks, ah, then it was a pleasant place to work in. So Bachelor Billy thought, these warm spring days, as he pushed the dripping cars from the carriage, and dumped each load of coal into the slide, to be carried down between the iron-teethed rollers, to be crushed and divided and screened and re-screened, till it should pass beneath the sharp eyes and nimble fingers of the boys who cleansed it from its slate and stone.

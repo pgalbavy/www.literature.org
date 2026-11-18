@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2 - ‘On The Court Of Grünewald,’ Being A Portion Of The Traveller’s Manuscript"
 weight: 8
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-02.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-02.html"
 ---
 
 It may well be asked (it was thus the English traveller began his nineteenth chapter) why I should have chosen Grünewald out of so many other states equally petty, formal, dull, and corrupt. Accident, indeed, decided, and not I; but I have seen no reason to regret my visit. The spectacle of this small society macerating in its own abuses was not perhaps instructive, but I have found it exceedingly diverting.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Mail-Box"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-11.html"
 ---
 
 Climbing an oak at the cross-roads one day, not far from Farmer Green's house, Sandy Chipmunk discovered a queer box nailed to the trunk of the tree. Much as he wanted to, he couldn't look inside the box, because its lid was closed. And since Sandy was afraid the box might be some sort of trap, he didn't dare go near it and poke at the lid.

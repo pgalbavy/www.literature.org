@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Charge!"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-10.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-10.html"
 ---
 
 Ten minutes later the truth was known and every man in the camp was up and armed. At first there were some signs of panic, but these with the help of Babemba we managed to control, setting the men to make the best preparations for defence that circumstances would allow, and thus occupying their minds. For from the first we saw that, except for the three of us who had horses, escape was impossible. That great camel corps could catch us within a mile.

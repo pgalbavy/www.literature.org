@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Flat Near The Edgware Road"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-16.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-16.html"
 ---
 
 Geoffrey’s journey to town was not altogether a cheerful one. To begin with, Effie wept copiously at parting with her beloved “auntie,” as she called Beatrice, and would not be comforted. The prospect of rejoining her mother and the voluble Anne had no charms for Effie. They all three got on best apart. Geoffrey himself had also much to think about, and found little satisfaction in the thinking. He threw his mind back over the events of the past few weeks. He remembered how he had first seen Beatrice’s face through the thick mist on the Red Rocks, and how her beauty had struck him as no beauty ever had before. Then he thought of the adventure of their shipwreck, and of the desperate courage with which she had saved his life, almost at the cost of her own. He thought, too, of that scene when on the following day he had entered the room where she was asleep, when the wandering ray of light had wavered from her breast to his own, when that strange presentiment of the ultimate intermingling of their lives had flashed upon him, and when she had awakened with an unearthly greeting on her lips. While Effie slowly sobbed herself to silence in the corner opposite to him, one by one, he recalled every phase and scene of their ever-growing intimacy, till the review culminated in his mysterious experience of the past night, and the memory of Beatrice’s parting words.

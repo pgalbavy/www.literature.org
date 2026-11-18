@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Solomon Likes Frogs"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-03.html"
 ---
 
 It was a warm summer’s evening—so warm that Mr. Frog, the tailor, had taken his sewing outside his tailor’s shop and seated himself cross-legged upon the bank of the brook, where he sang and sewed without ceasing—except to take a swim now and then in the cool water, “to stretch his legs,” as he claimed.

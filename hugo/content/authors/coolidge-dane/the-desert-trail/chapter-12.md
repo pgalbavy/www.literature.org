@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-12.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-12.html"
 ---
 
 In its inception the Fortuna hotel had not been intended for the use of Mexicans--in fact, its rates were practically prohibitive for any one not being paid in gold--but, since most of the Americans had left, and seven dollars a day Mex was no deterrent to the rich refugee landowners, it became of a sudden international, with a fine mixture of purse-proud Spaniards and race-proud American adventurers.

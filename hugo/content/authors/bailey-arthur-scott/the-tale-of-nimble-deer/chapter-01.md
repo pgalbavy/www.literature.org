@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Spotted Fawn"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-01.html"
 ---
 
 When Nimble's mother first looked at him she couldn't believe she would ever be able to raise him. He was such a tiny, frail, spotted thing that he seemed too delicate for a life of adventure on the wooded ridges and in the tangled swamps under the shadow of Blue Mountain.

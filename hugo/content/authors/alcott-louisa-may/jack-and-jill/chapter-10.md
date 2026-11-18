@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Dramatic Club"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-10.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-10.html"
 ---
 
 While Jack was hopping gayly about on his crutches, poor Jill was feeling the effects of her second fall, and instead of sitting up, as she hoped to do after six weeks of rest, she was ordered to lie on a board for two hours each day. Not an easy penance, by any means, for the board was very hard, and she could do nothing while she lay there, as it did not slope enough to permit her to read without great fatigue of both eyes and hands. So the little martyr spent her first hour of trial in sobbing, the second in singing, for just as her mother and Mrs. Minot were deciding in despair that neither she nor they could bear it, Jill suddenly broke out into a merry chorus she used to hear her father sing: -

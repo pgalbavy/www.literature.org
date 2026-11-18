@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8 - The Party Of War Takes Action"
 weight: 14
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-08.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-08.html"
 ---
 
 Half an hour after, Gondremark was once more closeted with Seraphina.

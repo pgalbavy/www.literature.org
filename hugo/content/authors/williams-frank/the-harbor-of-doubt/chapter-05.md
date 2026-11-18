@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Startling News"
 weight: 5
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-05.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-05.html"
 ---
 
 The home-coming of Captain Bijonah Tanner and his wife did not provide the thrill looked for by the more morbid inhabitants of Freekirk Head. In the excitement of the fire all hands had forgotten that cable communication between Mignon and the mainland was unbroken.

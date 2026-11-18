@@ -1,8 +1,7 @@
 ---
 title: "Epilogue"
 weight: 62
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/epilogue.html"
+url: "/authors/cather-willa/song-of-the-lark/epilogue.html"
 ---
 
 MOONSTONE again, in the year 1909. The Methodists are giving an ice-cream sociable in the grove about the new court-house. It is a warm summer night of full moon. The paper lanterns which hang among the trees are foolish toys, only dimming, in little lurid circles, the great softness of the lunar light that floods the blue heavens and the high plateau. To the east the sand hills shine white as of old, but the empire of the sand is gradually diminishing. The grass grows thicker over the dunes than it used to, and the streets of the town are harder and firmer than they were twenty-five years ago. The old inhabitants will tell you that sandstorms are infrequent now, that the wind blows less persistently in the spring and plays a milder tune. Cultivation has modified the soil and the climate, as it modifies human life.

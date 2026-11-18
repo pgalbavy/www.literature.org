@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - Making Friends"
 weight: 2
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-02.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-02.html"
 ---
 
 The impediment of tongues was one that I particularly over-estimated. The languages of Polynesia are easy to smatter, though hard to speak with elegance. And they are extremely similar, so that a person who has a tincture of one or two may risk, not without hope, an attempt upon the others.

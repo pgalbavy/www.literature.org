@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Lily Of The Field"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-04.html"
 ---
 
 THIS was the significant and poetic appellation which at once attached itself to Ralph Gowan after his first visit to the studio in Bloomsbury Place, and, as might have been expected, it was a fancy of Dolly's, the affixing of significant titles being one of her fortes.

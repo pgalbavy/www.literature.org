@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Jolly Robin’s Helper"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-12.html"
 ---
 
 The next morning Jolly Robin told his wife that she would have to do all the work of gathering the children’s breakfast. "You know, my love," he explained, "I have important business to attend to to-day." And before she had time to object he left her.

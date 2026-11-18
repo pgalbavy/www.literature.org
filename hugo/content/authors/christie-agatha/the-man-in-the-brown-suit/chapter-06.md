@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-06.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-06.html"
 ---
 
 I went home with a feeling of exultation. My scheme had succeeded far better than I could possibly have hoped. Lord Nasby had been positively genial. It only now remained for me to “Make good,” as he expressed it. Once locked in my own room, I took out my precious piece of paper and studied it attentively. Here was the clue to the mystery.

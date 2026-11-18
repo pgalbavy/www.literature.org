@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - An Angry King"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-03.html"
 ---
 
 The soldiers stood behind their officer. None of them had ever seen Leopold of Lutha--he had been but a name to them--they cared nothing for him; but in the presence of death they were awed by the majesty of the king they had never known.

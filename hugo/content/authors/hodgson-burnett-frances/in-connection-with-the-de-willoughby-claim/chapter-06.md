@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-06.html"
 ---
 
 The rooms at the back had never seemed so quiet before as when, at the close of the day, he went into them. They seemed all the quieter by contrast with the excitement of the past hours. In the kitchen Mornin was giving the final touches to the supper, and in the room which was at once sitting-room and bedroom, the wooden cradle had fitted itself in a corner near the fireplace and wore an air of permanent establishment remarkable to contemplate when one considered how unlooked-for an incident it was.

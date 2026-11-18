@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - On The River"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-16.html"
 ---
 
 The experience of Otto was somewhat similar to that which befell Jack Carleton in his search for the Indian canoe. Strong, self-possessed, and courageous by nature as was the German lad, he fretted over his forced restraint more than did the other.

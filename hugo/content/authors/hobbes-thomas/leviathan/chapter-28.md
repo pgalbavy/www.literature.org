@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Of Punishments, And Rewards"
 weight: 30
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-28.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-28.html"
 ---
 
 The Definition Of Punishment "A PUNISHMENT, is an Evill inflicted by publique Authority, on him that hath done, or omitted that which is Judged by the same Authority to be a Transgression of the Law; to the end that the will of men may thereby the better be disposed to obedience."

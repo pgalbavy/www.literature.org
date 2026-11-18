@@ -1,8 +1,7 @@
 ---
 title: "chapter 100"
 weight: 999
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-100.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-100.html"
 ---
 
 HALF the time I don’t trouble to look up at them, especially when I happen to be busy. They put their money underneath the brass wire; they ask for what they want; it’s given to them, and off they go. If any other plan was adopted we should never get through the work at our office, and there would be complaints to answer, and the superintendent might send some one along to kick up a row. As Miss Maitland says, when all the customers are made on one pattern everything will be much easier to manage; meanwhile we can’t do better than to do the best we can, and to recognise that some are in a hurry, some are just the reverse.

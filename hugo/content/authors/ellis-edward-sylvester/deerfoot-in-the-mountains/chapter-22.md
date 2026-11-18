@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Memorable Meeting"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-22.html"
 ---
 
 If you will examine the map of the State of Montana you will note that the central county bears the name of Fergus, while one of the counties lying directly south is Yellowstone. The boundary between these two is the Musselshell River, which, flowing directly northward, separates Custer and Dawson counties, joining the Missouri at the northeastern corner of Fergus County. It was in the latter part of May, 1805, that Deerfoot and the two Shelton boys, after a long, wearisome ride and tramp through a wild and unknown region, broken by mountain spurs and crossed by numberless streams, arrived at the mouth of the Musselshell.

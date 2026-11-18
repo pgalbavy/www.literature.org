@@ -1,8 +1,7 @@
 ---
 title: "chapter 04"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-04.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-04.html"
 ---
 
 The week passed away. On the Saturday it rained, a soft drizzling rain that held off at times. In one of the intervals Gudrun and Ursula set out for a walk, going towards Willey Water. The atmosphere was grey and translucent, the birds sang sharply on the young twigs, the earth would be quickening and hastening in growth. The two girls walked swiftly, gladly, because of the soft, subtle rush of morning that filled the wet haze. By the road the black-thorn was in blossom, white and wet, its tiny amber grains burning faintly in the white smoke of blossom. Purple twigs were darkly luminous in the grey air, high hedges glowed like living shadows, hovering nearer, coming into creation. The morning was full of a new creation.

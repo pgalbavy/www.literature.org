@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Other Benita"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-18.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-18.html"
 ---
 
 At irregular times, when he had nothing else to do, Jacob went on with his man-shooting, in which Mr. Clifford joined him, though with less effect. Soon it became evident that the Matabele were very much annoyed by the fatal accuracy of this fire. Loss of life they did not mind in the abstract, but when none of them knew but that their own turn might come next to perish beneath these downward plunging bullets, the matter wore a different face to them. To leave their camp was not easy, since they had made a thorn boma round it, to protect them in case the Makalanga should make a night sally; also they could find no other convenient spot. The upshot of it all was to hurry their assault, which they delivered before they had prepared sufficient ladders to make it effective.

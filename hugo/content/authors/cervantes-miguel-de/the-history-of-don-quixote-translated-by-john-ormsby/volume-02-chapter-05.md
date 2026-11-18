@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 5 - Of The Shrewd And Droll Conversation That Passed Between Sancho Panza And His Wife Teresa Panza, And Other Matters Worthy Of Being Duly Recorded"
 weight: 61
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-05.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-05.html"
 ---
 
 The translator of this history, when he comes to write this fifth chapter, says that he considers it apocryphal, because in it Sancho Panza speaks in a style unlike that which might have been expected from his limited intelligence, and says things so subtle that he does not think it possible he could have conceived them; however, desirous of doing what his task imposed upon him, he was unwilling to leave it untranslated, and therefore he went on to say:

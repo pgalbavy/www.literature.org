@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The End"
 weight: 14
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-14.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-14.html"
 ---
 
 Life at the Three Chimneys was never quite the same again after the old gentleman came to see his grandson. Although they now knew his name, the children never spoke of him by it - at any rate, when they were by themselves. To them he was always the old gentleman, and I think he had better be the old gentleman to us, too. It wouldn't make him seem any more real to you, would it, if I were to tell you that his name was Snooks or Jenkins (which it wasn't)? - and, after all, I must be allowed to keep one secret. It's the only one; I have told you everything else, except what I am going to tell you in this chapter, which is the last. At least, of course, I haven't told you EVERYTHING. If I were to do that, the book would never come to an end, and that would be a pity, wouldn't it?

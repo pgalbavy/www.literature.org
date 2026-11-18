@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-32.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-32.html"
 ---
 
 The view of ships lying moored in some of the older docks of London has always suggested to my mind the image of a flock of swans kept in the flooded backyard of grim tenement houses. The flatness of the walls surrounding the dark pool on which they float brings out wonderfully the flowing grace of the lines on which a ship’s hull is built. The lightness of these forms, devised to meet the winds and the seas, makes, by contrast with the great piles of bricks, the chains and cables of their moorings appear very necessary, as if nothing less could prevent them from soaring upwards and over the roofs. The least puff of wind stealing round the corners of the dock buildings stirs these captives fettered to rigid shores. It is as if the soul of a ship were impatient of confinement. Those masted hulls, relieved of their cargo, become restless at the slightest hint of the wind’s freedom. However tightly moored, they range a little at their berths, swaying imperceptibly the spire-like assemblages of cordage and spars. You can detect their impatience by watching the sway of the mastheads against the motionless, the soulless gravity of mortar and stones. As you pass alongside each hopeless prisoner chained to the quay, the slight grinding noise of the wooden fenders makes a sound of angry muttering. But, after all, it may be good for ships to go through a period of restraint and repose, as the restraint and self-communion of inactivity may be good for an unruly soul—not, indeed, that I mean to say that ships are unruly; on the contrary, they are faithful creatures, as so many men can testify. And faithfulness is a great restraint, the strongest bond laid upon the self-will of men and ships on this globe of land and sea.

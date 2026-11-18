@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Last Of Ten Thousand"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-01.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-01.html"
 ---
 
 Under the rim of Shadow Mountain, embraced like a pearl of great price by the curve of Bonanza Point and the mined-out slope of Gold Hill, the deserted city of Keno lay brooding and silent in the sun. A dry, gusty wind, swooping down through the northern pass, slammed the great iron fire-doors that hung creaking from the stone bank building, caught up a cloud of sand and dirt and, whirling it down past empty stores and assay offices, deposited it in the doorways of gambling houses and dance halls, long since abandoned to the rats. An old man, pottering about among the ruins, gathered up some broken boards and hobbled off; and once more Keno, the greatest gold camp the West has ever seen, sank back to silence and dreams.

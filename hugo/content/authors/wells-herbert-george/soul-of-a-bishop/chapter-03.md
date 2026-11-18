@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Insomnia"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-03.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-03.html"
 ---
 
 (1)

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10 - Cecil As A Humourist"
 weight: 10
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-10.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-10.html"
 ---
 
 The society out of which Cecil proposed to rescue Lucy was perhaps no very splendid affair, yet it was more splendid than her antecedents entitled her to. Her father, a prosperous local solicitor, had built Windy Corner, as a speculation at the time the district was opening up, and, falling in love with his own creation, had ended by living there himself. Soon after his marriage the social atmosphere began to alter. Other houses were built on the brow of that steep southern slope and others, again, among the pine-trees behind, and northward on the chalk barrier of the downs. Most of these houses were larger than Windy Corner, and were filled by people who came, not from the district, but from London, and who mistook the Honeychurches for the remnants of an indigenous aristocracy. He was inclined to be frightened, but his wife accepted the situation without either pride or humility. “I cannot think what people are doing,” she would say, “but it is extremely fortunate for the children.” She called everywhere; her calls were returned with enthusiasm, and by the time people found out that she was not exactly of their milieu, they liked her, and it did not seem to matter. When Mr. Honeychurch died, he had the satisfaction--which few honest solicitors despise--of leaving his family rooted in the best society obtainable.

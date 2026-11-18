@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-05.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-05.html"
 ---
 
 Five o'clock had hardly struck on the morning of the 19th of January, when Bessie brought a candle into my closet and found me already up and nearly dressed. I had risen half-an-hour before her entrance, and had washed my face, and put on my clothes by the light of a half-moon just setting, whose rays streamed through the narrow window near my crib. I was to leave Gateshead that day by a coach which passed the lodge gates at six a.m. Bessie was the only person yet risen; she had lit a fire in the nursery, where she now proceeded to make my breakfast. Few children can eat when excited with the thoughts of a journey; nor could I. Bessie, having pressed me in vain to take a few spoonfuls of the boiled milk and bread she had prepared for me, wrapped up some biscuits in a paper and put them into my bag; then she helped me on with my pelisse and bonnet, and wrapping herself in a shawl, she and I left the nursery. As we passed Mrs. Reed's bedroom, she said, "Will you go in and bid Missis good-bye?"

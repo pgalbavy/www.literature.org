@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-06.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-06.html"
 ---
 
 Captain Hepburn still called occasionally at the house for his post. The maid always put his letters in a certain place in the hall, so that he should not have to climb the stairs.

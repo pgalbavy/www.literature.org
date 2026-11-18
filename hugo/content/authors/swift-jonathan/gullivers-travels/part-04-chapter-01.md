@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1"
 weight: 29
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-01.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-01.html"
 ---
 
 The author sets out as captain of a ship. His men conspire against him, confine him a long time to his cabin, and set him on shore in an unknown land. He travels up into the country. The Yahoos, a strange sort of animal, described. The author meets two Houyhnhnms.

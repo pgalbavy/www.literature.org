@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-21.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-21.html"
 ---
 
 The Palmers returned to Cleveland the next day, and the two families at Barton were again left to entertain each other. But this did not last long; Elinor had hardly got their last visitors out of her head, had hardly done wondering at Charlotte's being so happy without a cause, at Mr. Palmer's acting so simply, with good abilities, and at the strange unsuitableness which often existed between husband and wife, before Sir John's and Mrs. Jennings's active zeal in the cause of society, procured her some other new acquaintance to see and observe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Waste Of War"
 weight: 11
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-10.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-10.html"
 ---
 
 In this war, more than in other campaigns, the wastefulness is apparent. In other wars, what to the man at home was most distressing was the destruction of life. He measured the importance of the conflict by the daily lists of killed and wounded. But in those wars, except human life, there was little else to destroy. The war in South Africa was fought among hills of stone, across vacant stretches of prairie. Not even trees were destroyed, because there were no trees. In the district over which the armies passed there were not enough trees to supply the men with fire-wood. In Manchuria, with the Japanese, we marched for miles without seeing even a mud village, and the approaches to Port Arthur were as desolate as our Black Hills. The Italian-Turkish War was fought in the sands of a desert, and in the Balkan War few had heard of the cities bombarded until they read they were in flames. But this war is being waged in that part of the world best known to the rest of the world.

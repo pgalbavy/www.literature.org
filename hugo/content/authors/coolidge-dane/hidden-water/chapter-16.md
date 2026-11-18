@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Departure"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-16.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-16.html"
 ---
 
 The gentle hand of sleep, which held Hardy in a grip that was akin to death, blotting out the past and dispelling all remembrance of his sorrows, failed utterly to abate the fighting spirit of Jefferson Creede or sap the Spartan grimness of his purpose. Worn by the destroying anger of the previous day, thwarted and apparently defeated, he rose up at the first glow of dawn and set about his preparations with an unemotional directness which augured ill for Jasper Swope. Before the sun was an hour high he had the town herd on the trail for Bender, entrusted to the care of Bill Lightfoot and several others of whom he wanted to be rid. The camp was dismantled, the packs were loaded upon the spare horses, and the outfit was ready to start for Carrizo Creek before breakfast was more than finished in the ranch house. After a final survey to make sure that nothing had been overlooked in the scuffle, the rodéo boss waved his hand to the leaders; then, as the train strung out up the cañon, he rode over to the house to say good-bye. The last farewell is a formality often dispensed with in the Far West; but in this case the boss had business to attend to, and--well, he had something to say to Kitty Bonnair, too.

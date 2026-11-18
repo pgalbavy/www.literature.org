@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 30"
 weight: 259
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-30.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-30.html"
 ---
 
 The glow of the first fire that began on the second of September was watched from the various roads by the fugitive Muscovites and by the retreating troops, with many different feelings.

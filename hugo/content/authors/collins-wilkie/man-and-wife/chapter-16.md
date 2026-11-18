@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Geoffrey As A Public Character"
 weight: 18
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-16.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-16.html"
 ---
 
 TIME had advanced to after noon before the selection of Geoffrey's future wife was accomplished, and before the instructions of Geoffrey's brother were complete enough to justify the opening of the matrimonial negotiation at Nagle's Hotel.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - What Came Of The Night Watch"
 weight: 41
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-39.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-39.html"
 ---
 
 The last knot of the dancers came out of the club, and were strolling up St. James's Street, and stopping to chaff the itinerant coffee vendor, who was preparing his stand at the corner of Piccadilly for his early customers, just about the time that Tom was beginning to rouse himself under the alder-tree, and stretch his stiffened limbs, and sniff the morning air. By the time the guardsman had let himself into his lodgings in Mount Street, our hero had undergone his unlooked for bath, and was sitting in a state of utter bewilderment as to what was next to be said or done, dripping and disconcerted, opposite to the equally dripping and, to all appearance, equally disconcerted, poacher.

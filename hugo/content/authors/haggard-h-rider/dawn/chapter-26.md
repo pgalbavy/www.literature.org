@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-26.html"
+url: "/authors/haggard-h-rider/dawn/chapter-26.html"
 ---
 
 One Saturday morning, when May was three-parts gone, Philip announced his intention of going up to London till the Monday on business. He was a man who had long since become callous to appearances, and though Arthur, fearful lest spiteful things should be said of Angela, almost hinted that it would look odd, his host merely laughed, and said that he had little doubt but that his daughter was quite able to look after herself, even when such a fascinating young gentleman as himself was concerned. As a matter of fact, his object was to get rid of Angela by marrying her to this young Heigham, who had so opportunely tumbled down from the skies, and whom he rather liked than otherwise. This being the case, he rightly concluded that, the more the two were left together, the greater probability there was of his object being attained. Accordingly he left them together as much as possible.

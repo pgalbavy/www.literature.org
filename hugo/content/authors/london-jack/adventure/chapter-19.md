@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Lost Toy"
 weight: 19
-aliases:
-  - "/authors/london-jack/adventure/chapter-19.html"
+url: "/authors/london-jack/adventure/chapter-19.html"
 ---
 
 "Well," Joan said with a sigh, "I've shown you hustling American methods that succeed and get somewhere, and here you are beginning your muddling again."

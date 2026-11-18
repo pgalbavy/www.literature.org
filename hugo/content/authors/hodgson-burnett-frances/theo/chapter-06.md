@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Theo Goes To Paris"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-06.html"
 ---
 
 The letters that were faithfully written to Downport during the following month were the cause of no slight excitement in the house of David North, Esq. The children looked forward to the reception of them as an event worthy of being chronicled. Theo was an exact correspondent, and recorded her adventures and progress with as careful a precision as if it had been a matter of grave import whether she was in Boulogne or Bordeaux, or had stayed at one hotel or the other. It was not the pleasantest season of the year to travel, she wrote, but it was, of course, the gayest in the cities. Lady Throckmorton was very kind and very generous. She took her out a great deal, and spent a great deal of money in sight-seeing, which proved conclusively how kind she was, as her ladyship knew all the places worth looking at, as well as she knew Charing Cross or St. Paul's. And at the end of a month came a letter from Paris full of news and description.

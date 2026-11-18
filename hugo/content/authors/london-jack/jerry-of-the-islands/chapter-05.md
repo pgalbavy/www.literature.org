@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-05.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-05.html"
 ---
 
 And swift tropic night smote the Arangi, as she alternately rolled in calms and heeled and plunged ahead in squalls under the lee of the cannibal island of Malaita. It was a stoppage of the south-east trade wind that made for variable weather, and that made cooking on the exposed deck galley a misery and sent the return boys, who had nothing to wet but their skins, scuttling below.

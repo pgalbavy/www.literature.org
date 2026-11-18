@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-03.html"
 ---
 
 Fred Godfrey did not stop to reload his pistol. He had another ready for use, and he unshipped his rifle in a twinkling, and hurried for the point where he hoped to gain some tidings of his loved ones. Everything was in a swirl, and of his own knowledge he could not tell the proper course to take.

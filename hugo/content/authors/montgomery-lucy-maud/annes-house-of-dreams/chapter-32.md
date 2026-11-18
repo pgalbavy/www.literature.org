@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Miss Cornelia Discusses The Affair"
 weight: 32
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-32.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-32.html"
 ---
 
 "And do you mean to tell me, Anne, dearie, that Dick Moore has turned out not to be Dick Moore at all but somebody else? Is THAT what you phoned up to me today?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Panic In The House"
 weight: 8
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-08.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-08.html"
 ---
 
 I was sitting at my desk in London when a telegram came announcing that my mother was again dangerously ill, and I seized my hat and hurried to the station. It is not a memory of one night only. A score of times, I am sure, I was called north thus suddenly, and reached our little town trembling, head out at railway-carriage window for a glance at a known face which would answer the question on mine. These illnesses came as regularly as the backend of the year, but were less regular in going, and through them all, by night and by day, I see my sister moving so unwearyingly, so lovingly, though with failing strength, that I bow my head in reverence for her. She was wearing herself done. The doctor advised us to engage a nurse, but the mere word frightened my mother, and we got between her and the door as if the woman was already on the stair. To have a strange woman in my mother's room - you who are used to them cannot conceive what it meant to us.

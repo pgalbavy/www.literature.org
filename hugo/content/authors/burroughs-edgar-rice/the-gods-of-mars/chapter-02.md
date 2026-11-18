@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Forest Battle"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-02.html"
 ---
 
 Tars Tarkas and I found no time for an exchange of experiences as we stood there before the great boulder surrounded by the corpses of our grotesque assailants, for from all directions down the broad valley was streaming a perfect torrent of terrifying creatures in response to the weird call of the strange figure far above us.

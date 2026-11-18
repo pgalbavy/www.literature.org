@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-12.html"
 ---
 
 A very few days after the dinner party at the Castle, almost everybody in England who read the newspapers at all knew the romantic story of what had happened at Dorincourt. It made a very interesting story when it was told with all the details. There was the little American boy who had been brought to England to be Lord Fauntleroy, and who was said to be so fine and handsome a little fellow, and to have already made people fond of him; there was the old Earl, his grandfather, who was so proud of his heir; there was the pretty young mother who had never been forgiven for marrying Captain Errol; and there was the strange marriage of Bevis, the dead Lord Fauntleroy, and the strange wife, of whom no one knew anything, suddenly appearing with her son, and saying that he was the real Lord Fauntleroy and must have his rights. All these things were talked about and written about, and caused a tremendous sensation. And then there came the rumor that the Earl of Dorincourt was not satisfied with the turn affairs had taken, and would perhaps contest the claim by law, and the matter might end with a wonderful trial.

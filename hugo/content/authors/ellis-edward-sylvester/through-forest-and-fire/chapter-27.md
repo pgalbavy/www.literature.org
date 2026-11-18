@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Was It A Joke?"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-27.html"
 ---
 
 At that instant, Nick Ribsam felt himself suddenly lifted in air and spinning forward with great speed on the back of the vigorous hog, which plunged between his rather short legs.

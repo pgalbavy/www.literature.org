@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Vision Upon A Warning"
 weight: 1
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-01.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-01.html"
 ---
 
 The doctor was so small and frail that his narrow face was rescued from inconsequence only by a trimly cropped Van-Dyck with a dignified sprinkling of gray. I always felt that, should I ever see him in a bathing suit, I would have to seek a new physician. I could never again think of him as sufficiently grown-up to practise an adult vocation. Yet when the doctor spoke his mentality issued out of its small habitation of flesh and expanded to commanding proportion.

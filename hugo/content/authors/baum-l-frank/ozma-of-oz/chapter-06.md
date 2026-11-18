@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-06.html"
 ---
 
 They walked slowly down the path between the rocks, Tiktok going first, Dorothy following him, and the yellow hen trotting along last of all.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-35.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-35.html"
 ---
 
 Next day, the mast-steps clear and everything in readiness, we started to get the two topmasts aboard. The maintopmast was over thirty feet in length, the foretopmast nearly thirty, and it was of these that I intended making the shears. It was puzzling work. Fastening one end of a heavy tackle to the windlass, and with the other end fast to the butt of the foretopmast, I began to heave. Maud held the turn on the windlass and coiled down the slack.

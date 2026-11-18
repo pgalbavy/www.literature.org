@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-08.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-08.html"
 ---
 
 Dawn was reddening the leaves of the oak outside the window when Fessenden awoke. From the great bay below the house came the ruffle of water--the wind was freshening. But it was not the mutter along the shore, nor the tang of the salt air, that had aroused him.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 19 - An Opinion"
 weight: 25
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-19.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-19.html"
 ---
 
 WORN OUT by anxious watching, Mr. Lorry fell asleep at his post. On the tenth morning of his suspense, he was startled by the shining of the sun into the room where a heavy slumber had overtaken him when it was dark night.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Rue Soleil d'or"
 weight: 27
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-26.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-26.html"
 ---
 
 Marotte, the butler, in dry clothes, had served luncheon—a silent, respectable, self-respecting man, calm in his fury at the incredible outrage perpetrated upon his person.

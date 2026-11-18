@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-15.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-15.html"
 ---
 
 WE posted five-and-thirty miles, then stopped for a couple of hours to rest, and wait for a night coach running northward.

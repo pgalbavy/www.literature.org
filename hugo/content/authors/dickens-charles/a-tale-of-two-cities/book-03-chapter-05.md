@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 5 - The Wood-Sawyer"
 weight: 35
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-05.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-05.html"
 ---
 
 ONE YEAR and three months. During all that time Lucie was never sure, from hour to hour, but that the Guillotine would strike off her husband's head next day. Every day, through the stony streets, the tumbrils now jolted heavily, filled with Condemned. Lovely girls; bright women, brown-haired, black-haired, and grey; youths; stalwart men and old; gentle born and peasant born; all red wine for La Guillotine, all daily brought into light from the dark cellars of the loathsome prisons, and carried to her through the streets to slake her devouring thirst. Liberty, equality, fraternity, or death;- the last, much the easiest to bestow, O Guillotine!

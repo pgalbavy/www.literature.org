@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Time Does Fly"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-14.html"
+url: "/authors/tarkington-booth/seventeen/chapter-14.html"
 ---
 
 He remembered now what he had been too hurried to remember earlier. He had worn these clothes on the previous Saturday, and, returning from a glorified walk with Miss Pratt, he had demonstrated a fact to which his near-demolition of the wafers, this afternoon, was additional testimony. This fact, roughly stated, is that a person of seventeen, in love, is liable to sit down anywhere. William had dreamily seated himself upon a tabouret in the library, without noticing that Jane had left her open paint-box there. Jane had just been painting sunsets; naturally all the little blocks of color were wet, and the effect upon William's pale-gray trousers was marvelous—far beyond the capacity of his coat to conceal. Collar-buttons and children's paint-boxes—those are the trolls that lie in wait!

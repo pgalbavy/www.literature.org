@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 17"
 weight: 51
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-17.html"
 ---
 
 Stepan Arkadyevitch went upstairs with his pocket bulging with notes, which the merchant had paid him for three months in advance. The business of the forest was over, the money in his pocket; their shooting had been excellent, and Stepan Arkadyevitch was in the happiest frame of mind, and so he felt specially anxious to dissipate the ill-humor that had come upon Levin. He wanted to finish the day at supper as pleasantly as it had been begun.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Chase"
 weight: 16
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-15.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-15.html"
 ---
 
 The Matabele it was, sure enough; there could be no doubt of it, for soon three other men joined the sentry and began to talk with him, pointing with their great spears at the side of the hill. Evidently they were arranging a surprise when there was sufficient light to carry it out.

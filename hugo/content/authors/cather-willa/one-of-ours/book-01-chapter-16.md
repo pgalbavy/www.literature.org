@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-16.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-16.html"
 ---
 
 Ralph and his father came home to spend the holidays, and on Christmas day Bayliss drove out from town for dinner. He arrived early, and after greeting his mother in the kitchen, went up to the sitting-room, which shone with a holiday neatness, and, for once, was warm enough for Bayliss,--having a low circulation, he felt the cold acutely. He walked up and down, jingling the keys in his pockets and admiring his mother's winter chrysanthemums, which were still blooming. Several times he paused before the old-fashioned secretary, looking through the glass doors at the volumes within. The sight of some of those books awoke disagreeable memories. When he was a boy of fourteen or fifteen, it used to make him bitterly jealous to hear his mother coaxing Claude to read aloud to her. Bayliss had never been bookish. Even before he could read, when his mother told him stories, he at once began to prove to her how they could not possibly be true. Later he found arithmetic and geography more interesting than "Robinson Crusoe." If he sat down with a book, he wanted to feel that he was learning something. His mother and Claude were always talking over his head about the people in books and stories.

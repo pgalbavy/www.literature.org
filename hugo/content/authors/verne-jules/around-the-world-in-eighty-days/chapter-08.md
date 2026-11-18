@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-08.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-08.html"
 ---
 
 Fix soon rejoined Passepartout, who was lounging and looking about on the quay, as if he did not feel that he, at least, was obliged not to see anything.

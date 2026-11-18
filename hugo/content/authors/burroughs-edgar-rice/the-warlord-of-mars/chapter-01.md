@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - On the River Iss"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-01.html"
 ---
 
 In the shadows of the forest that flanks the crimson plain by the side of the Lost Sea of Korus in the Valley Dor, beneath the hurtling moons of Mars, speeding their meteoric way close above the bosom of the dying planet, I crept stealthily along the trail of a shadowy form that hugged the darker places with a persistency that proclaimed the sinister nature of its errand.

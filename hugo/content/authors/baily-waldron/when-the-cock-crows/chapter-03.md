@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A New Calamity"
 weight: 3
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-03.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-03.html"
 ---
 
 Perhaps there is no point upon the Carolina coast where there is more interest shown in weather conditions than at Beaufort, the present terminus of the great inland water-route from Boston to the Gulf. There are vital reasons for this. First: a fleet of small fishing vessels makes this their home port. Hardly a family in the town that has not one or more of its members going to sea in the little craft. To be caught off shore in one of the West India hurricanes, which, at irregular intervals, touch this point, means almost certain destruction. Again: there is always danger to the low-lying town from a tidal wave. The town is built on flat ground almost level with the surface of the water. There is no sea wall to keep off the angry waves. The dwellers in the town have learned their danger through dear experience in times past when the waves have swept over it, bringing desolation and death.

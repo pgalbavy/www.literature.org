@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-14.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-14.html"
 ---
 
 When the bridesmaids entered it was a pale but firm face that greeted them. "It was panic," said Conscience slowly. "If I hadn't decided freely and fully and finally, I wouldn't have come this far. No one has forced me.... He, Eben, is worth a dozen of me.... Please believe me, never speak of this to anyone. It was sheer nerves and panic."

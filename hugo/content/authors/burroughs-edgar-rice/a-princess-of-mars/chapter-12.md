@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Prisoner with Power"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-12.html"
 ---
 
 As I entered and saluted, Lorquas Ptomel signaled me to advance, and, fixing his great, hideous eyes upon me, addressed me thus:

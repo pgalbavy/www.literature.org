@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Dick Halliard"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-09.html"
 ---
 
 The conversation was not of a nature to improve the courage of the occupants of the stagecoach, for, when children spend an evening in exchanging ghost stories, they find the darkness of their bed-rooms more fearful than before.

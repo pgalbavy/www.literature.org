@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - \"Lay Low!\""
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-21.html"
 ---
 
 The clock in the tower of the City Hall solemnly boomed the hour of midnight. Damietta lay wrapped in slumber—that is, so far as the majority of her citizens were concerned. Her guardians of the peace, as a rule, were wide awake, and the dozens stationed within the vicinity of her three national banks were particularly so.

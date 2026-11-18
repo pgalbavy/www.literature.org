@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/the-parasite/chapter-04.html"
+url: "/authors/doyle-arthur-conan/the-parasite/chapter-04.html"
 ---
 
 6.45 P. M. No, it is useless. There is no human help for me; I must fight this out single-handed. Two courses lie before me. I might become this woman's lover. Or I must endure such persecutions as she can inflict upon me. Even if none come, I shall live in a hell of apprehension. But she may torture me, she may drive me mad, she may kill me: I will never, never, never give in. What can she inflict which would be worse than the loss of Agatha, and the knowledge that I am a perjured liar, and have forfeited the name of gentleman?

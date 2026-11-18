@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Tuppence Receives A Proposal"
 weight: 16
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-15.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-15.html"
 ---
 
 *JULIUS* sprang up.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Madness Of Nombe"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-22.html"
+url: "/authors/haggard-h-rider/finished/chapter-22.html"
 ---
 
 The dog reached Nombe first and began to lick her face, its tongue removing patches of the white which had not had time to dry. She was lying, her back supported by one of the boulders. With her left hand she patted the dog's head feebly and with her right drew out the assegai from her body, letting it fall upon the ground. Recognizing me she smiled in her usual mysterious fashion and said--

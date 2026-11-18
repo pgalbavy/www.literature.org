@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Shotgun Widow"
 weight: 2
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-02.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-02.html"
 ---
 
 The Widow Huff was burdened with a tray and her eye sought wildly for Virginia but when she glimpsed Wiley moving swiftly towards the door she set down his dinner with a bang. The disrespectful epithet which he had applied to her had been lost in the clatter of plates, but the moment the Widow came into the room she sensed the hair-trigger atmosphere.

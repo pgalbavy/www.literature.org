@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-13.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-13.html"
 ---
 
 Their intended excursion to Whitwell turned out very different from what Elinor had expected. She was prepared to be wet through, fatigued, and frightened; but the event was still more unfortunate, for they did not go at all.

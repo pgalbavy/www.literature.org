@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-12.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-12.html"
 ---
 
 Early in the morning following his trip to North Wilkesboro' Uncle Dick Siddon rode off to Pleasant Valley, there to prosecute his sentimental labors for the pleasuring of the Widow Brown. Alvira fared abroad on some errand to a neighboring cabin. Plutina, her usual richness of coloring dimmed by a troubled night, was left alone. In the mid-forenoon she was sitting on the porch, busy over a pan of beans, which she was stringing for dinner. As she chanced to raise her eyes, she saw Dan Hodges coming up the path. At sight of the evil lowering face, repulsion flared hot in the girl. The instinct of flight was strong, but her good sense forbade it. She felt a stirring of unfamiliar terror in the presence of the man. She scorned herself for the weakness, but it persisted. Her very fear dictated the counsels of prudence. She believed that in dissimulation lay her only possibility of safety. The thought of any intercourse with the moonshiner was unspeakably repugnant, yet she dared not risk needless offense. Nevertheless, the first effect of her resolve was a self-contempt that moved her to wrath, and made her opening speech more venomous even than it had been otherwise.

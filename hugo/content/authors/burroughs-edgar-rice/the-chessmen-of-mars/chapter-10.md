@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-10.html"
 ---
 
 TURAN the panthan approached the strange city under cover of the darkness. He entertained little hope of finding either food or water outside the wall, but he would try and then, if he failed, he would attempt to make his way into the city, for Tara of Helium must have sustenance and have it soon. He saw that the walls were poorly sentineled, but they were sufficiently high to render an attempt to scale them foredoomed to failure. Taking advantage of underbrush and trees, Turan managed to reach the base of the wall without detection. Silently he moved north past the gateway which was closed by a massive gate which effectively barred even the slightest glimpse within the city beyond. It was Turan's hope to find upon the north side of the city away from the hills a level plain where grew the crops of the inhabitants, and here too water from their irrigating system, but though he traveled far along that seemingly interminable wall he found no fields nor any water. He searched also for some means of ingress to the city, yet here, too, failure was his only reward, and now as he went keen eyes watched him from above and a silent stalker kept pace with him for a time upon the summit of the wall; but presently the shadower descended to the pavement within and hurrying swiftly raced ahead of the stranger without.

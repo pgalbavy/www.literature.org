@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-11.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-11.html"
 ---
 
 Mary Burton made her way between tall hedgerows of box where an alley of shade ran to a side terrace, and when she had gained her own room her eyes were aglow with a new and rather radiant sort of smile, that also crept to the corners of her lips and hovered happily. It was a vague smile, but if the man who had enticed it there had seen it, he would have felt reassured. The threat of tomorrow's wrath would not have troubled him.

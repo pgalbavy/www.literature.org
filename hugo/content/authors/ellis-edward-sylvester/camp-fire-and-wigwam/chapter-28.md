@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Patient Of The Medicine Man"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-28.html"
 ---
 
 When Jack Carleton awoke, it was night and the rain was falling. He was feverish and his brain was so overwrought that it was a full minute before he could call to mind where he was. His slumber had been disturbed toward the latter part by dreams as wild, vague and unimaginable as those which taunt the brain of the opium eater.

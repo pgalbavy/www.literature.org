@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - An Explanation From Théophraste"
 weight: 3
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-02.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-02.html"
 ---
 
 *NOW* in reading the last chapter one would immediately think that M. Longuet had gone mad. What had possessed him? Where did he go? In order that you might fully understand his peculiar actions I will give you the extract from his memoirs relating to this incident. He writes:

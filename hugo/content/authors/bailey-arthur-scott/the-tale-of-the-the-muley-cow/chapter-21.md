@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Brave Deed"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-21.html"
 ---
 
 Nobody had ever supposed that the Muley Cow had much courage. In many ways she seemed quite timid. Perhaps if she had had horns she would have been different. Anyhow, whenever anything startled her the only thing she ever did was to run away, if she could. If old dog Spot barked at her heels the Muley Cow always hurried to get out of reach of his snapping jaws. If Farmer Green shouted at her she was more than likely to mind him. And usually she even did as Johnnie Green told her to do. In all her life she was never known to fight. Yet there came a time when many of her friends claimed that she was very brave indeed.

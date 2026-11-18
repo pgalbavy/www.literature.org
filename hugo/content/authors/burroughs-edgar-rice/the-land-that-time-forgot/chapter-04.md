@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-04.html"
 ---
 
 For several days things went along in about the same course. I took our position every morning with my crude sextant; but the results were always most unsatisfactory. They always showed a considerable westing when I knew that we had been sailing due north. I blamed my crude instrument, and kept on. Then one afternoon the girl came to me.

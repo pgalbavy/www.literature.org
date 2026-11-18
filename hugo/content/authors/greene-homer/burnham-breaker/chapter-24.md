@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - At The Dawn Of Day"
 weight: 24
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-24.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-24.html"
 ---
 
 It was not until very late on the morning following the storm that Bachelor Billy came fully to his senses and realized what had happened.

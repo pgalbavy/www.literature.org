@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Outwitted"
 weight: 29
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-27.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-27.html"
 ---
 
 SIR PATRICK found his sister-in-law immersed in domestic business. Her ladyship's correspondence and visiting list, her ladyship's household bills and ledgers; her ladyship's Diary and Memorandum-book (bound in scarlet morocco); her ladyship's desk, envelope-case, match-box, and taper candlestick (all in ebony and silver); her ladyship herself, presiding over her responsibilities, and wielding her materials, equal to any calls of emergency, beautifully dressed in correct morning costume, blessed with perfect health both of the secretions and the principles; absolutely void of vice, and formidably full of virtue, presented, to every properly-constituted mind, the most imposing spectacle known to humanity--the British Matron on her throne, asking the world in general, When will you produce the like of Me?

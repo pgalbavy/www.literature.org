@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Wine Merchant"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-05.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-05.html"
 ---
 
 Godwin laid down the letter, and all of them stared at one another in amazement.

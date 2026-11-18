@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Mr. Deer Mouse Is Timid"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-benny-badger/chapter-23.html"
 ---
 
 Benny Badger began to lose patience with the deer mouse. He was one of the most timid persons Benny had ever seen. And Benny was on the point of telling him that he hadn't even the courage of a prairie dog.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-21.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-21.html"
 ---
 
 Ernestine was a delightful hostess, she loved situations, and her social tact was illimitable. In a few minutes Trent was seated in a comfortable and solid chair with a little round table by his side, drinking tea and eating buttered scones, and if not altogether at his ease very nearly so. Opposite him was Davenant, dying to escape yet constrained to be agreeable, and animated too with a keen, distasteful curiosity to watch Ernestine's methods. And Ernestine herself chatted all the time, diffused good fellowship and tea - she made an atmosphere which had a nameless fascination for the man who had come to middle-age without knowing what a home meant. Davenant studied him and became thoughtful. He took note of the massive features, the iron jaw, the eyes as bright as steel, and his thoughtfulness became anxiety. Ernestine too was strong, but this man was a rock. What would happen if she carried out her purpose, fooled, betrayed him, led him perhaps to ruin? Some day her passion would leap up, she would tell him, they would be face to face, injured man and taunting woman. Davenant had an ugly vision as he sat there. He saw the man's eyes catch fire, the muscles of his face twitch, he saw Ernestine shrink back, white with terror and the man followed her.

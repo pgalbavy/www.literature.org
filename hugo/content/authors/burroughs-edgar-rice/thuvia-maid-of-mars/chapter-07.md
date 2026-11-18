@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Phantom Bowmen"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-07.html"
 ---
 
 As Jav leaped toward him Carthoris laid his hand upon the hilt of his long-sword. The Lotharian halted. The great apartment was empty save for the four at the dais, yet as Jav stepped back from the menace of the Heliumite's threatening attitude the latter found himself surrounded by a score of bowmen.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Nero And Blackie"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-11.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-11.html"
 ---
 
 The first thing any wild animal does when it runs away is to find some dark place and hide. Even though it may be hungry, an animal, when frightened, will nearly always hide until it can look about and make up its mind what to do.

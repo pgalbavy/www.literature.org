@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-12.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-12.html"
 ---
 
 'So I came back. For a long time I must have been insensible upon the machine. The blinking succession of the days and nights was resumed, the sun got golden again, the sky blue. I breathed with greater freedom. The fluctuating contours of the land ebbed and flowed. The hands spun backward upon the dials. At last I saw again the dim shadows of houses, the evidences of decadent humanity. These, too, changed and passed, and others came. Presently, when the million dial was at zero, I slackened speed. I began to recognize our own petty and familiar architecture, the thousands hand ran back to the starting-point, the night and day flapped slower and slower. Then the old walls of the laboratory came round me. Very gently, now, I slowed the mechanism down.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 77 - The Three Lieutenants Of The Generalissimo"
 weight: 77
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-77.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-77.html"
 ---
 
 The night was dark, but still the town resounded with those noises that disclose a city in a state of siege. Athos and Aramis did not proceed a hundred steps without being stopped by sentinels placed before the barricades, who demanded the watchword; and on their saying that they were going to Monsieur de Bouillon on a mission of importance a guide was given them under pretext of conducting them, but in fact as a spy over their movements.

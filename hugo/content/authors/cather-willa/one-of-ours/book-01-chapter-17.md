@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-17.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-17.html"
 ---
 
 It had been Mr. Wheeler's intention to stay at home until spring, but Ralph wrote that he was having trouble with his foreman, so his father went out to the ranch in February. A few days after his departure there was a storm which gave people something to talk about for a year to come.

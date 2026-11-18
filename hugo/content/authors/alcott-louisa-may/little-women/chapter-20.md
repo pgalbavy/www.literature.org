@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Confidential"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-20.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-20.html"
 ---
 
 I don't think I have any words in which to tell the meeting of the mother and daughters. Such hours are beautiful to live, but very hard to describe, so I will leave it to the imagination of my readers, merely saying that the house was full of genuine happiness, and that Meg's tender hope was realized, for when Beth woke from that long, healing sleep, the first objects on which her eyes fell were the little rose and Mother's face. Too weak to wonder at anything, she only smiled and nestled close in the loving arms about her, feeling that the hungry longing was satisfied at last. Then she slept again, and the girls waited upon their mother, for she would not unclasp the thin hand which clung to hers even in sleep.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Where The Brook And River Meet"
 weight: 7
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-07.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-07.html"
 ---
 
 Big McTavish walked slowly back to the house. In the doorway stood Gloss awaiting him.

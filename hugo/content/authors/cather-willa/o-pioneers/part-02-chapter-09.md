@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9"
 weight: 14
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-09.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-09.html"
 ---
 
 On Sunday afternoon, a month after Carl Linstrum's arrival, he rode with Emil up into the French country to attend a Catholic fair. He sat for most of the afternoon in the basement of the church, where the fair was held, talking to Marie Shabata, or strolled about the gravel terrace, thrown up on the hillside in front of the basement doors, where the French boys were jumping and wrestling and throwing the discus. Some of the boys were in their white baseball suits; they had just come up from a Sunday practice game down in the ballgrounds. Amedee, the newly married, Emil's best friend, was their pitcher, renowned among the country towns for his dash and skill. Amedee was a little fellow, a year younger than Emil and much more boyish in appearance; very lithe and active and neatly made, with a clear brown and white skin, and flashing white teeth. The Sainte-Agnes boys were to play the Hastings nine in a fortnight, and Amedee's lightning balls were the hope of his team. The little Frenchman seemed to get every ounce there was in him behind the ball as it left his hand.

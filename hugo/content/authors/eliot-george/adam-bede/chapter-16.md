@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Links"
 weight: 16
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-16.html"
+url: "/authors/eliot-george/adam-bede/chapter-16.html"
 ---
 
 ARTHUR DONNITHORNE, you remember, is under an engagement with himself to go and see Mr. Irwine this Friday morning, and he is awake and dressing so early that he determines to go before breakfast, instead of after. The rector, he knows, breakfasts alone at half-past nine, the ladies of the family having a different breakfast-hour; Arthur will have an early ride over the hill and breakfast with him. One can say everything best over a meal.

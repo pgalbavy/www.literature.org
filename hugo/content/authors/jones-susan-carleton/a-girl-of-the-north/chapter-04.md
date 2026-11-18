@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-04.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-04.html"
 ---
 
 THAT night Launa could not sleep. She was so angry with Paul Harvey and with herself; she loathed herself. Her ideas of men and their passions were those of a young girl, to whom passion is unknown, to whom men appear as gods. She considered a man must love a woman by whom he has a child. Love, love! Paul was the father of a squaw’s child—of a squaw’s child; it reiterated in her brain until she almost writhed with anguish. She had thought of him as always her own. The shame of it! And worse than shame, the pain, because she would have to give him up. Oh, to get home! To be able to wander about alone! Away on the big barrens where she could move as she liked, and tire herself out. Their wind-laden sweetness would revive her, their vastness would bring peace; she was so tired of the life away from “Solitude.” She forgot how much joy hope had always given to her. She had hoped. The past tense is easily conjugated once, but to live in the past for ever, to regret for ever is torment, death-like torment. She resolved not to regret, not to suffer, and so she read Carlyle until daylight.

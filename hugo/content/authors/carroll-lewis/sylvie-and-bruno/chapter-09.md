@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Jester and a Bear"
 weight: 10
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-09.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-09.html"
 ---
 
 Yes, we were in the garden once more: and, to escape that horrid discordant voice, we hurried indoors, and found ourselves in the library--Uggug blubbering, the Professor standing by with a bewildered air, and my Lady, with her arms clasped round her son's neck, repeating, over and over again, "and did they give him nasty lessons to learn? My own pretty pet!"

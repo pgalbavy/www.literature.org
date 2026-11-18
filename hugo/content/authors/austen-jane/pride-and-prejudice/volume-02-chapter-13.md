@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 13"
 weight: 36
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-13.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-13.html"
 ---
 
 If Elizabeth, when Mr. Darcy gave her the letter, did not expect it to contain a renewal of his offers, she had formed no expectation at all of its contents. But such as they were, it may be well supposed how eagerly she went through them, and what a contrariety of emotion they excited. Her feelings as she read were scarcely to be defined. With amazement did she first understand that he believed any apology to be in his power; and steadfastly was she persuaded that he could have no explanation to give, which a just sense of shame would not conceal. With a strong prejudice against every thing he might say, she began his account of what had happened at Netherfield. She read, with an eagerness which hardly left her power of comprehension, and from impatience of knowing what the next sentence might bring, was incapable of attending to the sense of the one before her eyes. His belief of her sister's insensibility, she instantly resolved to be false, and his account of the real, the worst objections to the match, made her too angry to have any wish of doing him justice. He expressed no regret for what he had done which satisfied her; his style was not penitent, but haughty. It was all pride and insolence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Opening Communication"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-08.html"
 ---
 
 Ned Preston read the note to Deerfoot, the Shawanoe, speaking slowly and distinctly each word, while the young Indian listened with an expression of intense interest and pleasure.

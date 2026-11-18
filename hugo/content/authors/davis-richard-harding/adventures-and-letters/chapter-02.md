@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - College Days"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-02.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-02.html"
 ---
 
 In the fall of 1882 Richard entered Lehigh, but the first year of his college life varied very little from the one he had spent in the preparatory school. During that year he had met most of the upper classmen, and the only difference was that he could now take an active instead of a friendly interest in the life and the sports of the college. Also he had formed certain theories which he promptly proceeded to put into practical effect. Perhaps the most conspicuous of these was his belief that cane-rushes and hazing were wholly unnecessary and barbarous customs, and should have no place in the college of his day. Against the former he spoke at college meetings, and wrote long letters to the local papers decrying the custom. His stand against hazing was equally vehement, and he worked hand in hand with the faculty to eradicate it entirely from the college life. That his stand was purely for a principle and not from any fear of personal injury, I think the following letter to his father will show:

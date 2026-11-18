@@ -1,8 +1,7 @@
 ---
 title: "Chapter 78 - In Which We At Length See The True Heroine Of This History Appear"
 weight: 78
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-78.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-78.html"
 ---
 
 Behind Madame de Saint-Remy stood Mademoiselle de la Valliere. She heard the explosion of maternal anger, and as she divined the cause of it, she entered the chamber trembling, and perceived the unlucky Malicorne, whose woeful countenance might have softened or set laughing whoever observed it coolly. He had promptly intrenched himself behind a large chair, as if to avoid the first attacks of Madame de Saint-Remy; he had no hopes of prevailing with words, for she spoke louder than he, and without stopping; but he reckoned upon the eloquence of his gestures. The old lady would neither listen to nor see anything; Malicorne had long been one of her antipathies. But her anger was too great not to overflow from Malicorne on his accomplice. Montalais had her turn.

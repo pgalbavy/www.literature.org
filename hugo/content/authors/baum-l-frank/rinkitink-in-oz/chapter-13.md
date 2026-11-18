@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-13.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-13.html"
 ---
 
 The wicked Queen of Coregos was in a very bad humor this morning, for one of her slave drivers had come from the fields to say that a number of slaves had rebelled and would not work.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 39
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-38.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-38.html"
 ---
 
 It was one of the raids which left hellish things behind it--things hushed with desperate combined effort to restrain panic, but which blighted the air people strove to breathe and kept men and women shuddering for long after and made people waken with sharp cries from nightmares of horror. Certain paled faces belonged to those who had seen things and would never forget them. Others strove to look defiant and cheerful and did not find it easy. Some tried to get past policemen to certain parts of the city and some, getting past, returned livid and less adventurous in spirit because they had heard things it was gruesome to hear. Lord Coombe went the next morning to the slice of a house and found the servants rather hysterical. Feather had not returned, but they were not hysterical for that reason. She had probably remained at the house to which she had gone to see the Zepps. After the excitement was over, people like the Sinclairs were rather inclined to restore themselves by making a night of it, so to speak.

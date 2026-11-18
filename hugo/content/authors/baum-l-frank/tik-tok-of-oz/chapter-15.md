@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-15.html"
 ---
 
 Although the journey through the Tube was longer, this time, than before, it was so much more comfortable that none of our friends minded it at all. They talked together most of the time and as they found the dragon good-natured and fond of the sound of his own voice they soon became well acquainted with him and accepted him as a companion.

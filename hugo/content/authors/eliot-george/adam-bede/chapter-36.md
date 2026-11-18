@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Journey Of Hope"
 weight: 36
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-36.html"
+url: "/authors/eliot-george/adam-bede/chapter-36.html"
 ---
 
 A LONG, lonely journey, with sadness in the heart; away from the familiar to the strange: that is a hard and dreary thing even to the rich, the strong, the instructed; a hard thing, even when we are called by duty, not urged by dread.

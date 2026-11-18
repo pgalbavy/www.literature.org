@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - The Terror In The Air"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-32.html"
 ---
 
 "Do obsarve where the trail comes down to that big bowl?" asked Terry, pointing to the huge, circular cavity below them.

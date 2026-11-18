@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tolstoy-leo/master-and-man/chapter-10.html"
+url: "/authors/tolstoy-leo/master-and-man/chapter-10.html"
 ---
 
 Nikita awoke before daybreak. He was aroused by the cold that had begun to creep down his back. He had dreamt that he was coming from the mill with a load of his master's flour and when crossing the stream had missed the bridge and let the cart get stuck. And he saw that he had crawled under the cart and was trying to lift it by arching his back. But strange to say the cart did not move, it stuck to his back and he could neither lift it nor get out from under it. It was crushing the whole of his loins. And how cold it felt! Evidently he must crawl out. 'Have done!' he exclaimed to whoever was pressing the cart down on him. 'Take out the sacks!' But the cart pressed down colder and colder, and then he heard a strange knocking, awoke completely, and remembered everything. The cold cart was his dead and frozen master lying upon him. And the knock was produced by Mukhorty, who had twice struck the sledge with his hoof.

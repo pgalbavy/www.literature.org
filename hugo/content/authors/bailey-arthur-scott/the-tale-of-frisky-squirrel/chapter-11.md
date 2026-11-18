@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Jimmy Rabbit Is Too Late"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-11.html"
 ---
 
 It was just as Jimmy Rabbit had said. You remember that as he stood behind Frisky Squirrel's back with his mother's big shears, all ready to cut off Frisky's tail, he had told Frisky that "it would all be over in a jiffy"?

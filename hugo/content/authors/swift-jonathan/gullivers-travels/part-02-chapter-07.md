@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 16
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-07.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-07.html"
 ---
 
 The author’s love of his country. He makes a proposal of much advantage to the king, which is rejected. The king’s great ignorance in politics. The learning of that country very imperfect and confined. The laws, and military affairs, and parties in the state.

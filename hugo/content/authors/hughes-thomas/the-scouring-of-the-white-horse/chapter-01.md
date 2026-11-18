@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-01.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-01.html"
 ---
 
 "Richard," said our governor, as I entered his room at five o’clock on the afternoon of the 31st of August, 1857, running his pen down the columns of the salary-book, "your quarter-day to-day, I think? Let me see; you were raised to £— a-year in February last,—so much for quarter’s salary, and so much for extra work. I am glad to see that you have been working so steadily; you’ll deserve your holiday, and enjoy it all the more. You’ll find that all right, I think;" and he pushed a small paper across the table towards me, on which my account was stated in our cashier’s hand, and looked at me over his spectacles.

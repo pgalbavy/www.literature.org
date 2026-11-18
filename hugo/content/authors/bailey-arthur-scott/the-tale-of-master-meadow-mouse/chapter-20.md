@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Eating A Tree"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-20.html"
 ---
 
 AS SIMON SCREECHER remarked to his cousin, Solomon Owl, it was a hard winter. The snow was deep. The days were cold. And the nights were colder. And, worst of all, food became scarce. It seemed as if there wasn't anything to eat anywhere except at the farm buildings, which Farmer Green had stuffed full of hay and grain during the summer and autumn. Many of the forest folk stole down from Blue Mountain after nightfall and visited the farmyard in the hope of getting a bite of something or other.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Prospect Darkens"
 weight: 31
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-30.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-30.html"
 ---
 
 THREE days after my mother and I had established ourselves at Torquay, I received Mrs. Van Brandt's answer to my letter. After the opening sentences (informing me that Van Brandt had been set at liberty, under circumstances painfully suggestive to the writer of some unacknowledged sacrifice on my part), the letter proceeded in these terms:

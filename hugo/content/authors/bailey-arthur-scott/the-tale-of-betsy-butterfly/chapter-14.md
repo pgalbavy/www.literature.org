@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Deep Plot"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-14.html"
 ---
 
 AS time passed, Betsy continued to see a great deal of Joseph Bumble. And she noticed one peculiar thing: Although he talked continually of his cousin Buster Bumblebee, the Queen's son, no one had ever seen the two together.

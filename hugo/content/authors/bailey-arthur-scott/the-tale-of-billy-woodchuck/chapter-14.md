@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Mr. Fox Has An Idea"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-14.html"
 ---
 
 It was so long since Mr. Fox had tried to catch Billy Woodchuck in the hollow stump that Billy had begun to forget his fear of that sly fellow. And so when he met Mr. Fox in the woods one day Billy did not run as he had often done before. To be sure, he did not go too near Mr. Fox. And while they talked Billy watched the sharp-nosed gentleman with one eye; and the other eye he kept on a hole in the stonewall nearby. If Mr. Fox should come too close, Billy was ready to dive into that hole, where Mr. Fox could not reach him.

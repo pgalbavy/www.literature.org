@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tom Hardynge's Ruse"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-02.html"
 ---
 
 Hardynge was too skillful a hunter to place himself directly in the way of the Apache whom he knew to be the most treacherous kind of an enemy. His purpose was to indulge in a little strategy and to seek to outwit the redskin, as he had done on many an occasion before. It required but a second for him to slide his rifle over upon his back, the stock being hastily wrapped with a leathern sheath, which he always carried for such an emergency, when he gently let himself over the stern of the canoe, taking care to make no splash or noise in doing so. He then permitted his body with the exception of his head to sink entirely beneath the surface, while he floated with the boat, lying in such a position that he made it effectually screen him from the view of any one who might be upon the bank above. It was hardly to be expected, however, that if the Indian saw the boat, he would permit it to pass unquestioned. Tom did not anticipate it, and he was prepared for that which followed. For several minutes the most perfect silence prevailed. At the end of that time, the scout knew that he was exactly beneath the spot whereon he had seen the answering signal, and scarcely stirred a muscle, keeping his head as close as possible to the boat, and so nearly submerged, that he could scarcely breathe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Strange World"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-02.html"
 ---
 
 I WAS UNCONSCIOUS LITTLE MORE THAN AN INSTANT, for as I lunged forward from the crossbeam to which I had been clinging, and fell with a crash to the floor of the cabin, the shock brought me to myself.

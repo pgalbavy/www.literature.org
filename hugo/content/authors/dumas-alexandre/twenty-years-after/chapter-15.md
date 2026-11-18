@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Athos As A Diplomatist"
 weight: 15
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-15.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-15.html"
 ---
 
 D'Artagnan retired to bed - not to sleep, but to think over all he had heard that evening. Being naturally goodhearted, and having had once a liking for Athos, which had grown into a sincere friendship, he was delighted at thus meeting a man full of intelligence and moral strength, instead of a drunkard. He admitted without annoyance the continued superiority of Athos over himself, devoid as he was of that jealousy which might have saddened a less generous disposition; he was delighted also that the high qualities of Athos appeared to promise favorably for his mission. Nevertheless, it seemed to him that Athos was not in all respects sincere and frank. Who was the youth he had adopted and who bore so striking a resemblance to him? What could explain Athos's having re-entered the world and the extreme sobriety he had observed at table? The absence of Grimaud, whose name had never once been uttered by Athos, gave D'Artagnan uneasiness. It was evident either that he no longer possessed the confidence of his friend, or that Athos was bound by some invisible chain, or that he had been forewarned of the lieutenant's visit.

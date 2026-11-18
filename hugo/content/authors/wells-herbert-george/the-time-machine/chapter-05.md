@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-05.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-05.html"
 ---
 
 'As I stood there musing over this too perfect triumph of man, the full moon, yellow and gibbous, came up out of an overflow of silver light in the north-east. The bright little figures ceased to move about below, a noiseless owl flitted by, and I shivered with the chill of the night. I determined to descend and find where I could sleep.

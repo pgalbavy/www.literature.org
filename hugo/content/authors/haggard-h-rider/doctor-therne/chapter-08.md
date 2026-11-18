@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Bravo The A.V.’s"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/doctor-therne/chapter-08.html"
+url: "/authors/haggard-h-rider/doctor-therne/chapter-08.html"
 ---
 
 In another week the writ had been issued, and we were in the thick of the fight. What a fight it was! Memory could not record; tradition did not even record another half as fierce in the borough of Dunchester. For the most part, that is in many of our constituencies, it is not difficult for a candidate standing in the Radical interest, if he is able, well-backed, and not too particular as to what he promises, to win the seat for his party. But Dunchester was something of an exception. In a sense it was corrupt, that is, it had always been represented by a rich man, who was expected to pay liberally for the honour of its confidence. Pay he did, indeed, in large and numberless subscriptions, in the endowment of reading-rooms, in presents of public parks, and I know not what besides.

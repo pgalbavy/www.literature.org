@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-34.html"
+url: "/authors/eliot-george/middlemarch/chapter-34.html"
 ---
 
 1st Gent. Such men as this are feathers, chips, and straws. Carry no weight, no force. 2d Gent. But levity Is causal too, and makes the sum of weight. For power finds its place in lack of power; Advance is cession, and the driven ship May run aground because the helmsman's thought Lacked force to balance opposites."

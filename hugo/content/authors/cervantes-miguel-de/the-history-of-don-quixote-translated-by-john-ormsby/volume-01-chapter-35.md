@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 35 - Which Treats Of The Heroic And Prodigious Battle Don Quixote Had With Certain Skins Of Red Wine, And Brings The Novel Of \"The Ill-Advised Curiosity\" To A Close"
 weight: 38
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-35.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-35.html"
 ---
 
 There remained but little more of the novel to be read, when Sancho Panza burst forth in wild excitement from the garret where Don Quixote was lying, shouting, "Run, sirs! quick; and help my master, who is in the thick of the toughest and stiffest battle I ever laid eyes on. By the living God he has given the giant, the enemy of my lady the Princess Micomicona, such a slash that he has sliced his head clean off as if it were a turnip."

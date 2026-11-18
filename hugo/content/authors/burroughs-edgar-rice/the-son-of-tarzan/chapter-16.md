@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-16.html"
 ---
 
 To Meriem, in her new home, the days passed quickly. At first she was all anxiety to be off into the jungle searching for her Korak. Bwana, as she insisted upon calling her benefactor, dissuaded her from making the attempt at once by dispatching a head man with a party of blacks to Kovudoo's village with instructions to learn from the old savage how he came into possession of the white girl and as much of her antecedents as might be culled from the black chieftain. Bwana particularly charged his head man with the duty of questioning Kovudoo relative to the strange character whom the girl called Korak, and of searching for the ape-man if he found the slightest evidence upon which to ground a belief in the existence of such an individual. Bwana was more than fully convinced that Korak was a creature of the girl's disordered imagination. He believed that the terrors and hardships she had undergone during captivity among the blacks and her frightful experience with the two Swedes had unbalanced her mind but as the days passed and he became better acquainted with her and able to observe her under the ordinary conditions of the quiet of his African home he was forced to admit that her strange tale puzzled him not a little, for there was no other evidence whatever that Meriem was not in full possession of her normal faculties.

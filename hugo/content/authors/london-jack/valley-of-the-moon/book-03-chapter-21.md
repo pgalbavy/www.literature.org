@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 21"
 weight: 55
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-21.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-21.html"
 ---
 
 It was on a bright June morning that Billy told Saxon to put on her riding clothes to try out a saddle-horse.

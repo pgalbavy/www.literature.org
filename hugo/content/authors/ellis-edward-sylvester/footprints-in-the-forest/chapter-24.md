@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Summons And A Surrender"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-24.html"
 ---
 
 The ear of the American Indian, like his eye, is trained to wonderful fineness, and the faint, tremulous note, which seemed to float from among the tree tops, stirred the suspicions of the Pawnees. They stopped in their straggling pursuit, and showed such interest that Deerfoot was compelled, for safety's sake, to steal further to the rear. If they should locate the point whence the call was sent, it would be advisable for him to move still further away.

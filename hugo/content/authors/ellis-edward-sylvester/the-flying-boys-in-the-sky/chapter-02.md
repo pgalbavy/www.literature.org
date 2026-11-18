@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Bohunkus Johnson"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-02.html"
 ---
 
 Suddenly a shout came from the edge of the field, and a negro lad vaulted over the fence and ran toward the couple. As he drew near he called:

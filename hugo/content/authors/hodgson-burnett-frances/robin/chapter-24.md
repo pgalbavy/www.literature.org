@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 25
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-24.html"
 ---
 
 The little feudal fastness in the Highlands which was called Darreuch Castle--when it was mentioned by any one, which was rarely--had been little more than a small ruin when Lord Coombe inherited it as an unconsidered trifle among more imposing and available property. It had indeed presented the aspect not so much of an asset as of an entirely useless relic. The remote and--as far as record dwelt on him--obviously unnotable ancestor who had built it as a stronghold in an almost unreachable spot upon the highest moors had doubtlessly had picturesque reasons for the structure, but these were lost in the dim past and appeared on the surface, unexplainable to a modern mind. Lord Coombe himself had not explained an interest he chose to feel in it, or his own reasons for repairing it a few years after it came into his possession. He rebuilt certain breaches in the walls and made certain rooms sufficiently comfortable to allow of his spending a few nights or weeks in it at rare intervals. He always went alone, taking no servant with him, and made his retreat after his own mood, served only by the farmer and his wife who lived in charge from year's end to year's end, herding a few sheep and cultivating a few acres for their own needs.

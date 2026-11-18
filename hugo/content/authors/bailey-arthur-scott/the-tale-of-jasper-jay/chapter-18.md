@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Enemies"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-18.html"
 ---
 
 JASPER JAY was not the only bird that liked beechnuts. Reddy Woodpecker was fond of them, too. And when he saw that the beechnut crop was going to be a big one he decided that he would stay in Pleasant Valley all winter.

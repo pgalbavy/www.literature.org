@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Cured At Last"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-11.html"
 ---
 
 “How do you feel now?” Aunt Polly Woodchuck asked Solomon Owl, when he had come back to her house after a week’s absence.

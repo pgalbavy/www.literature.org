@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Johnnie Green Intrudes"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-09.html"
 ---
 
 BOBBY BOBOLINK and his wife had finished their new nest.

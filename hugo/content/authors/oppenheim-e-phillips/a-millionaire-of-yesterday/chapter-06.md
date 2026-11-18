@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-06.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-06.html"
 ---
 
 A sky like flame, and an atmosphere of sulphur. No breath of air, not a single ruffle in the great, drooping leaves of the African trees and dense, prickly shrubs. All around the dank, nauseous odour of poison flowers, the ceaseless dripping of poisonous moisture. From the face of the man who stood erect, unvanquished as yet in the struggle for life, the fierce sweat poured like rain - his older companion had sunk to the ground and the spasms of an ugly death were twitching at his whitening lips.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - How Alleyne Edricson Came Out Into The World"
 weight: 2
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-02.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-02.html"
 ---
 
 NEVER had the peaceful atmosphere of the old Cistercian house been so rudely ruffled. Never had there been insurrection so sudden, so short, and so successful. Yet the Abbot Berghersh was a man of too firm a grain to allow one bold outbreak to imperil the settled order of his great household. In a few hot and bitter words, he compared their false brother's exit to the expulsion of our first parents from the garden, and more than hinted that unless a reformation occurred some others of the community might find themselves in the same evil and perilous case. Having thus pointed the moral and reduced his flock to a fitting state of docility, he dismissed them once more to their labors and withdrew himself to his own private chamber, there to seek spiritual aid in the discharge of the duties of his high office.

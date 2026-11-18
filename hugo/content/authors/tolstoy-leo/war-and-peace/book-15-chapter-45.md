@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 45"
 weight: 362
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-45.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-45.html"
 ---
 
 For the solution of the question of free will or inevitability, history has this advantage over other branches of knowledge in which the question is dealt with, that for history this question does not refer to the essence of man's free will but its manifestation in the past and under certain conditions.

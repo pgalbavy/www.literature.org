@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Footstep In The Corridor"
 weight: 21
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-21.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-21.html"
 ---
 
 MERCY was alone.

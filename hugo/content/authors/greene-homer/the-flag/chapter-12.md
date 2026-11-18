@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-12.html"
+url: "/authors/greene-homer/the-flag/chapter-12.html"
 ---
 
 The great Somme drive began on July 1, 1916, after a week's devastating bombardment of the German lines. The enemy trenches had been torn and shattered, and when the Allied armies, in great numbers and with abundant ammunition, swept out and down upon them, the impetus and force of the advance were irresistible. Trenches were blotted out. Towns were taken. The German lines melted away over wide areas. Victory, decisive and permanent, rested on the Allied banners. On the third of the month the British took La Boiselle and four thousand three hundred prisoners. But on the fourth the enemy troops turned and fought like wild animals at bay. This was the day on which Aleck received his wounds. In the morning, as they lay sprawled in a ravine which had been captured the night before, waiting for orders to push still farther on, Aleck had said to Pen:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 83"
 weight: 83
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-83.html"
+url: "/authors/eliot-george/middlemarch/chapter-83.html"
 ---
 
 "And now good-morrow to our waking souls Which watch not one another out of fear; For love all love of other sights controls, And makes one little room, an everywhere." - DR. DONNE.

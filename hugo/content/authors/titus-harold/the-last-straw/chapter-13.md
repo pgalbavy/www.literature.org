@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Frame-Up"
 weight: 13
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-13.html"
+url: "/authors/titus-harold/the-last-straw/chapter-13.html"
 ---
 
 The water in Devil's Hole was fenced.

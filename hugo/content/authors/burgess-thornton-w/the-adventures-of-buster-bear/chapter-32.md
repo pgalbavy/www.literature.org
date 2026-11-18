@@ -1,8 +1,7 @@
 ---
 title: "chapter 32"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-32.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-32.html"
 ---
 
 Buster Bear was having the finest time he had had since he came down from the Great Woods to live in the Green Forest. To be sure, he wasn't in the Green Forest now, but he wasn't far from it. He was in the Old Pasture, one edge of which touches one edge of the Green Forest. And where do you think he was, in the Old Pasture? Why, right in the middle of the biggest patch of the biggest blueberries he ever had seen in all his life! Now if there is any one thing that Buster Bear had rather have above another, it is all the berries he can eat, unless it be honey. Nothing can quite equal honey in Buster's mind. But next to honey give him berries. He isn't particular what kind of berries. Raspberries, blackberries, or blueberries, either kind, will make him perfectly happy.

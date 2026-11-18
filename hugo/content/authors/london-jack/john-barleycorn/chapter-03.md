@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-03.html"
+url: "/authors/london-jack/john-barleycorn/chapter-03.html"
 ---
 
 I was five years old the first time I got drunk. It was on a hot day, and my father was ploughing in the field. I was sent from the house, half a mile away, to carry to him a pail of beer. "And be sure you don't spill it," was the parting injunction.

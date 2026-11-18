@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Breakers Ahead"
 weight: 16
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-15.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-15.html"
 ---
 
 GOING into the Shaws' one evening, Polly found Maud sitting on the stairs, with a troubled face.

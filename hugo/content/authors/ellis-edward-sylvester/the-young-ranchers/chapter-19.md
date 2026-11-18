@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Startling Surprise"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-19.html"
 ---
 
 We must not forget that young Warren Starr and Tim Brophy have an important part to play in the incidents we have set out to relate.

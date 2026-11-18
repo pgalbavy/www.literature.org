@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Break in the Chain"
 weight: 9
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-09.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-09.html"
 ---
 
 It was late in the afternoon before I woke, strengthened and refreshed. Sherlock Holmes still sat exactly as I had left him save that he had laid aside his violin and was deep in a book. He looked across at me as I stirred, and I noticed that his face was dark and troubled.

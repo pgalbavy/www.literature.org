@@ -1,8 +1,7 @@
 ---
 title: "chapter 22"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-22.html"
 ---
 
 Glinda's castle was a long way from the mountains, but the Scarecrow began the journey cheerfully, since time was of no great importance in the Land of Oz and he had recently made the trip and knew the way. It never mattered much to Button-Bright where he was or what he was doing; the boy was content in being alive and having good companions to share his wanderings. As for Trot and Cap'n Bill, they now found themselves so comfortable and free from danger, in this fine fairyland, and they were so awed and amazed by the adventures they were encountering, that the journey to Glinda's castle was more like a pleasure trip than a hardship, so many wonderful things were there to see.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - \"Help!\""
 weight: 12
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-12.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-12.html"
 ---
 
 When Lupin afterward told me this episode of the tragic story, he said, not without a certain self-complacency:

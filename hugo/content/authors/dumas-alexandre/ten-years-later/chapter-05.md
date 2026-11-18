@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - In Which Something Will Be Said Of Cropoli -- Of Cropoli And Of A Great Unknown Painter"
 weight: 5
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-05.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-05.html"
 ---
 
 Whilst the Comte de la Fere with Raoul visits the new buildings he has had erected, and the new horses he has bought, with the reader's permission we will lead him back to the city of Blois, and make him a witness of the unaccustomed activity which pervades that city.

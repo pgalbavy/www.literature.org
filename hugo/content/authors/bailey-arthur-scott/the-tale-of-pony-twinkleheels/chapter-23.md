@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Going Fishing"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-23.html"
 ---
 
 Twinkleheels never had any great liking for whips. Johnnie Green kept a long one in the socket beside the dashboard of his little red-wheeled buggy. And he had a shorter one that he carried in his hand when he rode on Twinkleheels' back.

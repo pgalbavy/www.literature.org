@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In Camp"
 weight: 22
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-22.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-22.html"
 ---
 
 A little after noon, the iceberg was within a mile of the land.   After their dinner, the crew climbed up to the topmost block, on which Dirk Peters was stationed. On our approach the half-breed descended the opposite slope and when I reached the top he was no longer to be seen.   The land on the north evidently formed a continent or island of considerable extent. On the west there was a sharply projecting cape, surmounted by a sloping height which resembled an enormous seal's head on the side view; then beyond that was a wide stretch of sea. On the east the land was prolonged out of sight.   Each one of us took in the position. It depended on the current-whether it would carry the iceberg into an eddy which might drive it on the coast, or continue to drift it towards the north. Which was the more admissible hypothesis ?   Captain Len Guy, West, Hurliguerly, and I talked over the matter, while the crew discussed it among themselves. Finally, it was agreed that the current tended rather to carry the iceberg towards the northern point of land.

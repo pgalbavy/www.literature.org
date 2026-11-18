@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-13.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-13.html"
 ---
 
 For years no man had heard McAllister Falkins speak except in the smooth and cultivated parlance of the lowlands. In Congress he had been accounted silver-tongued, yet now, by some stress of excitement, when the white-haired patriarch lifted up his voice, words came tumbling from his lips, not in measured phrases but in the crude cascading force of vernacular.

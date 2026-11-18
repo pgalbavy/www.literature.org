@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 1"
 weight: 85
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-01.html"
 ---
 
 BOOK FIVE: 1806 - 07

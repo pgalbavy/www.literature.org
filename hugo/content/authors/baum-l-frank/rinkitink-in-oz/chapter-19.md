@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-19.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-19.html"
 ---
 
 We will now relate what happened to Rinkitink and Bilbil that morning, while Inga was undergoing his trying experience in escaping the fearful dangers of the three caverns.

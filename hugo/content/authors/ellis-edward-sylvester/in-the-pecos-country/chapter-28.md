@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Exploring Tour"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-28.html"
 ---
 
 After gently tossing the stick in his hand, like one who endeavors to ascertain its weight, Mickey smelled of it, and finally bit his teeth into it, with a very satisfactory result.

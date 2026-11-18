@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/the-shadow-line/part-02-chapter-04.html"
+url: "/authors/conrad-joseph/the-shadow-line/part-02-chapter-04.html"
 ---
 
 With her anchor at the bow and clothed in canvas to her very trucks, my command seemed to stand as motionless as a model ship set on the gleams and shadows of polished marble. It was impossible to distinguish land from water in the enigmatical tranquillity of the immense forces of the world. A sudden impatience possessed me.

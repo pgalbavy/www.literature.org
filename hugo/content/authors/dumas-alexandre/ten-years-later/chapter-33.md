@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Audience"
 weight: 33
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-33.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-33.html"
 ---
 
 "Well?" cried Athos with a mild look of reproach when D'Artagnan had read the letter addressed to him by Monk.

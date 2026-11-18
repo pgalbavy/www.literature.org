@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Heresy And Schism"
 weight: 7
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-07.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-07.html"
 ---
 
 Mr. Porne took an afternoon off and came with his wife to hear their former housemaid lecture. As many other men as were able did the same. All the members not bedridden were present, and nearly all the guests they had invited.

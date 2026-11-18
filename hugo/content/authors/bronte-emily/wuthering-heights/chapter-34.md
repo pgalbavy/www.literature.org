@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-34.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-34.html"
 ---
 
 FOR some days after that evening Mr. Heathcliff shunned meeting us at meals; yet he would not consent formally to exclude Hareton and Cathy. He had an aversion to yielding so completely to his feelings, choosing rather to absent himself; and eating once in twenty-four hours seemed sufficient sustenance for him.

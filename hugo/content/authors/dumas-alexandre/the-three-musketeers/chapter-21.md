@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Countess De Winter"
 weight: 22
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-21.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-21.html"
 ---
 
 As they rode along, the duke endeavored to draw from D'Artagnan, not all that had happened, but what D'Artagnan himself knew. By adding all that he heard from the mouth of the young man to his own remembrances, he was enabled to form a pretty exact idea of a position of the seriousness of which, for the rest, the queen's letter, short but explicit, gave him the clue. But that which astonished him most was that the cardinal, so deeply interested in preventing this young man from setting his foot in England, had not succeeded in arresting him on the road. It was then, upon the manifestation of this astonishment, that D'Artagnan related to him the precaution taken, and how, thanks to the devotion of his three friends, whom he had left scattered and bleeding on the road, he had succeeded in coming off with a single sword thrust, which had pierced the queen's letter and for which he had repaid M. de Wardes with such terrible coin. While he was listening to this recital, delivered with the greatest simplicity, the duke looked from time to time at the young man with astonishment, as if he could not comprehend how so much prudence, courage, and devotedness could be allied with a countenance which indicated not more than twenty years.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-19.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-19.html"
 ---
 
 I will not pretend," Mr. Sabin said, "to misunderstand you. My help is not required by you in this enterprise, whatever it may be, in which you are engaged. On the contrary, you have tried by many and various ways to keep me at a distance. But I am here, Prince - here to be dealt with and treated according to my rights."

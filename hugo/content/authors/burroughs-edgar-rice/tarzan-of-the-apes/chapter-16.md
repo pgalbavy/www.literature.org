@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - \u0026quot;Most Remarkable\u0026quot;"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-16.html"
 ---
 
 Several miles south of the cabin, upon a strip of sandy beach, stood two old men, arguing.

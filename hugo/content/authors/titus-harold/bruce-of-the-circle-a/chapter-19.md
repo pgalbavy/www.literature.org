@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Trails Unite"
 weight: 19
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-19.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-19.html"
 ---
 
 So it was that Ned Lytton ceased to be and with his going went all barriers that had existed between Ann and Bruce. Each had played a part in the grim drama which ended with violence, yet to neither could any echo of blame for Ned's death be attached. Their hands and hearts were clean.

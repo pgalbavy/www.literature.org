@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Rustlers"
 weight: 7
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-07.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-07.html"
 ---
 
 Swiftly the echoes of the shots died away, leaving the still serenity of the night again unruffled. For a moment or two Stratton waited expectantly; then his shoulders squared decisively.

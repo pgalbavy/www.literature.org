@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Bargain"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-14.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-14.html"
 ---
 
 If a man's grief does not awaken his dignity, then he has none. In that event, grief is not even respectable. And so it was with Leroy Mortimer when Lydia at last turned on him. If you caress an Angora too long and too persistently it runs away. And before it goes it scratches.

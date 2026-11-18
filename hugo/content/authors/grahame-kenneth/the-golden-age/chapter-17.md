@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - ‘Lusisti Satis’"
 weight: 18
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-17.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-17.html"
 ---
 
 AMONG the many fatuous ideas that possessed the Olympian noddle, this one was pre-eminent; that, being Olympians, they could talk quite freely in our presence on subjects of the closest import to us, so long as names, dates, and other landmarks were ignored. We were supposed to be denied the faculty for putting two and two together, and like the monkeys, who very sensibly refrain from speech lest they should be set to earn their livings, we were careful to conceal our capabilities for a simple syllogism. Thus we were rarely taken by surprise, and so were considered by our disappointed elders to be apathetic and to lack the divine capacity for wonder.

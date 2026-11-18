@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-05.html"
 ---
 
 The steaks we had that night, and they were fine; and the following morning we tasted the broth. It seemed odd to be eating a creature that should, by all the laws of paleontology, have been extinct for several million years. It gave one a feeling of newness that was almost embarrassing, although it didn't seem to embarrass our appetites. Olson ate until I thought he would burst.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49 - The First Appearance Of Colbert"
 weight: 49
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-49.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-49.html"
 ---
 
 The whole night was passed in anguish, common to the dying man and to the king: the dying man expected his deliverance, the king awaited his liberty. Louis did not go to bed. An hour after leaving the chamber of the cardinal, he learned that the dying man, recovering a little strength, had insisted upon being dressed, adorned and painted, and seeing the ambassadors. Like Augustus, he no doubt considered the world a great stage, and was desirous of playing out the last act of the comedy. Anne of Austria reappeared no more in the cardinal's apartments; she had nothing more to do there. Propriety was the pretext for her absence. On his part, the cardinal did not ask for her: the advice the queen had given her son rankled in his heart.

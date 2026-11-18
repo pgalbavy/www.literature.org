@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The In-Or-In"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-05.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-05.html"
 ---
 
 Georgie Bassett was a boy set apart. Not only that; Georgie knew that he was a boy set apart. He would think about it for ten or twenty minutes at a time, and he could not look at himself in a mirror and remain wholly without emotion. What that emotion was, he would have been unable to put into words; but it helped him to understand that there was a certain noble something about him that other boys did not possess.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Meeting On The Sea"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-11.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-11.html"
 ---
 
 For another minute or more the San Antonio held on until she divined the desperate purpose of her foe. Then, seeing that soon the carack's prow must crash into her frail side, she shifted her helm and came round several points, so that in the end the Margaret ran, not into her, but alongside of her, grinding against her planking, and shearing away a great length of her bulwark. For a few seconds they hung together thus, and, before the seas bore them apart, grapnels were thrown from the Margaret whereof one forward got hold and brought them bow to bow. Thus the end of the bowsprit of the Margaret projected over the high deck of the San Antonio.

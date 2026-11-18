@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Earless Man With His Head Out Of The Window"
 weight: 22
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-21.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-21.html"
 ---
 
 Let us state this geometrical problem in the simplest words: an express train has to cover the ground between two little stations three miles apart. It is announced at the second when it passes the first; and yet they wait for it at the second in vain. They hurry from both stations down the line to find the wreck; but they do not so much as find the train, an express train in which there are perhaps a hundred passengers.

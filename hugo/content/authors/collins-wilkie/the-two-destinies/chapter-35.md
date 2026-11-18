@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Under The Window"
 weight: 36
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-35.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-35.html"
 ---
 
 I SET the position of the harbor by my pocket-compass, and then followed the course of the first street that lay before me.

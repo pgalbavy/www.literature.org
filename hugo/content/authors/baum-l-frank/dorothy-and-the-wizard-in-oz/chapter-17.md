@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-17.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-17.html"
 ---
 
 After breakfast Ozma announced that she had ordered a holiday to be observed throughout the Emerald City, in honor of her visitors. The people had learned that their old Wizard had returned to them and all were anxious to see him again, for he had always been a rare favorite. So first there was to be a grand procession through the streets, after which the little old man was requested to perform some of his wizardries in the great Throne Room of the palace. In the afternoon there were to be games and races.

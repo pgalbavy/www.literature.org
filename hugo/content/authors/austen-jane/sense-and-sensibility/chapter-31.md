@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-31.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-31.html"
 ---
 
 From a night of more sleep than she had expected, Marianne awoke the next morning to the same consciousness of misery in which she had closed her eyes.

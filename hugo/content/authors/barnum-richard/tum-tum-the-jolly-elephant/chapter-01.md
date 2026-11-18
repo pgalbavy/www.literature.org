@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Tum Tum Goes Swimming"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-01.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-01.html"
 ---
 
 Tum Tum was a jolly elephant. I shall tell you that much at the start of this story, so you will not have to be guessing as to who Tum Tum was. Tum Tum was the jolliest elephant in the circus, but before that he was the jolliest elephant in the woods or jungle.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10 - A Successor"
 weight: 27
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-10.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-10.html"
 ---
 
 Some of the Reverend Frank Milvey’s brethren had found themselves exceedingly uncomfortable in their minds, because they were required to bury the dead too hopefully. But, the Reverend Frank, inclining to the belief that they were required to do one or two other things (say out of nine-and-thirty) calculated to trouble their consciences rather more if they would think as much about them, held his peace.

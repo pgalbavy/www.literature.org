@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-21.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-21.html"
 ---
 
 Perched on its four stone mushrooms, the little granary stood two or three feet above the grass of the green close. Beneath it there was a perpetual shade and a damp growth of long, luxuriant grasses. Here, in the shadow, in the green dampness, a family of white ducks had sought shelter from the afternoon sun. Some stood, preening themselves, some reposed with their long bellies pressed to the ground, as though the cool grass were water. Little social noises burst fitfully forth, and from time to time some pointed tail would execute a brilliant Lisztian tremolo. Suddenly their jovial repose was shattered. A prodigious thump shook the wooden flooring above their heads; the whole granary trembled, little fragments of dirt and crumbled wood rained down among them. With a loud, continuous quacking the ducks rushed out from beneath this nameless menace, and did not stay their flight till they were safely in the farmyard.

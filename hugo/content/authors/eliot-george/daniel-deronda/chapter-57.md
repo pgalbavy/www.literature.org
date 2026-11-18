@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57"
 weight: 57
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-57.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-57.html"
 ---
 
 "The unripe grape, the ripe, and the dried. All things are changes, not into nothing, but into that which is not at present." - MARCUS AURELIUS.

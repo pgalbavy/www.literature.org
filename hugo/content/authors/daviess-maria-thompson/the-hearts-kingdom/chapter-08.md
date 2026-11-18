@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Breasting The Gale"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-08.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-08.html"
 ---
 
 In the radiant moonlight I saw the lithe muscles of the Jaguar grow taut and stiff, and I felt rather than saw his long, strong hands clench themselves. I was about to stretch out my arms and ward off something that seemed like danger to Nickols, standing down at the bottom of the steps, smiling up at us in the moonlight with his mocking, fascinating smile, when suddenly the anger seemed to flow away from the body of the parson and he smiled down into the upturned eyes with great gentleness as we started down the steps together.

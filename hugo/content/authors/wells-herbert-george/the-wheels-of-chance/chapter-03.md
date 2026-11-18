@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-03.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-03.html"
 ---
 
 At supper that night, holiday talk held undisputed sway. Mr. Pritchard spoke of "Scotland," Miss Isaacs clamoured of Bettws-y-Coed, Mr. Judson displayed a proprietary interest in the Norfolk Broads. "I?" said Hoopdriver when the question came to him. "Why, cycling, of course."

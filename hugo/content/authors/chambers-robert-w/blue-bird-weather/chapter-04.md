@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/blue-bird-weather/chapter-04.html"
+url: "/authors/chambers-robert-w/blue-bird-weather/chapter-04.html"
 ---
 
 Marche, pacing the shabby sitting room after supper, an unlighted cigarette between his fingers, listened to Jim recite his Latin lesson.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-17.html"
+url: "/authors/eliot-george/silas-marner/chapter-17.html"
 ---
 
 While Silas and Eppie were seated on the bank discoursing in the fleckered shade of the ash tree, Miss Priscilla Lammeter was resisting her sister's arguments, that it would be better to take tea at the Red House, and let her father have a long nap, than drive home to the Warrens so soon after dinner. The family party (of four only) were seated round the table in the dark wainscoted parlour, with the Sunday dessert before them, of fresh filberts, apples, and pears, duly ornamented with leaves by Nancy's own hand before the bells had rung for church.

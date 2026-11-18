@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-05.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-05.html"
 ---
 
 It was very lonely, at first, in solitary, and the hours were long. Time was marked by the regular changing of the guards, and by the alternation of day and night. Day was only a little light, but it was better than the all-dark of the night. In solitary the day was an ooze, a slimy seepage of light from the bright outer world.

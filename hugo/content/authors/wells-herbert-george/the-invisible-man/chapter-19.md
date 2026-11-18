@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Certain First Principles"
 weight: 19
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-19.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-19.html"
 ---
 
 "What's the matter?" asked Kemp, when the Invisible Man admitted him.

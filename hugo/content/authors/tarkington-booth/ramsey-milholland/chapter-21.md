@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-21.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-21.html"
 ---
 
 That thunder in the soil, at first too deep within it to be audible, had come to the surface now and gradually became heard as the thunder of a million feet upon the training grounds. The bugles rang sharper; the drums and fifes of town and village and countryside were the drums and fifes of a war that came closer and closer to every hearth between the two oceans.

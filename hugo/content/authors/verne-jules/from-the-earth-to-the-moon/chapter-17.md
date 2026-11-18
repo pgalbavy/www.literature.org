@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-17.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-17.html"
 ---
 
 The great works undertaken by the Gun Club had now virtually come to an end; and two months still remained before the day for the discharge of the shot to the moon. To the general impatience these two months appeared as long as years! Hitherto the smallest details of the operation had been daily chronicled by the journals, which the public devoured with eager eyes.

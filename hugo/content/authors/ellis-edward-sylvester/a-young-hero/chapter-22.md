@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - An Attempted Rescue"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-22.html"
 ---
 
 Now since the reader knows how it happened that Archie Jackson and he who had masqueraded under the name of Cyrus Sutton chanced to be at this particular spot in the woods when the thieves would have removed their booty, and also why the silver could not be found by these worthies, it is necessary to return to the place where the arrest was made.

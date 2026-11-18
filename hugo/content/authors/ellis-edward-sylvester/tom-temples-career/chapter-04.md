@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Troublesome Boarder"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-04.html"
 ---
 
 *TOM RE-ENTERED* his new boarding-place as the clock struck eight. Mr. and Mrs. Middleton were discussing him, but stopped short as he came in. They foresaw that he would be troublesome, but there is great power in money, and they had just a thousand reasons for keeping on good terms with him.

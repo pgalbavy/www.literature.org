@@ -1,8 +1,7 @@
 ---
 title: "chapter 11"
 weight: 999
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-11.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-11.html"
 ---
 
 "Arsène Lupin, what's your real opinion of Inspector Ganimard?"

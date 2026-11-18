@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-12.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-12.html"
 ---
 
 In February the birds sang between flurries of snow; but the end of the month was warm and lovely, and robins, bluebirds, and cardinals burst into a torrent of song. The maples' dainty fire illumined every swamp; the green thorn turned greener; and the live-oaks sprouted new leaves amid their olive-tinted winter foliage, ever green.

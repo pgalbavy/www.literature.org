@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 38"
 weight: 228
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-38.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-38.html"
 ---
 
 The terrible spectacle of the battlefield covered with dead and wounded, together with the heaviness of his head and the news that some twenty generals he knew personally had been killed or wounded, and the consciousness of the impotence of his once mighty arm, produced an unexpected impression on Napoleon who usually liked to look at the killed and wounded, thereby, he considered, testing his strength of mind. This day the horrible appearance of the battlefield overcame that strength of mind which he thought constituted his merit and his greatness. He rode hurriedly from the battlefield and returned to the Shevardino knoll, where he sat on his campstool, his sallow face swollen and heavy, his eyes dim, his nose red, and his voice hoarse, involuntarily listening, with downcast eyes, to the sounds of firing. With painful dejection he awaited the end of this action, in which he regarded himself as a participant and which he was unable to arrest. A personal, human feeling for a brief moment got the better of the artificial phantasm of life he had served so long. He felt in his own person the sufferings and death he had witnessed on the battlefield. The heaviness of his head and chest reminded him of the possibility of suffering and death for himself. At that moment he did not desire Moscow, or victory, or glory (what need had he for any more glory?). The one thing he wished for was rest, tranquillity, and freedom. But when he had been on the Semenovsk heights the artillery commander had proposed to him to bring several batteries of artillery up to those heights to strengthen the fire on the Russian troops crowded in front of Knyazkovo. Napoleon had assented and had given orders that news should be brought to him of the effect those batteries produced.

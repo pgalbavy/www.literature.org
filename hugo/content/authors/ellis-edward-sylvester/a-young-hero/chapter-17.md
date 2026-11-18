@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Two Unexpected Visitors"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-17.html"
 ---
 
 Fred Sheldon did not give much attention to Bud Heyland after he started in pursuit of his runaway horse, but, turning in the opposite direction, he moved carefully through the wood toward his mother's house.

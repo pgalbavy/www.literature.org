@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-17.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-17.html"
 ---
 
 You, my reader, will remember, far back at the beginning of this narrative, how, when a little lad on the Minnesota farm, I looked at the photographs of the Holy Land and recognized places and pointed out changes in places. Also you will remember, as I described the scene I had witnessed of the healing of the lepers, I told the missionary that I was a big man with a big sword, astride a horse and looking on.

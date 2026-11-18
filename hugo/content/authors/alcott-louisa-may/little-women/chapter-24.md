@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Gossip"
 weight: 24
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-24.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-24.html"
 ---
 
 In order that we may start afresh and go to Meg's wedding with free minds, it will be well to begin with a little gossip about the Marches. And here let me premise that if any of the elders think there is too much 'lovering' in the story, as I fear they may (I'm not afraid the young folks will make that objection), I can only say with Mrs. March, "What can you expect when I have four gay girls in the house, and a dashing young neighbor over the way?"

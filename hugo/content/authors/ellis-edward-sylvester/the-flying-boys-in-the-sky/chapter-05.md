@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Woodland Expert"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-05.html"
 ---
 
 The aeroplane was caught in a furious snow squall. While descending it ran into the swirling tumult which in an instant enveloped it like a blanket, the myriads of particles filling the air so thickly that the terrified Bohunkus could not see the ailerons and even the aviator was partly shrouded from sight. Harvey Hamilton was faintly visible as he leaned over and manipulated the levers. Not only was the snow everywhere, but the machine itself was rocking like a ship laboring in a storm. It tipped so fearfully that the negro believed it was about to capsize and tumble them out. He shrieked in his terror, and held fast for life.

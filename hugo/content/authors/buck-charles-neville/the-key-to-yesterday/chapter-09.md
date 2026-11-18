@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-09.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-09.html"
 ---
 
 Puerto Frio sits back of its harbor, a medley of corrugated iron roofs, adobe walls and square-towered churches. Along the water front is a fringe of ragged palms. At one end of the semicircle that breaks the straight coast line, a few steamers come to anchorage; at the other rise jugged groups of water-eaten rocks, where the surf runs with a cannonading of breakers, and tosses back a perpetual lather of infuriated spray. From the mole, Saxon had his first near view of the city. He drew a long inhalation of the hot air, and looked anxiously about him.

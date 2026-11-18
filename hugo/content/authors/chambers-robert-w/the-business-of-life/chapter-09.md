@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-09.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-09.html"
 ---
 
 The following morning, Aunt Hannah returned to her tiny apartment on Park Avenue, financially benefitted by her Westchester sojourn, having extracted a bolt of Chinese loot-silk for a gown from her nephew's dismayed wife, and the usual check from her nephew.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/the-inheritors/chapter-04.html"
+url: "/authors/conrad-joseph/the-inheritors/chapter-04.html"
 ---
 
 *FOUR*

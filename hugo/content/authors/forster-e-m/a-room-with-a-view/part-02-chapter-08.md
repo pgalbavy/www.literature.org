@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8 - Medieval"
 weight: 8
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-08.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-08.html"
 ---
 
 The drawing-room curtains at Windy Corner had been pulled to meet, for the carpet was new and deserved protection from the August sun. They were heavy curtains, reaching almost to the ground, and the light that filtered through them was subdued and varied. A poet--none was present--might have quoted, “Life like a dome of many coloured glass,” or might have compared the curtains to sluice-gates, lowered against the intolerable tides of heaven. Without was poured a sea of radiance; within, the glory, though visible, was tempered to the capacities of man.

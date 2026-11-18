@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The End Of The Mystery"
 weight: 24
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-24.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-24.html"
 ---
 
 As Redfern and his two companions advanced down the apartment, their revolvers leveled, Havens and Sam dropped their hands away from their automatics.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Day Of Excitement In Tottenville"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-08.html"
 ---
 
 If any of our readers were ever so unfortunate as to be in the neighborhood of a menagerie of animals when one of the fiercest has broken loose he can form some idea of the confusion, terror and consternation caused by the escape of the lion from his cage.

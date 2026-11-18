@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Chunky Has A Laugh"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-01.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-01.html"
 ---
 
 Once upon a time, some years ago, but not so long that you could not easily remember if you tried, there lived in a muddy river of a far-off country called Africa, a great, big, animal-baby named “Chunky.” He was not a fish, though he could stay under water, not breathing at all, for maybe ten minutes, and that is why he swam in the muddy river so much. He did not mind the mud in the river. He rather liked it, for when he sank away down under the dark, brown water no one could see him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Letter From Davy"
 weight: 17
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-17.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-17.html"
 ---
 
 "It's beginning to snow, girls," said Phil, coming in one November evening, "and there are the loveliest little stars and crosses all over the garden walk. I never noticed before what exquisite things snowflakes really are. One has time to notice things like that in the simple life. Bless you all for permitting me to live it. It's really delightful to feel worried because butter has gone up five cents a pound."

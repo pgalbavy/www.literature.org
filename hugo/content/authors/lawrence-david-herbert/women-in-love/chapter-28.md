@@ -1,8 +1,7 @@
 ---
 title: "chapter 28"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-28.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-28.html"
 ---
 
 Christmas drew near, all four prepared for flight. Birkin and Ursula were busy packing their few personal things, making them ready to be sent off, to whatever country and whatever place they might choose at last. Gudrun was very much excited. She loved to be on the wing.

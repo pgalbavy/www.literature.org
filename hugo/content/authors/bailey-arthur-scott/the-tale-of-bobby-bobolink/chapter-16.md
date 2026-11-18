@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Mr. Frog Is Amused"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-16.html"
 ---
 
 WITH the clatter of the mowing-machine growing louder every moment, Bobby Bobolink didn't stop to ask his wife to what place she would like to move.

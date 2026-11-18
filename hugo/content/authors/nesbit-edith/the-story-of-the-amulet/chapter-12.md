@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Sorry-Present And The Expelled Little Boy"
 weight: 12
-aliases:
-  - "/authors/nesbit-edith/the-story-of-the-amulet/chapter-12.html"
+url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-12.html"
 ---
 
 'Look here, said Cyril, sitting on the dining-table and swinging his legs; 'I really have got it.'

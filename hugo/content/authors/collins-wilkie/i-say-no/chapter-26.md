@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Mother Eve"
 weight: 26
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-26.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-26.html"
 ---
 
 The servant received Emily, on her return from the library, with a sly smile. "Here he is again, miss, waiting to see you."

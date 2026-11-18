@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Docak And His Home"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-17.html"
 ---
 
 "By the great horned spoon, I suspected it! Docak, I'm mighty glad to see you; I'm Jack Cosgrove, and put it there!"

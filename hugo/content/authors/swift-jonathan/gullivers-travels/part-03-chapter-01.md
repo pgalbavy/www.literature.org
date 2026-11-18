@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1"
 weight: 18
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-03-chapter-01.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-03-chapter-01.html"
 ---
 
 The author sets out on his third voyage. Is taken by pirates. The malice of a Dutchman. His arrival at an island. He is received into Laputa.

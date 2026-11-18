@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Speaking Pieces"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-19.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-19.html"
 ---
 
 The first of September came all too soon, and school began. Among the boys and girls who went trooping up to the "East Corner knowledge-box," as they called it, was our friend Ben, with a pile of neat books under his arm. He felt very strange, and decidedly shy; but put on a bold face, and let nobody guess that, though nearly thirteen, he had never been to school before. Miss Celia had told his story to Teacher, and she, being a kind little woman, with young brothers of her own, made things as easy for him as she could. In reading and writing he did very well, and proudly took his place among lads of his own age; but when it came to arithmetic and geography, he had to go down a long way, and begin almost at the beginning, in spite of Thorny's efforts to "tool him along fast." It mortified him sadly, but there was no help for it; and in some of the classes he had dear little Betty to console with him when he failed, and smile contentedly when he got above her, as he soon began to do, - for she was not a quick child, and plodded through First Parts long after sister Bab was flourishing away among girls much older than herself.

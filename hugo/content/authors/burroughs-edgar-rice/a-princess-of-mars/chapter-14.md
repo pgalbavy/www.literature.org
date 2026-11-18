@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Duel to the Death"
 weight: 14
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-14.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-14.html"
 ---
 
 My first impulse was to tell her of my love, and then I thought of the helplessness of her position wherein I alone could lighten the burdens of her captivity, and protect her in my poor way against the thousands of hereditary enemies she must face upon our arrival at Thark. I could not chance causing her additional pain or sorrow by declaring a love which, in all probability she did not return. Should I be so indiscreet, her position would be even more unbearable than now, and the thought that she might feel that I was taking advantage of her helplessness, to influence her decision was the final argument which sealed my lips.

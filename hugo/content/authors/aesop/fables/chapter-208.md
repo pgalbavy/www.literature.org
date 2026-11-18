@@ -1,8 +1,7 @@
 ---
 title: "The Seller Of Images"
 weight: 210
-aliases:
-  - "/authors/aesop/fables/chapter-208.html"
+url: "/authors/aesop/fables/chapter-208.html"
 ---
 
 A CERTAIN MAN made a wooden image of Mercury and offered it for sale. When no one appeared willing to buy it, in order to attract purchasers, he cried out that he had the statue to sell of a benefactor who bestowed wealth and helped to heap up riches. One of the bystanders said to him, "My good fellow, why do you sell him, being such a one as you describe, when you may yourself enjoy the good things he has to give?' "Why," he replied, "I am in need of immediate help, and he is wont to give his good gifts very slowly."

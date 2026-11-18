@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-04.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-04.html"
 ---
 
 It was gray stone, with long roofs of thick green slate. An architect who loved the milder "Gothic motives" had built what he liked: it was to be seen at once that he had been left unhampered, and he had wrought a picture out of his head into a noble and exultant reality. At the same time a landscape-designer had played so good a second, with ready-made accessories of screen, approach and vista, that already whatever look of newness remained upon the place was to its advantage, as showing at least one thing yet clean under the grimy sky. For, though the smoke was thinner in this direction, and at this long distance from the heart of the town, it was not absent, and under tutelage of wind and weather could be malignant even here, where cows had wandered in the meadows and corn had been growing not ten years gone.

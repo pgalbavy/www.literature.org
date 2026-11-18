@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Devil's Punch Bowl"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-31.html"
 ---
 
 It was a thrilling story which Terry Clark had to tell about his ride on the back of the buffalo, but, after all, it was not so stirring as the experience which befell Fred Linden, and the Irish lad declared that it surpassed his own in every respect.

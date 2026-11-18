@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Journey Begins"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-14.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-14.html"
 ---
 
 It was a five-hour trip. He dined aboard the train with little desire for food, the July evening being oppressive, and a thunder storm brewing over the Hudson. It burst in the vicinity of Fishkill with a lively display of lightning, deluging the Catskills with rain. And when he changed to a train on the Mohawk division the cooler air was agreeably noticeable.

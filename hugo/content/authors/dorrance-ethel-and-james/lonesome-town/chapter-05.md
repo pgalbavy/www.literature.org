@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Only The Brave"
 weight: 5
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-05.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-05.html"
 ---
 
 Reaching the box which, according to his count of doors, should contain her, Peter Pape tried the door; opened it; stepped into and across the small cloak-room; looked through the brocaded hangings of the outer box. There she sat, just behind the bobbed youngster, an example of how different one black-haired girl can look from another. Her eyes, of the blue of tropic seas—calm, deep, mysterious—opened to his in surprise. He felt the other eyes in the box upon him, five pairs in all. But he looked only into hers—into the eyes that had summoned him.

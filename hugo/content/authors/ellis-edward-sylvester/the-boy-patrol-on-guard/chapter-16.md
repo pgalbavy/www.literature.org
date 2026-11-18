@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Sunbeam Of Gosling Lake"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-16.html"
 ---
 
 The lugubrious voice of Mike Murphy accompanied as it was by a faint moan, drew every eye upon him. The sight of his red, freckled face and robust looks caused the others to break into laughter, which was renewed when he gazed reprovingly in turn at each.

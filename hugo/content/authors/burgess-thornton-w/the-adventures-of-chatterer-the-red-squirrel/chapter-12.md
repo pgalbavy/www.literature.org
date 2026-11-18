@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Chatterer Is Sure That This Is His Last Day"
 weight: 12
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-12.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-12.html"
 ---
 
 There was no hope, not the teeniest, weeniest ray of hope in the heart of Chatterer, as Farmer Brown's boy picked up the wire rat-trap and started for the house, Black Pussy, the cat, following at his heels and looking up at Chatterer with cruel, hungry eyes. Chatterer took a farewell look at the Old Orchard and way beyond it the Green Forest, from which he had been driven by fear of Shadow the Weasel. Then the door of the farmhouse closed and shut it all out. If there had been any hope in Chatterer's heart, the closing of that door would have shut the last bit out. But there wasn't any hope. Chatterer was sure that he was to be given to Black Pussy for her breakfast.

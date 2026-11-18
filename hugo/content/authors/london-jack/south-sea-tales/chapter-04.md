@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - \u0026quot;Yah! Yah! Yah!\u0026quot;"
 weight: 4
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-04.html"
+url: "/authors/london-jack/south-sea-tales/chapter-04.html"
 ---
 
 He was a whiskey-guzzling Scotchman, and he downed his whiskey neat, beginning with his first tot punctually at six in the morning, and thereafter repeating it at regular intervals throughout the day till bedtime, which was usually midnight. He slept but five hours out of the twenty-four, and for the remaining nineteen hours he was quietly and decently drunk. During the eight weeks I spent with him on Oolong Atoll, I never saw him draw a sober breath. In fact, his sleep was so short that he never had time to sober up. It was the most beautiful and orderly perennial drunk I have ever observed.

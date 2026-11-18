@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-05.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-05.html"
 ---
 
 "I can be quite as foolish as you," Inez repeated as Roddy continued to regard her. "Some day, when this is over, when you have made it all come right, we will sit out here and pretend that we have escaped from Venezuela, that we are up North in my mother's country--in your country. We will play these are the rocks at York Harbor, and we'll be quite young and quite happy. Have you ever sat on the rocks at York Harbor," she demanded eagerly, "when the spray splashed you, and the waves tried to catch your feet?"

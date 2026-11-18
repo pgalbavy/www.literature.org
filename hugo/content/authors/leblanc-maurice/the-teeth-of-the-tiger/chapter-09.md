@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Lupin's Anger"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-09.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-09.html"
 ---
 
 He remained for one moment motionless and speechless. Above was a perfect clatter of things being pushed about, as though the besieged were building themselves a barricade. But to the right of the electric rays, diffused daylight entered through an opening that was suddenly exposed; and he saw, in front of this opening, first one form and then another stooping in order to escape over the roofs.

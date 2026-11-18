@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3 - The Wimblehurst Apprenticeship"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-01-chapter-03.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-01-chapter-03.html"
 ---
 
 I

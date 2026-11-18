@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Forward, Mollusks!"
 weight: 8
-aliases:
-  - "/authors/balzac-honore-de/bureaucracy/chapter-08.html"
+url: "/authors/balzac-honore-de/bureaucracy/chapter-08.html"
 ---
 
 The next day, Wednesday, Monsieur Rabourdin was to transact business with the minister, for he had filled the late La Billardiere's place since the beginning of the latter's illness. On such days the clerks came punctually, the servants were specially attentive, there was always a certain excitement in the offices on these signing-days,--and why, nobody ever knew. On this occasion the three servants were at their post, flattering themselves they should get a few fees; for a rumor of Rabourdin's nomination had spread through the ministry the night before, thanks to Dutocq. Uncle Antoine and Laurent had donned their full uniform, when, at a quarter to eight, des Lupeaulx's servant came in with a letter, which he begged Antoine to give secretly to Dutocq, saying that the general-secretary had ordered him to deliver it without fail at Monsieur Dutocq's house by seven o'clock.

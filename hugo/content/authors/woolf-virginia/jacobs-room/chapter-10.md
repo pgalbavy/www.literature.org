@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-10.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-10.html"
 ---
 
 Through the disused graveyard in the parish of St. Pancras, Fanny Elmer strayed between the white tombs which lean against the wall, crossing the grass to read a name, hurrying on when the grave-keeper approached, hurrying into the street, pausing now by a window with blue china, now quickly making up for lost time, abruptly entering a baker's shop, buying rolls, adding cakes, going on again so that any one wishing to follow must fairly trot. She was not drably shabby, though. She wore silk stockings, and silver-buckled shoes, only the red feather in her hat drooped, and the clasp of her bag was weak, for out fell a copy of Madame Tussaud's programme as she walked. She had the ankles of a stag. Her face was hidden. Of course, in this dusk, rapid movements, quick glances, and soaring hopes come naturally enough. She passed right beneath Jacob's window.

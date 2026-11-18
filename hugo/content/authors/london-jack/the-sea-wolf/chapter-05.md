@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-05.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-05.html"
 ---
 
 But my first night in the hunters' steerage was also my last. Next day Johansen, the new mate, was routed from the cabin by Wolf Larsen, and sent into the steerage to sleep thereafter, while I took possession of the tiny cabin state-room, which, on the first day of the voyage, had already had two occupants. The reason for this change was quickly learned by the hunters, and became the cause of a deal of grumbling on their part. It seemed that Johansen, in his sleep, lived over each night the events of the day. His incessant talking and shouting and bellowing of orders had been too much for Wolf Larsen, who had accordingly foisted the nuisance upon his hunters.

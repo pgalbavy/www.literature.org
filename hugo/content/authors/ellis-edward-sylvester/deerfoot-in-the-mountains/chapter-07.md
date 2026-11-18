@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Mishap"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-07.html"
 ---
 
 So Deerfoot the Shawanoe rode into the night, his heart aglow with gratitude because of the success of his venture. Whirlwind was his and he felt no misgiving over losing him again, and the steed himself would fight against recapture.

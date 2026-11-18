@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-09.html"
 ---
 
 It was wonderful when Mr. MacNairn and his mother came. It was even more beautiful than I had thought it would be. They arrived late in the afternoon, and when I took them out upon the terrace the sun was reddening the moor, and even the rough, gray towers of the castle were stained rose-color. There was that lovely evening sound of birds twittering before they went to sleep in the ivy. The glimpses of gardens below seemed like glimpses of rich tapestries set with jewels. And there was such stillness! When we drew our three chairs in a little group together and looked out on it all, I felt as if we were almost in heaven.

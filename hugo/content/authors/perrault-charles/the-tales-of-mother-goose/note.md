@@ -1,8 +1,7 @@
 ---
 title: "Note"
 weight: 9
-aliases:
-  - "/authors/perrault-charles/the-tales-of-mother-goose/note.html"
+url: "/authors/perrault-charles/the-tales-of-mother-goose/note.html"
 ---
 
 The eight stories contained in this volume are first found in print in French in a magazine entitled, Receuil de pièces curieuses et nouvelles tant en prose qu'en vers, which was published by Adrian Moetjens at The Hague in 1696-1697. They were immediately afterward published at Paris in a volume entitled, Histoires ou Contes du Temps Passé, avec des Moralites--Contes de ma mère l'Oie.

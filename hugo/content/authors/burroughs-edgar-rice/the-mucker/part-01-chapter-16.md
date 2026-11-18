@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 16 - The Supreme Sacrifice"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-16.html"
 ---
 
 THROUGH the balance of the day and all during the long night Billy Byrne swung along his lonely way, retracing the familiar steps of the journey that had brought Barbara Harding and himself to the little island in the turbulent river.

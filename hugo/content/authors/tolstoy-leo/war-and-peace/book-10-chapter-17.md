@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 17"
 weight: 207
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-17.html"
 ---
 
 After the Emperor had left Moscow, life flowed on there in its usual course, and its course was so very usual that it was difficult to remember the recent days of patriotic elation and ardor, hard to believe that Russia was really in danger and that the members of the English Club were also sons of the Fatherland ready to sacrifice everything for it. The one thing that recalled the patriotic fervor everyone had displayed during the Emperor's stay was the call for contributions of men and money, a necessity that as soon as the promises had been made assumed a legal, official form and became unavoidable.

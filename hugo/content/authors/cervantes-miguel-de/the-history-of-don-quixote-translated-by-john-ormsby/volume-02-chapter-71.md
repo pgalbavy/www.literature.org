@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 71 - Of What Passed Between Don Quixote And His Squire Sancho On The Way To Their Village"
 weight: 127
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-71.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-71.html"
 ---
 
 The vanquished and afflicted Don Quixote went along very downcast in one respect and very happy in another. His sadness arose from his defeat, and his satisfaction from the thought of the virtue that lay in Sancho, as had been proved by the resurrection of Altisidora; though it was with difficulty he could persuade himself that the love-smitten damsel had been really dead. Sancho went along anything but cheerful, for it grieved him that Altisidora had not kept her promise of giving him the smocks; and turning this over in his mind he said to his master, "Surely, señor, I’m the most unlucky doctor in the world; there’s many a physician that, after killing the sick man he had to cure, requires to be paid for his work, though it is only signing a bit of a list of medicines, that the apothecary and not he makes up, and, there, his labour is over; but with me though to cure somebody else costs me drops of blood, smacks, pinches, pinproddings, and whippings, nobody gives me a farthing. Well, I swear by all that’s good if they put another patient into my hands, they’ll have to grease them for me before I cure him; for, as they say, ‘it’s by his singing the abbot gets his dinner,’ and I’m not going to believe that heaven has bestowed upon me the virtue I have, that I should be dealing it out to others all for nothing."

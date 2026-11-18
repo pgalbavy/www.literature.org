@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Congo"
 weight: 16
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-16.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-16.html"
 ---
 
 During the winter of 1907 the world rang with the reports of the atrocities in the Congo, and Robert J. Collier, of Collier's Weekly, asked Richard to go to the Congo and make an investigation. I do not believe that my brother was ever in much sympathy with the commission, as he did not feel that he could afford the time that a thorough investigation demanded. However, with his wife he sailed for Liverpool on January 5, 1907, and three weeks later started for Africa. Regarding this trip, in addition to the letters he wrote to his family, I also quote from a diary which he had just started and which he conscientiously continued until his death.

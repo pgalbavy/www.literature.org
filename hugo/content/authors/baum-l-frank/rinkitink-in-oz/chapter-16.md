@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-16.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-16.html"
 ---
 
 Almost the first persons that Zella saw when she landed from the silver-lined boat at Regos were her father and mother. Nikobob and his wife had been greatly worried when their little daughter failed to return from Coregos, so they had set out to discover what had become of her. When they reached the City of Regos, that very morning, they were astonished to hear news of all the strange events that had taken place; still, they found comfort when told that Zella had been seen in the boat of Prince Inga, which had gone to the north. Then, while they wondered what this could mean, the silver-lined boat appeared again, with their daughter in it, and they ran down to the shore to give her a welcome and many joyful kisses.

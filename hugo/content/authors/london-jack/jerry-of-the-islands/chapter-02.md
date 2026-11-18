@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-02.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-02.html"
 ---
 
 From the whaleboat, up the low side of the Arangi, and over her six- inch rail of teak to her teak deck, was but a step, and Tom Haggin made it easily with Jerry still under his arm. The deck was cluttered with an exciting crowd. Exciting the crowd would have been to untravelled humans of civilization, and exciting it was to Jerry; although to Tom Haggin and Captain Van Horn it was a mere commonplace of everyday life.

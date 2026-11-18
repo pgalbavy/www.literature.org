@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-10.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-10.html"
 ---
 
 The castaway's gaze went to the girl kneeling beside him.

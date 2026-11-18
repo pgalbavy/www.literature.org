@@ -1,8 +1,7 @@
 ---
 title: "Chapter 104 - Le Terrain De Dieu"
 weight: 104
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-104.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-104.html"
 ---
 
 During the progress of these events Buckingham and De Wardes traveled in excellent companionship, and made the journey from Paris to Calais in undisturbed harmony together. Buckingham had hurried his departure, so that the greater part of his adieux were very hastily made. His visit to Monsieur and Madame, to the young queen, and to the queen-dowager, had been paid collectively - a precaution on the part of the queen-mother which saved him the distress of any private conversation with Monsieur, and also the danger of seeing Madame again. The carriages containing the luggage had already been sent on beforehand, and in the evening he set off in his traveling carriage with his attendants.

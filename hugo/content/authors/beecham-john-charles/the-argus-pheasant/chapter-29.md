@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Woman's Heart"
 weight: 30
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-29.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-29.html"
 ---
 
 Lying on the bamboo floor of the jungle hut which Muller had spoken of, his hands and feet firmly bound, and a Dyak guard armed with spear and kris at the door, Peter Gross thought over the events of his administration as resident of Bulungan. His thoughts were not pleasant. Shame filled his heart and reddened his brow as he thought of how confidently he had assumed his mission, how firmly he had believed himself to be the chosen instrument of destiny to restore order in the distracted colony and punish those guilty of heinous crimes, and how arrogantly he had rejected the sage advice of his elders.

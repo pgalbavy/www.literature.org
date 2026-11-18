@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Forest Fire"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-21.html"
 ---
 
 It was quite late in the fall. And Blue Mountain looked very different from the way it had looked all summer. The leaves had turned to brown and yellow and scarlet, except where there were clumps of fir-trees, as there were around Mr. Bear's house. Indeed, Blue Mountain looked almost as if it were all aflame, so bright were the autumn colors. Mr. Bear remarked as much to Mrs. Bear one day.

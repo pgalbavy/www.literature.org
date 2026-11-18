@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 29 - Of The Famous Adventure Of The Enchanted Bark"
 weight: 85
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-29.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-29.html"
 ---
 
 By stages as already described or left undescribed, two days after quitting the grove Don Quixote and Sancho reached the river Ebro, and the sight of it was a great delight to Don Quixote as he contemplated and gazed upon the charms of its banks, the clearness of its stream, the gentleness of its current and the abundance of its crystal waters; and the pleasant view revived a thousand tender thoughts in his mind. Above all, he dwelt upon what he had seen in the cave of Montesinos; for though Master Pedro’s ape had told him that of those things part was true, part false, he clung more to their truth than to their falsehood, the very reverse of Sancho, who held them all to be downright lies.

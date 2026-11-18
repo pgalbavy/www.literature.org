@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Third Bulb"
 weight: 27
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-27.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-27.html"
 ---
 
 Boxtel's return was scarcely announced, when he entered in person the drawing-room of Mynheer van Systens, followed by two men, who carried in a box their precious burden and deposited it on a table.

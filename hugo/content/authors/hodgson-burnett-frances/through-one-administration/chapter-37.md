@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-37.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-37.html"
 ---
 
 In less than an hour his card was brought to Bertha as she sat with her children. She read it with a beating heart, and, having done so, put down Meg and her picture-book.

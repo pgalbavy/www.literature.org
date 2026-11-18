@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Two Runaway Boys!"
 weight: 22
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-22.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-22.html"
 ---
 
 A great camp-fire blazed in one of the numerous valleys which nestle in the Andes to the east of Lake Titicaca. The three flying machines, the Ann, the Louise and the Bertha, lay just outside the circle of illumination. It was the evening of the fourth day after the incidents recorded in the last chapter.

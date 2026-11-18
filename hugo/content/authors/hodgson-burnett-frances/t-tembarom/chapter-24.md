@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-24.html"
 ---
 
 Upon the terrace, when he was led up the steps, stood a most perfect little elderly lady in a state of agitation much greater than his own or his rescuer's. It was an agitation as perfect in its femininity as she herself was. It expressed its kind tremors in the fashion which belonged to the puce silk dress and fine bits of collar and undersleeve the belated gracefulness of which caused her to present herself to him rather as a figure cut neatly from a book of the styles he had admired in his young manhood. It was of course Miss Alicia, who having, with Tembarom, seen the galloping pony from a window, had followed him when he darted from the room. She came forward, looking pale with charming solicitude.

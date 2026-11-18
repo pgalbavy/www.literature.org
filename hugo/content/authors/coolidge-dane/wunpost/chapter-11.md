@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Stinging Lizard"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-11.html"
+url: "/authors/coolidge-dane/wunpost/chapter-11.html"
 ---
 
 In a certain stratum of society, now about to become extinct, it is considered quite au fait to roll a drunk if circumstances will permit. And it was from this particular stratum that the barkeeper at The Mint had derived his moral concepts. Therefore he considered it no crime, no betrayal of a trust, to borrow the thousand dollars with which he was to pay John C. Calhoun from that prince of opportunists, Judson Eells. It is not every banker that will thrust a thousand dollar bill--and the only one he has on hand--upon a member of the bungstarters' brotherhood; but a word in his ear from Pisen-face Lynch convinced Fellowes that it would be well to run straight. Fate had snatched him from behind the bar to carry out a part not unconnected with certain schemes of Judson Eells and any tendency to run out on his trusting backers would be visited with summary punishment. At least that was what he gathered in the brief moment they had together before Lynch gave him the money and disappeared.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 3 - Soaring"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/tono-bungay/book-03-chapter-03.html"
+url: "/authors/wells-herbert-george/tono-bungay/book-03-chapter-03.html"
 ---
 
 I

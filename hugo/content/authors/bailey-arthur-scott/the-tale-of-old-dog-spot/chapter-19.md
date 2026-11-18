@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Off For The Circus"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-19.html"
 ---
 
 Great circus posters had covered one side of Farmer Green's barn for weeks. Ever since some men came and pasted them on the barn Johnnie Green had studied them carefully. He had practiced bareback riding on his pony, Twinkleheels. He had tried a high dive into the mill pond from the top of the dam. And much to old dog Spot's disgust Johnnie had tried to make him jump through a hoop covered with paper.

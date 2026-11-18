@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - A Dinner In The Old Style"
 weight: 35
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-35.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-35.html"
 ---
 
 The second interview between the former musketeers was not so formal and threatening as the first. Athos, with his superior understanding, wisely deemed that the supper table would be the most complete and satisfactory point of reunion, and at the moment when his friends, in deference to his deportment and sobriety, dared scarcely speak of some of their former good dinners, he was the first to propose that they should all assemble around some well spread table and abandon themselves unreservedly to their own natural character and manners - a freedom which had formerly contributed so much to that good understanding between them which gave them the name of the inseparables. For different reasons this was an agreeable proposition to them all, and it was therefore agreed that each should leave a very exact address and that upon the request of any of the associates a meeting should be convoked at a famous eating house in the Rue de la Monnaie, of the sign of the Hermitage. The first rendezvous was fixed for the following Wednesday, at eight o'clock in the evening precisely.

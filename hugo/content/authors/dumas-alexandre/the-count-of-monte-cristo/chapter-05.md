@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Marriage-Feast"
 weight: 5
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-05.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-05.html"
 ---
 
 The morning's sun rose clear and resplendent, touching the foamy waves into a network of ruby-tinted light.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 32
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-31.html"
 ---
 
 After the first day of cutting out patterns from the models and finely sewing tiny pieces of lawn together, Dowie saw that, before going to her bedroom for the night, Robin began to gather together all she had done and used in doing her work. She had ordered from London one of the pretty silk-lined lace-frilled baskets women are familiar with, and she neatly folded and laid her sewing in it. She touched each thing with fingers that lingered; she smoothed and once or twice patted something. She made exquisitely orderly little piles. Her down-dropped white lids quivered with joy as she did it. When she lifted them to look at Dowie her eyes were like those of a stray young spirit.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-16.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-16.html"
 ---
 
 The blackamoors had left the platform at the end of the hall. The curtains looped up at either side had slid down, cutting it off from the rest of the room—"making two worlds," Gumbril elegantly and allusively put it, "where only one grew before—and one of them a better world," he added too philosophically, "because unreal." There was the theatrical silence, the suspense. The curtains parted again.

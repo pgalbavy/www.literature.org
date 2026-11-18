@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - An Attained To-Morrow"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/the-tinderbox/chapter-08.html"
+url: "/authors/daviess-maria-thompson/the-tinderbox/chapter-08.html"
 ---
 
 I've changed my mind about a woman's being like a whirlwind. The women of now are the attained to-morrow that the world since the beginning has been trying to catch up with. Jane is that, and then the day after, too, and what she has done to Glendale in these two weeks has stunned the old town into a trance of delight and amazement. She has recreated us, breathed the breath of modernity into us, and started the machine up the grade of civilization at a pace that makes me hold my breath for fear of something jolting us.

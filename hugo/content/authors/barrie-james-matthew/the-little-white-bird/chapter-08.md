@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Inconsiderate Waiter"
 weight: 8
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-08.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-08.html"
 ---
 
 They were the family of William, one of our club waiters who had been disappointing me grievously of late. Many a time have I deferred dining several minutes that I might have the attendance of this ingrate. His efforts to reserve the window-table for me were satisfactory, and I used to allow him privileges, as to suggest dishes; I have given him information, as that someone had startled me in the reading-room by slamming a door; I have shown him how I cut my finger with a piece of string. William was none of your assertive waiters. We could have plotted a murder safely before him. It was one member who said to him that Saucy Sarah would win the Derby and another who said that Saucy Sarah had no chance, but it was William who agreed with both. The excellent fellow (as I thought him) was like a cheroot which may be smoked from either end.

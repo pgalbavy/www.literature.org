@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Jimmy Skunk Gets A Bump"
 weight: 17
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-17.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-17.html"
 ---
 
 Hardly had Jimmy Skunk entered the hole under Farmer Brown's henhouse, following close on the heels of Unc' Billy Possum, than along came Bowser the Hound, sniffing and sniffing in a way that made Unc' Billy nervous. When Bowser reached that hole, of course he smelled the tracks of Unc' Billy and Jimmy, and right away he became excited. He began to dig. Goodness, how he did make the dirt fly! All the time he whined with eagerness.

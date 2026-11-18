@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 34"
 weight: 224
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-34.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-34.html"
 ---
 
 Napoleon's generals- Davout, Ney, and Murat, who were near that region of fire and sometimes even entered it- repeatedly led into it huge masses of well-ordered troops. But contrary to what had always happened in their former battles, instead of the news they expected of the enemy's flight, these orderly masses returned thence as disorganized and terrified mobs. The generals re-formed them, but their numbers constantly decreased. In the middle of the day Murat sent his adjutant to Napoleon to demand reinforcements.

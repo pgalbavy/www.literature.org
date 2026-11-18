@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2 - A Respected Friend In A New Aspect"
 weight: 35
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-02.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-02.html"
 ---
 
 In the evening of this same foggy day when the yellow window-blind of Pubsey and Co. was drawn down upon the day’s work, Riah the Jew once more came forth into Saint Mary Axe. But this time he carried no bag, and was not bound on his master’s affairs. He passed over London Bridge, and returned to the Middlesex shore by that of Westminster, and so, ever wading through the fog, waded to the doorstep of the dolls’ dressmaker.

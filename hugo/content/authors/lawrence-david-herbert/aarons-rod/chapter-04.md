@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - \u0026quot;The Pillar Of Salt\u0026quot;"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-04.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-04.html"
 ---
 
 Our story will not yet see daylight. A few days after Christmas, Aaron sat in the open shed at the bottom of his own garden, looking out on the rainy darkness. No one knew he was there. It was some time after six in the evening.

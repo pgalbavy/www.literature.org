@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - A Prisoner"
 weight: 27
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-27.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-27.html"
 ---
 
 Dr. Spencer Whiles was sitting in a very comfortable easy chair, smoking a particularly good cigar, with a pile of newspapers by his side. His appearance certainly showed no signs of hardship. His linen, and the details of his toilet generally, supplied from some mysterious source into which he had not inquired, were much improved. Notwithstanding his increased comfort, however, he was looking perplexed, even a little worried, and the cause of it was there in front of him, in the advertisement sheets of the various newspapers which had been duly laid upon his table.

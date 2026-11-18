@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/ridge-w-pett/the-amazing-years/chapter-09.html"
+url: "/authors/ridge-w-pett/the-amazing-years/chapter-09.html"
 ---
 
 Millwood felt tremendously gratified because his example in regard to abstinence from alcohol was followed in high quarters, and he became from that moment, not only a supporter of royalty, but a man of ideas regarding the deportment of folk staying at home. He had a row one evening in a South-Eastern train with a stubborn passenger who argued that there was no sense in the order concerning the pulling down of blinds. He ordered a strict method of economy in London Street, and gave lectures on the subject to Peter who, endeavouring to pass them on to his own household at Deptford, found himself slapped by a mother who, a pronounced bungler and a most inefficient person, evidently considered she had nothing to learn in domestic management. I had to check Millwood when I found that to new customers he was in the habit of saying:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - On The Trail Of The Black Handers"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-24.html"
 ---
 
 Simmons Pendar had the reputation of being one of the best officers in the detective service. Several of his exploits proved that he possessed a brilliant mind, was quick in reading the vaguest clues and marvelously successful in following them up. It is not my purpose to explain by what subtle means he convinced himself that the kidnappers of little Grace Hastings had their headquarters in the extensive wilderness to the westward of the country town of Chesterton. Had he confessed the truth he would have admitted that a trifling occurrence, one of those insignificant incidents which figure oftener than is believed in important matters, gave him the key. Being human like the rest of us, he made his mistakes now and then, but felt absolutely sure he had not blundered in the present instance.

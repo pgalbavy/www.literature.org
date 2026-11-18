@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Lupin's Marriage"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-08.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-08.html"
 ---
 
 "Monsieur Arsène Lupin has the honour to inform you of his approaching marriage with Mademoiselle Angélique de Sarzeau-Vendôme, Princesse de Bourbon-Condé, and to request the pleasure of your company at the wedding, which will take place at the church of Sainte-Clotilde...."

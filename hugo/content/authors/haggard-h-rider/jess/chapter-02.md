@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - How The Sisters Came To Mooifontein"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-02.html"
+url: "/authors/haggard-h-rider/jess/chapter-02.html"
 ---
 
 “Captain Niel,” said Bessie Croft--for she was named Bessie--when they had painfully limped one hundred yards or so, “will you think me rude if I ask you a question?”

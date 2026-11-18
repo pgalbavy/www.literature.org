@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \"Here's My Boy, Governor\""
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-05.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-05.html"
 ---
 
 And it was en route to the mansion of the Gouverneur of the State of Harpeth that my Uncle, the General Robert, did enlighten me as to the urgent need of me in his affairs of business.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Mistress Mary Quite Contrary"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-02.html"
 ---
 
 Mary had liked to look at her mother from a distance and she had thought her very pretty, but as she knew very little of her she could scarcely have been expected to love her or to miss her very much when she was gone. She did not miss her at all, in fact, and as she was a self-absorbed child she gave her entire thought to herself, as she had always done. If she had been older she would no doubt have been very anxious at being left alone in the world, but she was very young, and as she had always been taken care of, she supposed she always would be. What she thought was that she would like to know if she was going to nice people, who would be polite to her and give her her own way as her Ayah and the other native servants had done.

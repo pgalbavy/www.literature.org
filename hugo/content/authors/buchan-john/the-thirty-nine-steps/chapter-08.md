@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Coming Of The Black Stone"
 weight: 9
-aliases:
-  - "/authors/buchan-john/the-thirty-nine-steps/chapter-08.html"
+url: "/authors/buchan-john/the-thirty-nine-steps/chapter-08.html"
 ---
 
 I came down to breakfast next morning, after eight hours of blessed dreamless sleep, to find Sir Walter decoding a telegram in the midst of muffins and marmalade. His fresh rosiness of yesterday seemed a thought tarnished.

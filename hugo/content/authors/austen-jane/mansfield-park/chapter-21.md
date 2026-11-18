@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-21.html"
+url: "/authors/austen-jane/mansfield-park/chapter-21.html"
 ---
 
 Sir Thomas's return made a striking change in the ways of the family, independent of Lovers' Vows. Under his government, Mansfield was an altered place. Some members of their society sent away, and the spirits of many others saddened--it was all sameness and gloom compared with the past--a sombre family party rarely enlivened. There was little intercourse with the Parsonage. Sir Thomas, drawing back from intimacies in general, was particularly disinclined, at this time, for any engagements but in one quarter. The Rushworths were the only addition to his own domestic circle which he could solicit.

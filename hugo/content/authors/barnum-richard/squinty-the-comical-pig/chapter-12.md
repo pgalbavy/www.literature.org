@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Squinty Gets Home Again"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-12.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-12.html"
 ---
 
 "Squinty, I don't believe we're going to find any cocoanut trees in this woods," said Mappo, the monkey, after he and the little pig had wandered on for some time.

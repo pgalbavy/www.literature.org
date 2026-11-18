@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Carpet-Bag"
 weight: 2
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-002.html"
+url: "/authors/melville-herman/moby-dick/chapter-002.html"
 ---
 
 I stuffed a shirt or two into my old carpet-bag, tucked it under my arm, and started for Cape Horn and the Pacific. Quitting the good city of old Manhatto, I duly arrived in New Bedford. It was on a Saturday night in December. Much was I disappointed upon learning that the little packet for Nantucket had already sailed, and that no way of reaching that place would offer, till the following Monday.

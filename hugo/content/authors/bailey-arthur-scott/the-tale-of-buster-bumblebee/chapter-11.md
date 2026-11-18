@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Drone"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-11.html"
 ---
 
 Yes! Buster Bumblebee was a drone. He never gathered any nectar from the flowers and brought it home to help swell the family store of honey. He let the workers of the household do that. And since they never complained, but seemed to enjoy their drudgery, Buster saw no reason why he should interfere with the honey-making in any way.

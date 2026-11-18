@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Greatest Of Naval Heroes--David Glasgow Farragut"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-29.html"
 ---
 
 David Glasgow Farragut was the greatest naval hero of modern times. There are many honored names connected with the American navy, but his towers above them all. The highest honors that his country could give were freely bestowed upon him and no one will deny that he earned them all.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Too Much Consideration"
 weight: 10
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-10.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-10.html"
 ---
 
 The child comes to the table. He looks a little weary, knowing the task before him.

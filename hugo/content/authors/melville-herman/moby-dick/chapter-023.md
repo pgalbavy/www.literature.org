@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Lee Shore"
 weight: 23
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-023.html"
+url: "/authors/melville-herman/moby-dick/chapter-023.html"
 ---
 
 Some chapters back, one Bulkington was spoken of, a tall, newlanded mariner, encountered in New Bedford at the inn.

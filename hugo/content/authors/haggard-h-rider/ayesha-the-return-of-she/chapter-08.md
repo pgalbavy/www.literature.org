@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Death-Hounds"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-08.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-08.html"
 ---
 
 It may have been ten o’clock on the following morning, or a little past it, when the Shaman Simbri came into my room and asked me how I had slept.

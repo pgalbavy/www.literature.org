@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 4"
 weight: 149
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-04.html"
 ---
 
 Princess Mary as she sat listening to the old men's talk and faultfinding, understood nothing of what she heard; she only wondered whether the guests had all observed her father's hostile attitude toward her. She did not even notice the special attentions and amiabilities shown her during dinner by Boris Drubetskoy, who was visiting them for the third time already.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-05.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-05.html"
 ---
 
 When King Rinkitink and Prince Inga had bathed themselves in the sea and eaten a simple breakfast, they began wondering what they could do to improve their condition.

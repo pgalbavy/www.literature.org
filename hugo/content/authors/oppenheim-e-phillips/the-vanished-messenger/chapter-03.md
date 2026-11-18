@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-03.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-03.html"
 ---
 
 As the young man staggered to his feet, he had somehow a sense of detachment, as though he were commencing a new life, or had suddenly come into a new existence. Yet his immediate surroundings were charged with ugly reminiscences. Through a great gap in the ruined side of the saloon the rain was tearing in. As he stood up, his head caught the fragments of the roof. He was able to push back the wreckage with ease and step out. For a moment he reeled, as he met the violence of the storm. Then, clutching hold of the side of the wreck, he steadied himself. A light was moving back and forth, close at hand. He cried out weakly: "Hullo!"

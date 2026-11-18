@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-33.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-33.html"
 ---
 
 Trent had done many brave things in his life, but he had never been conscious of such a distinct thrill of nervousness as he experienced during those few minutes' silence. Ernestine, for her part, was curiously exercised in her mind. He had shaken her faith in his guilt - he had admitted her to his point of view. She judged herself from his standpoint, and the result was unpleasant. She had a sudden impulse to tell him the truth, to reveal her identity, tell him her reasons for concealment. Perhaps her suspicions had been hasty. Then the personal note in his last speech had produced a serious effect on her, and all the time she felt that her silence was emboldening him, as indeed it was.

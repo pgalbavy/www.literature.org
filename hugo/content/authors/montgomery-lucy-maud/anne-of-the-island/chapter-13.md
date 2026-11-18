@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Way Of Transgressors"
 weight: 13
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-13.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-13.html"
 ---
 
 Davy and Dora were ready for Sunday School. They were going alone, which did not often happen, for Mrs. Lynde always attended Sunday School. But Mrs. Lynde had twisted her ankle and was lame, so she was staying home this morning. The twins were also to represent the family at church, for Anne had gone away the evening before to spend Sunday with friends in Carmody, and Marilla had one of her headaches.

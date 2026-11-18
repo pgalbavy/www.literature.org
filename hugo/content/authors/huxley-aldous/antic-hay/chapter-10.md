@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-10.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-10.html"
 ---
 
 Mr. Boldero liked the idea of the Patent Small-Clothes. He liked it immensely, he said, immensely.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 8"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/romance/part-02-chapter-08.html"
+url: "/authors/conrad-joseph/romance/part-02-chapter-08.html"
 ---
 
 By two of the afternoon we were running into the inlet of Rio Medio. I had come on deck when Tomas Castro had started out of his doze. I wanted to see. We went round violently as I emerged, and, clinging to the side, I saw, in a whirl, tall, baked, brown hills dropping sheer down to a strip of flat land and a belt of dark-green scrub at the water's edge; little pink squares of house-walls dropped here and there, mounting the hillside among palms, like men standing in tall grass, running back, hiding in a steep valley; silver-gray huts with ragged dun roofs, like dishevelled shocks of hair; a great pink church-face, very tall and narrow, pyramidal towards the top, and pierced for seven bells, but having only three. It looked as if it had been hidden for centuries in the folds of an ancient land, as it lay there asleep in the blighting sunlight.

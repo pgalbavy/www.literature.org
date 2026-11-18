@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Miss Cornelia Arranges Matters"
 weight: 22
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-22.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-22.html"
 ---
 
 Gilbert insisted that Susan should be kept on at the little house for the summer. Anne protested at first.

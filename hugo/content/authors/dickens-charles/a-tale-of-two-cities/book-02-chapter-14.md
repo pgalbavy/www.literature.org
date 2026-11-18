@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14 - The Honest Tradesman"
 weight: 20
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-14.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-14.html"
 ---
 
 To THE EYES of Mr. Jeremiah Cruncher, sitting on his stool in Fleet-street with his grisly urchin beside him, a vast number and variety of objects in movement were every day presented. Who could sit upon anything in Fleet-street during the busy hours of the day, and not be dazed and deafened by two immense processions, one ever tending westward with the sun, the other ever tending eastward from the sun, both ever tending to the plains beyond the range of red and purple where the sun goes down!

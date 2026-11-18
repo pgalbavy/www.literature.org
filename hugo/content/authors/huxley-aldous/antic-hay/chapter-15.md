@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-15.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-15.html"
 ---
 
 They were playing that latest novelty from across the water, "What’s he to Hecuba?" Sweet, sweet and piercing, the saxophone pierced into the very bowels of compassion and tenderness, pierced like a revelation from heaven, pierced like the angel’s treacly dart into the holy Teresa’s quivering and ecstasiated flank. More ripely and roundly, with a kindly and less agonizing voluptuousness, the ’cello meditated those Mohammedan ecstasies that last, under the green palms of Paradise, six hundred inenarrable years apiece. Into this charged atmosphere the violin admitted refreshing draughts of fresh air, cool and thin like the breath from a still damp squirt. And the piano hammered and rattled away unmindful of the sensibilities of the other instruments, banged away all the time reminding every one concerned, in a thoroughly business-like way, that this was a cabaret where people came to dance the fox-trot; not a baroque church for female saints to go into ecstasies in, not a mild, happy valley of tumbling houris.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Strange Ride"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-28.html"
 ---
 
 When the boys had eaten their fill, there was a quantity of meat left. This was cooked still more over the coals, wrapped about with the greenest leaves that could be got, and then packed in the bundle which Terry Clark strapped to his back.

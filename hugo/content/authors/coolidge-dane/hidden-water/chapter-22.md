@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Portents Of War"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-22.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-22.html"
 ---
 
 There were signs of impending war on Bronco Mesa. As God sent the rain and the flowers and grass sprang up they grappled with each other like murderers, twining root about root for the water, fighting upward for the light--and when it was over the strongest had won. Every tree and plant on that broad range was barbed and fanged against assault; every creature that could not flee was armed for its own defence; it was a land of war, where the strongest always won. What need was there for words? Juan Alvarez was dead, shot from some distant peak while rounding up his sheep--and his sheep, too, were dead.

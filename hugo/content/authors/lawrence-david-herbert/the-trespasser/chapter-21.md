@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-21.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-21.html"
 ---
 
 The tall white yachts in a throng were lounging off the roads of Ryde. It was near the regatta time, so these proud creatures had flown loftily together, and now flitted hither and thither among themselves, like a concourse of tall women, footing the waves with superb touch. To Siegmund they were very beautiful, but removed from him, as dancers crossing the window-lights are removed from the man who looks up from the street. He saw the Solent and the world of glamour flying gay as snow outside, where inside was only Siegmund, tired, dispirited, without any joy.

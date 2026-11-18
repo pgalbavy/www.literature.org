@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/london-jack/jerry-of-the-islands/chapter-04.html"
+url: "/authors/london-jack/jerry-of-the-islands/chapter-04.html"
 ---
 
 The companionway into the main cabin was a steep ladder, and down this, after his meal, Jerry was carried by the captain. The cabin was a long room, extending for the full width of the Arangi from a lazarette aft to a tiny room for'ard. For'ard of this room, separated by a tight bulkhead, was the forecastle where lived the boat's crew. The tiny room was shared between Van Horn and Borckman, while the main cabin was occupied by the three-score and odd return boys. They squatted about and lay everywhere on the floor and on the long low bunks that ran the full length of the cabin

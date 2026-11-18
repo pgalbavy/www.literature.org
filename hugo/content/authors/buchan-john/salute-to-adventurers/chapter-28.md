@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - How Three Souls Found Their Heritage"
 weight: 29
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-28.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-28.html"
 ---
 
 In that hour I had none of the exhilaration of success. So strangely are we mortals made that, though I had won safety for myself and my people, I could not get the savour of it. I had passed too far beyond the limits of my strength. Now that the tension of peril was gone, my legs were like touchwood, which a stroke would shatter, and my foolish head swam like a merry-go-round. Shalah's arm was round me, and he lifted me up the steep bits till we came to the crown of the ridge. There we halted, and he fed me with sops of bread dipped in eau-de-vie, for he had brought Ringan's flask with him. The only result was to make me deadly sick. I saw his eyes look gravely at me, and the next I knew I was on his back. I begged him to set me down and leave me, and I think I must have wept like a bairn. All pride of manhood had flown in that sharp revulsion, and I had the mind of a lost child.

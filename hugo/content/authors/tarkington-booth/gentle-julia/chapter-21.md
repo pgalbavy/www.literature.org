@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-21.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-21.html"
 ---
 
 These sympathetic women had unanimously set their expectation in so romantically pessimistic a groove that the most tragic news of Noble would have surprised them little. But if the truth of his whereabouts could have been made known to them, as they sat thus together at what was developing virtually into his wake, with Herbert as a compulsory participant, they would have turned the session into a riot of amazement. Noble was in the very last place (they would have said, when calmer) where anybody in the world could have even madly dreamed of looking for him! They would have been right about it. No one could have expected to find Noble to-night inside the old, four-square brick house of H. I. Atwater, Senior, chief of the Atwaters and father of too gentle Julia. Moreover, Mr. Atwater himself was not at present in the house; he had closed and locked it the day before, giving the servants a week's vacation and telling them not to return till he sent for them; and he had then gone out of town to look over a hominy-mill he thought of buying. And yet, as the wake went on, there was a light in the house, and under that light sat Noble Dill.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/the-lost-house/chapter-03.html"
+url: "/authors/davis-richard-harding/the-lost-house/chapter-03.html"
 ---
 
 Outside the locked door the voices of the two men rose in fierce whispers. But Ford regarded them not at all. With the swiftness of a squirrel caught in a cage, he darted on tiptoe from side to side searching the confines of his prison. He halted close to Miss Dale and pointed at the windows.

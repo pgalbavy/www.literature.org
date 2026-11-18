@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-02.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-02.html"
 ---
 
 Now I do pity all the lords and great gentle-folk with nothing in the world to do except to find out how to make things pleasant, and new places to go to, and new ways of spending their money; at least, I always pity them at the beginning of my holiday, though perhaps when one first comes back to eleven months’ hard grind in town the feeling isn’t quite so strong.

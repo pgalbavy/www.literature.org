@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-15.html"
 ---
 
 The boy was so bewildered by this calamity that he made no resistance at all. He knew very well he was guilty, but it surprised him that Ozma also knew it. He wondered how she had found out so soon that he had picked the six-leaved clover. He handed his basket to Scraps and said:

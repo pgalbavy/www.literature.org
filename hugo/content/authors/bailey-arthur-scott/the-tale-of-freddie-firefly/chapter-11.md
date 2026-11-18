@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Peppery Polly"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-11.html"
 ---
 
 Freddie Firefly felt quite uncomfortable as he started off toward the clover field, together with the angry honey-maker. It had not made him feel any more at ease when the Queen of the Bumblebees told him the worker's name. It was Peppery Polly.

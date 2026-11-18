@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-17.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-17.html"
 ---
 
 Throughout the term Ramsey's calculation of probabilities against the happening of another interview with Dora seemed to be well founded, but at the beginning of the second "semester" he found her to be a fellow member of a class in biology. More than that, this class had every week a two-hour session in the botanical laboratory, where the structure of plants was studied under microscopic dissection. The students worked in pairs, a special family of plants being assigned to each couple; and the instructor selected the couples with an eye to combinations of the quick with the slow. D. Yocum and R. Milholland (the latter in a strange state of mind and complexion) were given two chairs, but only one desk and one microscope. Their conversation was strictly botanical.

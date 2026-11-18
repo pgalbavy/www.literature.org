@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-09.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-09.html"
 ---
 
 "Can I believe what you tell me? It is like a tale for men that listen only half awake by the camp fire, and it seems to have run off a woman's tongue."

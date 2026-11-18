@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-02.html"
+url: "/authors/dickens-charles/great-expectations/chapter-02.html"
 ---
 
 My sister, Mrs Joe Gargery, was more than twenty years older than I, and had established a great reputation with herself and the neighbours because she had brought me up 'by hand'. Having at that time to find out for myself what the expression meant, and knowing her to have a hard and heavy hand, and to be much in the habit of laying it upon her husband as well as upon me, I supposed that Joe Gargery and I were both brought up by hand.

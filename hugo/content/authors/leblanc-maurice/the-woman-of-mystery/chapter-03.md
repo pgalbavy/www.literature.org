@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Call To Arms"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-03.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-03.html"
 ---
 
 The hideous accusation was followed by an awful silence. Élisabeth was now standing in front of her husband, striving to understand his words, which had not yet acquired their real meaning for her, but which hurt her as though she had been stabbed to the heart.

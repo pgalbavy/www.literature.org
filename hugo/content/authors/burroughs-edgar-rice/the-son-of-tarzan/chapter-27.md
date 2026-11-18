@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-27.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-27.html"
 ---
 
 Korak screamed commands to his huge protector, in an effort to halt him; but all to no avail. Meriem raced toward the bordering trees with all the speed that lay in her swift, little feet; but Tantor, for all his huge bulk, drove down upon her with the rapidity of an express train.

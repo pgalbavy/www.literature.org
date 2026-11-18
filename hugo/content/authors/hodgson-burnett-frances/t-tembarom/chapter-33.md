@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-33.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-33.html"
 ---
 
 Tembarom did not look as though he had slept particularly well, Miss Alicia thought, when they met the next morning; but when she asked him whether he had been disappointed in his last night's experiment, he answered that he had not. The experiment had come out all right, but Strangeways had been a good deal worked up, and had not been able to sleep until daylight. Sir Ormsby Galloway was to arrive in the afternoon, and he'd probably give him some-thing quieting. Had the coming downstairs seemed to help him to recall anything? Miss Alicia naturally inquired. Tembarom thought it had. He drove to Stone Hover and spent the morning with the duke; he even lunched with him. He returned in time to receive Sir Ormsby Galloway, however, and until that great personage left, they were together in Mr. Strangeways' rooms.

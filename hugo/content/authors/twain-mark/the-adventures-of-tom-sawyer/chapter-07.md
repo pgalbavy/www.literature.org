@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-07.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-07.html"
 ---
 
 THE harder Tom tried to fasten his mind on his book, the more his ideas wandered. So at last, with a sigh and a yawn, he gave it up. It seemed to him that the noon recess would never come. The air was utterly dead. There was not a breath stirring. It was the sleepiest of sleepy days. The drowsing murmur of the five and twenty studying scholars soothed the soul like the spell that is in the murmur of bees. Away off in the flaming sunshine, Cardiff Hill lifted its soft green sides through a shimmering veil of heat, tinted with the purple of distance; a few birds floated on lazy wing high in the air; no other living thing was visible but some cows, and they were asleep. Tom's heart ached to be free, or else to have something of interest to do to pass the dreary time. His hand wandered into his pocket and his face lit up with a glow of gratitude that was prayer, though he did not know it. Then furtively the percussion-cap box came out. He released the tick and put him on the long flat desk. The creature probably glowed with a gratitude that amounted to prayer, too, at this moment, but it was premature: for when he started thankfully to travel off, Tom turned him aside with a pin and made him take a new direction.

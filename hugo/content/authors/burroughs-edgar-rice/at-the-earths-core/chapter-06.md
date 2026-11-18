@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Beginning of Horror"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/at-the-earths-core/chapter-06.html"
 ---
 
 WITHIN PELLUCIDAR ONE TIME IS AS GOOD AS ANOTHER. There were no nights to mask our attempted escape. All must be done in broad daylight--all but the work I had to do in the apartment beneath the building. So we determined to put our plan to an immediate test lest the Mahars who made it possible should awake before I reached them; but we were doomed to disappointment, for no sooner had we reached the main floor of the building on our way to the pits beneath, than we encountered hurrying bands of slaves being hastened under strong Sagoth guard out of the edifice to the avenue beyond.

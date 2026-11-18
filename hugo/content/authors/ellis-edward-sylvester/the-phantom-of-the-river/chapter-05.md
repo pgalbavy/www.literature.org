@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Daring And Delicate Work"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-05.html"
 ---
 
 It will be borne in mind that Kenton had approached the clearing from the east, or up the river, so that it was necessary to cross the open space to reach the spot where the silent flatboat rested against the bank, and near which he expected to find the canoe, so necessary in the plan he had formed for saving the settlers and their families.

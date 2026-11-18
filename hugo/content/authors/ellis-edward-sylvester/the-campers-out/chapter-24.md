@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Suspicious Footprints"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-24.html"
 ---
 
 "You blunderhead!" called Bob Budd, forgetting his own peril in his anger, "you’ve killed Hero. I hope the buck will gore you to death."

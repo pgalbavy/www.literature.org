@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-02.html"
 ---
 
 What could it mean? I had left Alvarez in command. He was my most loyal subordinate. It was absolutely beyond the pale of possibility that Alvarez should desert me. No, there was some other explanation. Something occurred to place my second officer, Porfirio Johnson, in command. I was sure of it but why speculate? The futility of conjecture was only too palpable. The Coldwater had abandoned us in midocean. Doubtless none of us would survive to know why.

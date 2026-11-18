@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-03.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-03.html"
 ---
 
 In the succeeding weeks I was a good deal bored.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-15.html"
 ---
 
 "I SHALL not desert you, Ghek," said Tara of Helium, simply.

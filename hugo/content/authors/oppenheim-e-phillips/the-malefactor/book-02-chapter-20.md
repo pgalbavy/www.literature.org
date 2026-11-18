@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 20 - The Way Of Peace"
 weight: 36
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-20.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-20.html"
 ---
 
 They awaited his coming in varying moods. Barrington was irritable and restless, Lady Ruth gave no signs of any emotion whatever. She had the air of a woman who had no longer fear or hope. Only her eyes were a little weary.

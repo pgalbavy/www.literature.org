@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Race"
 weight: 28
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-28.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-28.html"
 ---
 
 It was dawn of a heavy, dark day. There was a mighty sea rolling and a forty-mile wind off the Cape shore that promised a three-day ruction. The Charming Lass at her anchor reared and plunged like a nervous horse.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/the-secret-agent/chapter-04.html"
+url: "/authors/conrad-joseph/the-secret-agent/chapter-04.html"
 ---
 
 Most of the thirty or so little tables covered by red cloths with a white design stood ranged at right angles to the deep brown wainscoting of the underground hall. Bronze chandeliers with many globes depended from the low, slightly vaulted ceiling, and the fresco paintings ran flat and dull all round the walls without windows, representing scenes of the chase and of outdoor revelry in mediæval costumes. Varlets in green jerkins brandished hunting knives and raised on high tankards of foaming beer.

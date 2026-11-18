@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Lack Of Perception"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-02.html"
 ---
 
 Mercantile as Americans were proclaimed to be, the opinion of Sir Nigel Anstruthers was that they were, on some points, singularly unbusinesslike. In the perfectly obvious and simple matter of the settlement of his daughter's fortune, he had felt that Reuben Vanderpoel was obtuse to the point of idiocy. He seemed to have none of the ordinary points of view. Naturally there was to Anstruthers' mind but one point of view to take. A man of birth and rank, he argued, does not career across the Atlantic to marry a New York millionaire's daughter unless he anticipates deriving some advantage from the alliance. Such a man--being of Anstruthers' type--would not have married a rich woman even in his own country with out making sure that advantages were to accrue to himself as a result of the union. “In England,” to use his own words, “there was no nonsense about it.” Women's fortunes as well as themselves belonged to their husbands, and a man who was master in his own house could make his wife do as he chose. He had seen girls with money managed very satisfactorily by fellows who held a tight rein, and were not moved by tears, and did not allow talking to relations. If he had been desirous of marrying and could have afforded to take a penniless wife, there were hundreds of portionless girls ready to thank God for a decent chance to settle themselves for life, and one need not stir out of one's native land to find them.

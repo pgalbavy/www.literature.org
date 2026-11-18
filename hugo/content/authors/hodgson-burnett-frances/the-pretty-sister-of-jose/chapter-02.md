@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/the-pretty-sister-of-jose/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/the-pretty-sister-of-jose/chapter-02.html"
 ---
 
 Pepita and the others, Manuel with them, ended their gala-day with still another festivity. They dined together at a little café, and heard the bull-fight fought over again by those around them. At a table near them sat three chulos, who talked together in voices loud enough to be heard throughout their meal. And it was of Sebastiano they spoke, giving dramatic recitals of his daring deeds, telling each other of what he had done, of what he could do, and that Madrid had never seen his rival or peer. And then his conquests. It was true that noble ladies--beautiful and noble--had sent him messages and tokens. Gonsalvo, who was his intimate friend, could tell many things if he chose. Sebastiano had brilliant triumphs. Once he had even been in great danger because the woman who loved and sought him was of such rank that her relatives would have resorted to the stiletto rather than allow her infatuation to continue.

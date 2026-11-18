@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Luck Of The Star Of Hassan"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-20.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-20.html"
 ---
 
 An hour later the captain Abdullah might have been seen walking carelessly towards the tent where the brethren slept. Also, had there been any who cared to watch, something else might have been seen in that low moonlight, for now the storm and the heavy rain which followed it had passed. Namely, the fat shape of the eunuch Mesrour, slipping after him wrapped in a dark camel-hair cloak, such as was commonly worn by camp followers, and taking shelter cunningly behind every rock and shrub and rise of the ground. Hidden among some picketed dromedaries, he saw Abdullah enter the tent of the brethren, then, waiting till a cloud crossed the moon, Mesrour ran to it unseen, and throwing himself down on its shadowed side, lay there like a drunken man, and listened with all his ears. But the thick canvas was heavy with wet, nor would the ropes and the trench that was dug around permit him, who did not love to lie in the water, to place his head against it. Also, those within spoke low, and he could only hear single words, such as "garden," "the star," "princess."

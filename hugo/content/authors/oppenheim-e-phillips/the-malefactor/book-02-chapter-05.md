@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5 - Ghosts Of Dead Things"
 weight: 21
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-05.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-05.html"
 ---
 
 "It was here," she said, as they passed through the walled garden seawards, "that I saw you first--you and the other gentleman who was so kind to me."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-01.html"
 ---
 
 There could be no doubt of the fact: Princess Ozma, the lovely girl ruler of the Fairyland of Oz, was lost. She had completely disappeared.Not one of her subjects--not even her closest friends--knew what had become of her. It was Dorothy who first discovered it. Dorothy was a little Kansas girl who had come to the Land of Oz to live and had been given a delightful suite of rooms in Ozma's royal palace just because Ozma loved Dorothy and wanted her to live as near her as possible so the two girls might be much together.

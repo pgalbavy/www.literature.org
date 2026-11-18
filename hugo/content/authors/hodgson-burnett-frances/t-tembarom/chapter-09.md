@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-09.html"
 ---
 
 Type as exotic as Tembarom's was to his solicitor naturally suggested problems. Mr. Palford found his charge baffling because, according to ordinary rules, a young man so rudimentary should have presented no problems not perfectly easy to explain. It was herein that he was exotic. Mr. Palford, who was not given to subtle analysis of differences in character and temperament, argued privately that an English youth who had been brought up in the streets would have been one of two or three things. He would have been secretly terrified and resentful, roughly awkward and resentful, or boastfully delighted and given to a common youth's excitedly common swagger at finding himself suddenly a “swell.”

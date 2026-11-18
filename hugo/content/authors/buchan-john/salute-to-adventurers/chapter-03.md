@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Canongate Tolbooth"
 weight: 4
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-03.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-03.html"
 ---
 
 "Never daunton youth" was, I remember, a saying of my grandmother's; but it was the most dauntoned youth in Scotland that now jogged over the moor to the Edinburgh highroad. I had a swimming head, and a hard crupper to grate my ribs at every movement, and my captor would shift me about with as little gentleness as if I had been a bag of oats for his horse's feed. But it was the ignominy of the business that kept me on the brink of tears. First, I was believed to be one of the maniac company of the Sweet-Singers, whom my soul abhorred; *item*, I had been worsted by a trooper with shameful ease, so that my manhood cried out against me. Lastly, I had cut the sorriest figure in the eyes of that proud girl. For a moment I had been bold, and fancied myself her saviour, but all I had got by it was her mocking laughter.

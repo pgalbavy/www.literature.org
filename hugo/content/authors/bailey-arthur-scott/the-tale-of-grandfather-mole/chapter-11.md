@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Surprising Grandfather Mole"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-11.html"
 ---
 
 SOMEHOW Grandfather Mole heard that Mrs. Robin hoped to capture the biggest angleworm in the garden. So the very next time he happened to find her at work there he offered her another bit of unsought advice. And Mrs. Robin liked it no better than any other of Grandfather Mole's counsels.

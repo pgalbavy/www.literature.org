@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Falling Out"
 weight: 17
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-16.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-16.html"
 ---
 
 HAROLD told me the main facts of this episode some time later,—in bits and with reluctance. It was not a recollection he cared to talk about. The crude blank misery of a moment is apt to leave a dull bruise which is slow to depart, if it ever do so entirely; and Harold confesses to a twinge or two, still, at times, like the veteran who brings home a bullet inside him from martial plains over sea.

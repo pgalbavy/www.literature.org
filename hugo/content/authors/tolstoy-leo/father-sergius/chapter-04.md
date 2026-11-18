@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tolstoy-leo/father-sergius/chapter-04.html"
+url: "/authors/tolstoy-leo/father-sergius/chapter-04.html"
 ---
 
 Father Sergius lived as a recluse for another seven years.

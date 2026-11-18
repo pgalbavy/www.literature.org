@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - D'artagnan Travels For The House Of Planchet And Company"
 weight: 22
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-22.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-22.html"
 ---
 
 The hostelry of "Le Grand Monarque" was situated in a little street parallel to the port without looking out upon the port itself. Some lanes cut - as steps cut the two parallels of the ladder - the two great straight lines of the port and the street. By these lanes passengers came suddenly from the port into the street, or from the street on to the port. D'Artagnan, arrived at the port, took one of these lanes, and came out in front of the hostelry of "Le Grand Monarque." The moment was well chosen and might remind D'Artagnan of his start in life at the hostelry of the "Franc-Meunier" at Meung. Some sailors who had been playing at dice had started a quarrel, and were threatening each other furiously. The host, hostess, and two lads were watching with anxiety the circle of these angry gamblers, from the midst of which war seemed ready to break forth, bristling with knives and hatchets. The play, nevertheless, was continued. A stone bench was occupied by two men, who appeared thence to watch the door; four tables, placed at the back of the common chamber, were occupied by eight other individuals. Neither the men at the door, nor those at the tables, took any part in the play or the quarrel. D'Artagnan recognized his ten men in these cold, indifferent spectators. The quarrel went on increasing. Every passion has, like the sea, its tide which ascends and descends. Reaching the climax of passion, one sailor overturned the table and the money which was upon it. The table fell, and the money rolled about. In an instant all belonging to the hostelry threw themselves upon the stakes, and many a piece of silver was picked up by people who stole away whilst the sailors were scuffling with each other.

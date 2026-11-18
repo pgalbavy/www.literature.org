@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Bass"
 weight: 15
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-14.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-14.html"
 ---
 
 I had no thought where they were taking me; only looked here and there for the appearance of a ship; and there ran the while in my head a word of Ransome’s—the_ twenty-pounders_. If I were to be exposed a second time to that same former danger of the plantations, I judged it must turn ill with me; there was no second Alan; and no second shipwreck and spare yard to be expected now; and I saw myself hoe tobacco under the whip’s lash. The thought chilled me; the air was sharp upon the water, the stretchers of the boat drenched with a cold dew: and I shivered in my place beside the steersman. This was the dark man whom I have called hitherto the Lowlander; his name was Dale, ordinarily called Black Andie. Feeling the thrill of my shiver, he very kindly handed me a rough jacket full of fish-scales, with which I was glad to cover myself.

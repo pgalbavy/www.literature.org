@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Rabourdin Household"
 weight: 1
-aliases:
-  - "/authors/balzac-honore-de/bureaucracy/chapter-01.html"
+url: "/authors/balzac-honore-de/bureaucracy/chapter-01.html"
 ---
 
 DEDICATION

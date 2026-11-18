@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - From Ape to Savage"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-15.html"
 ---
 
 The noise of their battle with Numa had drawn an excited horde of savages from the nearby village, and a moment after the lion's death the two men were surrounded by lithe, ebon warriors, gesticulating and jabbering--a thousand questions that drowned each ventured reply.

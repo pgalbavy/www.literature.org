@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Two Destinies"
 weight: 38
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-37.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-37.html"
 ---
 
 I MADE no movement to leave the room; I let no sign of sorrow escape me. At last, my heart was hardened against the woman who had so obstinately rejected me. I stood looking down at her with a merciless anger, the bare remembrance of which fills me at this day with a horror of myself. There is but one excuse for me. The shock of that last overthrow of the one hope that held me to life was more than my reason could endure. On that dreadful night (whatever I may have been at other times), I myself believe it, I was a maddened man.

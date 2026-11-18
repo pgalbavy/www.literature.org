@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Peace Learns The Bitter Truth"
 weight: 4
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-04.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-04.html"
 ---
 
 The school year came to a close, the days grew hotter, the nights brought no relief, and Dr. Coates, still a daily visitor at the big house, began to look grave again.

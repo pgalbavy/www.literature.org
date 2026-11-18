@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 5"
 weight: 33
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-05-chapter-05.html"
+url: "/authors/conrad-joseph/the-rescue/part-05-chapter-05.html"
 ---
 
 The very day that Travers and d'Alcacer had come on board the Emma Hassim and Immada had departed on their mission; for Lingard, of course, could not think of leaving the white people alone with Jorgenson. Jorgenson was all right, but his ineradicable habit of muttering in his moustache about "throwing a lighted match amongst the powder barrels" had inspired Lingard with a certain amount of mistrust. And, moreover, he did not want to go away from Mrs. Travers.

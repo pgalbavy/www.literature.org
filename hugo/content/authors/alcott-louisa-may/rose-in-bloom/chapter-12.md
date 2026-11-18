@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - At Kitty's Ball"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-12.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-12.html"
 ---
 
 Rose had no new gown to wear on this festive occasion, and gave one little sigh of regret as she put on the pale blue silk refreshed with clouds of gaze de Chambéry. But a smile followed, very bright and sweet, as she added the clusters of forget-me-not which Charlie had conjured up through the agency of an old German florist, for one part of her plan had been carried out, and Prince was invited to be her escort, much to his delight, though he wisely made no protestations of any sort and showed his gratitude by being a model gentleman. This pleased Rose, for the late humiliation and a very sincere desire to atone for it gave him an air of pensive dignity which was very effective.

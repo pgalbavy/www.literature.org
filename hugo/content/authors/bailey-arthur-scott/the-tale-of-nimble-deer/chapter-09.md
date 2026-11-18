@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Spike Horn"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-09.html"
 ---
 
 Nimble didn't mind losing his spots, when he grew older. He had something else that gave him much more pleasure than they ever had. He had a new toy. Or to be exact, he had two new toys. And everywhere he went he carried them with him.

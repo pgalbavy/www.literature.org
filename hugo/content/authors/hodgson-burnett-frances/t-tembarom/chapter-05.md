@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-05.html"
 ---
 
 At about the time Tembarom made his rush to catch the “L” Joseph Hutchinson was passing through one of his periodical fits of infuriated discouragement. Little Ann knew they would occur every two or three days, and she did not wonder at them. Also she knew that if she merely sat still and listened as she sewed, she would be doing exactly what her mother would have done and what her father would find a sort of irritated comfort in. There was no use in citing people's villainies and calling them names unless you had an audience who would seem to agree to the justice of your accusations.

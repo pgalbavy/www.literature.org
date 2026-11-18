@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Little House"
 weight: 6
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-06.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-06.html"
 ---
 
 Foolish Tootles was standing like a conqueror over Wendy's body when the other boys sprang, armed, from their trees.

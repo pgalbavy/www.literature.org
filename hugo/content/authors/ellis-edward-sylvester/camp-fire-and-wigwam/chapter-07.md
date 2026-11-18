@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Two Visitors"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-07.html"
 ---
 
 On the evening succeeding the departure of Jack Carleton and Otto Relstaub from the little settlement of Martinsville, the widowed mother of Jack was seated by her fireside engaged in knitting. The night was cold, and the huge sticks of wood were roaring and crackling in the broad fireplace, and throwing a cheerful glow and warmth through the room. The tallow candle on the mantel had not been lit, for there was no need of it, and, despite the loneliness and poverty of the sad-faced woman, there was an air of neatness and comfort about her home which would have tempted any one who could look through the narrow window into the homely, old-fashioned apartment.

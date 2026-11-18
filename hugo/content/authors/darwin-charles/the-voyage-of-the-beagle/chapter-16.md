@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Northern Chile and Peru"
 weight: 17
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-16.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-16.html"
 ---
 
 arrow_rightCoast-road to Coquimbo arrow_rightGreat Loads carried by the Miners arrow_rightCoquimbo arrow_rightEarthquake arrow_rightStep-formed Terrace arrow_rightAbsence of recent Deposits arrow_rightContemporaneousness of the Tertiary Formations arrow_rightExcursion up the Valley arrow_rightRoad to Guasco arrow_rightDeserts arrow_rightValley of Copiapo arrow_rightRain and Earthquakes arrow_rightHydrophobia arrow_rightThe Despoblado arrow_rightIndian Ruins arrow_rightProbable Change of Climate arrow_rightRiver-bed arched by an Earthquake arrow_rightCold Gales of Wind arrow_rightNoises from a Hill arrow_rightIquique arrow_rightSalt Alluvium arrow_rightNitrate of Soda arrow_rightLima arrow_rightUnhealthy Country arrow_rightRuins of Callao, overthrown by an Earthquake arrow_rightRecent Subsidence arrow_rightElevated Shells on San Lorenzo, their decomposition arrow_rightPlain with embedded Shells and fragments of Pottery arrow_rightAntiquity of the Indian Race. ---

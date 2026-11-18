@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-07.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-07.html"
 ---
 
 On the following Sunday morning, Mr. Mordaunt had a large congregation. Indeed, he could scarcely remember any Sunday on which the church had been so crowded. People appeared upon the scene who seldom did him the honor of coming to hear his sermons.

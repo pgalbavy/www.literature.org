@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The School In The Old Orchard"
 weight: 23
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-23.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-23.html"
 ---
 
 Little Foxes, little Chucks,  

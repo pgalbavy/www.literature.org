@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Concerning Prince Maiyo"
 weight: 16
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-16.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-16.html"
 ---
 
 The Duchess looked up from her writing table and nodded to her husband, who had just entered.

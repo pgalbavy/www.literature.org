@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 9"
 weight: 32
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-09.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-09.html"
 ---
 
 Elizabeth was sitting by herself the next morning, and writing to Jane, while Mrs. Collins and Maria were gone on business into the village, when she was startled by a ring at the door, the certain signal of a visitor. As she had heard no carriage, she thought it not unlikely to be Lady Catherine, and under that apprehension was putting away her half-finished letter that she might escape all impertinent questions, when the door opened, and to her very great surprise, Mr. Darcy, and Mr. Darcy only, entered the room.

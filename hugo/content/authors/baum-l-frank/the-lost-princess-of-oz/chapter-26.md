@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 27
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-26.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-26.html"
 ---
 
 The gray dove which had once been Ugu the Shoemaker sat on its tree in the far Quadling Country and moped, chirping dismally and brooding over its misfortunes. After a time, the Scarecrow and the Tin Woodman came along and sat beneath the tree, paying no heed to the mutterings of the gray dove. The Tin Woodman took a small oilcan from his tin pocket and carefully oiled his tin joints with it.

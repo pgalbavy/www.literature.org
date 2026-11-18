@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Malcourt Listens"
 weight: 27
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-27.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-27.html"
 ---
 
 Malcourt was up and ready before seven when his sister came to his door, dressed in her pretty blue travelling gown, hatted, veiled, gloved to perfection; but there was a bloom on cheek and mouth which mocked at the wearied eyes—a lassitude in every step as she slowly entered and seated herself.

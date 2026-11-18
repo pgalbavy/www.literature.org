@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - \"Ysery, Misery\""
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-11.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-11.html"
 ---
 
 Toul, Bar-le-Duc, Vitry-le-François. . . . The little towns sped past as the long train carried Paul and Bernard westwards into France. Other, numberless trains came before or after theirs, laden with troops and munitions of war. They reached the outskirts of Paris and turned north, passing through Beauvais, Amiens and Arras.

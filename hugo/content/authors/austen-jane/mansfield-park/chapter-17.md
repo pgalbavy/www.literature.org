@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-17.html"
+url: "/authors/austen-jane/mansfield-park/chapter-17.html"
 ---
 
 It was, indeed, a triumphant day to Mr. Bertram and Maria. Such a victory over Edmund's discretion had been beyond their hopes, and was most delightful. There was no longer anything to disturb them in their darling project, and they congratulated each other in private on the jealous weakness to which they attributed the change, with all the glee of feelings gratified in every way. Edmund might still look grave, and say he did not like the scheme in general, and must disapprove the play in particular; their point was gained: he was to act, and he was driven to it by the force of selfish inclinations only. Edmund had descended from that moral elevation which he had maintained before, and they were both as much the better as the happier for the descent.

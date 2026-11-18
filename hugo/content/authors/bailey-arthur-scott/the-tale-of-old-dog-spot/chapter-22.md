@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Circus Grounds"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-22.html"
 ---
 
 The Green family ate their luncheon in the carryall on Main Street, after the circus parade had passed. They didn't forget to give old dog Spot something to eat out of the big basket that they had brought with them from home. Although they hadn't expected him to go to the village with them, there was more than enough food for everybody. Even Johnnie Green's appetite wasn't equal to all the goodies that his mother had provided.

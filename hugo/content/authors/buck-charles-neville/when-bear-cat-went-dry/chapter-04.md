@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-04.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-04.html"
 ---
 
 With a mutter of distant thunder in his ears, the young mountaineer plodded "slavishly" on under his load as night closed about him. The path twisted among heaped up bowlders where a misstep might mean broken bones and crawled through entanglements of fallen timber: of gnarled rhododendron and thorn-leaved holly. It wormed into dew-drenched thicknesses where branches lashed the burden-bearer's face with the sting of whips, and soon the colossal barriers began to echo with the storm roar of high places. The clouds were ripped with the blue-white blades of lightning. The rock walls of the ranges seemed quaking under the thunder's incessant cannonading, and the wind's shrieking mania. Then through the rent and buffeted timber-tops the rain burst in a lashing curtain of water as violent as a shot-shower.

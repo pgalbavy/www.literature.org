@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Mrs. Poyser \u0026quot;Has Her Say Out\u0026quot;"
 weight: 32
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-32.html"
+url: "/authors/eliot-george/adam-bede/chapter-32.html"
 ---
 
 THE next Saturday evening there was much excited discussion at the Donnithorne Arms concerning an incident which had occurred that very day - no less than a second appearance of the smart man in top-boots said by some to be a mere farmer in treaty for the Chase Farm, by others to be the future steward, but by Mr. Casson himself, the personal witness to the stranger's visit, pronounced contemptuously to be nothing better than a bailiff, such as Satchell had been before him. No one had thought of denying Mr. Casson's testimony to the fact that he had seen the stranger; nevertheless, he proffered various corroborating circumstances.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-28.html"
+url: "/authors/haggard-h-rider/dawn/chapter-28.html"
 ---
 
 With what degree of soundness our pair of lovers slumbered on that memorable Saturday night, let those who have been so fortunate or unfortunate as to have been placed in analogous circumstances, form their own opinion.

@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 14"
 weight: 56
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-14.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-14.html"
 ---
 
 One morning, about a week after Bingley's engagement with Jane had been formed, as he and the females of the family were sitting together in the dining-room, their attention was suddenly drawn to the window, by the sound of a carriage; and they perceived a chaise and four driving up the lawn. It was too early in the morning for visitors, and besides, the equipage did not answer to that of any of their neighbours. The horses were post; and neither the carriage, nor the livery of the servant who preceded it, were familiar to them. As it was certain, however, that somebody was coming, Bingley instantly prevailed on Miss Bennet to avoid the confinement of such an intrusion, and walk away with him into the shrubbery. They both set off, and the conjectures of the remaining three continued, though with little satisfaction, till the door was thrown open, and their visitor entered. It was lady Catherine de Bourgh.

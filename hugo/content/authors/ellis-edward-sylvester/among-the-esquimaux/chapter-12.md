@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Fred's Experience"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-12.html"
 ---
 
 Both Jack Cosgrove and Rob Carrol could have shouted with joy at the sight of the missing boy, and the sound of his voice. More than once, during the stirring minutes that they were trying to save themselves from the irrestrainable bear, they thought of the shot that was fired by neither of them, and which, therefore, they naturally attributed to their friend.

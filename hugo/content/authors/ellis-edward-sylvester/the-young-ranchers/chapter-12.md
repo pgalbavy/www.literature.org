@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Facing Westward"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-12.html"
 ---
 
 The rancher was astonished beyond measure at the success of his shot. He had looked for nothing of the kind, but there could be no mistake as to the result; there was nothing to be gained by any pretence on the part of the Sioux. He certainly was as dead as dead could be.

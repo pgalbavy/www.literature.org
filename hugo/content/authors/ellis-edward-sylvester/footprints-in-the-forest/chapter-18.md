@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - With The River Between"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-18.html"
 ---
 
 The spot fixed upon by the Shawanoe was fully a third of a mile from the camp-fire kindled by the strange Indian. It was in a hollow, through which ran a small stream of water, and where the undergrowth and vegetation were so dense that the flames which were started would not have attracted notice five rods away.

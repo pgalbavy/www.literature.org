@@ -1,8 +1,7 @@
 ---
 title: "chapter 08"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-08.html"
 ---
 
 "Wake up -- wake up!" called the voice of the Bumpy Man. "Didn't I tell you winter was coming? I could hear it coming with my left ear, and the proof is that it is now snowing hard outside."

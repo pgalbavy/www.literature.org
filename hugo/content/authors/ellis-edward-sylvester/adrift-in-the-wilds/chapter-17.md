@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Miners"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-17.html"
 ---
 
 "I wished to give yez a pleasant surprise, as the doctor said when he told the man that his wife was dead," remarked Tim, in explanation of his conduct. "Had there really been any of the red gintlemen around I'd have told you soon enough."

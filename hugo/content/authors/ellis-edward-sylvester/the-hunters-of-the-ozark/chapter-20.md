@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Another Night Visitor"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-20.html"
 ---
 
 Deerfoot the Shawanoe was convinced of one thing—the Wolf would trouble him no further that night. What he might do in the future must be left for the future to tell. Whether the few words that he had dropped should prove the good seed of which I have spoken, or whether they should be choked up by thorns, not even the Wolf himself could tell.

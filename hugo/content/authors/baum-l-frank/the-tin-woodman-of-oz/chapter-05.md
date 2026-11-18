@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-05.html"
 ---
 
 When they had reached the end of the path, where they had first seen the warning sign, they set off across the country in an easterly direction. Before long they reached Rolling Lands, which were a succession of hills and valleys where constant climbs and descents were required, and their journey now became tedious, because on climbing each hill, they found before them nothing in the valley below it except grass, or weeds or stones.

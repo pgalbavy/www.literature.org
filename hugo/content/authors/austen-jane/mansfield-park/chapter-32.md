@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-32.html"
+url: "/authors/austen-jane/mansfield-park/chapter-32.html"
 ---
 
 Fanny had by no means forgotten Mr. Crawford when she awoke the next morning; but she remembered the purport of her note, and was not less sanguine as to its effect than she had been the night before. If Mr. Crawford would but go away! That was what she most earnestly desired: go and take his sister with him, as he was to do, and as he returned to Mansfield on purpose to do. And why it was not done already she could not devise, for Miss Crawford certainly wanted no delay. Fanny had hoped, in the course of his yesterday's visit, to hear the day named; but he had only spoken of their journey as what would take place ere long.

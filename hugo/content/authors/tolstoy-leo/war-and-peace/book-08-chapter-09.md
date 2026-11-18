@@ -1,8 +1,7 @@
 ---
 title: "Book 8 - Chapter 9"
 weight: 154
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-08-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-08-chapter-09.html"
 ---
 
 The floor of the stage consisted of smooth boards, at the sides was some painted cardboard representing trees, and at the back was a cloth stretched over boards. In the center of the stage sat some girls in red bodices and white skirts. One very fat girl in a white silk dress sat apart on a low bench, to the back of which a piece of green cardboard was glued. They all sang something. When they had finished their song the girl in white went up to the prompter's box and a man with tight silk trousers over his stout legs, and holding a plume and a dagger, went up to her and began singing, waving his arms about.

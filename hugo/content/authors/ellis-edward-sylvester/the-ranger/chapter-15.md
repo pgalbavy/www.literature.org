@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Fugitives Flying No Longer"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-15.html"
 ---
 
 The fugitives continued moving forward until morning, when, to guard against needless exposure, Kent again ran the canoe under the bank, and remained at rest the entire day. All suffered so much from hunger, that the hunter left the boat during the afternoon, and, after a few hours' absence, obtained a sufficient quantity of meat for them all. This was cooked after his usual cautious and expert fashion, and was thankfully partaken of by his companions.

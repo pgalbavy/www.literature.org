@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Jack Slaps Back"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-15.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-15.html"
 ---
 
 Chapter follows chapter, and nothing doing. But man is a thought-adventurer, and his falls into the Charybdis of ointment, and his shipwrecks on the rock of ages, and his kisses across chasms, and his silhouette on a minaret: surely these are as thrilling as most things.

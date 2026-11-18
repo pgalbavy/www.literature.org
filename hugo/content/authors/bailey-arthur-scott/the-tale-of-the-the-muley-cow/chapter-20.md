@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Good Corn Wasted"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-20.html"
 ---
 
 Mr. Crow had been talking about the corn in the silo, which Farmer Green fed to the herd during the winter. And the Muley Cow could see that he was growing angrier every moment.

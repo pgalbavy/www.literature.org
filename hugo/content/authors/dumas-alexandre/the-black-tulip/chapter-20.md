@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Events Which Took Place During Those Eight Days"
 weight: 20
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-20.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-20.html"
 ---
 
 On the following evening, at the usual hour, Van Baerle heard some one scratch at the grated little window, just as Rosa had been in the habit of doing in the heyday of their friendship.

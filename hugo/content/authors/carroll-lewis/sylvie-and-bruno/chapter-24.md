@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Frogs' Birthday-treat"
 weight: 25
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-24.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-24.html"
 ---
 
 And so it came to pass that, just a week after the day when my Fairy-friends first appeared as Children, I found myself taking a farewell-stroll through the wood, in the hope of meeting them once more. I had but to stretch myself on the smooth turf, and the 'eerie' feeling was on me in a moment.

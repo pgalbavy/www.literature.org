@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 5"
 weight: 162
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-05.html"
 ---
 
 "Varvara Andreevna, when I was very young, I set before myself the ideal of the women I loved and should be happy to call my wife. I have lived through a long life, and now for the first time I have met what I sought--in you. I love you, and offer you my hand."

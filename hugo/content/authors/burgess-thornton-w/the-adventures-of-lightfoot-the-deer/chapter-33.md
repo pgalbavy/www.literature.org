@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - A Different Game Of Hide And Seek"
 weight: 33
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-33.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-33.html"
 ---
 
 Once more Lightfoot the Deer was playing hide and seek in the Green Forest. But it was a very different game from the one he had played just a short time before. You remember that then it had been for his life that he had played, and he was the one who had done all the hiding. Now, he was "it", and some one else was doing the hiding. Instead of the dreadful fear which had filled him in that other game, he was now filled with longing,—longing to find and make friends with the beautiful stranger of whom he had just once caught a glimpse, but of whom every day he found tracks.

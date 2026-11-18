@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Rusty In Trouble"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-08.html"
 ---
 
 Rusty Wren edged toward the door--that little opening in the syrup can, only slightly bigger than a twenty-five-cent piece. He wished he was already safely through it, for he did not like the look in his wife's eyes.

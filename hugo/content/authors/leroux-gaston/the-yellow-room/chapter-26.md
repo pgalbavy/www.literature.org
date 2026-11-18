@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - In Which Joseph Rouletabille Is Awaited With Impatience"
 weight: 26
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-26.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-26.html"
 ---
 
 On the 15th of January, that is to say, two months and a half after the tragic events I have narrated, the "Epoque" printed, as the first column of the front page, the following sensational article: "The Seine-et-Oise jury is summoned to-day to give its verdict on one of the most mysterious affairs in the annals of crime. There never has been a case with so many obscure, incomprehensible, and inexplicable points. And yet the prosecution has not hesitated to put into the prisoner’s dock a man who is respected, esteemed, and loved by all who knew him—a young savant, the hope of French science, whose whole life has been devoted to knowledge and truth. When Paris heard of Monsieur Robert Darzac’s arrest a unanimous cry of protest arose from all sides. The whole Sorbonne, disgraced by this act of the examining magistrate, asserted its belief in the innocence of Mademoiselle Stangerson’s fiance. Monsieur Stangerson was loud in his denunciation of this miscarriage of justice. There is no doubt in the mind of anybody that could the victim speak she would claim from the jurors of Seine-et-Oise the man she wishes to make her husband and whom the prosecution would send to the scaffold. It is to be hoped that Mademoiselle Stangerson will shortly recover her reason, which has been temporarily unhinged by the horrible mystery at the Glandier. The question before the jury is the one we propose to deal with this very day.

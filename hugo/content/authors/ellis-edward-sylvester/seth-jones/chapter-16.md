@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - In Which A Hunter’s Nerves Are Tested"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-16.html"
 ---
 
 In the morning when our friends started upon their day’s march, Haldidge, as said, fell behind in order to guard against surprise from this direction. Although expecting as little as did Seth any demonstration from this quarter, still he was too much of a backwoodsman to allow himself to lose any of his usual suspicion and watchfulness. Sometimes he would take his back trail for a long distance, and then wander off to the right or left of it for perhaps a mile or more. By this means, he kept a continual watch not only upon the trail itself but upon the neighborhood for a long distance around it, and, in case of pursuit, made so many and conflicting tracks, that it could not but puzzle and delay their enemies.

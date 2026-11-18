@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - More Surprises"
 weight: 42
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-42.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-42.html"
 ---
 
 The same evening I received my "abstract" by the hands of a clerk.

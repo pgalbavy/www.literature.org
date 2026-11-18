@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-10.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-10.html"
 ---
 
 "It has set at last," said Nina to her mother pointing towards the hills behind which the sun had sunk. "Listen, mother, I am going now to Bulangi's creek, and if I should never return—"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Voiceless Friend"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-02.html"
 ---
 
 The keen eyes, instead of looking at the crest of the rocky ridge on his right, were now centred on the ground, where they detected a small dark speck swiftly approaching the horseman. At the first glance, the object suggested a cannon-ball rolling with great speed toward the pony, that was now standing still, with head erect, ears thrown forward, and the appearance of perplexed interest in the thing, whatever it might be.

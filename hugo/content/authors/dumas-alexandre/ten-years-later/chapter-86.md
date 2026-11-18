@@ -1,8 +1,7 @@
 ---
 title: "Chapter 86 - Night"
 weight: 86
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-86.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-86.html"
 ---
 
 Concord returned to its place amidst the tents. English and French rivaled each other in their devotion and courteous attention to the illustrious travelers. The English forwarded to the French baskets of flowers, of which they had made a plentiful provision to greet the arrival of the young princess; the French in return invited the English to a supper, which was to be given the next day. Congratulations were poured in upon the princess everywhere during her journey. From the respect paid her on all sides, she seemed like a queen; and from the adoration with which she was treated by two or three, she appeared an object of worship. The queen-mother gave the French the most affectionate reception. France was her native country, and she had suffered too much unhappiness in England for England to have made her forget France. She taught her daughter, then, by her own affection for it, that love for a country where they had both been hospitably received, and where a brilliant future opened before them. After the public entry was over, and the spectators in the streets had partially dispersed, and the sound of the music and cheering of the crowd could be heard only in the distance; when the night had closed in, wrapping with its star-covered mantle the sea, the harbor, the town, and surrounding country, De Guiche, still excited by the great events of the day, returned to his tent, and seated himself upon one of the stools with so profound an expression of distress that Bragelonne kept his eyes fixed on him, until he heard him sigh, and then he approached him. The count had thrown himself back on his seat, leaning his shoulders against the partition of the tent, and remained thus, his face buried in his hands, with heaving chest and restless limbs.

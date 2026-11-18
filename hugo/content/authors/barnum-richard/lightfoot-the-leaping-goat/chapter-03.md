@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Lightfoot Saves A Girl"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-03.html"
+url: "/authors/barnum-richard/lightfoot-the-leaping-goat/chapter-03.html"
 ---
 
 For a few seconds after Lightfoot had been tossed into the ditch full of weeds the goat could not get up or even move. The trolley car clanged on its way down the tracks.

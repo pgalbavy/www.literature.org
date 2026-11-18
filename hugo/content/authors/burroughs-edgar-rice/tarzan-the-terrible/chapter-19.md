@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Diana Of The Jungle"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-19.html"
 ---
 
 Jane had made her first kill and she was very proud of it. It was not a very formidable animal--only a hare; but it marked an epoch in her existence. Just as in the dim past the first hunter had shaped the destinies of mankind so it seemed that this event might shape hers in some new mold. No longer was she dependent upon the wild fruits and vegetables for sustenance. Now she might command meat, the giver of the strength and endurance she would require successfully to cope with the necessities of her primitive existence.

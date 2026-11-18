@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 1"
 weight: 54
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-01.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-01.html"
 ---
 
 At noon that day Claude found himself in a street of little shops, hot and perspiring, utterly confused and turned about. Truck drivers and boys on bell less bicycles shouted at him indignantly, furiously. He got under the shade of a young plane tree and stood close to the trunk, as if it might protect him. His greatest care, at any rate, was off his hands. With the help of Victor Morse he had hired a taxi for forty francs, taken Fanning to the base hospital, and seen him into the arms of a big orderly from Texas. He came away from the hospital with no idea where he was going--except that he wanted to get to the heart of the city. It seemed, however, to have no heart; only long, stony arteries, full of heat and noise. He was still standing there, under his plane tree, when a group of uncertain, lost-looking brown figures, headed by Sergeant Hicks, came weaving up the street; nine men in nine different attitudes of dejection, each with a long loaf of bread under his arm. They hailed Claude with joy, straightened up, and looked as if now they had found their way! He saw that he must be a plane tree for somebody else.

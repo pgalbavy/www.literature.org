@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Woman Wants"
 weight: 12
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-12.html"
+url: "/authors/titus-harold/i-conquered/chapter-12.html"
 ---
 
 Gail Thorpe rose from the piano in the big ranch house of the S Bar S, rearranged the mountain flowers that filled a vase on a tabouret, then knocked slowly, firmly, commandingly, on a door that led from the living room.

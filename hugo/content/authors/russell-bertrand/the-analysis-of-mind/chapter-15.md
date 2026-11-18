@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Characteristics Of Mental Phenomena"
 weight: 16
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-15.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-15.html"
 ---
 
 At the end of our journey it is time to return to the question from which we set out, namely: What is it that characterizes mind as opposed to matter? Or, to state the same question in other terms: How is psychology to be distinguished from physics? The answer provisionally suggested at the outset of our inquiry was that psychology and physics are distinguished by the nature of their causal laws, not by their subject matter. At the same time we held that there is a certain subject matter, namely images, to which only psychological causal laws are applicable; this subject matter, therefore, we assigned exclusively to psychology. But we found no way of defining images except through their causation; in their intrinsic character they appeared to have no universal mark by which they could be distinguished from sensations.

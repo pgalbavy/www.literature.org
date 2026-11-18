@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - In The Cottage"
 weight: 50
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-50.html"
+url: "/authors/eliot-george/adam-bede/chapter-50.html"
 ---
 
 ADAM did not ask Dinah to take his arm when they got out into the lane. He had never yet done so, often as they had walked together, for he had observed that she never walked arm-in-arm with Seth, and he thought, perhaps, that kind of support was not agreeable to her. So they walked apart, though side by side, and the close poke of her little black bonnet hid her face from him.

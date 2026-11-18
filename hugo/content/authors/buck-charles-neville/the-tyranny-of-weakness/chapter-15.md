@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-15.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-15.html"
 ---
 
 "You are looking very serious, dearest," he declared in a tone of assumed lightness, marred by a cumbersome quality which made it grotesque. As his voice broke on her reverie, his wife started, then sat gazing at him with a sphinx-like expression in her eyes, which he found it hard to endure. But he went boldly on: "Very serious indeed for a bride of a month's standing."

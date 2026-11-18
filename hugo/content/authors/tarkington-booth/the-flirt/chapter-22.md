@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-22.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-22.html"
 ---
 
 Cora lost no time. Corliss had not closed the front door behind him before she was running up the stairs. Mrs. Madison, emerging from her husband's room, did not see her daughter's face; for Cora passed her quickly, looking the other way.

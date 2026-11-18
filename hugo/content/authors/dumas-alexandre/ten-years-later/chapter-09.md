@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - In Which The Unknown Of The Hostelry Of Les Medici Loses His Incognito"
 weight: 9
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-09.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-09.html"
 ---
 
 This officer, who was sleeping, or preparing to sleep, was, notwithstanding his careless air, charged with a serious responsibility.

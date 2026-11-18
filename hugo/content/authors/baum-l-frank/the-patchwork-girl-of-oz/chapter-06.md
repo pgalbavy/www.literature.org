@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-06.html"
 ---
 
 Ojo had never traveled before and so he only knew that the path down the mountainside led into the open Munchkin Country, where large numbers of people dwelt. Scraps was quite new and not supposed to know anything of the Land of Oz, while the Glass Cat admitted she had never wandered very far away from the Magician's house. There was only one path before them, at the beginning, so they could not miss their way, and for a time they walked through the thick forest in silent thought, each one impressed with the importance of the adventure they had undertaken.

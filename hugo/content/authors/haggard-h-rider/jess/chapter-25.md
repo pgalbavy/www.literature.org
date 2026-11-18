@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Meanwhile"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-25.html"
+url: "/authors/haggard-h-rider/jess/chapter-25.html"
 ---
 
 John, it will be remembered, left Mooifontein for Pretoria towards the end of December, and with him went all the life and light of the place.

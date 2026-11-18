@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Chinese And Western Civilization Contrasted"
 weight: 12
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-11.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-11.html"
 ---
 
 There is at present in China, as we have seen in previous chapters, a close contact between our civilization and that which is native to the Celestial Empire. It is still a doubtful question whether this contact will breed a new civilization better than either of its parents, or whether it will merely destroy the native culture and replace it by that of America. Contacts between different civilizations have often in the past proved to be landmarks in human progress. Greece learnt from Egypt, Rome from Greece, the Arabs from the Roman Empire, mediæval Europe from the Arabs, and Renaissance Europe from the Byzantines. In many of these cases, the pupils proved better than their masters. In the case of China, if we regard the Chinese as the pupils, this may be the case again. In fact, we have quite as much to learn from them as they from us, but there is far less chance of our learning it. If I treat the Chinese as our pupils, rather than vice versa, it is only because I fear we are unteachable.

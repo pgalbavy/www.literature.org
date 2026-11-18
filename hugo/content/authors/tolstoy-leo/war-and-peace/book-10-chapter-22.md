@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 22"
 weight: 212
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-22.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-22.html"
 ---
 
 Staggering amid the crush, Pierre looked about him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-03.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-03.html"
 ---
 
 Denham had accused Katharine Hilbery of belonging to one of the most distinguished families in England, and if any one will take the trouble to consult Mr. Galton’s "Hereditary Genius," he will find that this assertion is not far from the truth. The Alardyces, the Hilberys, the Millingtons, and the Otways seem to prove that intellect is a possession which can be tossed from one member of a certain group to another almost indefinitely, and with apparent certainty that the brilliant gift will be safely caught and held by nine out of ten of the privileged race. They had been conspicuous judges and admirals, lawyers and servants of the State for some years before the richness of the soil culminated in the rarest flower that any family can boast, a great writer, a poet eminent among the poets of England, a Richard Alardyce; and having produced him, they proved once more the amazing virtues of their race by proceeding unconcernedly again with their usual task of breeding distinguished men. They had sailed with Sir John Franklin to the North Pole, and ridden with Havelock to the Relief of Lucknow, and when they were not lighthouses firmly based on rock for the guidance of their generation, they were steady, serviceable candles, illuminating the ordinary chambers of daily life. Whatever profession you looked at, there was a Warburton or an Alardyce, a Millington or a Hilbery somewhere in authority and prominence.

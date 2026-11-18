@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Bad Blood"
 weight: 18
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-18.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-18.html"
 ---
 
 The sheep were on the run, drifting across Bronco Mesa as if the devil was after them, and Creede could hardly stay on his horse from laughing--but when he drew near to Hidden Water his face changed. There was a fresh sheep trail in the cañon and it led away from the ranch. He spurred forward like the wind, his eyes upon the tracks, and when he came in sight of the house he threw down his hat and swore. Of all the God-forsaken places in Arizona, the Dos S Ranch was the worst. The earth lay bare and desolate before it; the woodpile had disappeared; the bucket was thrown down the well. Never had the flat, mud buildings seemed so deserted or Tommy so tragic in his welcome. The pasture gate was down and even that holy of holies, the branding corral, stunk of sheep. Only the padlocked house had been respected, and that perforce, since nothing short of a sledgehammer could break its welded chain.

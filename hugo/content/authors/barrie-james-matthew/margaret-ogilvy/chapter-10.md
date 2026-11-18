@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Art Thou Afraid His Power Shall Fail?"
 weight: 10
-aliases:
-  - "/authors/barrie-james-matthew/margaret-ogilvy/chapter-10.html"
+url: "/authors/barrie-james-matthew/margaret-ogilvy/chapter-10.html"
 ---
 
 For years I had been trying to prepare myself for my mother's death, trying to foresee how she would die, seeing myself when she was dead. Even then I knew it was a vain thing I did, but I am sure there was no morbidness in it. I hoped I should be with her at the end, not as the one she looked at last but as him from whom she would turn only to look upon her best-beloved, not my arm but my sister's should be round her when she died, not my hand but my sister's should close her eyes. I knew that I might reach her too late; I saw myself open a door where there was none to greet me, and go up the old stair into the old room. But what I did not foresee was that which happened. I little thought it could come about that I should climb the old stair, and pass the door beyond which my mother lay dead, and enter another room first, and go on my knees there.

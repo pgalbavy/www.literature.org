@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-20.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-20.html"
 ---
 
 September 24th. - In the morning I rose, light and cheerful - nay, intensely happy. The hovering cloud cast over me by my aunt's views, and by the fear of not obtaining her consent, was lost in the bright effulgence of my own hopes, and the too delightful consciousness of requited love. It was a splendid morning; and I went out to enjoy it, in a quiet ramble, in company with my own blissful thoughts. The dew was on the grass, and ten thousand gossamers were waving in the breeze; the happy red-breast was pouring out its little soul in song, and my heart overflowed with silent hymns of gratitude and praise to heaven.

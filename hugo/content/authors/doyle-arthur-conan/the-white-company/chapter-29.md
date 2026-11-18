@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - How The Blessed Hour Of Sight Came To The Lady Tiphaine"
 weight: 29
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-29.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-29.html"
 ---
 
 SIR TRISTRAM DE ROCHEFORT, Seneschal of Auvergne and Lord of Villefranche, was a fierce and renowned soldier who had grown gray in the English wars. As lord of the marches and guardian of an exposed country-side, there was little rest for him even in times of so-called peace, and his whole life was spent in raids and outfalls upon the Brabanters, late-comers, flayers free companions, and roving archers who wandered over his province. At times he would come back in triumph, and a dozen corpses swinging from the summit of his keep would warn evil-doers that there was still a law in the land. At others his ventures were not so happy, and he and his troop would spur it over the drawbridge with clatter of hoofs hard at their heels and whistle of arrows about their ears. Hard he was of hand and harder of heart, hated by his foes, and yet not loved by those whom he protected, for twice he had been taken prisoner, and twice his ransom had been wrung by dint of blows and tortures out of the starving peasants and ruined farmers. Wolves or watch-dogs, it was hard to say from which the sheep had most to fear.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-09.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-09.html"
 ---
 
 He came on more slowly, his eyes following her as she vanished, then turning to me with a rather pitiful apprehension—a look like that I remember to have seen (some hundreds of years ago) on the face of a freshman, glancing up from his book to find his doorway ominously filling with sophomores.

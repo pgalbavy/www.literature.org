@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-05.html"
 ---
 
 The flat mountain looked much nearer in the clear light of the morning sun, but Dorothy and Ozma knew there was a long tramp before them, even yet. They finished dressing only to find a warm, delicious breakfast awaiting them, and having eaten they left the tent and started toward the mountain which was their first goal. After going a little way Dorothy looked back and found that the fairy tent had entirely disappeared. She was not surprised, for she knew this would happen.

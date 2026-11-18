@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Traced"
 weight: 25
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-23.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-23.html"
 ---
 
 THE chaise rattled our through the gates. The dogs barked furiously. Sir Patrick looked round, and waved his hand as he turned the corner of the road. Blanche was left alone in the yard.

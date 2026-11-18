@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - M. Mifroid Parts From Theophrastus"
 weight: 28
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-27.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-27.html"
 ---
 
 "With a simultaneous cry of pleasure we quickened our steps, and presently we found ourselves between most interesting geometrical and ornamental figures composed entirely of bones.

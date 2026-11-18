@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - A Conference"
 weight: 25
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-25.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-25.html"
 ---
 
 When Malcourt arrived at Luckless Lake Sunday evening he found Portlaw hunched up in an arm-chair, all alone in the living-room, although the hour was still early.

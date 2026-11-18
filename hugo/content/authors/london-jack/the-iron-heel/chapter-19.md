@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Transformation"
 weight: 20
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-19.html"
+url: "/authors/london-jack/the-iron-heel/chapter-19.html"
 ---
 
 "You must make yourself over again," Ernest wrote to me. "You must cease to be. You must become another woman--and not merely in the clothes you wear, but inside your skin under the clothes. You must make yourself over again so that even I would not know you--your voice, your gestures, your mannerisms, your carriage, your walk, everything."

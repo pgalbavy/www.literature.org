@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - And The Last"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-25.html"
 ---
 
 Enough has been said in the preceding pages to show that Elkanah Sisum was a man of excellent birth and superior culture. He possessed moderate wealth, and when admitted to the bar his prospects could not have been brighter, but misfortune seemed to have marked him for its own. It delivered the first crushing blow by taking away the beloved wife of his young manhood, and leaving him an only child,—Ruth, who was as the apple of his eye. At eighteen she married a worthy young man who was admitted as a partner in the law firm and displayed brilliant ability. Unto the couple was born also a single daughter, named for its mother.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-08.html"
+url: "/authors/hughes-thomas/the-scouring-of-the-white-horse/chapter-08.html"
 ---
 
 Miss Lucy couldn’t be spared to go up to the hill on the second day of the pastime, for there was some great operation going on in the cheese room, which she had to overlook. So Mr. Warton drove me up in the four-wheel. I was very anxious to find out, if I could, whether there was any thing more between him and Miss Lucy than friendship, but it wasn’t at all an easy matter. First I began speaking of the young gentleman who had taken my place in the four-wheel; for I thought that would be a touchstone, and that if he were like me he would be glad to get a chance of abusing this Jack. But he only called him a forward boy, and said he was a cousin of the Hursts, who lived in the next parish. Then I spoke of Miss Lucy herself, and he was quite ready to talk about her as much as I liked, and seemed never tired of praising her. She was a thoroughly good specimen of an English yeoman’s daughter; perfectly natural, and therefore perfectly well bred; not above making good puddings and preserves, and proud of the name her brother’s cheeses had won in the market, yet not negligent of other matters, such as the schools, and her garden; never going into follies of dress in imitation of weak women who ought to set better examples, yet having a proper appreciation of her own good looks, and a thorough knowledge of the colours and shapes which suited her best; not particularly clever or well read, but with an open mind and a sound judgment—and so he went on; and the longer he went on the more I was puzzled, and my belief is, that on this subject the Parson got much more out of me than I out of him, on that morning’s drive.

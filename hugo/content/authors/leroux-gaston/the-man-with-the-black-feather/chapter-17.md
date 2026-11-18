@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Theophrastus Begins To Take An Interest In Things"
 weight: 18
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-17.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-17.html"
 ---
 
 The unlucky Theophrastus was more than six weeks recovering from his Astral operation. M. Lecamus describes his illness in a somewhat long-winded fashion. Little by little he began to recover the use of his legs; but it seemed unlikely that his hearing would ever quite recover from the boiling water which had deafened Cartouche two hundred years before; at intervals he was for a few moments stone deaf. During all this time he made no allusion to the Past; I do not speak of that wretched past, bounded in the minds of all of us by the few years which have elapsed since our last terrestrial birth; he made no allusion to *his eighteenth-century past*. This fact assured Marceline, M. Lecamus, and M. Eliphas de Saint-Elme de Taillebourg de la Nox, who was a frequent visitor at the sick-bed, that Cartouche was indeed dead; and M. de la Nox was often heard to thank Æon, Source of Æons, for this happy event.

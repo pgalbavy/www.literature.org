@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - The Prison Register"
 weight: 28
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-28.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-28.html"
 ---
 
 The day after that in which the scene we have just described had taken place on the road between Bellegarde and Beaucaire, a man of about thirty or two and thirty, dressed in a bright blue frock coat, nankeen trousers, and a white waistcoat, having the appearance and accent of an Englishman, presented himself before the mayor of Marseilles. "Sir," said he, "I am chief clerk of the house of Thomson & French, of Rome. We are, and have been these ten years, connected with the house of Morrel & Son, of Marseilles. We have a hundred thousand francs or thereabouts loaned on their securities, and we are a little uneasy at reports that have reached us that the firm is on the brink of ruin. I have come, therefore, express from Rome, to ask you for information."

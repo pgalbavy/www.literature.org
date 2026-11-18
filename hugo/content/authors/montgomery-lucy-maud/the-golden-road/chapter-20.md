@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Extracts From Our Magazine"
 weight: 21
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-20.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-20.html"
 ---
 
 EDITORIAL

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-29.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-29.html"
 ---
 
 Before the house-maid had lit their fire the next day, or the sun gained any power over a cold, gloomy morning in January, Marianne, only half dressed, was kneeling against one of the window-seats for the sake of all the little light she could command from it, and writing as fast as a continual flow of tears would permit her. In this situation, Elinor, roused from sleep by her agitation and sobs, first perceived her; and after observing her for a few moments with silent anxiety, said, in a tone of the most considerate gentleness,

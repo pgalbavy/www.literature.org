@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Concerning Liberality And Meanness"
 weight: 17
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-16.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-16.html"
 ---
 
 Commencing then with the first of the above-named characteristics, I say that it would be well to be reputed liberal. Nevertheless, liberality exercised in a way that does not bring you the reputation for it, injures you; for if one exercises it honestly and as it should be exercised, it may not become known, and you will not avoid the reproach of its opposite. Therefore, any one wishing to maintain among men the name of liberal is obliged to avoid no attribute of magnificence; so that a prince thus inclined will consume in such acts all his property, and will be compelled in the end, if he wish to maintain the name of liberal, to unduly weigh down his people, and tax them, and do everything he can to get money. This will soon make him odious to his subjects, and becoming poor he will be little valued by any one; thus, with his liberality, having offended many and rewarded few, he is affected by the very first trouble and imperilled by whatever may be the first danger; recognizing this himself, and wishing to draw back from it, he runs at once into the reproach of being miserly.

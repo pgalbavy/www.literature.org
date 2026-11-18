@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - London"
 weight: 6
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-06.html"
+url: "/authors/bronte-charlotte/villette/chapter-06.html"
 ---
 
 The next day was the first of March, and when I awoke, rose, and opened my curtain, I saw the risen sun struggling through fog. Above my head, above the house-tops, co-elevate almost with the clouds, I saw a solemn, orbed mass, dark blue and dim - THE DOME. While I looked, my inner self moved; my spirit shook its always-fettered wings half loose; I had a sudden feeling as if I, who never yet truly lived, were at last about to taste life. In that morning my soul grew as fast as Jonah's gourd.

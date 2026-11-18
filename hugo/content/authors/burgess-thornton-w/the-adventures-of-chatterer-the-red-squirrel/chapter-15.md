@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Farmer Brown's Boy Tries To Make Friends"
 weight: 15
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-15.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-15.html"
 ---
 
 Nobody lives who's wholly bad;  

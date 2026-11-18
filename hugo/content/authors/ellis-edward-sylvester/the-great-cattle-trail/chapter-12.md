@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - On The Roof"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-12.html"
 ---
 
 Captain Dohm Shirril was never more in earnest than when he declared that the Comanches meant to renew their attempt to fire his cabin.

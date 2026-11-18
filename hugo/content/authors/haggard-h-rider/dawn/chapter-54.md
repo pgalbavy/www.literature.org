@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54"
 weight: 55
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-54.html"
+url: "/authors/haggard-h-rider/dawn/chapter-54.html"
 ---
 
 The arrangement for the morrow was that Angela and her father were to take a fly to Roxham, where the registry office was, and whither George was also to be conveyed in a close carriage; that the ceremony was then to be gone through, after which the parties were to separate and return to their respective homes. Mr. Fraser had been asked to attend, but had excused himself from doing so.

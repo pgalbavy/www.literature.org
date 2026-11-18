@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Warning The Rooster"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-07.html"
 ---
 
 "Good Afternoon!" Henrietta Hen greeted the Rooster. He had not seen her as she walked towards him. And when she spoke he hastily arranged his two long tail-feathers in what he considered a more becoming droop.

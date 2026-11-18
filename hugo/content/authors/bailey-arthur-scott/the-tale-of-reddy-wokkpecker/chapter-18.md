@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Big Appetite"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-18.html"
 ---
 
 "Come, now!" cried Cuffy Bear to Reddy Woodpecker. "We’ve only begun our hunt. Hurry and find another old, grubby stump!"

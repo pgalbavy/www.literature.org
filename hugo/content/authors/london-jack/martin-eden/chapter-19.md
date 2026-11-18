@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-19.html"
+url: "/authors/london-jack/martin-eden/chapter-19.html"
 ---
 
 Ruth and her family were home again, and Martin, returned to Oakland, saw much of her. Having gained her degree, she was doing no more studying; and he, having worked all vitality out of his mind and body, was doing no writing. This gave them time for each other that they had never had before, and their intimacy ripened fast.

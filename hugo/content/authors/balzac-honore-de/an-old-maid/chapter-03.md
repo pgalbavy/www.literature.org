@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Athanase"
 weight: 3
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/chapter-03.html"
+url: "/authors/balzac-honore-de/an-old-maid/chapter-03.html"
 ---
 
 Madame Granson, widow of a lieutenant-colonel of artillery killed at Jena, possessed, as her whole means of livelihood, a meagre pension of nine hundred francs a year, and three hundred francs from property of her own, plus a son whose support and education had eaten up all her savings. She occupied, in the rue du Bercail, one of those melancholy ground-floor apartments which a traveller passing along the principal street of a little provincial town can look through at a glance. The street door opened at the top of three steep steps; a passage led to an interior courtyard, at the end of which was the staircase covered by a wooden gallery. On one side of the passage was the dining-room and the kitchen; on the other side, a salon put to many uses, and the widow's bedchamber.

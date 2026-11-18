@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - How Mr. Hoopdriver Reached Midhurst"
 weight: 14
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-14.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-14.html"
 ---
 
 It was one of my uncle's profoundest remarks that human beings are the only unreasonable creatures. This observation was so far justified by Mr. Hoopdriver that, after spending the morning tortuously avoiding the other man in brown and the Young Lady in Grey, he spent a considerable part of the afternoon in thinking about the Young Lady in Grey, and contemplating in an optimistic spirit the possibilities of seeing her again. Memory and imagination played round her, so that his course was largely determined by the windings of the road he traversed. Of one general proposition he was absolutely convinced. "There's something Juicy wrong with 'em," said he--once even aloud. But what it was he could not imagine. He recapitulated the facts. "Miss Beaumont --brother and sister--and the stoppage to quarrel and weep--it was perplexing material for a young man of small experience. There was no exertion he hated so much as inference, and after a time he gave up any attempt to get at the realities of the case, and let his imagination go free. Should he ever see her again? Suppose he did--with that other chap not about. The vision he found pleasantest was an encounter with her, an unexpected encounter at the annual Dancing Class 'Do' at the Putney Assembly Rooms. Somehow they would drift together, and he would dance with her again and again. It was a pleasant vision, for you must understand that Mr. Hoopdriver danced uncommonly well. Or again, in the shop, a sudden radiance in the doorway, and she is bowed towards the Manchester counter. And then to lean over that counter and murmur, seemingly apropos of the goods under discussion, "I have not forgotten that morning on the Portsmouth road," and lower, "I never shall forget."

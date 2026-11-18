@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-27.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-27.html"
 ---
 
 *THE* next day, at lunch, she asked her father what it meant, though she did not mention Dan; and she brought out a crackling chuckle from that old bit of hickory, now brittle and almost sapless, but still serviceable.

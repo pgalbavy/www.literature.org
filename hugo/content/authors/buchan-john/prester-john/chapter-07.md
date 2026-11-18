@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Captain Arcoll Tells A Tale"
 weight: 8
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-07.html"
+url: "/authors/buchan-john/prester-john/chapter-07.html"
 ---
 
 It froze in the night, harder than was common on the Berg even in winter, and as I crossed the road next morning it was covered with rime. All my fears had gone, and my mind was strung high with expectation. Five pencilled words may seem a small thing to build hope on, but it was enough for me, and I went about my work in the store with a reasonably light heart. One of the first things I did was to take stock of our armoury. There were five sporting Mausers of a cheap make, one Mauser pistol, a Lee-Speed carbine, and a little nickel-plated revolver. There was also Japp's shot-gun, an old hammered breech-loader, as well as the gun I had brought out with me. There was a good supply of cartridges, including a stock for a .400 express which could not be found. I pocketed the revolver, and searched till I discovered a good sheath-knife. If fighting was in prospect I might as well look to my arms.

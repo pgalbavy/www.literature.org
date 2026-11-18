@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Ranch"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-25.html"
 ---
 
 *EPH BOZEMAN* was so familiar with the Pecos River, from its source in the Rocky Mountains to its junction with the Rio Grande, that he conducted his friends to a fording place, where it was crossed without any of them wetting their feet. Riding up the opposite bank, they started across the comparatively level country, and by the middle of the afternoon struck a piece of grazing ground, which the hunters told him belonged to the ranch that the banker, Mr. Lord, had sent Strubell and Lattin to inspect.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-33.html"
+url: "/authors/eliot-george/middlemarch/chapter-33.html"
 ---
 
 "Close up his eyes and draw the curtain close; And let us all to meditation." - 2 Henry VI.

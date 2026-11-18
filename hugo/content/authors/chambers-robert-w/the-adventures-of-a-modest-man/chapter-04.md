@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Wherein A Modest Man Is Bullied And A Literary Man Practices Style"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-04.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-04.html"
 ---
 
 "What was your first impression of Paris, Mr. Van Twiller?" inquired the young man from East Boston, as I was lighting my cigar in the corridor of the Hôtel des Michetons after breakfast.

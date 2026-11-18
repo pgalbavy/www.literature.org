@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Rouletabille Goes On A Journey"
 weight: 25
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-25.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-25.html"
 ---
 
 That same evening Rouletabille and I left the Glandier. We were very glad to get away and there was nothing more to keep us there. I declared my intention to give up the whole matter. It had been too much for me. Rouletabille, with a friendly tap on my shoulder, confessed that he had nothing more to learn at the Glandier; he had learned there all it had to tell him. We reached Paris about eight o’clock, dined, and then, tired out, we separated, agreeing to meet the next morning at my rooms.

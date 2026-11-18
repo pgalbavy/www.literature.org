@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-10.html"
+url: "/authors/eliot-george/middlemarch/chapter-10.html"
 ---
 
 "He had catched a great cold, had he had no other clothes to wear than the skin of a bear not yet killed." - FULLER.

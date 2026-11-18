@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2 - The Southland"
 weight: 22
-aliases:
-  - "/authors/london-jack/white-fang/part-05-chapter-02.html"
+url: "/authors/london-jack/white-fang/part-05-chapter-02.html"
 ---
 
 White Fang landed from the steamer in San Francisco. He was appalled. Deep in him, below any reasoning process or act of consciousness, he had associated power with godhead. And never had the white men seemed such marvellous gods as now, when he trod the slimy pavement of San Francisco. The log cabins he had known were replaced by towering buildings. The streets were crowded with perils - waggons, carts, automobiles; great, straining horses pulling huge trucks; and monstrous cable and electric ears hooting and clanging through the midst, screeching their insistent menace after the manner of the lynxes he had known in the northern woods.

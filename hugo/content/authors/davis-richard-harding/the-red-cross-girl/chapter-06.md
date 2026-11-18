@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Mind Reader"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-06.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-06.html"
 ---
 
 When Philip Endicott was at Harvard, he wrote stories of undergraduate life suggested by things that had happened to himself and to men he knew. Under the title of “Tales of the Yard” they were collected in book form, and sold surprisingly well. After he was graduated and became a reporter on the New York Republic, he wrote more stories, in each of which a reporter was the hero, and in which his failure or success in gathering news supplied the plot. These appeared first in the magazines, and later in a book under the title of “Tales of the Streets.” They also were well received.

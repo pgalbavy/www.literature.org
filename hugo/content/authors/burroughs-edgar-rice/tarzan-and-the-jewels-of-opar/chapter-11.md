@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-11.html"
 ---
 
 For a moment Werper had stood above the sleeping ape-man, his murderous knife poised for the fatal thrust; but fear stayed his hand. What if the first blow should fail to drive the point to his victim's heart? Werper shuddered in contemplation of the disastrous consequences to himself. Awakened, and even with a few moments of life remaining, the giant could literally tear his assailant to pieces should he choose, and the Belgian had no doubt but that Tarzan would so choose.

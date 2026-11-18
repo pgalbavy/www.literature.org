@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Dusk"
 weight: 38
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-038.html"
+url: "/authors/melville-herman/moby-dick/chapter-038.html"
 ---
 
 By the Mainmast; Starbuck leaning against it.

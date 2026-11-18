@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Meg Goes To Vanity Fair"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-09.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-09.html"
 ---
 
 "I do think it was the most fortunate thing in the world that those children should have the measles just now," said Meg, one April day, as she stood packing the 'go abroady' trunk in her room, surrounded by her sisters.

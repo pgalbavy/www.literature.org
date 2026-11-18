@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-13.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-13.html"
 ---
 
 During the next half-hour, Hamel was introduced to luxuries to which, in a general way, he was entirely unaccustomed. One man-servant was busy preparing his bath in a room leading out of his sleeping apartment, while another brought him a choice of evening clothes and superintended his disrobing. Hamel, always observant, studied his surroundings with keen interest. He found himself in a queerly mixed atmosphere of luxurious modernity and stately antiquity. His four-poster, the huge couch at the foot of his bed, and all the furniture about the room, was of the Queen Anne period. The bathroom which communicated with his apartment was the latest triumph of the plumber's art - a room with floor and walls of white tiles, the bath itself a little sunken and twice the ordinary size. He dispensed so far as he could with the services of the men and descended, as soon as he was dressed, into the hall. Meekins was waiting at the bottom of the stairs, dressed now in somber black.

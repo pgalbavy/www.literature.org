@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Fate Of The Flat-Boat"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-02.html"
 ---
 
 AS was predicted, the storm soon cleared away, and the morning dawned bright and beautiful. Birds were singing and flitting from limb to limb, the water sparkled upon the grass and twigs, and by the time it was fairly light, the whole village was astir.

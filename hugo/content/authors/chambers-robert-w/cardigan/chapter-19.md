@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-19.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-19.html"
 ---
 
 Day after day I lay in my bed, staring at the ceiling till night blotted it out. Then, stunned and exhausted, I would lie in the dark, crying in my weakness, whimpering for those I loved who had left me here alone. There was no strength left in me, body or mind; and, perhaps for that reason, my suffering was too feeble to waste what was left of me, for I had not even the strength of the fretful who do damage themselves with every grimace.

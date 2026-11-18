@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Jed Philosophizes"
 weight: 5
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-05.html"
+url: "/authors/titus-harold/i-conquered/chapter-05.html"
 ---
 
 Morning: a flickering in the east that gives again to the black hold of night. Another attempt, a longer glimmer. It recedes, returns stronger; struggles, bursts from the pall of darkness, and blots out the stars before it. And after that first silver white come soft colors--shoots of violet, a wave of pink, then the golden glory of a new day.

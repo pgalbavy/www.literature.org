@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Dog And A Cat"
 weight: 6
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-06.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-06.html"
 ---
 
 "Oh, Tabitha, Tabitha, come over to my house and see what papa has brought me!"

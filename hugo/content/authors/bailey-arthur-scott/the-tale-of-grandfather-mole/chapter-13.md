@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Turning Over A New Leaf"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-13.html"
 ---
 
 SEVERAL days passed before Mr. Blackbird returned to Farmer Green's garden. And when at last he flew across the meadow one morning and perched on the garden fence, to take a look around before beginning his breakfast, he saw that Mrs. Jolly Robin was making countless trips between the garden and her home. Early as it was she was hard at work feeding her nestlings.

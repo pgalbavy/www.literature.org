@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Chatterer Grows Too Curious"
 weight: 9
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-09.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-chatterer-the-red-squirrel/chapter-09.html"
 ---
 
 Everybody knows how curious Peter Rabbit is. He is forever poking his wobbly little nose in where it has no business to be, and as a result Peter is forever getting into trouble. Whenever Chatterer the Red Squirrel has heard a new story about Peter and the scrapes his curiosity has got him into, Chatterer has said that Peter got no more than he deserved. As for himself, he might be curious about a thing he saw for the first time, but he had too much sense to meddle with it until he knew all about it. So Chatterer has come to be thought very smart, quite too smart to be caught in a trap—at least to be caught in an ordinary trap.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-27.html"
+url: "/authors/eliot-george/middlemarch/chapter-27.html"
 ---
 
 Let the high Muse chant loves Olympian: We are but mortals, and must sing of man.

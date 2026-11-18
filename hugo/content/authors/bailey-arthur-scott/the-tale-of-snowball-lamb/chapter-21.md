@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Ducking"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-21.html"
 ---
 
 As he stood there on the great flat rock over the swimming hole Red never guessed that Snowball was behind him. But the swimmers soon noticed Snowball. And they all began to call to Red. They didn't care what they said, so long as they could keep Red so busy answering them that he wouldn't turn around and discover Snowball. They splashed about, and hooted, and on the whole made such an uproar that Red couldn't have heard the Muley Cow had she walked up behind him.

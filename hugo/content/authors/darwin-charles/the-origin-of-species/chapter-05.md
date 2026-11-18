@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Laws of Variation"
 weight: 7
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-05.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-05.html"
 ---
 
 arrow_rightEffects of external conditions arrow_rightUse and disuse, combined with natural selection; organs of flight and of vision arrow_rightAcclimatisation arrow_rightCorrelation of growth arrow_rightCompensation and economy of growth arrow_rightFalse correlations arrow_rightMultiple, rudimentary, and lowly organised structures variable arrow_rightParts developed in an unusual manner are highly variable: specific character more variable than generic: secondary sexual characters variable arrow_rightSpecies of the same genus vary in an analogous manner arrow_rightReversions to long-lost characters arrow_rightSummary ---

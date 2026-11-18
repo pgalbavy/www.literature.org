@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Return"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-30.html"
 ---
 
 At the close of a long, warm afternoon Betty Vanderpoel came out upon the square stone terrace overlooking the gardens, and that part of the park which, enclosing them, caused them, as they melted into its greenness, to lose all limitations and appear to be only a more blooming bit of the landscape.

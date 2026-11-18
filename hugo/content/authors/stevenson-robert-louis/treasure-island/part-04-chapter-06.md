@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6 - The Attack"
 weight: 22
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-06.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-06.html"
 ---
 
 AS soon as Silver disappeared, the captain, who had been closely watching him, turned towards the interior of the house and found not a man of us at his post but Gray. It was the first time we had ever seen him angry.

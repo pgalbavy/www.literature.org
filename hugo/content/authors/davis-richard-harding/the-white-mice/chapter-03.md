@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-03.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-03.html"
 ---
 
 Roddy stood staring blankly, unconsciously sucking at a raw spot on his finger where the powder had burned it. At his feet the bottle of curaçao, from which he had just been drinking, was rolling upon the gravel path, its life-blood bubbling out upon the pebbles. He stooped and lifted it. Later he remembered wondering how it had come there, and, at the time, that so much good liquor had been wasted had seemed a most irritating circumstance.

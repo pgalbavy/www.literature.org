@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-10.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-10.html"
 ---
 
 IT is the ingenious habit of Kentish railways directly that hop-picking is over and pay-day is done, to advertise excursions to London at a fare so cheap that not to take advantage of it were to discourage Providence in its attempts to make the world pleasant. Country folk, who make but one visit a year to town, seize this September opportunity; some avail themselves not only of this but of the Cattle Show trip later on; a few also take the pantomime excursion in February, and these are counted in quiet villages as being, by frequent contact with town, blades of the finest temper, to whom (if they would but be candid) no mysteries of the great town are unknown. Erb’s Aunt Emma, giving herself reward for a month’s hard work in the hop-garden, came up every year by the September excursion. It happened on this occasion that the day could not have made a more awkward attempt to fit in with Erb’s convenience.

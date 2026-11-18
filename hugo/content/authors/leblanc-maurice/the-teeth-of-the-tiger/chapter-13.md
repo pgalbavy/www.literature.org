@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Explosion"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-13.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-13.html"
 ---
 
 The fourth mysterious letter! The fourth of those letters "posted by the devil and delivered by the devil," as one of the newspapers expressed it!

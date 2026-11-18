@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Sunday"
 weight: 4
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-03.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-03.html"
 ---
 
 The moment the bell rang next morning Nat flew out of bed, and dressed himself with great satisfaction in the suit of clothes he found on the chair. They were not new, being half-worn garments of one of the well-to-do boys; but Mrs. Bhaer kept all such cast-off feathers for the picked robins who strayed into her nest. They were hardly on when Tommy appeared in a high state of clean collar, and escorted Nat down to breakfast.

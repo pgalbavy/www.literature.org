@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Eyes Of Youth"
 weight: 5
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-04.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-04.html"
 ---
 
 On the morning of Shrove Tuesday, in the year of our Lord 1249, Sir Aimery of Beaumanoir, the envoy of the most Christian king, Louis of France, arrived in the port of Acre, having made the voyage from Cyprus with a fair wind in a day and a night in a ship of Genoa flying the red and gold banner of the Temple. Weary of the palms and sun-baked streets of Limasol and the eternal wrangling of the Crusading hosts, he looked with favour at the noble Palestine harbour, and the gilt steeples and carven houses of the fair city. From the quay he rode to the palace of the Templars and was admitted straightway to an audience with the Grand Master. For he had come in a business of some moment.

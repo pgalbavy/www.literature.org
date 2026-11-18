@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 70 - Which Follows Sixty-Nine And Deals With Matters Indispensable For The Clear Comprehension Of This History"
 weight: 126
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-70.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-70.html"
 ---
 
 Sancho slept that night in a cot in the same chamber with Don Quixote, a thing he would have gladly excused if he could for he knew very well that with questions and answers his master would not let him sleep, and he was in no humour for talking much, as he still felt the pain of his late martyrdom, which interfered with his freedom of speech; and it would have been more to his taste to sleep in a hovel alone, than in that luxurious chamber in company. And so well founded did his apprehension prove, and so correct was his anticipation, that scarcely had his master got into bed when he said, "What dost thou think of to-night’s adventure, Sancho? Great and mighty is the power of cold-hearted scorn, for thou with thine own eyes hast seen Altisidora slain, not by arrows, nor by the sword, nor by any warlike weapon, nor by deadly poisons, but by the thought of the sternness and scorn with which I have always treated her."

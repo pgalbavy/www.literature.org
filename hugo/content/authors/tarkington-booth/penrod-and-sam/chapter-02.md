@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Bonded Prisoner"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-02.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-02.html"
 ---
 
 After such rigorous events, every one comprehended that the game of bonded prisoner was over, and there was no suggestion that it should or might be resumed. The fashion of its conclusion had been so consummately enjoyed by all parties (with the natural exception of Roddy Bitts) that a renewal would have been tame; hence, the various minds of the company turned to other matters and became restless. Georgie Bassett withdrew first, remembering that if he expected to be as wonderful as usual, to-morrow, in Sunday-school, it was time to prepare himself, though this was not included in the statement he made alleging the cause of his departure. Being detained bodily and pressed for explanation, he desperately said that he had to go home to tease the cook—which had the rakehelly air he thought would insure his release, but was not considered plausible. However, he was finally allowed to go, and, as first hints of evening were already cooling and darkening the air, the party broke up, its members setting forth, whistling, toward their several homes, though Penrod lingered with Sam. Herman was the last to go from them.

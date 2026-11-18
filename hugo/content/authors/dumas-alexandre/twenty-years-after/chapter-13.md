@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Two Angelic Faces"
 weight: 13
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-13.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-13.html"
 ---
 
 The road was long, but the horses upon which D'Artagnan and Planchet rode had been refreshed in the well supplied stables of the Lord of Bracieux; the master and servant rode side by side, conversing as they went, for D'Artagnan had by degrees thrown off the master and Planchet had entirely ceased to assume the manners of a servant. He had been raised by circumstances to the rank of a confidant to his master. It was many years since D'Artagnan had opened his heart to any one; it happened, however, that these two men, on meeting again, assimilated perfectly. Planchet was in truth no vulgar companion in these new adventures; he was a man of uncommonly sound sense. Without courting danger he never shrank from an encounter; in short, he had been a soldier and arms ennoble a man; it was, therefore, on the footing of friends that D'Artagnan and Planchet arrived in the neighborhood of Blois.

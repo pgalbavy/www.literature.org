@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-06.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-06.html"
 ---
 
 No doubt the most absurd thing I could have done after the departure of Professor Keredec and his singular friend would have been to settle myself before my canvas again with the intention of painting—and that is what I did. At least, I resumed my camp-stool and went through some of the motions habitually connected with the act of painting.

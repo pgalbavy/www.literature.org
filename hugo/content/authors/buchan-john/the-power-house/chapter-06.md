@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Restaurant In Antioch Street"
 weight: 7
-aliases:
-  - "/authors/buchan-john/the-power-house/chapter-06.html"
+url: "/authors/buchan-john/the-power-house/chapter-06.html"
 ---
 
 I was working late at the Temple next day, and it was nearly seven before I got up to go home. Macgillivray had telephoned to me in the afternoon saying he wanted to see me, and suggesting dinner at the Club, and I had told him I should come straight there from my Chambers. But just after six he had rung me up again and proposed another meeting place.

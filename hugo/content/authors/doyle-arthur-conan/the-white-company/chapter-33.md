@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - How The Army Made The Passage Of Roncesvalles"
 weight: 33
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-33.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-33.html"
 ---
 
 THE whole vast plain of Gascony and of Languedoc is an arid and profitless expanse in winter save where the swift-flowing Adour and her snow-fed tributaries, the Louts, the Oloron and the Pau, run down to the sea of Biscay. South of the Adour the jagged line of mountains which fringe the sky-line send out long granite claws, running down into the lowlands and dividing them into "gaves" or stretches of valley. Hillocks grow into hills, and hills into mountains, each range overlying its neighbor, until they soar up in the giant chain which raises its spotless and untrodden peaks, white and dazzling, against the pale blue wintry sky.

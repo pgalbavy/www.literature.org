@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9 - Captain Sand"
 weight: 9
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-09.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-09.html"
 ---
 
 The first impression felt by the passengers of the "Pilgrim" in presence of this terrible catastrophe was a combination of pity and horror. They only thought of this frightful death of Captain Hull and the five sailors. This fearful scene had just taken place almost under their eyes, while they could do nothing to save the poor men. They had not even been able to arrive in time to pick up the whale-boat's crew, their unfortunate companions, wounded, but still living, and to oppose the "Pilgrim's" hull to the jubarte's formidable blows. Captain Hull and his men had forever disappeared.

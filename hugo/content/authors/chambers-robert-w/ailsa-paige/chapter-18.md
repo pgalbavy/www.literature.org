@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-18.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-18.html"
 ---
 
 It was still dark when he awoke with a violent start, dreaming of loud trumpets, and found himself sitting upright on his cot, staring into obscurity.

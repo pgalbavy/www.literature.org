@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Return To England"
 weight: 19
-aliases:
-  - "/authors/defoe-daniel/robinson-crusoe/chapter-19.html"
+url: "/authors/defoe-daniel/robinson-crusoe/chapter-19.html"
 ---
 
 HAVING done all this I left them the next day, and went on board the ship. We prepared immediately to sail, but did not weigh that night. The next morning early, two of the five men came swimming to the ship's side, and making the most lamentable complaint of the other three, begged to be taken into the ship for God's sake, for they should be murdered, and begged the captain to take them on board, though he hanged them immediately. Upon this the captain pretended to have no power without me; but after some difficulty, and after their solemn promises of amendment, they were taken on board, and were, some time after, soundly whipped and pickled; after which they proved very honest and quiet fellows.

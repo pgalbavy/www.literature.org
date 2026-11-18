@@ -1,8 +1,7 @@
 ---
 title: "Chapter 87 - The Grand Armada"
 weight: 87
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-087.html"
+url: "/authors/melville-herman/moby-dick/chapter-087.html"
 ---
 
 The long and narrow peninsula of Malacca, extending south-eastward from the territories of Birmah, forms the most southerly point of all Asia. In a continuous line from that peninsula stretch the long islands of Sumatra, Java, Bally, and Timor; which, with many others, form a vast mole, or rampart, lengthwise connecting Asia with Australia, and dividing the long unbroken Indian ocean from the thickly studded oriental archipelagoes. This rampart is pierced by several sally-ports for the convenience of ships and whales; conspicuous among which are the straits of Sunda and Malacca. By the straits of Sunda, chiefly, vessels bound to China from the west, emerge into the China seas.

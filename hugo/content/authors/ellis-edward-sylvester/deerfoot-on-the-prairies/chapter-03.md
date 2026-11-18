@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Thieves Of The Night"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-03.html"
 ---
 
 *DEERFOOT* could be a stern master when necessary. While it would have been no hardship for him and Mul-tal-la to divide the duties of sentinel each night, he meant that the boys should bear their part. They were big and strong enough to do so, and there was no reason why they should not. He informed them that George was to watch the camp for the first half of the night, or rather for an hour beyond the turn, when he was to awake Victor, who would take his place until daylight. This was to be the rule throughout the expedition, except when some exigency demanded the services of the elders.

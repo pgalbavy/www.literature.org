@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/chapter-03.html"
 ---
 
 BARTY'S eyes grew round and big with excitement. A wonderful procession was entering the hall. First came a band of tiny jet black monkeys playing on golden trumpet's--the Drum Major walking backward before them and twirling his staff; then came two black and two white rabbits, and they were carrying a throne on which sat two old, old, old, white rabbits. They were so old that their hair had grown long enough to hang down below their feet, and their eyes were large and strange and had an ancient, solemn look in them, as if they had been gazing at the rabbit world for thousands of years. Barty thought their large, strange eyes looked nice, and he said so to the Good Wolf.

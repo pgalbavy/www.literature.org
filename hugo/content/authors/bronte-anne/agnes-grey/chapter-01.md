@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Parsonage"
 weight: 1
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-01.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-01.html"
 ---
 
 ALL true histories contain instruction; though, in some, the treasure may be hard to find, and when found, so trivial in quantity, that the dry, shrivelled kernel scarcely compensates for the trouble of cracking the nut. Whether this be the case with my history or not, I am hardly competent to judge. I sometimes think it might prove useful to some, and entertaining to others; but the world may judge for itself. Shielded by my own obscurity, and by the lapse of years, and a few fictitious names, I do not fear to venture; and will candidly lay before the public what I would not disclose to the most intimate friend.

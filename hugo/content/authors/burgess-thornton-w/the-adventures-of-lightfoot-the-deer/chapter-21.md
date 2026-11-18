@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How Lightfoot Got Rid Of The Hounds"
 weight: 21
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-21.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-21.html"
 ---
 
 Poor Lightfoot! It seemed to him that there were no such things as justice and fair play. Had it been just one hunter at a time against whom he had to match his wits it would not have been so bad. But there were many hunters with terrible guns looking for him, and in dodging one he was likely at any time to meet another. This in itself seemed terribly unfair and unjust. But now, added to this was the greater unfairness of being trailed by hounds.

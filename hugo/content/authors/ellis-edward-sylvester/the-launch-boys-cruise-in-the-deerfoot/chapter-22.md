@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Found"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-22.html"
 ---
 
 You will remember that Alvin Landon and Chester Haynes landed at Sawyer Island and made their way to the lower end of Barter Island, where they failed to find the stolen launch. The point which had caught the attention of Mike Murphy was several miles distant, on the other side of Sheepscot Bay and half as far from the landing at Isle of Springs.

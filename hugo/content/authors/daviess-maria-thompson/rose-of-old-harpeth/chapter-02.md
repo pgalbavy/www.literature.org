@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Folks-Garden"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-02.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-02.html"
 ---
 
 "Well," said Uncle Tucker meditatively, "I reckon a festibul on a birthday can be taken as a kind of compliment to the Lord and no special glorification to yourself. He instuted your first one Himself, and I see no harm in jest a-marking of the years He sends you. What are Sister Viney's special reasons against the junket?"

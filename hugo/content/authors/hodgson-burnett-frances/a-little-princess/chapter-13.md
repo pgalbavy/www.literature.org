@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - One Of The Populace"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-13.html"
 ---
 
 The winter was a wretched one. There were days on which Sara tramped through snow when she went on her errands; there were worse days when the snow melted and combined itself with mud to form slush; there were others when the fog was so thick that the lamps in the street were lighted all day and London looked as it had looked the afternoon, several years ago, when the cab had driven through the thoroughfares with Sara tucked up on its seat, leaning against her father's shoulder. On such days the windows of the house of the Large Family always looked delightfully cosey and alluring, and the study in which the Indian gentleman sat glowed with warmth and rich color. But the attic was dismal beyond words. There were no longer sunsets or sunrises to look at, and scarcely ever any stars, it seemed to Sara. The clouds hung low over the skylight and were either gray or mud-color, or dropping heavy rain. At four o'clock in the afternoon, even when there was no special fog, the daylight was at an end. If it was necessary to go to her attic for anything, Sara was obliged to light a candle. The women in the kitchen were depressed, and that made them more ill-tempered than ever. Becky was driven like a little slave.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Third Person Singular"
 weight: 1
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-01.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-01.html"
 ---
 
 I MET him when I was in town at a party, where he and I were about the only grownups; he took a good deal of trouble over the youngsters, doing conjuring tricks to amuse them, and singing songs at the pianoforte that made them laugh. Later in the evening, when some of the kids had been fetched, he and I became friendly, and we had a most interesting chat. He agreed with my views regarding the Australian team of the previous summer; he was in full sympathy concerning the difficulty of making one pair of white gloves do for two evenings. I asked for his name and address.

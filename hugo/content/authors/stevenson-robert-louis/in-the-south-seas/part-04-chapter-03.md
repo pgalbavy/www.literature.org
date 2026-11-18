@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3 - The King Of Apemama: The Palace Of Many Women"
 weight: 31
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-03.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-03.html"
 ---
 
 The palace, or rather the ground which it includes, is several acres in extent. A terrace encloses it toward the lagoon; on the side of the land, a palisade with several gates. These are scarce intended for defence; a man, if he were strong, might easily pluck down the palisade; he need not be specially active to leap from the beach upon the terrace. There is no parade of guards, soldiers, or weapons; the armoury is under lock and key; and the only sentinels are certain inconspicuous old women lurking day and night before the gates. By day, these crones were often engaged in boiling syrup or the like household occupation; by night, they lay ambushed in the shadow or crouched along the palisade, filling the office of eunuchs to this harem, sole guards upon a tyrant life.

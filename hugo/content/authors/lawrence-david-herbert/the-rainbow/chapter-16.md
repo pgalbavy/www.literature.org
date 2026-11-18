@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Rainbow"
 weight: 16
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-16.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-16.html"
 ---
 
 Ursula went home to Beldover faint, dim, closed up. She could scarcely speak or notice. It was as if her energy were frozen. Her people asked her what was the matter. She told them she had broken off the engagement with Skrebensky. They looked blank and angry. But she could not feel any more.

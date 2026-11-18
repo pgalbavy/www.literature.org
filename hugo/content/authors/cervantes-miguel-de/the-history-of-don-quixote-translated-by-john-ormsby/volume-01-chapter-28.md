@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 28 - Which Treats Of The Strange And Delightful Adventure That Befell The Curate And The Barber In The Same Sierra"
 weight: 31
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-28.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-28.html"
 ---
 
 Happy and fortunate were the times when that most daring knight Don Quixote of La Mancha was sent into the world; for by reason of his having formed a resolution so honourable as that of seeking to revive and restore to the world the long-lost and almost defunct order of knight-errantry, we now enjoy in this age of ours, so poor in light entertainment, not only the charm of his veracious history, but also of the tales and episodes contained in it which are, in a measure, no less pleasing, ingenious, and truthful, than the history itself; which, resuming its thread, carded, spun, and wound, relates that just as the curate was going to offer consolation to Cardenio, he was interrupted by a voice that fell upon his ear saying in plaintive tones:

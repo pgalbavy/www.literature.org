@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Spirit Circle"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-15.html"
 ---
 
 Never in all their lives were the Shelton brothers prouder of Deerfoot the Shawanoe than when they saw him utterly defeat the finest athletes of the Blackfoot tribe. The youth had done his best, as he was urged to do, and his triumph was too overwhelming for anyone to question it. He had been pitted against the very flower of that powerful people, who at that time numbered between three and four thousand souls. The pick of the runners and marksmen had come from the other villages, and every one was decisively vanquished.

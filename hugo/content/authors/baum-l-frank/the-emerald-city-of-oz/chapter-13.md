@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-13.html"
 ---
 
 When General Guph returned to the cavern of the Nome King his Majesty asked:

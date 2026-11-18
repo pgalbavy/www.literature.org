@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - A Dead Rose"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-26.html"
 ---
 
 Sovereigns and their thrones, statesmen and their intrigues, favourites and their quarrels--of what moment are they to a man whose heart is on fire and whose whole being resolves itself into but one thought of but one creature? My lord Duke went to France as he was commanded; he had been before at Versailles and Fontainebleau and Saint Germain, and there were eyes which brightened at the sight of his tall form, and there were men who while they greeted him with courteous bows and professions of flattering welcome exchanged side glances and asked each other momentous questions in private. He went about his business with discretion and diplomatic skill and found that he had no reason to despair of its accomplishment, but all his thoughts of his errand, though he held his mind steady and could reason clearly on them, seemed to him like the thoughts of a man in a dream who only in his private moments awakened to the reality of existence.

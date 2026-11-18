@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Freddie Firefly's Discovery"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-06.html"
 ---
 
 That secret about Katy, and what she did, was not the only one that Kiddie hid from the field people. He had another--something about himself--that nobody ever suspected, until Freddie Firefly stumbled upon it one night.

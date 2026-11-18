@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - An Awful Awakening"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-10.html"
 ---
 
 I have now reached a point in my life over which I would fain pass in silence. It is an experience so strange, so like some horrid vision of sleep, so different from what usually falls to the lot of man, that, at this remote day, I cannot look upon it without a recoiling shudder of horror. I have sometimes persuaded myself that it was unreal; but no, it is true, and time can never clothe the memory of it in a different dress than that of unearthly terror. Bleak and bare it stands alone, in my checkered lot, and the silver that now glistens prematurely in my hair, came upon that night.

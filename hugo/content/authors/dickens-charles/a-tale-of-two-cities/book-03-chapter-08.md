@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 8 - A Hand at Cards"
 weight: 38
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-08.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-08.html"
 ---
 
 HAPPILY UNCONSCIOUS of the new calamity at home, Miss Pross threaded her way along the narrow streets and crossed the river by the bridge of the Pont-Neuf, reckoning in her mind the number of indispensable purchases she had to make. Mr. Cruncher, with the basket, walked at her side. They both looked to the right and to the left into most of the shops they passed, had a wary eye for an gregarious assemblages of people, and turned out of their road to avoid any very excited group of talkers. It was a raw evening, and the misty river, blurred to the eye with blazing lights and to the ear with harsh noises, showed where the barges were stationed in which the smiths worked, making guns for the Army of the Republic. Woe to the man who played tricks with that Army, or got undeserved promotion in it! Better for him that his beard had never grown, for the National Razor shaved him close.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - A Robber Is Caught"
 weight: 37
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-36.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-36.html"
 ---
 
 *WHEN* Théophraste was brought up to M. Mifroid, he was in a pitiful condition. He had given himself up to the worst debauchery, and was still under the influence of his excesses.

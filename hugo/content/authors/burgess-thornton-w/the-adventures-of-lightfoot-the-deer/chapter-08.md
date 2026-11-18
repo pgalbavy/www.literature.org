@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Wit Against Wit"
 weight: 8
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-08.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-08.html"
 ---
 
 It was a dreadful game the hunter with the terrible gun and Lightfoot the Deer were playing in the Green Forest. It was a matching of wit against wit, the hunter seeking to take Lightfoot's life, and Lightfoot seeking to save it. The experience of other years had taught Lightfoot much of the ways of hunters and not one of the things he had learned about them was forgotten. But the hunter in his turn knew much of the ways of Deer. So it was that each was trying his best to outguess the other.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - We Meet In Dunkirk"
 weight: 30
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-29.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-29.html"
 ---
 
 Altogether, then, I was scare so miserable the next days but what I had many hopeful and happy snatches; threw myself with a good deal of constancy upon my studies; and made out to endure the time till Alan should arrive, or I might hear word of Catriona by the means of James More. I had altogether three letters in the time of our separation. One was to announce their arrival in the town of Dunkirk in France, from which place James shortly after started alone upon a private mission. This was to England and to see Lord Holderness; and it has always been a bitter thought that my good money helped to pay the charges of the same. But he has need of a long spoon who soups with the de’il, or James More either. During this absence, the time was to fall due for another letter; and as the letter was the condition of his stipend, he had been so careful as to prepare it beforehand and leave it with Catriona to be despatched. The fact of our correspondence aroused her suspicions, and he was no sooner gone than she had burst the seal. What I received began accordingly in the writing of James More:

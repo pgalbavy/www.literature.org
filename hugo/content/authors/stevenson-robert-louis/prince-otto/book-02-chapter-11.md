@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11 - Providence Von Rosen: Act The First She Beguiles The Baron"
 weight: 17
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-11.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-11.html"
 ---
 
 At a sufficiently late hour, or to be more exact, at three in the afternoon, Madame von Rosen issued on the world. She swept downstairs and out across the garden, a black mantilla thrown over her head, and the long train of her black velvet dress ruthlessly sweeping in the dirt.

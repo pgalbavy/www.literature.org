@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Anne Says Her Prayers"
 weight: 7
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-07.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-07.html"
 ---
 
 When Marilla took Anne up to bed that night she said stiffly:

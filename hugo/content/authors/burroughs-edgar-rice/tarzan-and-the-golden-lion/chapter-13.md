@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Strange, Flat Tower"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-13.html"
 ---
 
 TARZAN, turning, discovered the man standing behind him on the top level of the ivy-covered east tower of the Palace of Diamonds. His knife leaped from its sheath at the touch of his quick fingers. But almost simultaneously his hand dropped to his side, and he stood contemplating the other, with an expression of incredulity upon his face that but reflected a similar emotion registered upon the countenance of the stranger. For what Tarzan saw was no Bolgani, nor a Gomangani, but a white man, bald and old and shriveled, with a long, white beard—a white man, naked but for barbaric ornaments of gold spangles and diamonds.

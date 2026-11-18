@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Merited Fate"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-30.html"
 ---
 
 The amazement of Ned Clinton was no greater than that of Captain Bagley and the Indians over the sudden death of Worrell. For one moment the comrades of the deceased stood transfixed, staring at the inanimate form stretched on the ground before them. Then the Iroquois gave out their war whoop, and sprang to the cover of the nearest undergrowth. This brought them much nearer the youth than was pleasant. The thought struck him that these warriors would believe the one who fired the fatal shot was near by, and begin a search which must result in revealing Clinton himself. The precautionary action of the redmen served to recall Captain Bagley to his own situation, and he raised his gaze from the prostrate figure, and looked affrightedly around him.

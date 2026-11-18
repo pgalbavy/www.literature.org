@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Instinct"
 weight: 9
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-07.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-07.html"
 ---
 
 arrow_rightInstincts comparable with habits, but different in their origin arrow_rightInstincts graduated arrow_rightAphides and ants arrow_rightInstincts variable arrow_rightDomestic instincts, their origin arrow_rightNatural instincts of the cuckoo, ostrich, and parasitic bees arrow_rightSlave-making ants arrow_rightHive-bee, its cell-making instinct arrow_rightDifficulties on the theory of the Natural Selection of instincts arrow_rightNeuter or sterile insects arrow_rightSummary ---

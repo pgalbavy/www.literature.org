@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Tum Tum's Brave Deed"
 weight: 12
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-12.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-12.html"
 ---
 
 Tum Tum tried to get in front of Sharp Tooth and stop the tiger from getting out of his cage, but the big elephant was not quick enough. Besides, the tiger moved so swiftly, that hardly any one could have stopped him.

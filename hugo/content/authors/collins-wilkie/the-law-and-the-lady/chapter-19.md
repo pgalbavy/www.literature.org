@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Evidence For The Defense"
 weight: 19
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-19.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-19.html"
 ---
 
 THE feeling of interest excited by the Trial was prodigiously increased on the fourth day. The witnesses for the defense were now to be heard, and first and foremost among them appeared the prisoner's mother. She looked at her son as she lifted her veil to take the oath. He burst into tears. At that moment the sympathy felt for the mother was generally extended to the unhappy son.

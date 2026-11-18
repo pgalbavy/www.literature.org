@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Victim Of A Mistake"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-12.html"
 ---
 
 Ethan Durrell may have been verdant-looking and peculiar in his ways, but he was one of the pluckiest of men. It was impossible for him to know whether the scamp who held up the stage had any companions or not, until the matter was proven by taking a risk which, if he went the wrong way, was sure to be fatal. With this uncertainty, and without so much as a single weapon at his command, he leaped upon the unsuspecting ruffian, and, throwing both arms around his neck, bore him to the ground.

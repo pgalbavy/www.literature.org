@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Finding A Way"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-14.html"
 ---
 
 "WHAT can you do?" the other feathered folk asked Buddy Brown-Thrasher, when he complained about Jasper Jay's rudeness in interrupting his singing. "You don't intend to fight Jasper, do you?"

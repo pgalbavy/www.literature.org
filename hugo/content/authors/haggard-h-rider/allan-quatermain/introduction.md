@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/introduction.html"
+url: "/authors/haggard-h-rider/allan-quatermain/introduction.html"
 ---
 
 I inscribe this book of adventure to my son ARTHUR JOHN RIDER HAGGARD in the hope that in days to come he, and many other boys whom I shall never know, may, in the acts and thoughts of Allan Quatermain and his companions, as herein recorded, find something to help him and them to reach to what, with Sir Henry Curtis, I hold to be the highest rank whereto we can attain--the state and dignity of English gentlemen.

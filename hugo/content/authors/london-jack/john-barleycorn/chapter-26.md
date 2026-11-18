@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-26.html"
+url: "/authors/london-jack/john-barleycorn/chapter-26.html"
 ---
 
 Having burned my ship, I plunged into writing. I am afraid I always was an extremist. Early and late I was at it--writing, typing, studying grammar, studying writing and all the forms of writing, and studying the writers who succeeded in order to find out how they succeeded. I managed on five hours' sleep in the twenty-four, and came pretty close to working the nineteen waking hours left to me. My light burned till two and three in the morning, which led a good neighbour woman into a bit of sentimental Sherlock-Holmes deduction. Never seeing me in the day-time, she concluded that I was a gambler, and that the light in my window was placed there by my mother to guide her erring son home.

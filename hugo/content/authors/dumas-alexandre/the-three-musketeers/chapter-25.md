@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Porthos"
 weight: 26
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-25.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-25.html"
 ---
 
 Instead of returning directly home, D'Artagnan alighted at the door of M. de Treville, and ran quickly up the stairs. This time he had decided to relate all that had passed. M. de Treville would doubtless give him good advice as to the whole affair. Besides, as M. de Treville saw the queen almost daily, he might be able to draw from her Majesty some intelligence of the poor young woman, whom they were doubtless making pay very dearly for her devotedness to her mistress.

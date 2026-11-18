@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Kidnapped"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-01.html"
 ---
 
 "The entire affair is shrouded in mystery," said D'Arnot. "I have it on the best of authority that neither the police nor the special agents of the general staff have the faintest conception of how it was accomplished. All they know, all that anyone knows, is that Nikolas Rokoff has escaped."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - An Involuntary Bath"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-06.html"
 ---
 
 It was not to be supposed that a party of Indians could be checked by a stream of water. If necessary they could swim across, but, inasmuch as the party separated, and while several went up, the rest walked down the stream, it was evident they were searching for a more suitable spot in which to make the passage.

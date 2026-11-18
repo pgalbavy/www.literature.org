@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Muscular Christianity"
 weight: 13
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-11.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-11.html"
 ---
 
 Within the next week or two several important events had happened to one and another of our St. Ambrose friends. Tom had introduced Blake to Hardy, after some demur on the part of the latter. Blake was his senior by a term; might have called on him any time these three years; why should he want to make his acquaintance now? But when Tom explained to him that it would be a kind thing to let Blake come and coach up his history with him, for that unless he took a high degree in the coming examination, he would have to leave the college, and probably be ruined for life, Hardy at once consented.

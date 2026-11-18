@@ -1,8 +1,7 @@
 ---
 title: "Documentary Hints, in Conclusion"
 weight: 13
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/hints.html"
+url: "/authors/collins-wilkie/miss-or-mrs/hints.html"
 ---
 
 First Hint

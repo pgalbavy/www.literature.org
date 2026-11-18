@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58"
 weight: 58
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-58.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-58.html"
 ---
 
 Extension, we know, is a very imperfect measure of things; and the length of the sun's journeying can no more tell us how life has advanced than the acreage of a field can tell us what growths may be active within it. A man may go south, and, stumbling over a bone, may meditate upon it till he has found a new starting-point for anatomy; or eastward, and discover a new key to language telling a new story of races; or he may head an expedition that opens new continental pathways, get himself mained in body, and go through a whole heroic poem of resolve and endurance; and at the end of a few months he may come back to find his neighbors grumbling at the same parish grievance as before, or to see the same elderly gentleman treading the pavement in discourse with himself, shaking his head after the same percussive butcher's boy, and pausing at the same shop-window to look at the same prints. If the swiftest thinking has about the pace of a greyhound, the slowest must be supposed to move, like the limpet, by an apparent sticking, which after a good while is discerned to be a slight progression. Such differences are manifest in the variable intensity which we call human experience, from the revolutionary rush of change which makes a new inner and outer life, to that quiet recurrence of the familiar, which has no other epochs than those of hunger and the heavens.

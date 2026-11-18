@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Two Pawnees Are Astonished"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-09.html"
 ---
 
 Among all the chagrined Pawnees, there was none so humiliated as Lone Bear, who had been thrown headlong by the trick of the young Shawanoe dropping in front of him. That was bad enough, but it was made a hundred-fold worse when Deerfoot stepped on the crown of his head before he could rise, or prevent it. It was Red Wolf who cruelly remarked that the reason for the youth taking that step was that he might have a *soft place* whereon to rest his moccasin.

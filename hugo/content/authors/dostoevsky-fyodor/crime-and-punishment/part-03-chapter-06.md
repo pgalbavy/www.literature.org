@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6"
 weight: 21
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-06.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-06.html"
 ---
 
 "I don't believe it, I can't believe it!" repeated Razumihin, trying in perplexity to refute Raskolnikov's arguments.

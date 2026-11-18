@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - In Which D'artagnan Begins To Fear He Has Placed His Money And That Of Planchet In The Sinking Fund"
 weight: 29
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-29.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-29.html"
 ---
 
 The king could not overcome his surprise, and looked sometimes at the smiling face of the musketeer, and sometimes at the dark window which opened into the night. But before he had fixed his ideas, eight of D'Artagnan's men, for two had remained to take care of the bark, brought to the house, where Parry received him, that object of an oblong form, which, for the moment inclosed the destinies of England. Before he left Calais, D'Artagnan had had made in that city a sort of coffin, large and deep enough for a man to turn in it at his ease. The bottom and sides, properly upholstered, formed a bed sufficiently soft to prevent the rolling of the ship turning this kind of cage into a rat-trap. The little grating, of which D'Artagnan had spoken to the king, like the visor of a helmet, was placed opposite to the man's face. It was so constructed that, at the least cry, a sudden pressure would stifle that cry, and, if necessary, him who had uttered that cry.

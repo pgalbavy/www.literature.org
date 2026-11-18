@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Home Again"
 weight: 11
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-10.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-10.html"
 ---
 
 July had come, and haying begun; the little gardens were doing finely and the long summer days were full of pleasant hours. The house stood open from morning till night, and the lads lived out of doors, except at school time. The lessons were short, and there were many holidays, for the Bhaers believed in cultivating healthy bodies by much exercise, and our short summers are best used in out-of-door work. Such a rosy, sunburnt, hearty set as the boys became; such appetites as they had; such sturdy arms and legs, as outgrew jackets and trousers; such laughing and racing all over the place; such antics in house and barn; such adventures in the tramps over hill and dale; and such satisfaction in the hearts of the worthy Bhaers, as they saw their flock prospering in mind and body, I cannot begin to describe. Only one thing was needed to make them quite happy, and it came when they least expected it.

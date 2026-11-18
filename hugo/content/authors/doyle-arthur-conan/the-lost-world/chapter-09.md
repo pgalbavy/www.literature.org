@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Who Could Have Foreseen It?"
 weight: 9
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-09.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-09.html"
 ---
 
 A dreadful thing has happened to us. Who could have foreseen it? I cannot foresee any end to our troubles. It may be that we are condemned to spend our whole lives in this strange, inaccessible place. I am still so confused that I can hardly think clearly of the facts of the present or of the chances of the future. To my astounded senses the one seems most terrible and the other as black as night.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Don At A Party"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-11.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-11.html"
 ---
 
 The little silky poodle dog followed Don, for the dogs in the pound were not very friendly toward one another――at least most of them were not. You would have thought, being all in trouble together, that they would be friendly and kind, but the big dogs picked on the little ones, and the little ones snarled at the big ones, until there was so much noise that it sounded like a dozen dog fights going on at once.

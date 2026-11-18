@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 33 - Of The Delectable Discourse Which The Duchess And Her Damsels Held With Sancho Panza, Well Worth Reading And Noting"
 weight: 89
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-33.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-33.html"
 ---
 
 The history records that Sancho did not sleep that afternoon, but in order to keep his word came, before he had well done dinner, to visit the duchess, who, finding enjoyment in listening to him, made him sit down beside her on a low seat, though Sancho, out of pure good breeding, wanted not to sit down; the duchess, however, told him he was to sit down as governor and talk as squire, as in both respects he was worthy of even the chair of the Cid Ruy Diaz the Campeador. Sancho shrugged his shoulders, obeyed, and sat down, and all the duchess’s damsels and duennas gathered round him, waiting in profound silence to hear what he would say. It was the duchess, however, who spoke first, saying:

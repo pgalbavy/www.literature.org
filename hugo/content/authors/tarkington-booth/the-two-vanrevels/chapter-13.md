@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Tocsin"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-13.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-13.html"
 ---
 
 Tom Vanrevel always went to the post-office soon after the morning distribution of the mail; that is to say, about ten o'clock, and returned with the letters for the firm of Gray and Vanrevel, both personal and official. Crailey and he shared everything, even a box at the post-office; and in front of this box, one morning, after a night of rain, Tom stood staring at a white envelope bearing a small, black seal. The address was in a writing he had never seen before, but the instant it fell under his eye he was struck with a distinctly pleasurable excitement.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Presumptuous Age"
 weight: 8
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-08.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-08.html"
 ---
 
 The ineffable presumption of aged persons is an affliction too long endured. Much is told us of the becoming modesty of youth. Is no modesty becoming a period of life when experience has given some measure to merit?

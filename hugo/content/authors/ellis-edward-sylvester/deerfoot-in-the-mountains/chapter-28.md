@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Retrospect"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-28.html"
 ---
 
 "I am the son and only child of Taggarak, a leading war chief for many years of the Blackfoot Indians. I had an elder brother, but he died before reaching manhood. I remember the visit made by Deerfoot the Shawanoe to our tribe, in the autumn and winter of 1804 and 1805. He came from Ohio, in company with two brothers named Shelton, that were white, and with Mul-tal-la, who belonged to our own people, and had made the journey eastward into the Shawanoe country. Mul-tal-la had a companion when he left us, but he was accidentally killed after arriving in the East.

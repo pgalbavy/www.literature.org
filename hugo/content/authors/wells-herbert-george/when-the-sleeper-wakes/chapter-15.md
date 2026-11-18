@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Prominent People"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-15.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-15.html"
 ---
 
 The state apartments of the Wind Vane Keeper would have seemed astonishingly intricate to Graham had he entered them fresh from his nineteenth century life, but already he was growing accustomed to the scale of the new time. They can scarcely be described as halls and rooms, seeing that a complicated system of arches, bridges, passages and galleries divided and united every part of the great space. He came out through one of the now familiar sliding panels upon a. plateau of landing at the head of a flight of very broad and gentle steps, with men and women far more brilliantly dressed than any he had hitherto seen ascending and descending. From this position he looked down a vista of intricate ornament in lustreless white and mauve and purple, spanned by bridges that seemed wrought of porcelain and filigree, and terminating far off in a cloudy mystery of perforated screens.

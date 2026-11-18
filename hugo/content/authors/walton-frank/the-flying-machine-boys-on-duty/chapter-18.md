@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Race"
 weight: 18
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-18.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-18.html"
 ---
 
 Jimmie’s game of tag developed into such a flying machine race as has rarely been witnessed. The machines were in superb condition, and each aviator was determined to end the contest satisfactorily to himself. The driver of the third machine sought only the capture or destruction of the Louise.

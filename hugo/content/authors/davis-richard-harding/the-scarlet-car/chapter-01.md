@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Jail-Breakers"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-scarlet-car/chapter-01.html"
+url: "/authors/davis-richard-harding/the-scarlet-car/chapter-01.html"
 ---
 
 For a long time it had been arranged they all should go to the Harvard and Yale game in Winthrop's car. It was perfectly well understood. Even Peabody, who pictured himself and Miss Forbes in the back of the car, with her brother and Winthrop in front, condescended to approve. It was necessary to invite Peabody because it was his great good fortune to be engaged to Miss Forbes. Her brother Sam had been invited, not only because he could act as chaperon for his sister, but because since they were at St. Paul's, Winthrop and he, either as participants or spectators, had never missed going together to the Yale-Harvard game. And Beatrice Forbes herself had been invited because she was herself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Heart And Mind"
 weight: 26
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-26.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-26.html"
 ---
 
 "My lord," said the Comte de la Fere, "you are a noble Englishman, you are a loyal man; you are speaking to a noble Frenchman, to a man of heart. The gold contained in these two casks before us, I have told you was mine. I was wrong - it is the first lie I have pronounced in my life, a temporary lie, it is true. This gold is the property of King Charles II., exiled from his country, driven from his palaces, the orphan at once of his father and his throne, and deprived of everything, even of the melancholy happiness of kissing on his knees the stone upon which the hands of his murderers have written that simple epitaph which will eternally cry out for vengeance upon them: - 'Here lies Charles I.'"

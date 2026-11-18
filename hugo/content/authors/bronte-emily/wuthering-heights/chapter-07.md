@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-07.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-07.html"
 ---
 
 CATHY stayed at Thrushcross Grange five weeks: till Christmas. By that time her ankle was thoroughly cured, and her manners much improved. The mistress visited her often in the interval, and commenced her plan of reform by trying to raise her self-respect with fine clothes and flattery, which she took readily; so that, instead of a wild, hatless little savage jumping into the house, and rushing to squeeze us all breathless, there 'lighted from a handsome black pony a very dignified person, with brown ringlets falling from the cover of a feathered beaver, and a long cloth habit, which she was obliged to hold up with both hands that she might sail in. Hindley lifted her from her horse, exclaiming delightedly, 'Why, Cathy, you are quite a beauty! I should scarcely have known you: you look like a lady now. Isabella Linton is not to be compared with her, is she, Frances?' 'Isabella has not her natural advantages,' replied his wife: 'but she must mind and not grow wild again here. Ellen, help Miss Catherine off with her things - Stay, dear, you will disarrange your curls - let me untie your hat.'

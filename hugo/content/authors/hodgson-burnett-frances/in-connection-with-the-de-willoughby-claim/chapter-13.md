@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-13.html"
 ---
 
 The Stornaway parlours were very brilliant that evening in a Willowfield sense. Not a Burton, a Larkin, or a Downing was missing, even Miss Amory Starkweather being present. Miss Amory Starkweather was greatly respected by the Stornaways, the Downings, the Larkins, and the Burtons, the Starkweathers having landed upon Plymouth Rock so early and with such a distinguished sense of their own importance as to lead to the impression in weak minds that they had not only founded that monumental corner-stone of ancestry, but were personally responsible for the Mayflower. This gentlewoman represented to the humorous something more of the element of comedy than she represented to herself. She had been born into a world too narrow and provincial for the development of the powers born with her. She had been an ugly girl and an ugly woman, marked by the hopeless ugliness of a long, ill-proportioned face, small eyes, and a nose too large and high--that ugliness which even love's eyes can scarcely ameliorate into good drawing.

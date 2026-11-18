@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Unkind Fate"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-13.html"
 ---
 
 After setting out on his return to his friends with the canoe which he had recovered so cleverly from the drowsy Shawanoe, Simon Kenton gave little thought to Jethro Juggens. The youth had become separated from the scout through his own disregard of orders, and, as has already been said, the former regarded his highest duty to be to the pioneers, who, a mile or so away, were anxiously looking for his return.

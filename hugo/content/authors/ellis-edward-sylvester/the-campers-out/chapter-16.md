@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Plotters"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-16.html"
 ---
 
 Dick Halliard had walked only a short distance along the lonely forest path when he made a startling discovery.

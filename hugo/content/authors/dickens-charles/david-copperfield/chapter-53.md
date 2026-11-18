@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - Another Retrospect"
 weight: 54
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-53.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-53.html"
 ---
 
 I must pause yet once again. O, my child-wife, there is a figure in the moving crowd before my memory, quiet and still, saying in its innocent love and childish beauty, Stop to think of me--turn to look upon the Little Blossom, as it flutters to the ground!

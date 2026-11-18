@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-11.html"
+url: "/authors/eliot-george/middlemarch/chapter-11.html"
 ---
 
 "But deeds and language such as men do use, And persons such as comedy would choose, When she would show an image of the times, And sport with human follies, not with crimes." - BEN JONSON.

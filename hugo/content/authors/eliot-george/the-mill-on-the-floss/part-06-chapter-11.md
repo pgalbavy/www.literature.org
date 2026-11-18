@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 11 - In The Lane"
 weight: 50
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-11.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-11.html"
 ---
 
 Maggie had been four days at her aunt Moss's giving the early June sunshine quite a new brightness in the care-dimmed eyes of that affectionate woman, and making an epoch for her cousins great and small, who were learning her words and actions by heart, as if she had been a transient avatar of perfect wisdom and beauty.

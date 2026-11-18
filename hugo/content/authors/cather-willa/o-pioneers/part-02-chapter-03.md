@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 8
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-03.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-03.html"
 ---
 
 Alexandra was to hear more of Ivar's case, however. On Sunday her married brothers came to dinner. She had asked them for that day because Emil, who hated family parties, would be absent, dancing at Amedee Chevalier's wedding, up in the French country. The table was set for company in the dining-room, where highly varnished wood and colored glass and useless pieces of china were conspicuous enough to satisfy the standards of the new prosperity. Alexandra had put herself into the hands of the Hanover furniture dealer, and he had conscientiously done his best to make her dining-room look like his display window. She said frankly that she knew nothing about such things, and she was willing to be governed by the general conviction that the more useless and utterly unusable objects were, the greater their virtue as ornament. That seemed reasonable enough. Since she liked plain things herself, it was all the more necessary to have jars and punchbowls and candlesticks in the company rooms for people who did appreciate them. Her guests liked to see about them these reassuring emblems of prosperity.

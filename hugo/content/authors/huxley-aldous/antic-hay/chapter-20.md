@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-20.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-20.html"
 ---
 
 Zoe ended the discussion by driving half an inch of pen-knife into Coleman’s left arm and running out of the flat, slamming the door behind her. Coleman was used to this sort of thing; this sort of thing, indeed, was what he was there for. Carefully he pulled out the pen-knife which had remained sticking in his arm. He looked at the blade and was relieved to see that it wasn’t so dirty as might have been expected. He found some cotton-wool, mopped up the blood as it oozed out, and dabbed the wound with iodine. Then he set himself to bandage it up. But to tie a bandage round one’s own left arm is not easy. Coleman found it impossible to keep the lint in place, impossible to get the bandage tight enough. At the end of a quarter of an hour he had only succeeded in smearing himself very copiously with blood, and the wound was still unbound. He gave up the attempt and contented himself with swabbing up the blood as it came out.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Depression"
 weight: 36
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-35.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-35.html"
 ---
 
 As soon as I could recover my presence of mind, which quite deserted me in the first overpowering shock of my aunt’s intelligence, I proposed to Mr. Dick to come round to the chandler’s shop, and take possession of the bed which Mr. Peggotty had lately vacated. The chandler’s shop being in Hungerford Market, and Hungerford Market being a very different place in those days, there was a low wooden colonnade before the door (not very unlike that before the house where the little man and woman used to live, in the old weather-glass), which pleased Mr. Dick mightily. The glory of lodging over this structure would have compensated him, I dare say, for many inconveniences; but, as there were really few to bear, beyond the compound of flavours I have already mentioned, and perhaps the want of a little more elbow-room, he was perfectly charmed with his accommodation. Mrs. Crupp had indignantly assured him that there wasn’t room to swing a cat there; but, as Mr. Dick justly observed to me, sitting down on the foot of the bed, nursing his leg, ‘You know, Trotwood, I don’t want to swing a cat. I never do swing a cat. Therefore, what does that signify to ME!’

@@ -1,8 +1,7 @@
 ---
 title: "chapter 01"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-01.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-01.html"
 ---
 
 "Seems to me," said Cap'n Bill, as he sat beside Trot under the big acacia tree, looking out over the blue ocean, "seems to me, Trot, as how the more we know, the more we find we don't know."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - It Is Decided To Masquerade"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-05.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-05.html"
 ---
 
 The first day of quail-shooting found Van Bristow's guests afield.

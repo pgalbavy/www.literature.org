@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Visit To Box Five"
 weight: 7
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-06.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-06.html"
 ---
 
 We left M. Firmin Richard and M. Armand Moncharmin at the moment when they were deciding "to look into that little matter of Box Five."

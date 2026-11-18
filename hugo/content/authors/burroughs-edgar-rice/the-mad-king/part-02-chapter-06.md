@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - A Trap Is Sprung"
 weight: 18
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-02-chapter-06.html"
 ---
 
 Long before Prince von der Tann reached Lustadt he had come to the conclusion that Leopold was in virtue a prisoner in Blentz. To prove his conclusion he directed one of his staff to return to Blentz and attempt to have audience with the king.

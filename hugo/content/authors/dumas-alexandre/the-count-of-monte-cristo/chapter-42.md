@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Monsieur Bertuccio"
 weight: 42
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-42.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-42.html"
 ---
 
 Meanwhile the count had arrived at his house; it had taken him six minutes to perform the distance, but these six minutes were sufficient to induce twenty young men who knew the price of the equipage they had been unable to purchase themselves, to put their horses in a gallop in order to see the rich foreigner who could afford to give 20,000 francs apiece for his horses. The house Ali had chosen, and which was to serve as a town residence to Monte Cristo, was situated on the right hand as you ascend the Champs Elysees. A thick clump of trees and shrubs rose in the centre, and masked a portion of the front; around this shrubbery two alleys, like two arms, extended right and left, and formed a carriage-drive from the iron gates to a double portico, on every step of which stood a porcelain vase. filled with flowers. This house, isolated from the rest, had, besides the main entrance, another in the Rue Ponthieu. Even before the coachman had hailed the concierge, the massy gates rolled on their hinges - they had seen the Count coming, and at Paris, as everywhere else, he was served with the rapidity of lightning. The coachman entered and traversed the half-circle without slackening his speed, and the gates were closed ere the wheels had ceased to sound on the gravel. The carriage stopped at the left side of the portico, two men presented themselves at the carriage-window; the one was Ali, who, smiling with an expression of the most sincere joy, seemed amply repaid by a mere look from Monte Cristo. The other bowed respectfully, and offered his arm to assist the count in descending. "Thanks, M. Bertuccio," said the count, springing lightly up the three steps of the portico; "and the notary?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-10.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-10.html"
 ---
 
 1st Gent. What woman should be? Sir, consult the taste Of marriageable men. This planet's store In iron, cotton, wool, or chemicals - All matter rendered to our plastic skill, Is wrought in shapes responsive to demand; The market's pulse makes index high or low, By rule sublime. Our daughters must be wives, And to the wives must be what men will choose; Men's taste is woman's test. You mark the phrase? 'Tis good, I think? - the sense well-winged and poised With t's and s's. 2nd Gent. Nay, but turn it round; Give us the test of taste. A fine menu - Is it to-day what Roman epicures Insisted that a gentleman must eat To earn the dignity of dining well?

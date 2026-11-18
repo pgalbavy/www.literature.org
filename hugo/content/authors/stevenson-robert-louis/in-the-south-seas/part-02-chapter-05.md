@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5 - A Paumotuan Funeral"
 weight: 20
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-05.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-02-chapter-05.html"
 ---
 
 No, I had no guess of these men’s terrors. Yet I had received ere that a hint, if I had understood; and the occasion was a funeral.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11"
 weight: 31
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-11.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-11.html"
 ---
 
 WICK CUTTER WAS the money-lender who had fleeced poor Russian Peter. When a farmer once got into the habit of going to Cutter, it was like gambling or the lottery; in an hour of discouragement he went back.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 8"
 weight: 32
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-08.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-08.html"
 ---
 
 OF THE LAST SUPPER OF CLEOPATRA; OF THE SONG OF CHARMION; OF THE DRINKING OF THE DRAUGHT OF DEATH; OF THE REVEALING OF HARMACHIS; OF THE SUMMONING OF THE SPIRITS BY HARMACHIS; AND OF THE DEATH OF CLEOPATRA

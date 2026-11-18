@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Night And Morning"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-06.html"
 ---
 
 Deerfoot made known his purpose to take his friends across the Mississippi on the morrow in his canoe, after which he would keep them company for some distance along the trail, though he would be forced to leave them long before reaching their destination.

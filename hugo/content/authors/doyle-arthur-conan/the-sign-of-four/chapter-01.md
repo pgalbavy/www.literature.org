@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Science of Deduction"
 weight: 1
-aliases:
-  - "/authors/doyle-arthur-conan/the-sign-of-four/chapter-01.html"
+url: "/authors/doyle-arthur-conan/the-sign-of-four/chapter-01.html"
 ---
 
 Sherlock Holmes took his bottle from the corner of the mantel- piece, and his hypodermic syringe from its neat morocco case. With his long, white, nervous fingers he adjusted the delicate needle and rolled back his left shirtcuff. For some little time his eyes rested thoughtfully upon the sinewy forearm and wrist, all dotted and scarred with innumerable puncture-marks. Finally, he thrust the sharp point home, pressed down the tiny piston, and sank back into the velvet-lined armchair with a long sigh of satisfaction.

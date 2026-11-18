@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-04.html"
+url: "/authors/london-jack/john-barleycorn/chapter-04.html"
 ---
 
 My next bout with John Barleycorn occurred when I was seven. This time my imagination was at fault, and I was frightened into the encounter. Still farming, my family had moved to a ranch on the bleak sad coast of San Mateo County, south of San Francisco. It was a wild, primitive countryside in those days; and often I heard my mother pride herself that we were old American stock and not immigrant Irish and Italians like our neighbours. In all our section there was only one other old American family.

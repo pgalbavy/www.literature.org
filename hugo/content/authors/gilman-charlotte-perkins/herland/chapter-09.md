@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Our Relations And Theirs"
 weight: 9
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-09.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-09.html"
 ---
 
 What I’m trying to show here is that with these women the whole relationship of life counted in a glad, eager growing-up to join the ranks of workers in the line best loved; a deep, tender reverence for one’s own mother--too deep for them to speak of freely--and beyond that, the whole, free, wide range of sisterhood, the splendid service of the country, and friendships.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-25.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-25.html"
 ---
 
 Had those enterprising spirits who had undertaken to organize a vigilance committee, modelled upon the old Ku Klux, been avowedly outlaws, banded together only for the abuse of power, their efforts would have died of inanition. The sort of lawlessness that has given the Appalachian mountaineer his wild name is one that the outer world understands as little as the hillsman understands the outer world, and the appeal which the organization made was a warped and distorted sense of justice, none the less sincere.

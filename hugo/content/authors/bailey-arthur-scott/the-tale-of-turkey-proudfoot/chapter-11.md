@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Bluster"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-11.html"
 ---
 
 Soon after Henrietta Hen shrieked for the rooster he came hurrying around a corner of the barn. When he saw Turkey Proudfoot towering above Henrietta and her new brood of chicks in the middle of the farmyard he stopped short. To tell the truth, the rooster was afraid of Turkey Proudfoot and usually took pains to keep out of his way.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Two Brothers"
 weight: 2
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-02.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-02.html"
 ---
 
 As the fair Rosa, with foreboding doubt, had foretold, so it happened. Whilst John de Witt was climbing the narrow winding stairs which led to the prison of his brother Cornelius, the burghers did their best to have the troop of Tilly, which was in their way, removed.

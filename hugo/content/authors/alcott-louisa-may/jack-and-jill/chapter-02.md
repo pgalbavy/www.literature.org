@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Two Penitents"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-02.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-02.html"
 ---
 
 Jack and Jill never cared to say much about the night which followed the first coasting party of the season, for it was the saddest and the hardest their short lives had ever known. Jack suffered most in body; for the setting of the broken leg was such a painful job, that it wrung several sharp cries from him, and made Frank, who helped, quite weak and white with sympathy, when it was over. The wounded head ached dreadfully, and the poor boy felt as if bruised all over, for he had the worst of the fall. Dr. Whiting spoke cheerfully of the case, and made so light of broken legs, that Jack innocently asked if he should not be up in a week or so.

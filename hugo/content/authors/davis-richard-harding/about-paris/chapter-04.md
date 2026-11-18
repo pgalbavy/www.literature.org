@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Grand Prix And Other Prizes"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/about-paris/chapter-04.html"
+url: "/authors/davis-richard-harding/about-paris/chapter-04.html"
 ---
 
 I think the most satisfying thing about the race for the Grand Prix at Longchamps is the knowledge that every one in Paris is justifying your interest in the event by being just as much excited about it as you are. You have the satisfaction of feeling that you are with the crowd, or that the crowd is with you, as you choose to put it, and that you move in sympathy with hundreds of thousands of people, who, though they may not be at the race-track in person, wish they were, which is the next best thing, and which helps you in the form of moral support, at least. You feel that every one who passes by knows and approves of your idea of a holiday, and will quite understand when you ride out on the Champs Élysées at eleven o'clock in the morning with four other men packed in one fiacre, or when, for no apparent reason, you hurl your hat into the air.

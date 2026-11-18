@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-13.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-13.html"
 ---
 
 Palla's activities seemed to exhilarate her physically and mentally. Body and brain were now fully occupied; and, if the profit to her soul were dubious, nevertheless the restless spirit of the girl now had an outlet; and at home and in the Combat Club she planned and discussed and investigated the world's woes to her ardent heart's content.

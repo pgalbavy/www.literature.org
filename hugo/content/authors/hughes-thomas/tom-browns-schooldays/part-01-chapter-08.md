@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8 - The War Of Independence"
 weight: 8
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-08.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-08.html"
 ---
 
 "They are slaves who will not choose  

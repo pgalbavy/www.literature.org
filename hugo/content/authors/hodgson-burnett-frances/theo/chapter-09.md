@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - What Comes Of It All"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-09.html"
 ---
 
 The hardest professional trouble the shrivelled little French doctor had, perhaps, ever encountered, was the sight of the white, woe-stricken young face, turned up to his when Theodora North followed him out of the chamber upon the landing that night, and caught his arm in both her clinging hands.

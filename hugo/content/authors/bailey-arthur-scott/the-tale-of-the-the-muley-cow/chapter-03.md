@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Working For A Prize"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-03.html"
 ---
 
 Of course Johnnie Green was very slow the first time he milked the Muley Cow. For a few minutes his father stood beside him and told him a few things that he needed to know. And then Farmer Green went away and left Johnnie to do his best all alone.

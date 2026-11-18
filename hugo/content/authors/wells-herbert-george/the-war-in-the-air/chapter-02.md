@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - How Bert Smallways Got Into Difficulties"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-02.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-02.html"
 ---
 
 It did not occur to either Tom or Bert Smallways that this remarkable aerial performance of Mr. Butteridge was likely to affect either of their lives in any special manner, that it would in any way single them out from the millions about them; and when they had witnessed it from the crest of Bun Hill and seen the fly-like mechanism, its rotating planes a golden haze in the sunset, sink humming to the harbour of its shed again, they turned back towards the sunken green-grocery beneath the great iron standard of the London to Brighton mono-rail, and their minds reverted to the discussion that had engaged them before Mr. Butteridge's triumph had come in sight out of the London haze.

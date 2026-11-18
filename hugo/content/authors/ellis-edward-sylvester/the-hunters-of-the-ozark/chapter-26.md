@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - On The Edge Of The Prairie"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-26.html"
 ---
 
 The night was far advanced when Fred Linden and Terry Clark reached the stream, where the former remarked that their progress was stopped. Of course he meant that they could continue if they chose to make another raft or they could wade, but they had journeyed so far since dusk, and the trouble of constructing a float was such that he thought it best to wait where they were until daylight. They were pretty well fagged out, and nothing could have been more grateful than to throw themselves on the ground and sleep for several hours.

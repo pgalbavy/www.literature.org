@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The House Of Mapuhi"
 weight: 1
-aliases:
-  - "/authors/london-jack/south-sea-tales/chapter-01.html"
+url: "/authors/london-jack/south-sea-tales/chapter-01.html"
 ---
 
 Despite the heavy clumsiness of her lines, the Aorai handled easily in the light breeze, and her captain ran her well in before he hove to just outside the suck of the surf. The atoll of Hikueru lay low on the water, a circle of pounded coral sand a hundred yards wide, twenty miles in circumference, and from three to five feet above high-water mark. On the bottom of the huge and glassy lagoon was much pearl shell, and from the deck of the schooner, across the slender ring of the atoll, the divers could be seen at work. But the lagoon had no entrance for even a trading schooner. With a favoring breeze cutters could win in through the tortuous and shallow channel, but the schooners lay off and on outside and sent in their small boats.

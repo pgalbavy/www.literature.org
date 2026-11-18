@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - In Port At Last"
 weight: 17
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-17.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-17.html"
 ---
 
 Day had broken before the several denizens of the Wilderness had all returned to their homes, the police finished their inquiries, and all come back to its normal quiet. Mrs. Westmacott had been left sleeping peacefully with a small chloral draught to steady her nerves and a handkerchief soaked in arnica bound round her head. It was with some surprise, therefore, that the Admiral received a note from her about ten o'clock, asking him to be good enough to step in to her. He hurried in, fearing that she might have taken some turn for the worse, but he was reassured to find her sitting up in her bed, with Clara and Ida Walker in attendance upon her. She had removed the handkerchief, and had put on a little cap with pink ribbons, and a maroon dressing-jacket, daintily fulled at the neck and sleeves.

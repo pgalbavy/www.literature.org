@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Hot Quarters"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-11.html"
 ---
 
 The contest of Simpson with the wonderfully supple and sinewy Apache began and ended in a few seconds. In the most thrilling moments the hunter did not forget his peril from outside barbarians.

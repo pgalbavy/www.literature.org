@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Beatrice Makes An Appointment"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-11.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-11.html"
 ---
 
 Lady Honoria leaned back in the cab, and sighed a sigh of satisfaction.

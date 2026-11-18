@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - One Lively Escutcheon"
 weight: 20
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-20.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-20.html"
 ---
 
 Interrogatory argument had forced most answers in Pape’s career. Now two of a pertinent order forced an italicized third which, under limitations of the moment, was unanswerable.

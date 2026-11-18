@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 15"
 weight: 28
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-15.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-15.html"
 ---
 
 All week every one in the office knew that something new and big was afoot in Daylight's mind. Beyond some deals of no importance, he had not been interested in anything for several months. But now he went about in an almost unbroken brown study, made unexpected and lengthy trips across the bay to Oakland, or sat at his desk silent and motionless for hours. He seemed particularly happy with what occupied his mind. At times men came in and conferred with him--and with new faces and differing in type from those that usually came to see him.

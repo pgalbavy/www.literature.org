@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-29.html"
 ---
 
 The world had heard and talked much of the Reverend John Baird in the years which followed his return to Willowfield. During the first few months after his reappearance among them, his flock had passed through a phase of restless uncertainty with regard to him. Certain elder members of his congregation had privately discussed questions of doctrine with anxiousness. Had not Nature already arraigned herself upon the man's side by bestowing upon him a powerful individuality, heads might have been shaken, and the matter discussed openly instead of in considerately confidential conclave. It was, however, less easy to enter into argument with such a man than with one slow and uncertain of tongue, and one whose fortunes rested in the hands of the questioners. Besides, it was not to be denied that even the elderly and argumentative found themselves listening to his discourses. The young and emotional often thrilled and quaked before them. In his hour he was the pioneer of what to-day we call the modern, and seemed to speak his message not to a heterogeneous mental mass, but to each individual man and woman who sat before him with upturned face. He was daringly human for the time in which he lived, it being the hour when humanity was overpowered by deity, and to be human was to be iconoclastic. His was not the doctrine of the future--of future repentance for the wrongs done to-day, of future reward for the good to-day achieves, all deeds being balanced on a mercantile account of profit and loss. His was a cry almost fierce, demanding, in the name of human woe, that to-day shall hold no cruelty, no evil done, even to the smallest and most unregarded thing.

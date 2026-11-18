@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 104
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-03.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-03.html"
 ---
 
 "You met him?" she asked, when they had sat down at the table in the lamplight. "You're punished, you see, for being late."

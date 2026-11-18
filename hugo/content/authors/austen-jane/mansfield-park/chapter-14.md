@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-14.html"
+url: "/authors/austen-jane/mansfield-park/chapter-14.html"
 ---
 
 Fanny seemed nearer being right than Edmund had supposed. The business of finding a play that would suit everybody proved to be no trifle; and the carpenter had received his orders and taken his measurements, had suggested and removed at least two sets of difficulties, and having made the necessity of an enlargement of plan and expense fully evident, was already at work, while a play was still to seek. Other preparations were also in hand. An enormous roll of green baize had arrived from Northampton, and been cut out by Mrs. Norris (with a saving by her good management of full three-quarters of a yard), and was actually forming into a curtain by the housemaids, and still the play was wanting; and as two or three days passed away in this manner, Edmund began almost to hope that none might ever be found.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Meeting In The Desert"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-09.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-09.html"
 ---
 
 Now I do not propose to describe all our journey to Kendahland, or at any rate the first part thereof. It was interesting enough in its way and we met with a few hunting adventures, also some others. But there is so much to tell of what happened to us after we reached the place that I have not the time, even if I had the inclination to set all these matters down. Let it be sufficient, then, to say that although owing to political events the country happened to be rather disturbed at the time, we trekked through Zululand without any great difficulty. For here my name was a power in the land and all parties united to help me. Thence, too, I managed to dispatch three messengers, half-bred border men, lean fellows and swift of foot, forward to the king of the Mazitu, as Hans had suggested that I should do, advising him that his old friends, Macumazana, Watcher-by-Night, and the yellow man who was named Light-in-Darkness and Lord-of-the-Fire, were about to visit him again.

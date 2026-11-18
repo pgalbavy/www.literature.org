@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-15.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-15.html"
 ---
 
 Probably nothing else in the world could so soon have transformed Scarlett Trent from the Gold Coast buccaneer to the law-abiding tenant of a Surrey villa. Before her full, inquiring eyes and calm salute he found himself at once abashed and confused. He raised his hand to his head, only to find that he had come out without a hat, and he certainly appeared, as he stood there, to his worst possible advantage.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Curse Of The Inkosazana"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-18.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-18.html"
 ---
 
 That night the regiment and Rachel slept upon the bank of the river, and nothing happened save that lions carried off two soldiers, while two more who had been injured against the rocks, died. Also others fell sick. On the following morning food arrived in plenty from the neighbouring kraals, and with it some girls of high birth to attend upon the Inkosazana.

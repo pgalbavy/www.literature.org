@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Defiance"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-24.html"
 ---
 
 The expression of the face of Deerfoot was terrible. The whole fury of his nature was at white heat. He knew that the two Winnebagos had set out to commit a fearful crime, and it was his work to stay their hands. There was but the single way in which they could be stayed.

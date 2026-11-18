@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Inner Boy"
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-19.html"
+url: "/authors/tarkington-booth/penrod/chapter-19.html"
 ---
 
 Penrod went home in splendour, pretending that he and Duke were a long procession; and he made enough noise to render the auricular part of the illusion perfect. His own family were already at the lunch-table when he arrived, and the parade halted only at the door of the dining-room.

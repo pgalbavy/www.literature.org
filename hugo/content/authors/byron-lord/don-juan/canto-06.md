@@ -1,8 +1,7 @@
 ---
 title: "Canto 6"
 weight: 7
-aliases:
-  - "/authors/byron-lord/don-juan/canto-06.html"
+url: "/authors/byron-lord/don-juan/canto-06.html"
 ---
 
 'There is a tide in the affairs of men  

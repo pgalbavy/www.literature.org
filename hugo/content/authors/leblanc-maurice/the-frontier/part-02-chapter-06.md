@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6 - The Butte-Aux-Loups"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-frontier/part-02-chapter-06.html"
+url: "/authors/leblanc-maurice/the-frontier/part-02-chapter-06.html"
 ---
 
 Whatever might be the eventual outcome of this last effort, it was a respite granted to the two nations. It gave a gleam of hope, it left a loop-hole, a chance of an arrangement.

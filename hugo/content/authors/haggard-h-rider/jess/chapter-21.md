@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Jess Gets A Pass"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-21.html"
+url: "/authors/haggard-h-rider/jess/chapter-21.html"
 ---
 
 About half-past ten on the morning following her interview with Hans Coetzee, Jess was at “The Palatial” as usual, and John was just finishing packing the cart with such few goods as they possessed. There was little chance of his labour proving of material use, for he did not in the slightest degree expect that they would get the pass; but, as he said cheerfully, it was as good an amusement as any other.

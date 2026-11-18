@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-03.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-03.html"
 ---
 
 The burden on Clara's mind weighs on it more heavily than ever, after what Mrs. Crayford has said to her. She is too unhappy to feel the inspiriting influence of the dance. After a turn round the room, she complains of fatigue. Mr. Francis Aldersley looks at the conservatory (still as invitingly cool and empty as ever); leads her back to it; and places her on a seat among the shrubs. She tries--very feebly--to dismiss him.

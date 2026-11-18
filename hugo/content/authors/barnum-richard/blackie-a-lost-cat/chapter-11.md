@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Blackie Is Sad"
 weight: 11
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-11.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-11.html"
 ---
 
 “That’s the time I scared a dog!” said Blackie to herself, laughing. For she had not hurt him, and she had stopped him from biting her, which was a good thing. I suppose it would be nicer if dogs and cats were more friendly, but they never seem to be that way――at least not very often.

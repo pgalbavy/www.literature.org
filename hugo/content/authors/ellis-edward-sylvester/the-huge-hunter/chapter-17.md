@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Homeward Bound"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-17.html"
 ---
 
 *THE PUNISHMENT* administered to the Indians who had so greatly annoyed the miners proved a very beneficial one.

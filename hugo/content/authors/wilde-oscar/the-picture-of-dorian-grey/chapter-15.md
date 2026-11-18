@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-15.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-15.html"
 ---
 
 That evening, at eight-thirty, exquisitely dressed and wearing a large button-hole of Parma violets, Dorian Gray was ushered into Lady Narborough's drawing-room by bowing servants. His forehead was throbbing with maddened nerves, and he felt wildly excited, but his manner as he bent over his hostess's hand was as easy and graceful as ever. Perhaps one never seems so much at one's ease as when one has to play a part. Certainly no one looking at Dorian Gray that night could have believed that he had passed through a tragedy as horrible as any tragedy of our age. Those finely shaped fingers could never have clutched a knife for sin, nor those smiling lips have cried out on God and goodness. He himself could not help wondering at the calm of his demeanour, and for a moment felt keenly the terrible pleasure of a double life.

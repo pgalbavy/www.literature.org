@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - April's Lady"
 weight: 4
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-04.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-04.html"
 ---
 
 Kingsport is a quaint old town, hearking back to early Colonial days, and wrapped in its ancient atmosphere, as some fine old dame in garments fashioned like those of her youth. Here and there it sprouts out into modernity, but at heart it is still unspoiled; it is full of curious relics, and haloed by the romance of many legends of the past. Once it was a mere frontier station on the fringe of the wilderness, and those were the days when Indians kept life from being monotonous to the settlers. Then it grew to be a bone of contention between the British and the French, being occupied now by the one and now by the other, emerging from each occupation with some fresh scar of battling nations branded on it.

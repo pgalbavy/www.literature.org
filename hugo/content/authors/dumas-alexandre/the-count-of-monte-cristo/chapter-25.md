@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Unknown"
 weight: 25
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-25.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-25.html"
 ---
 
 Day, for which Dantes had so eagerly and impatiently waited with open eyes, again dawned. With the first light Dantes resumed his search. Again he climbed the rocky height he had ascended the previous evening, and strained his view to catch every peculiarity of the landscape; but it wore the same wild, barren aspect when seen by the rays of the morning sun which it had done when surveyed by the fading glimmer of eve. Descending into the grotto, he lifted the stone, filled his pockets with gems, put the box together as well and securely as he could, sprinkled fresh sand over the spot from which it had been taken, and then carefully trod down the earth to give it everywhere a uniform appearance; then, quitting the grotto, he replaced the stone, heaping on it broken masses of rocks and rough fragments of crumbling granite, filling the interstices with earth, into which he deftly inserted rapidly growing plants, such as the wild myrtle and flowering thorn, then carefully watering these new plantations, he scrupulously effaced every trace of footsteps, leaving the approach to the cavern as savage-looking and untrodden as he had found it. This done, he impatiently awaited the return of his companions. To wait at Monte Cristo for the purpose of watching like a dragon over the almost incalculable richs that had thus fallen into his possession satisfied not the cravings of his heart, which yearned to return to dwell among mankind, and to assume the rank, power, and influence which are always accorded to wealth - that first and greatest of all the forces within the grasp of man.

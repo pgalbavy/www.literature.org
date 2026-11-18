@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Kitty Did!"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-17.html"
 ---
 
 As the hours sped by and the moon at last crossed the sky and dropped out of sight, Kiddie Katydid saw that there was going to be trouble.

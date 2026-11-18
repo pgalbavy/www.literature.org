@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 3"
 weight: 193
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-03.html"
 ---
 
 When Michael Ivanovich returned to the study with the letter, the old prince, with spectacles on and a shade over his eyes, was sitting at his open bureau with screened candles, holding a paper in his outstretched hand, and in a somewhat dramatic attitude was reading his manuscript- his "Remarks" as he termed it- which was to be transmitted to the Emperor after his death.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 83 - Jonah Historically Regarded"
 weight: 83
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-083.html"
+url: "/authors/melville-herman/moby-dick/chapter-083.html"
 ---
 
 Reference was made to the historical story of Jonah and the whale in the preceding chapter. Now some Nantucketers rather distrust this historical story of Jonah and the whale. But then there were some sceptical Greeks and Romans, who, standing out from the orthodox pagans of their times, equally doubted the story of Hercules and the whale, and Arion and the dolphin; and yet their doubting those traditions did not make those traditions one whit the less facts, for all that.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Fatty Discovers Mrs. Turtle's Secret"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-03.html"
 ---
 
 After his adventure with the goshawk Fatty Coon did not go near the tree-tops for a long time. Whenever he left home he would crawl down the old poplar tree in which he lived; and he wouldn't climb a single tree until he came home again. Somehow, he felt safer on the ground. You see, he hadn't forgotten the fright he had had, nor how the goshawk's claws had hurt his back.

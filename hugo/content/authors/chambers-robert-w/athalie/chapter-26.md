@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-26.html"
+url: "/authors/chambers-robert-w/athalie/chapter-26.html"
 ---
 
 Athalie was having a wonderful summer. House and garden continued to enchant her. She brought down Hafiz, who, being a city cat, instantly fled indoors with every symptom of astonishment and terror the first time Athalie placed him on the lawn.

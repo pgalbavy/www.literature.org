@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - From Joy to Death"
 weight: 27
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-27.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-27.html"
 ---
 
 For ten days the hordes of Thark and their wild allies were feasted and entertained, and, then, loaded with costly presents and escorted by ten thousand soldiers of Helium commanded by Mors Kajak, they started on the return journey to their own lands. The jed of lesser Helium with a small party of nobles accompanied them all the way to Thark to cement more closely the new bonds of peace and friendship.

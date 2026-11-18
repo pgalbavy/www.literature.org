@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-08.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-08.html"
 ---
 
 I regret," Mr. Sabin said to Felix as they sat side by side in the small coupe, "that your stay in this country will be so brief."

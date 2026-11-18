@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Mooncalf Pastures"
 weight: 11
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-11.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-11.html"
 ---
 
 SO we two poor terrestrial castaways, lost in that wild-growing moon jungle, crawled in terror before the sounds that had come upon us. We crawled, as it seemed, a long time before we saw either Selenite or mooncalf, though we heard the bellowing and gruntulous noises of these latter continually drawing nearer to us. We crawled through stony ravines, over snow slopes, amidst fungi that ripped like thin bladders at our thrust, emitting a watery humour, over a perfect pavement of things like puff-balls, and beneath interminable thickets of scrub. And ever more helplessly our eyes sought for our abandoned sphere. The noise of the mooncalves would at times be a vast flat calf-like sound, at times it rose to an amazed and wrathy bellowing, and again it would become a clogged bestial sound, as though these unseen creatures had sought to eat and bellow at the same time.

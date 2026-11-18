@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-14.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-14.html"
 ---
 
 The town marshal at Jackson was Micah French, and he was town marshal because his temperament was not one to be depressed by the quick step of stressful events. The arrival in town of men a-gallop and inflamed by liquor was not in those days unusual, and was regarded with a certain tolerance. The law was accustomed to let youth have its fling and later, under circumstances more auspicious, to serve a writ on the offender and hale him in a spirit of contrition before the magistrate.

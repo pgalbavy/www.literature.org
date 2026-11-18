@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Ghostly Evening"
 weight: 13
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-13.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-13.html"
 ---
 
 One evening, a week later, Anne decided to run over the fields to the house up the brook for an informal call. It was an evening of gray fog that had crept in from the gulf, swathed the harbor, filled the glens and valleys, and clung heavily to the autumnal meadows. Through it the sea sobbed and shuddered. Anne saw Four Winds in a new aspect, and found it weird and mysterious and fascinating; but it also gave her a little feeling of loneliness. Gilbert was away and would be away until the morrow, attending a medical pow-wow in Charlottetown. Anne longed for an hour of fellowship with some girl friend. Captain Jim and Miss Cornelia were "good fellows" each, in their own way; but youth yearned to youth.

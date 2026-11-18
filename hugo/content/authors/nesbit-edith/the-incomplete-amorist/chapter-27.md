@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Chapter Xxvii The Pink Silk Story"
 weight: 27
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-27.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-27.html"
 ---
 
 To call on the concierge at Betty's old address, and to ask for news of her had come to seem to Vernon the unbroken habit of a life-time. There never was any news: there never would be any news. But there always might be.

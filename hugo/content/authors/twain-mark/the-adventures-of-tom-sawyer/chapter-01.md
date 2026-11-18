@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-01.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-01.html"
 ---
 
 "TOM!"

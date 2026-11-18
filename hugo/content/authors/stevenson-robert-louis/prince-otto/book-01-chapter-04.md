@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4 - In Which The Prince Collects Opinions By The Way"
 weight: 6
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-04.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-04.html"
 ---
 
 A little before noon Otto, by a triumph of manoeuvring, effected his escape. He was quit in this way of the ponderous gratitude of Mr. Killian, and of the confidential gratitude of poor Ottilia; but of Fritz he was not quit so readily. That young politician, brimming with mysterious glances, offered to lend his convoy as far as to the high-road; and Otto, in fear of some residuary jealousy and for the girl’s sake, had not the courage to gainsay him; but he regarded his companion with uneasy glances, and devoutly wished the business at an end. For some time Fritz walked by the mare in silence; and they had already traversed more than half the proposed distance when, with something of a blush, he looked up and opened fire.

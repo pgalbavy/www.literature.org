@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Dawn Of A New Day"
 weight: 30
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-30.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-30.html"
 ---
 
 Colonel Hallibut did not return to St. Thomas that night as had been his intention. Indeed, in his great and newly found happiness he forgot that he had cautioned Dick, his man, to come looking for him in case he did not return within a certain time.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Suiting The Punishment To The Crime"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-04.html"
 ---
 
 Wade Ruggles was speechless. He sat with his mouth wide open and his eyes staring at the little figure, as if it were a veritable apparition. All the others looked in the same direction. Nellie Dawson stood for a moment with her finger pointed reprovingly at the chairman, and then turning about ran back into the rear room and plunged into her bed.

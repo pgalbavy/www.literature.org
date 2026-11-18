@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Dog Spot's Plan"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-19.html"
 ---
 
 When Grunty Pig insisted that his own tightly curled tail was the most beautiful one in the neighborhood, old dog Spot yawned.

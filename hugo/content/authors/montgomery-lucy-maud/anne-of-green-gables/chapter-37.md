@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - The Reaper Whose Name Is Death"
 weight: 37
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-37.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-37.html"
 ---
 
 "Matthew--Matthew--what is the matter? Matthew, are you sick?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Battle for Teeka"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-10.html"
 ---
 
 THE DAY WAS perfect. A cool breeze tempered the heat of the equatorial sun. Peace had reigned within the tribe for weeks and no alien enemy had trespassed upon its preserves from without. To the ape-mind all this was sufficient evidence that the future would be identical with the immediate past--that Utopia would persist.

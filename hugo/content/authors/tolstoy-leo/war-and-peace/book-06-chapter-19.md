@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 19"
 weight: 125
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-19.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-19.html"
 ---
 
 Next day Prince Andrew called at a few houses he had not visited before, and among them at the Rostovs' with whom he had renewed acquaintance at the ball. Apart from considerations of politeness which demanded the call, he wanted to see that original, eager girl who had left such a pleasant impression on his mind, in her own home.

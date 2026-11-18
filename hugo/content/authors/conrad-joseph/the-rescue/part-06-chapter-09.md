@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 9"
 weight: 43
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-06-chapter-09.html"
+url: "/authors/conrad-joseph/the-rescue/part-06-chapter-09.html"
 ---
 
 In a roomy cabin, furnished and fitted with austere comfort, Mr. Travers reposed at ease in a low bed-place under a snowy white sheet and a light silk coverlet, his head sunk in a white pillow of extreme purity. A faint scent of lavender hung about the fresh linen. Though lying on his back like a person who is seriously ill Mr. Travers was conscious of nothing worse than a great fatigue. Mr. Travers' restfulness had something faintly triumphant in it. To find himself again on board his yacht had soothed his vanity and had revived his sense of his own importance. He contemplated it in a distant perspective, restored to its proper surroundings and unaffected by an adventure too extraordinary to trouble a superior mind or even to remain in one's memory for any length of time. He was not responsible. Like many men ambitious of directing the affairs of a nation, Mr. Travers disliked the sense of responsibility. He would not have been above evading it in case of need, but with perverse loftiness he really, in his heart, scorned it. That was the reason why he was able to lie at rest and enjoy a sense of returning vigour. But he did not care much to talk as yet, and that was why the silence in the stateroom had lasted for hours. The bulkhead lamp had a green silk shade. It was unnecessary to admit for a moment the existence of impudence or ruffianism. A discreet knocking at the cabin door sounded deferential.

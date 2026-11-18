@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Show-Places Of Paris"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/about-paris/chapter-02.html"
+url: "/authors/davis-richard-harding/about-paris/chapter-02.html"
 ---
 
 NIGHT

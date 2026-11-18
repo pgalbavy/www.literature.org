@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-02.html"
 ---
 
 There was never a more amazed little boy than Cedric during the week that followed; there was never so strange or so unreal a week. In the first place, the story his mamma told him was a very curious one. He was obliged to hear it two or three times before he could understand it. He could not imagine what Mr. Hobbs would think of it. It began with earls: his grandpapa, whom he had never seen, was an earl; and his eldest uncle, if he had not been killed by a fall from his horse, would have been an earl, too, in time; and after his death, his other uncle would have been an earl, if he had not died suddenly, in Rome, of a fever. After that, his own papa, if he had lived, would have been an earl, but, since they all had died and only Cedric was left, it appeared that HE was to be an earl after his grandpapa's death--and for the present he was Lord Fauntleroy.

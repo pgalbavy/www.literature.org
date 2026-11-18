@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Buffaloes"
 weight: 24
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-24.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-24.html"
 ---
 
 The moon was now well up in the sky, and the members of the party were enabled to discern objects at a greater distance than at any time since starting. When Tom Hardynge announced that they had passed through this spur of mountains, the three instinctively turned their eyes to the westward, where the prairie stretched away until it vanished in the gloom.

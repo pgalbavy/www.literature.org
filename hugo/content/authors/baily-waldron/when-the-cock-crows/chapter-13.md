@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Among The Fisherfolk"
 weight: 13
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-13.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-13.html"
 ---
 
 This night was not different from other nights along the western shores and estuaries of the Sound Country. For that matter, the people of the Hunting Quarter and Cedar Island section are not very greatly changed in their manners and customs from those of their forebears of many generations ago. Grouped in small settlements of just a few houses each, they live there to-day after the fashion of those same forebears in almost every detail. The houses are the same or at least they are carefully patterned after those built by the first settlers so many generations ago.

@@ -1,8 +1,7 @@
 ---
 title: "Leaf 8 - Melted"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-08.html"
+url: "/authors/daviess-maria-thompson/the-melting-of-molly/leaf-08.html"
 ---
 
 Some days are like the miracle flowers that open in the garden from plants you didn't expect to bloom at all. I might have been born, lived and died without having this one come into my life, and now that I have had it I don't know how to write it, except in the crimson of blood, the blue of flame, the gold of glory--and a tinge of light green would well express the part I have played. But it is all over at last and--

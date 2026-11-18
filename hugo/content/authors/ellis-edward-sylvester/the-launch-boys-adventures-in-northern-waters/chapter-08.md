@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Lone Guest"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-08.html"
 ---
 
 The *Deerfoot* glided through the smooth waters, and while the afternoon was still young rounded to at the wharf, below the long wooden bridge which spans the stream at Wiscasset, and made fast where a score of other boats of all sizes and models were moored. Several large vessels were anchored farther out and Captain Alvin Landon had to slow down to thread his way among them. There was plenty of room, and the launch was tied up opposite a small excursion steamer which was to start southward an hour later. A tip to the old man who was looking after a number of yachts assured the safety of the last arrival from molestation.

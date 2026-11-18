@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Conclusion"
 weight: 25
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-25.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-25.html"
 ---
 
 'WELL, Agnes, you must not take such long walks again before breakfast,' said my mother, observing that I drank an extra cup of coffee and ate nothing - pleading the heat of the weather, and the fatigue of my long walk as an excuse. I certainly did feel feverish and tired too.

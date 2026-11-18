@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-13.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-13.html"
 ---
 
 It has been a curious evening.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Old Order Changeth"
 weight: 28
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-27.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-27.html"
 ---
 
 "I am going away with father when he goes. He is going to spend the winter in Paris, and I am to go to school there."

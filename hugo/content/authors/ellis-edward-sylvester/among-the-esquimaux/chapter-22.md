@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Fred's Turn"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-22.html"
 ---
 
 At the moment Rob Carrol wheeled to run the foremost of the musk oxen was upon him.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1 - On The Look Out"
 weight: 1
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-01.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-01.html"
 ---
 
 In these times of ours, though concerning the exact year there is no need to be precise, a boat of dirty and disreputable appearance, with two figures in it, floated on the Thames, between Southwark bridge which is of iron, and London Bridge which is of stone, as an autumn evening was closing in.

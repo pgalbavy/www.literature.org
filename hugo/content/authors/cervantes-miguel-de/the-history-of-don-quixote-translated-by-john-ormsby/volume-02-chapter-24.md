@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 24 - Wherein Are Related A Thousand Trifling Matters, As Trivial As They Are Necessary To The Right Understanding Of This Great History"
 weight: 80
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-24.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-24.html"
 ---
 
 He who translated this great history from the original written by its first author, Cide Hamete Benengeli, says that on coming to the chapter giving the adventures of the cave of Montesinos he found written on the margin of it, in Hamete’s own hand, these exact words:

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - The Maroon"
 weight: 3
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-03.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-01-chapter-03.html"
 ---
 
 Of the beauties of Anaho books might be written. I remember waking about three, to find the air temperate and scented. The long swell brimmed into the bay, and seemed to fill it full and then subside. Gently, deeply, and silently the Casco rolled; only at times a block piped like a bird. Oceanward, the heaven was bright with stars and the sea with their reflections. If I looked to that side, I might have sung with the Hawaiian poet:

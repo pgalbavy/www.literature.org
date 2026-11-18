@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-04.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-04.html"
 ---
 
 THE brigade was halted in the fringe of a grove. The men crouched among the trees and pointed their restless guns out at the fields. They tried to look beyond the smoke.

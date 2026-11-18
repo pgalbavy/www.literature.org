@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-09.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-09.html"
 ---
 
 But the privations, or rather the hardships, of Lowood lessened. Spring drew on: she was indeed already come; the frosts of winter had ceased; its snows were melted, its cutting winds ameliorated. My wretched feet, flayed and swollen to lameness by the sharp air of January, began to heal and subside under the gentler breathings of April; the nights and mornings no longer by their Canadian temperature froze the very blood in our veins; we could now endure the play-hour passed in the garden: sometimes on a sunny day it began even to be pleasant and genial, and a greenness grew over those brown beds, which, freshening daily, suggested the thought that Hope traversed them at night, and left each morning brighter traces of her steps. Flowers peeped out amongst the leaves; snow- drops, crocuses, purple auriculas, and golden-eyed pansies. On Thursday afternoons (half-holidays) we now took walks, and found still sweeter flowers opening by the wayside, under the hedges.

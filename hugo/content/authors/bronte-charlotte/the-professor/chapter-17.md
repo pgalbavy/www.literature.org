@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-17.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-17.html"
 ---
 
 AFTER all I had profited but imperfectly by the opportunity I had so boldly achieved of speaking to Mdlle. Henri; it was my intention to ask her how she came to be possessed of two English baptismal names, Frances and Evans, in addition to her French surname, also whence she derived her good accent. I had forgotten both points, or, rather, our colloquy had been so brief that I had not had time to bring them forward; moreover, I had not half tested her powers of speaking English; all I had drawn from her in that language were the words "Yes," and "Thank you, sir." "No matter," I reflected. "What has been left incomplete now, shall be finished another day." Nor did I fail to keep the promise thus made to myself. It was difficult to get even a few words of particular conversation with one pupil among so many; but, according to the old proverb, "Where there is a will, there is a way;" and again and again I managed to find an opportunity for exchanging a few words with Mdlle. Henri, regardless that envy stared and detraction whispered whenever I approached her.

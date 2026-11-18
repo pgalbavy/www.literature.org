@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Marooned"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-02.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-02.html"
 ---
 
 "Will they do anything for us?" repeated Carfax.

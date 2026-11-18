@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - La Mazzolata"
 weight: 35
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-35.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-35.html"
 ---
 
 "Gentlemen," said the Count of Monte Cristo as he entered, "I pray you excuse me for suffering my visit to be anticipated; but I feared to disturb you by presenting myself earlier at your apartments; besides, you sent me word that you would come to me, and I have held myself at your disposal."

@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 19"
 weight: 55
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-19.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-19.html"
 ---
 
 If Emma had still, at intervals, an anxious feeling for Harriet, a momentary doubt of its being possible for her to be really cured of her attachment to Mr. Knightley, and really able to accept another man from unbiased inclination, it was not long that she had to suffer from the recurrence of any such uncertainty. A very few days brought the party from London, and she had no sooner an opportunity of being one hour alone with Harriet, than she became perfectly satisfied--unaccountable as it was!--that Robert Martin had thoroughly supplanted Mr. Knightley, and was now forming all her views of happiness.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Brilliant Scheme"
 weight: 3
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-03.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-03.html"
 ---
 
 Lackawanna Avenue is the principal thoroughfare in the city of Scranton. Anthracite Avenue leads from it eastwardly at right angles.

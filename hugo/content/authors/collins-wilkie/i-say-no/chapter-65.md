@@ -1,8 +1,7 @@
 ---
 title: "Chapter 65 - Cecilia In A New Character"
 weight: 65
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-65.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-65.html"
 ---
 
 Reaching the cottage at night, Emily found the card of a visitor who had called during the day. It bore the name of "Miss Wyvil," and had a message written on it which strongly excited Emily's curiosity.

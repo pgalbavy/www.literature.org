@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-27.html"
 ---
 
 General Yozarro's red-hot temper burst into uncontrollable flame, and he committed a blunder which allowed the game to flit when it was within his grasp. To the consternation of every one, he gave an instant order to fire upon the sailboat. The officers protested, but the Dictator was irrestrainable. He hurried down from the upper deck and ordered two sailors to train the gun at the front on the little craft. The better to accomplish this, he shouted to the Captain to slacken speed, so as not to distract the aim of the gunners.

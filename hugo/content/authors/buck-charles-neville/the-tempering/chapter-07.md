@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-07.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-07.html"
 ---
 
 It was Christmas eve night, and General Basil Prince, who had hurriedly changed to evening dress after his arrival by a late train, halted for a moment at the stairhead to look down. On his distinguished face played a quiet smile. In these rapidly changing times, pride of lineage and deference for tradition were things less openly voiced than in other days which he could remember.

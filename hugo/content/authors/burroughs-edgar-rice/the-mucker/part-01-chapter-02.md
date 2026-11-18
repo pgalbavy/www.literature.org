@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - Shanghaied"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-02.html"
 ---
 
 WHEN Billy opened his eyes again he could not recall, for the instant, very much of his recent past. At last he remembered with painful regret the drunken sailor it had been his intention to roll. He felt deeply chagrined that his rightful prey should have escaped him. He couldn't understand how it had happened.

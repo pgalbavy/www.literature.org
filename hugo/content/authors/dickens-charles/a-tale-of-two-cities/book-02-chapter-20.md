@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 20 - A Plea"
 weight: 26
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-20.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-20.html"
 ---
 
 WHEN the newly-married pair came home, the first person who appeared, to offer his congratulations, was Sydney Carton. They had not been at home many hours, when he presented himself. He was not improved in habits, or in looks, or in manner; but there was a certain rugged air of fidelity about him, which was new to the observation of Charles Darnay.

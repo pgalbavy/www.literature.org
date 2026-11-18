@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The: Struggle In The Council House"
 weight: 22
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-22.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-22.html"
 ---
 
 As Asano and Graham hurried along to the ruins about the Council House, they saw everywhere the excitement of the people rising. "To your Wards To your Wards!" Everywhere men and women in blue were hurrying from unknown subterranean employments, up the staircases of the middle path- at one place Graham saw an arsenal of the revolutionary committee besieged by a crowd of shouting men, at another a couple of men in the hated yellow uniform of the Labour Police, pursued by a gathering crowd, fled precipitately along the swift way that went in the opposite direction.

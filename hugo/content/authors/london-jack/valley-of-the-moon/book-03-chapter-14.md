@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 14"
 weight: 48
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-14.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-14.html"
 ---
 
 In the morning Billy went down town to pay for Hazel and Hattie. It was due to Saxon's impatient desire to see them, that he seemed to take a remarkably long time about so simple a transaction. But she forgave him when he arrived with the two horses hitched to the camping wagon.

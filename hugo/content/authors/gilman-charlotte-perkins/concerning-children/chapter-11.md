@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Six Mothers"
 weight: 11
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-11.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-11.html"
 ---
 
 Broad-minded mothers of this time are keenly interested in child-study, in that all too familiar and yet unknown field of "infant psychology." They are beginning to recognise not only the salient fact that "all children are different," but the equally important one that all children have points in common.

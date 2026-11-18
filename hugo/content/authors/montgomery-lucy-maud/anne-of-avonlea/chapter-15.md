@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Beginning Of Vacation"
 weight: 15
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-15.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-15.html"
 ---
 
 Anne locked the schoolhouse door on a still, yellow evening, when the winds were purring in the spruces around the playground, and the shadows were long and lazy by the edge of the woods. She dropped the key into her pocket with a sigh of satisfaction. The school year was ended, she had been reengaged for the next, with many expressions of satisfaction. . .only Mr. Harmon Andrews told her she ought to use the strap oftener. . .and two delightful months of a well-earned vacation beckoned her invitingly. Anne felt at peace with the world and herself as she walked down the hill with her basket of flowers in her hand. Since the earliest mayflowers Anne had never missed her weekly pilgrimage to Matthew's grave. Everyone else in Avonlea, except Marilla, had already forgotten quiet, shy, unimportant Matthew Cuthbert; but his memory was still green in Anne's heart and always would be. She could never forget the kind old man who had been the first to give her the love and sympathy her starved childhood had craved.

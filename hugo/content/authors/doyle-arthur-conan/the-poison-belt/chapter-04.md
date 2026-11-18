@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Diary Of The Dying"
 weight: 4
-aliases:
-  - "/authors/doyle-arthur-conan/the-poison-belt/chapter-04.html"
+url: "/authors/doyle-arthur-conan/the-poison-belt/chapter-04.html"
 ---
 
 How strange the words look scribbled at the top of the empty page of my book! How stranger still that it is I, Edward Malone, who have written them--I who started only some twelve hours ago from my rooms in Streatham without one thought of the marvels which the day was to bring forth! I look back at the chain of incidents, my interview with McArdle, Challenger's first note of alarm in the Times, the absurd journey in the train, the pleasant luncheon, the catastrophe, and now it has come to this--that we linger alone upon an empty planet, and so sure is our fate that I can regard these lines, written from mechanical professional habit and never to be seen by human eyes, as the words of one who is already dead, so closely does he stand to the shadowed borderland over which all outside this one little circle of friends have already gone. I feel how wise and true were the words of Challenger when he said that the real tragedy would be if we were left behind when all that is noble and good and beautiful had passed. But of that there can surely be no danger. Already our second tube of oxygen is drawing to an end. We can count the poor dregs of our lives almost to a minute.

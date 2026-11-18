@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67 - The Man In The Mask"
 weight: 67
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-67.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-67.html"
 ---
 
 The snow was falling thick and icy. Aramis was the next to come in and to discover Athos almost insensible. But at the first words he uttered the comte roused himself from the kind of lethargy in which he had sunk.

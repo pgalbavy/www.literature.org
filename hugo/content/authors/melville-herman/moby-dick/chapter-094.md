@@ -1,8 +1,7 @@
 ---
 title: "Chapter 94 - A Squeeze of the Hand"
 weight: 94
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-094.html"
+url: "/authors/melville-herman/moby-dick/chapter-094.html"
 ---
 
 That whale of Stubb's, so dearly purchased, was duly brought to the Pequod's side, where all those cutting and hoisting operations previously detailed, were regularly gone through, even to the baling of the Heidelburgh Tun, or Case.

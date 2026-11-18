@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Two Grasshoppers"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-18.html"
 ---
 
 Kiddie Katydid had a neighbor who was a good deal like him. Indeed, a careless person had to look sharply to discover much difference between them. But there was a difference. There was, especially, a certain way in which one could always tell them apart. One had only to take the trouble to look at their horns--or feelers. For Kiddie Katydid had horns as long--or longer--than he was. But his neighbor, who was known as Leaper the Locust, wore his horns quite short.

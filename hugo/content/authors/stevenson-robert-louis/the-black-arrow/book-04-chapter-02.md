@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 2 - \"In Mine Enemies' House\""
 weight: 21
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-02.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-04-chapter-02.html"
 ---
 
 Sir Daniel's residence in Shoreby was a tall, commodious, plastered mansion, framed in carven oak, and covered by a low-pitched roof of thatch. To the back there stretched a garden, full of fruit-trees, alleys, and thick arbours, and overlooked from the far end by the tower of the abbey church.

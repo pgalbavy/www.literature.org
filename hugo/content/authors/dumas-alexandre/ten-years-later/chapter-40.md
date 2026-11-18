@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - An Affair Of State"
 weight: 40
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-40.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-40.html"
 ---
 
 The cardinal, on passing into his cabinet, found the Comte de la Fere, who was waiting for him, engaged in admiring a very fine Raphael placed over a sideboard covered with plate. His eminence came in softly, lightly, and silently as a shadow, and surprised the countenance of the comte, as he was accustomed to do, pretending to divine by the simple expression of the face of his interlocutor what would be the result of the conversation.

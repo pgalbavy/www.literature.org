@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Uncle Jerry Chuck"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-24.html"
 ---
 
 Soon Jimmy Rabbit's friends arrived at his party in throngs. And soon Nimble Deer's antlers bristled with hats and coats of many kinds and colors.

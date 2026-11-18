@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - With Abraham Lincoln"
 weight: 9
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-09.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-09.html"
 ---
 
 So this was Lincoln--the man whom, lately, Rhett Bannister had hated above all other living men, at whose door he had laid all the woes and wounds and spilled blood of the nation. Awkward, indeed, he was, with gnarled features, ungainly limbs, and shambling gait. All this Bannister had expected to see. But where was the domineering air, the crafty expression, the pride of power, the ingrained coarseness, for which he had also looked? In that ungraceful form he could see now only the human frame bending under the weight of a mighty responsibility. In the furrowed face, drawn and ashy, and eloquent with suffering and care, in the deep-set, patient eyes, signals of a soul weighed down with sorrow, he could read now only the story of a life untouched by selfishness, of a heart breaking with the burdens and pierced with the griefs of a mighty and beloved nation.

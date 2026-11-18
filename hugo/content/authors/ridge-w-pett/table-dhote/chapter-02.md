@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Target"
 weight: 2
-aliases:
-  - "/authors/ridge-w-pett/table-dhote/chapter-02.html"
+url: "/authors/ridge-w-pett/table-dhote/chapter-02.html"
 ---
 
 THE woman stepped on so many toes in making her way to the far end that the passengers were only willing to give partial forgiveness when, as the motor-omnibus started, she gave a violent jerk.

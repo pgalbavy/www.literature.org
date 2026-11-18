@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 35
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-01.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-01.html"
 ---
 
 At the end of the winter, in the Shtcherbatskys' house, a consultation was being held, which wass to pronounce on the state of Kitty's health and the measures to be taken to restore her failing strength. She had been ill, and as spring came on she grew worse. The family doctor gave her cod liver oil, then iron, then nitrate of silver, but as the first and the second and the thrid were alike in doing no good, and as his advice when spring came was to go abroad, a celebrated physician was called in. The celebrated physician, a very handsome man, still youngish, asked to examine thepatient. He maintained, with peculiar satifaction, it seemed, that maiden modesty is a mere relic of barbarism, and that nothing could be more natural than for a man still youngish to handle a young girl naked. He thought it natural because he did it every day, and felt and thought, as it seemed to him, no harm as he did it and consequently he considered modesty in the girl not merely as a relic of barbarism, but also as an insult to himself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The House At Dover"
 weight: 24
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-24.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-24.html"
 ---
 
 "You don’t mind, I suppose," said Bundle after a minute or two, "if I drive rather fast? I started later than I meant to do."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Bushwackers’ Place"
 weight: 4
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-04.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-04.html"
 ---
 
 On that triangular forestland of extreme south-western Ontario there was a block of hardwood timber, consisting of something over two thousand acres. This was known as Bushwhackers’ Place. On its left lay a beautiful body of water called Rond Eau, and so close to this natural harbor grew the walnut trees that when the night was old the moon cast their shadows far out across the tranquil waters. From the edge of the bay northward and westward the forest swept in valleys and ridges until the lower lands were reached. Then the hard timber gave way to the rugged softwoods of the swales, where the giant basswood, elms, and ash trees gripped the damp earth with tenacious fingers that ran far underground, forming a network of fiber, which to this day wears down the plow-points of the tillers of the soil.

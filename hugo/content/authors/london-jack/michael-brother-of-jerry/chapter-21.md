@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-21.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-21.html"
 ---
 
 Harry Del Mar found only a few white feathers on the floor of Dag Daughtry's room in the Bowhead Lodging House, and from the landlady learned what had happened to Michael. The first thing Harry Del Mar did, still retaining his taxi, was to locate the residence of Doctor Emory and make sure that Michael was confined in an outhouse in the back yard. Next he engaged passage on the steamship Umatilla, sailing for Seattle and Puget Sound ports at daylight. And next he packed his luggage and paid his bills.

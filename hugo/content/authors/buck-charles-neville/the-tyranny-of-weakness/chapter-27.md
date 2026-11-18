@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-27.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-27.html"
 ---
 
 Even when he had comfortably settled himself Mr. Hagan's initial comment was irrelevant.

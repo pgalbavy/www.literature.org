@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Strutter"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-01.html"
 ---
 
 All the hen turkeys thought Turkey Proudfoot a wonderful creature. They said he had the most beautiful tail on the farm. When he spread it and strutted about Farmer Green's place the hen turkeys were sure to nudge one another and say, "Ahem! Isn't he elegant?"

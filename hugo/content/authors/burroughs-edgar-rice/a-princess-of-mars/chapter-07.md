@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Child-Raising on Mars"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-07.html"
 ---
 
 After a breakfast, which was an exact replica of the meal of the preceding day and an index of practically every meal which followed while I was with the green men of Mars, Sola escorted me to the plaza, where I found the entire community engaged in watching or helping at the harnessing of huge mastodonian animals to great three-wheeled chariots. There were about two hundred and fifty of these vehicles, each drawn by a single animal, any one of which, from their appearance, might easily have drawn the entire wagon train when fully loaded.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Gold!"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-07.html"
 ---
 
 "I b’lieve I’ll dig out of these parts," said Black Tom, with a sigh, after he had heard the explanation of Fred Hammond.

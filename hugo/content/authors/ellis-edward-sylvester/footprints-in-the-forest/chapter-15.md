@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - An Unexpected Call"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-15.html"
 ---
 
 Three separate times Jack Carleton noticed a peculiar jar of the tree in which he was perched. He felt no alarm, but some curiosity to know the cause.

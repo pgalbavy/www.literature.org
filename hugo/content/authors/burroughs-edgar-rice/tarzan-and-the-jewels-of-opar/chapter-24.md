@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-jewels-of-opar/chapter-24.html"
 ---
 
 As Tarzan of the Apes hurtled through the trees the discordant sounds of the battle between the Abyssinians and the lions smote more and more distinctly upon his sensitive ears, redoubling his assurance that the plight of the human element of the conflict was critical indeed.

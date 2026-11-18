@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-04.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-04.html"
 ---
 
 I was up with the birds in the morning; had my breakfast with them—a very drowsy-eyed Amedee assisting—and made off for the forest to get the sunrise through the branches, a pack on my back and three sandwiches for lunch in my pocket. I returned only with the failing light of evening, cheerfully tired and ready for a fine dinner and an early bed, both of which the good inn supplied. It was my daily programme; a healthy life "far from the world," as Amedee said, and I was sorry when the serpent entered and disturbed it, though he was my own. He is a pet of mine; has been with me since my childhood. He leaves me when I live alone, for he loves company, but returns whenever my kind are about me. There are many names for snakes of his breed, but, to deal charitably with myself, I call mine Interest-In-Other-People's-Affairs.

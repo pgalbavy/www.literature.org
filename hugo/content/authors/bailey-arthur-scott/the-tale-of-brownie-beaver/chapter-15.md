@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Jasper Jay's Story"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-15.html"
 ---
 
 After the blinding flash of light and the queer click had sent Brownie Beaver hurrying home from his partly gnawed tree, he stayed in his house for a long time before he ventured out again.

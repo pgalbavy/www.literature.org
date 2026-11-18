@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Of Sense"
 weight: 3
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-01.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-01.html"
 ---
 
 Concerning the Thoughts of man, I will consider them first Singly, and afterwards in Trayne, or dependance upon one another. Singly, they are every one a Representation or Apparence, of some quality, or other Accident of a body without us; which is commonly called an Object. Which Object worketh on the Eyes, Eares, and other parts of mans body; and by diversity of working, produceth diversity of Apparences.

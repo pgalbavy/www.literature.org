@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Answer"
 weight: 26
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-25.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-25.html"
 ---
 
 There are some kinds of questions which require no answers and others which answer themselves. Denver had asked Bunker what he meant when he refused Drusilla's address and intimated that he was unworthy of her friendship, but after a gloomy hour in the deepening twilight the question answered itself. Bunker had taken his daughter across the desert, on her way to the train and New York, and his curt remarks were but the reflex of her's as she discussed Denver's many transgressions. He thought more of mines and of his own selfish interests than he did of her and her art, and so she desired to hear no more of him or his protestations of innocence. That was what the words meant and as Denver thought them over he wondered if it was not true.

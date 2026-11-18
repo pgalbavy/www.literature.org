@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 4
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-03.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-01-chapter-03.html"
 ---
 
 He waked up late next day after a broken sleep. But his sleep had not refreshed him; he waked up bilious, irritable, ill-tempered, and looked with hatred at his room. It was a tiny cupboard of a room about six paces in length. It had a poverty-stricken appearance with its dusty yellow paper peeling off the walls, and it was so low-pitched that a man of more than average height was ill at ease in it and felt every moment that he would knock his head against the ceiling. The furniture was in keeping with the room: there were three old chairs, rather rickety; a painted table in the corner on which lay a few manuscripts and books; the dust that lay thick upon them showed that they had been long untouched. A big clumsy sofa occupied almost the whole of one wall and half the floor space of the room; it was once covered with chintz, but was now in rags and served Raskolnikov as a bed. Often he went to sleep on it, as he was, without undressing, without sheets, wrapped in his old student's overcoat, with his head on one little pillow, under which he heaped up all the linen he had, clean and dirty, by way of a bolster. A little table stood in front of the sofa.

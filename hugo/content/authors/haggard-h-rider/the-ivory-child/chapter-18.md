@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Embassy"
 weight: 18
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-18.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-18.html"
 ---
 
 The ceremonies were over and the priests, with the exception of Harût and two who remained to attend upon him, vanished, probably to inform the male and female hierophants of their result, and through these the whole people of the White Kendah. Old Harût stared at us for a little while, then said in English, which he always liked to talk when Ragnall was present, perhaps for the sake of practice:

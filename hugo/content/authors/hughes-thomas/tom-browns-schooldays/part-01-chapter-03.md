@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - Sundry Wars And Alliances"
 weight: 3
-aliases:
-  - "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-03.html"
+url: "/authors/hughes-thomas/tom-browns-schooldays/part-01-chapter-03.html"
 ---
 
 Poor old Benjy! The "rheumatiz" has much to answer for all through English country-sides, but it never played a scurvier trick than in laying thee by the heels, when thou wast yet in a green old age. The enemy, which had long been carrying on a sort of border warfare, and trying his strength against Benjy's on the battlefield of his hands and legs, now, mustering all his forces, began laying siege to the citadel, and overrunning the whole country. Benjy was seized in the back and loins; and though he made strong and brave fight, it was soon clear enough that all which could be beaten of poor old Benjy would have to give in before long.

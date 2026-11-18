@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-19.html"
+url: "/authors/shelley-mary/frankenstein/chapter-19.html"
 ---
 
 London was our present point of rest; we determined to remain several months in this wonderful and celebrated city. Clerval desired the intercourse of the men of genius and talent who flourished at this time; but this was with me a secondary object; I was principally occupied with the means of obtaining the information necessary for the completion of my promise, and quickly availed myself of the letters of introduction that I had brought with me, addressed to the most distinguished natural philosophers.

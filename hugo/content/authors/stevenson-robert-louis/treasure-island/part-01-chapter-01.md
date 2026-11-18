@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - The Old Sea-Dog At The Admiral Benbow"
 weight: 2
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-01.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-01-chapter-01.html"
 ---
 
 SQUIRE TRELAWNEY, Dr. Livesey, and the rest of these gentlemen having asked me to write down the whole particulars about Treasure Island, from the beginning to the end, keeping nothing back but the bearings of the island, and that only because there is still treasure not yet lifted, I take up my pen in the year of grace 17__ and go back to the time when my father kept the Admiral Benbow inn and the brown old seaman with the sabre cut first took up his lodging under our roof.

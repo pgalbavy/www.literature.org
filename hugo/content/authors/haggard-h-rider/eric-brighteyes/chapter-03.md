@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - How Asmund Bade Eric To His Yule-Feast"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-03.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-03.html"
 ---
 
 Now it was supper-time and men sat at meat while the women waited upon them. But as she went to and fro, Gudruda always looked at Eric, and Swanhild watched them both. Supper being over, people gathered round the hearth, and, having finished her service, Gudruda came and sat by Eric, so that her sleeve might touch his. They spoke no word, but there they sat and were happy. Swanhild saw and bit her lip. Now, she was seated by Asmund and Björn his son.

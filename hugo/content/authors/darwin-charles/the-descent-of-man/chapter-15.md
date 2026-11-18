@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-15.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-15.html"
 ---
 
 WE have in this chapter to consider why the females of many birds have not acquired the same ornaments as the male; and why, on the other hand, both sexes of many other birds are equally, or almost equally, ornamented? In the following chapter we shall consider the few cases in which the female is more conspicuously coloured than the male.

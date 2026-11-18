@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Matter Of Politeness"
 weight: 16
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-16.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-16.html"
 ---
 
 It costs not much to be polite And, furthermore, it's always right.

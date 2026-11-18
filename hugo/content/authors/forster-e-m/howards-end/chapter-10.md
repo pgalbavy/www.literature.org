@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-10.html"
+url: "/authors/forster-e-m/howards-end/chapter-10.html"
 ---
 
 Several days passed.

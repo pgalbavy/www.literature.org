@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Feigning"
 weight: 39
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-39.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-39.html"
 ---
 
 The next morning, Mr. Mirabel took two members of the circle at Monksmoor by surprise. One of them was Emily; and one of them was the master of the house.

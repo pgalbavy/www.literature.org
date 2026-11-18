@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 19"
 weight: 19
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-19.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-19.html"
 ---
 
 The weather, after the big storm, behaved capriciously. There was a partial thaw which threatened to flood everything,--then a hard freeze. The whole country glittered with an icy crust, and people went about on a platform of frozen snow, quite above the level of ordinary life. Claude got out Mr. Wheeler's old double sleigh from the mass of heterogeneous objects that had for years lain on top of it, and brought the rusty sleighbells up to the house for Mahailey to scour with brick dust. Now that they had automobiles, most of the farmers had let their old sleighs go to pieces. But the Wheelers always kept everything.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-05.html"
+url: "/authors/greene-homer/the-guardsman/chapter-05.html"
 ---
 
 Although the incident at the flag-raising on the Fourth of July was deeply and unpleasantly impressed on the mind and memory of Halpert McCormack, it did not deter him from following the advice of his Aunt Sarah Halpert, and filing his application to become a member of Company E of the National Guard. He felt, in the first place, that in doing so he was honoring the memory of his father, who had been, in his lifetime, the captain of the company and devoted to its interests. He felt also that while military force ought to be unnecessary in the conduct and protection of governments, the times were not yet ripe for the voluntary disarmament of any nation, and that perhaps it was his duty as a young American citizen to identify himself with the visible means of preserving domestic order and preventing foreign aggression. His application for enlistment was promptly approved by the commanding officer, and he was directed to present himself at the armory to be sworn in.

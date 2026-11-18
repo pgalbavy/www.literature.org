@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-07.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-07.html"
 ---
 
 READER, perhaps you were never in Belgium? Haply you don't know the physiognomy of the country? You have not its lineaments defined upon your memory, as I have them on mine?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Tempest"
 weight: 6
-aliases:
-  - "/authors/london-jack/adventure/chapter-06.html"
+url: "/authors/london-jack/adventure/chapter-06.html"
 ---
 
 It was the first time Sheldon had been at close quarters with an American girl, and he would have wondered if all American girls were like Joan Lackland had he not had wit enough to realize that she was not at all typical. Her quick mind and changing moods bewildered him, while her outlook on life was so different from what he conceived a woman's outlook should be, that he was more often than not at sixes and sevens with her. He could never anticipate what she would say or do next. Of only one thing was he sure, and that was that whatever she said or did was bound to be unexpected and unsuspected. There seemed, too, something almost hysterical in her make-up. Her temper was quick and stormy, and she relied too much on herself and too little on him, which did not approximate at all to his ideal of woman's conduct when a man was around. Her assumption of equality with him was disconcerting, and at times he half-consciously resented the impudence and bizarreness of her intrusion upon him--rising out of the sea in a howling nor'wester, fresh from poking her revolver under Ericson's nose, protected by her gang of huge Polynesian sailors, and settling down in Berande like any shipwrecked sailor. It was all on a par with her Baden-Powell and the long 38 Colt's.

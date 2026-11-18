@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Johnnie Green's Idea"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-02.html"
 ---
 
 It happened that just before Rusty Wren and his wife came to Pleasant Valley to look for a home, Johnnie Green had an idea.

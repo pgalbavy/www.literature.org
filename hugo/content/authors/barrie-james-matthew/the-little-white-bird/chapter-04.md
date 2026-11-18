@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Night-Piece"
 weight: 4
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-04.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-04.html"
 ---
 
 There came a night when the husband was alone in that street waiting. He can do nothing for you now, little nursery governess, you must fight it out by yourself; when there are great things to do in the house the man must leave. Oh, man, selfish, indelicate, coarse-grained at the best, thy woman's hour has come; get thee gone.

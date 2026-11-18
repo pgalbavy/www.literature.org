@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - All's Well Again"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-rusty-wren/chapter-09.html"
 ---
 
 After Rusty Wren had revived his drooping spirits by eating heartily of three dozen insects of different kinds and sizes, he felt so cheerful that he couldn't help trilling a few songs. It was almost evening; and he was glad not to let the sun go down without thanking him in that way for shining so brightly all day.

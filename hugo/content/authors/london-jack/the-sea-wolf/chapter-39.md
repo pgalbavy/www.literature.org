@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-39.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-39.html"
 ---
 
 The day came for our departure. There was no longer anything to detain us on Endeavour Island. The Ghost's stumpy masts were in place, her crazy sails bent. All my handiwork was strong, none of it beautiful; but I knew that it would work, and I felt myself a man of power as I looked at it.

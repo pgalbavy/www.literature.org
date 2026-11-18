@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - On The Fever Ship"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-02.html"
+url: "/authors/davis-richard-harding/the-lion-and-the-unicorn-and-other-stories/chapter-02.html"
 ---
 
 There were four rails around the ship’s sides, the three lower ones of iron and the one on top of wood, and as he looked between them from the canvas cot he recognized them as the prison-bars which held him in. Outside his prison lay a stretch of blinding blue water which ended in a line of breakers and a yellow coast with ragged palms. Beyond that again rose a range of mountain-peaks, and, stuck upon the loftiest peak of all, a tiny block-house. It rested on the brow of the mountain against the naked sky as impudently as a cracker-box set upon the dome of a great cathedral.

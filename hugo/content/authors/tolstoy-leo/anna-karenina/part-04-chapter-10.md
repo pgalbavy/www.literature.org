@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 10"
 weight: 111
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-10.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-10.html"
 ---
 
 Pestsov liked thrashing an argument out to the end, and was not ~ satisfied with Sergey Ivanovitch's words, especially as he felt the injustice of his view.

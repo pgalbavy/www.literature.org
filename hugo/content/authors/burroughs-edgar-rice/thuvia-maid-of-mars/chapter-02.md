@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Slavery"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/thuvia-maid-of-mars/chapter-02.html"
 ---
 
 As the ruler of Ptarth, followed by his courtiers, descended from the landing-stage above the palace, the servants dropped into their places in the rear of their royal or noble masters, and behind the others one lingered to the last. Then quickly stooping he snatched the sandal from his right foot, slipping it into his pocket-pouch.

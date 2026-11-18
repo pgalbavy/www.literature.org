@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-21.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-21.html"
 ---
 
 Lady Carey suddenly dropped her partner's arm. She had seen a man standing by himself with folded arms and moody face at the entrance to the ball-room. She raised her lorgnettes. His identity was unquestionable.

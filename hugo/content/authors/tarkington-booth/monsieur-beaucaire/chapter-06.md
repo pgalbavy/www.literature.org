@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/monsieur-beaucaire/chapter-06.html"
+url: "/authors/tarkington-booth/monsieur-beaucaire/chapter-06.html"
 ---
 
 In the outer room, Winterset, unable to find Lady Mary, and supposing her to have joined Lady Rellerton, disposed of his negus, then approached the two visitors to pay his respects to the young prince, whom he discovered to be a stripling of seventeen, arrogant looking, but pretty as a girl. Standing beside the Marquis de Mirepoix—a man of quiet bearing—he was surrounded by a group of the great, among whom Mr. Nash naturally counted himself. The Beau was felicitating himself that the foreigners had not arrived a week earlier, in which case he and Bath would have been detected in a piece of gross ignorance concerning the French nobility—making much of de Mirepoix's ex-barber.

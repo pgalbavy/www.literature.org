@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-21.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-21.html"
 ---
 
 That is why your "strandings" are for the most part so unexpected. In fact, they are all unexpected, except those heralded by some short glimpse of the danger, full of agitation and excitement, like an awakening from a dream of incredible folly.

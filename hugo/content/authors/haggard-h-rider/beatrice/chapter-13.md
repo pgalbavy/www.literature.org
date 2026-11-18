@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Geoffrey Lectures"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-13.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-13.html"
 ---
 
 Meanwhile Beatrice was walking homewards with an uneasy mind. The trouble was upon her. She had, it is true, succeeded in postponing it a little, but she knew very well that it was only a postponement. Owen Davies was not a man to be easily shaken off. She almost wished now that she had crushed the idea once and for all. But then he would have gone to her father, and there must have been a scene, and she was weak enough to shrink from that, especially while Mr. Bingham was in the house. She could well imagine the dismay, not to say the fury, of her money-loving old father if he were to hear that she had refused--actually refused--Owen Davies of Bryngelly Castle, and all his wealth.

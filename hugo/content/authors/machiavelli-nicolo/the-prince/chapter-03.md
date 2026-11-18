@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Concerning Mixed Principalities"
 weight: 4
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-03.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-03.html"
 ---
 
 But the difficulties occur in a new principality. And firstly, if it be not entirely new, but is, as it were, a member of a state which, taken collectively, may be called composite, the changes arise chiefly from an inherent difficulty which there is in all new principalities; for men change their rulers willingly, hoping to better themselves, and this hope induces them to take up arms against him who rules: wherein they are deceived, because they afterwards find by experience they have gone from bad to worse. This follows also on another natural and common necessity, which always causes a new prince to burden those who have submitted to him with his soldiery and with infinite other hardships which he must put upon his new acquisition.

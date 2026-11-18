@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Curious Mr. Crow"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-19.html"
 ---
 
 Living in the orchard as they did, near the farmhouse, Jolly Robin and his wife knew more about Farmer Green's family than any of the other birds in Pleasant Valley, except maybe Rusty Wren. Being a house wren, Rusty was naturally on the best of terms with all the people in the farmhouse.

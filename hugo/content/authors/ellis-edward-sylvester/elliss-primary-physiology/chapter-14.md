@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Accidents And Emergencies"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/elliss-primary-physiology/chapter-14.html"
 ---
 
 This little book is not intended to take the place of the physician, but is meant to help you to get along without him. We are all liable to accidents, and you should know what to do in such cases, before the doctor reaches you. Besides, you can often help yourself, and will not need the doctor.

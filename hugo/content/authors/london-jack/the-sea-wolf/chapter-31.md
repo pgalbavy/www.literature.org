@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-31.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-31.html"
 ---
 
 "It will smell," I said, "but it will keep in the heat and keep out the rain and snow."

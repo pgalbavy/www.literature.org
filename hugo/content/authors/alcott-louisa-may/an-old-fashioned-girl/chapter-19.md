@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Tom's Success"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-19.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-19.html"
 ---
 
 WOULD be the most appropriate motto for this chapter, because, intimidated by the threats, denunciations, and complaints showered upon me in consequence of taking the liberty to end a certain story as I liked, I now yield to the amiable desire of giving satisfaction, and, at the risk of outraging all the unities, intend to pair off everybody I can lay my hands on.

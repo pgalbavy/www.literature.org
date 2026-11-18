@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Zeb's Revenge"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-ranger/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-ranger/chapter-09.html"
 ---
 
 When the King of Terrors shakes his sword at his victim, unwonted yearnings come over the human heart. To die alone, removed from home and friends, when strange faces are beside us, is a fate which we all fervently pray may not be ours. Yet, when these strangers are enemies, and our death is at their hands—when every shriek or moan elicits only jeers and laughter, how unspeakably dreadful is the fate! He who has lost a dear friend in war, that has languished and died in the hands of strangers, and perhaps received no burial at their hands—he who mourns such a loss, may be able to appreciate, in some degree, the mournful situation of young Leland, in the hands of the malignant Shawnees.

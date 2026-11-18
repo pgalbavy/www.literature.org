@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Defense Of Mrs. Beauly"
 weight: 31
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-31.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-31.html"
 ---
 
 THE days that elapsed before Major Fitz-David's dinner-party were precious days to me.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Move Down The Lake"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-06.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-06.html"
 ---
 
 In Porfirio Diaz' day, the lake-side began to be the Riviera of Mexico, and Orilla was to be the Nice, or at least the Mentone of the country. But revolutions started erupting again, and in 1911 Don Porfirio fled to Paris with, it is said, thirty million gold pesos in his pocket: a peso being half a dollar, nearly half-a- crown. But we need not believe all that is said, especially by a man's enemies.

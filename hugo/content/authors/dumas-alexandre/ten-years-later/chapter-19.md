@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - What D'artagnan Went To Paris For"
 weight: 19
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-19.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-19.html"
 ---
 
 The lieutenant dismounted before a shop in the Rue des Lombards, at the sign of the Pilon d'Or. A man of good appearance, wearing a white apron, and stroking his gray mustache with a large hand, uttered a cry of joy on perceiving the pied horse. "Monsieur le chevalier," said he, "ah, is that you?"

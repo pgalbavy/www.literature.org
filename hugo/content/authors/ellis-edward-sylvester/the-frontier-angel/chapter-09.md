@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Peter Jenkins--A Couple Of Speeches"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-09.html"
 ---
 
 "*CONSARN* her, I don't care nothin' for her. I was just fooling; I only got down to see where she had put my rifle. Wonder where she got it from! She's awful ugly. S'pect Dingle has been telling her some lies about me. By gracious! if I'd only thought about her shooting that arrer at me, she'd have cotched it. Wonder if it would have killed a feller if he'd touched her! I wouldn't risk it, no how. She is purty—*somewhat*. Never mind, I don't care, though I should like to know who she is. It's time I was tramping home, or the folks will begin to worry about me!"

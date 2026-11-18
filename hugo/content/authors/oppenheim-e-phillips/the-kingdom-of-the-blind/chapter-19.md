@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-19.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-19.html"
 ---
 
 It was a very cheerful little party dining that night at the Dormy House Club. There was Granet; Geoffrey Anselman, his cousin, who played for Cambridge and rowed two; Major Harrison, whose leave had been extended another three weeks; and the secretary of the club, who made up the quartette.

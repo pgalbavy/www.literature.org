@@ -1,8 +1,7 @@
 ---
 title: "Chapter 56 - The Means"
 weight: 58
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-56.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-56.html"
 ---
 
 THE new day dawned; the sun rose; the household was astir again. Inside the spare room, and outside the spare room, nothing had happened.

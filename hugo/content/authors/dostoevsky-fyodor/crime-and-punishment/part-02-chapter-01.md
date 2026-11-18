@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1"
 weight: 9
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-01.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-01.html"
 ---
 
 So he lay a very long while. Now and then he seemed to wake up, and at such moments he noticed that it was far into the night, but it did not occur to him to get up. At last he noticed that it was beginning to get light. He was lying on his back, still dazed from his recent oblivion. Fearful, despairing cries rose shrilly from the street, sounds which he heard every night, indeed, under his window after two o'clock. They woke him up now.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Persuasion"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-07.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-07.html"
 ---
 
 The days of the house-party at Shotover were numbered. A fresh relay of guests was to replace them on Monday, and so they were making the most of the waning week on lawn and marsh, in covert and blind, or motoring madly over the State, or riding in parties to Vermillion Light. Tennis and lawn bowls came into fashion; even water polo and squash alternated on days too raw for more rugged sport.

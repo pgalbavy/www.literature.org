@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - In Which We Are Unorthodox"
 weight: 9
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-09.html"
 ---
 
 “SOMETHING,” announced Phil, painting away industriously at his picture,--“something is up with Grif. Can any of you explain what it is?”

@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 4 - A Runaway Match"
 weight: 54
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-04.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-04.html"
 ---
 
 Cherubic Pa arose with as little noise as possible from beside majestic Ma, one morning early, having a holiday before him. Pa and the lovely woman had a rather particular appointment to keep.

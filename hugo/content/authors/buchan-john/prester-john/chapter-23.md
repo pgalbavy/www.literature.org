@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - My Uncle's Gift Is Many Times Multiplied"
 weight: 24
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-23.html"
+url: "/authors/buchan-john/prester-john/chapter-23.html"
 ---
 
 We got at the treasure by blowing open the turnstile. It was easy enough to trace the spot in the rock where it stood, but the most patient search did not reveal its secret. Accordingly we had recourse to dynamite, and soon laid bare the stone steps, and ascended to the gallery. The chasm was bridged with planks, and Arcoll and I crossed alone. The cave was as I had left it. The bloodstains on the floor had grown dark with time, but the ashes of the sacramental fire were still there to remind me of the drama I had borne a part in. When I looked at the way I had escaped my brain grew dizzy at the thought of it. I do not think that all the gold on earth would have driven me a second time to that awful escalade. As for Arcoll, he could not see its possibility at all.

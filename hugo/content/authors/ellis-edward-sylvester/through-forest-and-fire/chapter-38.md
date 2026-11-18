@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Bear And Forbear"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-38.html"
 ---
 
 "See here," said Nick Ribsam, stopping suddenly, after taking only a few steps, "I don't like this idea of going home and leaving so many of my clothes behind. That's a good coat and vest, and the hat is my Sunday one."

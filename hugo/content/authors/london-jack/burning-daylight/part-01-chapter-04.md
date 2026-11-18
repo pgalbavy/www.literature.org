@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-04.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-04.html"
 ---
 
 On the river, where was a packed trail and where snowshoes were unnecessary, the dogs averaged six miles an hour. To keep up with them, the two men were compelled to run. Daylight and Kama relieved each other regularly at the gee-pole, for here was the hard work of steering the flying sled and of keeping in advance of it. The man relieved dropped behind the sled, occasionally leaping upon it and resting.

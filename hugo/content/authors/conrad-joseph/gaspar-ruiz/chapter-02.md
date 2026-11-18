@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-02.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-02.html"
 ---
 
 *GASPAR* Ruiz, condemned to death as a deserter, was not thinking either of his native place or of his parents, to whom he had been a good son on account of the mildness of his character and the great strength of his limbs. The practical advantage of this last was made still more valuable to his father by his obedient disposition. Gaspar Ruiz had an acquiescent soul.

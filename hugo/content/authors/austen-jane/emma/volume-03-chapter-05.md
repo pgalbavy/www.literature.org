@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 5"
 weight: 41
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-05.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-05.html"
 ---
 
 In this state of schemes, and hopes, and connivance, June opened upon Hartfield. To Highbury in general it brought no material change. The Eltons were still talking of a visit from the Sucklings, and of the use to be made of their barouche-landau; and Jane Fairfax was still at her grandmother's; and as the return of the Campbells from Ireland was again delayed, and August, instead of Midsummer, fixed for it, she was likely to remain there full two months longer, provided at least she were able to defeat Mrs. Elton's activity in her service, and save herself from being hurried into a delightful situation against her will.

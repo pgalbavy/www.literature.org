@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Thunderbolt"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-22.html"
 ---
 
 Avon Burnet knew that when the cattlemen reached a point within a half mile of his home, and the fire had not yet been started, that all danger was over. It was beyond the power of the assailants, with the slight time at their command, to harm the defenders.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-01.html"
+url: "/authors/greene-homer/picketts-gap/chapter-01.html"
 ---
 
 Abner Pickett stood in the dusty roadway, rake in hand, watching a load of late August clover, that day harvested, move slowly toward the barn. It was a rich, fragrant, well-proportioned load, covering the hay-rigging wholly from sight, hiding the horses that drew it, swallowing in its luxurious depths the man who drove the team. It was Abner Pickett’s hay, and his team, and his barn; so indeed were his all the fertile acres that surrounded him. But for all this Abner Pickett was not happy.

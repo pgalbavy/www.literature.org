@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Double Focus"
 weight: 4
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-04.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-04.html"
 ---
 
 A man of action does not loiter all evening returning his own howdy-doo to himself—not in his first evening outfit. At Forty-second Street Pape cast a last look at the sign in which he felt by now devout belief, doubtless one of the most costly and colorful ever flaunted before New York. Certainly it was self-advertisement raised to the _N_th power and worthy any one’s consideration. Yet the obligation to escort his new suit somewhere was on him.

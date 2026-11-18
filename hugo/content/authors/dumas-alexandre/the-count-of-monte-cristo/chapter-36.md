@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Carnival At Rome"
 weight: 36
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-36.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-36.html"
 ---
 
 When Franz recovered his senses, he saw Albert drinking a glass of water, of which, to judge from his pallor, he stood in great need; and the count, who was assuming his masquerade costume. He glanced mechanically towards the square - the scene was wholly changed; scaffold, executioners, victims, all had disappeared; only the people remained, full of noise and excitement. The bell of Monte Citorio, which only sounds on the pope's decease and the opening of the Carnival, was ringing a joyous peal. "Well," asked he of the count, "what has, then, happened?"

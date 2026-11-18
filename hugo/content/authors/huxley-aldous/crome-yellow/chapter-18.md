@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-18.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-18.html"
 ---
 
 The nearest Roman Catholic church was upwards of twenty miles away. Ivor, who was punctilious in his devotions, came down early to breakfast and had his car at the door, ready to start, by a quarter to ten. It was a smart, expensive-looking machine, enamelled a pure lemon yellow and upholstered in emerald green leather. There were two seats—three if you squeezed tightly enough—and their occupants were protected from wind, dust, and weather by a glazed sedan that rose, an elegant eighteenth-century hump, from the midst of the body of the car.

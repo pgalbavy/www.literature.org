@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-05.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-05.html"
 ---
 
 The Book of Life - It Might Have Been

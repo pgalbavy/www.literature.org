@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Clever Gretel"
 weight: 22
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-22.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-22.html"
 ---
 
 There was once a cook named Gretel, who wore shoes with red heels, and when she walked out with them on, she turned herself this way and that, was quite happy and thought: ‘You certainly are a pretty girl!’ And when she came home she drank, in her gladness of heart, a draught of wine, and as wine excites a desire to eat, she tasted the best of whatever she was cooking until she was satisfied, and said: ‘The cook must know what the food is like.’

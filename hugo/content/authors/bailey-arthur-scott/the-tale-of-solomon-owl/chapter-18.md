@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Xviii - A Cousinly Quarrel"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-18.html"
 ---
 
 It proved to be just as Solomon Owl had told his cousin, Simon Screecher. Solomon had so much on his mind that he had no sooner fallen asleep than he awoke again, to study over the question that perplexed him. He certainly did not want Simon to have twice as many mice as he. But Simon’s argument was a good one. He had said that since Solomon was more than twice his size, it was proper that he should have a chance to grow. And everybody knew—Solomon reflected—everybody knew that eating made one larger.

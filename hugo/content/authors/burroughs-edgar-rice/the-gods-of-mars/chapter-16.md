@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Under Arrest"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-16.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-16.html"
 ---
 
 As Carthoris, Xodar, Tars Tarkas, and I stood gazing at the magnificent vessel which meant so much to all of us, we saw a second and then a third top the summit of the hills and glide gracefully after their sister.

@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/finished/introduction.html"
+url: "/authors/haggard-h-rider/finished/introduction.html"
 ---
 
 Digital Editor's Note:

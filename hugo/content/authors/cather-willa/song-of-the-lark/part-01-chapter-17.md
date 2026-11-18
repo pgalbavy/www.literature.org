@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 17"
 weight: 17
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-17.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-17.html"
 ---
 
 The summer flew by. Thea was glad when Ray Kennedy had a Sunday in town and could take her driving. Out among the sand hills she could forget the “new room” which was the scene of wearing and fruitless labor. Dr. Archie was away from home a good deal that year. He had put all his money into mines above Colorado Springs, and he hoped for great returns from them.

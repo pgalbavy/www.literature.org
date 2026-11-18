@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 22 - Of The Freedom Don Quixote Conferred On Several Unfortunates Who Against Their Will Were Being Carried Where They Had No Wish To Go"
 weight: 25
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-22.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-22.html"
 ---
 
 Cid Hamete Benengeli, the Arab and Manchegan author, relates in this most grave, high-sounding, minute, delightful, and original history that after the discussion between the famous Don Quixote of La Mancha and his squire Sancho Panza which is set down at the end of chapter twenty-one, Don Quixote raised his eyes and saw coming along the road he was following some dozen men on foot strung together by the neck, like beads, on a great iron chain, and all with manacles on their hands. With them there came also two men on horseback and two on foot; those on horseback with wheel-lock muskets, those on foot with javelins and swords, and as soon as Sancho saw them he said:

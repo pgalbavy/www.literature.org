@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/monsieur-beaucaire/chapter-04.html"
+url: "/authors/tarkington-booth/monsieur-beaucaire/chapter-04.html"
 ---
 
 There fell a clear September night, when the moon was radiant over town and country, over cobbled streets and winding roads. From the fields the mists rose slowly, and the air was mild and fragrant, while distances were white and full of mystery. All of Bath that pretended to fashion or condition was present that evening at a fete at the house of a country gentleman of the neighborhood. When the stately junket was concluded, it was the pleasure of M. de Chateaurien to form one of the escort of Lady Mary's carriage for the return. As they took the road, Sir Hugh Guilford and Mr. Bantison, engaging in indistinct but vigorous remonstrance with Mr. Molyneux over some matter, fell fifty or more paces behind, where they continued to ride, keeping up their argument. Half a dozen other gallants rode in advance, muttering among themselves, or attended laxly upon Lady Mary's aunt on the other side of the coach, while the happy Frenchman was permitted to ride close to that adorable window which framed the fairest face in England.

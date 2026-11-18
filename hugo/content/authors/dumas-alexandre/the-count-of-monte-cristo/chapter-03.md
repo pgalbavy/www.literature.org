@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Catalans"
 weight: 3
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-03.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-03.html"
 ---
 
 Beyond a bare, weather-worn wall, about a hundred paces from the spot where the two friends sat looking and listening as they drank their wine, was the village of the Catalans. Long ago this mysterious colony quitted Spain, and settled on the tongue of land on which it is to this day. Whence it came no one knew, and it spoke an unknown tongue. One of its chiefs, who understood Provencal, begged the commune of Marseilles to give them this bare and barren promontory, where, like the sailors of old, they had run their boats ashore. The request was granted; and three months afterwards, around the twelve or fifteen small vessels which had brought these gypsies of the sea, a small village sprang up. This village, constructed in a singular and picturesque manner, half Moorish, half Spanish, still remains, and is inhabited by descendants of the first comers, who speak the language of their fathers. For three or four centuries they have remained upon this small promontory, on which they had settled like a flight of seabirds, without mixing with the Marseillaise population, intermarrying, and preserving their original customs and the costume of their mother-country as they have preserved its language.

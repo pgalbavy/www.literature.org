@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 73 - Of The Omens Don Quixote Had As He Entered His Own Village, And Other Incidents That Embellish And Give A Colour To This Great History"
 weight: 129
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-73.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-73.html"
 ---
 
 At the entrance of the village, so says Cide Hamete, Don Quixote saw two boys quarrelling on the village threshing-floor, one of whom said to the other, "Take it easy, Periquillo; thou shalt never see it again as long as thou livest."

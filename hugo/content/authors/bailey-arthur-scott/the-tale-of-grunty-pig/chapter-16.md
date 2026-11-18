@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Danger Ahead"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-16.html"
 ---
 
 Jolly Robin and his wife were terribly worried. Grunty Pig meant to uproot the apple tree where they had their nest. Every day he came and dug at the foot of the tree. Every day, just before he went away, he looked up at them and said, "I hope you'll sleep well to-night. You'd better enjoy your home while you have it, for the tree will be flat on the ground before fall."

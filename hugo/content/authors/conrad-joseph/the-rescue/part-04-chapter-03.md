@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 3"
 weight: 26
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-04-chapter-03.html"
+url: "/authors/conrad-joseph/the-rescue/part-04-chapter-03.html"
 ---
 
 A slight change of expression which passed away almost directly showed that Lingard heard the passionate cry wrung from her by the distress of her mind. He made no sign. She perceived clearly the extreme difficulty of her position. The situation was dangerous; not so much the facts of it as the feeling of it. At times it appeared no more actual than a tradition; and she thought of herself as of some woman in a ballad, who has to beg for the lives of innocent captives. To save the lives of Mr. Travers and Mr. d'Alcacer was more than a duty. It was a necessity, it was an imperative need, it was an irresistible mission. Yet she had to reflect upon the horrors of a cruel and obscure death before she could feel for them the pity they deserved. It was when she looked at Lingard that her heart was wrung by an extremity of compassion. The others were pitiful, but he, the victim of his own extravagant impulses, appeared tragic, fascinating, and culpable. Lingard lifted his head. Whispers were heard at the door and Hassim followed by Immada entered the cabin.

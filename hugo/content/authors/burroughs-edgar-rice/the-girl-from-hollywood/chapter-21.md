@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-21.html"
 ---
 
 On the following Monday a pock-marked Mexican appeared at the county jail in Los Angeles, during visitors’ hours, and asked to be permitted to see Slick Allen. The two stood in a corner and conversed in whispers. Allen’s face wore an ugly scowl when his visitor told him of young Pennington’s interference with their plans.

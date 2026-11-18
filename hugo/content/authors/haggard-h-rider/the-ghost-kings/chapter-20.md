@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Mother Of The Trees"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-20.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-20.html"
 ---
 
 When Eddo understood these words he lifted his head and stared at Rachel amazed.

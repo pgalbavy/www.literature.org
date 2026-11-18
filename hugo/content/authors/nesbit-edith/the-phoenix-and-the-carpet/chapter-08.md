@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Cats, The Cow, And The Burglar"
 weight: 8
-aliases:
-  - "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-08.html"
+url: "/authors/nesbit-edith/the-phoenix-and-the-carpet/chapter-08.html"
 ---
 
 The nursery was full of Persian cats and musk-rats that had been brought there by the wishing carpet. The cats were mewing and the musk-rats were squeaking so that you could hardly hear yourself speak. In the kitchen were the four children, one candle, a concealed Phoenix, and a very visible policeman.

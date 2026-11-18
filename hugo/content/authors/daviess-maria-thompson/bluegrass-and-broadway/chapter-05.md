@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-05.html"
+url: "/authors/daviess-maria-thompson/bluegrass-and-broadway/chapter-05.html"
 ---
 
 It may be that in the long life of Mr. Godfrey Vandeford he had passed a more perturbed evening than that on which he led his protégé, the author of "The Purple Slipper," to her début under the white lights of Broadway, but he could not recall the occasion. His grilling had begun while he waited for his charge to descend in the lobby of the Y. W. C. A. and it ended--

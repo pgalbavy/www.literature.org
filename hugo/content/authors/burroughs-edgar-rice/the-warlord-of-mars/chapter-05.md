@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - On the Kaolian Road"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-05.html"
 ---
 
 If there be a fate that is sometimes cruel to me, there surely is a kind and merciful Providence which watches over me.

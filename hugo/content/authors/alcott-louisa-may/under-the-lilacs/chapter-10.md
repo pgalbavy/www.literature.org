@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Heavy Trouble"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-10.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-10.html"
 ---
 
 "Thank you, ma'am, that's a tip-top book, 'specially the pictures. But I can't bear to see these poor fellows;" and Ben brooded over the fine etching of the dead and dying horses on a battle-field, one past all further pain, the other helpless, but lifting his head from his dead master to neigh a farewell to the comrades who go galloping away in a cloud of dust.

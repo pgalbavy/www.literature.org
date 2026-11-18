@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 18 - Lying To Mr. Beebe, Mrs. Honeychurch, Freddy, And The Servants"
 weight: 19
-aliases:
-  - "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-18.html"
+url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-18.html"
 ---
 
 Windy Corner lay, not on the summit of the ridge, but a few hundred feet down the southern slope, at the springing of one of the great buttresses that supported the hill. On either side of it was a shallow ravine, filled with ferns and pine-trees, and down the ravine on the left ran the highway into the Weald.

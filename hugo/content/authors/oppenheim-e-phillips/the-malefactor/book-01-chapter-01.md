@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1 - A  Society  Scandal"
 weight: 1
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-01.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-01.html"
 ---
 
 Tall and burly, with features and skin hardened by exposure to the sun and winds of many climates, he looked like a man ready to face all hardships, equal to any emergency. Already one seemed to see the clothes and habits of civilization falling away from him, the former to be replaced by the stern, unlovely outfit of the war correspondent who plays the game. They crowded round him in the club smoking room, for these were his last few minutes. They had dined him, toasted him, and the club loving cup had been drained to his success and his safe return. For Lovell was a popular member of this very Bohemian gathering, and he was going to the Far East, at a few hours' notice, to represent one of the greatest of English dailies.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - On The Edge Of The Clearing"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-04.html"
 ---
 
 The arrival of Kenton naturally caused a stir on the part of all the members of the party that halted on their way through the Kentucky wilderness to the block-house, somewhat less than ten miles distant and on the other side of the Ohio River.

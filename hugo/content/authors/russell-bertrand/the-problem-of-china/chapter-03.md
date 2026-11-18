@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - China And The Western Powers"
 weight: 4
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-03.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-03.html"
 ---
 
 In order to understand the international position of China, some facts concerning its nineteenth-century history are indispensable. China was for many ages the supreme empire of the Far East, embracing a vast and fertile area, inhabited by an industrious and civilized people. Aristocracy, in our sense of the word, came to an end before the beginning of the Christian era, and government was in the hands of officials chosen for their proficiency in writing in a dead language, as in England. Intercourse with the West was spasmodic and chiefly religious. In the early centuries of the Christian era, Buddhism was imported from India, and some Chinese scholars penetrated to that country to master the theology of the new religion in its native home, but in later times the intervening barbarians made the journey practically impossible. Nestorian Christianity reached China in the seventh century, and had a good deal of influence, but died out again. (What is known on this subject is chiefly from the Nestorian monument discovered in Hsianfu in 1625.) In the seventeenth and early eighteenth centuries Roman Catholic missionaries acquired considerable favour at Court, because of their astronomical knowledge and their help in rectifying the irregularities and confusions of the Chinese calendar.[24] Their globes and astrolabes are still to be seen on the walls of Peking. But in the long run they could not resist quarrels between different orders, and were almost completely excluded from both China and Japan.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Sawing Wood"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-02.html"
 ---
 
 It was really no wonder that Mrs. Rabbit did not like Peter Mink. When you hear what happened the very first time she saw him you will understand why Mrs. Rabbit always called him "the Pest."

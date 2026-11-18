@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 5"
 weight: 28
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-05.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-05.html"
 ---
 
 Every object in the next day's journey was new and interesting to Elizabeth; and her spirits were in a state for enjoyment; for she had seen her sister looking so well as to banish all fear for her health, and the prospect of her northern tour was a constant source of delight.

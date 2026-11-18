@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Too Much Cousin"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-05.html"
 ---
 
 Reddy Woodpecker wished that he hadn’t been so pleasant to his cousin Mr. Flicker. It was all well enough for Mr. Flicker to drum upon Reddy’s bit of tin on the roof of the barn so long as he drummed late in the morning. But when he drummed early, as he sometimes did, it usually happened that Reddy had to wait before he could begin his own morning tattoo.

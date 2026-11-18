@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Great Secret"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-01.html"
 ---
 
 Whoever Katy was, and whatever she might have done, nobody in Pleasant Valley knew anything about her except Kiddie Katydid and his numerous and noisy family.

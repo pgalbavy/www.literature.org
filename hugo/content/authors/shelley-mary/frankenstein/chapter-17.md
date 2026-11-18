@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-17.html"
+url: "/authors/shelley-mary/frankenstein/chapter-17.html"
 ---
 
 The being finished speaking, and fixed his looks upon me in expectation of a reply. But I was bewildered, perplexed and unable to arrange my ideas sufficiently to understand the full extent of his proposition. He continued--

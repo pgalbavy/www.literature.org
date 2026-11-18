@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-14.html"
+url: "/authors/shelley-mary/frankenstein/chapter-14.html"
 ---
 
 "Some time elapsed before I learned the history of my friends. It was one which could not fail to impress itself deeply on my mind, unfolding as it did a number of circumstances, each interesting and wonderful to one so utterly inexperienced as I was.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - Dick Sand"
 weight: 2
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-02.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-02.html"
 ---
 
 Meanwhile the sea was favorable, and, except the delays, navigation would be accomplished under very supportable conditions.

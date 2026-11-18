@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Found At Last"
 weight: 23
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-23.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-23.html"
 ---
 
 The question of our wintering on the land whereon,we had been thrown was settled for us. But, after all, the situation was not changed for those among the nine (now only remaining of the twenty-three) who should not have drawn the lot of departure. Who could speculate upon the chances of the whole nine? Might not all of them have drawn the lot of "stay"? And, when every chance was fully weighed, was that of those who had left us the best? To this question there could be no answer.   When the boat had disappeared, Captain Len Guy and his companions retraced their steps towards the cavern in which we must live for all the time during which we could not go out, in the dread darkness of the antarctic winter. My first thought was of Dirk Peters, who, being wounded, could not follow us when we hurried to the other side of the point.   On reaching the cavern I failed to find the half-breed, Was he severely wounded? Should we have to mourn the death of this man who was as faithful to us as to his "poor Pym"?   "Let us search for him, Mr. Jeorling!" cried the boatswain.

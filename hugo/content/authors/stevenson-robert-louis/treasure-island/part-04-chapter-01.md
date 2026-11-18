@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1 - Narrative Continued By The Doctor: How The Ship Was Abandoned"
 weight: 17
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-01.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-04-chapter-01.html"
 ---
 
 IT was about half past one--three bells in the sea phrase--that the two boats went ashore from the HISPANIOLA. The captain, the squire, and I were talking matters over in the cabin. Had there been a breath of wind, we should have fallen on the six mutineers who were left aboard with us, slipped our cable, and away to sea. But the wind was wanting; and to complete our helplessness, down came Hunter with the news that Jim Hawkins had slipped into a boat and was gone ashore with the rest.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-43.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-43.html"
 ---
 
 To Boone Wellver, Louisville had become a city lying without the zone of personal experience. Like a steamer which has altered its sailings, he made it no longer a port of call.

@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1 - The King Of Apemama: The Royal Trader"
 weight: 29
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-01.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-01.html"
 ---
 
 There is one great personage in the Gilberts: Tembinok’ of Apemama: solely conspicuous, the hero of song, the butt of gossip. Through the rest of the group the kings are slain or fallen in tutelage: Tembinok’ alone remains, the last tyrant, the last erect vestige of a dead society. The white man is everywhere else, building his houses, drinking his gin, getting in and out of trouble with the weak native governments. There is only one white on Apemama, and he on sufferance, living far from court, and hearkening and watching his conduct like a mouse in a cat’s ear. Through all the other islands a stream of native visitors comes and goes, travelling by families, spending years on the grand tour. Apemama alone is left upon one side, the tourist dreading to risk himself within the clutch of Tembinok’. And fear of the same Gorgon follows and troubles them at home. Maiana once paid him tribute; he once fell upon and seized Nonuti: first steps to the empire of the archipelago. A British warship coming on the scene, the conqueror was driven to disgorge, his career checked in the outset, his dear-bought armoury sunk in his own lagoon. But the impression had been made; periodical fear of him still shakes the islands; rumour depicts him mustering his canoes for a fresh onfall; rumour can name his destination; and Tembinok’ figures in the patriotic war-songs of the Gilberts like Napoleon in those of our grandfathers.

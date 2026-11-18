@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Siméon's Last Victim"
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-18.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-18.html"
 ---
 
 Dr. Géradec's hospital had several annexes, each of which served a specific purpose, grouped around it in a fine garden. The villa itself was used for the big operations. The doctor had his consulting-room here also; and it was to this room that Siméon Diodokis was first shown. But, after answering a few questions put to him by a male nurse, Siméon was taken to another room in a separate wing.

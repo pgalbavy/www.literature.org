@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-12.html"
+url: "/authors/austen-jane/mansfield-park/chapter-12.html"
 ---
 
 Sir Thomas was to return in November, and his eldest son had duties to call him earlier home. The approach of September brought tidings of Mr. Bertram, first in a letter to the gamekeeper and then in a letter to Edmund; and by the end of August he arrived himself, to be gay, agreeable, and gallant again as occasion served, or Miss Crawford demanded; to tell of races and Weymouth, and parties and friends, to which she might have listened six weeks before with some interest, and altogether to give her the fullest conviction, by the power of actual comparison, of her preferring his younger brother.

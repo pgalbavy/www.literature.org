@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Shasta, The Pah Utah"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-20.html"
 ---
 
 All three paused and listened. For a moment all was still; and then the suppressed groan of distress was heard, as though the sufferer were seeking to keep back the outcry that was forced from him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-31.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-31.html"
 ---
 
 WE dasn't stop again at any town for days and days; kept right along down the river. We was down south in the warm weather now, and a mighty long ways from home. We begun to come to trees with Spanish moss on them, hanging down from the limbs like long, gray beards. It was the first I ever see it growing, and it made the woods look solemn and dismal. So now the frauds reckoned they was out of danger, and they begun to work the villages again.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Unexpected Happens"
 weight: 14
-aliases:
-  - "/authors/brown-ruth-alberta/tabithas-vacation/chapter-14.html"
+url: "/authors/brown-ruth-alberta/tabithas-vacation/chapter-14.html"
 ---
 
 "Only two weeks more of vacation," sighed Tabitha, sinking wearily into the hammock one August afternoon, and looking longingly away to the west where the train was just puffing into view. "I never dreamed we should be here all summer when I offered to take care of the kidlets for Mrs. McKittrick."

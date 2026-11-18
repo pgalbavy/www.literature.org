@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Man's Reason"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-12.html"
 ---
 
 There was one of the tribe of Tarzan who questioned his authority, and that was Terkoz, the son of Tublat, but he so feared the keen knife and the deadly arrows of his new lord that he confined the manifestation of his objections to petty disobediences and irritating mannerisms; Tarzan knew, however, that he but waited his opportunity to wrest the kingship from him by some sudden stroke of treachery, and so he was ever on his guard against surprise.

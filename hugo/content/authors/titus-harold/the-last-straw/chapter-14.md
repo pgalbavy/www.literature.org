@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Big Chance"
 weight: 14
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-14.html"
+url: "/authors/titus-harold/the-last-straw/chapter-14.html"
 ---
 
 Hours later, after the Reverend had offered a strong, verbose prayer, invoking the wrath of the Almighty upon those who plot to strike from cover, after the bunk house had finally become quiet, Beck stole out into the night.

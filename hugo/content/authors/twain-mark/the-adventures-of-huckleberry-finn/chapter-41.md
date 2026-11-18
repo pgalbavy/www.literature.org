@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-41.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-41.html"
 ---
 
 THE doctor was an old man; a very nice, kind-looking old man when I got him up. I told him me and my brother was over on Spanish Island hunting yesterday afternoon, and camped on a piece of a raft we found, and about midnight he must a kicked his gun in his dreams, for it went off and shot him in the leg, and we wanted him to go over there and fix it and not say nothing about it, nor let anybody know, because we wanted to come home this evening and surprise the folks.

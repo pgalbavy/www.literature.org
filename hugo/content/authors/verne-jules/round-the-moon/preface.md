@@ -1,8 +1,7 @@
 ---
 title: "preface"
 weight: 999
-aliases:
-  - "/authors/verne-jules/round-the-moon/preface.html"
+url: "/authors/verne-jules/round-the-moon/preface.html"
 ---
 
 During the year 186-, the whole world was greatly excited by a scientific experiment unprecedented in the annals of science. The members of the Gun Club, a circle of artillerymen formed at Baltimore after the American war, conceived the idea of putting themselves in communication with the moon!-- yes, with the moon-- by sending to her a projectile. Their president, Barbicane, the promoter of the enterprise, having consulted the astronomers of the Cambridge Observatory upon the subject, took all necessary means to ensure the success of this extraordinary enterprise, which had been declared practicable by the majority of competent judges. After setting on foot a public subscription, which realized nearly L1,200,000, they began the gigantic work.

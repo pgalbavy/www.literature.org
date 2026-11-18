@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - The Poisoned Arrow"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-38.html"
 ---
 
 Such being the case, Ashman concluded that the time had arrived when he should also take a hand.

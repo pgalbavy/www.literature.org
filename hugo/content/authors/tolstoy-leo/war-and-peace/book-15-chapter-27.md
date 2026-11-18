@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 27"
 weight: 344
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-27.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-27.html"
 ---
 
 In the winter of 1813 Nicholas married Princess Mary and moved to Bald Hills with his wife, his mother, and Sonya.

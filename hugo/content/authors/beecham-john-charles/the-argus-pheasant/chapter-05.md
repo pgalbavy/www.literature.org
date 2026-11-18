@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Sachsen's Warning"
 weight: 6
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-05.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-05.html"
 ---
 
 Electric tapers were burning dimly in Governor-General Van Schouten's sanctum at the paleis that evening as Peter Gross was ushered in. The governor was seated in a high-backed, elaborately carved mahogany chair before a highly polished mahogany table. Beside him was the omniscient, the indispensable Sachsen. The two were talking earnestly in the Dutch language. Van Schouten acknowledged Peter Gross's entrance with a curt nod and directed him to take a chair on the opposite side of the table.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Friendly Stranger"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-13.html"
 ---
 
 OF course, anyone so beautiful as Betsy Butterfly was bound to attract attention. Wherever she went people turned their heads--if they could--to look at her. And those whose heads were so fastened to their bodies that they simply couldn't crane their necks at anybody--even those unlucky creatures wheeled themselves about in order to gaze at Betsy.

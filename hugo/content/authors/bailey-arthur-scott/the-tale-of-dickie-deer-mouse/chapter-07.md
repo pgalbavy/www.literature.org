@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Noisy Visitors"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-07.html"
 ---
 
 Of course Jasper Jay knew where Dickie Deer Mouse lived. And he took great pleasure in pointing out the exact spot to his curious cousin, old Mr. Crow.

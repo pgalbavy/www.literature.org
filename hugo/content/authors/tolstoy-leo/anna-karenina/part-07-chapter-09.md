@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 9"
 weight: 198
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-09.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-09.html"
 ---
 
 "Vronsky's carriage!" the porter shouted in an angry bass. The carriage drove up and both got in. It was only for the first few moments, while the carriage was driving out of the clubhouse gates, that Levin was still under the influence of the club atmosphere of repose, comfort, and unimpeachable good form. But as soon as the carriage drove out into the street, and he felt it jolting over the uneven road, heard the angry shout of a sledge-driver coming towards them, saw in the uncertain light the red blind of a tavern and the shops, this impression was dissipated, and he began to think over his actions, and to wonder whether he was doing right in going to see Anna. What would Kitty say? But Stepan Arkadyevitch gave him no time for reflection, and, as though divining his doubts, he scattered them.

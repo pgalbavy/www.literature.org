@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Saduko Brings The Marriage Gift"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-07.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-07.html"
 ---
 
 We reached my wagons in the early morning of the following day, bringing with us the cattle and our wounded. Thus encumbered it was a most toilsome march, and an anxious one also, for it was always possible that the remnant of the Amakoba might attempt pursuit. This, however, they did not do, for very many of them were dead or wounded, and those who remained had no heart left in them. They went back to their mountain home and lived there in shame and wretchedness, for I do not believe there were fifty head of cattle left among the tribe, and Kafirs without cattle are nothing. Still, they did not starve, since there were plenty of women to work the fields, and we had not touched their corn. The end of them was that Panda gave them to their conqueror, Saduko, and he incorporated them with the Amangwane. But that did not happen until some time afterwards.

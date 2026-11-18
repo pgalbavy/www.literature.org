@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Baxter Dawes"
 weight: 13
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-13.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-13.html"
 ---
 
 SOON after Paul had been to the theatre with Clara, he was drinking in the Punch Bowl with some friends of his when Dawes came in. Clara's husband was growing stout; his eyelids were getting slack over his brown eyes; he was losing his healthy firmness of flesh. He was very evidently on the downward track. Having quarrelled with his sister, he had gone into cheap lodgings. His mistress had left him for a man who would marry her. He had been in prison one night for fighting when he was drunk, and there was a shady betting episode in which he was concerned.

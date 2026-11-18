@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Guerchard Picks Up The True Scent"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/arsene-lupin/chapter-14.html"
+url: "/authors/leblanc-maurice/arsene-lupin/chapter-14.html"
 ---
 
 The millionaire gazed at the card with stupefied eyes, the inspector gazed at it with extreme intelligence, the Duke gazed at it with interest, and M. Formery gazed at it with extreme disgust.

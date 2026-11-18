@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/london-jack/before-adam/chapter-14.html"
+url: "/authors/london-jack/before-adam/chapter-14.html"
 ---
 
 The months came and went. The drama and tragedy of the future were yet to come upon the stage, and in the meantime we pounded nuts and lived. It--vas a good year, I remember, for nuts. We used to fill gourds with nuts and carry them to the pounding-places. We placed them in depressions in the rock, and, with a piece of rock in our hands, we cracked them and ate them as we cracked.

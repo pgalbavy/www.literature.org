@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Translation"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-09.html"
 ---
 
 Mr. G. R. Burkhill overwhelmed Ben Mayberry with thanks for the heroic manner in which he saved his niece and strove to save his sister. He offered the boy a handsome reward, but I am glad to say Ben refused to accept it. He promised to write the boy concerning the little one, but he must have forgotten his promise, as a long time passed without anything being heard from him.

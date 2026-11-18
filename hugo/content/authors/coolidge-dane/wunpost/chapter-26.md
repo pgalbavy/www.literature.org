@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Fine Print"
 weight: 26
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-26.html"
+url: "/authors/coolidge-dane/wunpost/chapter-26.html"
 ---
 
 A week passed by, and Wilhelmina rode into Blackwater and mailed a letter to the County Recorder; and a week later she came back, to receive a letter in return and to buy at the store with gold. And then the big news broke--the Sockdolager had been found--and there was a stampede that went clear to the peaks. Blackwater was abandoned, and swarming again the next day with the second wave of stampeders; and the day after that John C. Calhoun piled out of the stage and demanded to see Wilhelmina. He hardly knew her at first, for she had bought a new dress; and she sat in an office up over the bank, talking business with several important persons.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Man On The Kirkcaple Shore"
 weight: 2
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-01.html"
+url: "/authors/buchan-john/prester-john/chapter-01.html"
 ---
 
 I mind as if it were yesterday my first sight of the man. Little I knew at the time how big the moment was with destiny, or how often that face seen in the fitful moonlight would haunt my sleep and disturb my waking hours. But I mind yet the cold grue of terror I got from it, a terror which was surely more than the due of a few truant lads breaking the Sabbath with their play.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - \"The Youth Of Moscow Is Dead\""
 weight: 4
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-04.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-04.html"
 ---
 
 Rouletabille let himself be led by Matrena through the night, but he stumbled and his awkward hands struck against various things. The ascent to the first floor was accomplished in profound silence. Nothing broke it except that restless moaning which had so affected the young man just before.

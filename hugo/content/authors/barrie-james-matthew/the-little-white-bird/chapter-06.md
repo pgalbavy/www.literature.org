@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Shock"
 weight: 6
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-06.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-06.html"
 ---
 
 It was on a May day, and I saw Mary accompany her husband as far as the first crossing, whence she waved him out of sight as if he had boarded an Atlantic-liner. All this time she wore the face of a woman happily married who meant to go straight home, there to await her lord's glorious return; and the military-looking gentleman watching her with a bored smile saw nothing better before him than a chapter on the Domestic Felicities. Oh, Mary, can you not provide me with the tiniest little plot?

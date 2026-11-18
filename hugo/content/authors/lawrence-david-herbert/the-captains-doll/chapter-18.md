@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-18.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-18.html"
 ---
 
 Pondering, rather thrilled, they threaded their way through the desert of rock and rushing water back to the hotel. The sun was shining warmly for a moment, and he felt happy, though his finger- ends were bleeding a little from the ice.

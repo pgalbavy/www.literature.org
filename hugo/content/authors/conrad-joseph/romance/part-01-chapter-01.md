@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/romance/part-01-chapter-01.html"
+url: "/authors/conrad-joseph/romance/part-01-chapter-01.html"
 ---
 
 To yesterday and to to-day I say my polite "vaya usted con Dios." What are these days to me? But that far-off day of my romance, when from between the blue and white bales in Don Ramon's darkened storeroom, at Kingston, I saw the door open before the figure of an old man with the tired, long, white face, that day I am not likely to forget. I remember the chilly smell of the typical West Indian store, the indescribable smell of damp gloom, of locos, of pimento, of olive oil, of new sugar, of new rum; the glassy double sheen of Ramon's great spectacles, the piercing eyes in the mahogany face, while the tap, tap, tap of a cane on the flags went on behind the inner door; the click of the latch; the stream of light. The door, petulantly thrust inwards, struck against some barrels. I remember the rattling of the bolts on that door, and the tall figure that appeared there, snuffbox in hand. In that land of white clothes, that precise, ancient, Castilian in black was something to remember. The black cane that had made the tap, tap, tap dangled by a silken cord from the hand whose delicate blue-veined, wrinkled wrist ran back into a foam of lawn ruffles. The other hand paused in the act of conveying a pinch of snuff to the nostrils of the hooked nose that had, on the skin stretched tight over the bridge, the polish of old ivory; the elbow pressing the black cocked-hat against the side; the legs, one bent, the other bowing a little back—this was the attitude of Seraphina's father.

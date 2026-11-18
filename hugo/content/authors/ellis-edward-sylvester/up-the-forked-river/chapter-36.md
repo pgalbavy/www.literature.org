@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-36.html"
 ---
 
 The fire ant of the tropics does not merely bite into the animal or person who disturbs it, but bites out, as may be said. It abstracts a fragment of one's anatomy, so that, had General Bambos been placed on a delicate pair of scales immediately before and after his nipping, there would have been an appreciable difference in his weight. Since Major Starland himself had suffered from the fierce little pest, he understood what had befallen the other. He tried to express his sympathy, but instead, threw back his head and gave way to merriment.

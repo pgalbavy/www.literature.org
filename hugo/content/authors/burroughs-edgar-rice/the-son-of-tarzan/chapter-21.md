@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-21.html"
 ---
 
 The black boy whom Malbihn had left awaiting him in the clearing with instructions to remain until he returned sat crouched at the foot of a tree for an hour when he was suddenly startled by the coughing grunt of a lion behind him. With celerity born of the fear of death the boy clambered into the branches of the tree, and a moment later the king of beasts entered the clearing and approached the carcass of an antelope which, until now, the boy had not seen.

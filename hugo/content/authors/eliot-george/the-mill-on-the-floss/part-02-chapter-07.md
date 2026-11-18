@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - The Golden Gates Are Passed"
 weight: 20
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-07.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-07.html"
 ---
 
 So Tom went on even to the fifth half-year - till he was turned sixteen - at King's Lorton, while Maggie was growing with a rapidity which her aunts considered highly reprehensible, at Miss Firniss's boarding-school in the ancient town of Laceham on the Floss, with cousin Lucy for her companion. In her early letters to Tom she had always sent her love to Philip, and asked many questions about him, which were answered by brief sentences about Tom's toothache, and a turf-house which he was helping to build in the garden, with other items of that kind. She was pained to hear Tom say in the holidays that Philip was as queer as ever again, and often cross. They were no longer very good friends, she perceived; and when she reminded Tom that he ought always to love Philip for being so good to him when his foot was bad, he answered: "Well, it isn't my fault; I don't do anything to him." She hardly ever saw Philip during the remainder of their school-life; in the Midsummer holidays he was always away at the seaside, and at Christmas she could only meet him at long intervals in the street of St. Ogg's. When they did meet, she remembered her promise to kiss him, but, as a young lady who had been at a boarding-school, she knew now that such a greeting was out of the question, and Philip would not expect it. The promise was void, like so many other sweet, illusory promises of our childhood; void as promises made in Eden before the seasons were divided, and when the starry blossoms grew side by side with the ripening peach, - impossible to be fulfilled when the golden gates had been passed.

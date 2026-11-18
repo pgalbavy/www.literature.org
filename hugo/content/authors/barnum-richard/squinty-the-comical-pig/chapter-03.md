@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Squinty Is Lost"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-03.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-03.html"
 ---
 
 This was the second time Squinty had run out of the pen and into the farmer's garden. The first time he had been caught and brought back by Don, the dog. This time Squinty did not intend to get caught, if he could help it.

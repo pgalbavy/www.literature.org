@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Of The Tribe Of Broadcrook"
 weight: 19
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-19.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-19.html"
 ---
 
 Mr. Smythe stood with, his back to the fireplace, his long arms behind his back, with sharp elbows almost touching, and claw-like hands clasped together. The evenings were getting chill. Already the first snows had come. The trees were bare and creaked in the wind, and the skies were lead-colored and cold. In the early dusk the two-dozen gray shacks of Bridgetown looked grayer and lonelier than ever. Mr. Smythe glanced at the long clock near the door and then out of the smoky window, his pointed nose fairly sniffing the wind and his big ears fairly pointed forward in a listening attitude. The long figure of a man, half reclining on a pile of furs at the end of the counter, stirred, and the substance of a quid of black tobacco hissed into the hickory coals, passing perilously close to the clasped hands of Bridgetown’s general merchant. Mr. Smythe smiled with his thin lips and looked murder with his little weak eyes. Then he coughed.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-14.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-14.html"
 ---
 
 WHEN the sexes differ in beauty or in the power of singing, or in producing what I have called instrumental music, it is almost invariably the male who surpasses the female. These qualities, as we have just seen, are evidently of high importance to the male. When they are gained for only a part of the year it is always before the breeding-season. It is the male alone who elaborately displays his varied attractions, and often performs strange antics on the ground or in the air, in the presence of the female. Each male drives away, or if he can, kills his rivals. Hence we may conclude that it is the object of the male to induce the female to pair with him, and for this purpose he tries to excite or charm her in various ways; and this is the opinion of all those who have carefully studied the habits of living birds. But there remains a question which has an all important bearing on sexual selection, namely, does every male of the same species excite and attract the female equally? Or does she exert a choice, and prefer certain males? This latter question can be answered in the affirmative by much direct and indirect evidence. It is far more difficult to decide what qualities determine the choice of the females; but here again we have some direct and indirect evidence that it is to a large extent the external attractions of the male; though no doubt his vigour, courage, and other mental qualities come into play. We will begin with the indirect evidence.

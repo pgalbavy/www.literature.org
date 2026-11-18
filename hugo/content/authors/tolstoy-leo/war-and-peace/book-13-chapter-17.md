@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 17"
 weight: 296
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-17.html"
 ---
 
 Kutuzov like all old people did not sleep much at night. He often fell asleep unexpectedly in the daytime, but at night, lying on his bed without undressing, he generally remained awake thinking.

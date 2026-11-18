@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 10 - A Forlorn Hope"
 weight: 10
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-10.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-10.html"
 ---
 
 Aynesworth ceased tugging at the strap of his portmanteau, and rose slowly to his feet. A visitor had entered his rooms--apparently unannounced.

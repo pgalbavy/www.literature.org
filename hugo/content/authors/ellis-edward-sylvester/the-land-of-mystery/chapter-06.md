@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Along The Forest Path"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-06.html"
 ---
 
 If any further proof were needed of the delicacy and danger of the situation of the white men, it came the next minute, when, as they were in the act of stepping back into the trail, the sailor caught the arm of his friend and checked him.

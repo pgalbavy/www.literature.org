@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Waiting"
 weight: 15
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-15.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-15.html"
 ---
 
 'My wife, I have bad news for thee,' said Professor Bhaer, coming in one day early in January.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Friend Indeed"
 weight: 9
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-09.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-09.html"
 ---
 
 It had been understood, when Ralph went to Wilkesbarre that morning, that he should return in the afternoon. Bachelor Billy was very much surprised, therefore, when he returned from his work, not to find the boy waiting for him. Indeed, he had more than half expected that Ralph would come up to the breaker to walk home with him, or would, at least, meet him on the way. The Widow Maloney had not seen him, she said; and when supper was ready she sent her little girl down the road to look for him, and to tell him to hurry home.

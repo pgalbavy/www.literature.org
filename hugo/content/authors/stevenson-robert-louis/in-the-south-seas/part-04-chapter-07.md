@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 7 - The King Of Apemama"
 weight: 35
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-07.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-04-chapter-07.html"
 ---
 
 Thus all things on the island, even the priests of the gods, obey the word of Tembinok’. He can give and take, and slay, and allay the scruples of the conscientious, and do all things (apparently) but interfere in the cookery of a turtle. ‘I got power’ is his favourite word; it interlards his conversation; the thought haunts him and is ever fresh; and when be has asked and meditates of foreign countries, he looks up with a smile and reminds you, ‘_I_ got Power.’ Nor is his delight only in the possession, but in the exercise. He rejoices in the crooked and violent paths of kingship like a strong man to run a race, or like an artist in his art. To feel, to use his power, to embellish his island and the picture of the island life after a private ideal, to milk the island vigorously, to extend his singular museum—these employ delightfully the sum of his abilities. I never saw a man more patently in the right trade.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Tragedy In The Forest Of Morgues"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-07.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-07.html"
 ---
 
 The village was terror-stricken.

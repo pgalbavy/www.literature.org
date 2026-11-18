@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Sweet-Singers"
 weight: 2
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-01.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-01.html"
 ---
 
 When I was a child in short-coats a spaewife came to the town-end, and for a silver groat paid by my mother she riddled my fate. It came to little, being no more than that I should miss love and fortune in the sunlight and find them in the rain. The woman was a haggard, black-faced gipsy, and when my mother asked for more she turned on her heel and spoke gibberish; for which she was presently driven out of the place by Tarn Roberton, the baillie, and the village dogs. But the thing stuck in my memory, and together with the fact that I was a Thursday's bairn, and so, according to the old rhyme, "had far to go," convinced me long ere I had come to man's estate that wanderings and surprises would be my portion.

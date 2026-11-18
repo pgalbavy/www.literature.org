@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Merry Dancer"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-01.html"
 ---
 
 Nobody in Pleasant Valley ever paid any attention to Freddie Firefly in the daytime. But on warm, and especially on dark summer nights he always appeared at his best. Then he went gaily flitting through the meadows. And sometimes he even danced right in Farmer Green's dooryard, together with a hundred or two of his nearest relations.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Ending Of War"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-world-set-free/chapter-03.html"
+url: "/authors/wells-herbert-george/the-world-set-free/chapter-03.html"
 ---
 
 Section 1

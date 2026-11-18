@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 1"
 weight: 221
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-01.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-01.html"
 ---
 
 Almost two months had passed. The hot summer was half over, but Sergey Ivanovitch was only just preparing to leave Moscow.

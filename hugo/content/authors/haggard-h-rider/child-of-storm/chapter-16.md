@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Mameena--Mameena--Mameena!"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-16.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-16.html"
 ---
 
 That evening at sunset, just as I was about to trek, for the King had given me leave to go, and at that time my greatest desire in life seemed to be to bid good-bye to Zululand and the Zulus--I saw a strange, beetle-like shape hobbling up the hill towards me, supported by two big men. It was Zikali.

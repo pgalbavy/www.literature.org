@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - St. Ambrose's College"
 weight: 3
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-01.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-01.html"
 ---
 
 St. Ambrose's College was a moderate-sized one. There might have been some seventy or eighty undergraduates in residence, when our hero appeared there as a freshman. Of these, unfortunately for the college, there were a very large proportion of the gentleman-commoners; enough, in fact, with the other men whom they drew round them, and who lived pretty much as they did, to form the largest and leading set in the college. So the college was decidedly fast.

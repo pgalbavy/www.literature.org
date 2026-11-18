@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Ishmael Visits The Inkosazana"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/chapter-11.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/chapter-11.html"
 ---
 
 When at last they were in the hut and the door-board had been safely closed, Rachel took Noie in her arms and kissed her. But Noie did not kiss her back; she only pressed her hand against her forehead.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - How War Came To New York"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-war-in-the-air/chapter-06.html"
+url: "/authors/wells-herbert-george/the-war-in-the-air/chapter-06.html"
 ---
 
 1

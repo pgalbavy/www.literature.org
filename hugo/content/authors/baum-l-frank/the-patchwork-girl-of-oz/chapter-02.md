@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-02.html"
 ---
 
 Just at dawn next morning Unc Nunkie laid his hand tenderly on Ojo's head and awakened him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-24.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-24.html"
 ---
 
 Slowly and grudgingly Tom sheathed his weapon. He knew that to fire on an unarmed man in the tensely overwrought gathering would mean wholesale blood-letting. Black looks told of a tempest brewing; so, with a surly nod, he stepped back and helped Jim Blair to his place again. Blair, dust covered and bruised, with a dribble of blood still trickling from his mashed lip, made an effort to complete his speech which ended in anticlimax. To Boone he said nothing more, and to the interrupted subject he gave no further mention.

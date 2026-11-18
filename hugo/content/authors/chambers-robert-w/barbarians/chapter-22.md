@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Suspect"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-22.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-22.html"
 ---
 
 That night she wrote to her lover at the great hospital in the south, where he lay slowly growing well:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Going Aboard"
 weight: 21
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-021.html"
+url: "/authors/melville-herman/moby-dick/chapter-021.html"
 ---
 
 It was nearly six o'clock, but only grey imperfect misty dawn, when we drew nigh the wharf.

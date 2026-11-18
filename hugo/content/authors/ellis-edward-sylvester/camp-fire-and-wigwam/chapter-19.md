@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Deerfoot's Woodcraft"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-19.html"
 ---
 
 Neither Deerfoot nor the trapper wished to engage in the trial of skill suggested by Burt Hawkins. Crumpet feared that if such a test took place he would be worsted, in which event he would never hear the last of it from his friends. He might well shrink, therefore, from such a contest.

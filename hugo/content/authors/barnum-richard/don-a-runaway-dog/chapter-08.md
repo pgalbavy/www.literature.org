@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Don And The Can"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-08.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-08.html"
 ---
 
 Don looked around quickly to see who had spoken. He saw two boys standing at the corner, near where that good smell of meat came from, for which Don was so hungry. One of the boys had stooped to pick up a stone.

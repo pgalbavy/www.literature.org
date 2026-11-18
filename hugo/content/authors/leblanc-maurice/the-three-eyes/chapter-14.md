@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Massignac And Velmot"
 weight: 14
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-14.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-14.html"
 ---
 
 "Clouds were floating. . . . Clouds were floating. . . ."

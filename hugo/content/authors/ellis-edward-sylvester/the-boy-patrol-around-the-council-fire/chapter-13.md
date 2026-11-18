@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Committee Of Investigation"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-13.html"
 ---
 
 Lightning seldom strikes twice in the same place, though I have known it to do so, and Mike Murphy was too wise to try a second shot, when there was not one chance in a million of repeating his feat. With his loftiest air he proposed that he and Hoke should take turns in displaying their skill.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - I Fail To Return Home"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-22.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-22.html"
 ---
 
 It was precisely as one might have given the command of attack to a dog, and under the sting of indignity, my reason once more slipped from me. I dived for Dawson and saw him reel backward under the blow I planted on his sneering mouth, but at the same instant the second pair of arms went round me from behind. Bud had "taken hold" of me and I am forced to say he did it with the effective enthusiasm of an octopus. I fancy that had there been an audience, that would have been pronounced a good fight. Sometimes the three of us swayed from side to side of the road in a triangular wrestling match; sometimes we rolled about and clawed at each other on the ground.

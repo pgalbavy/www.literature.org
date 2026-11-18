@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Ride To Town"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-02.html"
 ---
 
 Much to old dog Spot's disgust Johnnie Green and his new pet lamb soon became great friends. It wasn't long before Snowball, as Johnnie called the white lamb, followed his young master about the yard and even into the farmhouse--when Mrs. Green wasn't looking.

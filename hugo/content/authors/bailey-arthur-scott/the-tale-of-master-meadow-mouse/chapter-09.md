@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Miss Snooper"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-09.html"
 ---
 
 MOSES MOUSE, who lived in the farmhouse, had warned Master Meadow Mouse. He had warned him to look out for Miss Snooper's nose.

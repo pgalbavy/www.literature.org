@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-04.html"
+url: "/authors/chambers-robert-w/athalie/chapter-04.html"
 ---
 
 She was fifteen years old before she saw him again. His strap-watch was still on her wrist; his memory, unfaded, still enshrined in her heart of a child, for she was as yet no more than that at fifteen. And the moment she saw him she recognised him.

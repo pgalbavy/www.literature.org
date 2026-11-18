@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/london-jack/the-jacket-star-rover/chapter-19.html"
+url: "/authors/london-jack/the-jacket-star-rover/chapter-19.html"
 ---
 
 Next to Oppenheimer and Morrell, who rotted with me through the years of darkness, I was considered the most dangerous prisoner in San Quentin. On the other hand I was considered the toughest-- tougher even than Oppenheimer and Morrell. Of course by toughness I mean enduringness. Terrible as were the attempts to break them in body and in spirit, more terrible were the attempts to break me. And I endured. Dynamite or curtains had been Warden Atherton's ultimatum. And in the end it was neither. I could not produce the dynamite, and Warden Atherton could not induce the curtains.

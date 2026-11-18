@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-36.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-36.html"
 ---
 
 As he entered his rooms, Latimer glanced round at Baird's empty chair and wished he had found him sitting in it. He walked over to it and sat down himself--simply because it was Baird's chair and suggested his presence. Latimer knew how he would have turned to look at him as he came in, and that he would at once have known by instinct that the old abyss had been re-opened.

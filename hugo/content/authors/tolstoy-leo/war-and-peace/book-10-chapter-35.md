@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 35"
 weight: 225
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-35.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-35.html"
 ---
 
 On the rug-covered bench where Pierre had seen him in the morning sat Kutuzov, his gray head hanging, his heavy body relaxed. He gave no orders, but only assented to or dissented from what others suggested.

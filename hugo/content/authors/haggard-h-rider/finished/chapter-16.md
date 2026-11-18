@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - War"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-16.html"
+url: "/authors/haggard-h-rider/finished/chapter-16.html"
 ---
 
 Now men began to whisper together and Goza groaned at my side.

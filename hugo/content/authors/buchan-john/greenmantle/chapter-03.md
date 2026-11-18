@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Peter Pienaar"
 weight: 4
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-03.html"
+url: "/authors/buchan-john/greenmantle/chapter-03.html"
 ---
 
 Our various departures were unassuming, all but the American’s. Sandy spent a busy fortnight in his subterranean fashion, now in the British Museum, now running about the country to see old exploring companions, now at the War Office, now at the Foreign Office, but mostly in my flat, sunk in an arm-chair and meditating. He left finally on December 1st as a King’s Messenger for Cairo. Once there I knew the King’s Messenger would disappear, and some queer Oriental ruffian take his place. It would have been impertinence in me to inquire into his plans. He was the real professional, and I was only the dabbler.

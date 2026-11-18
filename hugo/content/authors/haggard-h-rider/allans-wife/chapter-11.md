@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Gone!"
 weight: 12
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-11.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-11.html"
 ---
 
 I wonder if many married couples are quite as happy as we found ourselves. Cynics, a growing class, declare that few illusions can survive a honeymoon. Well, I do not know about it, for I only married once, and can but speak from my limited experience. But certainly our illusion, or rather the great truth of which it is the shadow, did survive, as to this day it survives in my heart across all the years of utter separation, and across the unanswering gulf of gloom.

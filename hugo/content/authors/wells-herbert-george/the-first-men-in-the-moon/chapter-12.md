@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Selenite's Face"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-12.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-12.html"
 ---
 
 I FOUND myself sitting crouched together in a tumultuous darkness. For a long time I could not understand where I was, nor how I had come to this perplexity. I thought of the cupboard into which I had been thrust at times when I was a child, and then of a very dark and noisy bedroom in which I had slept during an illness. But these sounds about me were not the noises I had known, and there was a thin flavour in the air like the wind of a stable. Then I supposed we must still be at work upon the sphere, and that somehow I had got into the cellar of Cavor's house. I remembered we had finished the sphere, and fancied I must still be in it and travelling through space.

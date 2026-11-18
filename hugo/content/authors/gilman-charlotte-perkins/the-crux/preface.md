@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/preface.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/preface.html"
 ---
 
 This story is, first, for young women to read; second, for young men to read; after that, for anybody who wants to. Anyone who doubts its facts and figures is referred to "Social Diseases and Marriage," by Dr. Prince Morrow, or to "Hygiene and Morality," by Miss Lavinia Dock, a trained nurse of long experience.

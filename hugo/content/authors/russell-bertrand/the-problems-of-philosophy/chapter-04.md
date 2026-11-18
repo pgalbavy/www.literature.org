@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Idealism"
 weight: 5
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-04.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-04.html"
 ---
 
 The word 'idealism' is used by different philosophers in somewhat different senses. We shall understand by it the doctrine that whatever exists, or at any rate whatever can be known to exist, must be in some sense mental. This doctrine, which is very widely held among philosophers, has several forms, and is advocated on several different grounds. The doctrine is so widely held, and so interesting in itself, that even the briefest survey of philosophy must give some account of it.

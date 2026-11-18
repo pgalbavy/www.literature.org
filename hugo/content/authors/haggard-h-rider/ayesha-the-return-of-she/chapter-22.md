@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Loosing Of The Powers"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-22.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-22.html"
 ---
 
 When I came to myself again, it was daylight. I saw the calm, gentle face of Oros bending over me as he poured some strong fluid down my throat that seemed to shoot through all my body, and melt a curtain in my mind. I saw also that beside him stood Ayesha.

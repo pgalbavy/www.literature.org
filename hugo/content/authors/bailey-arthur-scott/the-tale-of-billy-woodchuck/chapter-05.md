@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Billy Stands Guard"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-05.html"
 ---
 
 Old Mr. Woodchuck had a great deal of time on his paws. He was always telling people how a stone once rolled off a wall on top of him and hurt his back, so he was not strong enough to do much work. On pleasant days he was usually to be found sunning himself. And often when he leaned his lame back against a tree where the sun fell squarely upon him he would fall asleep and stay there for hours at a time.

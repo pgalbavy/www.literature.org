@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - \u0026quot;We Were The First\u0026quot;"
 weight: 25
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-25.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-25.html"
 ---
 
 Two days later not one of the survivors from the two schooners, the Jane and the Halbrane, remained upon any coast of the Antarctic region.

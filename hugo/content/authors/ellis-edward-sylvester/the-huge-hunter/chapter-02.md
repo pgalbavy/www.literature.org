@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - 'Handle Me Gently'"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-02.html"
 ---
 
 *WHEN* Ethan Hopkins had surveyed the steam man fully, he drew a long sigh and exclaimed:

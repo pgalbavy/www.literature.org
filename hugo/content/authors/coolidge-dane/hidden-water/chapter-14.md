@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Forebodings"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-14.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-14.html"
 ---
 
 To the Eastern eye, blinded by local color, the Four Peaks country looked like a large and pleasantly variegated cactus garden, sparsely populated with rollicking, fun-loving cowboys who wore their interesting six-shooters solely to keep their balance in the saddle. The new grass stood untrampled beneath the bushes on Bronco Mesa, there were buds and flowers everywhere, and the wind was as sweet and untainted as if it drew out of Eden. But somewhere, somewhere in that great wilderness of peaks which lay to the south and through which only the dogged sheepmen could fight their way, stealthily hidden, yet watching, lay Jasper Swope and his sheep. And not only Jasper with his pet man-killing Chihuahuano and all those low-browed compadres whom he called by circumlocution "brothers," but Jim, sore with his defeat, and many others--and every man armed.

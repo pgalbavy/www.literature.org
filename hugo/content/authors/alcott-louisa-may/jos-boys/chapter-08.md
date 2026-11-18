@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Josie Plays Mermaid"
 weight: 8
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-08.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-08.html"
 ---
 
 While the young Bhaers were having serious experiences at home, Josie was enjoying herself immensely at Rocky Nook; for the Laurences knew how to make summer idleness both charming and wholesome. Bess was very fond of her little cousin; Mrs Amy felt that whether her niece was an actress or not she must be a gentlewoman, and gave her the social training which marks the well-bred woman everywhere; while Uncle Laurie was never happier than when rowing, riding, playing, or lounging with two gay girls beside him. Josie bloomed like a wild flower in this free life, Bess grew rosy, brisk, and merry, and both were great favourites with the neighbours, whose villas were by the shore or perched on the cliffs along the pretty bay.

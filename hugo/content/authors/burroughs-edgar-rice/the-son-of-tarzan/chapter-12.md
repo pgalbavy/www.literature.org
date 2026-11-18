@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-12.html"
 ---
 
 Two tall, bearded white men moved cautiously through the jungle from their camp beside a wide river. They were Carl Jenssen and Sven Malbihn, but little altered in appearance since the day, years before, that they and their safari had been so badly frightened by Korak and Akut as the former sought haven with them.

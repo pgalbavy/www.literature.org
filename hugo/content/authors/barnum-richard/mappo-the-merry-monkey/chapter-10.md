@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mappo And Squinty"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-10.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-10.html"
 ---
 
 Mappo, as soon as he got outside the traveling circus cage on wheels, looked all about him to see if any one were watching him. But no one seemed to be doing so.

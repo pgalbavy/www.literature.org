@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Fanchon"
 weight: 29
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-29.html"
+url: "/authors/tarkington-booth/penrod/chapter-29.html"
 ---
 
 "Aunt Sarah's a funny old lady," Penrod observed, on the way back to the town. "What's she want me to give papa this old sling for? Last thing she said was to be sure not to forget to give it to him. HE don't want it; and she said, herself, it ain't any good. She's older than you or papa, isn't she?"

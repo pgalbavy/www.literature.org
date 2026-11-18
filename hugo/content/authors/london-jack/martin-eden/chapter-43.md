@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-43.html"
+url: "/authors/london-jack/martin-eden/chapter-43.html"
 ---
 
 "The Shame of the Sun" was published in October. As Martin cut the cords of the express package and the half-dozen complimentary copies from the publishers spilled out on the table, a heavy sadness fell upon him. He thought of the wild delight that would have been his had this happened a few short months before, and he contrasted that delight that should have been with his present uncaring coldness. His book, his first book, and his pulse had not gone up a fraction of a beat, and he was only sad. It meant little to him now. The most it meant was that it might bring some money, and little enough did he care for money.

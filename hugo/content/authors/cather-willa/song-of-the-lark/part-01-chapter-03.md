@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3"
 weight: 3
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-03.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-03.html"
 ---
 
 Being sick was all very well, but Thea knew from experience that starting back to school again was attended by depressing difficulties. One Monday morning she got up early with Axel and Gunner, who shared her wing room, and hurried into the back living-room, between the dining-room and the kitchen. There, beside a soft-coal stove, the younger children of the family undressed at night and dressed in the morning. The older daughter, Anna, and the two big boys slept upstairs, where the rooms were theoretically warmed by stovepipes from below. The first (and the worst!) thing that confronted Thea was a suit of clean, prickly red flannel, fresh from the wash. Usually the torment of breaking in a clean suit of flannel came on Sunday, but yesterday, as she was staying in the house, she had begged off. Their winter underwear was a trial to all the children, but it was bitterest to Thea because she happened to have the most sensitive skin. While she was tugging it on, her Aunt Tillie brought in warm water from the boiler and filled the tin pitcher. Thea washed her face, brushed and braided her hair, and got into her blue cashmere dress. Over this she buttoned a long apron, with sleeves, which would not be removed until she put on her cloak to go to school. Gunner and Axel, on the soap box behind the stove, had their usual quarrel about which should wear the tightest stockings, but they exchanged reproaches in low tones, for they were wholesomely afraid of Mrs. Kronborg's rawhide whip. She did not chastise her children often, but she did it thoroughly. Only a somewhat stern system of discipline could have kept any degree of order and quiet in that overcrowded house.

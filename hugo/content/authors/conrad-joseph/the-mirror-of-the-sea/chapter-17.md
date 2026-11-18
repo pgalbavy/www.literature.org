@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-17.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-17.html"
 ---
 
 The unholy fascination of dread dwells in the thought of the last moments of a ship reported as "missing" in the columns of the *Shipping Gazette*. Nothing of her ever comes to light—no grating, no lifebuoy, no piece of boat or branded oar—to give a hint of the place and date of her sudden end. The *Shipping Gazette* does not even call her "lost with all hands." She remains simply "missing"; she has disappeared enigmatically into a mystery of fate as big as the world, where your imagination of a brother-sailor, of a fellow-servant and lover of ships, may range unchecked.

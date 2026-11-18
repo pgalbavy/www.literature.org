@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Influence Of Past History On Present Occurrences In Living Organisms"
 weight: 5
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-04.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-04.html"
 ---
 
 In this lecture we shall be concerned with a very general characteristic which broadly, though not absolutely, distinguishes the behaviour of living organisms from that of dead matter. The characteristic in question is this:

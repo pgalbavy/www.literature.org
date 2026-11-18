@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Strange Diversion"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-11.html"
 ---
 
 It was the wonderful sagacity of the little mare which intervened at this crisis in the fate of her rider.

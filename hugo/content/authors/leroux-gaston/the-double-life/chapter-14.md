@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Petito Loses His Ears"
 weight: 15
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-14.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-14.html"
 ---
 
 WE will now go downstairs to the flat below, into the apartment occupied by Signor and Signora Petito. Signora Petito is saying, "I do not understand M. Longuet’s conduct at the dinner at all. He spoke such vague, peculiar words."

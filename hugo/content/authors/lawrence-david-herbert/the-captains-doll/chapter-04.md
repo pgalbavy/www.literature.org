@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-04.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-04.html"
 ---
 
 'Won't you come and have tea with me - do! Come right along now. Don't you find it bitterly cold? Yes - well now - come in with me and we'll have a cup of nice, hot tea in our little sitting-room. The weather changes so suddenly, and really one needs a little reinforcement. But perhaps you don't take tea?'

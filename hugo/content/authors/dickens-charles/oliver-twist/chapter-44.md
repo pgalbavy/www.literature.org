@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - The Time Arrives For Nancy To Redeem Her Pledge To Rose Maylie. She Fails."
 weight: 44
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-44.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-44.html"
 ---
 
 Adept as she was, in all the arts of cunning and dissimulation, the girl Nancy could not wholly conceal the effect which the knowledge of the step she had taken, wrought upon her mind. She remembered that both the crafty Jew and the brutal Sikes had confided to her schemes, which had been hidden from all others: in the full confidence that she was trustworthy and beyond the reach of their suspicion. Vile as those schemes were, desperate as were their originators, and bitter as were her feelings towards Fagin, who had led her, step by step, deeper and deeper down into an abyss of crime and misery, whence was no escape; still, there were times when, even towards him, she felt some relenting, lest her disclosure should bring him within the iron grasp he had so long eluded, and he should fall at last--richly as he merited such a fate--by her hand.

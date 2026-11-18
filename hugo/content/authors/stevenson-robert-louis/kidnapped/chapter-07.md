@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - I Go To Sea In The Brig “Covenant” Of Dysart"
 weight: 8
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-07.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-07.html"
 ---
 
 I came to myself in darkness, in great pain, bound hand and foot, and deafened by many unfamiliar noises. There sounded in my ears a roaring of water as of a huge mill-dam, the thrashing of heavy sprays, the thundering of the sails, and the shrill cries of seamen. The whole world now heaved giddily up, and now rushed giddily downward; and so sick and hurt was I in body, and my mind so much confounded, that it took me a long while, chasing my thoughts up and down, and ever stunned again by a fresh stab of pain, to realise that I must be lying somewhere bound in the belly of that unlucky ship, and that the wind must have strengthened to a gale. With the clear perception of my plight, there fell upon me a blackness of despair, a horror of remorse at my own folly, and a passion of anger at my uncle, that once more bereft me of my senses.

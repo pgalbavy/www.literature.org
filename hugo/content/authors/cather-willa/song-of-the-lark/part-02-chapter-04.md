@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 24
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-02-chapter-04.html"
+url: "/authors/cather-willa/song-of-the-lark/part-02-chapter-04.html"
 ---
 
 AFTER that evening Thea's work with Harsanyi changed somewhat. He insisted that she should study some songs with him, and after almost every lesson he gave up half an hour of his own time to practicing them with her. He did not pretend to know much about voice production, but so far, he thought, she had acquired no really injurious habits. A healthy and powerful organ had found its own method, which was not a bad one. He wished to find out a good deal before he recommended a vocal teacher. He never told Thea what he thought about her voice, and made her general ignorance of anything worth singing his pretext for the trouble he took. That was in the beginning. After the first few lessons his own pleasure and hers were pretext enough. The singing came at the end of the lesson hour, and they both treated it as a form of relaxation.

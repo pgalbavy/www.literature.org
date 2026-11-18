@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Death Penalty--And A Capital Punishment"
 weight: 20
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-20.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-20.html"
 ---
 
 The Comtesse Hermine started up triumphantly; and this movement of hers was even more dramatic than the inexplicable vibration of that electric bell. She gave a cry of fierce delight, followed by an outburst of laughter. The whole expression of her face changed. It denoted no more anxiety, no more of that tension indicating a groping and bewildered mind, nothing but insolence, assurance, scorn and intense pride.

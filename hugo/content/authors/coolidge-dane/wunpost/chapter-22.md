@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Fear Of The Hills"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-22.html"
+url: "/authors/coolidge-dane/wunpost/chapter-22.html"
 ---
 
 Wunpost romped off down the canyon, holding the hair up like a scalp-lock--which it was, except for the scalp. Manuel Apache, with the pride of his kind, had knotted it up in a purple silk handkerchief; and he had yelled louder when he found it was gone than he had when he was caught in the trap. He had, in fact, acted extremely unreasonable, considering all that had been done for him; and Wunpost had been obliged to throw down on him with his six-shooter and order him off up the canyon. It was taking a big chance to allow him to live at all and, not to tempt him too far along the lines of reprisal, Wunpost left the Apache afoot. His gaunted pony was feeding hobbled, down the canyon, and Wunpost took off the rawhide thongs and hung them about his neck, after which he drove him on with his mules. But even at that he was taking a chance, or so at least it seemed, for the look in the Apache's eye as he had limped off up the gulch reminded Wunpost of a broken-backed rattlesnake.

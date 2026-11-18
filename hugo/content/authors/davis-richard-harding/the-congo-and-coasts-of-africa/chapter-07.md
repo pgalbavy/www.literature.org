@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Along The East Coast"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-07.html"
+url: "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-07.html"
 ---
 
 Were a man picked up on a flying carpet and dropped without warning into Lorenço Marquez, he might guess for a day before he could make up his mind where he was, or determine to which nation the place belonged.

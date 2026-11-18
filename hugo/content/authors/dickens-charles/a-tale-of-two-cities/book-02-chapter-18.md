@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 18 - Nine Days"
 weight: 24
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-18.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-18.html"
 ---
 
 THE MARRIAGE-DAY was shining brightly, and they were ready outside the closed door of the Doctor's room, where he was speaking with Charles Darnay. They were ready to go to church; the beautiful bride, Mr. Lorry, and Miss Pross- to whom the event, through a gradual process of reconcilement to the inevitable, would have been one of absolute bliss, but for the yet lingering consideration that her brother Solomon should have been the bridegroom.

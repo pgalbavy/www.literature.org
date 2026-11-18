@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14"
 weight: 42
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-14.html"
 ---
 
 On November 1 Kutuzov had received, through a spy, news that the army he commanded was in an almost hopeless position. The spy reported that the French, after crossing the bridge at Vienna, were advancing in immense force upon Kutuzov's line of communication with the troops that were arriving from Russia. If Kutuzov decided to remain at Krems, Napoleon's army of one hundred and fifty thousand men would cut him off completely and surround his exhausted army of forty thousand, and he would find himself in the position of Mack at Ulm. If Kutuzov decided to abandon the road connecting him with the troops arriving from Russia, he would have to march with no road into unknown parts of the Bohemian mountains, defending himself against superior forces of the enemy and abandoning all hope of a junction with Buxhowden. If Kutuzov decided to retreat along the road from Krems to Olmutz, to unite with the troops arriving from Russia, he risked being forestalled on that road by the French who had crossed the Vienna bridge, and encumbered by his baggage and transport, having to accept battle on the march against an enemy three times as strong, who would hem him in from two sides.

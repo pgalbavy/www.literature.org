@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 14"
 weight: 67
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-14.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-14.html"
 ---
 
 When Claude and David rejoined their Battalion on the 20th of September, the end of the war looked as far away as ever. The collapse of Bulgaria was unknown to the American army, and their acquaintance with European affairs was so slight that this would have meant very little to them had they heard of it. The German army still held the north and east of France, and no one could say how much vitality was left in that sprawling body.

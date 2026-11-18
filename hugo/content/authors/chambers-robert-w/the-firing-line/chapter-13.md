@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Silent Partners"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-13.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-13.html"
 ---
 
 Late one evening toward the end of the week a somewhat battered camping party, laden with plump, fluffy bunches of quail, and plumper strings of duck, wind-scorched, sun-burnt, brier-torn and trail-worn, re-entered the *patio* of the Cardross villa, and made straight for shower-bath, witch-hazel, fresh pyjamas, and bed.

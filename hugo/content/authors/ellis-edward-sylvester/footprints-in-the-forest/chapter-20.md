@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Uncongenial Neighbors"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-20.html"
 ---
 
 Jack Carleton fixed his eyes on his cap, wondering how near the Sank could come to it. Feeling some misgiving, he took several more steps backward, until he was fully five yards from the pendant headgear.

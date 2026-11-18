@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Ghost-Man"
 weight: 4
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-04.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-04.html"
 ---
 
 As the sun paled to nothing in the yellow murk of dust, a high cloud of sand overleapt the northern peaks and came sifting down the slopes of Shadow Mountain. The gusts of wind began to wail in boding fury and then the storm struck the town. Dirt and papers flew before it; tin cans leapt forth from holes and alleys; and sticks and small stones, sucked up in the vortex, joined in on the devil's dance. Ancient signs creaked and groaned and threatened to leave their moorings, old houses gave up shingles and loose boards, and up the street on the deserted bank building, the fire-doors banged like cannon. Then the night came on and the streets of Keno were empty, except for the flying dirt.

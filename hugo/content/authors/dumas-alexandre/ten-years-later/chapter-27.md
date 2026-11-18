@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - The Next Day"
 weight: 27
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-27.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-27.html"
 ---
 
 It was seven o'clock in the morning, the first rays of day lightened the pools of the marsh, in which the sun was reflected like a red ball, when Athos, awaking and opening the window of his bed-chamber, which looked out upon the banks of the river, perceived, at fifteen paces' distance from him, the sergeant and the men who had accompanied him the evening before, and who, after having deposited the casks at his house, had returned to the camp by the causeway on the right.

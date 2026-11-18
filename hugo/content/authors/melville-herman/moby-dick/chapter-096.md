@@ -1,8 +1,7 @@
 ---
 title: "Chapter 96 - The Try-Works"
 weight: 96
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-096.html"
+url: "/authors/melville-herman/moby-dick/chapter-096.html"
 ---
 
 Besides her hoisted boats, an American whaler is outwardly distinguished by her try-works. She presents the curious anomaly of the most solid masonry joining with oak and hemp in constituting the completed ship. It is as if from the open field a brick-kiln were transported to her planks.

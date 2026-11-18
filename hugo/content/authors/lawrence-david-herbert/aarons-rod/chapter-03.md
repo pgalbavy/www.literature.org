@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - \u0026quot;The Lighted Tree\u0026quot;"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-03.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-03.html"
 ---
 
 It is remarkable how many odd or extraordinary people there are in England. We hear continual complaints of the stodgy dullness of the English. It would be quite as just to complain of their freakish, unusual characters. Only en masse the metal is all Britannia.

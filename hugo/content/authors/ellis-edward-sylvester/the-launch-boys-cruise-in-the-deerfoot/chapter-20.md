@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Disappointment"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-20.html"
 ---
 
 Through the soft, impenetrable darkness stole the almost inaudible sound of a paddle, and strangely enough, only a single stroke was heard. The listening youths agreed that the point whence it came was to the north of the islet, and it was Chester Haynes who was keen witted enough to hit upon the explanation.

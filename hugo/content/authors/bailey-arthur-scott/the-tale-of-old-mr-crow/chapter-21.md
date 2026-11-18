@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Crow Caucus"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-21.html"
 ---
 
 "Where are all those crows going?" Johnnie Green asked his father one evening. He pointed to a long line of big black birds that straggled across the sky. They came from across the valley. And they were travelling fast toward the pine woods near the foot of Blue Mountain. "They seem to be in a hurry," said Johnnie Green.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 99 - The Doubloon"
 weight: 99
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-099.html"
+url: "/authors/melville-herman/moby-dick/chapter-099.html"
 ---
 
 Ere now it has been related how Ahab was wont to pace his quarter-deck, taking regular turns at either limit, the binnacle and mainmast; but in the multiplicity of other things requiring narration it has not been added how that sometimes in these walks, when most plunged in his mood, he was wont to pause in turn at each spot, and stand there strangely eyeing the particular object before him. When he halted before the binnacle, with his glance fastened on the pointed needle in the compass, that glance shot like a javelin with the pointed intensity of his purpose; and when resuming his walk he again paused before the mainmast, then, as the same riveted glance fastened upon the riveted gold coin there, he still wore the same aspect of nailed firmness, only dashed with a certain wild longing, if not hopefulness.

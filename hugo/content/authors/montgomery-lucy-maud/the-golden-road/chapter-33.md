@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Story Girl Goes"
 weight: 34
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-33.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-33.html"
 ---
 
 The morning dawned, rosy and clear and frosty. Everybody was up early, for the travellers must leave in time to catch the nine o'clock train. The horse was harnessed and Uncle Alec was waiting by the door. Aunt Janet was crying, but everybody else was making a valiant effort not to. The Awkward Man and Mrs. Dale came to see the last of their favourite. Mrs. Dale had brought her a glorious sheaf of chrysanthemums, and the Awkward Man gave her, quite gracefully, another little, old, limp book from his library.

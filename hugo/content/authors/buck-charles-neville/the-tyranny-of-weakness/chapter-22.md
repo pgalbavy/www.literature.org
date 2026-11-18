@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-22.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-22.html"
 ---
 
 As they took their seats at the table reserved for them, a conflict of emotions made difficulty of conversation for two members of the trio.

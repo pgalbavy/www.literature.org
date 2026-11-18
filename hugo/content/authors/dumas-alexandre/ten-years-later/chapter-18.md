@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - In Which D'artagnan Seeks Porthos, And Only Finds Mousqueton"
 weight: 18
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-18.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-18.html"
 ---
 
 When D'Artagnan had perfectly convinced himself that the absence of the Vicar-General d'Herblay was real, and that his friend was not to be found at Melun or in its vicinity, he left Bazin without regret, cast an ill-natured glance at the magnificent Chateau de Vaux which was beginning to shine with that splendor which brought on its ruin, and, compressing his lips like a man full of mistrust and suspicion, he put spurs to his pied horse, saying, "Well, well! I have still Pierrefonds left, and there I shall find the best man and the best filled coffer. And that is all I want, for I have an idea of my own."

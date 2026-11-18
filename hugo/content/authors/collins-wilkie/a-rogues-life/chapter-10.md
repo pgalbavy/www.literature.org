@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/collins-wilkie/a-rogues-life/chapter-10.html"
+url: "/authors/collins-wilkie/a-rogues-life/chapter-10.html"
 ---
 
 MY first few days' experience in my new position satisfied me that Doctor Dulcifer preserved himself from betrayal by a system of surveillance worthy of the very worst days of the Holy Inquisition itself.

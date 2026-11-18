@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-19.html"
 ---
 
 Fortunately both Gravity Gimp and Mr. Brainerd knew the peculiar construction of their refuge, and instant precautions were taken.

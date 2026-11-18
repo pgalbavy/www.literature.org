@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-16.html"
 ---
 
 He paid the professor another visit a few days later, and afterwards another, and another.

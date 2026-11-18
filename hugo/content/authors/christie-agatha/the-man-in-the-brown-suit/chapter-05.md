@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-05.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-05.html"
 ---
 
 In the first heat of indignation I found my next step unexpectedly easy to tackle. I had had a half-formed plan in my head when I went into Scotland Yard. One to be carried out if my interview there was unsatisfactory (it had been profoundly unsatisfactory). That is, if I had the nerve to go through with it.

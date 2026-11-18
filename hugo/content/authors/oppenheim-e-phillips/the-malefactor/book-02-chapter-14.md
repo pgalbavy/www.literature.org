@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 14 - Aynesworth Plans A Love Story"
 weight: 30
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-14.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-14.html"
 ---
 
 Wingrave disappeared suddenly from London. Aynesworth alone knew where he was gone, and he was pledged to secrecy. Two people received letters from him. Lady Ruth was one of them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-11.html"
+url: "/authors/london-jack/john-barleycorn/chapter-11.html"
 ---
 
 And still there arose in me no desire for alcohol, no chemical demand. In years and years of heavy drinking, drinking did not beget the desire. Drinking was the way of the life I led, the way of the men with whom I lived. While away on my cruises on the bay, I took no drink along; and while out on the bay the thought of the desirableness of a drink never crossed my mind. It was not until I tied the Razzle Dazzle up to the wharf and got ashore in the congregating places of men, where drink flowed, that the buying of drinks for other men, and the accepting of drinks from other men, devolved upon me as a social duty and a manhood rite.

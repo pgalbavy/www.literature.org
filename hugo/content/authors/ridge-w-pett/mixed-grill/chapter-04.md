@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Slow Recovery"
 weight: 4
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-04.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-04.html"
 ---
 
 MRS. MARCHANT offered a pointed remark concerning the indolent habits of London folk as compared with the early rising and the continuous industry shown by people living in the country. Called by a boy who required a weekly journal, she, without leaving the pavement, instructed him to look over the contents of the counter and help himself, adding a warning that sweets were not to be touched.

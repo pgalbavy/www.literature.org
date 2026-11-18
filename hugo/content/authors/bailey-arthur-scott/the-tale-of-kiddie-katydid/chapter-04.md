@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Whining Caller"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-04.html"
 ---
 
 "I certainly hope you aren't going to disappoint me?" Mr. Nighthawk whined, as he looked hungrily at Kiddie Katydid. "Please, please jump for me--just once!" he begged. "Here I've come all the way across the meadow on purpose to see what a fine jumper you are! And I shall feel very unhappy if you don't perform for me."

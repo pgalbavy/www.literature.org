@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 6"
 weight: 55
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-06.html"
 ---
 
 It was long since the Rostovs had news of Nicholas. Not till midwinter was the count at last handed a letter addressed in his son's handwriting. On receiving it, he ran on tiptoe to his study in alarm and haste, trying to escape notice, closed the door, and began to read the letter.

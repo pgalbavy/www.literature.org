@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Captain Jim Crosses The Bar"
 weight: 39
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-39.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-39.html"
 ---
 
 One day in late September Owen Ford's book came at last. Captain Jim had gone faithfully to the Glen post office every day for a month, expecting it. This day he had not gone, and Leslie brought his copy home with hers and Anne's.

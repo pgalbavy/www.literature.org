@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Battle Of The Pass"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-20.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-20.html"
 ---
 
 It was on the third morning after this incident of the map that Sir Henry and I started. With the exception of a small guard, all the great host had moved on the night before, leaving the Frowning City very silent and empty. Indeed, it was found impossible to leave any garrison with the exception of a personal guard for Nyleptha, and about a thousand men who from sickness or one cause or another were unable to proceed with the army; but as Milosis was practically impregnable, and as our enemy was in front of and not behind us, this did not so much matter.

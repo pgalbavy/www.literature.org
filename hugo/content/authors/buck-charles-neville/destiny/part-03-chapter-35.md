@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 35"
 weight: 35
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-03-chapter-35.html"
+url: "/authors/buck-charles-neville/destiny/part-03-chapter-35.html"
 ---
 
 The Mountain Top - The Story That Was

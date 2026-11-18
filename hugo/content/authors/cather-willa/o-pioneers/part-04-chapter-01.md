@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 1"
 weight: 20
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-04-chapter-01.html"
+url: "/authors/cather-willa/o-pioneers/part-04-chapter-01.html"
 ---
 
 The French Church, properly the Church of Sainte-Agnes, stood upon a hill. The high, narrow, red-brick building, with its tall steeple and steep roof, could be seen for miles across the wheatfields, though the little town of Sainte-Agnes was completely hidden away at the foot of the hill. The church looked powerful and triumphant there on its eminence, so high above the rest of the landscape, with miles of warm color lying at its feet, and by its position and setting it reminded one of some of the churches built long ago in the wheat-lands of middle France.

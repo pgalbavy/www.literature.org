@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Through The Night"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-29.html"
 ---
 
 *WHILE* Herbert Watrous lay on the ground, at the top of the elevation, with the Texans waiting for the return of the old trapper, he asked Strubell to explain their action on the night of the first norther, when they sent him and Nick through the hills to the other side.

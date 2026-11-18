@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - I Go In Quest Of My Inheritance"
 weight: 29
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-28.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-28.html"
 ---
 
 I made what change I could in my appearance; and blithe was I to look in the glass and find the beggarman a thing of the past, and David Balfour come to life again. And yet I was ashamed of the change too, and, above all, of the borrowed clothes. When I had done, Mr. Rankeillor caught me on the stair, made me his compliments, and had me again into the cabinet.

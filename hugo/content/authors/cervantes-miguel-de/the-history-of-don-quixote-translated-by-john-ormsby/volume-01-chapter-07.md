@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 7 - Of The Second Sally Of Our Worthy Knight Don Quixote Of La Mancha"
 weight: 10
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-07.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-07.html"
 ---
 
 At this instant Don Quixote began shouting out, "Here, here, valiant knights! here is need for you to put forth the might of your strong arms, for they of the Court are gaining the mastery in the tourney!" Called away by this noise and outcry, they proceeded no farther with the scrutiny of the remaining books, and so it is thought that "The Carolea," "The Lion of Spain," and "The Deeds of the Emperor," written by Don Luis de Ávila, went to the fire unseen and unheard; for no doubt they were among those that remained, and perhaps if the curate had seen them they would not have undergone so severe a sentence.

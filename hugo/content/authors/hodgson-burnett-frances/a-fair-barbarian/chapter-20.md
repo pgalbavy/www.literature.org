@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Peculiar To Nevada"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-20.html"
 ---
 
 Whether, or not, Lucia was right in accusing Octavia Bassett of being clever, and thinking a great deal, is a riddle which those who are interested in her must unravel as they read; but, whether the surmise was correct or incorrect, it seemed possible that she had thought a little after the interview. When Barold saw her next, he was struck by a slight but distinctly definable change he recognized in her dress and coiffure. Her pretty hair had a rather less "professional" appearance: he had the pleasure of observing, for the first time, how very white her forehead was, and how delicate the arch of her eyebrows; her dress had a novel air of simplicity, and the diamond rings were nowhere to be seen.

@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 24"
 weight: 213
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-24.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-24.html"
 ---
 
 "Well, was it nice?" she asked, coming out to meet him with a penitent and meek expression.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2 - Over The Precipice"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-02.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-02.html"
 ---
 
 The effect of his words upon the girl were quite different from what he had expected. An American girl would have laughed, knowing that he but joked. This girl did not laugh. Instead her face went white, and she clutched her bosom with her two hands. Her brown eyes peered searchingly into the face of the man.

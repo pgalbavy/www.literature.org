@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-35.html"
+url: "/authors/dickens-charles/great-expectations/chapter-35.html"
 ---
 
 IT was the first time that a grave had opened in my road of life, and the gap it made in the smooth ground was wonderful. The figure of my sister in her chair by the kitchen fire, haunted me night and day. That the place could possibly be, without her, was something my mind seemed unable to compass; and whereas she had seldom or never been in my thoughts of late, I had now the strangest ideas that she was coming towards me in the street, or that she would presently knock at the door. In my rooms too, with which she had never been at all associated, there was at once the blankness of death and a perpetual suggestion of the sound of her voice or the turn of her face or figure, as if she were still alive and had been often there.

@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1"
 weight: 18
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-03-chapter-01.html"
+url: "/authors/cather-willa/o-pioneers/part-03-chapter-01.html"
 ---
 
 Winter has settled down over the Divide again; the season in which Nature recuperates, in which she sinks to sleep between the fruitfulness of autumn and the passion of spring. The birds have gone. The teeming life that goes on down in the long grass is exterminated. The prairie-dog keeps his hole. The rabbits run shivering from one frozen garden patch to another and are hard put to it to find frost-bitten cabbage-stalks. At night the coyotes roam the wintry waste, howling for food. The variegated fields are all one color now; the pastures, the stubble, the roads, the sky are the same leaden gray. The hedgerows and trees are scarcely perceptible against the bare earth, whose slaty hue they have taken on. The ground is frozen so hard that it bruises the foot to walk in the roads or in the ploughed fields. It is like an iron country, and the spirit is oppressed by its rigor and melancholy. One could easily believe that in that dead landscape the germs of life and fruitfulness were extinct forever.

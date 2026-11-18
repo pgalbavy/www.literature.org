@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 2 - The Mail"
 weight: 2
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-02.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-02.html"
 ---
 
 IT WAS the Dover road that lay, on a Friday night late in November, before the first of the persons with whom this history has business. The Dover road lay, as to him, beyond the Dover mail, as it lumbered up Shooter's Hill. He walked up hill in the mire by the side of the mail, as the rest of the passengers did; not because they had the least relish for walking exercise, under the circumstances, but because the hill, and the harness, and the mud, and the mail, were all so heavy, that the horses had three times already come to a stop, besides once drawing the coach across the road, with the mutinous intent of taking it back to Blackheath. Reins and whip and coachman and guard, however, in combination, had read that article of war which forbade a purpose otherwise strongly in favour of the argument, that some brute animals are endued with Reason; and the team had capitulated and returned to their duty.

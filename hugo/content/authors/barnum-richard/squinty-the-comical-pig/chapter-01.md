@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Squinty And The Dog"
 weight: 1
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-01.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-01.html"
 ---
 
 Squinty was a little pig. You could tell he was a pig just as soon as you looked at him, because he had the cutest little curly tail, as though it wanted to tie itself into a bow, but was not quite sure whether that was the right thing to do. And Squinty had a skin that was as pink, under his white, hairy bristles, as a baby's toes.

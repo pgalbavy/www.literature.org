@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - High Up Over The Cathedral Square"
 weight: 17
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-17.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-17.html"
 ---
 
 Aaron and Lilly sat in Argyle's little loggia, high up under the eaves of the small hotel, a sort of long attic-terrace just under the roof, where no one would have suspected it. It was level with the grey conical roof of the Baptistery. Here sat Aaron and Lilly in the afternoon, in the last of the lovely autumn sunshine. Below, the square was already cold in shadow, the pink and white and green Baptistery rose lantern-shaped as from some sea-shore, cool, cold and wan now the sun was gone. Black figures, innumerable black figures, curious because they were all on end, up on end - Aaron could not say why he expected them to be horizontal - little black figures upon end, like fishes that swim on their tails, wiggled endlessly across the piazza, little carriages on natural all-fours rattled tinily across, the yellow little tram-cars, like dogs slipped round the corner. The balcony was so high up, that the sound was ineffectual. The upper space, above the houses, was nearer than the under-currents of the noisy town. Sunlight, lovely full sunlight, lingered warm and still on the balcony. It caught the facade of the cathedral sideways, like the tips of a flower, and sideways lit up the stem of Giotto's tower, like a lily stem, or a long, lovely pale pink and white and green pistil of the lily of the cathedral. Florence, the flowery town. Firenze - Fiorenze - the flowery town: the red lilies. The Fiorentini, the flower-souled. Flowers with good roots in the mud and muck, as should be: and fearless blossoms in air, like the cathedral and the tower and the David.

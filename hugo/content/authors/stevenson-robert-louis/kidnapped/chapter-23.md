@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Cluny’s Cage"
 weight: 24
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-23.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-23.html"
 ---
 
 We came at last to the foot of an exceeding steep wood, which scrambled up a craggy hillside, and was crowned by a naked precipice.

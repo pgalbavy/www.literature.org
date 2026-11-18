@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/buchan-john/prester-john/preface.html"
+url: "/authors/buchan-john/prester-john/preface.html"
 ---
 
 TO

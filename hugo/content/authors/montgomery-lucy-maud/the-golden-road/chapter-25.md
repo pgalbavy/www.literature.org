@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Love Story Of The Awkward Man"
 weight: 26
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-25.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-25.html"
 ---
 
 (Written by the Story Girl)

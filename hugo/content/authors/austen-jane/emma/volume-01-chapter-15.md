@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-15.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-15.html"
 ---
 
 Mr. Woodhouse was soon ready for his tea; and when he had drank his tea he was quite ready to go home; and it was as much as his three companions could do, to entertain away his notice of the lateness of the hour, before the other gentlemen appeared. Mr. Weston was chatty and convivial, and no friend to early separations of any sort; but at last the drawing-room party did receive an augmentation. Mr. Elton, in very good spirits, was one of the first to walk in. Mrs. Weston and Emma were sitting together on a sofa. He joined them immediately, and, with scarcely an invitation, seated himself between them.

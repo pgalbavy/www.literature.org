@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Early Days"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-01.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-01.html"
 ---
 
 Richard Harding Davis was born in Philadelphia on April 18, 1864, but, so far as memory serves me, his life and mine began together several years later in the three-story brick house on South Twenty-first Street, to which we had just moved. For more than forty years this was our home in all that the word implies, and I do not believe that there was ever a moment when it was not the predominating influence in Richard's life and in his work. As I learned in later years, the house had come into the possession of my father and mother after a period on their part of hard endeavor and unusual sacrifice. It was their ambition to add to this home not only the comforts and the beautiful inanimate things of life, but to create an atmosphere which would prove a constant help to those who lived under its roof--an inspiration to their children that should endure so long as they lived. At the time of my brother's death the fact was frequently commented upon that, unlike most literary folk, he had never known what it was to be poor and to suffer the pangs of hunger and failure. That he never suffered from the lack of a home was certainly as true as that in his work he knew but little of failure, for the first stories he wrote for the magazines brought him into a prominence and popularity that lasted until the end. But if Richard gained his success early in life and was blessed with a very lovely home to which he could always return, he was not brought up in a manner which in any way could be called lavish. Lavish he may have been in later years, but if he was it was with the money for which those who knew him best knew how very hard he had worked.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Little House"
 weight: 17
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-17.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-17.html"
 ---
 
 Everybody has heard of the Little House in the Kensington Gardens, which is the only house in the whole world that the fairies have built for humans. But no one has really seen it, except just three or four, and they have not only seen it but slept in it, and unless you sleep in it you never see it. This is because it is not there when you lie down, but it is there when you wake up and step outside.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Messenger"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-12.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-12.html"
 ---
 
 “He is gone,” I panted, “and the world hasn’t lost much.”

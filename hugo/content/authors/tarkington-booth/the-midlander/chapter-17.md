@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-17.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-17.html"
 ---
 
 *THE* day after her funeral Mr. Oliphant brought home a copy of her will and read it to his wife and their sons and daughter-in-law in the library. He read slowly, while his four auditors sat in a silence broken only once, though the document was a long one. The single interruption was a vocal sound from Dan when the bequest to himself was mentioned, an exclamation the import of which was not determinable by the others.

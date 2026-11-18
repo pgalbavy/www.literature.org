@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Natural Selection; Or The Survival Of The Fittest"
 weight: 6
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-04.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-04.html"
 ---
 
 Natural Selection -- its power compared with man's selection -- its power on characters of trifling importance -- its power at all ages and on both sexes -- Sexual Selection -- On the generality of intercrosses between individuals of the same species -- Circumstances favourable and unfavourable to the results of Natural Selection, namely, intercrossing, isolation, number of individuals -- Slow action -- Extinction caused by Natural Selection -- Divergence of Character, related to the diversity of inhabitants of any small area and to naturalisation -- Action of Natural Selection, through Divergence of Character and Extinction, on the descendants from a common parent -- Explains the Grouping of all organic beings -- Advance in organisation -- Low forms preserved -- Convergence of character -- Indefinite multiplication of species -- Summary.

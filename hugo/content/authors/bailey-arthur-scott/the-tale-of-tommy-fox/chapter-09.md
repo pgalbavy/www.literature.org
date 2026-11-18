@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Tommy Fox In Trouble"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-09.html"
 ---
 
 A few days after Tommy Fox caught old Mr. Woodchuck, something happened that set him thinking. Perhaps I should say "a few nights" instead of "days." For one night his mother came home with a fat hen slung across her shoulders. She had been down to Farmer Green's hen-house, right in the middle of the night, when Farmer Green and his family were asleep; and she had snatched one of the sleeping hens off the roost and stolen away with it without waking anybody.

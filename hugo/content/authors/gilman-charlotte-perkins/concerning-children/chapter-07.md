@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Unconscious Schooling"
 weight: 7
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-07.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-07.html"
 ---
 
 A small boy came from an old-fashioned city,--a city where he went to school from day to day, and sat with his fellows in rigid rectangular rows, gazing on bare whitewashed walls adorned with a broad stripe of blackboard; where he did interminable "sums" on a smeary little slate, and spelled in sing-song chorus "Baker! Baker! b, a, bay; k, e, r, ker,--Baker!" He came to a new-fashioned city, where the most important business on earth--the training of children--was appreciated. The small boy did not know this. He saw that the city was clean and bright and full of wide spaces of grass and trees; and he liked it. It pleased him, as a child: it was the kind of place that looked as if it had been planned with some thought of pleasing children. Soon he came to a great open gate, with shady walks and sunny lawns inside, buildings here and there in the distance, and, just at hand, some strange figures among the bushes.

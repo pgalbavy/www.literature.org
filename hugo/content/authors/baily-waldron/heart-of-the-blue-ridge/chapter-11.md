@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-11.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-11.html"
 ---
 
 Uncle Dick, as he was universally known in the mountains, had celebrated his eightieth birthday before his granddaughters, Plutina and Alvira, by leaping high in the air, and knocking his heels together three times before returning to the ground. There was, in fact, no evidence of decrepitude anywhere about him. The thatch of coal-black hair was only moderately streaked with gray, and it streamed in profuse ringlets to his shoulders. His black eyes were still keen; the leathery face, with its imperious features, was ruddy. He carried his six-foot-three of bone and muscle lightly.

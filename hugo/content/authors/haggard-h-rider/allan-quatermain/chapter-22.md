@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - How Umslopogaas Held The Stair"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-22.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-22.html"
 ---
 
 We looked at one another.

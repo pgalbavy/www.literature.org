@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 10"
 weight: 28
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-10.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-10.html"
 ---
 
 For it meant that. Imprisoned! Castro's derisive shriek meant that. And I had known it before. He emerged back out of the black depths, with livid, swollen features, and foam about his mouth, to splutter:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - Of Darknesse From Vain Philosophy, And Fabulous Traditions"
 weight: 48
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-46.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-46.html"
 ---
 
 What Philosophy Is By Philosophy is understood "the Knowledge acquired by Reasoning, from the Manner of the Generation of any thing, to the Properties; or from the Properties, to some possible Way of Generation of the same; to the end to bee able to produce, as far as matter, and humane force permit, such Effects, as humane life requireth." So the Geometrician, from the Construction of Figures, findeth out many Properties thereof; and from the Properties, new Ways of their Construction, by Reasoning; to the end to be able to measure Land and Water; and for infinite other uses. So the Astronomer, from the Rising, Setting, and Moving of the Sun, and Starres, in divers parts of the Heavens, findeth out the Causes of Day, and Night, and of the different Seasons of the Year; whereby he keepeth an account of Time: And the like of other Sciences.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Accident"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-12.html"
 ---
 
 Snowball was quick to learn one thing. He soon found that jumping through Johnnie Green's paper-covered hoops brought him plenty of cracked corn.

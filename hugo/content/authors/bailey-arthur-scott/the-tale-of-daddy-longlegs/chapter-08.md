@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - In Need Of New Shoes"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-08.html"
 ---
 
 DADDY LONGLEGS couldn't help feeling discouraged when Chirpy Cricket told him that he wouldn't be able to reach the oat field before the next morning.

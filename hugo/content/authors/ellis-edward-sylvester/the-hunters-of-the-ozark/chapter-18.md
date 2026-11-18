@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Like A Thief In The Night"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-18.html"
 ---
 
 The crisp autumn night had not reached its turn when the full moon climbed from behind the straggling clouds obscuring her face, into the clear air above, and shone down on the wilderness, with the same calm splendor with which it had shone during the ages before the foot of a white man had rested on the soil of our country. Here and there, at widely-separated points, as the orb moved toward the zenith, could be seen the star-like twinkles of light which showed where the sparse settlements had been planted by the pioneers. At intervals, too, miles away from the clearings, could be distinguished the glimmer of the hunters' camp-fires, where the hardy men had lain down wrapped in their blankets, and to sleep the sleep of health. Still further away, by the side of some calmly flowing river or creek, were the ragged tepees of the wild Indians. Mountain, forest and stream made up the landscape, that was illuminated by the moon on the night when Fred Linden and Terry Clark lay down in slumber by the fire in the cavern, and Deerfoot the Shawanoe took upon himself the duty of acting as a sentinel over them.

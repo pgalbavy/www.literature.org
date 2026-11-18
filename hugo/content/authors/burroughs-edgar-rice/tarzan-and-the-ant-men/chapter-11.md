@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-11.html"
 ---
 
 Tarzan of the Apes was led directly from the Royal Dome to the quarries of Veltopismakus, which lie a quarter of a mile from the nearer of the eight domes which constitute the city. A ninth dome was in course of construction and it was toward this that the line of burdened slaves wound from the entrance to the quarry to which the ape-man was conducted. Just below the surface, in a well-lighted chamber, he was turned over to the officer in charge of the quarry guard, to whom the king's instructions concerning him were communicated.

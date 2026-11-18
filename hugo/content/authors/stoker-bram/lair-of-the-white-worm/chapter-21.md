@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-21.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-21.html"
 ---
 
 When old Mr. Salton had retired for the night, Adam and Sir Nathaniel returned to the study. Things went with great regularity at Lesser Hill, so they knew that there would be no interruption to their talk.

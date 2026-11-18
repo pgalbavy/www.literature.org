@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Jasper's Boast"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-04.html"
 ---
 
 JASPER JAY had said nothing to anyone concerning the horrid call, which had sounded twice--each time at midday. But now that he felt sure the strange bird whose cry he had heard must have come to live in Pleasant Valley, he could no longer keep from mentioning the matter.

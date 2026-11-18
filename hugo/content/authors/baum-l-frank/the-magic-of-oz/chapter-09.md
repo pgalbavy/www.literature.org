@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-09.html"
 ---
 
 The Glass Cat was a good guide and led Trot and Cap'n Bill by straight and easy paths through all the settled part of the Munchkin Country, and then into the north section where there were few houses, and finally through a wild country where there were no houses or paths at all. But the walking was not difficult and at last they came to the edge of a forest and stopped there to make camp and sleep until morning.

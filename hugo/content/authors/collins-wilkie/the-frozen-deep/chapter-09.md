@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-09.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-09.html"
 ---
 
 Crayford touched his friend on the shoulder to rouse him. Wardour looked up, impatiently, with a frown.

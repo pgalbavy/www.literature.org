@@ -1,8 +1,7 @@
 ---
 title: "Chapter 94 - Sword-Thrusts In The Water"
 weight: 94
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-94.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-94.html"
 ---
 
 Raoul, on betaking himself to De Guiche, found him conversing with De Wardes and Manicamp. De Wardes, since the affair of the barricade, had treated Raoul as a stranger; they behaved as if they were not acquainted. As Raoul entered, De Guiche walked up to him; and Raoul, as he grasped his friend's hand, glanced rapidly at his two companions, hoping to be able to read on their faces what was passing in their minds. De Wardes was cold and impenetrable; Manicamp seemed absorbed in the contemplation of some trimming to his dress. De Guiche led Raoul to an adjoining cabinet, and made him sit down, saying, "How well you look!"

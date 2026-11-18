@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - How Tarzan Came Again to Opar"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-24.html"
 ---
 
 When Clayton returned to the shelter and found Jane Porter was missing, he became frantic with fear and grief. He found Monsieur Thuran quite rational, the fever having left him with the surprising suddenness which is one of its peculiarities. The Russian, weak and exhausted, still lay upon his bed of grasses within the shelter.

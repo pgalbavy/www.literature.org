@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-07.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-07.html"
 ---
 
 The very day of Mr. Elton's going to London produced a fresh occasion for Emma's services towards her friend. Harriet had been at Hartfield, as usual, soon after breakfast; and, after a time, had gone home to return again to dinner: she returned, and sooner than had been talked of, and with an agitated, hurried look, announcing something extraordinary to have happened which she was longing to tell. Half a minute brought it all out. She had heard, as soon as she got back to Mrs. Goddard's, that Mr. Martin had been there an hour before, and finding she was not at home, nor particularly expected, had left a little parcel for her from one of his sisters, and gone away; and on opening this parcel, she had actually found, besides the two songs which she had lent Elizabeth to copy, a letter to herself; and this letter was from him, from Mr. Martin, and contained a direct proposal of marriage. “Who could have thought it? She was so surprized she did not know what to do. Yes, quite a proposal of marriage; and a very good letter, at least she thought so. And he wrote as if he really loved her very much--but she did not know--and so, she was come as fast as she could to ask Miss Woodhouse what she should do.--” Emma was half-ashamed of her friend for seeming so pleased and so doubtful.

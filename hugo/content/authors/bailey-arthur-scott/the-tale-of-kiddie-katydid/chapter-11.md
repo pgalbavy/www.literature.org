@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Change In The Weather"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-11.html"
 ---
 
 Well, the day was not half gone before all the wild creatures in Pleasant Valley had heard all about Kiddie Katydid and his fiddling. At least twenty-seven people came to Mr. Frog at different times and told him the news. And he was furious.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Round-Up"
 weight: 6
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-06.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-06.html"
 ---
 
 It is an old saying that there is no combination or percentage known that can beat bull luck. Bowles was lucky; but he didn't know how lucky he was, never having seen a real bronk pitch. After Wa-ha-lote had had his run he changed his mind again and decided to be good, and when Bowles galloped him back to the ranch he was as gentle as a dog, and the top horse in the remuda. Even when Bowles started to rise to the trot the Water-dog was no more than badly puzzled.

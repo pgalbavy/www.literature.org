@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Sheeta"
 weight: 4
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-04.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-04.html"
 ---
 
 The next few days were occupied by Tarzan in completing his weapons and exploring the jungle. He strung his bow with tendons from the buck upon which he had dined his first evening upon the new shore, and though he would have preferred the gut of Sheeta for the purpose, he was content to wait until opportunity permitted him to kill one of the great cats.

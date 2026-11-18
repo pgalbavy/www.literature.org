@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Two Famous Diggers"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-22.html"
 ---
 
 BILLY WOODCHUCK had decided to move into new quarters before cold weather set in. Old dog Spot had learned where he lived; and to Billy's dismay Spot was spending altogether too much of his time watching Billy's front door.

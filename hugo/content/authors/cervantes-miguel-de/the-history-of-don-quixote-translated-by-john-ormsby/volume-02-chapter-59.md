@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 59 - Wherein Is Related The Strange Thing, Which May Be Regarded As An Adventure, That Happened Don Quixote"
 weight: 115
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-59.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-59.html"
 ---
 
 A clear limpid spring which they discovered in a cool grove relieved Don Quixote and Sancho of the dust and fatigue due to the unpolite behaviour of the bulls, and by the side of this, having turned Dapple and Rocinante loose without headstall or bridle, the forlorn pair, master and man, seated themselves. Sancho had recourse to the larder of his alforjas and took out of them what he called the prog; Don Quixote rinsed his mouth and bathed his face, by which cooling process his flagging energies were revived. Out of pure vexation he remained without eating, and out of pure politeness Sancho did not venture to touch a morsel of what was before him, but waited for his master to act as taster. Seeing, however, that, absorbed in thought, he was forgetting to carry the bread to his mouth, he said never a word, and trampling every sort of good breeding under foot, began to stow away in his paunch the bread and cheese that came to his hand.

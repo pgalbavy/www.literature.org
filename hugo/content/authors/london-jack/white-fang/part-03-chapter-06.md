@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6 - The Famine"
 weight: 14
-aliases:
-  - "/authors/london-jack/white-fang/part-03-chapter-06.html"
+url: "/authors/london-jack/white-fang/part-03-chapter-06.html"
 ---
 
 The spring of the year was at hand when Grey Beaver finished his long journey. It was April, and White Fang was a year old when he pulled into the home villages and was loosed from the harness by Mit-sah. Though a long way from his full growth, White Fang, next to Lip-lip, was the largest yearling in the village. Both from his father, the wolf, and from Kiche, he had inherited stature and strength, and already he was measuring up alongside the full-grown dogs. But he had not yet grown compact. His body was slender and rangy, and his strength more stringy than massive, His coat was the true wolf-grey, and to all appearances he was true wolf himself. The quarter-strain of dog he had inherited from Kiche had left no mark on him physically, though it had played its part in his mental make-up.

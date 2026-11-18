@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Disappearance Of Paddy"
 weight: 11
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-10.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-10.html"
 ---
 
 As I remember, the spring came late that year in Carlisle. It was May before the weather began to satisfy the grown-ups. But we children were more easily pleased, and we thought April a splendid month because the snow all went early and left gray, firm, frozen ground for our rambles and games. As the days slipped by they grew more gracious; the hillsides began to look as if they were thinking of mayflowers; the old orchard was washed in a bath of tingling sunshine and the sap stirred in the big trees; by day the sky was veiled with delicate cloud drift, fine and filmy as woven mist; in the evenings a full, low moon looked over the valleys, as pallid and holy as some aureoled saint; a sound of laughter and dream was on the wind and the world grew young with the mirth of April breezes.

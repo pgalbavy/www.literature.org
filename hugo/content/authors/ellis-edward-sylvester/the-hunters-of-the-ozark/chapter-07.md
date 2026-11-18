@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Hunters Of Ozark"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-07.html"
 ---
 
 I must tell you how it was that Deerfoot the Shawanoe came to bring the important letter of George Linden to his son Frederick.

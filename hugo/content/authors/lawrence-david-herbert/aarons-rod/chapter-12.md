@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Novara"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-12.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-12.html"
 ---
 
 Having no job for the autumn, Aaron fidgetted in London. He played at some concerts and some private shows. He was one of an odd quartette, for example, which went to play to Lady Artemis Hooper, when she lay in bed after her famous escapade of falling through the window of her taxi-cab. Aaron had that curious knack, which belongs to some people, of getting into the swim without knowing he was doing it. Lady Artemis thought his flute lovely, and had him again to play for her. Aaron looked at her and she at him. She, as she reclined there in bed in a sort of half-light, well made-up, smoking her cigarettes and talking in a rather raucous voice, making her slightly rasping witty comments to the other men in the room - of course there were other men, the audience - was a shock to the flautist. This was the bride of the moment! Curious how raucous her voice sounded out of the cigarette smoke. Yet he liked her - the reckless note of the modern, social freebooter. In himself was a touch of the same quality.

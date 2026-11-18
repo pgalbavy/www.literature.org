@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Home Of The Huron"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/oonomoo-the-huron/chapter-05.html"
 ---
 
 Tis nature's worship—felt—confessed, Far as the life which warms the breast! The sturdy savage midst his clan, The rudest portraiture of man, In trackless woods and boundless plains, Where everlasting wildness reigns, Owns the still throb—the secret start- The hidden impulse of the heart. —*BYRON*.

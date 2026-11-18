@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-16.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-16.html"
 ---
 
 The two men who had walked up together arm in arm from Downing Street, stood for several moments in Pall Mall before separating. The pressman who was passing yearned for the sunlight in his camera. One of the greatest financiers of the city in close confabulation with Mr. Gordon Jones, the Chancellor of the Exchequer, was an interesting, almost an historical sight.

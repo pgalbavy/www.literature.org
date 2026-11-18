@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Joey"
 weight: 22
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-22.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-22.html"
 ---
 
 Wise children always choose a mother who was a shocking flirt in her maiden days, and so had several offers before she accepted their fortunate papa. The reason they do this is because every offer refused by their mother means another pantomime to them. You see you can't trust to your father's taking you to the pantomime, but you can trust to every one of the poor frenzied gentlemen for whom that lady has wept a delicious little tear on her lovely little cambric handkerchief. It is pretty (but dreadfully affecting) to see them on Boxing Night gathering together the babies of their old loves. Some knock at but one door and bring a hansom, but others go from street to street in private 'buses, and even wear false noses to conceal the sufferings you inflict upon them as you grew more and more like your sweet cruel mamma.

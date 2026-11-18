@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-23.html"
+url: "/authors/london-jack/john-barleycorn/chapter-23.html"
 ---
 
 My cruise in the salmon boat lasted a week, and I returned ready to enter the university. During the week's cruise I did not drink again. To accomplish this I was compelled to avoid looking up old friends, for as ever the adventure-path was beset with John Barleycorn. I had wanted the drink that first day, and in the days that followed I did not want it. My tired brain had recuperated. I had no moral scruples in the matter. I was not ashamed nor sorry because of that first day's orgy at Benicia, and I thought no more about it, returning gladly to my books and studies.

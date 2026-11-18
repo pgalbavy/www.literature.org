@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/eliot-george/silas-marner/chapter-15.html"
+url: "/authors/eliot-george/silas-marner/chapter-15.html"
 ---
 
 There was one person, as you will believe, who watched with keener though more hidden interest than any other, the prosperous growth of Eppie under the weaver's care. He dared not do anything that would imply a stronger interest in a poor man's adopted child than could be expected from the kindliness of the young Squire, when a chance meeting suggested a little present to a simple old fellow whom others noticed with goodwill; but he told himself that the time would come when he might do something towards furthering the welfare of his daughter without incurring suspicion. Was he very uneasy in the meantime at his inability to give his daughter her birthright? I cannot say that he was. The child was being taken care of, and would very likely be happy, as people in humble stations often were - happier, perhaps, than those brought up in luxury.

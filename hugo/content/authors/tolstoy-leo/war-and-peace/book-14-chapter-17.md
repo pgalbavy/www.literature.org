@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 17"
 weight: 315
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-17.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-17.html"
 ---
 
 The movements of the Russian and French armies during the campaign from Moscow back to the Niemen were like those in a game of Russian blindman's bluff, in which two players are blindfolded and one of them occasionally rings a little bell to inform the catcher of his whereabouts. First he rings his bell fearlessly, but when he gets into a tight place he runs away as quietly as he can, and often thinking to escape runs straight into his opponent's arms.

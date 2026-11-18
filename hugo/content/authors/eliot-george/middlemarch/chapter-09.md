@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-09.html"
+url: "/authors/eliot-george/middlemarch/chapter-09.html"
 ---
 
 1st Gent. An ancient land in ancient oracles Is called "law-thirsty": all the struggle there Was after order and a perfect rule. Pray, where lie such lands now? . . . 2d Gent. Why, where they lay of old - in human souls.

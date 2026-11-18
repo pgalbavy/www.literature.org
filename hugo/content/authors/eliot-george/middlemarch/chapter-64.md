@@ -1,8 +1,7 @@
 ---
 title: "Chapter 64"
 weight: 64
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-64.html"
+url: "/authors/eliot-george/middlemarch/chapter-64.html"
 ---
 
 1st Gent. Where lies the power, there let the blame lie too. 2d Gent. Nay, power is relative; you cannot fright The coming pest with border fortresses, Or catch your carp with subtle argument. All force is twain in one: cause is not cause Unless effect be there; and action's self Must needs contain a passive. So command Exists but with obedience."

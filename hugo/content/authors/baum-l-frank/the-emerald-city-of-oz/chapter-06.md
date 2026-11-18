@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-06.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-06.html"
 ---
 
 The new General of the Nome King's army knew perfectly well that to fail in his plans meant death for him. Yet he was not at all anxious or worried. He hated every one who was good and longed to make all who were happy unhappy. Therefore he had accepted this dangerous position as General quite willingly, feeling sure in his evil mind that he would be able to do a lot of mischief and finally conquer the Land of Oz.

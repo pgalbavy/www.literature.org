@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Watching The Chickens"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-08.html"
 ---
 
 Solomon Owl and Fatty Coon couldn’t help laughing at what Tommy Fox said to them, as they sat in their tree near the farmhouse, looking down at him in the moonlight.

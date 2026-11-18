@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-07.html"
 ---
 
 To run up the inclined surface of the palisade and drop to the ground outside was the work of but a moment, or would have been but for Nobs. I had to put my rope about him after we reached the top, lift him over the sharpened stakes and lower him upon the outside. To find Ajor in the unknown country to the north seemed rather hopeless; yet I could do no less than try, praying in the meanwhile that she would come through unscathed and in safety to her father.

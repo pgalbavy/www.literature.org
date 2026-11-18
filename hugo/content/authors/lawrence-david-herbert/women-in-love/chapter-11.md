@@ -1,8 +1,7 @@
 ---
 title: "chapter 11"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-11.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-11.html"
 ---
 
 Meanwhile Ursula had wandered on from Willey Water along the course of the bright little stream. The afternoon was full of larks' singing. On the bright hill-sides was a subdued smoulder of gorse. A few forget-me-nots flowered by the water. There was a rousedness and a glancing everywhere.

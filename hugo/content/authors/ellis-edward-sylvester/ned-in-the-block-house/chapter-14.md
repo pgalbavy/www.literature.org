@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Mishap And A Sentence"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-14.html"
 ---
 
 Deerfoot the Shawanoe first pinned the rattlesnake to the earth with the arrow which he threw with his deft left hand, then he flung the reptile from his path and resumed his delicate and dangerous attempt to creep past the three Wyandots who were lying against the hank of the Licking, watching the block-house, now and then firing a shot at the solid logs, as if to express their wishes respecting the occupants of the building.

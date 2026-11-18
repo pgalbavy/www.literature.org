@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8 - The Indiscretion Of The Marchioness"
 weight: 24
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-08.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-08.html"
 ---
 
 "I am perfectly certain," Juliet declared, "that we ought not to be here."

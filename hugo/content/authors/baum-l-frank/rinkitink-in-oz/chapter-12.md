@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-12.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-12.html"
 ---
 
 Our story must now return to one of our characters whom we have been forced to neglect. The temper of Bilbil the goat was not sweet under any circumstances, and whenever he had a grievance he was inclined to be quite grumpy. So, when his master settled down in the palace of King Gos for a quiet life with the boy Prince, and passed his time in playing checkers and eating and otherwise enjoying himself, he had no use whatever for Bilbil, and shut the goat in an upstairs room to prevent his wandering through the city and quarreling with the citizens. But this Bilbil did not like at all. He became very cross and disagreeable at being left alone and he did not speak nicely to the servants who came to bring him food; therefore those people decided not to wait upon him any more, resenting his conversation and not liking to be scolded by a lean, scraggly goat, even though it belonged to a conqueror. The servants kept away from the room and Bilbil grew more hungry and more angry every hour. He tried to eat the rugs and ornaments, but found them not at all nourishing. There was no grass to be had unless he escaped from the palace.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - The Decision"
 weight: 36
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-36.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-36.html"
 ---
 
 *THE* situation of the trapper was perilous in the extreme, for it was to be supposed that the Apaches, after the loss of one of their number, would maintain unremitting watch of the only avenue through which anyone could enter or leave the building; but he remained in a stooping posture for several minutes, passing his hands back and forth over the ground, until he had several times covered the space in front of the door.

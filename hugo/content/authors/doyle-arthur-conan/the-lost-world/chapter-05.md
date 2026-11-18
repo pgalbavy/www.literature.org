@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Question!"
 weight: 5
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-05.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-05.html"
 ---
 
 What with the physical shocks incidental to my first interview with Professor Challenger and the mental ones which accompanied the second, I was a somewhat demoralized journalist by the time I found myself in Enmore Park once more. In my aching head the one thought was throbbing that there really was truth in this man's story, that it was of tremendous consequence, and that it would work up into inconceivable copy for the Gazette when I could obtain permission to use it. A taxicab was waiting at the end of the road, so I sprang into it and drove down to the office. McArdle was at his post as usual.

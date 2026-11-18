@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Nombe"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-10.html"
+url: "/authors/haggard-h-rider/finished/chapter-10.html"
 ---
 
 The Swazis, shivering, for all these people hate cold, and shaking themselves like a dog when he comes to shore, gathered round, examining me.

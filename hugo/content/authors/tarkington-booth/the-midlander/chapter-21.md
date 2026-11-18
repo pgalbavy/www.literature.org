@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-21.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-21.html"
 ---
 
 *DAN* did not go next day to bid the returned neighbour welcome home—he thought it better to postpone the call of greeting he should have made at once. He knew he should have made it, if even out of no more than mere neighbourliness; but gradually it became postponed into the indefiniteness that means never, a postponement not without parallel when old friends of husbands return. Meanwhile, Martha was not again mentioned by either Lena or her husband; though this is only to say that she was not orally mentioned between them, but continued to be the subject of their silences. Dan did not dare to go to see her; and his own silence, when he was with his wife, was doggedly protestive, while Lena’s was inscrutable, though she sometimes gave him evidences of a faintly amused contempt. She permitted him to perceive that she despised him, but not to understand whether she despised him because he wanted to see Martha or because he was afraid to do what he wanted.

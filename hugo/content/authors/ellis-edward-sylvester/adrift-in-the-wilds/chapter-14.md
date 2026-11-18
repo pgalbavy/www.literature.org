@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Strange Occurrence"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-14.html"
 ---
 
 On a slight eminence, about an eighth of a mile south of them, stood the solitary Indian who had fired the alarming shot, he was in open view, as though he had no fears of the results of his challenge, and appeared to be surveying the white people with an air of curiosity that they should presume to encroach upon his hunting-grounds.

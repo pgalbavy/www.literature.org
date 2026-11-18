@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 22"
 weight: 189
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-22.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-22.html"
 ---
 
 Two days later, on the fifteenth of July, an immense number of carriages were standing outside the Sloboda Palace.

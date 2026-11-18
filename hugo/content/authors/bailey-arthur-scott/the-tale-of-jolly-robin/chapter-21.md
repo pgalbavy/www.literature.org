@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Doleful Ditty"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-21.html"
 ---
 
 Jolly Robin often complained about the wailing of Willie Whip-poor-will. Willie lived in the woods, which were not far from the orchard. And it was annoying to Jolly to hear his call, "Whip-poor-will, whip-poor-will," repeated over and over again for some two hours after Jolly's bed-time. Neither did Jolly Robin enjoy being awakened by that same sound an hour or two before he wanted to get up in the morning. And what was still worse, on moonlight nights Willie sometimes sang his favorite song from sunset to sunrise.

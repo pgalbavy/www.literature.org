@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 37
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-36.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-36.html"
 ---
 
 Winter came on in its delectable way in the Valley of the Moon. The last Mariposa lily vanished from the burnt grasses as the California Indian summer dreamed itself out in purple mists on the windless air. Soft rain-showers first broke the spell. Snow fell on the summit of Sonoma Mountain. At the ranch house the morning air was crisp and brittle, yet midday made the shade welcome, and in the open, under the winter sun, roses bloomed and oranges, grape-fruit, and lemons turned to golden yellow ripeness. Yet, a thousand feet beneath, on the floor of the valley, the mornings were white with frost.

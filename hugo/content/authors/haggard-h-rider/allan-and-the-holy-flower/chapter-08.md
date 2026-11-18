@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Magic Mirror"
 weight: 8
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-08.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-08.html"
 ---
 
 I did not sleep very well that night, for now that the danger was over I found that the long strain of it had told upon my nerves. Also there were many noises. Thus, the bearers who were shot had been handed over to their companions, who disposed of them in a simple fashion, namely by throwing them into the bush where they attracted the notice of hyenas. Then the four wounded men who lay near to me groaned a good deal, or when they were not groaning uttered loud prayers to their local gods. We had done the best we could for these unlucky fellows. Indeed, that kind-hearted little coward, Sammy, who at some time in his career served as a dresser in a hospital, had tended their wounds, none of which were mortal, very well indeed, and from time to time rose to minister to them.

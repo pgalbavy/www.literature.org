@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Face To Face"
 weight: 9
-aliases:
-  - "/authors/leblanc-maurice/the-secret-tomb/chapter-09.html"
+url: "/authors/leblanc-maurice/the-secret-tomb/chapter-09.html"
 ---
 
 "If they seize me," she thought. "If it's d'Estreicher's intention to kidnap me without more ado, there's nothing to be done. Before I could be rescued, they would carry me off to their underground lair, and from there I don't know where!"

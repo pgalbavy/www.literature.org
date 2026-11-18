@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Lion's Cave"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-untamed/chapter-02.html"
 ---
 
 The rain lasted for twenty-four hours and much of the time it fell in torrents so that when it ceased, the trail he had been following was entirely obliterated. Cold and uncom- fortable -- it was a savage Tarzan who threaded the mazes of the soggy jungle. Manu, the monkey, shivering and chatter- ing in the dank trees, scolded and fled at his approach. Even the panthers and the lions let the growling Tarmangani pass unmolested.

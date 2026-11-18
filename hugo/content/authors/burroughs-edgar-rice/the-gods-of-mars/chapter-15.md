@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Flight and Pursuit"
 weight: 16
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-15.html"
 ---
 
 I could not have been unconscious more than a few seconds, and yet I know that I was unconscious, for the next thing I realized was that a growing radiance was illuminating the corridor about me and the eyes were gone.

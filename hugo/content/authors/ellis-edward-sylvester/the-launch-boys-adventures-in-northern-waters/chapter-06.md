@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Warm Reception"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-06.html"
 ---
 
 "I have me eye on the right place, as Father Mickle said whin he wint into the saloon to pull out Jim Gerrigan by the nape of his neck."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Shadowy Visitors"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-13.html"
 ---
 
 When the eye gazes steadily at the Pleiades, in the midnight splendor of the starlit sky, one of the blazing orbs shrinks modestly from view and only six remain to be admired by the wondering gazer below: it is the quick, casual glance that catches the brilliant sister unawares, before she can hide her face.

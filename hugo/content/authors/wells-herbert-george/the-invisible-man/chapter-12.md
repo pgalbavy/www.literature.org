@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Invisible Man Loses His Temper"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-12.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-12.html"
 ---
 
 It is unavoidable that at this point the narrative should break off again, for a certain very painful reason that will presently be apparent. While these things were going on in the parlour, and while Mr. Huxter was watching Mr. Marvel smoking his pipe against the gate, not a dozen yards away were Mr. Hall and Teddy Henfrey discussing in a state of cloudy puzzlement the one Iping topic.

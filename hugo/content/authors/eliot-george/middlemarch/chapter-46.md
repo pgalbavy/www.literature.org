@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-46.html"
+url: "/authors/eliot-george/middlemarch/chapter-46.html"
 ---
 
 Pues no podemos haber aquello que queremos, queramos aquello que podremos. Since we cannot get what we like, let us like what we can get. - Spanish Proverb.

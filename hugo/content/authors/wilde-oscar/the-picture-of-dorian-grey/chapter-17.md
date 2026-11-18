@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-17.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-17.html"
 ---
 
 A week later Dorian Gray was sitting in the conservatory at Selby Royal, talking to the pretty Duchess of Monmouth, who with her husband, a jaded-looking man of sixty, was amongst his guests. It was tea-time, and the mellow light of the huge, lace-covered lamp that stood on the table lit up the delicate china and hammered silver of the service at which the duchess was presiding. Her white hands were moving daintily among the cups, and her full red lips were smiling at something that Dorian had whispered to her. Lord Henry was lying back in a silk-draped wicker chair, looking at them. On a peach-coloured divan sat Lady Narborough, pretending to listen to the duke's description of the last Brazilian beetle that he had added to his collection. Three young men in elaborate smoking-suits were handing tea-cakes to some of the women. The house-party consisted of twelve people, and there were more expected to arrive on the next day.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Hundred Days"
 weight: 13
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-13.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-13.html"
 ---
 
 M. Noirtier was a true prophet, and things progressed rapidly, as he had predicted. Every one knows the history of the famous return from Elba, a return which was unprecedented in the past, and will probably remain without a counterpart in the future.

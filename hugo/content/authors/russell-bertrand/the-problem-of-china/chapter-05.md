@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Japan Before The Restoration"
 weight: 6
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-05.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-05.html"
 ---
 
 For modern China, the most important foreign nation is Japan. In order to understand the part played by Japan, it is necessary to know something of that country, to which we must now turn our attention.

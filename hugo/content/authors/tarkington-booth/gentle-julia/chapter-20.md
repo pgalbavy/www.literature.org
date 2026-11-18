@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-20.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-20.html"
 ---
 
 Throughout that afternoon adult members of the Atwater family connection made futile efforts to secure all the copies of the week's edition of *The North End Daily Oriole*. It could not be done.

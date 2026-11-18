@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-14.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-14.html"
 ---
 
 At nine o'clock the next morning his servant came in with a cup of chocolate on a tray and opened the shutters. Dorian was sleeping quite peacefully, lying on his right side, with one hand underneath his cheek. He looked like a boy who had been tired out with play, or study.

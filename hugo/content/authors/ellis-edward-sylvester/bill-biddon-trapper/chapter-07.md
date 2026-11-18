@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Alone In The Wilderness"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-07.html"
 ---
 
 "Where’s your friend?"

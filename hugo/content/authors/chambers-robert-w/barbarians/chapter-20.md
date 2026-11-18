@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - \"La Brabançonne\""
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-20.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-20.html"
 ---
 
 No shells were falling in Nivelle as they left the car on the outskirts of the town and entered the long main street. That was all of Nivelle, a long, treeless main street from which branched a few alleys.

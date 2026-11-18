@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Country Doctor'S Confession"
 weight: 4
-aliases:
-  - "/authors/balzac-honore-de/the-country-doctor/chapter-04.html"
+url: "/authors/balzac-honore-de/the-country-doctor/chapter-04.html"
 ---
 
 "I was born in a little town in Languedoc," the doctor resumed. "My father had been settled there for many years, and there my early childhood was spent. When I was eight years old I was sent to the school of the Oratorians at Sorreze, and only left it to finish my studies in Paris. My father had squandered his patrimony in the course of an exceedingly wild and extravagant youth. He had retrieved his position partly by a fortunate marriage, partly by the slow persistent thrift characteristic of provincial life; for in the provinces people pride themselves on accumulating rather than on spending, and all the ambition in a man's nature is either extinguished or directed to money-getting, for want of any nobler end. So he had grown rich at last, and thought to transmit to his only son all the cut-and-dried experience which he himself had purchased at the price of his lost illusions; a noble last illusion of age which fondly seeks to bequeath its virtues and its wary prudence to heedless youth, intent only on the enjoyment of the enchanted life that lies before it.

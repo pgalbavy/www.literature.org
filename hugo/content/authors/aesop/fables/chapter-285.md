@@ -1,8 +1,7 @@
 ---
 title: "The Dog And The Oyster"
 weight: 287
-aliases:
-  - "/authors/aesop/fables/chapter-285.html"
+url: "/authors/aesop/fables/chapter-285.html"
 ---
 
 A DOG, used to eating eggs, saw an Oyster and, opening his mouth to its widest extent, swallowed it down with the utmost relish, supposing it to be an egg. Soon afterwards suffering great pain in his stomach, he said, "I deserve all this torment, for my folly in thinking that everything round must be an egg." They who act without sufficient thought, will often fall into unsuspected danger.

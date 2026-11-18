@@ -1,8 +1,7 @@
 ---
 title: "The Bull And The Goat"
 weight: 153
-aliases:
-  - "/authors/aesop/fables/chapter-151.html"
+url: "/authors/aesop/fables/chapter-151.html"
 ---
 
 A BULL, escaping from a Lion, hid in a cave which some shepherds had recently occupied. As soon as he entered, a He-Goat left in the cave sharply attacked him with his horns. The Bull quietly addressed him: "Butt away as much as you will. I have no fear of you, but of the Lion. Let that monster go away and I will soon let you know what is the respective strength of a Goat and a Bull." It shows an evil disposition to take advantage of a friend in distress.

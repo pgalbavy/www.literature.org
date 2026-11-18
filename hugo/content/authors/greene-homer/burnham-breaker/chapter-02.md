@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Strange Visitor"
 weight: 2
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-02.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-02.html"
 ---
 
 It was the day after the circus. Robert Burnham sat in his office on Lackawanna Avenue, busy with his afternoon mail. As he laid the last letter aside the incidents of the previous day recurred to him, and he saw again, in imagination, the long line of breaker-boys, with happy, dusty faces, filing slowly by him, grateful for his gifts, eager for the joys to come. The pleasure he had found in his generous deed stayed with him, as such pleasures always do, and was manifest even now in the light of his kindly face.

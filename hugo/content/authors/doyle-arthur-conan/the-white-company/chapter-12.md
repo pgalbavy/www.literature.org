@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - How Alleyne Learned More Than He Could Teach"
 weight: 12
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-12.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-12.html"
 ---
 
 AND now there came a time of stir and bustle, of furbishing of arms and clang of hammer from all the southland counties. Fast spread the tidings from thorpe to thorpe and from castle to castle, that the old game was afoot once more, and the lions and lilies to be in the field with the early spring. Great news this for that fierce old country, whose trade for a generation had been war, her exports archers and her imports prisoners. For six years her sons had chafed under an unwonted peace. Now they flew to their arms as to their birthright. The old soldiers of Crecy, of Nogent, and of Poictiers were glad to think that they might hear the war-trumpet once more, and gladder still were the hot youth who had chafed for years under the martial tales of their sires. To pierce the great mountains of the south, to fight the tawners of the fiery Moors, to follow the greatest captain of the age, to find sunny cornfields and vineyards, when the marches of Picardy and Normandy were as rare and bleak as the Jedburgh forests--here was a golden prospect for a race of warriors. From sea to sea there was stringing of bows in the cottage and clang of steel in the castle.

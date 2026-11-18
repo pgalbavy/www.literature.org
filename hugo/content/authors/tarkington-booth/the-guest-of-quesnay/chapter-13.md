@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-13.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-13.html"
 ---
 
 The round moon was white and at its smallest, high overhead, when I stepped out of the phaeton in which Miss Elizabeth sent me back to Madame Brossard's; midnight was twanging from a rusty old clock indoors as I crossed the fragrant courtyard to my pavilion; but a lamp still burned in the salon of the "Grande Suite," a light to my mind more suggestive of the patient watcher than of the scholar at his tome.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Man In Gray"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-31.html"
 ---
 
 You know there are some people who can never keep a secret. We have all met them, much to our disgust. George, the "chauffeur" of the little runabout launch *Shark*, was such a person. Possibly when he gave his promise to Alvin Landon and Chester Haynes not to reveal what then seemed the fate of Mike Murphy, he meant to do as he said, but somehow or other he was not equal to the task.

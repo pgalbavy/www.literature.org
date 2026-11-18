@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/grahame-kenneth/the-headswoman/chapter-04.html"
+url: "/authors/grahame-kenneth/the-headswoman/chapter-04.html"
 ---
 
 The next morning was bright and breezy, and Jeanne was early at her post, feeling quite a different girl. The busy little market-place was full of colour and movement, and the gay patches of flowers and fruit, the strings of fluttering kerchiefs, and the piles of red and yellow pottery, formed an artistic setting to the quiet impressive scaffold which they framed. Jeanne was in short sleeves, according to the etiquette of her office, and her round graceful arms showed snowily against her dark blue skirt and scarlet, tight-fitting bodice. Her assistant looked at her with admiration.

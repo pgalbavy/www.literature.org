@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-05.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-05.html"
 ---
 
 They found the fire burning brightly in their room. The only other person in the pretty, stiffly-furnished cottage was their landlady, a charming old lady, who let this sitting-room more for the change, for the sake of having visitors, than for gain.

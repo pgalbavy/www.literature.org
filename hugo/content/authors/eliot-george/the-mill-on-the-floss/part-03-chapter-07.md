@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 7 - How A Hen Takes To Stratagem"
 weight: 27
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-07.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-03-chapter-07.html"
 ---
 
 The days passed, and Mr. Tulliver showed, at least to the eyes of the medical man, stronger and stronger symptoms of a gradual return to his normal condition; the paralytic obstruction was, little by little, losing its tenacity, and the mind was rising from under it with fitful struggles, like a living creature making its way from under a great snowdrift, that slides and slides again, and shuts up the newly made opening.

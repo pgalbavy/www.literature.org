@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7 - In Pesita's Camp"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-07.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-07.html"
 ---
 
 PESITA was a short, stocky man with a large, dark mustache. He attired himself after his own ideas of what should constitute the uniform of a general--ideas more or less influenced and modified by the chance and caprice of fortune.

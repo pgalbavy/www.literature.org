@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Montgomery's \u0026quot;Bank Holiday\u0026quot;"
 weight: 20
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-19.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-19.html"
 ---
 
 WHEN this was accomplished, and we had washed and eaten, Montgomery and I went into my little room and seriously discussed our position for the first time. It was then near midnight. He was almost sober, but greatly disturbed in his mind. He had been strangely under the influence of Moreau's personality: I do not think it had ever occurred to him that Moreau could die. This disaster was the sudden collapse of the habits that had become part of his nature in the ten or more monotonous years he had spent on the island. He talked vaguely, answered my questions crookedly, wandered into general questions.

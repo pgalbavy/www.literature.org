@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Signor Petito Appears"
 weight: 12
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-11.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-11.html"
 ---
 
 *WHILE* waiting for the stage from Crecy to stop for them, they called at the wayside inn, and had some refreshment, while Adolphe took up the story of L’Enfant at the point where he had left off.

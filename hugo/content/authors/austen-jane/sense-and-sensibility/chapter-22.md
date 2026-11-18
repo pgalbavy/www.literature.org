@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-22.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-22.html"
 ---
 
 Marianne, who had never much toleration for any thing like impertinence, vulgarity, inferiority of parts, or even difference of taste from herself, was at this time particularly ill-disposed, from the state of her spirits, to be pleased with the Miss Steeles, or to encourage their advances; and to the invariable coldness of her behaviour towards them, which checked every endeavour at intimacy on their side, Elinor principally attributed that preference of herself which soon became evident in the manners of both, but especially of Lucy, who missed no opportunity of engaging her in conversation, or of striving to improve their acquaintance by an easy and frank communication of her sentiments.

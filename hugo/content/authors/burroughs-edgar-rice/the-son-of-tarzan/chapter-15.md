@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-15.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-15.html"
 ---
 
 And out in the jungle, far away, Korak, covered with wounds, stiff with clotted blood, burning with rage and sorrow, swung back upon the trail of the great baboons. He had not found them where he had last seen them, nor in any of their usual haunts; but he sought them along the well-marked spoor they had left behind them, and at last he overtook them. When first he came upon them they were moving slowly but steadily southward in one of those periodic migrations the reasons for which the baboon himself is best able to explain. At sight of the white warrior who came upon them from down wind the herd halted in response to the warning cry of the sentinel that had discovered him. There was much growling and muttering; much stiff-legged circling on the part of the bulls. The mothers, in nervous, high pitched tones, called their young to their sides, and with them moved to safety behind their lords and masters.

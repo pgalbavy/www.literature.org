@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-05.html"
 ---
 
 The men looked at Tom Gordon as if doubting his words.

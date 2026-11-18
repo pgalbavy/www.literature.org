@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-14.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-14.html"
 ---
 
 The tremendous exodus continued; regiment after regiment packed knapsacks, struck tents, loaded their waggons and marched back through the mud toward Alexandria, where transports were waiting in hundreds.

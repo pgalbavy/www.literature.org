@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Passing Of Ayesha"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-24.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-24.html"
 ---
 
 I heard Ayesha say presently, and the words struck me as dreadful in their hopeless acceptance of a doom against which even she had no strength to struggle.

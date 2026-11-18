@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Shot From The Iroquois, and Miss Jenny’s Arguments"
 weight: 5
-aliases:
-  - "/authors/verne-jules/the-blockade-runners/chapter-05.html"
+url: "/authors/verne-jules/the-blockade-runners/chapter-05.html"
 ---
 
 Until now the navigation of the Dolphin had been very fortunate. Not one ship had been signalled before the sail hailed by the man on watch.

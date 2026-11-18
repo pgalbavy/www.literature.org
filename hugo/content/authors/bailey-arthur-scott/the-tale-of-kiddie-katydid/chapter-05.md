@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Solomon Owl's Cry"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-05.html"
 ---
 
 For a few moments Mr. Nighthawk fidgeted about on his branch of the maple tree. What Kiddie Katydid said to him about Solomon Owl frightened him. And he almost wished he hadn't come to Farmer Green's dooryard that night.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Consulting"
 weight: 40
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-40.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-40.html"
 ---
 
 Out of the music room, and away from his violin, the sound side of Mr. Wyvil's character was free to assert itself. In his public and in his private capacity, he was an eminently sensible man.

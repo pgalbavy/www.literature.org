@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Journey To The Moon"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-05.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-05.html"
 ---
 
 PRESENTLY Cavor extinguished the light. He said we had not overmuch energy stored, and that what we had we must economise for reading. For a time, whether it was long or short I do not know, there was nothing but blank darkness.

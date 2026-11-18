@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-17.html"
 ---
 
 The Shaggy Man had a room of his own in the royal palace, so there he went to change his shaggy suit of clothes for another just as shaggy but not so dusty from travel. He selected a costume of peagreen and pink satin and velvet, with embroidered shags on all the edges and iridescent pearls for ornaments. Then he bathed in an alabaster pool and brushed his shaggy hair and whiskers the wrong way to make them still more shaggy. This accomplished, and arrayed in his splendid shaggy garments, he went to Ozma's banquet hall and found the Scarecrow, the Wizard and Dorothy already assembled there. The Scarecrow had made a quick trip and returned to the Emerald City with his left ear freshly painted.

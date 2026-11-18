@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-08.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-08.html"
 ---
 
 The chief thing that the captain knew, at this juncture, was that a hatchet had gone through the ligatures and veins that connected him with the people of his affection, and that he was left with the bleeding ends of all his vital human relationships. Why it should be so he did not know. But then one never can know the whys and the wherefores of one's passional changes.

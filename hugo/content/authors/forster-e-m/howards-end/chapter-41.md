@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41"
 weight: 41
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-41.html"
+url: "/authors/forster-e-m/howards-end/chapter-41.html"
 ---
 
 Far different was Leonard’s development. The months after Oniton, whatever minor troubles they might bring him, were all overshadowed by Remorse. When Helen looked back she could philosophise, or she could look into the future and plan for her child. But the father saw nothing beyond his own sin. Weeks afterwards, in the midst of other occupations, he would suddenly cry out, “Brute--you brute, I couldn’t have--” and be rent into two people who held dialogues. Or brown rain would descend, blotting out faces and the sky. Even Jacky noticed the change in him. Most terrible were his sufferings when he awoke from sleep. Sometimes he was happy at first, but grew conscious of a burden hanging to him and weighing down his thoughts when they would move. Or little irons scorched his body. Or a sword stabbed him. He would sit at the edge of his bed, holding his heart and moaning, “Oh what SHALL I do, whatever SHALL I do?” Nothing brought ease. He could put distance between him and the trespass, but it grew in his soul.

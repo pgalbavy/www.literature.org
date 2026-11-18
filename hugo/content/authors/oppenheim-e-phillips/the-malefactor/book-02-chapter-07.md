@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7 - In The Toils"
 weight: 23
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-07.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-07.html"
 ---
 
 Wingrave did not speak for several moments after Aynesworth had entered the room. He had an engagement book before him and seemed to be deep in its contents. When at last he looked up, his forehead was furrowed with thought, and he had the weary air of a man who has been indulging in unprofitable memories.

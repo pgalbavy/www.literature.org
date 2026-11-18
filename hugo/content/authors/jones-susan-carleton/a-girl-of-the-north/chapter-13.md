@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-13.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-13.html"
 ---
 
 LONDON and December—fogs and fires—cosy rooms and misery, side by side.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Moses Mouse"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-08.html"
 ---
 
 MASTER MEADOW MOUSE felt ill at ease. Now that the grass had been cut from the meadow he began to think he didn't care to live there any longer. After his adventure with old Mr. Crow, Master Meadow Mouse scarcely dared stray from his dooryard in the daytime. Anybody, almost, could see him as he crept through the stubble.

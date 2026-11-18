@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10 - The Way To Nazri"
 weight: 29
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-10.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-10.html"
 ---
 
 Our traveller did not reach Nazri that night for many reasons, of which the chief shall be told. The way to Nazri is long and the way to Nazri is exceedingly rough. Leaving the table-land you plunge down a trackless gully into the dry bed of a stream. Thence it is an hour's uneasy walking among stagnant pools and granite boulders to the foot of another nullah which runs up to the heart of the hills. From this you pick your way along the precipitous side of a mountain, and if your head is good and your feet sure, may come eventually to a place like the roof of the house, beyond which lies a thicket of thorn-bushes and the Nazri gully. At first sight the thing seems impossible, but by a bold man it can be crossed either in the untanned Kashmir shoes or with the naked feet.

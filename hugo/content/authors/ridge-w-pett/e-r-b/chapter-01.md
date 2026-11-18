@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-01.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-01.html"
 ---
 
 “BUT I am reminded,” shouted the scarlet-faced man on the chair, still keeping his voice to the high note on which he had started, “I am reminded that my time is exhausted. Another talented speaker is ’ere to address you. I refer to our friend Barnes—better known per’aps to all of you as Erb.”

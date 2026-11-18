@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Samples Of Wheat"
 weight: 6
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-06.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-06.html"
 ---
 
 There was so much said about Sandy Chipmunk's store of nuts and grain that a few of the forest-people began to wish they had some of Sandy's winter food for themselves. Uncle Sammy Coon, an old scamp who lived over near the swamp, was one of those who began to plan to get Sandy's hoard away from him.

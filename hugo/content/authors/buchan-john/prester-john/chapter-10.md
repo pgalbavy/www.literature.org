@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - I Go Treasure-Hunting"
 weight: 11
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-10.html"
+url: "/authors/buchan-john/prester-john/chapter-10.html"
 ---
 
 For a mile or so I kept the bush, which was open and easy to ride through, and then turned into the path. The moon was high, and the world was all a dim dark green, with the track a golden ivory band before me. I had looked at my watch before I started, and seen that it was just after eight o'clock. I had a great horse under me, and less than thirty miles to cover. Midnight should see me at the cave. With the password I would gain admittance, and there would wait for Laputa and Henriques. Then, if my luck held, I should see the inner workings of the mystery which had puzzled me ever since the Kirkcaple shore. No doubt I should be roughly treated, tied up prisoner, and carried with the army when the march began. But till Inanda's Kraal my life was safe, and before that came the ford of the Letaba. Colin would carry my message to Arcoll, and at the Drift the tables would be turned on Laputa's men.

@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 23
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-02.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-02.html"
 ---
 
 It was nearly eight o'clock. The two young men hurried to Bakaleyev's, to arrive before Luzhin.

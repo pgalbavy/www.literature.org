@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Signal Fires"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-12.html"
 ---
 
 The canoe was made of bark, with the ends turned up in the usual fashion. Two long paddles belonging to it lay within, and were taken by the warriors, who paddled it down to where the party were in waiting. All stepped carefully inside, and the same Indians who brought it from its hiding place turned the prow toward the other shore and began swinging the paddles with the freedom and vigor peculiar to their people. Jack was the last to seat himself, and he held fast as best he could, dreading some of the rude jokes of his captors.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Fooling Johnnie Green"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-10.html"
 ---
 
 WHEN Mrs. Bobolink saw Johnnie Green, carrying a tin pail, come walking through the meadow straight towards her house she was terribly frightened. She was not afraid for herself. Her only thought was of her children, who were still too young to leave the nest.

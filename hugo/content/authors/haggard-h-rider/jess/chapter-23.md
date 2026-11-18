@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - In The Drift Of The Vaal"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-23.html"
+url: "/authors/haggard-h-rider/jess/chapter-23.html"
 ---
 
 The day had been intensely hot, and our travellers sat in the shade of the cart overpowered and gasping. During the afternoon a faint breeze blew, but this had now died away, and the stifling air felt as thick as though they were breathing cream. Even the two Boers seemed to feel the heat, for they lay outstretched on the grass a few paces to the left, to all appearance fast asleep. As for the horses, they were thoroughly done up--too much so to eat--and hobbled along as well as their knee-halters would allow, daintily picking a mouthful here and a mouthful there. The only person who did not seem to mind was the Zulu Mouti, who sat on an ant-heap near the horses, in full glare of the setting sun, and comfortably droned out a little song of his own invention, for Zulus seem as clever at improvising as are the Italians.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Chunky Is Caught"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/chunky-the-happy-hippo/chapter-05.html"
+url: "/authors/barnum-richard/chunky-the-happy-hippo/chapter-05.html"
 ---
 
 Chunky, the happy hippo, was not as jolly as he had been when playing water-tag in the river with Bumpy, his brother, and Mumpy, his sister. In fact, he was rather sad. Stuck fast in the mud as he was, he pulled and twisted and wiggled and turned, trying to get loose. But he could not. He was still held fast.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 52"
 weight: 53
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-52.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-52.html"
 ---
 
 The tardy gig had overtaken me at last. I entered it, and bade the man who brought it drive to Grassdale Manor - I was too busy with my own thoughts to care to drive it myself. I would see Mrs. Huntingdon - there could be no impropriety in that now that her husband had been dead above a year - and by her indifference or her joy at my unexpected arrival I could soon tell whether her heart was truly mine. But my companion, a loquacious, forward fellow, was not disposed to leave me to the indulgence of my private cogitations.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - \"The Snare Is Laid. Beware, Lupin!\""
 weight: 19
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-19.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-19.html"
 ---
 
 The power that had impelled Don Luis to battle and victory was so intense that it suffered, so to speak, no cheek. Disappointment, rage, humiliation, torture, were all swallowed up in an immediate desire for action and information, together with a longing to continue the chase. The rest was but an incident of no importance, which would soon be very simply explained.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-22.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-22.html"
 ---
 
 The fact that she would be late in keeping her engagement with William was not the only reason which sent Katharine almost at racing speed along the Strand in the direction of his rooms. Punctuality might have been achieved by taking a cab, had she not wished the open air to fan into flame the glow kindled by Mary’s words. For among all the impressions of the evening’s talk one was of the nature of a revelation and subdued the rest to insignificance. Thus one looked; thus one spoke; such was love.

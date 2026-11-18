@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 1"
 weight: 1
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-01.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-01.html"
 ---
 
 Claude Wheeler opened his eyes before the sun was up and vigorously shook his younger brother, who lay in the other half of the same bed.

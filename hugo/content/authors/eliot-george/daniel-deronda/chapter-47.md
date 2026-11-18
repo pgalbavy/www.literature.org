@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 47
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-47.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-47.html"
 ---
 
 "And you must love him ere to you He will seem worthy of your love." - WORDSWORTH.

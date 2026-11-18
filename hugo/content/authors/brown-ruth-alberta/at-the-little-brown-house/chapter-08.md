@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Mysterious Santa Claus"
 weight: 8
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-08.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-08.html"
 ---
 
 "Merry Christmas, Gail, Faith, Hope, Charity, Allee! Merry Christmas, everyone! My stocking has *something* in it, I can see from here. Wake up! Wake up! I want to look at my presents!"

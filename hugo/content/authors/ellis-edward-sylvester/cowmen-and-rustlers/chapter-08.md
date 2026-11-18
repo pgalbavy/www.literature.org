@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Good-Bye"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-08.html"
 ---
 
 Monteith Sterry read the "warning" through in a voice without the slightest tremor. Then he quietly smoked his cigar and looked off in the moonlight, as though thinking of something of a different nature.

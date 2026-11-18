@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Catastrophe"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/hidden-water/chapter-15.html"
+url: "/authors/coolidge-dane/hidden-water/chapter-15.html"
 ---
 
 A demon of unrest, twin devil to that which had so clutched and torn at the sensitive spirit of Rufus Hardy, seemed to rise up with the dawn of that ill-omened day and seize upon the camp at Hidden Water. It was like a touch of the north wind, which rumples the cat's back, sets the horses to fighting in the corrals, and makes men mean and generally contrary. Bill Johnson's hounds were the first to feel the madness. They left before sun-up, heading for the wooded heights of the Juate, and led him a weary chase. At the last moment Creede abandoned the unprofitable working of The Rolls and ordered the rodéo up onto Bronco Mesa; and Kitty Bonnair, taking advantage of his preoccupation, quietly gave him the slip at the end of their long eastern detour, and turned her pinto's head toward the river.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Use Of Photography"
 weight: 22
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-22.html"
+url: "/authors/williams-frank/the-free-range/chapter-22.html"
 ---
 
 It was noon and the great column of parched animals and hot, dusty men had come to a halt under their alkali cloud beside a little stream. The foot-weary sheep and cattle, without the usual preliminaries, lay down where they stood, relieved for once from the incessant nipping of the dogs and proddings of the men.

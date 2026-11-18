@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3 - The Room Over The Chapel"
 weight: 11
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-03.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-03.html"
 ---
 
 From the battlements nothing further was observed. The sun journeyed westward, and at last went down; but, to the eyes of all these eager sentinels, no living thing appeared in the neighbourhood of Tunstall House.

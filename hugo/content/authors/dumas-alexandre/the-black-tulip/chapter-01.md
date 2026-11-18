@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Grateful People"
 weight: 1
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-01.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-01.html"
 ---
 
 On the 20th of August, 1672, the city of the Hague, always so lively, so neat, and so trim that one might believe every day to be Sunday, with its shady park, with its tall trees, spreading over its Gothic houses, with its canals like large mirrors, in which its steeples and its almost Eastern cupolas are reflected, - the city of the Hague, the capital of the Seven United Provinces, was swelling in all its arteries with a black and red stream of hurried, panting, and restless citizens, who, with their knives in their girdles, muskets on their shoulders, or sticks in their hands, were pushing on to the Buytenhof, a terrible prison, the grated windows of which are still shown, where, on the charge of attempted murder preferred against him by the surgeon Tyckelaer, Cornelius de Witt, the brother of the Grand Pensionary of Holland was confined.

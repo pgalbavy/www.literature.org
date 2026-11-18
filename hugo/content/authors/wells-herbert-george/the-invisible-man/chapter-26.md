@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Wicksteed Murder"
 weight: 26
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-26.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-26.html"
 ---
 
 The Invisible Man seems to have rushed out of Kemp's house in a state of blind fury. A little child playing near Kemp's gateway was violently caught up and thrown aside, so that its ankle was broken, and thereafter for some hours the Invisible Man passed out of human perceptions. No one knows where he went nor what he did. But one can imagine him hurrying through the hot June forenoon, up the hill and on to the open downland behind Port Burdock, raging and despairing at his intolerable fate, and sheltering at last, heated and weary, amid the thickets of Hintondean, to piece together again his shattered schemes against his species. That seems the most probable refuge for him, for there it was he re-asserted himself in a grimly tragical manner about two in the afternoon.

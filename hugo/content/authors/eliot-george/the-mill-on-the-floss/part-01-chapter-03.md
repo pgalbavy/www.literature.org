@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - Mr. Riley Gives His Advice Concerning A School For Tom"
 weight: 3
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-03.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-01-chapter-03.html"
 ---
 
 The gentleman in the ample white cravat and shirt-frill, taking his brandy-and-water so pleasantly with his good friend Tulliver, is Mr. Riley, a gentleman with a waxen complexion and fat hands, rather highly educated for an auctioneer and appraiser, but large-hearted enough to show a great deal of bonhomie toward simple country acquaintances of hospitable habits. Mr. Riley spoke of such acquaintances kindly as "people of the old school."

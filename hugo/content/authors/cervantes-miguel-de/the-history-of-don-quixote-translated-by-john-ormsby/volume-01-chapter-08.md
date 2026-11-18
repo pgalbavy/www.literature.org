@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 8 - Of The Good Fortune Which The Valiant Don Quixote Had In The Terrible And Undreamt-Of Adventure Of The Windmills, With Other Occurrences Worthy To Be Fitly Recorded"
 weight: 11
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-08.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-08.html"
 ---
 
 At this point they came in sight of thirty or forty windmills that there are on that plain, and as soon as Don Quixote saw them he said to his squire, "Fortune is arranging matters for us better than we could have shaped our desires ourselves, for look there, friend Sancho Panza, where thirty or more monstrous giants present themselves, all of whom I mean to engage in battle and slay, and with whose spoils we shall begin to make our fortunes; for this is righteous warfare, and it is God’s good service to sweep so evil a breed from off the face of the earth."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Game Of Tag Started"
 weight: 14
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-14.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-14.html"
 ---
 
 Carl walked over to where Kit lay under the shelter-tent and, seizing him by one leg, drew him forth into the sunlight.

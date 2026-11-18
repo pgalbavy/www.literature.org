@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Welcome Ally"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-14.html"
 ---
 
 Fred Linden, like his companion, aimed directly between the eyes of the strange beast, and, like him, he struck the mark; but both shots only served to awake the irrestrainable ferocity of the animal, which, with another rasping howl and parted jaws, bounded toward them. Since both weapons were discharged, and they had no other firearms, the boys were almost helpless, and it may be said their enemy was upon them.

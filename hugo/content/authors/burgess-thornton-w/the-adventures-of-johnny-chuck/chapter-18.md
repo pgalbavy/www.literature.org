@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Farmer Brown's Boy Makes A Discovery"
 weight: 18
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-18.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-18.html"
 ---
 
 Reddy Fox glared up at Sammy Jay. "What's the matter with you?" snarled Reddy Fox. "Why don't you mind your own affairs, instead of making trouble for other people?" You see, Reddy was afraid that Johnny Chuck would hear Sammy Jay and take warning.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7"
 weight: 27
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-07.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-07.html"
 ---
 
 WINTER LIES TOO LONG in country towns; hangs on until it is stale and shabby, old and sullen. On the farm the weather was the great fact, and men’s affairs went on underneath it, as the streams creep under the ice. But in Black Hawk the scene of human life was spread out shrunken and pinched, frozen down to the bare stalk.

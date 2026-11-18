@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Skunk's Misery"
 weight: 19
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-19.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-19.html"
 ---
 
 Paulette said, "Oh my heavens, Dudley!" and went straight to pieces.

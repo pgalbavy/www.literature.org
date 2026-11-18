@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/coolidge-dane/the-texican/preface.html"
+url: "/authors/coolidge-dane/the-texican/preface.html"
 ---
 
 "Oh, out from old Missouri I set me forth to roam Indicted by a jury For toling hawgs from home.

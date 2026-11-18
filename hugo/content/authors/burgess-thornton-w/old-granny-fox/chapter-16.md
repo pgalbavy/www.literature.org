@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Reddy Is Made Truly Happy"
 weight: 16
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-16.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-16.html"
 ---
 
 It's what you do for others,  

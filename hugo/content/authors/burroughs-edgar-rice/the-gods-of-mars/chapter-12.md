@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Doomed to Die"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-12.html"
 ---
 
 For an instant I stood there before they fell upon me, but the first rush of them forced me back a step or two. My foot felt for the floor but found only empty space. I had backed into the pit which had received Issus. For a second I toppled there upon the brink. Then I too with the boy still tightly clutched in my arms pitched backward into the black abyss.

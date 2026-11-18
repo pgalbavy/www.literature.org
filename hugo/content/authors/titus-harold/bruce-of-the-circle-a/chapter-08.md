@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Heart Speaks"
 weight: 8
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-08.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-08.html"
 ---
 
 With forebodings Bruce Bayard went to Ann Lytton the next day. She saw trouble on his face as he entered her room.

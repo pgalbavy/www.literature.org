@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-01.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-01.html"
 ---
 
 As the streets that lead from the Strand to the Embankment are very narrow, it is better not to walk down them arm-in-arm. If you persist, lawyers' clerks will have to make flying leaps into the mud; young lady typists will have to fidget behind you. In the streets of London where beauty goes unregarded, eccentricity must pay the penalty, and it is better not to be very tall, to wear a long blue cloak, or to beat the air with your left hand.

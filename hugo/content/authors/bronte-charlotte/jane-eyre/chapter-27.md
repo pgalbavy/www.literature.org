@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-27.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-27.html"
 ---
 
 Some time in the afternoon I raised my head, and looking round and seeing the western sun gilding the sign of its decline on the wall, I asked, "What am I to do?"

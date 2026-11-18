@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-05.html"
 ---
 
 THE song that had been upon her lips as she entered died there--frozen by the sight of horror that met her eyes. In the center of the chamber a headless body lay upon the floor--a body that had been partially devoured--while over and upon it crawled a half a dozen heads upon their short, spider legs, and they tore at the flesh of the woman with their chelae and carried the bits to their awful mouths. They were eating human flesh--eating it raw!

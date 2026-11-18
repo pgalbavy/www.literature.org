@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 9 - Charity In Full-Dress"
 weight: 48
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-09.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-06-chapter-09.html"
 ---
 
 The culmination of Maggie's career as an admired member of society in St. Ogg's was certainly the day of the bazaar, when her simple noble beauty, clad in a white muslin of some soft-floating kind, which I suspect must have come from the stores of aunt Pullet's wardrobe, appeared with marked distinction among the more adorned and conventional women around her. We perhaps never detect how much of our social demeanor is made up of artificial airs until we see a person who is at once beautiful and simple; without the beauty, we are apt to call simplicity awkwardness. The Miss Guests were much too well-bred to have any of the grimaces and affected tones that belong to pretentious vulgarity; but their stall being next to the one where Maggie sat, it seemed newly obvious to-day that Miss Guest held her chin too high, and that Miss Laura spoke and moved continually with a view to effect.

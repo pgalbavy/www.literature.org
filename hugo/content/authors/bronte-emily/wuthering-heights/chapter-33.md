@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33"
 weight: 33
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-33.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-33.html"
 ---
 
 ON the morrow of that Monday, Earnshaw being still unable to follow his ordinary employments, and therefore remaining about the house, I speedily found it would be impracticable to retain my charge beside me, as heretofore. She got downstairs before me, and out into the garden, where she had seen her cousin performing some easy work; and when I went to bid them come to breakfast, I saw she had persuaded him to clear a large space of ground from currant and gooseberry bushes, and they were busy planning together an importation of plants from the Grange.

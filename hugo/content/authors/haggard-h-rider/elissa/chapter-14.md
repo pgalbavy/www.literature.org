@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Martyrdom Of Issachar"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-14.html"
+url: "/authors/haggard-h-rider/elissa/chapter-14.html"
 ---
 
 It was done, and from the mouths of the circle of priests and priestesses leapt a shrill and sudden cry of triumph. For had not their gods conquered? Had not this high-placed servant of the hated Lord of Israel been caught by the bait of a priestess of Baaltis, and seduced by her distress to deny and reject Him? Was not evil once more triumphant, and must not they, its ministers, rejoice?

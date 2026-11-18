@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Merry Group"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-01.html"
 ---
 
 The Whitney household, in the western part of Maine, was filled with sunshine, merriment and delight, on a certain winter evening a few years ago.

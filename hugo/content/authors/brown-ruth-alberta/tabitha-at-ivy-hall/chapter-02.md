@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tabitha Chooses A New Name"
 weight: 2
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-02.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-02.html"
 ---
 
 The day was done. The crimson sunset glow still hung over the whole world, touching the brown, parched hills with a rainbow of colors and reflecting itself in the cloudbank massed high in the eastern sky. Tom, hurrying home through the fields from his last errands at the store, was whistling softly and enjoying the beauty of the early evening, wondering all the while why the little sister was not running to meet him, and half expecting to see her jump out at him from behind some clump of bushes. But Tabitha was nowhere in sight.

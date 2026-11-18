@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - How Candide Escaped from the Bulgarians and What Befell Him Afterward"
 weight: 3
-aliases:
-  - "/authors/voltaire/candide/chapter-03.html"
+url: "/authors/voltaire/candide/chapter-03.html"
 ---
 
 Never was anything so gallant, so well accoutred, so brilliant, and so finely disposed as the two armies. The trumpets, fifes, hautboys, drums, and cannon made such harmony as never was heard in Hell itself. The entertainment began by a discharge of cannon, which, in the twinkling of an eye, laid flat about 6,000 men on each side. The musket bullets swept away, out of the best of all possible worlds, nine or ten thousand scoundrels that infested its surface. The bayonet was next the sufficient reason of the deaths of several thousands. The whole might amount to thirty thousand souls. Candide trembled like a philosopher, and concealed himself as well as he could during this heroic butchery.

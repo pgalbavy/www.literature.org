@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-02.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-02.html"
 ---
 
 "*MRS. FLANDERS"—"*Poor Betty Flanders"—"Dear Betty"—"She's very attractive still"—"Odd she don't marry again!" "There's Captain Barfoot to be sure—calls every Wednesday as regular as clockwork, and never brings his wife."

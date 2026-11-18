@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-13.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-13.html"
 ---
 
 The prosecution had other trumps yet to play. It called a name, which brought into the courtroom, with shambling and uncertain step, a man whose face was pasty with prison pallour. His thin body was garbed in the zebra-stripes of the penitentiary's livery, and the hand that he raised to take oath trembled. His voice, too, carried a quaver of weakness in its first syllable.

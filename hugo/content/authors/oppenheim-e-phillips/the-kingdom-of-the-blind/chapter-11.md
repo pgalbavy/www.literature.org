@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-11.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-11.html"
 ---
 
 Olive Moreton gave a little start as the long, grey, racing car came noiselessly to a standstill by the side of the kerbstone. Captain Granet raised his hat and leaned from the driving seat towards her.

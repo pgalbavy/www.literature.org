@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-05.html"
 ---
 
 "Now Tiktok," said Dorothy, "the first thing to be done is to find a way for us to escape from these rocks. The Wheelers are down below, you know, and threaten to kill us."

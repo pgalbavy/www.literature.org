@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - At The Stone Wall"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-05.html"
 ---
 
 "Where's the rest of your crowd?" Chirpy Cricket asked Freddie Firefly, when they met by the stone wall. "It's getting darker every minute. And the torchlight procession ought to start right away."

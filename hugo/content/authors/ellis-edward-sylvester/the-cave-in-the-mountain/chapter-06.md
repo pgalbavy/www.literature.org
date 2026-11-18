@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Daring Exploit"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-06.html"
 ---
 
 A veteran Comanche warrior could not have advanced with greater skill than did young Munson approach the unconscious Apache. The warriors who had taken this little business in hand seemed to have cleared away the treacherous ground surrounding the opening, so that it was not likely to give way beneath their weight, even when they advanced close to the edge. The single redskin who remained seemed to have shifted his position more for the purpose of relieving himself from his cramped posture than anything else.

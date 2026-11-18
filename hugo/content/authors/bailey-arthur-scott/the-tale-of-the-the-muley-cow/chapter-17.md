@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - No Help From Spot"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-17.html"
 ---
 
 Billy Woodchuck was a great deal wiser than the Muley Cow had ever suspected. She had thought she could frighten him. By telling him that he couldn't see well because he had eaten too much clover, she actually expected to keep him out of the clover-patch. So she had a great surprise when he said to her:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Avalanche"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-04.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-04.html"
 ---
 
 On the morning of the second day from that night the sunrise found us already on our path across the desert. There, nearly a mile behind us, we could see the ruined statue of Buddha seated in front of the ancient monastery, and in that clear atmosphere could even distinguish the bent form of our friend, the old abbot, Kou-en, leaning against it until we were quite lost to sight. All the monks had wept when we parted from them, and Kou-en even more bitterly than the rest, for he had learned to love us.

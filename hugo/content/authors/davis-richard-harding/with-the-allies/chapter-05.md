@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Battle Of Soissons"
 weight: 6
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-05.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-05.html"
 ---
 
 The struggle for the possession of Soissons lasted two days. The second day's battle, which I witnessed, ended with the city in the possession of the French. It was part of the seven days' of continuous fighting that began on September 6th at Meaux. Then the German left wing, consisting of the army of General von Kluck, was at Claye, within fifteen miles of Paris. But the French and English, instead of meeting the advance with a defence, themselves attacked. Steadily, at the rate of ten miles a day, they drove the Germans back across the Aisne and the Marne, and so saved the city.

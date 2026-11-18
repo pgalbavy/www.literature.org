@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-02.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-02.html"
 ---
 
 The young man shut the door with a sharper slam than any visitor had used that afternoon, and walked up the street at a great pace, cutting the air with his walking-stick. He was glad to find himself outside that drawing-room, breathing raw fog, and in contact with unpolished people who only wanted their share of the pavement allowed them. He thought that if he had had Mr. or Mrs. or Miss Hilbery out here he would have made them, somehow, feel his superiority, for he was chafed by the memory of halting awkward sentences which had failed to give even the young woman with the sad, but inwardly ironical eyes a hint of his force. He tried to recall the actual words of his little outburst, and unconsciously supplemented them by so many words of greater expressiveness that the irritation of his failure was somewhat assuaged. Sudden stabs of the unmitigated truth assailed him now and then, for he was not inclined by nature to take a rosy view of his conduct, but what with the beat of his foot upon the pavement, and the glimpse which half-drawn curtains offered him of kitchens, dining-rooms, and drawing-rooms, illustrating with mute power different scenes from different lives, his own experience lost its sharpness.

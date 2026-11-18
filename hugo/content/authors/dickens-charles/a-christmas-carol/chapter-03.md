@@ -1,8 +1,7 @@
 ---
 title: "The Second of the Three Spirits"
 weight: 3
-aliases:
-  - "/authors/dickens-charles/a-christmas-carol/chapter-03.html"
+url: "/authors/dickens-charles/a-christmas-carol/chapter-03.html"
 ---
 
 Awaking in the middle of a prodigiously tough snore, and sitting up in bed to get his thoughts together, Scrooge had no occasion to be told that the bell was again upon the stroke of One. He felt that he was restored to consciousness in the right nick of time, for the especial purpose of holding a conference with the second messenger despatched to him through Jacob Marley's intervention. But, finding that he turned uncomfortably cold when he began to wonder which of his curtains this new spectre would draw back, he put them every one aside with his own hands; and lying down again, established a sharp look-out all round the bed. For he wished to challenge the Spirit on the moment of its appearance, and did not wish to be taken by surprise, and made nervous.

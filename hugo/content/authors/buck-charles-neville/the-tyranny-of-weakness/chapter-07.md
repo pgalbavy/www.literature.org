@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-07.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-07.html"
 ---
 
 For a little while the study remained silent, except for the excited panting of the minister, whose face was a mask of fury. The passion in Conscience's eyes was gradually fading into an expression of deep misery. The issue of cruel dilemma had come in spite of every defensive effort and every possible care. It had come of her father's forcing and she knew that he would make no concession. When Williams spoke his voice came chokingly.

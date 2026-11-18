@@ -1,8 +1,7 @@
 ---
 title: "Foreword"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-iron-heel/foreword.html"
+url: "/authors/london-jack/the-iron-heel/foreword.html"
 ---
 
 It cannot be said that the Everhard Manuscript is an important historical document. To the historian it bristles with errors--not errors of fact, but errors of interpretation. Looking back across the seven centuries that have lapsed since Avis Everhard completed her manuscript, events, and the bearings of events, that were confused and veiled to her, are clear to us. She lacked perspective. She was too close to the events she writes about. Nay, she was merged in the events she has described.

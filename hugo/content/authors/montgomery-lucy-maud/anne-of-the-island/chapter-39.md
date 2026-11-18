@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Deals With Weddings"
 weight: 39
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-39.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-39.html"
 ---
 
 Anne felt that life partook of the nature of an anticlimax during the first few weeks after her return to Green Gables. She missed the merry comradeship of Patty's Place. She had dreamed some brilliant dreams during the past winter and now they lay in the dust around her. In her present mood of self-disgust, she could not immediately begin dreaming again. And she discovered that, while solitude with dreams is glorious, solitude without them has few charms.

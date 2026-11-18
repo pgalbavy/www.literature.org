@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Solemn Vow and Promise"
 weight: 12
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-12.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-12.html"
 ---
 
 It was not until the next Friday that Marilla heard the story of the flower-wreathed hat. She came home from Mrs. Lynde's and called Anne to account.

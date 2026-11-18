@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5 - \"Bloody As The Hunter\""
 weight: 6
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-05.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-01-chapter-05.html"
 ---
 
 The lads lay quiet till the last footstep had melted on the wind. Then they arose, and with many an ache, for they were weary with constraint, clambered through the ruins, and recrossed the ditch upon the rafter. Matcham had picked up the windac and went first, Dick following stiffly, with his cross-bow on his arm.

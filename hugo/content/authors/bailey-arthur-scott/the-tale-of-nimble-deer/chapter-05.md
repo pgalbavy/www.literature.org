@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Nimble's Mistake"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-05.html"
 ---
 
 One morning Nimble's mother said to him, "To-night, just as the moon rises, we'll start for Farmer Green's garden patch."

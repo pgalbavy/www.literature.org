@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-21.html"
+url: "/authors/london-jack/martin-eden/chapter-21.html"
 ---
 
 Came a beautiful fall day, warm and languid, palpitant with the hush of the changing season, a California Indian summer day, with hazy sun and wandering wisps of breeze that did not stir the slumber of the air. Filmy purple mists, that were not vapors but fabrics woven of color, hid in the recesses of the hills. San Francisco lay like a blur of smoke upon her heights. The intervening bay was a dull sheen of molten metal, whereon sailing craft lay motionless or drifted with the lazy tide. Far Tamalpais, barely seen in the silver haze, bulked hugely by the Golden Gate, the latter a pale gold pathway under the westering sun. Beyond, the Pacific, dim and vast, was raising on its sky-line tumbled cloud-masses that swept landward, giving warning of the first blustering breath of winter.

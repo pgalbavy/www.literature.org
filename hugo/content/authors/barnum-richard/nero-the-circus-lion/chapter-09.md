@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Nero Scares A Boy"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-09.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-09.html"
 ---
 
 Nero, the circus lion, who was much larger now than when he had been caught in a jungle trap, was very much surprised at what Don, the runaway dog told him. At first the lion boy could hardly believe that Don was not one of the circus animals.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Garden-Party"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-24.html"
 ---
 
 The morning of the garden-party arose bright and clear, and Slowbridge awakened in a great state of excitement. Miss Chickie, having worked until midnight that all her orders might be completed, was so overpowered by her labors as to have to take her tea and toast in bed.

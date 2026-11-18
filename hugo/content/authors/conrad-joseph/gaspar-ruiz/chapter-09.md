@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-09.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-09.html"
 ---
 
 *WITH* movements of mechanical care and an air of abstraction old General Santierra lighted a long and thick cigar.

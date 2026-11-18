@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-01.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-01.html"
 ---
 
 Lady Anselman stood in the centre of the lounge at the Ritz Hotel and with a delicately-poised forefinger counted her guests. There was the great French actress who had every charm but youth, chatting vivaciously with a tall, pale-faced man whose French seemed to be as perfect as his attitude was correct. The popular wife of a great actor was discussing her husband's latest play with a Cabinet Minister who had the air of a school-boy present at an illicit feast. A very beautiful young woman, tall and fair, with grey-blue eyes and a wealth of golden, almost yellow hair, was talking to a famous musician. A little further in the background, a young man in the uniform of a naval lieutenant was exchanging what seemed to be rather impressive chaff with a petite but exceedingly good-looking girl. Lady Anselman counted them twice, glanced at the clock and frowned.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Bad News"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-11.html"
 ---
 
 "Have you heard the news?" Tired Tim asked Brownie Beaver one day. "There's going to be a cyclone."

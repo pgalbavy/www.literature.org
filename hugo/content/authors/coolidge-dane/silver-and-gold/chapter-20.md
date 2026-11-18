@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Jumpers And Tenors"
 weight: 21
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-20.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-20.html"
 ---
 
 They led Denver away as if he were a child, for the revulsion from his anger had left him weak; but Chatwourth, the killer, was carried back to town with his head lolling forward like a dead man's. The smash of the stone had caught him full on the forehead, which sloped back like the skull of a panther; and the blood, oozing down from his lacerated scalp, made him look more murderous than ever. But his hard, fighting jaw was hanging slack now and his dangerous eyes were closed; and the miners, while they carried him with a proper show of solicitude, chuckled and muttered among themselves. In a way which was nothing short of miraculous Denver Russell had walked in on Murray's boss jumper and knocked him on the head with a rock--and the shot which Chatwourth had fired in return had never so much as touched him.

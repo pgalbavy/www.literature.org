@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Life For Life"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-20.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-20.html"
 ---
 
 The summer days that followed were full of rest and pleasure for young and old, as they did the honours of Plumfield to their happy guests. While Franz and Emil were busy with the affairs of Uncle Hermann and Captain Hardy, Mary and Ludmilla made friends everywhere; for, though very unlike, both were excellent and charming girls. Mrs Meg and Daisy found the German bride a Hausfrau after their own hearts, and had delightful times learning new dishes, hearing about the semi-yearly washes and the splendid linen-room at Hamburg, or discussing domestic life in all its branches. Ludmilla not only taught, but learned, many things, and went home with many new and useful ideas in her blonde head.

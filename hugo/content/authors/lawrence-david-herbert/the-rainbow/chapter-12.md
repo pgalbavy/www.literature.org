@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Shame"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-12.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-12.html"
 ---
 
 Ursula had only two more terms at school. She was studying for her matriculation examination. It was dreary work, for she had very little intelligence when she was disjointed from happiness. Stubbornness and a consciousness of impending fate kept her half-heartedly pinned to it. She knew that soon she would want to become a self-responsible person, and her dread was that she would be prevented. An all-containing will in her for complete independence, complete social independence, complete independence from any personal authority, kept her dullishly at her studies. For she knew that she had always her price of ransom - her femaleness. She was always a woman, and what she could not get because she was a human being, fellow to the rest of mankind, she would get because she was a female, other than the man. In her femaleness she felt a secret riches, a reserve, she had always the price of freedom.

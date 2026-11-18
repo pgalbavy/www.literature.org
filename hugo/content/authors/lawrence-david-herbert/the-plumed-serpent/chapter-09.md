@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Casa De Las Cuentas"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-09.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-09.html"
 ---
 
 Kate was soon fond of the limping, untidy Juana, and of the girls. Concha was fourteen, a thick, heavy, barbaric girl with a mass of black waving hair which she was always scratching. Maria was eleven, a shy, thin bird-like thing with big eyes that seemed almost to absorb the light round her.

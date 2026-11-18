@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Warlike Visit"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-05.html"
 ---
 
 *WHEN* Tom deposited himself in bed, he found the straw-bed even more uncomfortable than he anticipated. The straw crackled beneath him at every movement, and was far from affording that ease which our hero coveted.

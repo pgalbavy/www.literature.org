@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Mr. Nighthawk Explains"
 weight: 21
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-21.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-21.html"
 ---
 
 Mr. Nighthawk appeared to think it a great joke on Chirpy Cricket, because Chirpy had thought he played the fiddle. He laughed in a most disagreeable fashion. And he kept repeating that people who didn't know a wind instrument when they heard it couldn't know much about music.

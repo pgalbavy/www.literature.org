@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Haunted Temple"
 weight: 12
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-12.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-12.html"
 ---
 
 “A haunted temple?” echoed Jimmie. “I thought the haunted temples were a lot farther south.”

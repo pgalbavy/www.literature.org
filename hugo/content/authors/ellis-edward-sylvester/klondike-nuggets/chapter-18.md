@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Startling Discovery"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-18.html"
 ---
 
 The weather was mild, for the short, oppressive Northwest summer was rapidly approaching. During the middle of the day the sun was hot, and the boys perspired freely. By and by would come the billions of mosquitoes to render life unbearable. Those pests often kill bears and wolves by blinding them, and the man who does not wear some protection is driven frantic, unable to eat, sleep, or live, except in smothering smoke. Jeff had said that he meant to complete the work, if possible, and start down the Yukon before that time of torment arrived.

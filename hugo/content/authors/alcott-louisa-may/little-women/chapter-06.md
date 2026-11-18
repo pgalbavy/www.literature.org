@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Beth Finds The Palace Beautiful"
 weight: 6
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-06.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-06.html"
 ---
 
 The big house did prove a Palace Beautiful, though it took some time for all to get in, and Beth found it very hard to pass the lions. Old Mr. Laurence was the biggest one, but after he had called, said something funny or kind to each one of the girls, and talked over old times with their mother, nobody felt much afraid of him, except timid Beth. The other lion was the fact that they were poor and Laurie rich, for this made them shy of accepting favors which they could not return. But, after a while, they found that he considered them the benefactors, and could not do enough to show how grateful he was for Mrs. March's motherly welcome, their cheerful society, and the comfort he took in that humble home of theirs. So they soon forgot their pride and interchanged kindnesses without stopping to think which was the greater.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Supreme Visions"
 weight: 17
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-17.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-17.html"
 ---
 
 The exhibition of the following day was preceded by two important pieces of news which appeared in the evening papers. A group of financiers had offered Théodore Massignac the sum of ten million francs in consideration of Noël Dorgeroux's secret and the right to work the amphitheatre. Théodore Massignac was to give them his answer next day.

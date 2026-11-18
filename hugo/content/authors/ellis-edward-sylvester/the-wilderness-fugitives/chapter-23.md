@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Doubt And Perplexity"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-23.html"
 ---
 
 The fugitives felt like congratulating themselves upon the acquisition of so valuable a man as the patriot Worrell. A hunter like him, who had spent years in wandering through the woods, must be acquainted with all those places that were the most available as a means of concealment. There were many retreats which had proven of the greatest benefit to other fugitives, but they were those that had been seized upon in the frenzy of flight, when the thirsting pursuers were as eager as those whom they were hunting, and the slightest incident was frequently sufficient to turn aside the human bloodhounds. But something had now become necessary, for there was the danger of a carefully managed hunt by the Indians themselves, in which case the whites would need to take advantage of every expedient possible. What more likely, therefore, than that this man could give them the very assistance they needed in that respect?

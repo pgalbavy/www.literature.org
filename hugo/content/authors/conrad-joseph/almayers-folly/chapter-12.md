@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/almayers-folly/chapter-12.html"
+url: "/authors/conrad-joseph/almayers-folly/chapter-12.html"
 ---
 
 "That is the place," said Dain, indicating with the blade of his paddle a small islet about a mile ahead of the canoe—"that is the place where Babalatchi promised that a boat from the prau would come for me when the sun is overhead. We will wait for that boat there."

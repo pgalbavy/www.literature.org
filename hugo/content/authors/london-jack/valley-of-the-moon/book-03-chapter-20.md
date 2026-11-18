@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 20"
 weight: 54
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-20.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-20.html"
 ---
 
 "I'm not done with you children," had been Mrs. Mortimer's parting words; and several times that winter she ran up to advise, and to teach Saxon how to calculate her crops for the small immediate market, for the increasing spring market, and for the height of summer, at which time she would be able to sell all she could possibly grow and then not supply the demand. In the meantime, Hazel and Hattie were used every odd moment in hauling manure from Glen Ellen, whose barnyards had never known such a thorough cleaning. Also there were loads of commercial fertilizer from the railroad station, bought under Mrs. Mortimer's instructions.

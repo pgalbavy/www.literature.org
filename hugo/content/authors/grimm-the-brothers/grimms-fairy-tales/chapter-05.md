@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Old Sultan"
 weight: 5
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-05.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-05.html"
 ---
 
 A shepherd had a faithful dog, called Sultan, who was grown very old, and had lost all his teeth. And one day when the shepherd and his wife were standing together before the house the shepherd said, ‘I will shoot old Sultan tomorrow morning, for he is of no use now.’ But his wife said, ‘Pray let the poor faithful creature live; he has served us well a great many years, and we ought to give him a livelihood for the rest of his days.’ ‘But what can we do with him?’ said the shepherd, ‘he has not a tooth in his head, and the thieves don’t care for him at all; to be sure he has served us, but then he did it to earn his livelihood; tomorrow shall be his last day, depend upon it.’

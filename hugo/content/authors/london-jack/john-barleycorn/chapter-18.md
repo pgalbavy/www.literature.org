@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-18.html"
+url: "/authors/london-jack/john-barleycorn/chapter-18.html"
 ---
 
 My infatuation for the Oakland water-front was quite dead. I didn't like the looks of it, nor the life. I didn't care for the drinking, nor the vagrancy of it, and I wandered back to the Oakland Free Library and read the books with greater understanding. Then, too, my mother said I had sown my wild oats and it was time I settled down to a regular job. Also, the family needed the money. So I got a job at the jute mills--a ten-hour day at ten cents an hour. Despite my increase in strength and general efficiency, I was receiving no more than when I worked in the cannery several years before. But, then, there was a promise of a rise to a dollar and a quarter a day after a few months. And here, so far as John Barleycorn is concerned, began a period of innocence. I did not know what it was to take a drink from month end to month end. Not yet eighteen years old, healthy and with labour-hardened but unhurt muscles, like any young animal I needed diversion, excitement, something beyond the books and the mechanical toil.

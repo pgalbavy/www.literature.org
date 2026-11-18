@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 14"
 weight: 15
-aliases:
-  - "/authors/cather-willa/my-antonia/book-01-chapter-14.html"
+url: "/authors/cather-willa/my-antonia/book-01-chapter-14.html"
 ---
 
 ON THE MORNING of the twenty-second I wakened with a start. Before I opened my eyes, I seemed to know that something had happened. I heard excited voices in the kitchen--grandmother’s was so shrill that I knew she must be almost beside herself. I looked forward to any new crisis with delight. What could it be, I wondered, as I hurried into my clothes. Perhaps the barn had burned; perhaps the cattle had frozen to death; perhaps a neighbour was lost in the storm.

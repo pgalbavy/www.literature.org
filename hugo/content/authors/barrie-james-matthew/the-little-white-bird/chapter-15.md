@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Thrush's Nest"
 weight: 15
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-15.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-15.html"
 ---
 
 Shelley was a young gentleman and as grown-up as he need ever expect to be. He was a poet; and they are never exactly grown-up. They are people who despise money except what you need for to-day, and he had all that and five pounds over. So, when he was walking in the Kensington Gardens, he made a paper boat of his bank-note, and sent it sailing on the Serpentine.

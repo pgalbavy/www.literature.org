@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/tarkington-booth/the-guest-of-quesnay/chapter-22.html"
+url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-22.html"
 ---
 
 At midnight there was no mistaking the palpable uneasiness with which Mr. Percy, faithful sentry, regarded the behaviour of Miss Elliott and myself as we sat conversing upon the veranda of the pavilion. It was not fear for the security of his prisoner which troubled him, but the unseemliness of the young woman's persistence in remaining to this hour under an espionage no more matronly than that of a sketch-book abandoned on the table when we had come out to the open. The youth had veiled his splendours with more splendour: a long overcoat of so glorious a plaid it paled the planets above us; and he wandered restlessly about the garden in this refulgence, glancing at us now and then with what, in spite of the insufficient revelation of the starlight, we both recognised as a chilling disapproval. The lights of the inn were all out; the courtyard was dark. The Spanish woman and Monsieur Rameau had made their appearance for a moment, half an hour earlier, to exchange a word with their fellow vigilant, and, soon after, the extinguishing of the lamps in their respective apartments denoted their retirement for the night. In the "Grande Suite" all had been dark and silent for an hour. About the whole place the only sign of life, aside from those signs furnished by our three selves, was a rhythmical sound from an open window near the kitchen, where incontrovertibly slumbered our maitre d'hotel after the cares of the day.

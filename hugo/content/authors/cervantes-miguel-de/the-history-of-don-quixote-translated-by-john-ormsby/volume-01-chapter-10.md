@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 10 - Of The Pleasant Discourse That Passed Between Don Quixote And His Squire Sancho Panza"
 weight: 13
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-10.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-10.html"
 ---
 
 Now by this time Sancho had risen, rather the worse for the handling of the friars’ muleteers, and stood watching the battle of his master, Don Quixote, and praying to God in his heart that it might be his will to grant him the victory, and that he might thereby win some island to make him governor of, as he had promised. Seeing, therefore, that the struggle was now over, and that his master was returning to mount Rocinante, he approached to hold the stirrup for him, and, before he could mount, he went on his knees before him, and taking his hand, kissed it saying, "May it please your worship, Señor Don Quixote, to give me the government of that island which has been won in this hard fight, for be it ever so big I feel myself in sufficient force to be able to govern it as much and as well as anyone in the world who has ever governed islands."

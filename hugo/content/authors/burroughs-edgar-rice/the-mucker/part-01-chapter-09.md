@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9 - Oda Yorimoto"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-09.html"
 ---
 
 ONLY four men of the Halfmoon's crew were lost in the wreck of the vessel. All had been crowded in the bow when the ship broke in two, and being far-flung by the forward part of the brigantine as it lunged toward the cove on the wave following the one which had dropped the craft upon the reef, with the exception of the four who had perished beneath the wreckage they had been able to swim safely to the beach.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/doyle-arthur-conan/the-parasite/chapter-01.html"
+url: "/authors/doyle-arthur-conan/the-parasite/chapter-01.html"
 ---
 
 March 24. The spring is fairly with us now. Outside my laboratory window the great chestnut-tree is all covered with the big, glutinous, gummy buds, some of which have already begun to break into little green shuttlecocks. As you walk down the lanes you are conscious of the rich, silent forces of nature working all around you. The wet earth smells fruitful and luscious. Green shoots are peeping out everywhere. The twigs are stiff with their sap; and the moist, heavy English air is laden with a faintly resinous perfume. Buds in the hedges, lambs beneath them-- everywhere the work of reproduction going forward!

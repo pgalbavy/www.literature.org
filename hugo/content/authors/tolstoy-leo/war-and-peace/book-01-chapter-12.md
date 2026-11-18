@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-12.html"
 ---
 
 The only young people remaining in the drawing room, not counting the young lady visitor and the countess' eldest daughter (who was four years older than her sister and behaved already like a grown-up person), were Nicholas and Sonya, the niece. Sonya was a slender little brunette with a tender look in her eyes which were veiled by long lashes, thick black plaits coiling twice round her head, and a tawny tint in her complexion and especially in the color of her slender but graceful and muscular arms and neck. By the grace of her movements, by the softness and flexibility of her small limbs, and by a certain coyness and reserve of manner, she reminded one of a pretty, half-grown kitten which promises to become a beautiful little cat. She evidently considered it proper to show an interest in the general conversation by smiling, but in spite of herself her eyes under their thick long lashes watched her cousin who was going to join the army, with such passionate girlish adoration that her smile could not for a single instant impose upon anyone, and it was clear that the kitten had settled down only to spring up with more energy and again play with her cousin as soon as they too could, like Natasha and Boris, escape from the drawing room.

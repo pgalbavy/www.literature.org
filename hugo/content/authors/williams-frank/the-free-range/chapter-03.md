@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - An Unsettled Score"
 weight: 3
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-03.html"
+url: "/authors/williams-frank/the-free-range/chapter-03.html"
 ---
 
 As soon after dinner as possible Larkin disengaged himself from the rest of the party and motioned Caldwell to follow him. He led the way around the house and back toward the fence of the corral. It was already dark, and the only sounds were those of the horses stirring restlessly, or the low bellow of one of the ranch milch cows.

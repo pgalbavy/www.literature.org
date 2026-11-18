@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Carrying A Message"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-15.html"
 ---
 
 After Paddy Muskrat and his wife talked to her about sunstrokes, the Muley Cow tried to keep in the shade during the rest of the day.

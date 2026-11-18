@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Row In Town"
 weight: 16
-aliases:
-  - "/authors/lawrence-david-herbert/the-kangaroo/chapter-16.html"
+url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-16.html"
 ---
 
 The thing that Kangaroo had to reckon with, and would not reckon with, was the mass-spirit. A collection of men does not necessarily mean a mob. A collection of men - an accidental gathering - may be just a gathering, drawn by a moment's curiosity, or it may be an audience drawn to hear something, or it may be a congregation, gathered together in some spirit of earnest desire: or it may be just a crowd, inspired by no one motive. The mass-spirit is complex. At its lowest it is a mob, and what is a mob?

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Suffragettes"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-10.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-10.html"
 ---
 
 "There is only one way out of all this," said Ann Veronica, sitting up in her little bed in the darkness and biting at her nails.

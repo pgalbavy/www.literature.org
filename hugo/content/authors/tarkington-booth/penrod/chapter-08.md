@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - School"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-08.html"
+url: "/authors/tarkington-booth/penrod/chapter-08.html"
 ---
 
 Next morning, when he had once more resumed the dreadful burden of education, it seemed infinitely duller. And yet what pleasanter sight is there than a schoolroom well filled with children of those sprouting years just before the 'teens? The casual visitor, gazing from the teacher's platform upon these busy little heads, needs only a blunted memory to experience the most agreeable and exhilarating sensations. Still, for the greater part, the children are unconscious of the happiness of their condition; for nothing is more pathetically true than that we "never know when we are well off." The boys in a public school are less aware of their happy state than are the girls; and of all the boys in his room, probably Penrod himself had the least appreciation of his felicity.

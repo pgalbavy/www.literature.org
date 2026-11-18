@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Drawbacks Of Psychic Surgery"
 weight: 17
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-16.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-16.html"
 ---
 
 "As soon as Theophrastus had uttered the words: 'I am entering the radiant darkness of death,' M. Eliphas de Saint-Elme de Taillebourg de la Nox raised his right hand above his head with a splendid gesture, then bent over the face of my friend, breathed upon his eyelids, and said:

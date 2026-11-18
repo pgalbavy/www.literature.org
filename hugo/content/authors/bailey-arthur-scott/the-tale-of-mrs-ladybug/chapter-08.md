@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Seeking The Truth"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-08.html"
 ---
 
 MRS. LADYBUG was determined to know the truth about Mr. P. Bug, the newcomer. And as soon as she had fully recovered from the rude blow that Peppery Polly Bumblebee dealt her, she set out for Farmer Green's garden and the potato patch.

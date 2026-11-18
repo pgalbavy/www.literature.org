@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Shower"
 weight: 16
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-16.html"
+url: "/authors/tarkington-booth/seventeen/chapter-16.html"
 ---
 
 She continued to be thoughtful until after lunch, when, upon the sun's disappearance behind a fat cloud, Jane and the heavens exchanged dispositions for the time—the heavens darkened and Jane brightened. She was in the front hall, when the sunshine departed rather abruptly, and she jumped for joy, pointing to the open door. "Look! Looky there!" she called to her brother. Richly ornamented, he was descending the front stairs, his embellishments including freshly pressed white trousers, a new straw hat, unusual shoes, and a blasphemous tie. "I'm goin' to get to sail my boat," Jane shouted. "It's goin' to rain."

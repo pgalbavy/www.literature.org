@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 14 - The Bird Of Prey Brought Down"
 weight: 14
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-14.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-14.html"
 ---
 
 Cold on the shore, in the raw cold of that leaden crisis in the four-and-twenty hours when the vital force of all the noblest and prettiest things that live is at its lowest, the three watchers looked each at the blank faces of the other two, and all at the blank face of Riderhood in his boat.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-08.html"
+url: "/authors/conrad-joseph/the-rover/chapter-08.html"
 ---
 
 Perched sideways on the circular wall bordering the well, in the full blaze of the midday sun, the rover of the distant seas and the fisherman of the lagoon, sharing between them a most surprising secret, had the air of two men conferring in the dark. The first word that Peyrol said was, "Well?"

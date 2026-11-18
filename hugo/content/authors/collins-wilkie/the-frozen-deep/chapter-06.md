@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-06.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-06.html"
 ---
 
 Good-by to England! Good-by to inhabited and civilized regions of the earth!

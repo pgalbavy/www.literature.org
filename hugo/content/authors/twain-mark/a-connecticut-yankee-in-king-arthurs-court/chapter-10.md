@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Beginnings of Civilization"
 weight: 11
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-10.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-10.html"
 ---
 
 THE Round Table soon heard of the challenge, and of course it was a good deal discussed, for such things interested the boys. The king thought I ought now to set forth in quest of adventures, so that I might gain renown and be the more worthy to meet Sir Sagramor when the several years should have rolled away. I excused myself for the present; I said it would take me three or four years yet to get things well fixed up and going smoothly; then I should be ready; all the chances were that at the end of that time Sir Sagramor would still be out grailing, so no valuable time would be lost by the postponement; I should then have been in office six or seven years, and I believed my system and machinery would be so well developed that I could take a holiday without its working any harm.

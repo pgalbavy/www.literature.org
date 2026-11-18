@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Ford Of The Rapidan"
 weight: 17
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-16.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-16.html"
 ---
 
 'Twas the same high summer weather through which I had ridden a fortnight ago with a dull heart on my way to the duel. Now Grey rode by my side, and my spirits were as light as a bird's. I had forgotten the grim part of the enterprise, the fate that might await me, the horrors we should certainly witness. I thought only of the joys of movement into new lands with tried companions. These last months I had borne a pretty heavy weight of cares. Now that was past. My dispositions completed, the thing was in the hands of God, and I was free to go my own road. Mocking-birds and thrushes cried in the thickets, squirrels flirted across the path, and now and then a shy deer fled before us. There come moments to every man when he is thankful to be alive, and every breath drawn is a delight; so at that hour I praised my Maker for His good earth, and for sparing me to rejoice in it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Under Fire"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-15.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-15.html"
 ---
 
 Meanwhile Constance dressed hastily, abetted by the clever maid; for Wayward was below, invited to dine with them. Malcourt also was due for dinner, and, as usual, late.

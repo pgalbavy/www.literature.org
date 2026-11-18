@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 13"
 weight: 170
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-13.html"
 ---
 
 The sportsman's saying, that if the first beast or the first bird is not missed, the day will be lucky, turned out correct.

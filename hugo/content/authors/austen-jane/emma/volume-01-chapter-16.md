@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-16.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-16.html"
 ---
 
 The hair was curled, and the maid sent away, and Emma sat down to think and be miserable.--It was a wretched business indeed!--Such an overthrow of every thing she had been wishing for!--Such a development of every thing most unwelcome!--Such a blow for Harriet!--that was the worst of all. Every part of it brought pain and humiliation, of some sort or other; but, compared with the evil to Harriet, all was light; and she would gladly have submitted to feel yet more mistaken--more in error--more disgraced by mis-judgment, than she actually was, could the effects of her blunders have been confined to herself.

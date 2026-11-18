@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Jessie"
 weight: 3
-aliases:
-  - "/authors/london-jack/adventure/chapter-03.html"
+url: "/authors/london-jack/adventure/chapter-03.html"
 ---
 
 Two days passed, and Sheldon felt that he could not grow any weaker and live, much less make his four daily rounds of the hospital. The deaths were averaging four a day, and there were more new cases than recoveries. The blacks were in a funk. Each one, when taken sick, seemed to make every effort to die. Once down on their backs they lacked the grit to make a struggle. They believed they were going to die, and they did their best to vindicate that belief. Even those that were well were sure that it was only a mater of days when the sickness would catch them and carry them off. And yet, believing this with absolute conviction, they somehow lacked the nerve to rush the frail wraith of a man with the white skin and escape from the charnel house by the whale-boats. They chose the lingering death they were sure awaited them, rather than the immediate death they were very sure would pounce upon them if they went up against the master. That he never slept, they knew. That he could not be conjured to death, they were equally sure--they had tried it. And even the sickness that was sweeping them off could not kill him.

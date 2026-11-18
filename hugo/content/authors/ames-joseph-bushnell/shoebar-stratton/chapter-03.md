@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Mistress Mary--Quite Contrary"
 weight: 3
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-03.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-03.html"
 ---
 
 But Stratton's mind was too full of the amazing information he had gleaned from the old storekeeper to leave much room for minor reflections. He had been stunned at first--so completely floored that anyone save the garrulous old man intent on making the most of his shop-worn story could not have helped seeing that something was seriously wrong. Then anger came--a hot, raging fury against the authors of this barefaced, impudent attempt at swindle. From motives of policy he had done his best to conceal that, too, from Pop Daggett; but now that he was alone it surged up again within him, dyeing his face a deep crimson and etching hard lines on his forehead and about his straight-lipped mouth.

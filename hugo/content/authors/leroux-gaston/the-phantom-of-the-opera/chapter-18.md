@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Commissary, The Viscount And The Persian"
 weight: 19
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-18.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-18.html"
 ---
 
 The first words of the commissary of police, on entering the managers' office, were to ask after the missing prima donna.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Johnnie Green's Net"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-02.html"
 ---
 
 JOHNNIE GREEN was never quite happy unless he was collecting something. One year he went about with a hammer, chipping a piece off almost every rock in Pleasant Valley. And of course he gathered birds' eggs.

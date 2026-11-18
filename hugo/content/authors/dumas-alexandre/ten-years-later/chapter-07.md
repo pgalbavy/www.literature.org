@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Parry"
 weight: 7
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-07.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-07.html"
 ---
 
 Whilst the unknown was viewing these lights with interest, and lending an ear to the various noises, Master Cropole entered his apartment, followed by two attendants, who laid the cloth for his meal.

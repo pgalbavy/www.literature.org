@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Black Pearl"
 weight: 8
-aliases:
-  - "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-08.html"
+url: "/authors/leblanc-maurice/the-extraordinary-adventures-of-arsene-lupin-gentleman-burglar/chapter-08.html"
 ---
 
 A violent ringing of the bell awakened the concierge of number nine, avenue Hoche. She pulled the doorstring, grumbling:

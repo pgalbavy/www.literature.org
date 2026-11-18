@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-26.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-26.html"
 ---
 
 SUMMER was already past its prime, when Edgar reluctantly yielded his assent to their entreaties, and Catherine and I set out on our first ride to join her cousin. It was a close, sultry day: devoid of sunshine, but with a sky too dappled and hazy to threaten rain: and our place of meeting had been fixed at the guide-stone, by the cross-roads. On arriving there, however, a little herd-boy, despatched as a messenger, told us that, - 'Maister Linton wer just o' this side th' Heights: and he'd be mitch obleeged to us to gang on a bit further.'

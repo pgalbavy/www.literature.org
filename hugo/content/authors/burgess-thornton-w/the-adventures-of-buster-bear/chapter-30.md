@@ -1,8 +1,7 @@
 ---
 title: "chapter 30"
 weight: 999
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-30.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-30.html"
 ---
 
 "Will you make me a berry pie if I will get the berries to-morrow?" asked Farmer Brown's boy of his mother.

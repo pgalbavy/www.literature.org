@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Benita Gives Her Answer"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-23.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-23.html"
 ---
 
 “Your answer, Benita,” Robert said dreamily, for to him this thing seemed a dream.

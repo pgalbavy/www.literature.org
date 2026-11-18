@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/the-rover/chapter-13.html"
+url: "/authors/conrad-joseph/the-rover/chapter-13.html"
 ---
 
 The motive force of a fixed idea is very great. In the case of Scevola it was great enough to launch him down the slope and to rob him for the moment of all caution. He bounded amongst the boulders, using the handle of the stable fork for a staff. He paid no regard to the nature of the ground, till he got a fall and found himself sprawling on his face, while the stable fork went clattering down until it was stopped by a bush. It was this circumstance which saved Peyrol’s prisoner from being caught unawares. Since he had got out of the little cabin, simply because after coming to himself he had perceived it was open, Symons had been greatly refreshed by long drinks of cold water and by his little nap in the fresh air. Every moment he was feeling in better command of his limbs. As to the command of his thoughts, that was coming to him too, rather quickly. The advantage of having a very thick skull became evident in the fact that as soon as he had dragged himself out of that cabin he knew where he was. The next thing he did was to look at the moon, to judge of the passage of time. Then he gave way to an immense surprise at the fact of being alone aboard the tartane. As he sat with his legs dangling into the open hold he tried to guess how it came about that the cabin had been left unlocked and unguarded.

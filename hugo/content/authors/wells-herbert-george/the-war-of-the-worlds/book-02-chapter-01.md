@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - Under Foot"
 weight: 18
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-01.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-01.html"
 ---
 
 In the first book I have wandered so much from my own adventures to tell of the experiences of my brother that all through the last two chapters I and the curate have been lurking in the empty house at Halliford whither we fled to escape the Black Smoke. There I will resume. We stopped there all Sunday night and all the next day--the day of the panic--in a little island of daylight, cut off by the Black Smoke from the rest of the world. We could do nothing but wait in aching inactivity during those two weary days.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Gay Night In Paris"
 weight: 17
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-17.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-17.html"
 ---
 
 Mr. James B. Coulson was almost as much at home at the Grand Hotel, Paris, as he had been at the Savoy in London. His headquarters were at the American Bar, where he approved of the cocktails,patronized the highballs, and continually met fellow-countrymen with whom he gossiped and visited various places of amusement. His business during the daytime he kept to himself, but he certainly was possessed of a bagful of documents and drawings relating to sundry patents connected with the manufacture of woollen goods, the praises of which he was always ready to sing in a most enthusiastic fashion.

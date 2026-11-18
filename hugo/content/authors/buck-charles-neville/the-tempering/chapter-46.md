@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-46.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-46.html"
 ---
 
 The snow that had lain along the Appalachian slopes had felt the first breath of thawing breezes in March, 1917. Here and there, in a sun-touched hollow, dry twigs grew less brittle and the hint of buds gave timid forecasting of spring. The roads were deep in red mud and black mud, and men in ill-lighted cabins looked to crowbar and pike-pole and made ready for the swelling of the "spring tide" that should heft their rafted logs on its shoulders of water to the markets of a flattened world.

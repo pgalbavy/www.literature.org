@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/eliot-george/brother-jacob/chapter-03.html"
+url: "/authors/eliot-george/brother-jacob/chapter-03.html"
 ---
 
 Perhaps it was a result quite different from your expectations, that Mr. David Faux should have returned from the West Indies only a few years after his arrival there, and have set up in his old business, like any plain man who has never travelled. But these cases do occur in life. Since, as we know, men change their skies and see new constellations without changing their souls, it will follow sometimes that they don't change their business under those novel circumstances.

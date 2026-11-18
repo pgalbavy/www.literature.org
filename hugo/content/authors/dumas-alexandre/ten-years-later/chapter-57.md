@@ -1,8 +1,7 @@
 ---
 title: "Chapter 57 - The Gallery Of Saint-Mande"
 weight: 57
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-57.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-57.html"
 ---
 
 Fifty persons were waiting for the superintendent. He did not even take the time to place himself in the hands of his valet de chambre for a minute, but from the perron went straight into the premier salon. There his friends were assembled in full chat. The intendant was about to order supper to be served, but, above all, the Abbe Fouquet watched for the return of his brother, and was endeavoring to do the honors of the house in his absence. Upon the arrival of the superintendent, a murmur of joy and affection was heard; Fouquet, full of affability, good humor, and munificence, was beloved by his poets, his artists, and his men of business. His brow, upon which his little court read, as upon that of a god, all the movements of his soul, and thence drew rules of conduct, - his brow, upon which affairs of state never impressed a wrinkle, was this evening paler than usual, and more than one friendly eye remarked that pallor. Fouquet placed himself at the head of the table, and presided gayly during supper. He recounted Vatel's expedition to La Fontaine, related the history of Menneville and the skinny fowl to Pellisson, in such a manner that all the table heard it. A tempest of laughter and jokes ensued, which was only checked by a serious and even sad gesture from Pellisson. The Abbe Fouquet, not being able to comprehend why his brother should have led the conversation in that direction, listened with all his ears, and sought in the countenance of Gourville, or in that of his brother, an explanation which nothing afforded him. Pellisson took up the matter: - "Did they mention M. Colbert, then?" said he.

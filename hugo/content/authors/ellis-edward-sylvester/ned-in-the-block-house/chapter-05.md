@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - \"Shut Out\""
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-05.html"
 ---
 
 Deerfoot informed his friends that they were now within seven miles of the block-house. Although the night was far advanced, he expected to reach their destination long before morning. At that season the days were short, and as the Shawanoe was familiar with the woods, and could travel with as much certainty in the darkness as the light, there was no delay counted upon, unless they should approach the vicinity of some of the Wyandots.

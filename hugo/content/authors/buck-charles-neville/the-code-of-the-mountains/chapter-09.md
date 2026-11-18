@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-09.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-09.html"
 ---
 
 On the morning after the convict's return, in the hour when the mists still hung in wraith-like fogs over the slopes, Newt and the other men of the household gathered around the kitchen table while his mother and sister, maintaining their position of mere women, served them standing. They ate in sordid silence, stooping low over their plates and neglecting their forks.

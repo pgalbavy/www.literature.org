@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 34 - Which Relates How They Learned The Way In Which They Were To Disenchant The Peerless Dulcinea Del Toboso, Which Is One Of The Rarest Adventures In This Book"
 weight: 90
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-34.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-34.html"
 ---
 
 Great was the pleasure the duke and duchess took in the conversation of Don Quixote and Sancho Panza; and, more bent than ever upon the plan they had of practising some jokes upon them that should have the look and appearance of adventures, they took as their basis of action what Don Quixote had already told them about the cave of Montesinos, in order to play him a famous one. But what the duchess marvelled at above all was that Sancho’s simplicity could be so great as to make him believe as absolute truth that Dulcinea had been enchanted, when it was he himself who had been the enchanter and trickster in the business. Having, therefore, instructed their servants in everything they were to do, six days afterwards they took him out to hunt, with as great a retinue of huntsmen and beaters as a crowned king.

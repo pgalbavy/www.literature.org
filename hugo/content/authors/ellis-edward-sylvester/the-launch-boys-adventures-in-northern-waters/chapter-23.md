@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Through The Fog"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-23.html"
 ---
 
 It was an astounding discovery.

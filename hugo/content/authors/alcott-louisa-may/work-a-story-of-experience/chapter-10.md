@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Beginning Again"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-10.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-10.html"
 ---
 
 MRS. STERLING.

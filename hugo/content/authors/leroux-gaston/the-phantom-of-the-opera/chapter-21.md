@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Interesting And Instructive Vicissitudes Of A Persian In The Cellars Of The Opera"
 weight: 22
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-21.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-21.html"
 ---
 
 *THE PERSIAN'S NARRATIVE*

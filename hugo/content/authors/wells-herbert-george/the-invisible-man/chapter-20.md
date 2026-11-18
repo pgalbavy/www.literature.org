@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - At the House in Great Portland Street"
 weight: 20
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-20.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-20.html"
 ---
 
 For a moment Kemp sat in silence, staring at the back of the headless figure at the window. Then he started, struck by a thought, rose, took the Invisible Man's arm, and turned him away from the outlook.

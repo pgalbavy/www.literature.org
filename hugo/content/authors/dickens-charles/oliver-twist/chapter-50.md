@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - The Pursuit And Escape"
 weight: 50
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-50.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-50.html"
 ---
 
 Near to that part of the Thames on which the church at Rotherhithe abuts, where the buildings on the banks are dirtiest and the vessels on the river blackest with the dust of colliers and the smoke of close-built low-roofed houses, there exists the filthiest, the strangest, the most extraordinary of the many localities that are hidden in London, wholly unknown, even by name, to the great mass of its inhabitants.

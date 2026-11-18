@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Strange Buttons"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-17.html"
 ---
 
 To Mr. Crow's delight, it did not occur to Fatty Coon that Mr. Crow might be playing a trick on him. You see, as was usually the case, Fatty was hungry. And he had no thought for anything except food. When Mr. Crow explained what a fix he was in, and asked Fatty to unbutton his coat for him, Fatty stepped up to him at once.

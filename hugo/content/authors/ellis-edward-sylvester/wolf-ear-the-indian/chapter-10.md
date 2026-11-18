@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - \"Oh, There Is Wolf Ear!\""
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/wolf-ear-the-indian/chapter-10.html"
 ---
 
 It will be remembered that when Brinton Kingsland dropped to the ground in the gathering darkness to check the crossing of the Big Cheyenne by the Sioux, whose leader had met him in mid-stream, he called in an undertone to his parents to hasten out of the range of the flying bullets; he repeated the command to his pony Jack, who obediently trotted after them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The First Vision"
 weight: 5
-aliases:
-  - "/authors/wells-herbert-george/soul-of-a-bishop/chapter-05.html"
+url: "/authors/wells-herbert-george/soul-of-a-bishop/chapter-05.html"
 ---
 
 (1)

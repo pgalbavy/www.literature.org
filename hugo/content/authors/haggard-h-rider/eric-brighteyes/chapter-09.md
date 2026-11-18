@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - How Swanhild Dealt With Gudruda"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-09.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-09.html"
 ---
 
 Now Jon, Eric’s thrall, watched all night on Mosfell, but saw nothing except the light of Whitefire as it smote the Baresark’s head from his shoulders. He stayed there till daylight, much afraid; then, making sure that Eric was slain, Jon rode hard and fast for Middalhof, whither he came at evening.

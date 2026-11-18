@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Finding Of The Princess"
 weight: 5
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-04.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-04.html"
 ---
 
 IT was the day I was promoted to a toothbrush. The girls, irrespective of age, had been thus distinguished some time before; why, we boys could never rightly understand, except that it was part and parcel of a system of studied favouritism on behalf of creatures both physically inferior and (as was shown by a fondness for tale-bearing) of weaker mental fibre to us boys. It was not that we yearned after these strange instruments in themselves. Edward, indeed, applied his to the scrubbing-out of his squirrel’s cage, and for personal use, when a superior eye was grim on him, borrowed Harold’s or mine, indifferently. But the nimbus of distinction that clung to them—that we coveted exceedingly. What more, indeed, was there to ascend to, before the remote, but still possible, razor and strop?

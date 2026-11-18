@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Friend Of The Women"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-08.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-08.html"
 ---
 
 I FIND it impossible to describe my sensations while the carriage was taking me to Major Fitz-David's house. I doubt, indeed, if I really felt or thought at all, in the true sense of those words.

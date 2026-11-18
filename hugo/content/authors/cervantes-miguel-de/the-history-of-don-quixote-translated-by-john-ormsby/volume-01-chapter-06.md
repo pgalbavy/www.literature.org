@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 6 - Of The Diverting And Important Scrutiny Which The Curate And The Barber Made In The Library Of Our Ingenious Gentleman"
 weight: 9
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-06.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-06.html"
 ---
 
 He was still sleeping; so the curate asked the niece for the keys of the room where the books, the authors of all the mischief, were, and right willingly she gave them. They all went in, the housekeeper with them, and found more than a hundred volumes of big books very well bound, and some other small ones. The moment the housekeeper saw them she turned about and ran out of the room, and came back immediately with a saucer of holy water and a sprinkler, saying, "Here, your worship, señor licentiate, sprinkle this room; don’t leave any magician of the many there are in these books to bewitch us in revenge for our design of banishing them from the world."

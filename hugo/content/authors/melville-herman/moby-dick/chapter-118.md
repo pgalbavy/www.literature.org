@@ -1,8 +1,7 @@
 ---
 title: "Chapter 118 - The Quadrant"
 weight: 118
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-118.html"
+url: "/authors/melville-herman/moby-dick/chapter-118.html"
 ---
 
 The season for the Line at length drew near; and every day when Ahab, coming from his cabin cast his eyes aloft, the vigilant helmsman would ostentatiously handle his spokes, and the eager mariners quickly run to the braces, and would stand there with all their eyes centrally fixed on the nailed doubloon; impatient for the order to point the ship's prow for the equator. In good time the order came. It was hard upon high noon; and Ahab, seated in the bows of his high-hoisted boat, was about taking his wonted daily observation of the sun to determine his latitude.

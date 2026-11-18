@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - What Shasta Did"
 weight: 46
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-46.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-46.html"
 ---
 
 The night was still, and the regular tramp of the Indians sounded like the march of a file of soldiers, as they passed over the grass-covered earth. Elwood listened, hardly daring to breathe, as the tread grew fainter, fainter, fainter still, then died out; then was revived by a sigh of the night air, and all was still.

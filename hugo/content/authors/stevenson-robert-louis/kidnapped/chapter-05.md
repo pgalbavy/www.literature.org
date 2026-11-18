@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - I Go To The Queen’s Ferry"
 weight: 6
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-05.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-05.html"
 ---
 
 Much rain fell in the night; and the next morning there blew a bitter wintry wind out of the north-west, driving scattered clouds. For all that, and before the sun began to peep or the last of the stars had vanished, I made my way to the side of the burn, and had a plunge in a deep whirling pool. All aglow from my bath, I sat down once more beside the fire, which I replenished, and began gravely to consider my position.

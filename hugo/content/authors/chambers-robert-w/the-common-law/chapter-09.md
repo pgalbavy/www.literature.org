@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-09.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-09.html"
 ---
 
 The world, and his own family, had always been inclined to love Louis Neville, and had advanced no farther than the inclination. There were exceptions.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Clever Trick"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-18.html"
 ---
 
 At the foot of the rear stairs in the home of Widow Friestone was an ordinary door latched at night, but without any lock. When Mike Murphy was groping about in the blank darkness, where nothing was familiar, he did not know, as has been said, of the steepness of the steps. Thus he placed his shoe upon vacancy, and, unable to check himself, bumped to the bottom, striking every step on the route, and banging against the door with such force that the latch gave away, it flew open, and he sprawled on his hands and knees, still grasping the rifle with which he had set out to hunt for burglars. He was not hurt, and bounded like a rubber ball to his feet.

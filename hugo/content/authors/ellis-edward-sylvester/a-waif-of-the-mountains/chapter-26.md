@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - At Bay"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-26.html"
 ---
 
 Lieutenant Russell held a long consultation with Nellie Dawson, after the departure of Vose Adams. His first intention had been to press their flight with all possible vigor, and, as will be recalled, Adams carried away that belief with him.

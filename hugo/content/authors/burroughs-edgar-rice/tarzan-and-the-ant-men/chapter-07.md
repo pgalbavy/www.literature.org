@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-07.html"
 ---
 
 The Alalus youth, son of The First Woman, ranged the forest in search of the ape-man, the only creature that ever had stirred within his savage, primitive breast any emotion even slightly akin to affection; but he did not find him. Instead he fell in with two older males of his own species, and these three hunted together, as was occasionally the custom of these inoffensive creatures. His new acquaintances showed little interest in his strange armament--they were quite content with a stick and a stone knife. To the former an occasional rodent fell and the latter discovered many a luscious grub and insect beneath the mold that floored the forest or hidden under the bark of a tree. For the most part, however, they fed upon fruits, nuts and tubers. Not so the son of The First Woman, however. He brought in many birds and an occasional antelope, for he was becoming daily more proficient with the bow and the spear, and as he often brought in more than he could eat and left the remainder to his two fellows, they were permanently attached to him, or at least until such time as some fearsome woman should appear upon the scene to shatter their idyllic existence and drag one of them away to her corral.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Man Who Was Going Nowhere"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-02.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-02.html"
 ---
 
 THE cabin in which I found myself was small and rather untidy. A youngish man with flaxen hair, a bristly straw-coloured moustache, and a dropping nether lip, was sitting and holding my wrist. For a minute we stared at each other without speaking. He had watery grey eyes, oddly void of expression. Then just overhead came a sound like an iron bedstead being knocked about, and the low angry growling of some large animal. At the same time the man spoke. He repeated his question,--"How do you feel now?"

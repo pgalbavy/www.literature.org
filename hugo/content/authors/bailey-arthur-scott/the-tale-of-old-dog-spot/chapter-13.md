@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Hunting"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-13.html"
 ---
 
 To please old dog Spot Johnnie Green had only to ask him this question, "Want to go hunting, Spot?"

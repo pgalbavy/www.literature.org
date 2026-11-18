@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-20.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-20.html"
 ---
 
 Dorothy decided to accept Ozma's invitation to return with her to the Land of Oz. There was no greater chance of her getting home from Ev than from Oz, and the little girl was anxious to see once more the country where she had encountered such wonderful adventures. By this time Uncle Henry would have reached Australia in his ship, and had probably given her up for lost; so he couldn't worry any more than he did if she stayed away from him a while longer. So she would go to Oz.

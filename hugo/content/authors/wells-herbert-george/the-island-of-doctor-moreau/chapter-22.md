@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Man Alone"
 weight: 23
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-22.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-22.html"
 ---
 
 IN the evening I started, and drove out to sea before a gentle wind from the southwest, slowly, steadily; and the island grew smaller and smaller, and the lank spire of smoke dwindled to a finer and finer line against the hot sunset. The ocean rose up around me, hiding that low, dark patch from my eyes. The daylight, the trailing glory of the sun, went streaming out of the sky, was drawn aside like some luminous curtain, and at last I looked into the blue gulf of immensity which the sunshine hides, and saw the floating hosts of the stars. The sea was silent, the sky was silent. I was alone with the night and silence.

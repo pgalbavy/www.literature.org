@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Off For The Fair"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-21.html"
 ---
 
 It seemed to Henrietta Hen that the time for the fair would never come. She had begun to feel somewhat uneasy, because she had talked so much about visiting the fair with her children that it would be very awkward if she didn't go. So she was delighted one day by the noise of hammering and sawing that came from the workbench at the end of the wagon-shed. A merry noise it was, to Henrietta's ears; for she guessed at once what was happening. Farmer Green and his son were building a pen in which she and her family were to ride to the fair!

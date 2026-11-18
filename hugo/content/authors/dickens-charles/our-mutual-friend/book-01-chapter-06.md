@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6 - Cut Adrift"
 weight: 6
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-06.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-06.html"
 ---
 
 The Six Jolly Fellowship Porters, already mentioned as a tavern of a dropsical appearance, had long settled down into a state of hale infirmity. In its whole constitution it had not a straight floor, and hardly a straight line; but it had outlasted, and clearly would yet outlast, many a better-trimmed building, many a sprucer public-house. Externally, it was a narrow lopsided wooden jumble of corpulent windows heaped one upon another as you might heap as many toppling oranges, with a crazy wooden verandah impending over the water; indeed the whole house, inclusive of the complaining flag-staff on the roof, impended over the water, but seemed to have got into the condition of a faint-hearted diver who has paused so long on the brink that he will never go in at all.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-18.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-18.html"
 ---
 
 Shotwell Junior discovered in due course of time the memoranda of the repeated messages which Palla had telephoned to his several clubs, asking him to call her up immediately.

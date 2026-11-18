@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - It Was Solomon’s Fault"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-22.html"
 ---
 
 Reddy Woodpecker had a very good reason for not laughing when he met Solomon Owl. Of course, he knew nothing whatever of Solomon’s new hiding place in the haystack. And that very morning Reddy had invited a party of friends to go with him to the hemlock grove where Solomon Owl had always lived, “to have some fun,” as Reddy had explained.

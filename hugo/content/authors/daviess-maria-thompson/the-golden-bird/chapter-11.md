@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-11.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-11.html"
 ---
 
 The beginning of the twentieth century has witnessed many startling inventions, reforms, evolutions, and revolutions, but mankind generally is not aware that the most remarkable result of many combined new forces is a woman whose intellect can go on functioning at the same time that her heart is aching with either requited or unrequited love. Just ten days after I had been jilted, instead of lying in a darkened room in hysterics, I went into a light corner of the barn, sat down on an upturned seed-bucket, took my farm-book on my knee, wet my pencil between my lips, and began to figure up the account between Evan Adam Baldwin and myself. First, I sat still for a long second and tried to set a price on myself the hour before I had first encountered him out on the Riverfield ribbon on the day I had made my entry into rural life. And think as hard as I could I couldn't think up a single thing I had done worth while to my race; so I had to write a great cipher against myself. Then in another column I set down the word "assets," and after it I wrote, "The Golden Bird and family, eight hundred dollars." Then I thought intently back into the past and into the haircloth trunk and wrote, "Clothes, one hundred and fifty dollars."

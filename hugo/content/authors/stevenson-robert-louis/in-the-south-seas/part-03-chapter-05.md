@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5 - A Tale Of A Tapu—_continued"
 weight: 26
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-05.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-05.html"
 ---
 
 Tuesday, July 16.—It rained in the night, sudden and loud, in Gilbert Island fashion. Before the day, the crowing of a cock aroused me and I wandered in the compound and along the street. The squall was blown by, the moon shone with incomparable lustre, the air lay dead as in a room, and yet all the isle sounded as under a strong shower, the eaves thickly pattering, the lofty palms dripping at larger intervals and with a louder note. In this bold nocturnal light the interior of the houses lay inscrutable, one lump of blackness, save when the moon glinted under the roof, and made a belt of silver, and drew the slanting shadows of the pillars on the floor. Nowhere in all the town was any lamp or ember; not a creature stirred; I thought I was alone to be awake; but the police were faithful to their duty; secretly vigilant, keeping account of time; and a little later, the watchman struck slowly and repeatedly on the cathedral bell; four o’clock, the warning signal. It seemed strange that, in a town resigned to drunkenness and tumult, curfew and réveille should still be sounded and still obeyed.

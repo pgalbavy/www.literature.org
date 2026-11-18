@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-09.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-09.html"
 ---
 
 *NOT* long ago there was found everywhere in the Midland country a kind of wood then most characteristic of it but now almost disappeared, a vanishment not inexpressive of nature’s way of striking chords; for the wood is no longer so like the Midlands as it was. But in the days when Ornaby Addition struggled in embryo, hickory still grew in profusion, and that tough and seasoned old sample of it, Mr. Shelby, withstood at his office desk the hottest summer in several years. He permitted himself the alleviation of a palm-leaf fan, and when his open carriage came for him at a little before six o’clock, every afternoon, he had the elderly negro coachman drive him out to the end of the cedar-block pavement of Amberson Boulevard before going home; but on the day that began the hottest hot spell of the summer he forebore to indulge himself with this excursion, albeit he forebore somewhat peevishly.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Slicko’s New Home"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-08.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-08.html"
 ---
 
 Slicko, the jumping squirrel, found herself all huddled up in a heap in the soft, dark place. She did not feel much like jumping just then--indeed she could not have jumped if she had wished, for there was no room.

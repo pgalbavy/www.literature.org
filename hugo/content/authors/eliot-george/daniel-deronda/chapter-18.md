@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-18.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-18.html"
 ---
 
 Life is a various mother: now she dons Her plumes and brilliants, climbs the marble stairs With head aloft, nor ever turns her eyes On lackeys who attend her; now she dwells Grim-clad, up darksome allyes, breathes hot gin, And screams in pauper riot.

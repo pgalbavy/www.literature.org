@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Buster And The Fiddlers"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-20.html"
 ---
 
 There was a great rattling of knives and forks dropped suddenly upon plates and a clatter of cups set hastily upon saucers. For when the boy with the stomachache screamed aloud in his agony all of Farmer Green's guests turned towards him to see what was the matter.

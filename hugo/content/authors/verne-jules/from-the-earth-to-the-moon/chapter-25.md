@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-25.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-25.html"
 ---
 
 It was the 22nd of November; the departure was to take place in ten days. One operation alone remained to be accomplished to bring all to a happy termination; an operation delicate and perilous, requiring infinite precautions, and against the success of which Captain Nicholl had laid his third bet. It was, in fact, nothing less than the loading of the Columbiad, and the introduction into it of 400,000 pounds of gun-cotton. Nicholl had thought, not perhaps without reason, that the handling of such formidable quantities of pyroxyle would, in all probability, involve a grave catastrophe; and at any rate, that this immense mass of eminently inflammable matter would inevitably ignite when submitted to the pressure of the projectile.

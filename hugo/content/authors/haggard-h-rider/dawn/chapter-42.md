@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 43
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-42.html"
+url: "/authors/haggard-h-rider/dawn/chapter-42.html"
 ---
 
 "Why, Arthur, I had almost forgotten what you are like," said Mildred, when that young gentleman at last put in an appearance at the Quinta. "Where have you been to all this time?"

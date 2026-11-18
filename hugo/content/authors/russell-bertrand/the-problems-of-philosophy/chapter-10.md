@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - On Our Knowledge Of Universals"
 weight: 11
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-10.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-10.html"
 ---
 
 In regard to one man's knowledge at a given time, universals, like particulars, may be divided into those known by acquaintance, those known only by description, and those not known either by acquaintance or by description.

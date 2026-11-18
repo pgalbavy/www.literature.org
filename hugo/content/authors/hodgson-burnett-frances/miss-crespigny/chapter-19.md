@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - And That Was The End Of It"
 weight: 19
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-19.html"
 ---
 
 The roses fell, one by one, in Miss Clarissa’s flower beds, and so at last did the palest autumn-bloom; the leaves dropped from the trees, and the winds from the sea began to blow across the sands, in chilly gusts. But Lisbeth stayed bravely on. Rainy days dragged by wearily enough, and cold ones made their appearance, but she did not give up even when Mrs. Despard wondered, and Georgie implored in weekly epistles. The winter routine of the Tregarthyn household was not exciting, but it was a sort of safeguard. Better dullness than something worse! Perhaps, in time, by spring, it might be different. And yet she could not say that she found her state of mind improving. And as to her body--well, Miss Clarissa might well sigh over her in secret. If she had been pale and thin before, she had not gained flesh and color. She persisted in her long walks in desperation, and came home after them, looking haggard and hollow-eyed. She wandered about the garden, in self-defense, and was no less tired. She followed Dr. Puddifoot’s directions to the letter, and, to the Misses Tregarthyn’s dismay, was not improved. In fact, as that great man, Dr. Puddifoot, observed, “Something was radically wrong.”

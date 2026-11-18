@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-06.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-06.html"
 ---
 
 There was no specific reason why Robert Fairchild should follow Maurice Rodaine and the young woman who had been described to him as the daughter of Judge Richmond, whoever he might be. And Fairchild sought for none--within two weeks he had been transformed from a plodding, methodical person into a creature of impulses, and more and more, as time went on, he was allowing himself to be governed by the snap judgment of his brain rather than by the carefully exacting mind of a systematic machine, such as he had been for the greater part of his adult life. All that he cared to know was that resentment was in his heart,--resentment that the family of Rodaine should be connected in some way with the piquant, mysterious little person he had helped out of a predicament on the Denver road the day before. And, to his chagrin, the very fact that there was a connection added a more sinister note to the escapade of the exploded tire and the pursuing sheriff; as he walked along, his gaze far ahead, Fairchild found himself wondering whether there could be more than mere coincidence in it all, whether she was a part of the Rodaine schemes and the Rodaine trickery, whether--

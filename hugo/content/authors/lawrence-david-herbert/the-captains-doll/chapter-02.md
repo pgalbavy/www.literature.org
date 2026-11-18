@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-02.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-02.html"
 ---
 
 Countess zu Rassentlow had a studio in one of the main streets. She was really a refugee. And nowadays you can be a grand-duke and a pauper, if you are a refugee. But Hannele was not a pauper, because she and her friend Mitchka had the studio where they made these dolls, and beautiful cushions of embroidered coloured wools, and such-like objects of feminine art. The dolls were quite famous, so the two women did not starve.

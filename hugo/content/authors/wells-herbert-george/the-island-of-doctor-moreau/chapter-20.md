@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Alone With The Beast Folk"
 weight: 21
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-20.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-20.html"
 ---
 
 I FACED these people, facing my fate in them, single-handed now,-- literally single-handed, for I had a broken arm. In my pocket was a revolver with two empty chambers. Among the chips scattered about the beach lay the two axes that had been used to chop up the boats. The tide was creeping in behind me. There was nothing for it but courage. I looked squarely into the faces of the advancing monsters. They avoided my eyes, and their quivering nostrils investigated the bodies that lay beyond me on the beach. I took half-a-dozen steps, picked up the blood-stained whip that lay beneath the body of the Wolf-man, and cracked it. They stopped and stared at me.

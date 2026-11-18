@@ -1,8 +1,7 @@
 ---
 title: "Book 7 - Chapter 3"
 weight: 135
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-07-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-07-chapter-03.html"
 ---
 
 The weather was already growing wintry and morning frosts congealed an earth saturated by autumn rains. The verdure had thickened and its bright green stood out sharply against the brownish strips of winter rye trodden down by the cattle, and against the pale-yellow stubble of the spring buckwheat. The wooded ravines and the copses, which at the end of August had still been green islands amid black fields and stubble, had become golden and bright-red islands amid the green winter rye. The hares had already half changed their summer coats, the fox cubs were beginning to scatter, and the young wolves were bigger than dogs. It was the best time of the year for the chase. The hounds of that ardent young sportsman Rostov had not merely reached hard winter condition, but were so jaded that at a meeting of the huntsmen it was decided to give them a three days' rest and then, on the sixteenth of September, to go on a distant expedition, starting from the oak grove where there was an undisturbed litter of wolf cubs.

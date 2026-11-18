@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Hand Of Fate"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-18.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-18.html"
 ---
 
 The swift hand of fate, which had hurled Denver from the heights into the depths of dark despair, suddenly snatched him up out of the abyss again and whisked him back to Globe. When he walked out of Moroni his mind was a blank, so overcome was his body with heat and toil and the astounding turns of his fortune; but at the next station below, as he was trying to steal a ride, a man had dropped off the train and dragged him, willy nilly, into his Pullman. It was a mining superintendent who had seen him in action when he was timbering the Last Chance stope, and in spite of his protests he paid his fare to Globe and put him to work down a shaft.

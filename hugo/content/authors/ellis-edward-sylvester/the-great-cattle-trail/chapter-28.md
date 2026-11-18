@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Mishap"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-28.html"
 ---
 
 The weather cleared toward morning, and the sun rose without a cloud obscuring its face. The halt had been made along a small tributary of the Wichita, whose upper waters flow through the country of the Kiowas, Comanches, and Apaches, that of the Cheyennes and Arapahoes lying further north.

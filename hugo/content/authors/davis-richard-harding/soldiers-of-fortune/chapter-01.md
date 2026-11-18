@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-01.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-01.html"
 ---
 
 "It is so good of you to come early," said Mrs. Porter, as Alice Langham entered the drawing-room. "I want to ask a favor of you. I'm sure you won't mind. I would ask one of the debutantes, except that they're always so cross if one puts them next to men they don't know and who can't help them, and so I thought I'd just ask you, you're so good-natured. You don't mind, do you?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Lovers Dear"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-04.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-04.html"
 ---
 
 "Peter!" gasped Margaret--"_Peter!_"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-06.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-06.html"
 ---
 
 The following conversation, which took place between the two friends in the pump-room one morning, after an acquaintance of eight or nine days, is given as a specimen of their very warm attachment, and of the delicacy, discretion, originality of thought, and literary taste which marked the reasonableness of that attachment.

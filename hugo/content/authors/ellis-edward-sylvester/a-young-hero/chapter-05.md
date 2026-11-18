@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Brave Work"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-05.html"
 ---
 
 When Fred Sheldon turned on his heel and saw the outlines of the tramp in the room behind him he gave a start and exclamation of fear, as the bravest man might have done under the circumstances.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - How The Margaret Won Out To Sea"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-25.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-25.html"
 ---
 
 It was night. Peter, faint with loss of blood and stiff with bruises, had bade his farewell to their Majesties of Spain, who spoke many soft words to him, calling him the Flower of Knighthood, and offering him high place and rank if he would abide in their service. But he thanked them and said No, for in Spain he had suffered too much to dwell there. So they kissed his bride, the fair Margaret, who clung to her wounded husband like ivy to an oak, and would not be separated from him, even for a moment, that husband whom living she had scarcely hoped to clasp again. Yes, they kissed her, and the queen threw about her a chain from her own neck as a parting gift, and wished her joy of so gallant a lord.

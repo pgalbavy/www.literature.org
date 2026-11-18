@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Mr. Brown"
 weight: 27
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-26.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-26.html"
 ---
 
 *SIR* James’s words came like a bomb-shell. Both girls looked equally puzzled. The lawyer went across to his desk, and returned with a small newspaper cutting, which he handed to Jane. Tuppence read it over her shoulder. Mr. Carter would have recognized it. It referred to the mysterious man found dead in New York.

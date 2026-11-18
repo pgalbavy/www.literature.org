@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12 - Events South Of The Border"
 weight: 31
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-12.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-12.html"
 ---
 
 Thwaite was finishing a solitary dinner and attempting to find interest in a novel when his butler came with news that the telephone bell was ringing in the gun-room. Thwaite, being tired and cross, told him to answer it himself, expecting some frivolous message about supplies. The man returned in a little with word that he could not understand it. Then Thwaite arose, blessing him, and went to see. The telegraph office proper was on the other side of the river, on the edge of the native town, but a telephone had been established to the garrison.

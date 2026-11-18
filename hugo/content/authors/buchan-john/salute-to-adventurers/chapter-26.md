@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Shalah"
 weight: 27
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-26.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-26.html"
 ---
 
 I came out of the wood a new being. My wounded arm and my torn and inflamed limbs were forgotten. I held my head high, and walked like a free man. It was not that I had slain my enemy and been delivered from deadly peril, nor had I any clearer light on my next step. But I had suddenly got the conviction that God was on my side, and that I need not fear what man could do unto me. You may call it the madness of a lad whose body and spirit had been tried to breaking-point. But, madness or no, it gave me infinite courage, and in that hour I would have dared every savage on earth.

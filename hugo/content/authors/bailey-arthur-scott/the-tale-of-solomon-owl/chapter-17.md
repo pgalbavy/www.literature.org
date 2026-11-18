@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Cousin Simon Screecher"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-17.html"
 ---
 
 Solomon Owl had a small cousin named Simon Screecher. He was unlike Solomon in some respects, because he always wore ear-tufts, and his eyes were yellow instead of black. But in some other ways he was no different from Solomon Owl, for he was a noisy chap and dearly loved mice—to eat.

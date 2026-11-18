@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8 - Monseigneur in the Country"
 weight: 14
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-08.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-08.html"
 ---
 
 A BEAUTIFUL LANDSCAPE, with the corn bright in it, but not abundant. Patches of poor rye where corn should have been, patches of poor peas and beans, patches of most coarse vegetable substitutes for wheat. On inanimate nature, as on the men and women who cultivated it, a prevalent tendency towards an appearance of vegetating unwillingly- a dejected disposition to give up, and wither away.

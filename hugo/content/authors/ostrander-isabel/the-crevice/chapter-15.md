@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Checkmate!"
 weight: 15
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-15.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-15.html"
 ---
 
 Henry Blaine was allowed scant opportunity for reflection, in the hour which intervened between his telephone message to Anita and the time of his appointment with her. Scarcely had he hung up the receiver once more when his secretary announced the arrival of Fifine Déchaussée.

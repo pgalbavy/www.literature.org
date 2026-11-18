@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - A Turning Of The Tables"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-21.html"
 ---
 
 The boys were in no doubt as to the author of this startling break in the mountain stillness. It was their own burro that had given out the unearthly roar, and they were confident of being close upon the trail of the two men who were making off with the gold. But a moment later, round the corner in front of them, the donkey's head came into view, his long ears flapping, as if training themselves for the fight with mosquitoes that would soon come. The animal was walking slowly, but the astonishing fact immediately appeared that he was not only without any load on his back, but was unaccompanied by either Hardman or his confederate.

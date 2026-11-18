@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - In Which The King And The Lieutenant Each Give Proofs Of Memory"
 weight: 14
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-14.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-14.html"
 ---
 
 When the king, like all the people in the world who are in love, had long and attentively watched disappear in the distance the carriage which bore away his mistress; when he had turned and turned again a hundred times to the same side and had at length succeeded in somewhat calming the agitation of his heart and thoughts, he recollected that he was not alone. The officer still held the horse by the bridle, and had not lost all hope of seeing the king recover his resolution. He had still the resource of mounting and riding after the carriage; they would have lost nothing by waiting a little. But the imagination of the lieutenant of the musketeers was too rich and too brilliant; it left far behind it that of the king, who took care not to allow himself to be carried away to any such excess. He contented himself with approaching the officer, and in a doleful voice, "Come," said he, "let us be gone; all is ended. To horse!"

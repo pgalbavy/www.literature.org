@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Queer Toadstool"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-10.html"
 ---
 
 Mr. Crow did exactly as he said he would. After the time he was caught out in the shower and got wet he never went even the shortest distance away from home without his umbrella. And he wouldn't even let anybody take his umbrella, in order to look at it.

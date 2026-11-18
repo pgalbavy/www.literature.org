@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-14.html"
+url: "/authors/austen-jane/persuasion/chapter-14.html"
 ---
 
 Though Charles and Mary had remained at Lyme much longer after Mr and Mrs Musgrove's going than Anne conceived they could have been at all wanted, they were yet the first of the family to be at home again; and as soon as possible after their return to Uppercross they drove over to the Lodge. They had left Louisa beginning to sit up; but her head, though clear, was exceedingly weak, and her nerves susceptible to the highest extreme of tenderness; and though she might be pronounced to be altogether doing very well, it was still impossible to say when she might be able to bear the removal home; and her father and mother, who must return in time to receive their younger children for the Christmas holidays, had hardly a hope of being allowed to bring her with them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Nightmare"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-09.html"
 ---
 
 THE BLACKS OF the village of Mbonga, the chief, were feasting, while above them in a large tree sat Tarzan of the Apes--grim, terrible, empty, and envious. Hunting had proved poor that day, for there are lean days as well as fat ones for even the greatest of the jungle hunters. Oftentimes Tarzan went empty for more than a full sun, and he had passed through entire moons during which he had been but barely able to stave off starvation; but such times were infrequent.

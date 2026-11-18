@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - On The Way To The Village"
 weight: 6
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-06.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-06.html"
 ---
 
 Alban Morris--discovered by Emily in concealment among the trees--was not content with retiring to another part of the grounds. He pursued his retreat, careless in what direction it might take him, to a footpath across the fields, which led to the highroad and the railway station.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - When June Came"
 weight: 15
-aliases:
-  - "/authors/tarkington-booth/the-two-vanrevels/chapter-15.html"
+url: "/authors/tarkington-booth/the-two-vanrevels/chapter-15.html"
 ---
 
 "Methought I met a Damsel Fair And tears were in her eyes; Her head and arms were bare, I heard her bursting sighs.

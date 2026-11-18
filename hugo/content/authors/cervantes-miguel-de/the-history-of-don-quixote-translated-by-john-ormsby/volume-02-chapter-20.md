@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 20 - Wherein An Account Is Given Of The Wedding Of Camacho The Rich, Together With The Incident Of Basilio The Poor"
 weight: 76
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-20.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-20.html"
 ---
 
 Scarce had the fair Aurora given bright Phœbus time to dry the liquid pearls upon her golden locks with the heat of his fervent rays, when Don Quixote, shaking off sloth from his limbs, sprang to his feet and called to his squire Sancho, who was still snoring; seeing which Don Quixote ere he roused him thus addressed him: "Happy thou, above all the dwellers on the face of the earth, that, without envying or being envied, sleepest with tranquil mind, and that neither enchanters persecute nor enchantments affright. Sleep, I say, and will say a hundred times, without any jealous thoughts of thy mistress to make thee keep ceaseless vigils, or any cares as to how thou art to pay the debts thou owest, or find to-morrow’s food for thyself and thy needy little family, to interfere with thy repose. Ambition breaks not thy rest, nor doth this world’s empty pomp disturb thee, for the utmost reach of thy anxiety is to provide for thy ass, since upon my shoulders thou hast laid the support of thyself, the counterpoise and burden that nature and custom have imposed upon masters. The servant sleeps and the master lies awake thinking how he is to feed him, advance him, and reward him. The distress of seeing the sky turn brazen, and withhold its needful moisture from the earth, is not felt by the servant but by the master, who in time of scarcity and famine must support him who has served him in times of plenty and abundance."

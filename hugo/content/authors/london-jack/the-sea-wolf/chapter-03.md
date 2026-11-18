@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-03.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-03.html"
 ---
 
 Wolf Larsen ceased swearing as suddenly as he had begun. He relighted his cigar and glanced around. His eyes chanced upon the cook.

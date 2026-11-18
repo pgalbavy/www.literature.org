@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Through The Woods"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-16.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-16.html"
 ---
 
 The autumn quiet at Roya-Neh was intensely agreeable to Scott Seagrave. No social demands interfered with a calm and dignified contemplation of the Rose-beetle, *Melolontha subspinosa*, and his scandalous "Life History"; there was no chatter of girls from hall and stairway to distract the loftier inspirations that possessed him, no intermittent soprano noises emitted by fluttering feminine fashion, no calflike barytones from masculine adolescence to drive him to the woods, where it was always rather difficult for him to focus his attention on printed pages. The balm of heavenly silence pervaded the house, and in its beneficent atmosphere he worked in his undershirt, inhaling inspiration and the aroma of whale-oil, soap, and carbolic solutions.

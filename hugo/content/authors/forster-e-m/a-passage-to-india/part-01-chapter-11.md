@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-11.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-11.html"
 ---
 
 Although the Indians had driven off, and Fielding could see his horse standing in a small shed in the corner of the compound, no one troubled to bring it to him. He started to get it himself, but was stopped by a call from the house. Aziz was sitting up in bed, looking dishevelled and sad. “Here’s your home,” he said sardonically. “Here’s the celebrated hospitality of the East. Look at the flies. Look at the chunam coming off the walls. Isn’t it jolly? Now I suppose you want to be off, having seen an Oriental interior.”

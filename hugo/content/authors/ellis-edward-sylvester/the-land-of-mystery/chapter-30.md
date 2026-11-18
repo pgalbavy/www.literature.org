@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - A Guess"
 weight: 30
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-30.html"
 ---
 
 Standing in the door of the building, his figure so wrapped in gloom that it was invisible to the fierce Murhapas, Professor Grimcke cautiously peered out upon the multitude that were clamorously seeking the death of himself and comrade.

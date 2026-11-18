@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Discoveries In The Garden"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-05.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-05.html"
 ---
 
 Left by herself, Miss de Sor turned back again by way of the trees.

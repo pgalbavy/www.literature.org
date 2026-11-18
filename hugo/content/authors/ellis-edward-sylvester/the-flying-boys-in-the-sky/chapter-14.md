@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Milo Morgan Saves The Day"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-14.html"
 ---
 
 As straight downward as if fired from the zenith, a tiny missile shot through the air so swiftly that no one saw it. It struck the ground directly in front of the four men and burst with a deafening report. In the same second, another followed the first, landing just behind the group with the same terrifying explosion. All saw the flash, the smoke and the flying particles.

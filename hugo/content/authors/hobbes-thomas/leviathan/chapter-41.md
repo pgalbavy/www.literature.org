@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Of The Office Of Our Blessed Saviour"
 weight: 43
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-41.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-41.html"
 ---
 
 Three Parts Of The Office Of Christ We find in Holy Scripture three parts of the Office of the Messiah: the first of a Redeemer, or Saviour: The second of a Pastor, Counsellour, or Teacher, that is, of a Prophet sent from God, to convert such as God hath elected to Salvation; The third of a King, and Eternall King, but under his Father, as Moses and the High Priests were in their severall times. And to these three parts are corespondent three times. For our Redemption he wrought at his first coming, by the Sacrifice, wherein he offered up himself for our sinnes upon the Crosse: our conversion he wrought partly then in his own Person; and partly worketh now by his Ministers; and will continue to work till his coming again. And after his coming again, shall begin that his glorious Reign over his elect, which is to last eternally.

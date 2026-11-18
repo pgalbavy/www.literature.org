@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - My Aunt Makes Up Her Mind About Me"
 weight: 15
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-14.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-14.html"
 ---
 
 On going down in the morning, I found my aunt musing so profoundly over the breakfast table, with her elbow on the tray, that the contents of the urn had overflowed the teapot and were laying the whole table-cloth under water, when my entrance put her meditations to flight. I felt sure that I had been the subject of her reflections, and was more than ever anxious to know her intentions towards me. Yet I dared not express my anxiety, lest it should give her offence.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - In Which A Mysterious Character Appears Upon The Scene; And Many Things, Inseparable From This History, Are Done And Performed"
 weight: 26
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-26.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-26.html"
 ---
 
 The old man had gained the street corner, before he began to recover the effect of Toby Crackit's intelligence. He had relaxed nothing of his unusual speed; but was still pressing onward, in the same wild and disordered manner, when the sudden dashing past of a carriage: and a boisterous cry from the foot passengers, who saw his danger: drove him back upon the pavement. Avoiding, as much as was possible, all the main streets, and skulking only through the by-ways and alleys, he at length emerged on Snow Hill. Here he walked even faster than before; nor did he linger until he had again turned into a court; when, as if conscious that he was now in his proper element, he fell into his usual shuffling pace, and seemed to breathe more freely.

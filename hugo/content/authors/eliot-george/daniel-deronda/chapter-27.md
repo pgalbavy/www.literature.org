@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-27.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-27.html"
 ---
 
 Desire has trimmed the sails, and Circumstance Brings but the breeze to fill them.

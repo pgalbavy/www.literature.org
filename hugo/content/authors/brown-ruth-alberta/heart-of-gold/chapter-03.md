@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Gussie's New Play"
 weight: 3
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-03.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-03.html"
 ---
 
 The day following this unexpected meeting of the Gleaners, the invalid spent in slumber, so exhausted was she by her efforts to get the obnoxious books completed and out of the way; but the second day she was herself again and restlessly eager for some new diversion; and here it was that Gussie came to the rescue. It had been a hard day for them all. Outside the rain poured down in torrents, driven by a cold, fitful wind which seemed more like the blast of winter than the herald of returning spring; and inside even the cheerful glow of the open fires could not dispel the gloom and dampness of the storm without. It is just such a day as makes well folks cross and disgusted, and the poor, unwilling prisoner in the Flag Room upstairs felt forlorn indeed as she gazed down the deserted, flooded streets and across the soaked, sodden lawns which only yesterday had whispered of the coming of summer.

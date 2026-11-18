@@ -1,8 +1,7 @@
 ---
 title: "chapter 15"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-15.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-15.html"
 ---
 
 Trot and Pon covered many leagues of ground, searching through forests, in fields and in many of the little villages of Jinxland, but could find no trace of either Cap'n Bill or Button-Bright. Finally they paused beside a cornfield and sat upon a stile to rest. Pon took some apples from his pocket and gave one to Trot. Then he began eating another himself, for this was their time for luncheon. When his apple was finished Pon tossed the core into the field.

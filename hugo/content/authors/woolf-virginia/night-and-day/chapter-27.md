@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-27.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-27.html"
 ---
 
 London, in the first days of spring, has buds that open and flowers that suddenly shake their petals—white, purple, or crimson—in competition with the display in the garden beds, although these city flowers are merely so many doors flung wide in Bond Street and the neighborhood, inviting you to look at a picture, or hear a symphony, or merely crowd and crush yourself among all sorts of vocal, excitable, brightly colored human beings. But, all the same, it is no mean rival to the quieter process of vegetable florescence. Whether or not there is a generous motive at the root, a desire to share and impart, or whether the animation is purely that of insensate fervor and friction, the effect, while it lasts, certainly encourages those who are young, and those who are ignorant, to think the world one great bazaar, with banners fluttering and divans heaped with spoils from every quarter of the globe for their delight.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - First Lessons In The Art Of Instruction"
 weight: 2
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-02.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-02.html"
 ---
 
 AS we drove along, my spirits revived again, and I turned, with pleasure, to the contemplation of the new life upon which I was entering. But though it was not far past the middle of September, the heavy clouds and strong north-easterly wind combined to render the day extremely cold and dreary; and the journey seemed a very long one, for, as Smith observed, the roads were 'very heavy'; and certainly, his horse was very heavy too: it crawled up the hills, and crept down them, and only condescended to shake its sides in a trot where the road was at a dead level or a very gentle slope, which was rarely the case in those rugged regions; so that it was nearly one o'clock before we reached the place of our destination. Yet, after all, when we entered the lofty iron gateway, when we drove softly up the smooth, well-rolled carriage-road, with the green lawn on each side, studded with young trees, and approached the new but stately mansion of Wellwood, rising above its mushroom poplar-groves, my heart failed me, and I wished it were a mile or two farther off. For the first time in my life I must stand alone: there was no retreating now. I must enter that house, and introduce myself among its strange inhabitants. But how was it to be done? True, I was near nineteen; but, thanks to my retired life and the protecting care of my mother and sister, I well knew that many a girl of fifteen, or under, was gifted with a more womanly address, and greater ease and self-possession, than I was. Yet, if Mrs. Bloomfield were a kind, motherly woman, I might do very well, after all; and the children, of course, I should soon be at ease with them - and Mr. Bloomfield, I hoped, I should have but little to do with.

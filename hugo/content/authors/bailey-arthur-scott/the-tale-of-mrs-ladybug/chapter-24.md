@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Mrs. Green's Mistake"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-24.html"
 ---
 
 MRS. LADYBUG spoke at last. Her listeners crowded close about her, jostling one another in their eagerness to hear every word she said. For Mrs. Ladybug was recounting her adventures at the farmhouse.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-18.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-18.html"
 ---
 
 Josiah's face wuz smooth and placid, he hadn't took a mite of sense of what I had been a-sayin', and I knew it. Men don't. They know at the most it is only talk, wimmen hain't got it in their power to do anything. And I s'pose they reason on it in this way - a little wind storm is soon over, it relieves old Natur and don't hurt anything.

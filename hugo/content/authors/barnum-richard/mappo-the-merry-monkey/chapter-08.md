@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Mappo And His Tricks"
 weight: 8
-aliases:
-  - "/authors/barnum-richard/mappo-the-merry-monkey/chapter-08.html"
+url: "/authors/barnum-richard/mappo-the-merry-monkey/chapter-08.html"
 ---
 
 Mappo, the merry monkey, gave one look at the big dog rushing at him, and then, with a chatter of fright, sprang right up on the shoulder of the circus man. There Mappo sat, shivering, and looking down at the dog who kept on barking.

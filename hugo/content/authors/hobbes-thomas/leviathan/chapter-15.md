@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Of Other Lawes Of Nature"
 weight: 17
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-15.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-15.html"
 ---
 
 The Third Law Of Nature, Justice From that law of Nature, by which we are obliged to transferre to another, such Rights, as being retained, hinder the peace of Mankind, there followeth a Third; which is this, That Men Performe Their Covenants Made: without which, Covenants are in vain, and but Empty words; and the Right of all men to all things remaining, wee are still in the condition of Warre.

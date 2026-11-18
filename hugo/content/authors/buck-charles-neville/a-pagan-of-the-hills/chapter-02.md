@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-02.html"
+url: "/authors/buck-charles-neville/a-pagan-of-the-hills/chapter-02.html"
 ---
 
 Through the tree tops came a confusion of voices, but none of them human. A wind was racing to almost gale-like violence and with it came the inrush of warm air to peaks and valleys that had been tight-frozen. Between precipices echoed the crash of ice sliding loose and splintering as it fell in ponderous masses. Men sweating in the glare of collossal bonfires toiled at the work of re-inforcing the dam.

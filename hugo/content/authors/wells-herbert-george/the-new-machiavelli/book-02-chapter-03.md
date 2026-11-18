@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 3 - Margaret In Venice"
 weight: 7
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-03.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-02-chapter-03.html"
 ---
 
 1

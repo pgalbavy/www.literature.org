@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/conrad-joseph/lord-jim/chapter-28.html"
+url: "/authors/conrad-joseph/lord-jim/chapter-28.html"
 ---
 
 28

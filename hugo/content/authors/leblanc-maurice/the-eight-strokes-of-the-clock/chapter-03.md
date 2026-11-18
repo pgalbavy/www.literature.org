@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Case Of Jean Louis"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-03.html"
+url: "/authors/leblanc-maurice/the-eight-strokes-of-the-clock/chapter-03.html"
 ---
 
 "Monsieur," continued the young girl, addressing Serge Rénine, "it was while I was spending the Easter holidays at Nice with my father that I made the acquaintance of Jean Louis d'Imbleval...."

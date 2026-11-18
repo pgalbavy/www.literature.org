@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Something Is Done"
 weight: 2
-aliases:
-  - "/authors/london-jack/adventure/chapter-02.html"
+url: "/authors/london-jack/adventure/chapter-02.html"
 ---
 
 In the morning David Sheldon decided that he was worse. That he was appreciably weaker there was no doubt, and there were other symptoms that were unfavourable. He began his rounds looking for trouble. He wanted trouble. In full health, the strained situation would have been serious enough; but as it was, himself growing helpless, something had to be done. The blacks were getting more sullen and defiant, and the appearance of the men the previous night on his veranda--one of the gravest of offences on Berande--was ominous. Sooner or later they would get him, if he did not get them first, if he did not once again sear on their dark souls the flaming mastery of the white man.

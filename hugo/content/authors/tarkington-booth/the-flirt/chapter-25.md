@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-25.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-25.html"
 ---
 
 There is a song of parting, an intentionally pathetic song, which contains the line, "All the tomorrows shall be as to-day," meaning equally gloomy. Young singers, loving this line, take care to pronounce the words with unusual distinctness: the listener may feel that the performer has the capacity for great and consistent suffering. It is not, of course, that youth loves unhappiness, but the appearance of it, its supposed picturesqueness. Youth runs from what is pathetic, but hangs fondly upon pathos. It is the idea of sorrow, not sorrow, which charms: and so the young singer dwells upon those lingering tomorrows, happy in the conception of a permanent wretchedness incurred in the interest of sentiment. For youth believes in permanence.

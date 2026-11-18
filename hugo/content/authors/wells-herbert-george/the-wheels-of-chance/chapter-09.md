@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - How Mr. Hoopdriver Was Haunted "
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-09.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-09.html"
 ---
 
 As Mr. Hoopdriver rode swaggering along the Ripley road, it came to him, with an unwarrantable sense of comfort, that he had seen the last of the Young Lady in Grey. But the ill-concealed bladery of the machine, the present machinery of Fate, the deus ex machina, so to speak, was against him. The bicycle, torn from this attractive young woman, grew heavier and heavier, and continually more unsteady. It seemed a choice between stopping at Ripley or dying in the flower of his days. He went into the Unicorn, after propping his machine outside the door, and, as he cooled down and smoked his Red Herring cigarette while the cold meat was getting ready, he saw from the window the Young Lady in Grey and the other man in brown, entering Ripley.

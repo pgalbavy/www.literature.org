@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tolstoy-leo/father-sergius/chapter-02.html"
+url: "/authors/tolstoy-leo/father-sergius/chapter-02.html"
 ---
 
 Kasatsky entered the monastery on the feast of the Intercession of the Blessed Virgin. The Abbot of that monastery was a gentleman by birth, a learned writer and a starets, that is, he belonged to that succession of monks originating in Walachia who each choose a director and teacher whom they implicitly obey. This Superior had been a disciple of the starets Ambrose, who was a disciple of Makarius, who was a disciple of the starets Leonid, who was a disciple of Paussy Velichkovsky.

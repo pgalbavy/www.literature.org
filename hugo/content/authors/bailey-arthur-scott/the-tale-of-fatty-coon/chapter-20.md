@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Tracks In The Snow"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-20.html"
 ---
 
 One fine winter's day Fatty Coon came upon the queerest tracks in the snow. They were huge--a great deal bigger, even, than bear-tracks, which Fatty had sometimes seen, for once in a while, before the weather grew too cold, and he fell into his winter's sleep, a bear would come down into the valley from his home on Blue Mountain.

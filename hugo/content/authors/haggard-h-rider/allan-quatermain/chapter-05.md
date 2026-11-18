@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Umslopogaas Makes A Promise"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-05.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-05.html"
 ---
 
 Next morning at breakfast I missed Flossie and asked where she was.

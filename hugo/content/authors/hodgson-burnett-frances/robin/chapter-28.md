@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-28.html"
 ---
 
 But even after this Dowie did not ask questions. She only watched more carefully and waited to be told what the depths of her being most yearned to hear. The gradually founded belief of her careful prosaic life prevented ease of mind or a sense of security. She could not be certain that it would be the part of wisdom to allow herself to feel secure. She did not wish to arouse Doctor Benton's professional anxiety by asking questions about Lady Maureen Darcy, but, by a clever and adroitly gradual system of what was really cross examination which did not involve actual questions, she drew from him the name of the woman who had been Lady Maureen's chief nurse when the worst seemed impending. It was by fortunate chance the name of a woman she had once known well during a case of dangerous illness in an important household. She herself had had charge of the nursery and Nurse Darian had liked her because she had proved prompt and intelligent in an alarming crisis. They had become friends and Dowie knew she might write to her and ask for information and advice. She wrote a careful respectful letter which revealed nothing but that she was anxious about a case she had temporary charge of. She managed to have the letter posted in London and the answer forwarded to her from there. Nurse Darian's reply was generously full for a hard-working woman. It answered questions and was friendly. But the woman's war work had plainly led her to see and reflect upon the opening up of new and singular vistas.

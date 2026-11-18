@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - What Might Have Been Expected"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-03.html"
 ---
 
 Jack Carleton was too sensible a youth to suppose that the Lost Trail could be found by a blind wandering through the immense expanse of wilderness, which stretched hundreds of miles in almost every direction from the little settlement of Martinsville. Both he and Otto had a strong hope, when they reached home after their stirring adventure with Deerfoot, that the colt Toby would follow them of his own accord. He belonged to a species possessing such unusual intelligence that there would have been nothing remarkable in such a proceeding, and the fact that he did not do so, gave ground for the belief that he had fallen into the hands of parties who prevented the animal from doing as he chose.

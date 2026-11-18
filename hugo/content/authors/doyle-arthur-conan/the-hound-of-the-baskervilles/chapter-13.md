@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Fixing the Nets"
 weight: 13
-aliases:
-  - "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-13.html"
+url: "/authors/doyle-arthur-conan/the-hound-of-the-baskervilles/chapter-13.html"
 ---
 
 "We're at close grips at last," said Holmes as we walked together across the moor. "What a nerve the fellow has! How he pulled himself together in the face of what must have been a paralyzing shock when he found that the wrong man had fallen a victim to his plot. I told you in London, Watson, and I tell you now again, that we have never had a foeman more worthy of our steel."

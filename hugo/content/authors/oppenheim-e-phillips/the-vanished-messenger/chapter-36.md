@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-36.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-36.html"
 ---
 
 Mr. John P. Dunster removed the cigar from his teeth and gazed at the long white ash with the air of a connoisseur. He was stretched in a long chair, high up in the terraced gardens behind the Hall. At his feet were golden mats of yellow crocuses; long borders of hyacinths - pink and purple; beds of violets; a great lilac tree, with patches of blossom here and there forcing their way into a sunlit world. The sea was blue; the sheltered air where they sat was warm and perfumed. Mr. Dunster, who was occupying the position of a favoured guest, was feeling very much at home.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-22.html"
 ---
 
 It was not long before they left the passage and came to a great cave, so high that it must have reached nearly to the top of the mountain within which it lay. It was a magnificent cave, illumined by the soft, invisible light, so that everything in it could be plainly seen. The walls were of polished marble, white with veins of delicate colors running through it, and the roof was arched and fantastic and beautiful.

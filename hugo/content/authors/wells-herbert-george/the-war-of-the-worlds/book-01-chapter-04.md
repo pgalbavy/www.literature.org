@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4 - The Cylinder Opens"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-04.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-04.html"
 ---
 
 When I returned to the common the sun was setting. Scattered groups were hurrying from the direction of Woking, and one or two persons were returning. The crowd about the pit had increased, and stood out black against the lemon yellow of the sky--a couple of hundred people, perhaps. There were raised voices, and some sort of struggle appeared to be going on about the pit. Strange imaginings passed through my mind. As I drew nearer I heard Stent's voice:

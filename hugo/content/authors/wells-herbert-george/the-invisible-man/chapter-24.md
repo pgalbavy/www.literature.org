@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Plan That Failed"
 weight: 24
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-24.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-24.html"
 ---
 
 "But now," said Kemp, with a side glance out of the window, "what are we to do?"

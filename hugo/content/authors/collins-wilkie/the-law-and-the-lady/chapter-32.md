@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - A Specimen Of My Wisdom"
 weight: 32
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-32.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-32.html"
 ---
 
 THE scene must follow my erratic movements--the scene must close on London for a while, and open in Edinburgh. Two days had passed since Major Fitz-David's dinner-party. I was able to breathe again freely, after the utter destruction of all my plans for the future, and of all the hopes that I had founded on them. I could now see that I had been trebly in the wrong--wrong in hastily and cruelly suspecting an innocent woman; wrong in communicating my suspicions (without an attempt to verify them previously) to another person; wrong in accepting the flighty inferences and conclusions of Miserrimus Dexter as if they had been solid truths. I was so ashamed of my folly, when I thought of the past--so completely discouraged, so rudely shaken in my confidence in myself, when I thought of the future, that, for once in a way, I accepted sensible advice when it was offered to me. "My dear," said good old Benjamin, after we had thoroughly talked over my discomfiture on our return from the dinner-party, "judging by what you tell me of him, I don't fancy Mr. Dexter. Promise me that you will not go back to him until you have first consulted some person who is fitter to guide you through this dangerous business than I am.

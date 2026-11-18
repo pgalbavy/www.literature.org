@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 12 - More Birds Of Prey"
 weight: 29
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-12.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-12.html"
 ---
 
 Rogue Riderhood dwelt deep and dark in Limehouse Hole, among the riggers, and the mast, oar and block makers, and the boat-builders, and the sail-lofts, as in a kind of ship’s hold stored full of waterside characters, some no better than himself, some very much better, and none much worse. The Hole, albeit in a general way not over nice in its choice of company, was rather shy in reference to the honour of cultivating the Rogue’s acquaintance; more frequently giving him the cold shoulder than the warm hand, and seldom or never drinking with him unless at his own expense. A part of the Hole, indeed, contained so much public spirit and private virtue that not even this strong leverage could move it to good fellowship with a tainted accuser. But, there may have been the drawback on this magnanimous morality, that its exponents held a true witness before Justice to be the next unneighbourly and accursed character to a false one.

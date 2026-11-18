@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-09.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-09.html"
 ---
 
 Clarence Mills, invited to be present at the birthday evening, wrote in frolicsome terms, from which the young hostess judged that with him the progress of love was satisfactory. "My dear young relation, near Paddington Station, of course I will come to your show. If forced to leave early, you won't think me surly; I have to meet some one you know!" To this Gertie sent a card begging Miss Loriner to include herself in the invitation, and that young woman forwarded a telegram from Ewelme with the word "Delighted."

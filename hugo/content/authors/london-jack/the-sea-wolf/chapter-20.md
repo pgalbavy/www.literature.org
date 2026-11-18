@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-20.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-20.html"
 ---
 
 The remainder of the day passed uneventfully. The young slip of a gale, having wetted our gills, proceeded to moderate. The fourth engineer and the three oilers, after a warm interview with Wolf Larsen, were furnished with outfits from the slop-chests, assigned places under the hunters in the various boats and watches on the vessel, and bundled forward into the forecastle. They went protestingly, but their voices were not loud. They were awed by what they had already seen of Wolf Larsen's character, while the tale of woe they speedily heard in the forecastle took the last bit of rebellion out of them.

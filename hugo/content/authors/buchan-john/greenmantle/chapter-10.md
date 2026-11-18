@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Garden-House Of Suliman The Red"
 weight: 11
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-10.html"
+url: "/authors/buchan-john/greenmantle/chapter-10.html"
 ---
 
 We reached Rustchuk on January 10th, but by no means landed on that day. Something had gone wrong with the unloading arrangements, or more likely with the railway behind them, and we were kept swinging all day well out in the turbid river. On the top of this Captain Schenk got an ague, and by that evening was a blue and shivering wreck. He had done me well, and I reckoned I would stand by him. So I got his ship’s papers, and the manifests of cargo, and undertook to see to the trans-shipment. It wasn’t the first time I had tackled that kind of business, and I hadn’t much to learn about steam cranes. I told him I was going on to Constantinople and would take Peter with me, and he was agreeable. He would have to wait at Rustchuk to get his return cargo, and could easily inspan a fresh engineer.

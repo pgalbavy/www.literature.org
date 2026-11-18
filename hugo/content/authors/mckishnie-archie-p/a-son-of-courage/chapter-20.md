@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Billy Meets A Lovely Ghost"
 weight: 20
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-20.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-20.html"
 ---
 
 Billy found Croaker just where he thought he would be--clinging to the latch of the menagerie door and peering with one black eye through the chink above it at the owls, the while he hurled guttural insults at them.

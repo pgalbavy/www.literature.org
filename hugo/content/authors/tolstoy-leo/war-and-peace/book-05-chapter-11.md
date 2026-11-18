@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 11"
 weight: 95
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-05-chapter-11.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-05-chapter-11.html"
 ---
 
 Returning from his journey through South Russia in the happiest state of mind, Pierre carried out an intention he had long had of visiting his friend Bolkonski, whom he had not seen for two years.

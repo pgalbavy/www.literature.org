@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-08.html"
 ---
 
 "A Man overboard!"

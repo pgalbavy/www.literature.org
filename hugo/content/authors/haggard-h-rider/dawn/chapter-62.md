@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62"
 weight: 63
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-62.html"
+url: "/authors/haggard-h-rider/dawn/chapter-62.html"
 ---
 
 Next morning Arthur cashed his cheque, and started on his travels. He had no very clear idea why he was going back to Madeira, or what he meant to do when he got there; but then, at this painful stage of his existence, none of his ideas could be called clear. Though he did not realize it, what he was searching for was sympathy, female sympathy of course; for in trouble members of either sex gravitate instinctively to the other for comfort. Perhaps they do not quite trust their own, or perhaps they are afraid of being laughed at.

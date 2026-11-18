@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 17"
 weight: 32
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-17.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-17.html"
 ---
 
 She slept all night, without stirring, without dreaming, and awoke naturally and, for the first time in weeks, refreshed. She felt her old self, as if some depressing weight had been lifted, or a shadow had been swept away from between her and the sun. Her head was clear. The seeming iron band that had pressed it so hard was gone. She was cheerful. She even caught herself humming aloud as she divided the fish into messes for Mrs. Olsen, Maggie Donahue, and herself. She enjoyed her gossip with each of them, and, returning home, plunged joyfully into the task of putting the neglected house in order. She sang as she worked, and ever as she sang the magic words of the boy danced and sparkled among the notes: OAKLAND IS JUST A PLACE TO START FROM.

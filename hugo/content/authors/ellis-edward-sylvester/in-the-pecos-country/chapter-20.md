@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - An Uncomfortable Lodging"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-20.html"
 ---
 
 A more astounding surprise than before awaited the lad. His hair almost lifted itself as he found himself staring at vacancy, with no sign of a living person in sight. Whatever had been the cause of this mysterious performance, it was very apparent that the solution rested not with the young fugitive.

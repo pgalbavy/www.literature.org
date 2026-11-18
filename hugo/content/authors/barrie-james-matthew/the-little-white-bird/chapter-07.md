@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Last Of Timothy"
 weight: 7
-aliases:
-  - "/authors/barrie-james-matthew/the-little-white-bird/chapter-07.html"
+url: "/authors/barrie-james-matthew/the-little-white-bird/chapter-07.html"
 ---
 
 So accomplished a person as the reader must have seen at once that I made away with Timothy in order to give his little vests and pinafores and shoes to David, and, therefore, dear sir or madam, rail not overmuch at me for causing our painter pain. Know, too, that though his sympathy ran free I soon discovered many of his inquiries to be prompted by a mere selfish desire to save his boy from the fate of mine. Such are parents.

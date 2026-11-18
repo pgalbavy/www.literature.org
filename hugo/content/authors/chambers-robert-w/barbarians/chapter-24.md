@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Bubbles"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-24.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-24.html"
 ---
 
 An east wind was very likely to bring gas to the trenches north of the Sainte Lesse salient. A north wind, according to season, brought snow or rain or fog upon British, French, Belgian and Boche alike. Winds of the south carried distant exhalations from orchards and green fields into the pitted waste of ashes where that monstrous desolation stretched away beneath a thundering iron rain which beat all day, all night upon the dead flesh of the world.

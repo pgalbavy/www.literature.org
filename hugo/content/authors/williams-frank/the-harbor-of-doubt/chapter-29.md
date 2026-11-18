@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - A Fatal Letter"
 weight: 29
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-29.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-29.html"
 ---
 
 For the last of many days the light-housekeeper had watched from his aerie for the coming of the fleet--and had not been disappointed.

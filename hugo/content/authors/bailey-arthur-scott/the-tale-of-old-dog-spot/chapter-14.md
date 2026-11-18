@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Missing His Master"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-14.html"
 ---
 
 Johnnie Green went visiting one summer, after haying was done. Much to old dog Spot's disgust, Johnnie did not take him on this journey. But it was not Spot's fault that he was left at home. Had he not been shut up in the harness room in the barn when Johnnie drove the old horse Ebenezer out of the yard Spot would have followed beneath the buggy.

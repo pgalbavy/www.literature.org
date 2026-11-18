@@ -1,8 +1,7 @@
 ---
 title: "Adventure 3 - A Case Of Identity"
 weight: 3
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-03.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-03.html"
 ---
 
 “My dear fellow,” said Sherlock Holmes, as we sat on either side of the fire in his lodgings at Baker Street, “life is infinitely stranger than anything which the mind of man could invent. We would not dare to conceive the things which are really mere commonplaces of existence. If we could fly out of that window hand in hand, hover over this great city, gently remove the roofs, and peep in at the queer things which are going on, the strange coincidences, the plannings, the cross-purposes, the wonderful chains of events, working through generations, and leading to the most _outré_ results, it would make all fiction with its conventionalities and foreseen conclusions most stale and unprofitable.”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-20.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-20.html"
 ---
 
 The sun, dropping into a western sea of amber and opal, seemed to grow in diameter. Then it dipped until only a naming segment showed and the barriers darkened against the afterglow.

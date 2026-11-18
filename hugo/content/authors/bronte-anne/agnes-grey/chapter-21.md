@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The School"
 weight: 21
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-21.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-21.html"
 ---
 
 I LEFT Horton Lodge, and went to join my mother in our new abode at A-. I found her well in health, resigned in spirit, and even cheerful, though subdued and sober, in her general demeanour. We had only three boarders and half a dozen day-pupils to commence with; but by due care and diligence we hoped ere long to increase the number of both.

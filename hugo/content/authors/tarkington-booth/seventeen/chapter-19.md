@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - \"I Dunno Why It Is\""
 weight: 19
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-19.html"
+url: "/authors/tarkington-booth/seventeen/chapter-19.html"
 ---
 
 William extricated his arm, huskily muttering words which were lost in the general outcry, "Car's coming!" The young people poured out through the gate, and, as the car stopped, scrambled aboard. For a moment everything was hurried and confused. William struggled anxiously to push through to Miss Pratt and climb up beside her, but Mr. George Crooper made his way into the crowd in a beaming, though bull-like manner, and a fat back in a purple-and-white "blazer" flattened William's nose, while ponderous heels damaged William's toes; he was shoved back, and just managed to clamber upon the foot-board as the car started. The friendly hand of Joe Bullitt pulled him to a seat, and William found himself rubbing his nose and sitting between Joe and Johnnie Watson, directly behind the dashing Crooper and Miss Pratt. Mr. Crooper had already taken Flopit upon his lap.

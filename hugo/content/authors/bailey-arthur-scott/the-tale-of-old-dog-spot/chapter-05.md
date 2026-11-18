@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Deep Secret"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-dog-spot/chapter-05.html"
 ---
 
 Old Spot wouldn't let Johnnie Green alone. He kept jumping against him and whining, begging him to move some of the wood, because there was something very, very interesting beneath it.

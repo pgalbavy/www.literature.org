@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Peace Surprises The Ladies' Aid"
 weight: 7
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-07.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-07.html"
 ---
 
 "Girls, here are some eggs to be delivered," said Gail one snowy December day as Cherry and Peace came stamping in from school. "One basket goes to Judge Abbott's, and the other to Dr. Bainbridge's."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-17.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-17.html"
 ---
 
 About midday Clydesdale, who had returned to his house from a morning visit to his attorney in Liberty Street, was summoned to the telephone.

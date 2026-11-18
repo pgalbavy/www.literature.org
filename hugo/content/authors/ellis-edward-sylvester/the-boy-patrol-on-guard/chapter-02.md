@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Lost In The Woods"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-02.html"
 ---
 
 At Boothbay Harbor, Mike Murphy hired Sherb Doloff to take him in his small motor boat *Sunshine* to Hailstone Point. It was the season when the days are long, and the sun was only a little past meridian as the small boat chug-chugged up beside the projecting finger of land and the eager Mike leaped ashore.

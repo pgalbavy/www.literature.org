@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Loan To Captain Landon"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-04.html"
 ---
 
 The elder Murphy looked at his son with a quizzical expression and then glanced at the hat which had been hung on a peg behind the door.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 124 - The Needle"
 weight: 124
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-124.html"
+url: "/authors/melville-herman/moby-dick/chapter-124.html"
 ---
 
 Next morning the not-yet-subsided sea rolled in long slow billows of mighty bulk, and striving in the Pequod's gurgling track, pushed her on like giants' palms outspread. The strong unstaggering breeze abounded so, that sky and air seemed vast outbellying sails; the whole world boomed before the wind. Muffled in the full morning light, the invisible sun was only known by the spread intensity of his place; where his bayonet rays moved on in stacks. Emblazonings, as of crowned Babylonian kings and queens, reigned over everything. The sea was as a crucible of molten gold, that bubblingly leaps with light and heat.

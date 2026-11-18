@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 7 - And Last"
 weight: 35
-aliases:
-  - "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-07.html"
+url: "/authors/stevenson-robert-louis/treasure-island/part-06-chapter-07.html"
 ---
 
 THE next morning we fell early to work, for the transportation of this great mass of gold near a mile by land to the beach, and thence three miles by boat to the HISPANIOLA, was a considerable task for so small a number of workmen. The three fellows still abroad upon the island did not greatly trouble us; a single sentry on the shoulder of the hill was sufficient to ensure us against any sudden onslaught, and we thought, besides, they had had more than enough of fighting.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - How We Come To Give Ourselves False Testimonials, And Believe In Them"
 weight: 13
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-13.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-13.html"
 ---
 
 It is my way when I observe any instance of folly, any queer habit, any absurd illusion, straightway to look for something of the same type in myself, feeling sure that amid all differences there will be a certain correspondence; just as there is more or less correspondence in the natural history even of continents widely apart, and of islands in opposite zones. No doubt men's minds differ in what we may call their climate or share of solar energy, and a feeling or tendency which is comparable to a panther in one may have no more imposing aspect than that of a weasel in another: some are like a tropical habitat in which the very ferns cast a mighty shadow, and the grasses are a dry ocean in which a hunter may be submerged; others like the chilly latitudes in which your forest-tree, fit elsewhere to prop a mine, is a pretty miniature suitable for fancy potting. The eccentric man might be typified by the Australian fauna, refuting half our judicious assumptions of what nature allows. Still, whether fate commanded us to thatch our persons among the Eskimos or to choose the latest thing in tattooing among the Polynesian isles, our precious guide Comparison would teach us in the first place by likeness, and our clue to further knowledge would be resemblance to what we already know. Hence, having a keen interest in the natural history of my inward self, I pursue this plan I have mentioned of using my observation as a clue or lantern by which I detect small herbage or lurking life; or I take my neighbour in his least becoming tricks or efforts as an opportunity for luminous deduction concerning the figure the human genus makes in the specimen which I myself furnish.

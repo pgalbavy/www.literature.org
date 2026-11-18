@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-13.html"
 ---
 
 As Talaskar was preparing their breakfast the following morning Komodoflorensal remarked to Tarzan that he wished they two could be employed upon the same work, that they might be always together.

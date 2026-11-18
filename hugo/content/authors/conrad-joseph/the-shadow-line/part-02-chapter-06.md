@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/conrad-joseph/the-shadow-line/part-02-chapter-06.html"
+url: "/authors/conrad-joseph/the-shadow-line/part-02-chapter-06.html"
 ---
 
 As we all went up it occurred to me that there ought to be a man at the helm. I raised my voice not much above a whisper, and, noiselessly, an uncomplaining spirit in a fever-wasted body appeared in the light aft, the head with hollow eyes illuminated against the blackness which had swallowed up our world—and the universe. The bared forearm extended over the upper spokes seemed to shine with a light of its own.

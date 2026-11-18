@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-02.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-02.html"
 ---
 
 A few days after this, on a bright and sunny morning when the breeze blew soft and sweet from the ocean and the trees waved their leaf-laden branches, the Royal Watchman, whose duty it was to patrol the shore, came running to the King with news that a strange boat was approaching the island.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-34.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-34.html"
 ---
 
 Shannon Burke, after a restless night, rose early in the morning to ride. She always found that the quiet and peace of the hills acted as a tonic on jangling nerves, and dispelled, at least for the moment, any cloud of unhappiness that might be hovering over her.

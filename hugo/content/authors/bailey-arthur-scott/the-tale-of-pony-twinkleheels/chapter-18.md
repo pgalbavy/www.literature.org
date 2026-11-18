@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - New Shoes"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-18.html"
 ---
 
 The blacksmith patted Twinkleheels and picked up one of his forefeet. Then the blacksmith took a chisel and began to pare away at the horny hoof. Twinkleheels looked over the blacksmith's shoulder. And what he saw gave him a start.

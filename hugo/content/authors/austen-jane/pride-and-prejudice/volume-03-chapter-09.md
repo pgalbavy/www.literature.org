@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 9"
 weight: 51
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-09.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-09.html"
 ---
 
 Their sister's wedding day arrived; and Jane and Elizabeth felt for her probably more than she felt for herself. The carriage was sent to meet them at ----, and they were to return in it, by dinner-time. Their arrival was dreaded by the elder Miss Bennets; and Jane more especially, who gave Lydia the feelings which would have attended herself, had she been the culprit, was wretched in the thought of what her sister must endure.

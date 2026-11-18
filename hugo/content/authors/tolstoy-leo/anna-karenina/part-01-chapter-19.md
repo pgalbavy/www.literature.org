@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 19"
 weight: 19
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-19.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-19.html"
 ---
 
 When Anna went into the room, Dolly was sitting in the little drawing-room with a white-headed fat little boy, already like his father, giving him a lesson in French reading. As the boy read, he kept twisting and trying to tear off a button that was nearly off his jacket. His mother had several times taken his hand from it, but the fat little hand went back to the button again. His mother pulled the button off and put it in her pocket.

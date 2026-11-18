@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - An Air Scout for Zodanga"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-21.html"
 ---
 
 As I proceeded on my journey toward Zodanga many strange and interesting sights arrested my attention, and at the several farm houses where I stopped I learned a number of new and instructive things concerning the methods and manners of Barsoom.

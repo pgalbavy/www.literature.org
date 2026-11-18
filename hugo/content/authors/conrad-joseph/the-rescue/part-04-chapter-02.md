@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 2"
 weight: 25
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-04-chapter-02.html"
+url: "/authors/conrad-joseph/the-rescue/part-04-chapter-02.html"
 ---
 
 Recovering himself with a slight start Lingard gave the order to extinguish all the lights in the brig. Now the transfer of the crew from the yacht had been effected there was every advantage in the darkness. He gave the order from instinct, it being the right thing to do in the circumstances. His thoughts were in the cabin of his brig, where there was a woman waiting. He put his hand over his eyes, collecting himself as if before a great mental effort. He could hear about him the excited murmurs of the white men whom in the morning he had so ardently desired to have safe in his keeping. He had them there now; but accident, ill-luck, a cursed folly, had tricked him out of the success of his plan. He would have to go in and talk to Mrs. Travers. The idea dismayed him. Of necessity he was not one of those men who have the mastery of expression. To liberate his soul was for him a gigantic undertaking, a matter of desperate effort, of doubtful success. "I must have it out with her," he murmured to himself as though at the prospect of a struggle. He was uncertain of himself, of her; he was uncertain of everything and everybody; but he was very certain he wanted to look at her.

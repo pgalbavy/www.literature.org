@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Rhyming Joe"
 weight: 7
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-07.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-07.html"
 ---
 
 Ten days after the evening interview at Sharpman's office, Ralph received a message from the lawyer instructing him to be at the railroad station on the following morning, prepared to go to Wilkesbarre.

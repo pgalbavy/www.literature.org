@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Dreamland"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-05.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-05.html"
 ---
 
 As winter faded into spring the first tracery of green fringed the branches in Stuyvesant Square. The municipal authorities decorated the grass with tulips and later with geraniums. Later still, cannas and foliage plants were planted, over which two fountains spurted aqua Crotonis.

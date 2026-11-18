@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - An Adventure In Space"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-01.html"
 ---
 
 “I had intended telling you my story of the days of the twenty-second century, but it seems best, if you are to understand it, to tell first the story of my great-great-grandfather who was born in the year 2000.”

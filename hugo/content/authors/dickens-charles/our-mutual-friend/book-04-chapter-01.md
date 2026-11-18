@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 1 - Setting Traps"
 weight: 51
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-01.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-01.html"
 ---
 
 Plashwater Weir Mill Lock looked tranquil and pretty on an evening in the summer time. A soft air stirred the leaves of the fresh green trees, and passed like a smooth shadow over the river, and like a smoother shadow over the yielding grass. The voice of the falling water, like the voices of the sea and the wind, were as an outer memory to a contemplative listener; but not particularly so to Mr Riderhood, who sat on one of the blunt wooden levers of his lock-gates, dozing. Wine must be got into a butt by some agency before it can be drawn out; and the wine of sentiment never having been got into Mr Riderhood by any agency, nothing in nature tapped him.

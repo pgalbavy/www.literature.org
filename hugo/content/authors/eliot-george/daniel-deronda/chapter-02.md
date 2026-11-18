@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-02.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-02.html"
 ---
 
 This man contrives a secret 'twixt us two, That he may quell me with his meeting eyes Like one who quells a lioness at bay.

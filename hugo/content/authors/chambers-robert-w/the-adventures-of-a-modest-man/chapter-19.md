@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Time And The Place"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-19.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-19.html"
 ---
 
 She halted at the portal of an old-fashioned house which had been turned into an apartment hotel—a great brownstone mansion set back from the street. A severely respectable porter in livery appeared and bowed to her, but when his apoplectic eyes encountered Seabury's his shaven jaw dropped and a curious spasm appeared to affect his knees.

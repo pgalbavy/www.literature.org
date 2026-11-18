@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-29.html"
+url: "/authors/dickens-charles/great-expectations/chapter-29.html"
 ---
 
 BETIMES in the morning I was up and out. It was too early yet to go to Miss Havisham's, so I loitered into the country on Miss Havisham's side of town -- which was not Joe's side; I could go there to-morrow -- thinking about my patroness, and painting brilliant pictures of her plans for me.

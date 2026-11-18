@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Man Who Had Nowhere To Go"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-05.html"
+url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-05.html"
 ---
 
 IN the early morning (it was the second morning after my recovery, and I believe the fourth after I was picked up), I awoke through an avenue of tumultuous dreams,--dreams of guns and howling mobs,--and became sensible of a hoarse shouting above me. I rubbed my eyes and lay listening to the noise, doubtful for a little while of my whereabouts. Then came a sudden pattering of bare feet, the sound of heavy objects being thrown about, a violent creaking and the rattling of chains. I heard the swish of the water as the ship was suddenly brought round, and a foamy yellow-green wave flew across the little round window and left it streaming. I jumped into my clothes and went on deck.

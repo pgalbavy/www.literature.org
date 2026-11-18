@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 37"
 weight: 37
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-03-chapter-37.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-03-chapter-37.html"
 ---
 
 Friends again, yet aware that they could meet no more, Aziz and Fielding went for their last ride in the Mau jungles. The floods had abated and the Rajah was officially dead, so the Guest House party were departing next morning, as decorum required. What with the mourning and the festival, the visit was a failure.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - Cupid Prompted"
 weight: 21
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-04.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-04.html"
 ---
 
 To use the cold language of the world, Mrs Alfred Lammle rapidly improved the acquaintance of Miss Podsnap. To use the warm language of Mrs Lammle, she and her sweet Georgiana soon became one: in heart, in mind, in sentiment, in soul.

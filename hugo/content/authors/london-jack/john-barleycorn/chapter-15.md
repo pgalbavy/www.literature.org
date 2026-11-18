@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-15.html"
+url: "/authors/london-jack/john-barleycorn/chapter-15.html"
 ---
 
 It was during the early winter of 1892 that I resolved to go to sea. My Hancock Fire Brigade experience was very little responsible for this. I still drank and frequented saloons-- practically lived in saloons. Whisky was dangerous, in my opinion, but not wrong. Whisky was dangerous like other dangerous things in the natural world. Men died of whisky; but then, too, fishermen were capsized and drowned, hoboes fell under trains and were cut to pieces. To cope with winds and waves, railroad trains, and bar-rooms, one must use judgment. To get drunk after the manner of men was all right, but one must do it with discretion. No more quarts of whisky for me.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 5"
 weight: 20
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-05.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-05.html"
 ---
 
 Four eventful things happened in the course of the winter. Bert and Mary got married and rented a cottage in the neighborhood three blocks away. Billy's wages were cut, along with the wages of all the teamsters in Oakland. Billy took up shaving with a safety razor. And, finally, Saxon was proven a false prophet and Sarah a true one.

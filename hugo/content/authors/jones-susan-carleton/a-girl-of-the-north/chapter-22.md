@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-22.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-22.html"
 ---
 
 PAUL consigned his beloved to Mrs. Herbert and went up to town. Mrs. Cooper and Sylvia were useless. The former wept over the disgrace and made speeches beginning with “if”—the latter said “everyone was unfortunate and miserable.” Paul felt as if everyone were happy, beginning with himself and including Launa. Her cry to him had not been the cry of disappointment and sorrow; it had been what? He could not define it. Relief was too mild, joy too great a name.

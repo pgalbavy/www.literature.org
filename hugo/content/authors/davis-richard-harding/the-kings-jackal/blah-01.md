@@ -1,8 +1,7 @@
 ---
 title: "blah 01"
 weight: 999
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/blah-01.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/blah-01.html"
 ---
 
 The need of a large sum of money in a great hurry is the root of many noble ambitions, in whose branches roost strange companies of birds, pecking away for dollars that grow--or do not--on bushes. And it was in such a quest that Miss Patricia Adair of Adairville, Kentucky, lit upon a limb of life beside Mr. Godfrey Vandeford of Broadway, New York. Their joint endeavors made a great adventure.

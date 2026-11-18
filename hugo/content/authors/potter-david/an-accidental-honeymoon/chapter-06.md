@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-06.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-06.html"
 ---
 
 Fessenden joined the others at Sandywood while they were still lingering over coffee in the library. His belated appearance, casual and unconcerned as he endeavored to make it seem, was greeted with a storm of badinage.

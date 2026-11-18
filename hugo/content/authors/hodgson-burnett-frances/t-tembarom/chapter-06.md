@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-06.html"
 ---
 
 His was the opening incident of the series of extraordinary and altogether incongruous events which took place afterwards, as it appeared to T. Tembarom, like scenes in a play in which he had become involved in a manner which one might be inclined to regard humorously and make jokes about, because it was a thousand miles away from anything like real life. That was the way it struck him. The events referred to, it was true, were things one now and then read about in newspapers, but while the world realized that they were actual occurrences, one rather regarded them, when their parallels were reproduced in books and plays, as belonging alone to the world of pure and highly romantic fiction.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - What Happened At The Old Barrel"
 weight: 3
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-03.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-03.html"
 ---
 
 Peter Rabbit's jump over the old barrel on the edge of the hill was unexpected to Reddy Fox. In fact, Reddy was so close on Peter's heels that he had no thought of anything but catching Peter. He was running so fast that when Peter made his flying jump over the barrel, Reddy did not have time to jump too, and he ran right smack bang against that old barrel. Now you remember that that barrel was right on the edge of the hill. When Reddy ran against it, he hit it so hard that he rolled it over, and of course that started it down the hill. You know a barrel is a very rolly sort of thing, and once it has started down a hill, nothing can stop it.

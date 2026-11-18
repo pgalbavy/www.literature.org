@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Boy And His Dog"
 weight: 1
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-01.html"
+url: "/authors/tarkington-booth/penrod/chapter-01.html"
 ---
 
 Penrod sat morosely upon the back fence and gazed with envy at Duke, his wistful dog.

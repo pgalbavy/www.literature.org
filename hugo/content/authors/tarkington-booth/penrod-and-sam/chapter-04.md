@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Bingism"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/penrod-and-sam/chapter-04.html"
+url: "/authors/tarkington-booth/penrod-and-sam/chapter-04.html"
 ---
 
 Both boys lived breathlessly through a magnificent moment.

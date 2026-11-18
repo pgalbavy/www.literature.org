@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-27.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-27.html"
 ---
 
 Mrs. Sheridan, in a wrapper, noiselessly opened the door of her husband's room at daybreak the next morning, and peered within the darkened chamber. At the "old" house they had shared a room, but the architect had chosen to separate them at the New, and they had not known how to formulate an objection, although to both of them something seemed vaguely reprehensible in the new arrangement.

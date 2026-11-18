@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-22.html"
+url: "/authors/austen-jane/persuasion/chapter-22.html"
 ---
 
 Anne went home to think over all that she had heard. In one point, her feelings were relieved by this knowledge of Mr Elliot. There was no longer anything of tenderness due to him. He stood as opposed to Captain Wentworth, in all his own unwelcome obtrusiveness; and the evil of his attentions last night, the irremediable mischief he might have done, was considered with sensations unqualified, unperplexed. Pity for him was all over. But this was the only point of relief. In every other respect, in looking around her, or penetrating forward, she saw more to distrust and to apprehend. She was concerned for the disappointment and pain Lady Russell would be feeling; for the mortifications which must be hanging over her father and sister, and had all the distress of foreseeing many evils, without knowing how to avert any one of them. She was most thankful for her own knowledge of him. She had never considered herself as entitled to reward for not slighting an old friend like Mrs Smith, but here was a reward indeed springing from it! Mrs Smith had been able to tell her what no one else could have done. Could the knowledge have been extended through her family? But this was a vain idea. She must talk to Lady Russell, tell her, consult with her, and having done her best, wait the event with as much composure as possible; and after all, her greatest want of composure would be in that quarter of the mind which could not be opened to Lady Russell; in that flow of anxieties and fears which must be all to herself.

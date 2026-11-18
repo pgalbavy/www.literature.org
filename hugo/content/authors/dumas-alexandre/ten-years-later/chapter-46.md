@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - The Donation"
 weight: 46
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-46.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-46.html"
 ---
 
 Colbert reappeared beneath the curtains.

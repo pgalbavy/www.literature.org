@@ -1,8 +1,7 @@
 ---
 title: "Chapter 71 - A Procession At Vannes"
 weight: 71
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-71.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-71.html"
 ---
 
 The passage from Belle-Isle to Sarzeau was made rapidly enough, thanks to one of those little corsairs of which D'Artagnan had been told during his voyage, and which, shaped for fast sailing and destined for the chase, were sheltered at that time in the roadstead of Loc-Maria, where one of them, with a quarter of its war-crew, performed duty between Belle-Isle and the continent. D'Artagnan had an opportunity of convincing himself that Porthos, though engineer and topographer, was not deeply versed in affairs of state. His perfect ignorance, with any other, might have passed for well-informed dissimulation. But D'Artagnan knew too well all the folds and refolds of his Porthos, not to find a secret if there were one there; like those regular, minute old bachelors, who know how to find, with their eyes shut, each book on the shelves of their library and each piece of linen in their wardrobe. So if he had found nothing, our cunning D'Artagnan, in rolling and unrolling his Porthos, it was because, in truth, there was nothing to be found.

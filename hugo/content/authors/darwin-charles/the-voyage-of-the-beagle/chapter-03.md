@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Maldonado"
 weight: 4
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-03.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-03.html"
 ---
 
 arrow_rightMonte Video arrow_rightExcursion to R. Polanco arrow_rightLazo and Bolas arrow_rightPartridges arrow_rightAbsence of Trees arrow_rightDeer arrow_rightCapybara, or River Hog arrow_rightTucutuco arrow_rightMolothrus, cuckoo-like habits arrow_rightTyrant-flycatcher arrow_rightMocking-bird arrow_rightCarrion Hawks arrow_rightTubes formed by Lightning arrow_rightHouse struck. ---

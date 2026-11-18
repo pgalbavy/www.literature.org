@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-14.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-14.html"
 ---
 
 In 1870 the Russians endeavored without success to establish a fair at Tachkend which would rival that at Nijni-Novgorod. Some twenty years later the attempt would have succeeded, and as a matter of fact the fair now exists, owing to the making of the Transcaspian to unite Samarkand and Tachkend.

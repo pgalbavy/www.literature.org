@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-18.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-18.html"
 ---
 
 Riding with the weariness of a long convalescence, Parish Thornton passed the house where for two days only he had made his abode, and turned into an upward-climbing trail, gloomily forested, where the tangle brushed his stirrups as he rode. On a "bald-knob" the capriciousness of nature had left the lookout of an untimbered summit, and there he drew rein and gazed down into the basin of a narrow creek-valley a mile distant, where, in a cleared square of farm land, a lazy thread of smoke rose from a low roof.

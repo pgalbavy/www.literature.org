@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/the-pretty-sister-of-jose/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/the-pretty-sister-of-jose/chapter-04.html"
 ---
 
 And yet it was again weeks and weeks before she heard another word. In those weeks there were times when she hated José because he never once spoke of what she wished to hear. She could not speak herself--she could not ask questions; she could only wait--hungry and desolate. They would not even say--these people--whether he had gone to the King of America or not; whether he was at the other end of the world, or whether he was only in some other city. The truth was that José had innocently cautioned the others against speaking of one whom Pepita disliked to hear of.

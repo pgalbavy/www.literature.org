@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-18.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-18.html"
 ---
 
 *THEY* thought of many ways to get him to do it, but none of such ingenuity as to inspire them with confidence. Mrs. Oliphant made more suggestions than her husband did, and she put most of them into the form of little dramatic dialogues imagined as taking place between Mr. Oliphant and Harlan. Mr. Oliphant was to say such-and-such things to Harlan, who would necessarily reply in certain terms, which she sketched;—whereupon his father could triumphantly turn the words just uttered into proof that Harlan would not only be doing his duty by helping Dan, but at the same time would make great headway with Martha Shelby in a straightforward manner involving not the slightest pose.

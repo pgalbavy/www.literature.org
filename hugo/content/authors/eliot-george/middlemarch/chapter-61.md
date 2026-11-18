@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61"
 weight: 61
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-61.html"
+url: "/authors/eliot-george/middlemarch/chapter-61.html"
 ---
 
 "Inconsistencies," answered Imlac, "cannot both be right, but imputed to man they may both be true." - Rasselas.

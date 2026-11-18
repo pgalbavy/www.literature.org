@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Raid On The Oyster Pirates"
 weight: 3
-aliases:
-  - "/authors/london-jack/tales-of-the-fish-patrol/chapter-03.html"
+url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-03.html"
 ---
 
 Of the fish patrolmen under whom we served at various times, Charley Le Grant and I were agreed, I think, that Neil Partington was the best. He was neither dishonest nor cowardly; and while he demanded strict obedience when we were under his orders, at the same time our relations were those of easy comradeship, and he permitted us a freedom to which we were ordinarily unaccustomed, as the present story will show.

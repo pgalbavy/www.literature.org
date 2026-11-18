@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-29.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-29.html"
 ---
 
 "Fool!" I cried aloud in my vexation.

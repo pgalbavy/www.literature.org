@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-24.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-24.html"
 ---
 
 But that night it happened, as it had happened once before, that the stars seemed exaggerated in size and multiplied in number. On the breeze came riding the distant voice of the surf with its call to staring wakefulness and restlessness of spirit.

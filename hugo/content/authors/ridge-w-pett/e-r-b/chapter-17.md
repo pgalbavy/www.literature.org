@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-17.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-17.html"
 ---
 
 SILK hatted men were hurrying to and fro in the lobby, each with an air of bearing the responsibilities of the Empire on his shoulders; cards were being sent in by the attendants: a few country visitors stood about near to the statue of Mr. Gladstone waiting awkwardly for the arrival of their member. Swing-doors moved unceasingly: now and again two members would encounter each other and consult furtively with wrinkled foreheads, and visitors stood back from the round space at the centre with awe and respect, giving them room. Erb, in a morning coat and a necktie of such gaiety, that alone it betrayed the fact of his wedding-day, was an event not yet forgotten, strolled about, less appalled by the surroundings than most, so that provincials came to him now and again and made inquiries. Whenever he had been to the House before he had always felt wistful, and had looked through corridor to the inner lobby with anticipation; this evening the feeling was absent.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Theophrastus Longuet Bursts Into Song"
 weight: 4
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-03.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/chapter-03.html"
 ---
 
 On leaving the prison, Marceline and Adolphe were, very naturally, full of curiosity to learn the reasons of Theophrastus' extraordinary behaviour; and he had the greatest difficulty in getting them away from the subject. He treated the matter lightly, declaring that the whim had taken him to visit the cellars of the Conciergerie; and he had visited them. They were even more impressed by his attitude to the guide than by his actual plunge into the cellars. That Theophrastus, the timid Theophrastus, should have browbeaten not a mere man, but an official, amazed them. Theophrastus admits that he was as much amazed as they, and felt rather proud of himself. All the evening they kept recurring to the matter until their amazement and their interest began to weaken by mere continuance of expression. But Theophrastus was glad indeed when sleep at last tied Marceline's tongue.

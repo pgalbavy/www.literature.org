@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Battle Of The Darkness"
 weight: 10
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-10.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-10.html"
 ---
 
 He was no longer in the hall. He was marching along a gallery overhanging one of the great streets of the moving platforms that traversed the city. Before him and behind him tramped his guards. The whole concave of the moving ways below was a congested mass of people marching, tramping to the left, shouting, waving hands and arms, pouring along a huge vista, shouting as they came into view, shouting as they passed, shouting as they receded, until the globes of electric light receding in perspective dropped down it seemed and hid the swarming bare heads. Tramp, tramp, tramp, tramp.

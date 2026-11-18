@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - How Eric Ventured Down To Middalhof And What He Found"
 weight: 27
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-26.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-26.html"
 ---
 
 Gizur went north to Swinefell, and Swanhild went with him. For now that Ospakar was dead at Eric’s hand, Gizur ruled in his place at Swinefell, and was the greatest lord in all the north. He loved Swanhild, and desired to make her his wife; but she played with him, talking darkly of what might be. Swanhild was not minded to be the wife of any man, except of Eric; to all others she was cold as the winter earth. Still, she fooled Gizur as she had fooled Atli the Good, and he grew blind with love of her. For still the beauty of Swanhild waxed as the moon waxes in the sky, and her wicked eyes shone as the stars shine when the moon has set.

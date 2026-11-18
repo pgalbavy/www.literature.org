@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - In Which Joseph Rouletabille Appears In All His Glory"
 weight: 27
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-27.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-27.html"
 ---
 
 The excitement was extreme. Cries from fainting women were to be heard amid the extraordinary bustle and stir. The "majesty of the law" was utterly forgotten. The President tried in vain to make himself heard. Rouletabille made his way forward with difficulty, but by dint of much elbowing reached his manager and greeted him cordially. The letter was passed to him and pocketing it he turned to the witness-box. He was dressed exactly as on the day he left me even to the ulster over his arm. Turning to the President, he said:

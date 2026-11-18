@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-11.html"
 ---
 
 THE dazzling sunlight of Barsoom clothed Manator in an aureole of splendor as the girl and her captors rode into the city through The Gate of Enemies. Here the wall was some fifty feet thick, and the sides of the passageway within the gate were covered with parallel shelves of masonry from bottom to top. Within these shelves, or long, horizontal niches, stood row upon row of small figures, appearing like tiny, grotesque statuettes of men, their long, black hair falling below their feet and sometimes trailing to the shelf beneath. The figures were scarce a foot in height and but for their diminutive proportions might have been the mummified bodies of once living men. The girl noticed that as they passed, the warriors saluted the figures with their spears after the manner of Barsoomian fighting men in extending a military courtesy, and then they rode on into the avenue beyond, which ran, wide and stately, through the city toward the east.

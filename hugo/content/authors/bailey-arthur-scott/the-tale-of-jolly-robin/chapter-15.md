@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Lost--A Cousin!"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-15.html"
 ---
 
 When the Hermit Thrush had finished his song about the spotted vest, he looked at his cousin Jolly Robin out of the corner of his eye.

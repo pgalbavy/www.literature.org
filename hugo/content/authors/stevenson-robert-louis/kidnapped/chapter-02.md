@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - I Come To My Journey’s End"
 weight: 3
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-02.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-02.html"
 ---
 
 On the forenoon of the second day, coming to the top of a hill, I saw all the country fall away before me down to the sea; and in the midst of this descent, on a long ridge, the city of Edinburgh smoking like a kiln. There was a flag upon the castle, and ships moving or lying anchored in the firth; both of which, for as far away as they were, I could distinguish clearly; and both brought my country heart into my mouth.

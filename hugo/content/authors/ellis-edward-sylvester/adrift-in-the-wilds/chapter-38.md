@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Waiting And Watching"
 weight: 38
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-38.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-38.html"
 ---
 
 "Worrah! worrah! but this is a fine scare you've been givin' Tim O'Rooney, so me uncle said whin they towld him his wife was coming over to Ameriky to see him. Here I've been awake fur the last two hours, jist, looking and expacting you to come back, and thinking the red colored gintleman had carried you away entirely⸺"

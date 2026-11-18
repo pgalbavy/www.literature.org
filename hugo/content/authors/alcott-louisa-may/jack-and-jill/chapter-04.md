@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Ward No. 2"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-04.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-04.html"
 ---
 
 Things were not so gay in Ward No. 2, for Mrs. Pecq was very busy, and Jill had nothing to amuse her but flying visits from the girls, and such little plays as she could invent for herself in bed. Fortunately, she had a lively fancy, and so got on pretty well, till keeping still grew unbearable, and the active child ached in every limb to be up and out. That, however, was impossible, for the least attempt to sit or stand brought on the pain that took her breath away and made her glad to lie flat again. The doctor spoke cheerfully, but looked sober, and Mrs. Pecq began to fear that Janey was to be a cripple for life. She said nothing, but Jill's quick eyes saw an added trouble in the always anxious face, and it depressed her spirits, though she never guessed half the mischief the fall had done.

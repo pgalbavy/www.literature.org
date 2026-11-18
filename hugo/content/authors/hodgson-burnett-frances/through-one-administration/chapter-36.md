@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-36.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-36.html"
 ---
 
 The great social event of the following week was to be the ball given yearly for the benefit of a certain popular and fashionable charity. There was no charity so fashionable, and consequently no ball so well attended; everybody was more or less interested; everybody of importance appeared at it, showing themselves for a few moments at least. Even Mrs. Merriam, who counted among the privileges earned by a long and unswervingly faithful social career, the one of immunity from all ordinary society duties, found herself drawn into the maelstrom, and enrolled on the list of patronesses.

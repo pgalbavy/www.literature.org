@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - An Inspiration"
 weight: 7
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-06.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-06.html"
 ---
 
 IN the stillness and the darkness, realization soon began to supplement knowledge. The mere knowledge of a fact is pale; but when you come to REALIZE your fact, it takes on color. It is all the difference between hearing of a man being stabbed to the heart, and seeing it done. In the stillness and the darkness, the knowledge that I was in deadly danger took to itself deeper and deeper meaning all the time; a something which was realization crept inch by inch through my veins and turned me cold.

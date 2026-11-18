@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Friend In Need"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-05.html"
 ---
 
 Terry Clark, the Irish lad, placed his right foot behind the left, his weight equally supported on both, and stood as rigid as iron, with both fists clinched and half raised, in the attitude of one holding himself ready to use nature's weapons to his utmost ability.

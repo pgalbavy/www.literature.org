@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Legend Of The Lost Prince"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-03.html"
 ---
 
 As he walked through the streets, he was thinking of one of these stories. It was one he had heard first when he was very young, and it had so seized upon his imagination that he had asked often for it. It was, indeed, a part of the long-past history of Samavia, and he had loved it for that reason. Lazarus had often told it to him, sometimes adding much detail, but he had always liked best his father's version, which seemed a thrilling and living thing. On their journey from Russia, during an hour when they had been forced to wait in a cold wayside station and had found the time long, Loristan had discussed it with him. He always found some such way of making hard and comfortless hours easier to live through.

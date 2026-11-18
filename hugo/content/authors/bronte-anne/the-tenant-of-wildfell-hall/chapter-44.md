@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 45
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-44.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-44.html"
 ---
 
 October 24th. - Thank heaven, I am free and safe at last. Early we rose, swiftly and quietly dressed, slowly and stealthily descended to the hall, where Benson stood ready with a light, to open the door and fasten it after us. We were obliged to let one man into our secret on account of the boxes, &c. All the servants were but too well acquainted with their master's conduct, and either Benson or John would have been willing to serve me; but as the former was more staid and elderly, and a crony of Rachel's besides, I of course directed her to make choice of him as her assistant and confidant on the occasion, as far as necessity demanded, I only hope he may not be brought into trouble thereby, and only wish I could reward him for the perilous service he was so ready to undertake. I slipped two guineas into his hand, by way of remembrance, as he stood in the doorway, holding the candle to light our departure, with a tear in his honest grey eye, and a host of good wishes depicted on his solemn countenance. Alas! I could offer no more: I had barely sufficient remaining for the probable expenses of the journey.

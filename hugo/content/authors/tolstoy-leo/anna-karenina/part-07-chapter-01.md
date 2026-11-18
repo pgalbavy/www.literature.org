@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 1"
 weight: 190
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-01.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-01.html"
 ---
 
 The Levins had been three months in Moscow. The date had long passed on which, according to the most trustworthy calculations of people learned in such matters, Kitty should have been confined. But she was still about, and there was nothing to show that her time was any nearer than two months ago. The doctor, the monthly nurse, and Dolly and her mother, and most of all Levin, who could not think of the approaching event without terror, began to be impatient and uneasy. Kitty was the only person who felt perfectly calm and happy.

@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 4"
 weight: 233
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-04.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-04.html"
 ---
 
 The Council of War began to assemble at two in the afternoon in the better and roomier part of Andrew Savostyanov's hut. The men, women, and children of the large peasant family crowded into the back room across the passage. Only Malasha, Andrew's six-year-old granddaughter whom his Serene Highness had petted and to whom he had given a lump of sugar while drinking his tea, remained on the top of the brick oven in the larger room. Malasha looked down from the oven with shy delight at the faces, uniforms, and decorations of the generals, who one after another came into the room and sat down on the broad benches in the corner under the icons. "Granddad" himself, as Malasha in her own mind called Kutuzov, sat apart in a dark corner behind the oven. He sat, sunk deep in a folding armchair, and continually cleared his throat and pulled at the collar of his coat which, though it was unbuttoned, still seemed to pinch his neck. Those who entered went up one by one to the field marshal; he pressed the hands of some and nodded to others. His adjutant Kaysarov was about to draw back the curtain of the window facing Kutuzov, but the latter moved his hand angrily and Kaysarov understood that his Serene Highness did not wish his face to be seen.

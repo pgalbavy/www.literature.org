@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-05.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-05.html"
 ---
 
 "Really," said Dorothy, looking solemn, "this is very s'prising. We can't even find a shadow of Ozma anywhere in the Em'rald City, and wherever she's gone, she's taken her Magic Picture with her." She was standing in the courtyard of the palace with Betsy and Trot, while Scraps, the Patchwork Girl, danced around the group, her hair flying in the wind.

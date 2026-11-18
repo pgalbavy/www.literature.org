@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/the-frozen-deep/chapter-05.html"
+url: "/authors/collins-wilkie/the-frozen-deep/chapter-05.html"
 ---
 
 The morning of the next day--the morning on which the ships were to sail--came bright and breezy. Mrs. Crayford, having arranged to follow her husband to the water-side, and see the last of him before he embarked, entered Clara's room on her way out of the house, anxious to hear how her young friend passed the night. To her astonishment she found Clara had risen, and was dressed, like herself, to go out.

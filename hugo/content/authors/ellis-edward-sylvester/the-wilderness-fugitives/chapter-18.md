@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Southeastern Shore"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-18.html"
 ---
 
 The Mohawk felt that he had accomplished a great feat in the taking of the canoe before the very eyes of the Iroquois sentinel set to watch it and in successfully eluding the pursuit of the others. But the danger was not yet disposed of, for, at the moment the fugitives stepped from the canoe, the other two crafts were in swift pursuit, the occupants having learned the trick played upon them by the wily Mohawk. Although the canoe of the latter was invisible, yet they were well aware of the direction taken, and could not avoid a pretty accurate guess as to the destination of the occupants. Thus it was that they headed almost in a direct line for the precise point where the fugitives landed, and were not much behind them in reaching the spot.

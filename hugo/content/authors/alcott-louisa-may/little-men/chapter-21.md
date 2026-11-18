@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Thanksgiving"
 weight: 22
-aliases:
-  - "/authors/alcott-louisa-may/little-men/chapter-21.html"
+url: "/authors/alcott-louisa-may/little-men/chapter-21.html"
 ---
 
 This yearly festival was always kept at Plumfield in the good old-fashioned way, and nothing was allowed to interfere with it. For days beforehand, the little girls helped Asia and Mrs. Jo in store-room and kitchen, making pies and puddings, sorting fruit, dusting dishes, and being very busy and immensely important. The boys hovered on the outskirts of the forbidden ground, sniffing the savory odors, peeping in at the mysterious performances, and occasionally being permitted to taste some delicacy in the process of preparation.

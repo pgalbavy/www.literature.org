@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 15 - In Which Is Related The Unfortunate Adventure That Don Quixote Fell In With When He Fell Out With Certain Heartless Yanguesans"
 weight: 18
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-15.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-15.html"
 ---
 
 The sage Cid Hamete Benengeli relates that as soon as Don Quixote took leave of his hosts and all who had been present at the burial of Chrysostom, he and his squire passed into the same wood which they had seen the shepherdess Marcela enter, and after having wandered for more than two hours in all directions in search of her without finding her, they came to a halt in a glade covered with tender grass, beside which ran a pleasant cool stream that invited and compelled them to pass there the hours of the noontide heat, which by this time was beginning to come on oppressively. Don Quixote and Sancho dismounted, and turning Rocinante and the ass loose to feed on the grass that was there in abundance, they ransacked the alforjas, and without any ceremony very peacefully and sociably master and man made their repast on what they found in them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-17.html"
 ---
 
 "You see," explained the Glass Cat, "that Magic Isle where Trot and Cap'n Bill are stuck is also in this Gillikin Country--over at the east side of it, and it's no farther to go across-lots from here than it is from here to the Emerald City. So we'll save time by cutting across the mountains."

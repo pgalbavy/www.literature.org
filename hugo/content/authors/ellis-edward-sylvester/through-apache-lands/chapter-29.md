@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The Lone Camp Fire"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-29.html"
 ---
 
 When the pursuing Apaches first fired their two shots, one of them slightly wounded the hand of young Chadmund, while the other, unsuspected by the lad, buried itself in the body of the mustang and inflicted a fatal wound. It was characteristic of the noble creature that his indomitable courage should remain to the last. He kept up his astonishing speed until his rider voluntarily checked him, and then his gait remained his natural one until nature succumbed and he dropped dead.

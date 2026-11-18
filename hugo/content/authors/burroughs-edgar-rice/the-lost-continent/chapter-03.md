@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-lost-continent/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-lost-continent/chapter-03.html"
 ---
 
 The report of a gun blasted the silence of a dead Devonport with startling abruptness.

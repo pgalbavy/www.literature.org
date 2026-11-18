@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - Mary In Mayfair"
 weight: 40
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-38.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-38.html"
 ---
 
 On the night which our hero spent by the side of the river, with the results detailed in the last chapter, there was a great ball in Brook-street, Mayfair. It was the height of the season, and of course, balls, concerts, and parties of all kinds were going on in all parts of the Great Babylon, but the entertainment in question was *the* event of that evening. Persons behind the scenes would have told you at once, had you happened to meet them, and enquire on the subject during the previous ten days, that Brook-street was the place in which everybody who went anywhere ought to spend some hours between eleven and three on this particular evening. If you did not happen to be going there, you had better stay quietly at your club, or your home, and not speak of your engagements for that night.

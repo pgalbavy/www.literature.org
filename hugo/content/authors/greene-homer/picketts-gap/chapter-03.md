@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/greene-homer/picketts-gap/chapter-03.html"
+url: "/authors/greene-homer/picketts-gap/chapter-03.html"
 ---
 
 It was after dark before Abner Pickett came home. Dannie had waited long for him at the gate, his loneliness and anxiety increasing as the minutes went by. He knew, from long experience, what to expect when his grandfather should learn about the railroad survey through the gap and the graveyard. He sincerely hoped that he would learn about it before he reached home. Not that he, himself, stood in fear of his grandfather, very far from that; but he dreaded to be the bearer to him of evil tidings. Nevertheless it was with a long sigh of relief that he recognized the familiar sound of the rattling buckboard as it came up out of the darkness to his ears. Ten minutes later Abner Pickett drove up to the gate.

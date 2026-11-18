@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - In Which The Plot Thickens"
 weight: 12
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-11.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-11.html"
 ---
 
 His visit to M. de Treville being paid, the pensive D'Artagnan took the longest way homeward.

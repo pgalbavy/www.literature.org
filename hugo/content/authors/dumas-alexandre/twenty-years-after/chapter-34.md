@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - On The Eve Of Battle"
 weight: 34
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-34.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-34.html"
 ---
 
 Raoul was aroused from his sombre reflections by his host, who rushed into the apartment crying out, "The Spaniards! the Spaniards!"

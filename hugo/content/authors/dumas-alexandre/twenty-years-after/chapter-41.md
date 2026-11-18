@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Paternal Affection"
 weight: 41
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-41.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-41.html"
 ---
 
 Whilst this terrible scene was passing at Lord de Winter's, Athos, seated near his window, his elbow on the table and his head supported on his hand, was listening intently to Raoul's account of the adventures he met with on his journey and the details of the battle.

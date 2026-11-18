@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-11.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-11.html"
 ---
 
 This is Saturday night, or Sunday morning, I am not sure which, as I have let my clock and watch both run down, for I have not had time to wind them; but however late it is, I am going to write about all this remarkableness, to you, leather Louise, so I will never forget how it all really happened. And writing it may make me believe it is true, though now it all will seem a dream.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 12"
 weight: 43
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-12.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-12.html"
 ---
 
 The afternoon sun was pouring in at the back windows of Mrs. Farmer's long, uneven parlour, making the dusky room look like a cavern with a fire at one end of it. The furniture was all in its cool, figured summer cretonnes. The glass flower vases that stood about on little tables caught the sunlight and twinkled like tiny lamps. Claude had been sitting there for a long while, and he knew he ought to go. Through the window at his elbow he could see rows of double hollyhocks, the flat leaves of the sprawling catalpa, and the spires of the tangled mint bed, all transparent in the gold-powdered light. They had talked about everything but the thing he had come to say. As he looked out into the garden he felt that he would never get it out. There was something in the way the mint bed burned and floated that made one a fatalist,--afraid to meddle. But after he was far away, he would regret; uncertainty would tease him like a splinter in his thumb.

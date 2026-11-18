@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-03.html"
 ---
 
 As the trainer, with raised lash, hesitated an instant at the entrance to the box where the boy and the ape confronted him, a tall broad-shouldered man pushed past him and entered. As his eyes fell upon the newcomer a slight flush mounted the boy's cheeks.

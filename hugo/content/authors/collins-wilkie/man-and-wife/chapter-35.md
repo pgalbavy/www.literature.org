@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Day"
 weight: 37
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-35.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-35.html"
 ---
 
 THE promise of the weather-glass was fulfilled. The sun shone on Blanche's marriage.

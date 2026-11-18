@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Boer War"
 weight: 12
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-12.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-12.html"
 ---
 
 On May 4, 1899, at Marion, Massachusetts, Richard was married to Cecil Clark, the daughter of Mr. and Mrs. John M. Clark of Chicago. After the marriage Richard and his wife spent a few weeks in Marion and the remainder of the summer in London and Aix-les-Bains.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-20.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-20.html"
 ---
 
 The pale parody on that sacred date which once had symbolised the birth of Christ had come and gone; the ghastly year was nearing its own death—the bloodiest year, for all its final triumph, that the world had ever witnessed—*l'année horrible*!

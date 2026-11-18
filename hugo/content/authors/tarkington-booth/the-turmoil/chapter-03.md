@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-03.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-03.html"
 ---
 
 Beginning at the beginning and learning from the ground up was a long course for Bibbs at the sanitarium, with milk and "zwieback" as the basis of instruction; and the months were many and tiresome before he was considered near enough graduation to go for a walk leaning on a nurse and a cane. These and subsequent months saw the planning, the building, and the completion of the New House; and it was to that abode of Bigness that Bibbs was brought when the cane, without the nurse, was found sufficient to his support.

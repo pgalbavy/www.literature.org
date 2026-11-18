@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Land Ho!"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-16.html"
 ---
 
 The boys could hardly credit their senses. Just as they had settled themselves to spend another long, dismal night on the iceberg, the sound of a paddle broke upon their ears, followed, the next moment, by a hail in unmistakable English.

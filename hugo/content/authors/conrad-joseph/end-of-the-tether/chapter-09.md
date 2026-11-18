@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-09.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-09.html"
 ---
 
 On turning to descend Massy perceived the head of Sterne the mate loitering, with his sly confident smile, his red mustaches and blinking eyes, at the foot of the ladder.

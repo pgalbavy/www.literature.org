@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The People Of The Abyss"
 weight: 24
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-23.html"
+url: "/authors/london-jack/the-iron-heel/chapter-23.html"
 ---
 
 Suddenly a change came over the face of things. A tingle of excitement ran along the air. Automobiles fled past, two, three, a dozen, and from them warnings were shouted to us. One of the machines swerved wildly at high speed half a block down, and the next moment, already left well behind it, the pavement was torn into a great hole by a bursting bomb. We saw the police disappearing down the cross-streets on the run, and knew that something terrible was coming. We could hear the rising roar of it.

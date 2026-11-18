@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Treason"
 weight: 5
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-05.html"
 ---
 
 On their return to camp after her rescue Virginia talked a great deal to von Horn about the young giant who had rescued her, until the man feared that she was more interested in him than seemed good for his own plans.

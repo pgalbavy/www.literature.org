@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 8 - The End Of A Long Journey"
 weight: 41
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-08.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-08.html"
 ---
 
 The train of carts and horses came and went all day from dawn to nightfall, making little or no daily impression on the heap of ashes, though, as the days passed on, the heap was seen to be slowly melting. My lords and gentlemen and honourable boards, when you in the course of your dust-shovelling and cinder-raking have piled up a mountain of pretentious failure, you must off with your honourable coats for the removal of it, and fall to the work with the power of all the queen’s horses and all the queen’s men, or it will come rushing down and bury us alive.

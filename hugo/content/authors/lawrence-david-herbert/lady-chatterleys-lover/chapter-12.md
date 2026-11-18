@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-12.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-12.html"
 ---
 
 Connie went to the wood directly after lunch. It was really a lovely day, the first dandelions making suns, the first daisies so white. The hazel thicket was a lace-work, of half-open leaves, and the last dusty perpendicular of the catkins. Yellow celandines now were in crowds, flat open, pressed back in urgency, and the yellow glitter of themselves. It was the yellow, the powerful yellow of early summer. And primroses were broad, and full of pale abandon, thick-clustered primroses no longer shy. The lush, dark green of hyacinths was a sea, with buds rising like pale corn, while in the riding the forget-me-nots were fluffing up, and columbines were unfolding their ink-purple ruches, and there were bits of blue bird's eggshell under a bush. Everywhere the bud-knots and the leap of life!

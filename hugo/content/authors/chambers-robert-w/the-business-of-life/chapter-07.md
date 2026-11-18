@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-07.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-07.html"
 ---
 
 There was no acknowledgment of his note to Jacqueline the day following; none the next day, or the next. It was only when telephoning to Silverwood he learned by chance from Mrs. Quant that Jacqueline had been at the house every day as usual, busy in the armoury with the work that took her there.

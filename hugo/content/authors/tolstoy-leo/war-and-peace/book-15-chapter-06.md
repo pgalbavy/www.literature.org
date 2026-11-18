@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 6"
 weight: 323
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-06.html"
 ---
 
 The fifth of November was the first day of what is called the battle of Krasnoe. Toward evening- after much disputing and many mistakes made by generals who did not go to their proper places, and after adjutants had been sent about with counterorders- when it had become plain that the enemy was everywhere in flight and that there could and would be no battle, Kutuzov left Krasnoe and went to Dobroe whither his headquarters had that day been transferred.

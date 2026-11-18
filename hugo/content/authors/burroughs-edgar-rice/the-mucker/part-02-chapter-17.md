@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 17 - “You Are My Girl!”"
 weight: 35
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-02-chapter-17.html"
 ---
 
 MR. ANTHONY HARDING was pacing back and forth the length of the veranda of the ranchhouse at El Orobo waiting for some word of hope from those who had ridden out in search of his daughter, Barbara. Each swirling dust devil that eddied across the dry flat on either side of the river roused hopes within his breast that it might have been spurred into activity by the hoofs of a pony bearing a messenger of good tidings; but always his hopes were dashed, for no horseman emerged from the heat haze of the distance where the little dust devils raced playfully among the cacti and the greasewood.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Beginning Of The Ending"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-08.html"
 ---
 
 IT was some time before Griffith recovered from the effects of this simple announcement of Mollie's.

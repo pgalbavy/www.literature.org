@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Masculine Literature"
 weight: 5
-aliases:
-  - "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-05.html"
+url: "/authors/gilman-charlotte-perkins/our-androcentric-culture/chapter-05.html"
 ---
 
 When we are offered a "woman's" paper, page, or column, we find it filled with matter supposed to appeal to women as a sex or class; the writer mainly dwelling upon the Kaiser's four K's--Kuchen, Kinder, Kirche, Kleider. They iterate and reiterate endlessly the discussion of cookery, old and new; of the care of children; of the overwhelming subject of clothing; and of moral instruction. All this is recognized as "feminine" literature, and it must have some appeal else the women would not read it. What parallel have we in "masculine" literature?

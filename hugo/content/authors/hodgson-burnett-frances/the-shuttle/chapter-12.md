@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Ughtred"
 weight: 12
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-12.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-12.html"
 ---
 
 Bettina stood alone in her bedroom a couple of hours later. Lady Anstruthers had taken her to it, preparing her for its limitations by explaining that she would find it quite different from her room in New York. She had been pathetically nervous and flushed about it, and Bettina had also been aware that the apartment itself had been hastily, and with much moving of objects from one chamber to another, made ready for her.

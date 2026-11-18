@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - \u0026quot;For All Her Youth--There Is No Other Woman Like Her\u0026quot;"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-14.html"
 ---
 
 They were brought back in state from Italy and borne to their beloved Camylott, to sleep in peace there, side by side; and the bells in the church-tower tolled long and mournfully, and in the five villages in different shires there was not a heart which did not ache--nor one which having faith did not know that somewhere their happy love lived again and was more full of joy than it had been before. And my lord Marquess was my lord Duke; but for many months none beheld him but Lord Dunstanwolde, who came to Camylott with many great people to attend the funeral obsequies; but when all the rest went away he stayed, and through the first strange black weeks the two were nearly always together, and often, through hours, walked in company from one end of the Long Gallery to the other.

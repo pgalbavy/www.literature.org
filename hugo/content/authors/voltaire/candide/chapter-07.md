@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - How the Old Woman Took Care Of Candide, and How He Found the Object of His Love"
 weight: 7
-aliases:
-  - "/authors/voltaire/candide/chapter-07.html"
+url: "/authors/voltaire/candide/chapter-07.html"
 ---
 
 Candide followed the old woman, though without taking courage, to a decayed house, where she gave him a pot of pomatum to anoint his sores, showed him a very neat bed, with a suit of clothes hanging by it; and set victuals and drink before him.

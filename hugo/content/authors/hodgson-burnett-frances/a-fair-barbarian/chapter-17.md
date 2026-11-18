@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Advantages"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-17.html"
 ---
 
 The game over, Octavia deserted her partner. She walked lightly, and with the air of a victor, to where Barold was standing. She was smiling, and slightly flushed, and for a moment or so stood fanning herself with a gay Japanese fan.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Old Friends"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-20.html"
 ---
 
 "IT can’t be," gasped the mystified George; "you’re mistaken."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The History Of Madame Diard"
 weight: 3
-aliases:
-  - "/authors/balzac-honore-de/juana/chapter-03.html"
+url: "/authors/balzac-honore-de/juana/chapter-03.html"
 ---
 
 By the time that the quartermaster had fulfilled all the long and dilatory formalities without which no French soldier can be married, he was passionately in love with Juana di Mancini, and Juana had had time to think of her coming destiny.

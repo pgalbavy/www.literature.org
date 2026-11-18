@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-03.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-03.html"
 ---
 
 WE HAVE seen in the last two chapters that man bears in his bodily structure clear traces of his descent from some lower form; but it may be urged that, as man differs so greatly in his mental power from all other animals, there must be some error in this conclusion. No doubt the difference in this respect is enormous, even if we compare the mind of one of the lowest savages, who has no words to express any number higher than four, and who uses hardly any abstract terms for common objects or for the affections,* with that of the most highly organised ape. The difference would, no doubt, still remain immense, even if one of the higher apes had been improved or civilised as much as a dog has been in comparison with its parent-form, the wolf or jackal. The Fuegians rank amongst the lowest barbarians; but I was continually struck with surprise how closely the three natives on board H. M. S. Beagle, who had lived some years in England, and could talk a little English, resembled us in disposition and in most of our mental faculties. If no organic being excepting man had possessed any mental power, or if his powers had been of a wholly different nature from those of the lower animals, then we should never have been able to convince ourselves that our high faculties had been gradually developed. But it can be shewn that there is no fundamental difference of this kind. We must also admit that there is a much wider interval in mental power between one of the lowest fishes, as a lamprey or lancelet, and one of the higher apes, than between an ape and man; yet this interval is filled up by numberless gradations.

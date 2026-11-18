@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 64 - Treating Of The Adventure Which Gave Don Quixote More Unhappiness Than All That Had Hitherto Befallen Him"
 weight: 120
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-64.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-64.html"
 ---
 
 The wife of Don Antonio Moreno, so the history says, was extremely happy to see Ana Felix in her house. She welcomed her with great kindness, charmed as well by her beauty as by her intelligence; for in both respects the fair Morisco was richly endowed, and all the people of the city flocked to see her as though they had been summoned by the ringing of the bells.

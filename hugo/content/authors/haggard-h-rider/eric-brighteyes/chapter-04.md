@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - How Eric Came Down Golden Falls"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-04.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-04.html"
 ---
 
 Now Ospakar rode up to Middalhof on the day before the Yule-feast. He was splendidly apparelled, and with him came his two sons, Gizur the Lawman and Mord, young men of promise, and many armed thralls and servants. Gudruda, watching at the women’s door, saw his face in the moonlight and loathed him.

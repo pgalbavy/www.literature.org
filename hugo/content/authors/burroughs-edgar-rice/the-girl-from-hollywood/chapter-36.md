@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36"
 weight: 36
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-36.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-36.html"
 ---
 
 On the day when Custer was to be sentenced, Colonel Pennington and Shannon Burke were present in the court room. Mrs. Pennington had remained at home with Eva, who was slowly convalescing. Shannon reached the court room before the colonel. When he arrived, he sat down beside her, and placed his hand on hers.

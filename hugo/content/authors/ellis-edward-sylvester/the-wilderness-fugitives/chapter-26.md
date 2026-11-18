@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - Curious Proceedings"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-26.html"
 ---
 
 In the twilight of the underground apartment, the figures of each were dimly discernible, but there was abundance of room for all to circulate without interfering with each other. Ned conducted the girl to the furthest extremity of the cavern, where it would seem that the couches of the ancient occupants had been placed.

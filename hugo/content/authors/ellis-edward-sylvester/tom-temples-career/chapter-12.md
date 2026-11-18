@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Bad News For Tom"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-12.html"
 ---
 
 *TOM GOT* along tolerably well with the Middletons. They had found out that it was necessary to give him his own way, for he was sure to obtain it sooner or later in a way that annoyed them. They were obliged to considerably improve their frugal table, but after all there was a handsome profit in Tom’s board, and besides, they fared better themselves.

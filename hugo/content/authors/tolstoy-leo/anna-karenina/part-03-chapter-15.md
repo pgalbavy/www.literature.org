@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 15"
 weight: 84
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-15.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-15.html"
 ---
 
 Though Anna had obstinately and with exasperation contradicted Vronsky when he told her their position was impossible, at the bottom of her heart she regarded her own position as false and dishonorable, and she longed with her whole soul to change it. On the way home from the races she had told her husband the truth in a moment of excitement, and in spite of the agony she had suffered in doing so, she was glad of it. After her husband had left her, she told herself that she was glad, that now everything was made clear, and at least there would be no more lying and deception. It seemed to her beyond doubt that her position was now made clear forever. It might be bad, this new position, but it would be clear; there would be no indefiniteness or falsehood about it. The pain she had caused herself and her husband in uttering those words would be rewarded now by everything being made clear, she thought. That evening she saw Vronsky, but she did not tell him of what had passed between her and her husband, though, to make the position definite, it was necessary to tell him.

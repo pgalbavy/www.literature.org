@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-18.html"
 ---
 
 One night Jim Travers talked a great deal in his sleep. His tossing awoke Tom Gordon several times and caused him some anxiety, which was increased when he touched his friend's cheek and found him suffering with a burning fever. Toward morning Jim's restlessness partly subsided, and he fell into a fitful slumber. Tom dropped off, and did not awake until he heard his friend astir.

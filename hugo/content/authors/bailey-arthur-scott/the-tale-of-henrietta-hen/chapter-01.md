@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Speckled Beauty"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-01.html"
 ---
 
 Henrietta Hen thought highly of herself. Not only did she consider herself a "speckled beauty" (to use her own words) but she had an excellent opinion of her own ways, her own ideas--even of her own belongings. When she pulled a fat worm--or a grub--out of the ground she did it with an air of pride; and she was almost sure to say, "There! I'd like to see anybody else find a bigger one than that!"

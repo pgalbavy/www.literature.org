@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Company For Supper"
 weight: 10
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-10.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-10.html"
 ---
 
 "Cherry, do you know it's 'most night, and those girls aren't at home yet? They said they'd sure be here by four o'clock, and here 'tis five and they haven't come." Peace was plainly worried, and with a half-impatient sigh, Cherry closed her fascinating story book and joined her sister watching at the window for the belated girls who had gone in town with Mrs. Grinnell that morning.

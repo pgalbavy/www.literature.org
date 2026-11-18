@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-27.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-27.html"
 ---
 
 He hesitated, poised on the threshold, his yellow eyes contracting, dazzled by the candle; then, like lightning, his sword glittered in his hand, but Mount, behind him, tore the limber blade from his grip and flung it ringing at my feet. Now, weaponless and alone, Butler stood confronting us, his blank eyes travelling from one to another, his thin lips twitching in an ever-deepening sneer. Nor did the sneer leave his face when Mount slammed and locked the door behind him, and unsheathed his broad hunting-knife.

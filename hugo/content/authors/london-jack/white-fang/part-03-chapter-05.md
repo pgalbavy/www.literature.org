@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 5 - The Covenant"
 weight: 13
-aliases:
-  - "/authors/london-jack/white-fang/part-03-chapter-05.html"
+url: "/authors/london-jack/white-fang/part-03-chapter-05.html"
 ---
 
 When December was well along, Grey Beaver went on a journey up the Mackenzie. Mit-sah and Kloo-kooch went with him. One sled he drove himself, drawn by dogs he had traded for or borrowed. A second and smaller sled was driven by Mit-sah, and to this was harnessed a team of puppies. It was more of a toy affair than anything else, yet it was the delight of Mit-sah, who felt that he was beginning to do a man's work in the world. Also, he was learning to drive dogs and to train dogs; while the puppies themselves were being broken in to the harness. Furthermore, the sled was of some service, for it carried nearly two hundred pounds of outfit and food.

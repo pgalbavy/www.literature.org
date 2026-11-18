@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Santa Cruz, Patagonia, and the Falkland Islands"
 weight: 10
-aliases:
-  - "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-09.html"
+url: "/authors/darwin-charles/the-voyage-of-the-beagle/chapter-09.html"
 ---
 
 arrow_rightSanta Cruz arrow_rightExpedition up the River arrow_rightIndians arrow_rightImmense Streams of Basaltic Lava arrow_rightFragments not transported by the River arrow_rightExcavations of the Valley arrow_rightCondor, Habits of arrow_rightCordillera arrow_rightErratic Boulders of great size arrow_rightIndian Relics arrow_rightReturn to the Ship arrow_rightFalkland Islands arrow_rightWild Horses, Cattle, Rabbits arrow_rightWolf-like Fox arrow_rightFire made of Bones arrow_rightManner of Hunting Wild Cattle arrow_rightGeology arrow_rightStreams of Stones arrow_rightScenes of Violence arrow_rightPenguins arrow_rightGeese arrow_rightEggs of Doris arrow_rightCompound Animals

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Great Man"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-20.html"
+url: "/authors/haggard-h-rider/jess/chapter-20.html"
 ---
 
 Completely overcome by this last remark, Hans collapsed like a jelly-fish out of water, and reflected in his worthless old heart that Frank Muller was indeed “a devil of a man.” By this time they had reached the door of the little house, and were dismounting, and in another minute Hans found himself in the presence of one of the leaders of the rebellion.

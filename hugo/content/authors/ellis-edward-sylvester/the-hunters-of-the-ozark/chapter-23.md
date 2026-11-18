@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - An Infuriate Shawanoe"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-23.html"
 ---
 
 *WITH* the departure of Fred and Terry, Deerfoot felt as though he had flung off a blanket that had been wrapped about his shoulders: his arms were now free and he could use them at will.

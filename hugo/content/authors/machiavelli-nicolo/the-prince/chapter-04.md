@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Why The Kingdom Of Darius, Conquered By Alexander, Did Not Rebel Against The Successors Of Alexander At His Death"
 weight: 5
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-04.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-04.html"
 ---
 
 Considering the difficulties which men have had to hold to a newly acquired state, some might wonder how, seeing that Alexander the Great became the master of Asia in a few years, and died whilst it was scarcely settled (whence it might appear reasonable that the whole empire would have rebelled), nevertheless his successors maintained themselves, and had to meet no other difficulty than that which arose among themselves from their own ambitions.

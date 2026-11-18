@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Lightfoot Visits Paddy The Beaver"
 weight: 12
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-12.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-12.html"
 ---
 
 Deep in the Green Forest is the pond where lives Paddy the Beaver. It is Paddy's own pond, for he made it himself. He made it by building a dam across the Laughing Brook.

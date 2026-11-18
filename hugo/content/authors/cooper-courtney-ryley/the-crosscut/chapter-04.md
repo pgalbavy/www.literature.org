@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-04.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-04.html"
 ---
 
 Wonderment which got nowhere. The sheriff's car returned before Fairchild reached the bottom of the grade, and again stopped to survey the scene of defeat, while Fairchild once more told his story, deleting items which, to him, appeared unnecessary for consumption by officers of the law. Carefully the sheriff surveyed the winding road before him and scratched his head.

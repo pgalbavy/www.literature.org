@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-people-that-time-forgot/chapter-01.html"
 ---
 
 I am forced to admit that even though I had traveled a long distance to place Bowen Tyler's manuscript in the hands of his father, I was still a trifle skeptical as to its sincerity, since I could not but recall that it had not been many years since Bowen had been one of the most notorious practical jokers of his alma mater. The truth was that as I sat in the Tyler library at Santa Monica I commenced to feel a trifle foolish and to wish that I had merely forwarded the manuscript by express instead of bearing it personally, for I confess that I do not enjoy being laughed at. I have a well-developed sense of humor--when the joke is not on me.

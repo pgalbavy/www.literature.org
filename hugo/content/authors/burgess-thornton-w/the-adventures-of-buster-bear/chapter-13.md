@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Blacky The Crow Tells His Plan"
 weight: 12
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-13.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-13.html"
 ---
 
 Blacky is a dreamer!  

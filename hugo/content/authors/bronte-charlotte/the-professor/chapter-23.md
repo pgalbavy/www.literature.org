@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-23.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-23.html"
 ---
 
 IT was two o'clock when I returned to my lodgings; my dinner, just brought in from a neighbouring hotel, smoked on the table; I sat down thinking to eat--had the plate been heaped with potsherds and broken glass, instead of boiled beef and haricots, I could not have made a more signal failure: appetite had forsaken me. Impatient of seeing food which I could not taste, I put it all aside into a cupboard, and then demanded, "What shall I do till evening?" for before six P.M. it would be vain to seek the Rue Notre Dame aux Neiges; its inhabitant (for me it had but one) was detained by her vocation elsewhere. I walked in the streets of Brussels, and I walked in my own room from two o'clock till six; never once in that space of time did I sit down. I was in my chamber when the last-named hour struck; I had just bathed my face and feverish hands, and was standing near the glass; my cheek was crimson, my eye was flame, still all my features looked quite settled and calm. Descending swiftly the stair and stepping out, I was glad to see Twilight drawing on in clouds; such shade was to me like a grateful screen, and the chill of latter Autumn, breathing in a fitful wind from the north-west, met me as a refreshing coolness. Still I saw it was cold to others, for the women I passed were wrapped in shawls, and the men had their coats buttoned close.

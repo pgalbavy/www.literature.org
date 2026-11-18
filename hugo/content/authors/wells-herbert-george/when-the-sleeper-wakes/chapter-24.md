@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Coming Of The Aeroplanes"
 weight: 24
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-24.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-24.html"
 ---
 
 Two men in pale blue were Iying in the irregular line that stretched along the edge of the captured Roehampton stage from end to end, grasping their carbines and peering into the shadows of the stage called Wimbledon Park. Now and then they spoke to one another. They spoke the mutilated English of their class and period. The fire of the Ostrogites had dwindled and ceased, and few of the enemy had been seen for some time. But the echoes of the fight that was going on now far below in the lower galleries of that stage, came every now and then between the staccato of shots from the popular side. One of these men was describing to the other how he had seen a man down below there dodge behind a girder, and had aimed at a guess and hit him cleanly as he dodged too far "He's down there still," said the marksman. "See that little patch. Yes. Between those bars." A few yards behind them lay a dead stranger, face upward to the sky, with the blue canvas of his jacket smoldering in a circle about the neat bullet hole on his chest. Close beside him a wounded man, with a leg swathed about, sat with an expressionless face and watched the progress of that burning. Gigantic behind them, athwart the carrier lay the captured aeropile.

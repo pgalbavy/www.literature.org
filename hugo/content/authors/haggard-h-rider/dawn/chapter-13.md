@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-13.html"
+url: "/authors/haggard-h-rider/dawn/chapter-13.html"
 ---
 
 Go, my reader, if the day is dull, and you feel inclined to moralize-- for whatever may be said to the contrary, there are less useful occupations--and look at your village churchyard. What do you see before you? A plot of enclosed ground backed by a grey old church, a number of tombstones more or less decrepit, and a great quantity of little oblong mounds covered with rank grass. If you have any imagination, any power of thought, you will see more than that. First, with the instinctive selfishness of human nature, you will recognize your own future habitation; perhaps your eye will mark the identical spot where the body you love must lie through all seasons and weathers, through the slow centuries that will flit so fast for you, till the crash of doom. It is good that you should think of that, although it makes you shudder. The English churchyard takes the place of the Egyptian mummy at the feast, or the slave in the Roman conqueror's car--it mocks your vigour, and whispers of the end of beauty and strength.

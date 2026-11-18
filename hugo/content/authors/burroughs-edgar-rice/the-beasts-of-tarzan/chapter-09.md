@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Chivalry or Villainy"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-09.html"
 ---
 
 From her cabin port upon the Kincaid, Jane Clayton had seen her husband rowed to the verdure-clad shore of Jungle Island, and then the ship once more proceeded upon its way.

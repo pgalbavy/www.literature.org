@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11 - A Companion Picture"
 weight: 17
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-11.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-11.html"
 ---
 
 "SYDNEY," said Mr. Stryver, on that selfsame night, or morning, to his jackal; "mix another bowl of punch; I have something to say to you."

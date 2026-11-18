@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-21.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-21.html"
 ---
 
 Months in the isolation of a tropic garrison bring to the minds of men strange vagaries. When the work is that of hunting down elusive little traitors, who present faces of friendship by day and develop ingenious and atrocious deviltries at night, the effects are neither softening nor humanizing.

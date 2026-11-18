@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 3 - Good-Bye, Simon"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-03.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-03.html"
 ---
 
 Twenty minutes later, they were picked up by the Castor, the yacht which by this time had passed the Queen Mary. As for the Pays de Caux, the steamer sailing from Dieppe, subsequent enquiries proved that the passengers and the crew had compelled the captain to flee from the scene of the disaster. The sight of the huge waterspout, the spectacle of the ship lifting her stern out of the waves, rearing up bodily and falling back as though into the mouth of a funnel, the upheaval of the sea, which seemed to have given way beneath the assault of maniacal forces and which, within the circumference of the frenzied circle, revolved upon itself in a sort of madness: all this was so terrifying that women fainted and men threatened the captain with their levelled revolvers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-17.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-17.html"
 ---
 
 Towards morning, Siegmund went to sleep. For four hours, until seven o'clock, the womb of sleep received him and nourished him again.

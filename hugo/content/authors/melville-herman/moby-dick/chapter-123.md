@@ -1,8 +1,7 @@
 ---
 title: "Chapter 123 - The Musket"
 weight: 123
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-123.html"
+url: "/authors/melville-herman/moby-dick/chapter-123.html"
 ---
 
 During the most violent shocks of the Typhoon, the man at the Pequod's jaw-bone tiller had several times been reelingly hurled to the deck by its spasmodic motions even though preventer tackles had been attached to it-- for they were slack--because some play to the tiller was indispensable.

@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 5"
 weight: 194
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-05.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-05.html"
 ---
 
 At the concert in the afternoon two very interesting things were performed. One was a fantasia, King Lear; the other was a quartette dedicated to the memory of Bach. Both were new and in the new style, and Levin was eager to form an opinion of them. After escorting his sister- in-law to her stall, he stood against a column and tried to listen as attentively and conscientiously as possible. He tried not to let his attention be distracted, and not to spoil his impression by looking at the conductor in a white tie, waving his arms, which always disturbed his enjoyment of music so much, or the ladies in bonnets, with strings carefully tied over their ears, and all these people either thinking of nothing at all or thinking of all sorts of things except the music. He tried to avoid meeting musical connoisseurs or talkative acquaintances, and stood looking at the floor straight before him, listening.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-02.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-02.html"
 ---
 
 WHEN Launa Archer was ten years old her father realised that she must be taught; so he went forth to seek a governess.

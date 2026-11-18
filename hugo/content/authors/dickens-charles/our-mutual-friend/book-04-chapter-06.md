@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 6 - A Cry For Help"
 weight: 56
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-06.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-06.html"
 ---
 
 The Paper Mill had stopped work for the night, and the paths and roads in its neighbourhood were sprinkled with clusters of people going home from their day’s labour in it. There were men, women, and children in the groups, and there was no want of lively colour to flutter in the gentle evening wind. The mingling of various voices and the sound of laughter made a cheerful impression upon the ear, analogous to that of the fluttering colours upon the eye. Into the sheet of water reflecting the flushed sky in the foreground of the living picture, a knot of urchins were casting stones, and watching the expansion of the rippling circles. So, in the rosy evening, one might watch the ever-widening beauty of the landscape--beyond the newly-released workers wending home--beyond the silver river--beyond the deep green fields of corn, so prospering, that the loiterers in their narrow threads of pathway seemed to float immersed breast-high--beyond the hedgerows and the clumps of trees--beyond the windmills on the ridge--away to where the sky appeared to meet the earth, as if there were no immensity of space between mankind and Heaven.

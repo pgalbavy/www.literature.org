@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 30
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-30.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-30.html"
 ---
 
 Denis had been called, but in spite of the parted curtains he had dropped off again into that drowsy, dozy state when sleep becomes a sensual pleasure almost consciously savoured. In this condition he might have remained for another hour if he had not been disturbed by a violent rapping at the door.

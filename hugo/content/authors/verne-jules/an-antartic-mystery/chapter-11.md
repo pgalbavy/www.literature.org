@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - From The Sandwich Islands To The Polar Circle"
 weight: 11
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-11.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-11.html"
 ---
 
 The Halbrane, singularly favoured by the weather, sighted the New South Orkneys group in six days after she had sailed from the Sandwich Islands. This archipelago was discovered by Palmer, an American, and Bothwell, an Englishman, jointly, in 1821-22. Crossed by the sixty-first parallel, it is comprehended between the forty-fourth and the forty, seventh meridian.

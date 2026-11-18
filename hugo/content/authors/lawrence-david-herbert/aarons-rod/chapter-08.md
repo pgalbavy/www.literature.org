@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Punch In The Wind"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-08.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-08.html"
 ---
 
 The Lillys had a labourer's cottage in Hampshire - pleasant enough. They were poor. Lilly was a little, dark, thin, quick fellow, his wife was strong and fair. They had known Robert and Julia for some years, but Josephine and Jim were new acquaintances, - fairly new.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 15 - Knitting"
 weight: 21
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-15.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-15.html"
 ---
 
 THERE HAD BEEN earlier drinking than usual in the wine-shop of Monsieur Defarge. As early as six o'clock in the morning, sallow faces peeping through its barred windows had descried other faces within, bending over measures of wine. Monsieur Defarge sold a very thin wine at the best of times, but it would seem to have been an unusually thin wine that he sold at this time. A sour wine, moreover, or a souring, for its influence on the mood of those who drank it was to make them gloomy. No vivacious Bacchanalian flame leaped out of the pressed grape of Monsieur Defarge: but, a smouldering fire that burnt in the dark, lay hidden in the dregs of it.

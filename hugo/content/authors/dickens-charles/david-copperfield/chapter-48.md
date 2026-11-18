@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - Domestic"
 weight: 49
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-48.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-48.html"
 ---
 
 I laboured hard at my book, without allowing it to interfere with the punctual discharge of my newspaper duties; and it came out and was very successful. I was not stunned by the praise which sounded in my ears, notwithstanding that I was keenly alive to it, and thought better of my own performance, I have little doubt, than anybody else did. It has always been in my observation of human nature, that a man who has any good reason to believe in himself never flourishes himself before the faces of other people in order that they may believe in him. For this reason, I retained my modesty in very self-respect; and the more praise I got, the more I tried to deserve.

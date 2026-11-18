@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-38.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-38.html"
 ---
 
 Happy he who, like Ulysses, has made an adventurous voyage; and there is no such sea for adventurous voyages as the Mediterranean—the inland sea which the ancients looked upon as so vast and so full of wonders. And, indeed, it was terrible and wonderful; for it is we alone who, swayed by the audacity of our minds and the tremors of our hearts, are the sole artisans of all the wonder and romance of the world.

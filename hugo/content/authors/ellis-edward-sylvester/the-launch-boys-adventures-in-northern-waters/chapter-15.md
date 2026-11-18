@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Knock At The Door"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-15.html"
 ---
 
 Alvin easily caught the swing of the bass and sang when the chorus was reached. Mike barely touched the keys, bringing out a few faint chords that could not add to the sweetness of his voice. Mrs. Friestone sat motionless, looking intently at him until he came to the last words. Then she abruptly took off her glasses and put her handkerchief to her eyes.

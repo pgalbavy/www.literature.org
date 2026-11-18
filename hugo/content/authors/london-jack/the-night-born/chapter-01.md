@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Night-Born"
 weight: 1
-aliases:
-  - "/authors/london-jack/the-night-born/chapter-01.html"
+url: "/authors/london-jack/the-night-born/chapter-01.html"
 ---
 
 It was in the old Alta-Inyo Club--a warm night for San Francisco--and through the open windows, hushed and far, came the brawl of the streets. The talk had led on from the Graft Prosecution and the latest signs that the town was to be run wide open, down through all the grotesque sordidness and rottenness of manhate and man-meanness, until the name of O'Brien was mentioned--O'Brien, the promising young pugilist who had been killed in the prize-ring the night before. At once the air had seemed to freshen. O'Brien had been a clean-living young man with ideals. He neither drank, smoked, nor swore, and his had been the body of a beautiful young god. He had even carried his prayer-book to the ringside. They found it in his coat pocket in the dressing-room. . . afterward.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 2"
 weight: 34
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-02.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-06-chapter-02.html"
 ---
 
 "Ah these cigarettes!" Porfiry Petrovitch ejaculated at last, having lighted one. "They are pernicious, positively pernicious, and yet I can't give them up! I cough, I begin to have tickling in my throat and a difficulty in breathing. You know I am a coward, I went lately to Dr. B - - n; he always gives at least half an hour to each patient. He positively laughed looking at me; he sounded me: 'Tobacco's bad for you,' he said, 'your lungs are affected.' But how am I to give it up? What is there to take its place? I don't drink, that's the mischief, he-he-he, that I don't. Everything is relative, Rodion Romanovitch, everything is relative!"

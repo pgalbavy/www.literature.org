@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - The Guests"
 weight: 39
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-39.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-39.html"
 ---
 
 In the house in the Rue du Helder, where Albert had invited the Count of Monte Cristo, everything was being prepared on the morning of the 21st of May to do honor to the occasion. Albert de Morcerf inhabited a pavilion situated at the corner of a large court, and directly opposite another building, in which were the servants' apartments. Two windows only of the pavilion faced the street; three other windows looked into the court, and two at the back into the garden. Between the court and the garden, built in the heavy style of the imperial architecture, was the large and fashionable dwelling of the Count and Countess of Morcerf. A high wall surrounded the whole of the hotel, surmounted at intervals by vases filled with flowers, and broken in the centre by a large gate of gilded iron, which served as the carriage entrance. A small door, close to the lodge of the concierge, gave ingress and egress to the servants and masters when they were on foot.

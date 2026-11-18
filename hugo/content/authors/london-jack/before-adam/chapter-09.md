@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/london-jack/before-adam/chapter-09.html"
+url: "/authors/london-jack/before-adam/chapter-09.html"
 ---
 
 Red-Eye was an atavism. He was the great discordant element in our horde. He was more primitive than any of us. He did not belong with us, yet we were still so primitive ourselves that we were incapable of a cooperative effort strong enough to kill him or cast him out. Rude as was our social organization, he was, nevertheless, too rude to live in it. He tended always to destroy the horde by his unsocial acts. He was really a reversion to an earlier type, and his place was with the Tree People rather than with us who were in the process of becoming men.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - The Sign Of The Red Dovecot"
 weight: 44
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-43.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-43.html"
 ---
 
 Meanwhile the king, who, with more reason than the cardinal, showed his hatred for Buckingham, although scarcely arrived was in such a haste to meet the enemy that he commanded every disposition to be made to drive the English from the Isle of Re, and afterward to press the siege of La Rochelle; but notwithstanding his earnest wish, he was delayed by the dissensions which broke out between MM. Bassompierre and Schomberg, against the Duc d'Angouleme.

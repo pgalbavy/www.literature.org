@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/the-point-of-honor/chapter-03.html"
+url: "/authors/conrad-joseph/the-point-of-honor/chapter-03.html"
 ---
 
 The retreat from Moscow submerged all private feelings in a sea of disaster and misery. Colonels without regiments, D'Hubert and Feraud carried the musket in the ranks of the sacred battalion—a battalion recruited from officers of all arms who had no longer any troops to lead.

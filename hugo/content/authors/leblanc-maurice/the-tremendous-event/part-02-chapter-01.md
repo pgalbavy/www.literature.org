@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - Inside The Wreck"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-01.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-02-chapter-01.html"
 ---
 
 The expedition so gaily launched, in which Simon saw merely a picturesque adventure, such as one reads of in novels, had suddenly become the most formidable tragedy. It was no longer a matter of cinema Indians and circus cow-boys, nor of droll discoveries in fabled lands, but of real dangers, of ruthless brigands operating in regions where no organized force could thwart their enterprises. What could Isabel and her father do, beset by criminals of the worst type?

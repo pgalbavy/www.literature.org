@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/two-little-pilgrims-progress/chapter-02.html"
 ---
 
 They drew as near to the edge as they could without being seen. They did not understand in the least. Robin was not given to practical jokes, but what he had said sounded rather as if there was a joke somewhere. But she saw Jones and Jerry enter the barn, and saw, before they entered, that they were deep in talk. It was Jones who was speaking. Jones was Aunt Matilda’s head man, and was an authority on many things.

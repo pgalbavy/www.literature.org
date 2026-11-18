@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Being Neighborly"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-05.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-05.html"
 ---
 
 "What in the world are you going to do now, Jo?" asked Meg one snowy afternoon, as her sister came tramping through the hall, in rubber boots, old sack, and hood, with a broom in one hand and a shovel in the other.

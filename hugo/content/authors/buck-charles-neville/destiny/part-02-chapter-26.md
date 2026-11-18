@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 26"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-26.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-26.html"
 ---
 
 As he reached Washington square it seemed that the quiet of the section held a sort of benediction, and such peace as hangs between old walls, where the fever of stress has passed and left in its wake a philosophy and a contentment.

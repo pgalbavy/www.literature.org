@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13"
 weight: 28
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-13.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-13.html"
 ---
 
 From now on, to Saxon, life seemed bereft of its last reason and rhyme. It had become senseless, nightmarish. Anything irrational was possible. There was nothing stable in the anarchic flux of affairs that swept her on she knew not to what catastrophic end. Had Billy been dependable, all would still have been well. With him to cling to she would have faced everything fearlessly. But he had been whirled away from her in the prevailing madness. So radical was the change in him that he seemed almost an intruder in the house. Spiritually he was such an intruder. Another man looked out of his eyes--a man whose thoughts were of violence and hatred; a man to whom there was no good in anything, and who had become an ardent protagonist of the evil that was rampant aud universal. This man no longer condemned Bert, himself muttering vaguely of dynamite, end sabotage, and revolution.

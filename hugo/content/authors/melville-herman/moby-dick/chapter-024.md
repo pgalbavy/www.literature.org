@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Advocate"
 weight: 24
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-024.html"
+url: "/authors/melville-herman/moby-dick/chapter-024.html"
 ---
 
 As Queequeg and I are now fairly embarked in this business of whaling; and as this business of whaling has somehow come to be regarded among landsmen as a rather unpoetical and disreputable pursuit; therefore, I am all anxiety to convince ye, ye landsmen, of the injustice hereby done to us hunters of whales.

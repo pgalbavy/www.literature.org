@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Heartache"
 weight: 35
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-35.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-35.html"
 ---
 
 Whatever his motive might have been, Laurie studied to some purpose that year, for he graduated with honor, and gave the Latin oration with the grace of a Phillips and the eloquence of a Demosthenes, so his friends said. They were all there, his grandfather - oh, so proud - Mr. and Mrs. March, John and Meg, Jo and Beth, and all exulted over him with the sincere admiration which boys make light of at the time, but fail to win from the world by any after-triumphs.

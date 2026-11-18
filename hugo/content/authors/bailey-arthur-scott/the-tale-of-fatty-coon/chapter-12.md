@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Forty Fat Turkeys"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-12.html"
 ---
 
 When Jasper Jay told Fatty Coon about Farmer Green's forty fat turkeys Fatty felt hungrier than ever.

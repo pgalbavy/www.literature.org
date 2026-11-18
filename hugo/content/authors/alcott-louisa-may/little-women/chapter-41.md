@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Learning To Forget"
 weight: 41
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-41.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-41.html"
 ---
 
 Amy's lecture did Laurie good, though, of course, he did not own it till long afterward. Men seldom do, for when women are the advisers, the lords of creation don't take the advice till they have persuaded themselves that it is just what they intended to do. Then they act upon it, and, if it succeeds, they give the weaker vessel half the credit of it. If it fails, they generously give her the whole. Laurie went back to his grandfather, and was so dutifully devoted for several weeks that the old gentleman declared the climate of Nice had improved him wonderfully, and he had better try it again. There was nothing the young gentleman would have liked better, but elephants could not have dragged him back after the scolding he had received. Pride forbid, and whenever the longing grew very strong, he fortified his resolution by repeating the words that had made the deepest impression - "I despise you." "Go and do something splendid that will make her love you."

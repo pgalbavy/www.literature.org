@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 11
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-03.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-02-chapter-03.html"
 ---
 
 He was not completely unconscious, however, all the time he was ill; he was in a feverish state, sometimes delirious, sometimes half conscious. He remembered a great deal afterwards. Sometimes it seemed as though there were a number of people round him; they wanted to take him away somewhere, there was a great deal of squabbling and discussing about him. Then he would be alone in the room; they had all gone away afraid of him, and only now and then opened the door a crack to look at him; they threatened him, plotted something together, laughed, and mocked at him. He remembered Nastasya often at his bedside; he distinguished another person, too, whom he seemed to know very well, though he could not remember who he was, and this fretted him, even made him cry. Sometimes he fancied he had been lying there a month; at other times it all seemed part of the same day. But of /that/ - of /that/ he had no recollection, and yet every minute he felt that he had forgotten something he ought to remember. He worried and tormented himself trying to remember, moaned, flew into a rage, or sank into awful, intolerable terror. Then he struggled to get up, would have run away, but someone always prevented him by force, and he sank back into impotence and forgetfulness. At last he returned to complete consciousness.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Bows And Arrows"
 weight: 18
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-18.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-18.html"
 ---
 
 If Sancho's abduction made a stir, one may easily imagine with what warmth and interest he was welcomed back when his wrongs and wanderings were known. For several days he held regular levees, that curious boys and sympathizing girls might see and pity the changed and curtailed dog. Sancho behaved with dignified affability, and sat upon his mat in the coach-house pensively eying his guests, and patiently submitting to their caresses; while Ben and Thorny took turns to tell the few tragical facts which were not shrouded in the deepest mystery. If the interesting sufferer could only have spoken, what thrilling adventures and hair-breadth escapes he might have related. But, alas! he was dumb; and the secrets of that memorable month never were revealed.

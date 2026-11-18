@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Confession"
 weight: 25
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-25.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-25.html"
 ---
 
 HE stopped just inside the door. His first look was for Mercy; his is second look was for Julian.

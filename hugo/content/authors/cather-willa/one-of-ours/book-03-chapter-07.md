@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 7"
 weight: 38
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-03-chapter-07.html"
+url: "/authors/cather-willa/one-of-ours/book-03-chapter-07.html"
 ---
 
 One stormy morning Claude was driving the big wagon to town to get a load of lumber. The roads were beginning to thaw out, and the country was black and dirty looking. Here and there on the dark mud, grey snow crusts lingered, perforated like honeycomb, with wet weedstalks sticking up through them. As the wagon creaked over the high ground just above Frankfort, Claude noticed a brilliant new flag flying from the schoolhouse cupola. He had never seen the flag before when it meant anything but the Fourth of July, or a political rally. Today it was as if he saw it for the first time; no bands, no noise, no orators; a spot of restless colour against the sodden March sky.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1"
 weight: 1
-aliases:
-  - "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-01.html"
+url: "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-01.html"
 ---
 
 It is an ancient Mariner, And he stoppeth one of three. "By thy long grey beard and glittering eye, Now wherefore stopp'st thou me?

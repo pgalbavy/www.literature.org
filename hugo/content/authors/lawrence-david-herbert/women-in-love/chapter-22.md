@@ -1,8 +1,7 @@
 ---
 title: "chapter 22"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-22.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-22.html"
 ---
 
 They came to the town, and left Gerald at the railway station. Gudrun and Winifred were to come to tea with Birkin, who expected Ursula also. In the afternoon, however, the first person to turn up was Hermione. Birkin was out, so she went in the drawing-room, looking at his books and papers, and playing on the piano. Then Ursula arrived. She was surprised, unpleasantly so, to see Hermione, of whom she had heard nothing for some time.

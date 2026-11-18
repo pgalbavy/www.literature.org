@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-05.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-05.html"
 ---
 
 "Mother, Mother, I am so happy!" whispered the girl, burying her face in the lap of the faded, tired-looking woman who, with back turned to the shrill intrusive light, was sitting in the one arm-chair that their dingy sitting-room contained. "I am so happy!" she repeated, "and you must be happy, too!"

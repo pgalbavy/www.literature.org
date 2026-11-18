@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Low-Water Mark"
 weight: 9
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-09.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-09.html"
 ---
 
 Tanny went away to Norway to visit her people, for the first time for three years. Lilly did not go: he did not want to. He came to London and settled in a room over Covent Garden market. The room was high up, a fair size, and stood at the corner of one of the streets and the market itself, looking down on the stalls and the carts and the arcade. Lilly would climb out of the window and sit for hours watching the behaviour of the great draught-horses which brought the mountains of boxes and vegetables. Funny half-human creatures they seemed, so massive and fleshy, yet so Cockney. There was one which could not bear donkeys, and which used to stretch out its great teeth like some massive serpent after every poor diminutive ass that came with a coster's barrow. Another great horse could not endure standing. It would shake itself and give little starts, and back into the heaps of carrots and broccoli, whilst the driver went into a frenzy of rage.

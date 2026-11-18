@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-09.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-09.html"
 ---
 
 WITH animals belonging to the lower classes, the two sexes are not rarely united in the same individual, and therefore secondary sexual characters cannot be developed. In many cases where the sexes are separate, both are permanently attached to some support, and the one cannot search or struggle for the other. Moreover it is almost certain that these animals have too imperfect senses and much too low mental powers to appreciate each other's beauty or other attractions, or to feel rivalry.

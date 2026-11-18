@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - Lady Lundie Does Her Duty"
 weight: 43
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-41.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-41.html"
 ---
 
 THE scene opens on a bedroom--and discloses, in broad daylight, a lady in bed.

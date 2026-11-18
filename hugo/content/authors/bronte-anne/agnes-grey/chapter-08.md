@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The 'Coming Out'"
 weight: 8
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-08.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-08.html"
 ---
 
 AT eighteen, Miss Murray was to emerge from the quiet obscurity of the schoolroom into the full blaze of the fashionable world - as much of it, at least, as could be had out of London; for her papa could not be persuaded to leave his rural pleasures and pursuits, even for a few weeks' residence in town. She was to make her debut on the third of January, at a magnificent ball, which her mamma proposed to give to all the nobility and choice gentry of O- and its neighbourhood for twenty miles round. Of course, she looked forward to it with the wildest impatience, and the most extravagant anticipations of delight.

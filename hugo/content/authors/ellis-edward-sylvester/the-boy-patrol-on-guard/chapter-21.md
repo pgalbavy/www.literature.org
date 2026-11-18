@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - How It Happened"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-21.html"
 ---
 
 Jack Crandall, Arthur Mitchell and Gerald Hume were members of the Stag Patrol, and the age of each was slightly more than fourteen years. Jack was tall, muscular and had an inclination to stoop, due probably to his rapid growth. He was somewhat reserved by nature, but his good disposition made him one of the most popular of the Boy Scouts. What distinguished him among his comrades was his fondness for bird lore. He had been dubbed the official ornithologist and his note books, which he had filled with "pointers" picked up on his excursions in the woods at home, were of the most interesting nature. Sometimes by invitation of Scout Master Hall, he read from them in the evening when the company gathered around the camp fire for reports and gossip. He not only investigated, but studied text books on the subject. No intelligent lad can follow such a course without becoming well informed in any branch of knowledge. It gave him pleasure to answer questions, of which many were asked, and it was universally agreed that he was one of the most valuable members of the troop that was spending the month of August in the woods of southern Maine.

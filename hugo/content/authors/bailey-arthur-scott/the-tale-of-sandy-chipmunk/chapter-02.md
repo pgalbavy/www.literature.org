@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Something In The Sky"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-sandy-chipmunk/chapter-02.html"
 ---
 
 When Sandy Chipmunk was just a little chap his mother began to teach him to take care of himself. She told him that among other enemies he must always watch out for foxes and minks and weasels--especially weasels.

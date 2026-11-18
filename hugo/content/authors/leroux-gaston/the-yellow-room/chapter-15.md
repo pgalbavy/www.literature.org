@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Trap"
 weight: 15
-aliases:
-  - "/authors/leroux-gaston/the-yellow-room/chapter-15.html"
+url: "/authors/leroux-gaston/the-yellow-room/chapter-15.html"
 ---
 
 (*EXTRACT FROM THE NOTE-BOOK OF JOSEPH ROULETABILLE*)

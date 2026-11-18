@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Wool and Water"
 weight: 5
-aliases:
-  - "/authors/carroll-lewis/through-the-looking-glass/chapter-05.html"
+url: "/authors/carroll-lewis/through-the-looking-glass/chapter-05.html"
 ---
 
 She caught the shawl as she spoke, and looked about for the owner: in another moment the White Queen came running wildly through the wood, with both arms stretched out wide, as if she were flying, and Alice very civilly went to meet her with the shawl.

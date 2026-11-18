@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-22.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-22.html"
 ---
 
 We please our fancy with ideal webs Of innovation, but our life meanwhile Is in the loom, where busy passion plies The shuttle to and fro, and gives our deeds The accustomed pattern.

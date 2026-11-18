@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Roman Bandits"
 weight: 33
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-33.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-33.html"
 ---
 
 The next morning Franz woke first, and instantly rang the bell. The sound had not yet died away when Signor Pastrini himself entered.

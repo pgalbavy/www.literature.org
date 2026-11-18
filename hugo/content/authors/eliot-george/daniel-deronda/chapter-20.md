@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-20.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-20.html"
 ---
 
 "It will hardly be denied that even in this frail and corrupted world, we sometimes meet persons who, in their very mien and aspect, as well as in the whole habit of life, manifest such a signature and stamp of virtue, as to make our judgment of them a matter of intuition rather than the result of continued examination." - ALEXANDER KNOX: quoted in Southey's Life of Wesley.

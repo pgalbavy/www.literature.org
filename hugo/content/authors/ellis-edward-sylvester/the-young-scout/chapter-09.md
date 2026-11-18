@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Mendez, The Scout"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-09.html"
 ---
 
 When Mendez, the White Mountain Apache, left the company of Lieutenant Decker and Maurice Freeman he fully comprehended the perilous mission he had undertaken.

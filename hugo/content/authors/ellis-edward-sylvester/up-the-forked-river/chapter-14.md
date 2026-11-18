@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-14.html"
 ---
 
 The tug rounded to and approached the shore so close that by running out the gangplank, the young women were readily assisted to land. They were nervously eager, for there was no saying when the hostile craft would appear and open fire, since its crew and leader must be unaware of the presence of the noncombatants.

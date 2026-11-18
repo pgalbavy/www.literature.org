@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Mealy Nose"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-20.html"
 ---
 
 It was true, as the bays had said, that Twinkleheels had a mealy nose. So perhaps it was only natural that they should think he had meal to eat when they didn't. And he hastened to explain matters to them.

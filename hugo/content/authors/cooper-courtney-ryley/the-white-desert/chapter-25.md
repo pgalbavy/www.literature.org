@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-25.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-25.html"
 ---
 
 It was staggering in its unexpectedness. A gasp came from the lips of Barry Houston. He felt himself reeling,--only to suddenly straighten, as though a crushing weight had been lifted from his shoulders. He whirled excitedly and grasped the nearest onlooker.

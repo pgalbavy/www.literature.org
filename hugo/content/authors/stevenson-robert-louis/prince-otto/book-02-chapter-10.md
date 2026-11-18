@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10 - Gotthold’s Revised Opinion; And The Fall Completed"
 weight: 16
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-10.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-10.html"
 ---
 
 The Countess left poor Otto with a caress and buffet simultaneously administered. The welcome word about his wife and the virtuous ending of his interview should doubtless have delighted him. But for all that, as he shouldered the bag of money and set forward to rejoin his groom, he was conscious of many aching sensibilities. To have gone wrong and to have been set right makes but a double trial for man’s vanity. The discovery of his own weakness and possible unfaith had staggered him to the heart; and to hear, in the same hour, of his wife’s fidelity from one who loved her not, increased the bitterness of the surprise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-17.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-17.html"
 ---
 
 Mr. Fentolin, having succeeded in getting rid of his niece and his somewhat embarrassing guest for at least two hours, was seated in his study, planning out a somewhat strenuous morning, when his privacy was invaded by Doctor Sarson.

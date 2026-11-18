@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Allan Is Captured"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-11.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-11.html"
 ---
 
 The ride that followed was really quite exhilarating. The camels, notwithstanding their long journey, seemed to have caught some of the enthusiasm of the war-horse as described in the Book of Job; indeed I had no idea that they could travel at such a rate. On we swung down the slope, keeping excellent order, the forest of tall spears shining and the little lancer-like pennons fluttering on the breeze in a very gallant way. In silence we went save for the thudding of the hoofs of the camels and an occasional squeal of anger as some rider drove his lance handle into their ribs. Not until we actually joined battle did a single man open his lips. Then, it is true, there went up one simultaneous and mighty roar of:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Major Makes Difficulties"
 weight: 22
-aliases:
-  - "/authors/collins-wilkie/the-law-and-the-lady/chapter-22.html"
+url: "/authors/collins-wilkie/the-law-and-the-lady/chapter-22.html"
 ---
 
 As I opened the dining-room door the Major hastened to meet me. He looked the brightest and the youngest of living elderly gentlemen, with his smart blue frock-coat, his winning smile, his ruby ring, and his ready compliment. It was quite cheering to meet the modern Don Juan once more.

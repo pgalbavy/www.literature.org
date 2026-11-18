@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Two Boys Against An Army"
 weight: 8
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-07.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-07.html"
 ---
 
 SALONIKA, December, 1915.

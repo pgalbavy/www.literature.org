@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/leroux-gaston/the-man-with-the-black-feather/preface.html"
+url: "/authors/leroux-gaston/the-man-with-the-black-feather/preface.html"
 ---
 
 *THE SANDALWOOD BOX*

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - In The Wood"
 weight: 12
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-12.html"
+url: "/authors/eliot-george/adam-bede/chapter-12.html"
 ---
 
 THAT same Thursday morning, as Arthur Donnithorne was moving about in his dressing-room seeing his well-looking British person reflected in the old-fashioned mirrors, and stared at, from a dingy olive-green piece of tapestry, by Pharaoh's daughter and her maidens, who ought to have been minding the infant Moses, he was holding a discussion with himself, which, by the time his valet was tying the black silk sling over his shoulder, had issued in a distinct practical resolution.

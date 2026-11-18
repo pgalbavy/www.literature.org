@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 1 - Lodgers In Queer Street"
 weight: 34
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-01.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-01.html"
 ---
 
 It was a foggy day in London, and the fog was heavy and dark. Animate London, with smarting eyes and irritated lungs, was blinking, wheezing, and choking; inanimate London was a sooty spectre, divided in purpose between being visible and invisible, and so being wholly neither. Gaslights flared in the shops with a haggard and unblest air, as knowing themselves to be night-creatures that had no business abroad under the sun; while the sun itself when it was for a few moments dimly indicated through circling eddies of fog, showed as if it had gone out and were collapsing flat and cold. Even in the surrounding country it was a foggy day, but there the fog was grey, whereas in London it was, at about the boundary line, dark yellow, and a little within it brown, and then browner, and then browner, until at the heart of the City--which call Saint Mary Axe--it was rusty-black. From any point of the high ridge of land northward, it might have been discerned that the loftiest buildings made an occasional struggle to get their heads above the foggy sea, and especially that the great dome of Saint Paul’s seemed to die hard; but this was not perceivable in the streets at their feet, where the whole metropolis was a heap of vapour charged with muffled sound of wheels, and enfolding a gigantic catarrh.

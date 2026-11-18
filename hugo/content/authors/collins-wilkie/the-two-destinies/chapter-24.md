@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - In The Shadow Of St. Paul's"
 weight: 25
-aliases:
-  - "/authors/collins-wilkie/the-two-destinies/chapter-24.html"
+url: "/authors/collins-wilkie/the-two-destinies/chapter-24.html"
 ---
 
 In ten days I was at home again--and my mother's arms were round me.

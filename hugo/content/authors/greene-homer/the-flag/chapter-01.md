@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-01.html"
+url: "/authors/greene-homer/the-flag/chapter-01.html"
 ---
 
 Snow everywhere; freshly fallen, white and beautiful. It lay unsullied on the village roofs, and, trampled but not yet soiled, in the village streets. The spruce trees on the lawn at Bannerhall were weighted with it, and on the lawn itself it rested, like an ermine blanket, soft and satisfying. Down the steps of the porch that stretched across the front of the mansion, a boy ran, whistling, to the street.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - One August Day"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-cruise-in-the-deerfoot/chapter-07.html"
 ---
 
 "Well, here we are!"

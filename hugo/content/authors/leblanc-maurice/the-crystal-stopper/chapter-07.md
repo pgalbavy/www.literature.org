@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Profile Of Napoleon"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-crystal-stopper/chapter-07.html"
+url: "/authors/leblanc-maurice/the-crystal-stopper/chapter-07.html"
 ---
 
 Soon as the prefect of police, the chief of the criminal-investigation department and the examining-magistrates had left Daubrecq’s house, after a preliminary and entirely fruitless inquiry, Prasville resumed his personal search.

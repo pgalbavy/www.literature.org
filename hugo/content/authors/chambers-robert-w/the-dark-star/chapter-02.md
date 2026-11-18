@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Brookhollow"
 weight: 3
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-02.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-02.html"
 ---
 
 The mother, shading the candle with her work-worn hand, looked down at the child in silence. The subdued light fell on a freckled cheek where dark lashes rested, on a slim neck and thin shoulders framed by a mass of short, curly chestnut hair.

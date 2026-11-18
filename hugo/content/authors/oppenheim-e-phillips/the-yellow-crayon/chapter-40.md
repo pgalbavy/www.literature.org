@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-40.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-40.html"
 ---
 
 For once," Lady Carey said, with a faint smile, "your 'admirable Crichton' has failed you."

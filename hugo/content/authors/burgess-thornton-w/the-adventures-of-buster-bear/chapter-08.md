@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Farmer Brown's Boy Has No Luck At All"
 weight: 8
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-08.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-08.html"
 ---
 
 Farmer Brown's boy tramped through the Green Forest, whistling merrily. He always whistles when he feels light-hearted, and he always feels light-hearted when he goes fishing. You see, he is just as fond of fishing as is Little Joe Otter or Billy Mink or Buster Bear. And now he was making his way through the Green Forest to the Laughing Brook, sure that by the time he had followed it down to the Smiling Pool he would have a fine lot of trout to take home. He knew every pool in the Laughing Brook where the trout love to hide, did Farmer Brown's boy, and it was just the kind of a morning when the trout should be hungry. So he whistled as he tramped along, and his whistle was good to hear.

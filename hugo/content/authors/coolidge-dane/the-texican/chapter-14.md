@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Kangaroo Court"
 weight: 15
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-14.html"
+url: "/authors/coolidge-dane/the-texican/chapter-14.html"
 ---
 
 There are some natures so stern and rugged that they lean against a storm like sturdy, wind-nourished pines, throwing back their arms, shaking their rough heads, and making strength from the elemental strife. Of such an enduring breed was Pecos Dalhart and as he stood before the judge, square-jawed, eagle-eyed, with his powerful shoulders thrown back, he cursed the law that held him more than the men who had sworn him into jail. But behind that law stood every man of the commonwealth, and who could fight them all, lone-handed? Lowering his head he submitted, as in ancient days the conquered barbarians bowed to the Roman yoke, but there was rebellion in his heart and he resolved when the occasion offered to make his dream of the revolution a waking reality. The deputy who led him over to jail seemed to sense his prisoner's mood and left him strictly alone, showing the way in silence until they entered the sheriff's office.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2"
 weight: 7
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-02.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-02.html"
 ---
 
 Emil reached home a little past noon, and when he went into the kitchen Alexandra was already seated at the head of the long table, having dinner with her men, as she always did unless there were visitors. He slipped into his empty place at his sister's right. The three pretty young Swedish girls who did Alexandra's housework were cutting pies, refilling coffeecups, placing platters of bread and meat and potatoes upon the red tablecloth, and continually getting in each other's way between the table and the stove. To be sure they always wasted a good deal of time getting in each other's way and giggling at each other's mistakes. But, as Alexandra had pointedly told her sisters-in-law, it was to hear them giggle that she kept three young things in her kitchen; the work she could do herself, if it were necessary. These girls, with their long letters from home, their finery, and their love-affairs, afforded her a great deal of entertainment, and they were company for her when Emil was away at school.

@@ -1,8 +1,7 @@
 ---
 title: "Introduction"
 weight: 1
-aliases:
-  - "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/introduction.html"
+url: "/authors/wollstonecraft-mary/a-vindication-of-the-rights-of-woman/introduction.html"
 ---
 
 A BRIEF SKETCH OF THE LIFE OF MARY WOLLSTONECRAFT

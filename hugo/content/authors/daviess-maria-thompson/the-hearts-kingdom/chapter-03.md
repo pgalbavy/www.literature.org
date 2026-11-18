@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Gauntlet"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-03.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-03.html"
 ---
 
 Was that young Methodist minister crushed by my plainly intended gauntlet flung down to him? He was not.

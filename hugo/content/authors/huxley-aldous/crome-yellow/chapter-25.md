@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/huxley-aldous/crome-yellow/chapter-25.html"
+url: "/authors/huxley-aldous/crome-yellow/chapter-25.html"
 ---
 
 I hope you all realise," said Henry Wimbush during dinner, "that next Monday is Bank Holiday, and that you will all be expected to help in the Fair."

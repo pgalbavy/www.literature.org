@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-22.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-22.html"
 ---
 
 The veteran gazed down at the sloping expanse of stone that curved to the sheer drop of the precipice. He was absolutely helpless in the face of the catastrophe he had witnessed. A man, a girl and a dog had gone to their death in this frightful place within the minute. Already, the corpses were stewing in the Devil's Pot half-a-thousand feet below, he reflected grimly. There was nothing to be done for them now, or ever. He felt a whirl of nausea within him, but fought back the weakness. He shuddered, as he thought of the man behind him, lying senseless on the edge of the Slide. Was it Hodges whom he had seen plunge into the depths, or was it--Zeke? It was with fearful apprehension that he turned at last to learn as to which remained.

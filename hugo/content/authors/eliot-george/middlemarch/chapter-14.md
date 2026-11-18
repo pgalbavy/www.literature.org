@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-14.html"
+url: "/authors/eliot-george/middlemarch/chapter-14.html"
 ---
 
 "Follows here the strict receipt For that sauce to dainty meat, Named Idleness, which many eat By preference, and call it sweet: First watch for morsels, like a hound Mix well with buffets, stir them round With good thick oil of flatteries, And froth with mean self-lauding lies. Serve warm: the vessels you must choose To keep it in are dead men's shoes."

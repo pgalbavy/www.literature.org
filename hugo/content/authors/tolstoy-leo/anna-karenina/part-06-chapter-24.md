@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 24"
 weight: 181
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-24.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-24.html"
 ---
 
 "Then there is all the more reason for you to legalize your position, if possible," said Dolly.

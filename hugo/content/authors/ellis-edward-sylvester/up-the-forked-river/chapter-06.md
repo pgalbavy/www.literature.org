@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-06.html"
 ---
 
 The Captain resumed his lolling posture, placed another cartridge in his revolver and lit a fresh cigarette. By and by his eyes closed and Major Starland saw that he slept. The American arose to his feet, yawned and stretched his arms over his head, holding the tiller in place between his knees.

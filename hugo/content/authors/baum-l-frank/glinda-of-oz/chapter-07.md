@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-07.html"
 ---
 
 Ozma, seeing it was useless to argue with the Supreme Dictator of the Flatheads. had been considering how best to escape from his power. She realized that his sorcery might be difficult to overcome, and when he threatened to cast Dorothy and her into a bronze prison she slipped her hand into her bosom and grasped her silver wand. With the other hand she grasped the hand of Dorothy, but these motions were so natural that the Su-dic did not notice them. Then when he turned to meet his four soldiers, Ozma instantly rendered both herself and Dorothy invisible and swiftly led her companion around the group of Flatheads and out of the room. As they reached the entry and descended the stone steps, Ozma whispered:

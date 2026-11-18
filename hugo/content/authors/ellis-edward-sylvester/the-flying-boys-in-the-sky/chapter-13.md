@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Science Wins"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-13.html"
 ---
 
 Clever as was Harvey Hamilton, and skilfully as he had played the game, he was outwitted at last, for the individual who rushed toward him was his enemy Bill, and he carried a loaded gun.

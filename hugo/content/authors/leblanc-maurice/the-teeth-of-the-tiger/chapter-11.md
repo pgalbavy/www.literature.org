@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Routed"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-11.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-11.html"
 ---
 
 Don Luis had certainly expected this formidable blow; and yet it appeared to take him unawares, and he repeated more than once:

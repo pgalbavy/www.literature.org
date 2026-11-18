@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-09.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-09.html"
 ---
 
 When Tarzan of the Apes regained consciousness he found himself lying upon an earthen floor in a large chamber. As he first opened his eyes, before complete consciousness returned, he noticed that the room was well, but not brilliantly, lighted, and that there were others there besides himself. Later, as he commenced to collect and dominate his faculties of thought he saw that the room was lighted by two immense candles that appeared to be fully three feet in diameter and, though evidently partially melted away, yet at least five feet tall. Each supported a wick fully as large as a man's wrist and though the manner of their burning was similar to the candles with which he was familiar, yet they gave off no smoke, nor were the beams and boards of the ceiling directly above them smoke blackened.

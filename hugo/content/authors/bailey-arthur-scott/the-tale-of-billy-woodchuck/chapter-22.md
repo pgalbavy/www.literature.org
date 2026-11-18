@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Ground Hog Day"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-22.html"
 ---
 
 Billy Woodchuck had been asleep for a long, long time. The world above was white with snow. But no matter how hard the cold winter winds might blow, or how heavily the snow fell, in their underground chamber Mrs. Woodchuck's family were snug and warm in their beds.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58"
 weight: 58
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-58.html"
+url: "/authors/eliot-george/middlemarch/chapter-58.html"
 ---
 
 "For there can live no hatred in thine eye, Therefore in that I cannot know thy change: In many's looks the false heart's history Is writ in moods and frowns and wrinkles strange: But Heaven in thy creation did decree That in thy face sweet love should ever dwell: Whate'er thy thoughts or thy heart's workings be Thy looks should nothing thence but sweetness tell." - SHAKESPEARE: Sonnets.

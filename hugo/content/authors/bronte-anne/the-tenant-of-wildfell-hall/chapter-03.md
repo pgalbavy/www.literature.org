@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-03.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-03.html"
 ---
 
 Two days after, Mrs. Graham called at Linden-Car, contrary to the expectation of Rose, who entertained an idea that the mysterious occupant of Wildfell Hall would wholly disregard the common observances of civilized life, - in which opinion she was supported by the Wilsons, who testified that neither their call nor the Millwards' had been returned as yet. Now, however, the cause of that omission was explained, though not entirely to the satisfaction of Rose. Mrs. Graham had brought her child with her, and on my mother's expressing surprise that he could walk so far, she replied, - 'It is a long walk for him; but I must have either taken him with me, or relinquished the visit altogether; for I never leave him alone; and I think, Mrs. Markham, I must beg you to make my excuses to the Millwards and Mrs. Wilson, when you see them, as I fear I cannot do myself the pleasure of calling upon them till my little Arthur is able to accompany me.'

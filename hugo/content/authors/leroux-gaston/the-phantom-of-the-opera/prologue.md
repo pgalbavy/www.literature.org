@@ -1,8 +1,7 @@
 ---
 title: "Prologue"
 weight: 1
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/prologue.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/prologue.html"
 ---
 
 *IN WHICH THE AUTHOR OF THIS SINGULAR WORK INFORMS THE READER HOW HE ACQUIRED THE CERTAINTY THAT THE OPERA GHOST REALLY EXISTED*

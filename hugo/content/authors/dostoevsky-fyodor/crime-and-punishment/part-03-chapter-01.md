@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 1"
 weight: 16
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-01.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-03-chapter-01.html"
 ---
 
 Raskolnikov got up, and sat down on the sofa. He waved his hand weakly to Razumihin to cut short the flow of warm and incoherent consolations he was addressing to his mother and sister, took them both by the hand and for a minute or two gazed from one to the other without speaking. His mother was alarmed by his expression. It revealed an emotion agonisingly poignant, and at the same time something immovable, almost insane. Pulcheria Alexandrovna began to cry.

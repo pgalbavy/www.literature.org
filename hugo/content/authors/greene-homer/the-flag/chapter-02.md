@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-02.html"
+url: "/authors/greene-homer/the-flag/chapter-02.html"
 ---
 
 Pen was not only exhausted by his race, he was disappointed and distressed as well.

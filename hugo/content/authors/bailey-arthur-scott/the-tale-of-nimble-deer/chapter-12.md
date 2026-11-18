@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Cuffy Is Missing"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-12.html"
 ---
 
 Far up on the dark mountainside, in the driving snow, Nimble waited in front of the cave where Cuffy Bear had vanished. And all the time Nimble was growing more uneasy. He feared that Cuffy Bear might be in some sort of trouble.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 58 - Jesus Seigneur"
 weight: 58
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-58.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-58.html"
 ---
 
 Whilst Mordaunt was making his way to Cromwell's tent, D'Artagnan and Porthos had brought their prisoners to the house which had been assigned to them as their dwelling at Newcastle.

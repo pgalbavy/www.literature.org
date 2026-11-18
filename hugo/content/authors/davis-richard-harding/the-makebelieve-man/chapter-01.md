@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-makebelieve-man/chapter-01.html"
+url: "/authors/davis-richard-harding/the-makebelieve-man/chapter-01.html"
 ---
 
 I had made up my mind that when my vacation came I would spend it seeking adventures. I have always wished for adventures, but, though I am old enough--I was twenty-five last October--and have always gone half-way to meet them, adventures avoid me. Kinney says it is my fault. He holds that if you want adventures you must go after them.

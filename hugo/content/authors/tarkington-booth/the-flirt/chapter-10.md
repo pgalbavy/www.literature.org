@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-10.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-10.html"
 ---
 
 Dinner on Sunday, the most elaborate feast of the week for the Madisons, was always set for one o'clock in the afternoon, and sometimes began before two, but not to-day: the escorts of both daughters remained, and a change of costume by Cora occasioned a long postponement. Justice demands the admission that her reappearance in a glamour of lilac was reward for the delay; nothing more ravishing was ever seen, she was warrantably informed by the quicker of the two guests, in a moment's whispered tete-a-tete across the banisters as she descended. Another wait followed while she prettily arranged upon the table some dozens of asters from a small garden-bed, tilled, planted, and tended by Laura. Meanwhile, Mrs. Madison constantly turned the other cheek to the cook. Laura assisted in the pacification; Hedrick froze the ice-cream to an impenetrable solidity; and the nominal head of the family sat upon the front porch with the two young men, and wiped his wrists and rambled politically till they were summoned to the dining-room.

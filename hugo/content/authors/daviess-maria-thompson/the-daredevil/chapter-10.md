@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Vitriol And The Hoodoo"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-10.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-10.html"
 ---
 
 "I suppose it is absurd for a staid old matron like myself to be jealous, really jealous, at seeing a child like you being consumed alive by a lot of simpering misses in pink and blue chiffon pinafores, who ought to be in their nursery cots asleep, but I have been and am, boy. Did you forget that I was your oldest friend while Sue Tomlinson fed you sweets out of her hand?" And as she spoke she seated herself in the exact center of the window seat and motioned me to place myself in the portion of the left side that remained. I inserted myself into the space that was so indicated and laid my arm along the window ledge behind her very much undressed back, so that I might give to my lungs space to expand for air. I think that arrangement made very much for the comfort of the beautiful Madam Patricia, for she immediately appropriated that arm as a cushion for her undraped shoulders. We being thus comfortably wedged, the warfare began.

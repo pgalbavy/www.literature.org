@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1"
 weight: 3
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-01-chapter-01.html"
+url: "/authors/conrad-joseph/the-rescue/part-01-chapter-01.html"
 ---
 
 Out of the level blue of a shallow sea Carimata raises a lofty barrenness of grey and yellow tints, the drab eminence of its arid heights. Separated by a narrow strip of water, Suroeton, to the west, shows a curved and ridged outline resembling the backbone of a stooping giant. And to the eastward a troop of insignificant islets stand effaced, indistinct, with vague features that seem to melt into the gathering shadows. The night following from the eastward the retreat of the setting sun advanced slowly, swallowing the land and the sea; the land broken, tormented and abrupt; the sea smooth and inviting with its easy polish of continuous surface to wanderings facile and endless.

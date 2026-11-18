@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-05.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-05.html"
 ---
 
 Mr. Vertrees, having watched their departure with the air of a man who had something at hazard upon the expedition, turned from the window and began to pace the library thoughtfully, pending their return. He was about sixty; a small man, withered and dry and fine, a trim little sketch of an elderly dandy. His lambrequin mustache—relic of a forgotten Anglomania—had been profoundly black, but now, like his smooth hair, it was approaching an equally sheer whiteness; and though his clothes were old, they had shapeliness and a flavor of mode. And for greater spruceness there were some jaunty touches; gray spats, a narrow black ribbon across the gray waistcoat to the eye-glasses in a pocket, a fleck of color from a button in the lapel of the black coat, labeling him the descendant of patriot warriors.

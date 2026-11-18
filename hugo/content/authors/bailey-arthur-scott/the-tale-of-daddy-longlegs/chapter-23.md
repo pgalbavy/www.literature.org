@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A New Name For Daddy"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-23.html"
 ---
 
 DADDY LONGLEGS' neighbor, little Mr. Chippy, had an idea. And since he thought it a good one he at once arranged a meeting of a number of his friends who lived near him.

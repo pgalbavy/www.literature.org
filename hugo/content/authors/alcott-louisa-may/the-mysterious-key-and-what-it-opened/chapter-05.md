@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Hero"
 weight: 5
-aliases:
-  - "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-05.html"
+url: "/authors/alcott-louisa-may/the-mysterious-key-and-what-it-opened/chapter-05.html"
 ---
 
 Four years had passed, and Lillian was fast blooming into a lovely woman: proud and willful as ever, but very charming, and already a belle in the little world where she still reigned a queen. Owing to her mother's ill health, she was allowed more freedom than is usually permitted to an English girl of her age; and, during the season, often went into company with a friend of Lady Trevlyn's who was chaperoning two young daughters of her own. To the world Lillian seemed a gay, free-hearted girl; and no one, not even her mother, knew how well she remembered and how much she missed the lost Paul. No tidings of him had ever come, and no trace of him was found after his flight. Nothing was missed, he went without his wages, and no reason could be divined for his departure except the foreign letter. Bedford remembered it, but forgot what postmark it bore, for he had only been able to decipher "Italy." My lady made many inquiries and often spoke of him; but when month after month passed and no news came, she gave him up, and on Lillian's account feigned to forget him. Contrary to Hester's fear, she did not seem the worse for the nocturnal fright, but evidently connected the strange visitor with Paul, or, after a day or two of nervous exhaustion, returned to her usual state of health. Hester had her own misgivings, but, being forbidden to allude to the subject, she held her peace, after emphatically declaring that Paul would yet appear to set her mind at rest.

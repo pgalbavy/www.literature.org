@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48 - A Family Affair"
 weight: 49
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-48.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-48.html"
 ---
 
 Athos had invented the phrase, family affair. A family affair was not subject to the investigation of the cardinal; a family affair concerned nobody. People might employ themselves in a family affair before all the world. Therefore Athos had invented the phrase, family affair.

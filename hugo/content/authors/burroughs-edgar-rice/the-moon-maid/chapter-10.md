@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The City Of Kalkars"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-10.html"
 ---
 
 Now, indeed, did I have reason to curse the stupidity that had permitted me to cast into the abyss all of the hooked poles save one, since even this one was now lost to me and I was utterly without means of escape from the tunnel.

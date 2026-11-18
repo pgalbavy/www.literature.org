@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - The Flying Proa And Its Commander"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-26.html"
 ---
 
 The lateen sail of the proa descended with a rattle and bang, the man at the oar gave it several vigorous sweeps, and the strange-looking but astonishingly swift craft came to rest almost in the same position that the schooner *Coral* occupied three years before.

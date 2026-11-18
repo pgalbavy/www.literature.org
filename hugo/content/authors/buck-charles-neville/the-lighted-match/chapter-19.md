@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Jackal Takes The Trail"
 weight: 19
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-19.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-19.html"
 ---
 
 "When the Duke avowed himself to be kidnaped, he committed an error so grave that it can hardly be--overestimated." The speaker used the last word as an afterthought. His first inclination was to say, forgiven.

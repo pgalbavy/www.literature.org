@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Political Economy Of Stornham"
 weight: 24
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-24.html"
 ---
 
 The satin-skinned chestnut was one of the new horses now standing in the Stornham stables. There were several of them--a pair for the landau, saddle horses, smart young cobs for phaeton or dog cart, a pony for Ughtred--the animals necessary at such a place at Stornham. The stables themselves had been quickly put in order, grooms and stable boys kept them as they had not been kept for years. The men learned in a week's time that their work could not be done too well. There were new carriages as well as horses. They had come from London after Lady Anstruthers and her sister returned from town. The horses had been brought down by their grooms--immensely looked after, blanketed, hooded, and altogether cared for as if they were visiting dukes and duchesses. They were all fine, handsome, carefully chosen creatures. When they danced and sidled through the village on their way to the Court, they created a sensation. Whosoever had chosen them had known his business. The older vehicles had been repaired in the village by Tread, and did him credit. Fox had also done his work well.

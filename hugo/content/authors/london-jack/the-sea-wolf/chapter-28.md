@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-28.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-28.html"
 ---
 
 There is no need of going into an extended recital of our suffering in the small boat during the many days we were driven and drifted, here and there, willy-nilly, across the ocean. The high wind blew from the north-west for twenty-four hours, when it fell calm, and in the night sprang up from the south-west. This was dead in our teeth, but I took in the sea-anchor and set sail, hauling a course on the wind which took us in a south-south-easterly direction. It was an even choice between this and the west-north-westerly course which the wind permitted; but the warm airs of the south fanned my desire for a warmer sea and swayed my decision.

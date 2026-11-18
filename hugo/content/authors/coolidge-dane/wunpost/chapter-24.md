@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Something New"
 weight: 24
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-24.html"
+url: "/authors/coolidge-dane/wunpost/chapter-24.html"
 ---
 
 There are compensations for everything, even for being given up for dead, and as he was welcomed back to life by a sweet kiss from Wilhelmina, Wunpost was actually glad he had been shot. He was glad he was hungry, for now she would feed him; glad he was wounded, for she would be his nurse; and when Cole Campbell and his wife took him in and made much of him he lost his last bitterness against Lynch. In the first place, Lynch was dead, and not up on the ridge waiting to pot him for what money he had; and in the second place Lynch had shot right past his heart and yet had barely wounded him at all. But the sight of that crease across his breast and the punctured hole through his arm quite disarmed the Campbells and turned their former disapproval to a hovering admiration and solicitude.

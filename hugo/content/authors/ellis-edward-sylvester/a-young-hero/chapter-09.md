@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Several Mishaps"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-09.html"
 ---
 
 On this same eventful evening, Archie Jackson, the constable of Tottenville, started from the residence of the Misses Perkinpine for his own house in the village.

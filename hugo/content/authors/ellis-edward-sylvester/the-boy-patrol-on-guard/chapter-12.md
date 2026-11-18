@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - How It Was Done"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-on-guard/chapter-12.html"
 ---
 
 Scout Master Hall here interposed:

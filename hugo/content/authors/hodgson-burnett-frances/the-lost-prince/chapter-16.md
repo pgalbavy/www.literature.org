@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Rat To The Rescue"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-16.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-16.html"
 ---
 
 Marco walked through the passage and into the kitchen part of the basement. The doors were all locked, and they were solid doors. He ran up the flagged steps and found the door at the top shut and bolted also, and that too was a solid door. His jailers had plainly made sure that it should take time enough for him to make his way into the world, even after he got out of the wine-cellar.

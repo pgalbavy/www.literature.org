@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - In The Dress Of Magnificence"
 weight: 8
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-08.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-08.html"
 ---
 
 "The beautiful Madam Whitworth came down upon the same train which I occupied," I said as I remembered to raise from my head my hat by that action on the part of my Mr. Buzz.

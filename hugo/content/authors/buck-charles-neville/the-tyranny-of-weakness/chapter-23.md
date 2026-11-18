@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-23.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-23.html"
 ---
 
 Less in words than by a subtle though unmistakable manner, the husband made it clear to Stuart Farquaharson that his status in this establishment was to be as intimately free as if he had been the brother instead of the former lover of Conscience. It was difficult to reconcile this unqualified acceptance with every impression he had formed of Eben, and while he unpacked his bag in his bedroom a sense of perplexity lingered with him. But as he was changing into his bathing suit a solution presented itself which seemed to bear the stamp of four-square logic.

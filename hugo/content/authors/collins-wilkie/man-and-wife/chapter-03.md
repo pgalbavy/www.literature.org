@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Discoveries"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-03.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-03.html"
 ---
 
 BUT two persons were now left in the summer-house--Arnold Brinkworth and Sir Patrick Lundie.

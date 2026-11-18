@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Second Body"
 weight: 14
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-14.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-14.html"
 ---
 
 Waiting for no more, I turned and ran up the path to the shed. The two men on guard there stood aside to let me pass and, filled with excitement, I entered.

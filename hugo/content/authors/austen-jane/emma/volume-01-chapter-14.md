@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 14"
 weight: 14
-aliases:
-  - "/authors/austen-jane/emma/volume-01-chapter-14.html"
+url: "/authors/austen-jane/emma/volume-01-chapter-14.html"
 ---
 
 Some change of countenance was necessary for each gentleman as they walked into Mrs. Weston's drawing-room;--Mr. Elton must compose his joyous looks, and Mr. John Knightley disperse his ill-humour. Mr. Elton must smile less, and Mr. John Knightley more, to fit them for the place.--Emma only might be as nature prompted, and shew herself just as happy as she was. To her it was real enjoyment to be with the Westons. Mr. Weston was a great favourite, and there was not a creature in the world to whom she spoke with such unreserve, as to his wife; not any one, to whom she related with such conviction of being listened to and understood, of being always interesting and always intelligible, the little affairs, arrangements, perplexities, and pleasures of her father and herself. She could tell nothing of Hartfield, in which Mrs. Weston had not a lively concern; and half an hour's uninterrupted communication of all those little matters on which the daily happiness of private life depends, was one of the first gratifications of each.

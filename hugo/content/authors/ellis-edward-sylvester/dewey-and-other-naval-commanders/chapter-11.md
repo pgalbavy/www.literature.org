@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-11.html"
 ---
 
 Cause of the War of 1812 —Discreditable Work of the Land Forces—Brilliant Record of the Navy—The *Constitution* —Captain Isaac Hull—Battle Between the *Constitution* and *Guerriere* —Winning a Wager.

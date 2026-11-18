@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-16.html"
+url: "/authors/austen-jane/persuasion/chapter-16.html"
 ---
 
 There was one point which Anne, on returning to her family, would have been more thankful to ascertain even than Mr Elliot's being in love with Elizabeth, which was, her father's not being in love with Mrs Clay; and she was very far from easy about it, when she had been at home a few hours. On going down to breakfast the next morning, she found there had just been a decent pretence on the lady's side of meaning to leave them. She could imagine Mrs Clay to have said, that "now Miss Anne was come, she could not suppose herself at all wanted;" for Elizabeth was replying in a sort of whisper, "That must not be any reason, indeed. I assure you I feel it none. She is nothing to me, compared with you;" and she was in full time to hear her father say, "My dear madam, this must not be. As yet, you have seen nothing of Bath. You have been here only to be useful. You must not run away from us now. You must stay to be acquainted with Mrs Wallis, the beautiful Mrs Wallis. To your fine mind, I well know the sight of beauty is a real gratification."

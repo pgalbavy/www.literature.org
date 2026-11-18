@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Where Trails Meet"
 weight: 22
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-22.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-22.html"
 ---
 
 A long, narrow valley between snow-capped mountains glistening under the January sun; a cluster of ramshackle, weather-beaten wooden houses elbowing each other on either side of a single straggling street, with here and there a newer concrete building planted firmly like respectable citizens in a disreputable mob. Stray dogs sniffing at heaps of refuse, a group of tethered horses shivering under thin blankets in the hotel shed, a battered jitney or two stalled before shop and saloon. A Chinaman with a huge bundle upon his head, a slatternly woman brushing the dry, powdered snow from the path, a tawdry one pattering along, her rouged face pitiful in the clear merciless light; red-shirted miners crawling like ants to the yawning shaft-mouths half way up the mountainside.--This was Topaz Gulch on a certain wintry morning.

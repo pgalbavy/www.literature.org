@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Knight-Errantry as a Trade"
 weight: 20
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-19.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-19.html"
 ---
 
 SANDY and I were on the road again, next morning, bright and early. It was so good to open up one's lungs and take in whole luscious barrels-ful of the blessed God's untainted, dew-fashioned, woodlandscented air once more, after suffocating body and mind for two days and nights in the moral and physical stenches of that intolerable old buzzard-roost! mean, for me: of course the place was all right and agreeable enough for Sandy, for she had been used to high life all her days.

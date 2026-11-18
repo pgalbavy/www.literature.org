@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Shut In"
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-27.html"
 ---
 
 The situation in which the visitors to the dominions of King Haffgo were placed, was such as to sharpen their wits to the keenest edge.

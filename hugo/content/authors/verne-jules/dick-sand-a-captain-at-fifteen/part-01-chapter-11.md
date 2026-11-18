@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11 - Tempest"
 weight: 11
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-11.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-11.html"
 ---
 
 During the week which followed that event, from the 14th of February to the 21st, no incident took place on board. The wind from the northwest freshened gradually, and the "Pilgrim" sailed rapidly, making on an average one hundred and sixty miles in twenty-four hours. It was nearly all that could be asked of a vessel of that size.

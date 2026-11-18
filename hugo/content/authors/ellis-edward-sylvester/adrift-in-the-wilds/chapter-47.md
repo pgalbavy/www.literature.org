@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - Still Waiting"
 weight: 47
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-47.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-47.html"
 ---
 
 Tim O'Rooney and Howard Lawrence, after making their way out of the range of hills to the river-side, where their canoe lay, waited until dark, in accordance with their agreement, before venturing out upon the river. They were quite uneasy, and to prevent their trail revealing them they dropped a few hundred yards down the shore, where they awaited the coming of darkness.

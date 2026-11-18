@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Merry Christmas"
 weight: 22
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-022.html"
+url: "/authors/melville-herman/moby-dick/chapter-022.html"
 ---
 
 At length, towards noon, upon the final dismissal of the ship's riggers, and after the Pequod had been hauled out from the wharf, and after the ever-thoughtful Charity had come off in a whale-boat, with her last gift-- a nightcap for Stubb, the second mate, her brother-in-law, and a spare Bible for the steward--after all this, the two Captains, Peleg and Bildad, issued from the cabin, and turning to the chief mate, Peleg said:

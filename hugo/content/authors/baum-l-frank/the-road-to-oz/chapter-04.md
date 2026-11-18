@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-road-to-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-road-to-oz/chapter-04.html"
 ---
 
 It was amusing to note the expression on the face of King Dox as he looked the boy over, from his sailor hat to his stubby shoes, and it was equally diverting to watch Button-Bright stare at the King in return. No fox ever beheld a fresher, fairer child's face, and no child had ever before heard a fox talk, or met with one who dressed so handsomely and ruled so big a city. I am sorry to say that no one had ever told the little boy much about fairies of any kind; this being the case, it is easy to understand how much this strange experience startled and astonished him.

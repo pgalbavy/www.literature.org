@@ -1,8 +1,7 @@
 ---
 title: "Chapter 36 - By The Roadside Everywhere"
 weight: 36
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-36.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-36.html"
 ---
 
 His breakfast and the talk over it with Penzance seemed good things. It suddenly had become worth while to discuss the approaching hop harvest and the yearly influx of the hop pickers from London. Yesterday the subject had appeared discouraging enough. The great hop gardens of the estate had been in times past its most prolific source of agricultural revenue and the boast and wonder of the hop-growing county. The neglect and scant food of the lean years had cost them their reputation. Each season they had needed smaller bands of “hoppers,” and their standard had been lowered. It had been his habit to think of them gloomily, as of hopeless and irretrievable loss. Because this morning, for a remote reason, the pulse of life beat strong in him he was taking a new view. Might not study of the subject, constant attention and the application of all available resource to one end produce appreciable results? The idea presented itself in the form of a thing worth thinking of.

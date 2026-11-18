@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Escape"
 weight: 11
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-10.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-10.html"
 ---
 
 Shuddering, uncertain how to act next, Véronique listened till she no longer heard the sound of his footsteps. What should she do? The murder of Stéphane had for a moment turned her thoughts from François; but she now once more fell a prey to anguish. What had become of her son? Should she go to him at the Priory and defend him against the dangers that threatened him?

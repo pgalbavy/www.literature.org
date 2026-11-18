@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Blair's Company"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patriot/chapter-05.html"
 ---
 
 Blair Robertson had long had a famous military company of his own, called the Fairport Guard. A guard *against what* had never been publicly stated; and as they had no written constitution for their association, posterity must ever remain in ignorance on this point. Up and down the streets of Fairport it was their delight to parade on a Saturday afternoon, to the infinite amusement of the small girls who ate molasses candy and looked at the imposing array.

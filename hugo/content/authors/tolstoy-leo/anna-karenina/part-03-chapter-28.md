@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 28"
 weight: 97
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-28.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-28.html"
 ---
 
 Levin was insufferably bored that evening with the ladies; he was stirred as he had never been before by the idea that the dissatisfaction he was feeling with his system of managing his land was not an exceptional case, but the general condition of things in Russia; that the organization of some relation of the laborers to the soil in which they would work, as with the peasant he had met half-way to the Sviazhskys', was not a dream, but a problem which must be solved. And it seemed to him that the problem could be solved, and that he ought to try and solve it.

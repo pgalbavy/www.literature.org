@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Tall Bear And His Warriors--A Surprising Discovery"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-story-of-red-feather/chapter-08.html"
 ---
 
 You will recall that when Red Feather wedged himself in the narrow window he said, in answer to the sharp questioning of Melville Clarendon, that the Muddy Creek band of Sioux were so far off that nothing was to be feared from them.

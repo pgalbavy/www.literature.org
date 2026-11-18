@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Startling Conclusion"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-16.html"
 ---
 
 Jack Carleton stealthily pressed his left hand against his breast; his knife was where he could whip it out when wanted.

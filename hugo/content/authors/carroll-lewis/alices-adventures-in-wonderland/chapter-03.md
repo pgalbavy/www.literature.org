@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Caucus-Race And A Long Tale"
 weight: 3
-aliases:
-  - "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-03.html"
+url: "/authors/carroll-lewis/alices-adventures-in-wonderland/chapter-03.html"
 ---
 
 They were indeed a queer-looking party that assembled on the bank—the birds with draggled feathers, the animals with their fur clinging close to them, and all dripping wet, cross, and uncomfortable.

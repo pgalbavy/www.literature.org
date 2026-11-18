@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 14"
 weight: 234
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-14.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-14.html"
 ---
 
 Levin looked before him and saw a herd of cattle, then he caught sight of his trap with Raven in the shafts, and the coachman, who, driving up to the herd, said something to the herdsman. Then he heard the rattle of the wheels and the snort of the sleek horse close by him. But he was so buried in his thoughts that he did not even wonder why the coachman had come for him.

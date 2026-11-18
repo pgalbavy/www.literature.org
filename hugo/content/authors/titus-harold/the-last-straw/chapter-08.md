@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - And Now, The Clergy"
 weight: 8
-aliases:
-  - "/authors/titus-harold/the-last-straw/chapter-08.html"
+url: "/authors/titus-harold/the-last-straw/chapter-08.html"
 ---
 
 Two-bits was the last into the bunkhouse the following evening. He had ridden his Nigger horse in from the westward hills and had not come through the big gate so not until he stepped across the threshold were the others aware of his presence.

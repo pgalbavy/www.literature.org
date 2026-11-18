@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-11.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-11.html"
 ---
 
 The Khanates of Bokhara and Samarkand used to form Sogdiana, a Persian satrapy inhabited by the Tadjiks and afterwards by the Usbegs, who invaded the country at the close of the fifteenth century. But another invasion, much more modern, is to be feared, that of the sands, now that the saksaouls intended to bring the sandhills to a standstill, have almost completely disappeared.

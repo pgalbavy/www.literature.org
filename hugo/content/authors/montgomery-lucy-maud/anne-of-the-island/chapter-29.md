@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Diana's Wedding"
 weight: 29
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-29.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-29.html"
 ---
 
 "After all, the only real roses are the pink ones," said Anne, as she tied white ribbon around Diana's bouquet in the westwardlooking gable at Orchard Slope. "They are the flowers of love and faith."

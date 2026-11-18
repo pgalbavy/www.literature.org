@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Anne Wins A Victory"
 weight: 41
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-39.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-39.html"
 ---
 
 ON a certain evening in the month of September (at that period of the month when Arnold and Blanche were traveling back from Baden to Ham Farm) an ancient man--with one eye filmy and blind, and one eye moist and merry--sat alone in the pantry of the Harp of Scotland Inn, Perth, pounding the sugar softly in a glass of whisky-punch. He has hitherto been personally distinguished in these pages as the self-appointed father of Anne Silvester and the humble servant of Blanche at the dance at Swanhaven Lodge. He now dawns on the view in amicable relations with a third lady--and assumes the mystic character of Mrs. Glenarm's "Friend in the Dark."

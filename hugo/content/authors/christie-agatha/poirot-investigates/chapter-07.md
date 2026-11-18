@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Jewel Robbery At The Grand Metropolitan"
 weight: 7
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-07.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-07.html"
 ---
 
 "Poirot," I said, "a change of air would do you good."

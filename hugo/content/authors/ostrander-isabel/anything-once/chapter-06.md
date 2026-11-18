@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Red Note-Book"
 weight: 6
-aliases:
-  - "/authors/ostrander-isabel/anything-once/chapter-06.html"
+url: "/authors/ostrander-isabel/anything-once/chapter-06.html"
 ---
 
 For a moment Jim laughed with her; then the seriousness of their situation was borne in upon him, and his face sobered.

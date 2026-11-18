@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - On Guard"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/a-young-hero/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/a-young-hero/chapter-04.html"
 ---
 
 The sisters Perkinpine always retired early, and, candle in hand, they made the round of the windows and doors on the first floor.

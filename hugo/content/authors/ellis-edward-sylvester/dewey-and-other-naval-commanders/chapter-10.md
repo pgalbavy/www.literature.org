@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-10.html"
 ---
 
 The Bomb Ketch—A Terrible Missile—Frightful Catastrophe —Diplomacy in Place of War —Peace.

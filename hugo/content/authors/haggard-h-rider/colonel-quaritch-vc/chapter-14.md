@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Tiger Shows Her Claws"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-14.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-14.html"
 ---
 
 After this very chilling reception at the hands of the object of his affection, Edward Cossey continued his drive in an even worse temper than before. He reached his rooms, had some luncheon, and then in pursuance of a previous engagement went over to the Oaks to see Mrs. Quest.

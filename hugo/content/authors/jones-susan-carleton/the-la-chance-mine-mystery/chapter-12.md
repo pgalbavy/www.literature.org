@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Thompson's Cards: And Skunk's Misery"
 weight: 12
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-12.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-12.html"
 ---
 
 For that second I thought Macartney was dead. But as I jumped to him I saw he had only fainted, and that nothing ailed him but a bullet that had glanced off his upper arm and left more of a gouge than a wound. Why it made him faint I couldn't see, but it had. I left him where he had dropped and turned to the four men he had been standing over. But they were past helping. They were decent men too, for they were the last of our own lot,--and it smote me like a hammer that they might have been alive still if I had not interfered with Paulette that night and kept her from meeting Hutton.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/potter-david/an-accidental-honeymoon/chapter-12.html"
+url: "/authors/potter-david/an-accidental-honeymoon/chapter-12.html"
 ---
 
 They were married in the little Kitty Hawk church at noon the next day.

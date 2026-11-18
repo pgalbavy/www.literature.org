@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - A King's Ransom"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-06.html"
 ---
 
 For another mile the two brigands conducted their captor along the mountainside, then they turned into a narrow ravine near the summit of the hills--a deep, rocky, wooded ravine into whose black shadows it seemed the sun might never penetrate.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Nero Is Shot"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-03.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-03.html"
 ---
 
 Once again, as Nero stood with Mr. Lion at the front door of the jungle cave, the roaring sound echoed among the trees.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-03.html"
+url: "/authors/haggard-h-rider/dawn/chapter-03.html"
 ---
 
 Philip was not very fond of taking walks with his father, since he found that in nine cases out of ten they afforded opportunities for inculcation of facts of the driest description with reference to estate management, or to the narration by his parent of little histories of which his conduct upon some recent occasion would adorn the moral. On this particular occasion the prospect was particularly unpleasant, for his father would, he was well aware, overflow with awful politeness, indeed, after the scene of the morning, it could not be otherwise. Oh, how much rather would he have spent that lovely afternoon with Maria Lee! Dear Maria, he would go and see her again the very next day.

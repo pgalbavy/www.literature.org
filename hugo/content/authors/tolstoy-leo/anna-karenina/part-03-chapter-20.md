@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 20"
 weight: 89
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-20.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-20.html"
 ---
 
 Vronsky's life was particularly happy in that he had a code of principles, which defined with unfailing certitude what he ought and what he ought not to do. This code of principles covered only a very small circle of contingencies, but then the principles were never doubtful, and Vronsky, as he never went outside that circle, had never had a moment's hesitation about doing what he ought to do. These principles laid down as invariable rules: that one must pay a cardsharper, but need not pay a tailor; that one must never tell a lie to a man, but one may to a woman; that one must never cheat any one, but one may a husband; that one must never pardon an insult, but one may give one and so on. These principles were possibly not reasonable and not good, but they were of unfailing certainty, and so long as he adhered to them, Vronsky felt that his heart was at peace and he could hold his head up. Only quite lately in regard to his relations with Anna, Vronsky had begun to feel that his code of principles did not fully cover all possible contingencies, and to foresee in the future difficulties and perplexities for which he could find no guiding clue.

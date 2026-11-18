@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - George Villiers, Duke Of Buckingham"
 weight: 13
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-12.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-12.html"
 ---
 
 Mme. Bonacieux and the duke entered the Louvre without difficulty. Mme. Bonacieux was known to belong to the queen; the duke wore the uniform of the Musketeers of M. de Treville, who, as we have said, were that evening on guard. Besides, Germain was in the interests of the queen; and if anything should happen, Mme. Bonacieux would be accused of having introduced her lover into the Louvre, that was all. She took the risk upon herself. Her reputation would be lost, it is true; but of what value in the world was the reputation of the little wife of a mercer?

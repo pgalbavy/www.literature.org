@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Dweller In The Cave"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-15.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-15.html"
 ---
 
 After this it seemed to me that I dreamed a long and very troubled dream concerning all sorts of curious things which I cannot remember. At last I opened my eyes and observed that I lay on a low bed raised about three inches above the floor, in an Eastern-looking room, large and cool. It had window-places in it but no windows, only grass mats hung upon a rod which, I noted inconsequently, worked on a rough, wooden hinge, or rather pin, that enabled the curtain to be turned back against the wall.

@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 11"
 weight: 168
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-11.html"
 ---
 
 When Levin and Stepan Arkadyevitch reached the peasant's hut where Levin always used to stay, Veslovsky was already there. He was sitting in the middle of the hut, clinging with both hands to the bench from which he was being pulled by a soldier, the brother of the peasant's wife, who was helping him off with his miry boots. Veslovsky was laughing his infectious, good-humored laugh.

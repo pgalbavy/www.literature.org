@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Extracts From The February And March Numbers Of Our Magazine"
 weight: 10
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-09.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-09.html"
 ---
 
 RESOLUTION HONOUR ROLL

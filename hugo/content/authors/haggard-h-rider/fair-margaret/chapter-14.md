@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Inez And Her Garden"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-14.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-14.html"
 ---
 
 For two hours or more John Castell and Peter travelled on the Granada road, running when it was smooth, walking when it was rough, and stopping from time to time to get their breath and listen. But the night was quite silent, no one seemed to be pursuing them. Evidently the remaining cut-throats had either taken another way or, having their fill of this adventure, wanted to see no more of Peter and his sword.

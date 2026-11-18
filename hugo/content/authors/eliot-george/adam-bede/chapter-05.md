@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Rector"
 weight: 5
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-05.html"
+url: "/authors/eliot-george/adam-bede/chapter-05.html"
 ---
 
 BEFORE twelve o'clock there had been some heavy storms of rain, and the water lay in deep gutters on the sides of the gravel walks in the garden of Broxton Parsonage; the great Provence roses had been cruelly tossed by the wind and beaten by the rain, and all the delicate-stemmed border flowers had been dashed down and stained with the wet soil. A melancholy morning - because it was nearly time hay-harvest should begin, and instead of that the meadows were likely to be flooded.

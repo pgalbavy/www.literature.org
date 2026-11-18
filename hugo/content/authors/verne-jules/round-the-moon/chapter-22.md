@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-22.html"
+url: "/authors/verne-jules/round-the-moon/chapter-22.html"
 ---
 
 The spot where the projectile sank under the waves was exactly known; but the machinery to grasp it and bring it to the surface of the ocean was still wanting. It must first be invented, then made. American engineers could not be troubled with such trifles. The grappling-irons once fixed, by their help they were sure to raise it in spite of its weight, which was lessened by the density of the liquid in which it was plunged.

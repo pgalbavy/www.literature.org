@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Sauk And Shawanoe"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-20.html"
 ---
 
 At the instant the almost inaudible rustling struck the ear of Deerfoot the Shawanoe, he caught sight of a rifle barrel as it was thrust among the undergrowth and aimed at him. It was the faintest possible sound, caused by the pushing aside of the leaves which he heard, and which he was expecting for a full minute to hear. The lightning-like glance cast toward the point showed him the dark barrel, and the ferocious gleam of the face of an Indian, crouching on one knee just beyond.

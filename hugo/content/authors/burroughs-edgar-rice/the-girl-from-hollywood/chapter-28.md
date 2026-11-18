@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-28.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-28.html"
 ---
 
 Custer’s long hours of loneliness had often been occupied with plans against the day of his liberation. That Grace had not seen him or communicated with him since his arrest and conviction had been a source of wonder and hurt to him. He recalled many times the circumstance of the telephone call, with a growing belief that Grace had been there, but had refused to talk with him. Nevertheless, he was determined to see her before he returned to Ganado.

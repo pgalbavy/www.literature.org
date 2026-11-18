@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 2"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-02-chapter-02.html"
+url: "/authors/haggard-h-rider/cleopatra/book-02-chapter-02.html"
 ---
 
 OF THE COMING OF CHARMION; AND OF THE WRATH OF SEPA

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Terra Incognita"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-10.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-10.html"
 ---
 
 The camp-wagon and led horses left before daylight with two of the Cracker guides, Bulow and Carter; but it was an hour after sunrise when Cardross, senior, Gray, Shiela, Hamil, and the head guide, Eudo Stent, rode out of the *patio* into the dewy beauty of a February morning.

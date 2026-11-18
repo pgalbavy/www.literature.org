@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 1"
 weight: 168
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-01.html"
 ---
 
 BOOK NINE: 1812

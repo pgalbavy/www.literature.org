@@ -1,8 +1,7 @@
 ---
 title: "book 01 chapter 00"
 weight: 999
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-00.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-01-chapter-00.html"
 ---
 
 1859

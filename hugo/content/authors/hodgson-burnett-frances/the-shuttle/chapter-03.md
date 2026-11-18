@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Young Lady Anstruthers"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-03.html"
 ---
 
 When the marriage took place the event was accompanied by an ingenuously elate flourish of trumpets. Miss Vanderpoel's frocks were multitudinous and wonderful, as also her jewels purchased at Tiffany's. She carried a thousand trunks--more or less--across the Atlantic. When the ship steamed away from the dock, the wharf was like a flower garden in the blaze of brilliant and delicate attire worn by the bevy of relatives and intimates who stood waving their handkerchiefs and laughingly calling out farewell good wishes.

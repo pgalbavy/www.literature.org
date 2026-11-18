@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Splendid Theory"
 weight: 15
-aliases:
-  - "/authors/leblanc-maurice/the-three-eyes/chapter-15.html"
+url: "/authors/leblanc-maurice/the-three-eyes/chapter-15.html"
 ---
 
 It is not only to-day, when I am relating that tragic scene, that it appears to me in the light of a subsidiary episode to my story. I already had that impression at the time when it was being enacted. My reason for laying no greater stress on my alarm and on the horror of certain facts is that all this was to me only an interlude. Massignac's sufferings and his disappearance and Velmot's inexplicable behaviour, in abandoning for some minutes the conduct of a matter to which he had until then applied himself with such diabolical eagerness, were just so many details which became blotted out by the tremendous events represented by Benjamin Prévotelle's discovery.

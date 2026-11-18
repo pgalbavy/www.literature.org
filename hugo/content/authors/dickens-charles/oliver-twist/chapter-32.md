@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32 - Of The Happy Life Oliver Began To Lead With His Kind Friends"
 weight: 32
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-32.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-32.html"
 ---
 
 Oliver's ailings were neither slight nor few. In addition to the pain and delay attendant on a broken limb, his exposure to the wet and cold had brought on fever and ague: which hung about him for many weeks, and reduced him sadly. But, at length, he began, by slow degrees, to get better, and to be able to say sometimes, in a few tearful words, how deeply he felt the goodness of the two sweet ladies, and how ardently he hoped that when he grew strong and well again, he could do something to show his gratitude; only something, which would let them see the love and duty with which his breast was full; something, however slight, which would prove to them that their gentle kindness had not been cast away; but that the poor boy whom their charity had rescued from misery, or death, was eager to serve them with his whole heart and soul.

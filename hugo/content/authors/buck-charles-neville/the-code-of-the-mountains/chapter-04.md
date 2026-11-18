@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-04.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-04.html"
 ---
 
 A group of shabby men lounging in front of Fult Cawsler's restaurant paid scant attention to a wild-eyed youth who came down the street at a run and dashed into the door. Newt found the dining-room on the main floor empty save for a weary and untidy woman who was clearing away the china of the mid-day trade, and Fult Cawsler himself, whose bulky figure was just then disappearing up the stairs. The boy stood for a moment anxiously gazing about the place with its oil-cloth table-covers and its gaudy wall calendars, then dashed pell-mell after the climbing restaurateur. The woman called to him in high-pitched and raucous prohibition, but Newt Spooner went heedlessly on his way. At the head of the stairs in the murky hallway Cawsler turned, and without at once recognizing the on-rushing invader wheeled belligerently to face him.

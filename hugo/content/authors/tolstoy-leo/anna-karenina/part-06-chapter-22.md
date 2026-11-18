@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 22"
 weight: 179
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-22.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-22.html"
 ---
 
 When Anna found Dolly at home before her, she looked intently in her eyes, as though questioning her about the talk she had had with Vronsky, but she made no inquiry in words.

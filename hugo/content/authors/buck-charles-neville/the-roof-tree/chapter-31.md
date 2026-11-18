@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-31.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-31.html"
 ---
 
 Strangely enough it was as though the old man's capacity for being shocked or infuriated had been exhausted. There was no roar of maddened wrath or denunciation of denial now. Never had Sim seen on a human face such a despair of stricken grief. Hump Doane only passed an open palm across his forehead. Somehow this hideous recital, which had made him an old man in the space of a few minutes, blasting him like a thunder bolt, could not be seriously doubted. It was not allegation but revelation.

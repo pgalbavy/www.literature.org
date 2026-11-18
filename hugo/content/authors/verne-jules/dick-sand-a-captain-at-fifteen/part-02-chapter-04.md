@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - The Bad Roads Of Angola"
 weight: 22
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-04.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-04.html"
 ---
 
 At this moment little Jack awoke, and put his arms around his mother's neck. His eyes looked better. The fever had not returned.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - July Third, 1778"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-03.html"
 ---
 
 While Ben Ripley was frolicking with little Alice and her Indian friend Linna, the mother prepared the evening meal.

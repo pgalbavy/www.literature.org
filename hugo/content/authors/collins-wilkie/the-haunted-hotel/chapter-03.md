@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-03.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-03.html"
 ---
 
 There was a time when a man in search of the pleasures of gossip sought the society of ladies. The man knows better now. He goes to the smoking-room of his club.

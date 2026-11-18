@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Poirot Pays His Debts"
 weight: 7
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-07.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-07.html"
 ---
 
 As we came out of the Stylites Arms, Poirot drew me aside by a gentle pressure of the arm. I understood his object. He was waiting for the Scotland Yard men.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-18.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-18.html"
 ---
 
 The next day, while the storm was blowing itself out, Wolf Larsen and I crammed anatomy and surgery and set Mugridge's ribs. Then, when the storm broke, Wolf Larsen cruised back and forth over that portion of the ocean where we had encountered it, and somewhat more to the westward, while the boats were being repaired and new sails made and bent. Sealing schooner after sealing schooner we sighted and boarded, most of which were in search of lost boats, and most of which were carrying boats and crews they had picked up and which did not belong to them. For the thick of the fleet had been to the westward of us, and the boats, scattered far and wide, had headed in mad flight for the nearest refuge.

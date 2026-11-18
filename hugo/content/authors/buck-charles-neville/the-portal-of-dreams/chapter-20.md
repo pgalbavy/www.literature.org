@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - A Cavalcade From The Laurel"
 weight: 20
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-20.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-20.html"
 ---
 
 I have since searchingly asked myself whether, at that time, any mean thought entered my mind as to the possibilities which might open for me if Weighborne died. I set it down in justification, though it may rather be attributable to the excitement of the moment than to inherent guilelessness, that that phase of the matter did not occur to me. Had I entertained such speculations they must have been short lived, for when we arrived at the cabin and made an examination, and when later by relayed telephone messages we brought the doctor, it was to learn that the patient would have to lie in bed for perhaps a week or two, but need fear no grave consequences. His wound had narrowly missed the heart, but the margin was sufficient. My own injury proved to be a mere flesh scratch and a bandage did for it all that was needful.

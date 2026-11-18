@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Above The Trap-Doors"
 weight: 12
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-11.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-11.html"
 ---
 
 The next day, he saw her at the Opera. She was still wearing the plain gold ring. She was gentle and kind to him. She talked to him of the plans which he was forming, of his future, of his career.

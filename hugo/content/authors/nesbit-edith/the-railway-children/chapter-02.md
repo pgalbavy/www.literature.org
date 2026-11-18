@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Peter's Coal-Mine"
 weight: 2
-aliases:
-  - "/authors/nesbit-edith/the-railway-children/chapter-02.html"
+url: "/authors/nesbit-edith/the-railway-children/chapter-02.html"
 ---
 
 "What fun!" said Mother, in the dark, feeling for the matches on the table. "How frightened the poor mice were - I don't believe they were rats at all."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Loggers Come"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-18.html"
 ---
 
 Fatty Coon was frightened; he had just waked up and he heard a sound that was exactly like the noise Farmer Green and his hired man had made when they cut down the tall chestnut tree where he was perched.

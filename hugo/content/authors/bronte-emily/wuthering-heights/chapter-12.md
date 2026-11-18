@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-12.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-12.html"
 ---
 
 WHILE Miss Linton moped about the park and garden, always silent, and almost always in tears; and her brother shut himself up among books that he never opened - wearying, I guessed, with a continual vague expectation that Catherine, repenting her conduct, would come of her own accord to ask pardon, and seek a reconciliation - and SHE fasted pertinaciously, under the idea, probably, that at every meal Edgar was ready to choke for her absence, and pride alone held him from running to cast himself at her feet; I went about my household duties, convinced that the Grange had but one sensible soul in its walls, and that lodged in my body. I wasted no condolences on Miss, nor any expostulations on my mistress; nor did I pay much attention to the sighs of my master, who yearned to hear his lady's name, since he might not hear her voice. I determined they should come about as they pleased for me; and though it was a tiresomely slow process, I began to rejoice at length in a faint dawn of its progress: as I thought at first.

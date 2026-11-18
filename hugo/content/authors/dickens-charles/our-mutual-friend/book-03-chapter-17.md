@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 17 - A Social Chorus"
 weight: 50
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-03-chapter-17.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-03-chapter-17.html"
 ---
 
 Amazement sits enthroned upon the countenances of Mr and Mrs Alfred Lammle’s circle of acquaintance, when the disposal of their first-class furniture and effects (including a Billiard Table in capital letters), ‘by auction, under a bill of sale,’ is publicly announced on a waving hearthrug in Sackville Street. But, nobody is half so much amazed as Hamilton Veneering, Esquire, M.P. for Pocket-Breaches, who instantly begins to find out that the Lammles are the only people ever entered on his soul’s register, who are NOT the oldest and dearest friends he has in the world. Mrs Veneering, W.M.P. for Pocket-Breaches, like a faithful wife shares her husband’s discovery and inexpressible astonishment. Perhaps the Veneerings twain may deem the last unutterable feeling particularly due to their reputation, by reason that once upon a time some of the longer heads in the City are whispered to have shaken themselves, when Veneering’s extensive dealings and great wealth were mentioned. But, it is certain that neither Mr nor Mrs Veneering can find words to wonder in, and it becomes necessary that they give to the oldest and dearest friends they have in the world, a wondering dinner.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-08.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-08.html"
 ---
 
 On the afternoon of Christmas day, as Boone stood by the gate of Saul's rented patch, looking off across the wet bareness of the fields to the gray and shallow skyline, he was more than a little homesick for the accustomed thickness of forest and peak. He at last saw two mounted figures coming toward him, and recognized General Prince and Anne Masters.

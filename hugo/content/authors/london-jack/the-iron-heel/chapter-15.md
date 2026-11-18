@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Last Days"
 weight: 16
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-15.html"
+url: "/authors/london-jack/the-iron-heel/chapter-15.html"
 ---
 
 It was near the end of January, 1913, that the changed attitude of the Oligarchy toward the favored unions was made public. The newspapers published information of an unprecedented rise in wages and shortening of hours for the railroad employees, the iron and steel workers, and the engineers and machinists. But the whole truth was not told. The oligarchs did not dare permit the telling of the whole truth. In reality, the wages had been raised much higher, and the privileges were correspondingly greater. All this was secret, but secrets will out. Members of the favored unions told their wives, and the wives gossiped, and soon all the labor world knew what had happened.

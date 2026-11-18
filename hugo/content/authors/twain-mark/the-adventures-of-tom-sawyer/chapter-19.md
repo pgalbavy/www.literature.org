@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-19.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-19.html"
 ---
 
 TOM arrived at home in a dreary mood, and the first thing his aunt said to him showed him that he had brought his sorrows to an unpromising market:

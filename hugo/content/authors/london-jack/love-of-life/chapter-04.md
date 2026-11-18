@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Story Of Keesh"
 weight: 4
-aliases:
-  - "/authors/london-jack/love-of-life/chapter-04.html"
+url: "/authors/london-jack/love-of-life/chapter-04.html"
 ---
 
 KEESH lived long ago on the rim of the polar sea, was head man of his village through many and prosperous years, and died full of honors with his name on the lips of men. So long ago did he live that only the old men remember his name, his name and the tale, which they got from the old men before them, and which the old men to come will tell to their children and their children's children down to the end of time. And the winter darkness, when the north gales make their long sweep across the ice-pack, and the air is filled with flying white, and no man may venture forth, is the chosen time for the telling of how Keesh, from the poorest IGLOO in the village, rose to power and place over them all.

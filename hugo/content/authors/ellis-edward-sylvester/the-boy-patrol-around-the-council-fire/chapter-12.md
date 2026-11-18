@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Groping After The Truth"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-boy-patrol-around-the-council-fire/chapter-12.html"
 ---
 
 Mike Murphy’s ready wit did not desert him at the moment when, as may be said, he discovered he was caught between two fires. One of the tramps was standing on the ground in front or below him, while the second was approaching from the rear or only a few paces farther off. And Hoke Butler, who should have been instant to rush to the help of his friend, was nowhere in sight.

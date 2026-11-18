@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - And The Twilight"
 weight: 9
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-09.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-09.html"
 ---
 
 “Guess I’ll step through the oak ridge here and look in on Bill Paisley for a minute or so,” said Jim Peeler, as the three found the path leading to the creek.

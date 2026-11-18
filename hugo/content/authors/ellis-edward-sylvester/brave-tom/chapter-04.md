@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-04.html"
 ---
 
 Jim Travers felt that he was lost. The women uttered cries of anguish, clasped their hands, and almost fainted.

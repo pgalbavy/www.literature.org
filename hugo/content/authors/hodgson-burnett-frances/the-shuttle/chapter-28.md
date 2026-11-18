@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Setting Them Thinking"
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-28.html"
 ---
 
 Old Doby, sitting at his open window, with his pipe and illustrated papers on the table by his side, began to find life a series of thrills. The advantage of a window giving upon the village street unspeakably increased. For many years he had preferred the chimney corner greatly, and had rejoiced at the drawing in of winter days when a fire must be well kept up, and a man might bend over it, and rub his hands slowly gazing into the red coals or little pointed flames which seemed the only things alive and worthy the watching. The flames were blue at the base and yellow at the top, and jumped looking merry, and caught at bits of black coal, and set them crackling and throwing off splinters till they were ablaze and as much alive as the rest. A man could get comfort and entertainment therefrom. There was naught else so good to live with. Nothing happened in the street, and every dull face that passed was an old story, and told an old tale of stupefying hard labour and hard days.

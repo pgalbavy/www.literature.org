@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-10.html"
+url: "/authors/chambers-robert-w/athalie/chapter-10.html"
 ---
 
 Early in April C. Bailey, Jr., overdrew his account, was politely notified of that oversight by the bank. He hunted about, casually, for stray funds, but to his intense surprise discovered nothing immediately available.

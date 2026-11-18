@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 33"
 weight: 157
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-33.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-33.html"
 ---
 
 Vronsky for the first time experienced a feeling of anger against Anna, almost a hatred for her willfully refusing to understand her own position. This feeling was aggravated by his being unable to tell her plainly the cause of his anger. If he had told her directly what he was thinking, he would have said:

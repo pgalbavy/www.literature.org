@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Stampeded"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-10.html"
+url: "/authors/coolidge-dane/the-texican/chapter-10.html"
 ---
 
 For two weeks after Pecos Dalhart disappeared into the wilderness Angevine Thorne spent the greater part of his time sitting in the doorway of the store with his eyes fixed upon the tiny notch where the Carrizo trail cut down through the mesa's rim. Never, until that day when he had defied Boone Morgan, had Angy realized the heroic devotion of his comrade to the cause of the revolution, and his heart was strong to help him, even at the risk of his job. If Crit would only have let him have a horse he would have gone to Lost Dog Cañon long ago, to carry the news of Morgan's raid and his subsequent visit to Verde Crossing in search of Pecos, but lacking any means of travel he had to be content to wait and watch the trail. The two weeks passed drearily and still, as each afternoon wore on, Babe seated himself in the shade of the brush ramada and speculated upon the fate of Pecos. But in this he was not alone. Early in the game Isaac Crittenden had noted the set gaze of his faithless roustabout, and though he still rode out with his cowboys, he also managed to keep his one eye cocked on the eastern horizon, for he had interests in those parts. There were a hundred head of Monkey-wrench cattle still running loose in Lost Dog Cañon, and that would make good pickings if Pecos went over the road. As to what particular road the cattle-rustler took, whether to the pen or parts unknown, or to his home on high, was immaterial to Isaac Crittenden, providing always that he heard about it first. A bunch of mavericks without an owner was likely to get snapped up quick in those parts—John Upton might turn out to be the lucky man, but not if I. C. knew himself, and he thought he did.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-06.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-06.html"
 ---
 
 The change in Ramsey was invisible, and yet something must have been seen, for everyone appeared to take it for granted that he was to sit next to Milla at the pastoral meal. She herself understood it, evidently, for she drew in her puckered skirts and without any words make a place for him beside her as he driftingly approached her, affecting to whistle and keeping his eyes on the foliage overhead. He still looked upward, even in the act of sitting down.

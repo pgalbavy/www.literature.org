@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Miscalculation"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-06.html"
 ---
 
 The Indian was doing his best. Had the whole tribe been assembled on that clearing, with eyes fixed on him and urging him on, he could have done no better. He had run many a race, and, since his manhood, had won them all. Most were gained by no more than half trying, just as he expected to gain this one when he ordered his companions to remain behind in the wood, and leave to him the task of bringing back the white youth who had the effrontery to appear as a contestant in a trial against him.

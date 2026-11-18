@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-13.html"
+url: "/authors/austen-jane/mansfield-park/chapter-13.html"
 ---
 
 The Honourable John Yates, this new friend, had not much to recommend him beyond habits of fashion and expense, and being the younger son of a lord with a tolerable independence; and Sir Thomas would probably have thought his introduction at Mansfield by no means desirable. Mr. Bertram's acquaintance with him had begun at Weymouth, where they had spent ten days together in the same society, and the friendship, if friendship it might be called, had been proved and perfected by Mr. Yates's being invited to take Mansfield in his way, whenever he could, and by his promising to come; and he did come rather earlier than had been expected, in consequence of the sudden breaking-up of a large party assembled for gaiety at the house of another friend, which he had left Weymouth to join. He came on the wings of disappointment, and with his head full of acting, for it had been a theatrical party; and the play in which he had borne a part was within two days of representation, when the sudden death of one of the nearest connexions of the family had destroyed the scheme and dispersed the performers. To be so near happiness, so near fame, so near the long paragraph in praise of the private theatricals at Ecclesford, the seat of the Right Hon. Lord Ravenshaw, in Cornwall, which would of course have immortalised the whole party for at least a twelvemonth! and being so near, to lose it all, was an injury to be keenly felt, and Mr. Yates could talk of nothing else. Ecclesford and its theatre, with its arrangements and dresses, rehearsals and jokes, was his never-failing subject, and to boast of the past his only consolation.

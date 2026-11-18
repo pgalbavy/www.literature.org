@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-09.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-09.html"
 ---
 
 The girl had moved a step towards him as she spoke, and a gleam of sunlight which had found its way into the grove flashed for a moment on the. stray little curls of her brown-gold hair and across her face. Her lips were parted in a delightful smile; she was very pretty, and inclined to be apologetic. But Scarlett Trent had seen nothing save that first glance when the sun had touched her face with fire. A strong man at all times, and more than commonly self-masterful, he felt himself now as helpless as a child. A sudden pallor had whitened his face to the lips, there were strange singings in his ears, and a mist before his eyes. It was she! There was no possibility of any mistake. It was the girl for whose picture he had gambled in the hut at Bekwando - Monty's baby-girl, of whom he had babbled even in death. He leaned against a tree, stricken dumb, and she was frightened. "You are ill," she cried. "I'm so sorry. Let me run to the house and fetch some one!"

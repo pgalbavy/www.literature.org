@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Plan Of Campaign"
 weight: 7
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-06.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-06.html"
 ---
 
 A veil might with profit be drawn over the events of the next half-hour. Suffice it to say that no such person as "Inspector Brown" was known to Scotland Yard. The photograph of Jane Finn, which would have been of the utmost value to the police in tracing her, was lost beyond recovery. Once again "Mr. Brown" had triumphed.

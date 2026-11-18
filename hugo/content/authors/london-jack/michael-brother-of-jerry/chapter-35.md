@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 36
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-35.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-35.html"
 ---
 
 When the train arrived at Glen Ellen, in the Valley of the Moon, it was Harley Kennan himself, at the side-door of the baggage-car, who caught hold of Michael and swung him to the ground. For the first time Michael had performed a railroad journey uncrated. Merely with collar and chain had he travelled up from Oakland. In the waiting automobile he found Villa Kennan, and, chain removed, sat beside her and between her and Harley

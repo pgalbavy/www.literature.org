@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Rescue "
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-13.html"
 ---
 
 The Cowardly Lion was much pleased to hear that the Wicked Witch had been melted by a bucket of water, and Dorothy at once unlocked the gate of his prison and set him free. They went in together to the castle, where Dorothy's first act was to call all the Winkies together and tell them that they were no longer slaves.

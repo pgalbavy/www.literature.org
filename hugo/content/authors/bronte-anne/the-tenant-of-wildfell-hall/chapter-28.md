@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-28.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-28.html"
 ---
 
 December 25th. - Last Christmas I was a bride, with a heart overflowing with present bliss, and full of ardent hopes for the future, though not unmingled with foreboding fears. Now I am a wife: my bliss is sobered, but not destroyed; my hopes diminished, but not departed; my fears increased, but not yet thoroughly confirmed; and, thank heaven, I am a mother too. God has sent me a soul to educate for heaven, and give me a new and calmer bliss, and stronger hopes to comfort me.

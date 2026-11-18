@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 27"
 weight: 27
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-27.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-27.html"
 ---
 
 The house was big and old-fashioned, and Levin, though he lived alone, had the whole house heated and used. He knew that this was stupid, he knew that it was positively not right, and contrary to his present new plans, but this house was a whole world to Levin. It was the world in which his father and mother had lived and died. They had lived just the life that to Levin seemed the ideal of perfection, and that he had dreamed of beginning with his wife, his family.

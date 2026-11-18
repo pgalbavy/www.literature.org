@@ -1,8 +1,7 @@
 ---
 title: "Chapter 90 - The Consent Of Athos"
 weight: 90
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-90.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-90.html"
 ---
 
 Raoul quitted the Palais-Royal full of ideas that admitted no delay in execution. He mounted his horse in the courtyard, and followed the road to Blois, while the marriage festivities of Monsieur and the princess of England were being celebrated with exceeding animation by the courtiers, but to the despair of De Guiche and Buckingham. Raoul lost no time on the road, and in sixteen hours he arrived at Blois. As he traveled along, he marshaled his arguments in the most becoming manner. Fever also is an argument that cannot be answered, and Raoul had an attack. Athos was in his study, making additions to his memoirs, when Raoul entered, accompanied by Grimaud. Keen-sighted and penetrating, a mere glance at his son told him that something extraordinary had befallen him.

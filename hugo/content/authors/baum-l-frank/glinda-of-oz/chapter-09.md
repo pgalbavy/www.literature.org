@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-09.html"
 ---
 
 Lady Aurex led Ozma and Dorothy along a street to a pretty marble house near to one edge of the great glass dome that covered the village. She did not speak to the girls until she had ushered them into a pleasant room, comfortably furnished, nor did any of the solemn people they met on the street venture to speak.

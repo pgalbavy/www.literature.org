@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Dead Animosities"
 weight: 3
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-03.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-03.html"
 ---
 
 D'Artagnan arrived at the Bastile just as it was striking half-past eight. His visit was announced to the governor, who, on hearing that he came from the cardinal, went to meet him and received him at the top of the great flight of steps outside the door. The governor of the Bastile was Monsieur du Tremblay, the brother of the famous Capuchin, Joseph, that fearful favorite of Richelieu's, who went by the name of the Gray Cardinal.

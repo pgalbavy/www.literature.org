@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Tide of Battle"
 weight: 13
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-13.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-13.html"
 ---
 
 But solan's last loud cry had not been without effect, for a moment later a dozen guardsmen burst into the chamber, though not before I had so bent and demolished the great switch that it could not be again used to turn the powerful current into the mighty magnet of destruction it controlled.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 34
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-34.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-34.html"
 ---
 
 "Er ist geheissen Israel. Ihn hat verwandelt Hexenspruch in elnen Hund. * Aber jeden Freitag Abend, In der Dämmrungstunde, plötzlich Weicht der Zauber, und der Hund Wird aufs Neu' ein menschlich Wesen." - HEINE: Prinzessin Sabbaz.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-40.html"
+url: "/authors/dickens-charles/great-expectations/chapter-40.html"
 ---
 
 IT was fortunate for me that I had to take precautions to ensure (so far as I could) the safety of my dreaded visitor; for, this thought pressing on me when I awoke, held other thoughts in a confused concourse at a distance.

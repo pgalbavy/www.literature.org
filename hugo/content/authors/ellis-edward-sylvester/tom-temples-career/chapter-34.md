@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Robbers’ Den"
 weight: 34
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-34.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-34.html"
 ---
 
 "HA! *WHAT* have we here?" said the robber chief, as he drew out first a certificate of stock in a New York bank.

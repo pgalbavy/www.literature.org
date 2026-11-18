@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Perfidy"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-monster-men/chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-12.html"
 ---
 
 On the morning that Bulan set out with his three monsters from the deserted long-house in which they had spent the night, Professor Maxon's party was speeding up the river, constantly buoyed with hope by the repeated reports of natives that the white girl had been seen passing in a war prahu.

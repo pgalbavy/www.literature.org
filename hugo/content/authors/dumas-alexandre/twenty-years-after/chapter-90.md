@@ -1,8 +1,7 @@
 ---
 title: "Chapter 90 - Conclusion"
 weight: 90
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-90.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-90.html"
 ---
 
 On going home, the two friends found a letter from Athos, who desired them to meet him at the Grand Charlemagne on the following day.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 54"
 weight: 54
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-54.html"
+url: "/authors/eliot-george/middlemarch/chapter-54.html"
 ---
 
 "Negli occhi porta la mia donna Amore; Per che si fa gentil eio ch'ella mira: Ov'ella passa, ogni uom ver lei si gira, E cui saluta fa tremar lo core. Sicche, bassando il viso, tutto smore, E d'ogni suo difetto allor sospira: Fuggon dinanzi a lei Superbia ed Ira: Aiutatemi, donne, a farle onore. Ogni dolcezza, ogni pensiero umile Nasee nel core a chi parlar la sente; Ond' e beato chi prima la vide. Quel ch'ella par quand' un poco sorride, Non si pub dicer, ne tener a mente, Si e nuovo miracolo gentile." - DANTE: la Vita Nuova.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - On The Yellowstone"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-huge-hunter/chapter-05.html"
 ---
 
 *BALDY BICKNELL* was a hunter and trapper who, at the time we bring him to the notice of the reader, had spent something over ten years among the mountains and prairies of the West.

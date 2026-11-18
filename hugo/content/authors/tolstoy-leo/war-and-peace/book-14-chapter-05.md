@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 5"
 weight: 303
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-05.html"
 ---
 
 The rain had stopped, and only the mist was falling and drops from the trees. Denisov, the esaul, and Petya rode silently, following the peasant in the knitted cap who, stepping lightly with outturned toes and moving noiselessly in his bast shoes over the roots and wet leaves, silently led them to the edge of the forest.

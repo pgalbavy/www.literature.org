@@ -1,8 +1,7 @@
 ---
 title: "Act 5"
 weight: 6
-aliases:
-  - "/authors/shaw-george-bernard/pygmalion/act-05.html"
+url: "/authors/shaw-george-bernard/pygmalion/act-05.html"
 ---
 
 Mrs. Higgins's drawing-room. She is at her writing-table as before. The parlor-maid comes in.

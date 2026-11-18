@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/rinkitink-in-oz/chapter-14.html"
+url: "/authors/baum-l-frank/rinkitink-in-oz/chapter-14.html"
 ---
 
 "Our fault," said Rinkitink, "is that we conquer only one of these twin islands at a time. When we conquered Regos, our foes all came to Coregos, and now that we have conquered Coregos, the Queen has fled to Regos. And each time they removed the bridge of boats, so that we could not follow them."

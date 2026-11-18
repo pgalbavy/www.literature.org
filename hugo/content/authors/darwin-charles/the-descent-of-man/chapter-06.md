@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/darwin-charles/the-descent-of-man/chapter-06.html"
+url: "/authors/darwin-charles/the-descent-of-man/chapter-06.html"
 ---
 
 EVEN if it be granted that the difference between man and his nearest allies is as great in corporeal structure as some naturalists maintain, and although we must grant that the difference between them is immense in mental power, yet the facts given in the earlier chapters appear to declare, in the plainest manner, that man is descended from some lower form, notwithstanding that connecting-links have not hitherto been discovered.

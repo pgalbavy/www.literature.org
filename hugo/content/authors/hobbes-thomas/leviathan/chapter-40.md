@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - Of The Rights Of The Kingdome Of God, In Abraham, Moses, The High Priests, And The Kings Of Judah"
 weight: 42
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-40.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-40.html"
 ---
 
 The Soveraign Rights Of Abraham The Father of the Faithfull, and first in the Kingdome of God by Covenant, was Abraham. For with him was the Covenant first made; wherein he obliged himself, and his seed after him, to acknowledge and obey the commands of God; not onely such, as he could take notice of, (as Morall Laws,) by the light of Nature; but also such, as God should in speciall manner deliver to him by Dreams and Visions. For as to the Morall law, they were already obliged, and needed not have been contracted withall, by promise of the Land of Canaan. Nor was there any Contract, that could adde to, or strengthen the Obligation, by which both they, and all men else were bound naturally to obey God Almighty: And therefore the Covenant which Abraham made with God, was to take for the Commandement of God, that which in the name of God was commanded him, in a Dream, or Vision, and to deliver it to his family, and cause them to observe the same.

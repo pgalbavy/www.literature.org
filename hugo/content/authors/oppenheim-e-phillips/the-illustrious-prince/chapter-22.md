@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - A Breath From The East"
 weight: 22
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-22.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-22.html"
 ---
 
 Inspector Jacks was a man who had succeeded in his profession chiefly on account of an average amount of natural astuteness, and also because he was one of those favored persons whose nervous system was a whole and perfect thing. Yet, curiously enough, as he sat in this large, gloomy apartment into which he had been shown, a room filled with art treasures whose appearance and significance were entirely strange to him, he felt a certain uneasiness which he was absolutely unable to understand. He was somewhat instinctive in his likes and dislikes, and from the first he most heartily disliked the room itself,--its vague perfumes, its subdued violet coloring, the faces of the grinning idols, which seemed to meet his gaze in every direction, the pictures of those fierce-looking warriors who brandished two-edged swords at him from the walls. They belonged to the period when Japanese art was perhaps in its crudest state, and yet in this uncertain atmosphere they seemed to possess an extraordinary vitality, as though indeed they were prepared at a moment's notice to leap from their frames and annihilate this mysterious product of modern days, who in black clothes and silk hat, unarmed and without physical strength, yet wielded the powers of life and death as surely as they in their time had done.

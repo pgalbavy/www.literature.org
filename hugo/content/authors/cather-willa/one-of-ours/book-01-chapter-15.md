@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 15"
 weight: 15
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-15.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-15.html"
 ---
 
 Claude dreaded the inactivity of the winter, to which the farmer usually looks forward with pleasure. He made the Thanksgiving football game a pretext for going up to Lincoln,--went intending to stay three days and stayed ten. The first night, when he knocked at the glass door of the Erlichs' sitting-room and took them by surprise, he thought he could never go back to the farm. Approaching the house on that clear, frosty autumn evening, crossing the lawn strewn with crackling dry leaves, he told himself that he must not hope to find things the same. But they were the same. The boys were lounging and smoking about the square table with the lamp on it, and Mrs. Erlich was at the piano, playing one of Mendelssohn's "Songs Without Words." When he knocked, Otto opened the door and called:

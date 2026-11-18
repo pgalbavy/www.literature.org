@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - The Quest"
 weight: 38
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-38.html"
+url: "/authors/eliot-george/adam-bede/chapter-38.html"
 ---
 
 THE first ten days after Hetty's departure passed as quietly as any other days with the family at the Hall Farm, and with Adam at his daily work. They had expected Hetty to stay away a week or ten days at least, perhaps a little longer if Dinah came back with her, because there might then be somethung to detain them at Snowfield. But when a fortnight had passed they began to feel a little surprise that Hetty did not return; she must surely have found it pleasanter to be with Dinah than any one could have supposed. Adam, for his part, was getting very impatient to see her, and he resolved that, if she did not appear the next day (Saturday), he would set out on Sunday morning to fetch her. There was no coach on a Sunday, but by setting out before it was light, and perhaps getting a lift in a cart by the way, he would arrive pretty early at Snowfield, and bring back Hetty the next day - Dinah too, if she were coming. It was quite time Hetty came home, and he would afford to lose his Monday for the sake of bringing her.

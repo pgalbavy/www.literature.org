@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-09.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-09.html"
 ---
 
 He woke in the morning to a great self-loathing: he had kissed a girl. Mingled with the loathing was a curious pride in the very fact that caused the loathing, but the pride did not last long. He came downstairs morbid to breakfast, and continued this mood afterward. At noon Albert Paxton brought him a note which Milla had asked Sadie to ask Albert to give him.

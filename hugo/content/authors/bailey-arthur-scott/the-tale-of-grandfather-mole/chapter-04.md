@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A New Way Of Taking A Stroll"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-04.html"
 ---
 
 GRANDFATHER MOLE was digging a new gallery under the garden, leading out from his house into a field of corn, where he expected to find a good many fine grubs.

@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2"
 weight: 47
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-05-chapter-02.html"
+url: "/authors/cather-willa/song-of-the-lark/part-05-chapter-02.html"
 ---
 
 FRED OTTENBURG, smartly dressed for the afternoon, with a long black coat and gaiters was sitting in the dusty parlor of the Everett House. His manner was not in accord with his personal freshness, the good lines of his clothes, and the shining smoothness of his hair. His attitude was one of deep dejection, and his face, though it had the cool, unimpeachable fairness possible only to a very blond young man, was by no means happy. A page shuffled into the room and looked about. When he made out the dark figure in a shadowy corner, tracing over the carpet pattern with a cane, he droned, “The lady says you can come up, sir.”

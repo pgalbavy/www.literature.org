@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-08.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-08.html"
 ---
 
 Behind the straight purple backs and smooth purple legs on the box before them, Madam Weatherstone and Mrs. Weatherstone rolled home silently, a silence of thunderous portent. Another purple person opened the door for them, and when Madam Weatherstone said, “We will have tea on the terrace,” it was brought them by a fourth.

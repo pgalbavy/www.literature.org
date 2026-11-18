@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - The Happy Pair"
 weight: 40
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-40.html"
+url: "/authors/bronte-charlotte/villette/chapter-40.html"
 ---
 
 The day succeeding this remarkable Midsummer night, proved no common day. I do not mean that it brought signs in heaven above, or portents on the earth beneath; nor do I allude to meteorological phenomena, to storm, flood, or whirlwind. On the contrary: the sun rose jocund, with a July face. Morning decked her beauty with rubies, and so filled her lap with roses, that they fell from her in showers, making her path blush: the Hours woke fresh as nymphs, and emptying on the early hills their dew-vials, they stepped out dismantled of vapour: shadowless, azure, and glorious, they led the sun's steeds on a burning and unclouded course.

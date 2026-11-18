@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-06.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-06.html"
 ---
 
 MONDAY morning found Tom Sawyer miserable. Monday morning always found him so - because it began another week's slow suffering in school. He generally began that day with wishing he had had no intervening holiday, it made the going into captivity and fetters again so much more odious.

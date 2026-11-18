@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 6"
 weight: 42
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-06.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-06.html"
 ---
 
 After being long fed with hopes of a speedy visit from Mr. and Mrs. Suckling, the Highbury world were obliged to endure the mortification of hearing that they could not possibly come till the autumn. No such importation of novelties could enrich their intellectual stores at present. In the daily interchange of news, they must be again restricted to the other topics with which for a while the Sucklings' coming had been united, such as the last accounts of Mrs. Churchill, whose health seemed every day to supply a different report, and the situation of Mrs. Weston, whose happiness it was to be hoped might eventually be as much increased by the arrival of a child, as that of all her neighbours was by the approach of it.

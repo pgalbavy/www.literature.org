@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 3"
 weight: 34
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-03-chapter-03.html"
+url: "/authors/cather-willa/song-of-the-lark/part-03-chapter-03.html"
 ---
 
 WHILE her living arrangements were so casual and fortuitous, Bowers's studio was the one fixed thing in Thea's life. She went out from it to uncertainties, and hastened to it from nebulous confusion. She was more influenced by Bowers than she knew. Unconsciously she began to take on something of his dry contempt, and to share his grudge without understanding exactly what it was about. His cynicism seemed to her honest, and the amiability of his pupils artificial. She admired his drastic treatment of his dull pupils. The stupid deserved all they got, and more. Bowers knew that she thought him a very clever man.

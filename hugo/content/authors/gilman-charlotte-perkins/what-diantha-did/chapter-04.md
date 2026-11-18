@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Crying Need"
 weight: 4
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-04.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-04.html"
 ---
 
 “Lovest thou me?” said the Fair Ladye; And the Lover he said, “Yea!” “Then climb this tree--for my sake,” said she, “And climb it every day!” So from dawn till dark he abrazed the bark And wore his clothes away; Till, “What has this tree to do with thee?” The Lover at last did say.

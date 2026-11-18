@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - What Cornish Knew"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-08.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-08.html"
 ---
 
 Two hours passed before young Cooley returned. He knocked twice without a reply; then he came in.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-44.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-44.html"
 ---
 
 After the indignant protest of Mr. Brainerd, Jake Golcher concluded to let the matter rest for the time.

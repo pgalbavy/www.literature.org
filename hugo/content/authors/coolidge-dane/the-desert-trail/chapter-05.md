@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-05.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-05.html"
 ---
 
 The journey to Fortuna is a scant fifty miles by measure, but within those eighty kilometers there is a lapse of centuries in standards. As Bud and De Lancey rode out of battle-scarred Agua Negra they traveled a good road, well worn by the Mexican wood-wagons that hauled in mesquit from the hills. Then, as they left the town and the wood roads scattered, the highway changed by degrees to a broad trail, dug deep by the feet of pack-animals and marked but lightly with wheels. It followed along the railroad, cutting over hills and down through gulches, and by evening they were in the heart of Old Mexico.

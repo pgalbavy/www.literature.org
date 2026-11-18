@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Reduced To The Ranks"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-09.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-09.html"
 ---
 
 The last place in the world for a humanitarian is around a cow camp, for everything there seems to savor of cruelty and blood. The only anti-cruelty-to-animals man who ever made a winning in the cattle business was good old Dr. Maverick, of Texas, who, when they made up the first brand book, swore he could not bring himself to cut an ear or burn a brand and craved the privilege of letting his cattle run unmarked. So, when it came to the round-up, the old doctor received his reward, for he claimed every maverick in the bunch and took them home for his own. This was a long time ago, in the age of myth and fable, and the doctor's herd has been sadly decimated since by rustlers and ruthless brand blotchers. A brand that can't be burned over is more precious than rubies now; and the bigger it is, the better.

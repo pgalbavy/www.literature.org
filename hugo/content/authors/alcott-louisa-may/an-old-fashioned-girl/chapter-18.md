@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Woman Who Did Not Dare"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-18.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-18.html"
 ---
 
 POLLY wrote enthusiastically, Ned answered satisfactorily, and after much corresponding, talking, and planning, it was decided that Tom should go West. Never mind what the business was; it suffices to say that it was a good beginning for a young man like Tom, who, having been born and bred in the most conservative class of the most conceited city in New England, needed just the healthy, hearty, social influences of the West to widen his views and make a man of him.

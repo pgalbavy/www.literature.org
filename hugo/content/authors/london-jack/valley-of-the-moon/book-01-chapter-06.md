@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-01-chapter-06.html"
+url: "/authors/london-jack/valley-of-the-moon/book-01-chapter-06.html"
 ---
 
 They said good-bye at the gate. Billy betrayed awkwardness that was sweet to Saxon. He was not one of the take-it-for-granted young men. There was a pause, while she feigned desire to go into the house, yet waited in secret eagerness for the words she wanted him to say.

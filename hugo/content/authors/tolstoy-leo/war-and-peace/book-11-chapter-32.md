@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 32"
 weight: 261
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-32.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-32.html"
 ---
 
 Seven days had passed since Prince Andrew found himself in the ambulance station on the field of Borodino. His feverish state and the inflammation of his bowels, which were injured, were in the doctor's opinion sure to carry him off. But on the seventh day he ate with pleasure a piece of bread with some tea, and the doctor noticed that his temperature was lower. He had regained consciousness that morning. The first night after they left Moscow had been fairly warm and he had remained in the caleche, but at Mytishchi the wounded man himself asked to be taken out and given some tea. The pain caused by his removal into the hut had made him groan aloud and again lose consciousness. When he had been placed on his camp bed he lay for a long time motionless with closed eyes. Then he opened them and whispered softly: "And the tea?" His remembering such a small detail of everyday life astonished the doctor. He felt Prince Andrew's pulse, and to his surprise and dissatisfaction found it had improved. He was dissatisfied because he knew by experience that if his patient did not die now, he would do so a little later with greater suffering. Timokhin, the red-nosed major of Prince Andrew's regiment, had joined him in Moscow and was being taken along with him, having been wounded in the leg at the battle of Borodino. They were accompanied by a doctor, Prince Andrew's valet, his coach. man, and two orderlies.

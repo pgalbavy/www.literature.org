@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7 - The Prince Dissolves The Council"
 weight: 13
-aliases:
-  - "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-07.html"
+url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-07.html"
 ---
 
 It was as Gotthold wrote. The liberation of Sir John, Greisengesang’s uneasy narrative, last of all, the scene between Seraphina and the Prince, had decided the conspirators to take a step of bold timidity. There had been a period of bustle, liveried messengers speeding here and there with notes; and at half-past ten in the morning, about an hour before its usual hour, the council of Grünewald sat around the board.

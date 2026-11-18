@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7"
 weight: 22
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-07.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-07.html"
 ---
 
 Billy quarreled with good fortune. He suspected he was too prosperous on the wages he received. What with the accumulating savings account, the paying of the monthly furniture installment and the house rent, the spending money in pocket, and the good fare he was eating, he was puzzled as to how Saxon managed to pay for the goods used in her fancy work. Several times he had suggested his inability to see how she did it, and been baffled each time by Saxon's mysterious laugh.

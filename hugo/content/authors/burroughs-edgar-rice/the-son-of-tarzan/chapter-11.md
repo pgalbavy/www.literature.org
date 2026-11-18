@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-11.html"
 ---
 
 Korak, returning from the hunt, heard the jabbering of the excited monkeys. He knew that something was seriously amiss. Histah, the snake, had doubtless coiled his slimy folds about some careless Manu. The youth hastened ahead. The monkeys were Meriem's friends. He would help them if he could. He traveled rapidly along the middle terrace. In the tree by Meriem's shelter he deposited his trophies of the hunt and called aloud to her. There was no answer. He dropped quickly to a lower level. She might be hiding from him.

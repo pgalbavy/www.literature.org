@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - I Make A Fault In Honour"
 weight: 8
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-07.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-07.html"
 ---
 
 I came forth, I vow I know not how, on the *Lang Dykes* [12]. This is a rural road which runs on the north side over against the city. Thence I could see the whole black length of it tail down, from where the castle stands upon its crags above the loch in a long line of spires and gable ends, and smoking chimneys, and at the sight my heart swelled in my bosom. My youth, as I have told, was already inured to dangers; but such danger as I had seen the face of but that morning, in the midst of what they call the safety of a town, shook me beyond experience. Peril of slavery, peril of shipwreck, peril of sword and shot, I had stood all of these without discredit; but the peril there was in the sharp voice and the fat face of Simon, properly Lord Lovat, daunted me wholly.

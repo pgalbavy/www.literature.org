@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Cromwell's Letter"
 weight: 37
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-37.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-37.html"
 ---
 
 At the very moment when the queen quitted the convent to go to the Palais Royal, a young man dismounted at the gate of this royal abode and announced to the guards that he had something of importance to communicate to Cardinal Mazarin. Although the cardinal was often tormented by fear, he was more often in need of counsel and information, and he was therefore sufficiently accessible. The true difficulty of being admitted was not to be found at the first door, and even the second was passed easily enough; but at the third watched, besides the guard and the doorkeepers, the faithful Bernouin, a Cerberus whom no speech could soften, no wand, even of gold, could charm.

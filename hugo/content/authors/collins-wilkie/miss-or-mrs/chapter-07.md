@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Evening Party"
 weight: 7
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-07.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-07.html"
 ---
 
 --- MR. TURLINGTON,

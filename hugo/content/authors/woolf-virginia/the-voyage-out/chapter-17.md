@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-17.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-17.html"
 ---
 
 It was now the height of the season, and every ship that came from England left a few people on the shores of Santa Marina who drove up to the hotel. The fact that the Ambroses had a house where one could escape momentarily from the slightly inhuman atmosphere of an hotel was a source of genuine pleasure not only to Hirst and Hewet, but to the Elliots, the Thornburys, the Flushings, Miss Allan, Evelyn M., together with other people whose identity was so little developed that the Ambroses did not discover that they possessed names. By degrees there was established a kind of correspondence between the two houses, the big and the small, so that at most hours of the day one house could guess what was going on in the other, and the words "the villa" and "the hotel" called up the idea of two separate systems of life. Acquaintances showed signs of developing into friends, for that one tie to Mrs. Parry's drawing-room had inevitably split into many other ties attached to different parts of England, and sometimes these alliances seemed cynically fragile, and sometimes painfully acute, lacking as they did the supporting background of organised English life. One night when the moon was round between the trees, Evelyn M. told Helen the story of her life, and claimed her everlasting friendship; or another occasion, merely because of a sigh, or a pause, or a word thoughtlessly dropped, poor Mrs. Elliot left the villa half in tears, vowing never again to meet the cold and scornful woman who had insulted her, and in truth, meet again they never did. It did not seem worth while to piece together so slight a friendship.

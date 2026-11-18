@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-11.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-11.html"
 ---
 
 The little station at which Hamel alighted was like an oasis in the middle of a flat stretch of sand and marsh. It consisted only of a few raised planks and a rude shelter - built, indeed, for the convenience of St. David's Hall alone, for the nearest village was two miles away. The station-master, on his return from escorting the young lady to her car, stared at this other passenger in some surprise.

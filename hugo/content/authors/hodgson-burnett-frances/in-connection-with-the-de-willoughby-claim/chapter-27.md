@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-27.html"
 ---
 
 When Judge Rutherford piloted him up the broad, unpaved avenue towards the small house near Dupont Circle, the first objects which caught Farquhar's gaze were two young people standing among the unkempt rose and syringa bushes in the little front garden. The slim grace and bloom of their youth would have caught any eye. They were laughing happily, and the girl held a branch of rosy blossoms in her hand.

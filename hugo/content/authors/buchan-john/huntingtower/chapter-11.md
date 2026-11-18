@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Gravity Out Of Bed"
 weight: 12
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-11.html"
+url: "/authors/buchan-john/huntingtower/chapter-11.html"
 ---
 
 It is probable that Sir Archibald Roylance did not altogether believe Dickson's tale; it may be that he considered him an agreeable romancer, or a little mad, or no more than a relief to the tedium of a wet Sunday morning. But his incredulity did not survive one glance at Saskia as she stood in that bleak drawing-room among Victorian water-colours and faded chintzes. The young man's boyishness deserted him. He stopped short in his tracks, and made a profound and awkward bow. "I am at your service, Mademoiselle," he said, amazed at himself. The words seemed to have come out of a confused memory of plays and novels.

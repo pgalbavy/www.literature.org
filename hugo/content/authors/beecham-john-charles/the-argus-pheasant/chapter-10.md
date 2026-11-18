@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Captain Carver Signs"
 weight: 11
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-10.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-10.html"
 ---
 
 When Peter Gross recovered consciousness fifteen minutes later he found himself in familiar quarters. He was lying on a cot in Captain Rouse's den, commonly designated by that gentleman as "the cabin." Captain Rouse's face, solemn as an owl's, was leaning over him. As he blinked the captain's lips expanded into a grin.

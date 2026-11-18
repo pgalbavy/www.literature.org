@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-08.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-08.html"
 ---
 
 Mrs Bolton also kept a cherishing eye on Connie, feeling she must extend to her her female and professional protection. She was always urging her ladyship to walk out, to drive to Uthwaite, to be in the air. For Connie had got into the habit of sitting still by the fire, pretending to read; or to sew feebly, and hardly going out at all.

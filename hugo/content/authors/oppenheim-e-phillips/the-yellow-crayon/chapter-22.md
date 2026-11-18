@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-22.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-22.html"
 ---
 
 His Highness, the Prince of Saxe Leinitzer!"

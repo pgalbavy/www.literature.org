@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - In The Nick Of Time"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/the-cave-in-the-mountain/chapter-13.html"
 ---
 
 Leaving his mustang in charge of Fred, the Irishman turned to the right, and followed the stream into the rocks. The course was so winding that he speedily disappeared from sight. The boy, who was compelled to sit still and await his return, at perhaps the most dangerous portion of the road, felt anything but comfortable over the erratic proceeding of his friend. But, fortunately, the latter had been gone but a short time when he reappeared, hurrying forward as if somebody was at his heels.

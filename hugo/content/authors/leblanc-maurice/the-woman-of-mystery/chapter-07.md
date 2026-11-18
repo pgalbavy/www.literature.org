@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - H. E. R. M"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-07.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-07.html"
 ---
 
 Paul's first feeling was an immense need of revenge, then and there, at all costs, a need outweighing any sense of horror or despair. He gazed around him, as though all the wounded men who lay dying in the park were guilty of the monstrous crime:

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 25"
 weight: 25
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-25.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-25.html"
 ---
 
 "So you see," pursued Nikolay Levin, painfully wrinkling his forhead and twitching.

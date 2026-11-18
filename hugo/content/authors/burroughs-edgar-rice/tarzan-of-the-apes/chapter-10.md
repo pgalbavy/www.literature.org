@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Fear-Phantom"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-10.html"
 ---
 
 From a lofty perch Tarzan viewed the village of thatched huts across the intervening plantation.

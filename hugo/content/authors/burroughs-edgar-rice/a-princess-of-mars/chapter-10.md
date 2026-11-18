@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Champion and Chief"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-10.html"
 ---
 
 Early the next morning I was astir. Considerable freedom was allowed me, as Sola had informed me that so long as I did not attempt to leave the city I was free to go and come as I pleased. She had warned me, however, against venturing forth unarmed, as this city, like all other deserted metropolises of an ancient Martian civilization, was peopled by the great white apes of my second day's adventure.

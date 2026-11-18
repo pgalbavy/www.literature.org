@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Unexpected News"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-09.html"
 ---
 
 LITTLE Mrs. Ladybug had a disappointment when she reached the farmhouse. She found, to her dismay, that she couldn't get inside it; for wire screens blocked her way through both doors and windows. And nobody paid the slightest attention to her when she stopped at the buttery window and asked if she couldn't please have a bit of butter.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Startling Occurrence"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-03.html"
 ---
 
 Mr. Wagstaff, on receiving word at the Town Hall from the janitor who brought the message of the terrified servant to him, forgot, in his excitement, to tell his wife of the fearful news, and rushed out-of-doors without a word.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-09.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-09.html"
 ---
 
 An imagination verging toward the figurative finds on entering the New York Stock-Exchange a strong suggestion of having penetrated a die with which Giants have been casting lots. The first impression is one of cubical dimensions--and unless the curb be drawn, a fancy so spurred will plunge to yet other conceits that bring home the cynical parallel.

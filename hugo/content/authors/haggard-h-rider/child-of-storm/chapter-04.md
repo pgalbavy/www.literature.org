@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mameena"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-04.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-04.html"
 ---
 
 For a while I contemplated the roof and sides of the hut by the light which entered it through the smoke-vent and the door-hole, wondering whose it might be and how I came there.

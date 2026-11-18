@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-18.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-18.html"
 ---
 
 That glee which finds expression in raised eyebrows and long, low whistling noises was upon Mr. Hoopdriver. For a space he forgot the tears of the Young Lady in Grey. Here was a new game!--and a real one. Mr. Hoopdriver as a Private Inquiry Agent, a Sherlock Holmes in fact, keeping these two people 'under observation.' He walked slowly back from the bridge until he was opposite the Angel, and stood for ten minutes, perhaps, contemplating that establishment and enjoying all the strange sensations of being this wonderful, this mysterious and terrible thing. Everything fell into place in his scheme. He had, of course, by a kind of instinct, assumed the disguise of a cyclist, picked up the first old crock he came across as a means of pursuit. 'No expense was to be spared.'

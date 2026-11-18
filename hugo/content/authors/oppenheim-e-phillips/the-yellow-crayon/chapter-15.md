@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-15.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-15.html"
 ---
 
 Nevertheless, Mr. Sabin lunched with discretion, as usual, but with no lack of appetite. It chanced that they were alone. Lord Camperdown was down in the Midlands for a day's hunting, and Helene had ensured their seclusion from any one who might drop in by a whispered word to the hail porter as they passed into the house. It seemed to her that she had never found Mr. Sabin more entertaining, had never more appreciated his rare gift of effortless and anecdotal conversation. What a marvelous memory! He knew something of every country from the inside. He had been brought at various times during his long diplomatic career into contact with most of the interesting people in the world. He knew well how to separate the grain from the chaff according to the tastes of his listener. The pathos of his present position appealed to her irresistibly. The possibilities of his life had been so great, fortune had treated him always so strangely. The greatest of his schemes had come so near to success, the luck had turned against him only at the very moment of fruition. Helene felt very kindly towards her UNCLE as she led him, after luncheon, to a quiet corner of the winter garden, where a servant had already arranged a table with coffee and liqueurs and cigarettes. Unscrupulous all his life, there had been an element of greatness in all his schemes. Even his failures had been magnificent, for his successes he himself had seldom reaped the reward. And now in the autumn of his days she felt dimly that he was threatened with some evil thing against which he stood at bay single-handed, likely perhaps to be overpowered. For there was something in his face just now which was strange to her.

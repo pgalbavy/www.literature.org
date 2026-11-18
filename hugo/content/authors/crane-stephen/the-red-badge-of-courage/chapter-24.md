@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/crane-stephen/the-red-badge-of-courage/chapter-24.html"
+url: "/authors/crane-stephen/the-red-badge-of-courage/chapter-24.html"
 ---
 
 THE roarings that had stretched in a long line of sound across the face of the forest began to grow intermittent and weaker. The stentorian speeches of the artillery continued in some dis- tant encounter, but the crashes of the musketry had almost ceased. The youth and his friend of a sudden looked up, feeling a deadened form of distress at the waning of these noises, which had become a part of life. They could see changes going on among the troops. There were march- ings this way and that way. A battery wheeled leisurely. On the crest of a small hill was the thick gleam of many departing muskets.

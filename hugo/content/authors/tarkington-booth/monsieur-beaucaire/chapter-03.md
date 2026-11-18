@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/monsieur-beaucaire/chapter-03.html"
+url: "/authors/tarkington-booth/monsieur-beaucaire/chapter-03.html"
 ---
 
 It was well agreed by the fashion of Bath that M. le Duc de Chateaurien was a person of sensibility and haut ton; that his retinue and equipage surpassed in elegance; that his person was exquisite, his manner engaging. In the company of gentlemen his ease was slightly tinged with graciousness (his single equal in Bath being his Grace of Winterset); but it was remarked that when he bowed over a lady's hand, his air bespoke only a gay and tender reverence.

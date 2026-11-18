@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Rannie Kirsted"
 weight: 28
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-28.html"
+url: "/authors/tarkington-booth/seventeen/chapter-28.html"
 ---
 
 Observing the monotonously proper behavior of the sun, man had an absurd idea and invented Time. Becoming still more absurd, man said, "So much shall be a day; such and such shall be a week. All weeks shall be the same length." Yet every baby knows better! How long for Johnnie Watson, for Joe Bullitt, for Wallace Banks—how long for William Sylvanus Baxter was the last week of Miss Pratt? No one can answer. How long was that week for Mr. Parcher? Again the mind is staggered.

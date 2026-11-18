@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Americans In The Congo"
 weight: 4
-aliases:
-  - "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-04.html"
+url: "/authors/davis-richard-harding/the-congo-and-coasts-of-africa/chapter-04.html"
 ---
 
 In trying to sum up what I found in the Congo Free State, I think what one fails to find there is of the greatest significance. To tell what the place is like, you must tell what it lacks. One must write of the Congo always in the negative. It is as though you asked: "What sort of a house is this one Jones has built?" and were answered: "Well, it hasn't any roof, and it hasn't any cellar, and it has no windows, floors, or chimneys. It's that kind of a house."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Winter’s Store"
 weight: 24
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-24.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-24.html"
 ---
 
 After Frisky Squirrel had enjoyed a hearty meal of beechnuts he began to make hurried trips to a hollow tree nearby. He lived in that tree. It had a fine big storeroom. And there he carried beechnuts in his cheeks. Frisky did not intend to go hungry when winter came.

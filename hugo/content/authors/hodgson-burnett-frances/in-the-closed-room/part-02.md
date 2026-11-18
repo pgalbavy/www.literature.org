@@ -1,8 +1,7 @@
 ---
 title: "Part 2"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/in-the-closed-room/part-02.html"
+url: "/authors/hodgson-burnett-frances/in-the-closed-room/part-02.html"
 ---
 
 Judith climbed the basement stairs rather slowly. Her mother was busy rearranging the disorder the hastily departing servants had left. Their departure had indeed been made in sufficient haste to have left behind the air of its having been flight. There was a great deal to be done, and Jane Foster, moving about with broom and pail and scrubbing brushes, did not dislike the excitement of the work before her. Judith's certainty that she would not be missed made all clear before her. If her absence was observed her mother would realize that the whole house lay open to her and that she was an undisturbing element wheresoever she was led either by her fancy or by circumstance. If she went into the parlours she would probably sit and talk to herself or play quietly with her shabby doll. In any case she would be finding pleasure of her own and would touch nothing which could be harmed.

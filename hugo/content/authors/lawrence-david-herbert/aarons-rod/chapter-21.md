@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Words"
 weight: 21
-aliases:
-  - "/authors/lawrence-david-herbert/aarons-rod/chapter-21.html"
+url: "/authors/lawrence-david-herbert/aarons-rod/chapter-21.html"
 ---
 
 He went home to bed: and dreamed a strange dream. He dreamed that he was in a country with which he was not acquainted. Night was coming on, and he had nowhere to sleep. So he passed the mouth of a sort of cave or house, in which a woman, an old woman, sat. Therefore he entered, and though he could not understand the language, still his second self understood. The cave was a house: and men came home from work. His second self assumed that they were tin-miners.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-16.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-16.html"
 ---
 
 I got an opportunity of tackling Colonel Race on the following morning. The auction of the sweep had just been concluded, and we walked up and down the deck together.

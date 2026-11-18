@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Further Adventures Of The Same"
 weight: 6
-aliases:
-  - "/authors/buchan-john/greenmantle/chapter-05.html"
+url: "/authors/buchan-john/greenmantle/chapter-05.html"
 ---
 
 Next morning there was a touch of frost and a nip in the air which stirred my blood and put me in buoyant spirits. I forgot my precarious position and the long road I had still to travel. I came down to breakfast in great form, to find Peter’s even temper badly ruffled. He had remembered Stumm in the night and disliked the memory; this he muttered to me as we rubbed shoulders at the dining-room door. Peter and I got no opportunity for private talk. The lieutenant was with us all the time, and at night we were locked in our rooms. Peter discovered this through trying to get out to find matches, for he had the bad habit of smoking in bed.

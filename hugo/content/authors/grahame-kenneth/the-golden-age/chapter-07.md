@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Burglars"
 weight: 8
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-07.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-07.html"
 ---
 
 IT was much too fine a night to think of going to bed at once, and so, although the witching hour of nine P.M. had struck, Edward and I were still leaning out of the open window in our nightshirts, watching the play of the cedar-branch shadows on the moonlit lawn, and planning schemes of fresh devilry for the sunshiny morrow. From below, strains of the jocund piano declared that the Olympians were enjoying themselves in their listless impotent way; for the new curate had been bidden to dinner that night, and was at the moment unclerically proclaiming to all the world that he feared no foe. His discordant vociferations doubtless started a train of thought in Edward’s mind, for he presently remarked, à propos of nothing whatever that had been said before, ‘I believe the new curate’s rather gone on Aunt Maria.’

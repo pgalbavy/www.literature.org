@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 26
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-25.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-25.html"
 ---
 
 The visions of romance were over. Catherine was completely awakened. Henry’s address, short as it had been, had more thoroughly opened her eyes to the extravagance of her late fancies than all their several disappointments had done. Most grievously was she humbled. Most bitterly did she cry. It was not only with herself that she was sunk—but with Henry. Her folly, which now seemed even criminal, was all exposed to him, and he must despise her forever. The liberty which her imagination had dared to take with the character of his father—could he ever forgive it? The absurdity of her curiosity and her fears—could they ever be forgotten? She hated herself more than she could express. He had—she thought he had, once or twice before this fatal morning, shown something like affection for her. But now—in short, she made herself as miserable as possible for about half an hour, went down when the clock struck five, with a broken heart, and could scarcely give an intelligible answer to Eleanor’s inquiry if she was well. The formidable Henry soon followed her into the room, and the only difference in his behaviour to her was that he paid her rather more attention than usual. Catherine had never wanted comfort more, and he looked as if he was aware of it.

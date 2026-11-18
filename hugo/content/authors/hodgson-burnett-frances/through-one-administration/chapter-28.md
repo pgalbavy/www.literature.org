@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-28.html"
 ---
 
 The next few weeks were not agreeable ones to Richard Amory. There was too much feverish anxiety and uncertainty in them. He had not yet acquired the coolness and hardihood of experience, and he felt their lack in himself. He had a great deal at stake, more than at the outset it had seemed possible he could have under any circumstances. He began to realize, with no little discomfort, that he had run heavier risks than he had intended to allow himself to be led into running. When they rose before him in their full magnitude, as they did occasionally when affairs assumed an unencouraging aspect, he wished his enthusiasm had been less great. It could not be said that he had reached remorse for, or actual repentance of, his indiscretions; he had simply reached a point when discouragement led him to feel that he might be called upon to repent by misfortune. Up to this time it had been his habit to drive up to the Capitol in his _coupé_, to appear in the galleries, to saunter through the lobby, and to flit in and out of committee-rooms with something of the air of an amateur rather enjoying himself; he had made himself popular; his gayety, his magnetic manner, his readiness to be all things to all men had smoothed his pathway for him, while his unprofessional air had given him an appearance of harmlessness.

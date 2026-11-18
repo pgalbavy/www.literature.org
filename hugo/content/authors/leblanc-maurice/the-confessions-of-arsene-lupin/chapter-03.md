@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Sign Of The Shadow"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-03.html"
+url: "/authors/leblanc-maurice/the-confessions-of-arsene-lupin/chapter-03.html"
 ---
 
 "I received your telegram and here I am," said a gentleman with a grey moustache, who entered my study, dressed in a dark-brown frock-coat and a wide-brimmed hat, with a red ribbon in his buttonhole. "What's the matter?"

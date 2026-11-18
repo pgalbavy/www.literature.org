@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The California Coast"
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-06.html"
 ---
 
 They were safe at last! The four dropped their feet and found them resting upon smooth packed sand, and wading a few rods they all stood upon dry earth. Terror, as he shook his shaggy coat and rubbed his nose against his young masters seemed not the least joyful of the party.

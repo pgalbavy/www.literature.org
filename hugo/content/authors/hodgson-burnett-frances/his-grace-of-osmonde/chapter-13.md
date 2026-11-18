@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - \u0026quot;Your--Grace!\u0026quot;"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-13.html"
 ---
 
 "Come with me, Gerald, to Dunstan's Wolde," said my lord, as they sat together that night in his town-house. "I would have your company if you will give it me until you rejoin Marlborough. I am lonely in these days."

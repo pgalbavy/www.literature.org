@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Rescue Expedition"
 weight: 30
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-30.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-30.html"
 ---
 
 And now to tell of those energetic chevaliers, Widgery, Dangle, and Phipps, and of that distressed beauty, 'Thomas Plantagenet,' well known in society, so the paragraphs said, as Mrs. Milton. We left them at Midhurst station, if I remember rightly, waiting, in a state of fine emotion, for the Chichester train. It was clearly understood by the entire Rescue Party that Mrs. Milton was bearing up bravely against almost overwhelming grief. The three gentlemen outdid one another in sympathetic expedients; they watched her gravely almost tenderly. The substantial Widgery tugged at his moustache, and looked his unspeakable feelings at her with those dog-like, brown eyes of his; the slender Dangle tugged at HIS moustache, and did what he could with unsympathetic grey ones. Phipps, unhappily, had no moustache to run any risks with, so he folded his arms and talked in a brave, indifferent, bearing-up tone about the London, Brighton, and South Coast Railway, just to cheer the poor woman up a little. And even Mrs. Milton really felt that exalted melancholy to the very bottom of her heart, and tried to show it in a dozen little, delicate, feminine ways.

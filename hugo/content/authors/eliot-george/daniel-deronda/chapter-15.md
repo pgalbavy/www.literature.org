@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-15.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-15.html"
 ---
 
 "Festina lente - celerity should be contempered with cunctation." - SIR THOMAS BROWNE.

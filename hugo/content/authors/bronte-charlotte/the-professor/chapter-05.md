@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 6
-aliases:
-  - "/authors/bronte-charlotte/the-professor/chapter-05.html"
+url: "/authors/bronte-charlotte/the-professor/chapter-05.html"
 ---
 
 THERE is a climax to everything, to every state of feeling as well as to every position in life. I turned this truism over in my mind as, in the frosty dawn of a January morning, I hurried down the steep and now icy street which descended from Mrs. King's to the Close. The factory workpeople had preceded me by nearly an hour, and the mill was all lighted up and in full operation when I reached it. I repaired to my post in the counting-house as usual; the fire there, but just lit, as yet only smoked; Steighton had not yet arrived. I shut the door and sat down at the desk; my hands, recently washed in half-frozen water, were still numb; I could not write till they had regained vitality, so I went on thinking, and still the theme of my thoughts was the "climax." Self-dissatisfaction troubled exceedingly the current of my meditations.

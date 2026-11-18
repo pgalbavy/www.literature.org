@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-22.html"
+url: "/authors/dickens-charles/great-expectations/chapter-22.html"
 ---
 
 THE pale young gentleman and I stood contemplating one another in Barnard's Inn, until we both burst out laughing. 'The idea of its being you!' said he. 'The idea of its being you!' said I. And then we contemplated one another afresh, and laughed again. 'Well!' said the pale young gentleman, reaching out his hand good- humouredly, 'it's all over now, I hope, and it will be magnanimous in you if you'll forgive me for having knocked you about so.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - By The Waters Of Death Creek"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/the-brethren/chapter-01.html"
+url: "/authors/haggard-h-rider/the-brethren/chapter-01.html"
 ---
 
 From the sea-wall on the coast of Essex, Rosamund looked out across the ocean eastwards. To right and left, but a little behind her, like guards attending the person of their sovereign, stood her cousins, the twin brethren, Godwin and Wulf, tall and shapely men. Godwin was still as a statue, his hands folded over the hilt of the long, scabbarded sword, of which the point was set on the ground before him, but Wulf, his brother, moved restlessly, and at length yawned aloud. They were beautiful to look at, all three of them, as they appeared in the splendour of their youth and health. The imperial Rosamund, dark-haired and eyed, ivory skinned and slender-waisted, a posy of marsh flowers in her hand; the pale, stately Godwin, with his dreaming face; and the bold-fronted, blue-eyed warrior, Wulf, Saxon to his finger-tips, notwithstanding his father's Norman blood.

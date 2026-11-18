@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Flight In The Heather: The Moor"
 weight: 23
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-22.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-22.html"
 ---
 
 Some seven hours’ incessant, hard travelling brought us early in the morning to the end of a range of mountains. In front of us there lay a piece of low, broken, desert land, which we must now cross. The sun was not long up, and shone straight in our eyes; a little, thin mist went up from the face of the moorland like a smoke; so that (as Alan said) there might have been twenty squadron of dragoons there and we none the wiser.

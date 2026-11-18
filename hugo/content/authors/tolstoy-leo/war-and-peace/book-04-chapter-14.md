@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 14"
 weight: 82
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-04-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-04-chapter-14.html"
 ---
 
 An hour and a half later most of the players were but little interested in their own play.

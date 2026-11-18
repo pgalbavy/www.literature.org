@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Cloudy Mountain"
 weight: 22
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-22.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-22.html"
 ---
 
 Five days running, Geraldine, Duane, and old Miller watched for the big gray boar among the rocky oak ridges under Cloudy Mountain; and though once they saw his huge tracks, they did not see him.

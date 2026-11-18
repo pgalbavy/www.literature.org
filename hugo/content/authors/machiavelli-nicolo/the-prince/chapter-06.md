@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Concerning New Principalities Which Are Acquired By One’s Own Arms And Ability"
 weight: 7
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/chapter-06.html"
+url: "/authors/machiavelli-nicolo/the-prince/chapter-06.html"
 ---
 
 Let no one be surprised if, in speaking of entirely new principalities as I shall do, I adduce the highest examples both of prince and of state; because men, walking almost always in paths beaten by others, and following by imitation their deeds, are yet unable to keep entirely to the ways of others or attain to the power of those they imitate. A wise man ought always to follow the paths beaten by great men, and to imitate those who have been supreme, so that if his ability does not equal theirs, at least it will savour of it. Let him act like the clever archers who, designing to hit the mark which yet appears too far distant, and knowing the limits to which the strength of their bow attains, take aim much higher than the mark, not to reach by their strength or arrow to so great a height, but to be able with the aid of so high an aim to hit the mark they wish to reach.

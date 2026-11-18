@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4"
 weight: 25
-aliases:
-  - "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-04.html"
+url: "/authors/dostoevsky-fyodor/crime-and-punishment/part-04-chapter-04.html"
 ---
 
 Raskolnikov went straight to the house on the canal bank where Sonia lived. It was an old green house of three storeys. He found the porter and obtained from him vague directions as to the whereabouts of Kapernaumov, the tailor. Having found in the corner of the courtyard the entrance to the dark and narrow staircase, he mounted to the second floor and came out into a gallery that ran round the whole second storey over the yard. While he was wandering in the darkness, uncertain where to turn for Kapernaumov's door, a door opened three paces from him; he mechanically took hold of it.

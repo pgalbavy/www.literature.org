@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Smallpox Medicine"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-13.html"
+url: "/authors/tarkington-booth/penrod/chapter-13.html"
 ---
 
 Next morning Penrod woke in profound depression of spirit, the cotillon ominous before him. He pictured Marjorie Jones and Maurice, graceful and light-hearted, flitting by him fairylike, loosing silvery laughter upon him as he engaged in the struggle to keep step with a partner about four years and two feet his junior. It was hard enough for Penrod to keep step with a girl of his size.

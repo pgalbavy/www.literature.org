@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Green Anchor Lane"
 weight: 10
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-10.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-10.html"
 ---
 
 An hour later than the time at which he had been expected, Richard Turlington appeared at his office in the city.

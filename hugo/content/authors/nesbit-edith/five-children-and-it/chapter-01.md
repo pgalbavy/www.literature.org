@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Beautiful As The Day"
 weight: 1
-aliases:
-  - "/authors/nesbit-edith/five-children-and-it/chapter-01.html"
+url: "/authors/nesbit-edith/five-children-and-it/chapter-01.html"
 ---
 
 TO JOHN BLAND

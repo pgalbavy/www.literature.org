@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Face To Face"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-21.html"
 ---
 
 Herbert Watrous, when he separated from his companions on that balmy afternoon in Indian summer, assumed a loftiness of bearing which was far from genuine.

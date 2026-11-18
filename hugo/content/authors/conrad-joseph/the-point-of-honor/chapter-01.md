@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/conrad-joseph/the-point-of-honor/chapter-01.html"
+url: "/authors/conrad-joseph/the-point-of-honor/chapter-01.html"
 ---
 
 Napoleon the First, whose career had the quality of a duel against the whole of Europe, disliked duelling between the officers of his army. The great military emperor was not a swashbuckler, and had little respect for tradition.

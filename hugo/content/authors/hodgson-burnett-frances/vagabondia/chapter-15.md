@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - In Which We Try Switzerland"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/vagabondia/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/vagabondia/chapter-15.html"
 ---
 
 IN the morning of one of the hot days in June, Mollie, standing at the window of Phil's studio, turned suddenly toward the inmates of the room with an exclamation.

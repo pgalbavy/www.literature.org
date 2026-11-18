@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-09.html"
+url: "/authors/austen-jane/mansfield-park/chapter-09.html"
 ---
 
 Mr. Rushworth was at the door to receive his fair lady; and the whole party were welcomed by him with due attention. In the drawing-room they were met with equal cordiality by the mother, and Miss Bertram had all the distinction with each that she could wish. After the business of arriving was over, it was first necessary to eat, and the doors were thrown open to admit them through one or two intermediate rooms into the appointed dining-parlour, where a collation was prepared with abundance and elegance. Much was said, and much was ate, and all went well. The particular object of the day was then considered. How would Mr. Crawford like, in what manner would he chuse, to take a survey of the grounds? Mr. Rushworth mentioned his curricle. Mr. Crawford suggested the greater desirableness of some carriage which might convey more than two. “To be depriving themselves of the advantage of other eyes and other judgments, might be an evil even beyond the loss of present pleasure.”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Set Back"
 weight: 4
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-03.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-03.html"
 ---
 
 *THE* moment was not quite so triumphant as it ought to have been. To begin with, the resources of Tommy’s pockets were somewhat limited. In the end the fare was managed, the lady recollecting a plebeian twopence, and the driver, still holding the varied assortment of coins in his hand, was prevailed upon to move on, which he did after one last hoarse demand as to what the gentleman thought he was giving him?

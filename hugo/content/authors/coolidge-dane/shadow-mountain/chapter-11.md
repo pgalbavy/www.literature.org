@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Touch"
 weight: 11
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-11.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-11.html"
 ---
 
 The wrath of a man who is slow to anger cannot lightly be turned aside and, though Virginia drooped her lashes, the son of Honest John brushed past her without a word. She had followed him gratuitously to Death Valley's cabin and seriously questioned his good faith; and then, to fan the flames of his just resentment, she had suggested that he was telling an untruth. He had told her--and it seemed impossible--that Blount had offered him half the Paymaster, on shares; but the following morning, without a word of warning, the Paymaster Mine shut down. The pumps stopped abruptly, all the tools were removed, and as the foreman and miners who had been their boarders rolled up their beds and prepared to depart, the high-headed Virginia buried her face in her hands and retired to her bedroom to weep. And then to cap it all that miserable assayer sent in his belated report.

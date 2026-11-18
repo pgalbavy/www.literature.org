@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Sound Of A Tumult"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-04.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-04.html"
 ---
 
 Graham's last impression before he fainted was of a clamorous ringing of bells. He learnt afterwards that he was insensible, hanging between life and death, for the better part of an hour. When he recovered his senses, he was back on his translucent couch, and there was a stirring warmth at heart and throat. The dark apparatus, he perceived, had been removed from his arm, which was bandaged. The white framework was still about him, but the greenish transparent substance that had filled it was altogether gone. A man in a deep violet robe, one of those who had been on the balcony, was looking keenly into his face.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - The Envoy"
 weight: 41
-aliases:
-  - "/authors/wells-herbert-george/the-wheels-of-chance/chapter-41.html"
+url: "/authors/wells-herbert-george/the-wheels-of-chance/chapter-41.html"
 ---
 
 So the story ends, dear Reader. Mr. Hoopdriver, sprawling down there among the bracken, must sprawl without our prying, I think, or listening to what chances to his breathing. And of what came of it all, of the six years and afterwards, this is no place to tell. In truth, there is no telling it, for the years have still to run. But if you see how a mere counter-jumper, a cad on castors, and a fool to boot, may come to feel the little insufficiencies of life, and if he has to any extent won your sympathies, my end is attained. (If it is not attained, may Heaven forgive us both!) Nor will we follow this adventurous young lady of ours back to her home at Surbiton, to her new struggle against Widgery and Mrs. Milton combined. For, as she will presently hear, that devoted man has got his reward. For her, also, your sympathies are invited.

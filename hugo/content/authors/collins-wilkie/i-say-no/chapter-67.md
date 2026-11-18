@@ -1,8 +1,7 @@
 ---
 title: "Chapter 67 - The True Consolation"
 weight: 67
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-67.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-67.html"
 ---
 
 Emily closed the pages which told her that her father had died by his own hand.

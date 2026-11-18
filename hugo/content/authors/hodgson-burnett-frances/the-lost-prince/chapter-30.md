@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Game Is At An End"
 weight: 30
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-30.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-30.html"
 ---
 
 So long as the history of Europe is written and read, the unparalleled story of the Rising of the Secret Party in Samavia will stand out as one of its most startling and romantic records. Every detail connected with the astonishing episode, from beginning to end, was romantic even when it was most productive of realistic results. When it is related, it always begins with the story of the tall and kingly Samavian youth who walked out of the palace in the early morning sunshine singing the herdsmen's song of beauty of old days. Then comes the outbreak of the ruined and revolting populace; then the legend of the morning on the mountain side, and the old shepherd coming out of his cave and finding the apparently dead body of the beautiful young hunter. Then the secret nursing in the cavern; then the jolting cart piled with sheepskins crossing the frontier, and ending its journey at the barred entrance of the monastery and leaving its mysterious burden behind. And then the bitter hate and struggle of dynasties, and the handful of shepherds and herdsmen meeting in their cavern and binding themselves and their unborn sons and sons' sons by an oath never to be broken. Then the passing of generations and the slaughter of peoples and the changing of kings,--and always that oath remembered, and the Forgers of the Sword, at their secret work, hidden in forests and caves. Then the strange story of the uncrowned kings who, wandering in other lands, lived and died in silence and seclusion, often laboring with their hands for their daily bread, but never forgetting that they must be kings, and ready,--even though Samavia never called. Perhaps the whole story would fill too many volumes to admit of it ever being told fully.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6 - The Heat-Ray in the Chobham Road"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-06.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-06.html"
 ---
 
 It is still a matter of wonder how the Martians are able to slay men so swiftly and so silently. Many think that in some way they are able to generate an intense heat in a chamber of practically absolute non-conductivity. This intense heat they project in a parallel beam against any object they choose, by means of a polished parabolic mirror of unknown composition, much as the parabolic mirror of a lighthouse projects a beam of light. But no one has absolutely proved these details. However it is done, it is certain that a beam of heat is the essence of the matter. Heat, and invisible, instead of visible, light. Whatever is combustible flashes into flame at its touch, lead runs like water, it softens iron, cracks and melts glass, and when it falls upon water, incontinently that explodes into steam.

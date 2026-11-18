@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Struggle For Existence"
 weight: 5
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-03.html"
+url: "/authors/darwin-charles/the-origin-of-species-6th-edition/chapter-03.html"
 ---
 
 Its bearing on natural selection -- The term used in a wide sense -- Geometrical ratio of increase -- Rapid increase of naturalised animals and plants -- Nature of the checks to increase -- Competition universal -- Effects of climate -- Protection from the number of individuals -- Complex relations of all animals and plants throughout nature -- Struggle for life most severe between individuals and varieties of the same species: often severe between species of the same genus -- The relation of organism to organism the most important of all relations.

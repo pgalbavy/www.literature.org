@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-06.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-06.html"
 ---
 
 At the last moment Roddy had decided against taking the water route, and, leaving his rowboat at his own wharf, had, on foot, skirted the edge of the harbor. It was high tide, and the narrow strip of shore front on which he now stood, and which ran between the garden and the Rojas' private wharf, was only a few feet in width. Overhead the moon was shining brilliantly, but a procession of black clouds caused the stone steps and the tiny summer-house at the end of the wharf to appear and disappear like slides in a magic lantern.

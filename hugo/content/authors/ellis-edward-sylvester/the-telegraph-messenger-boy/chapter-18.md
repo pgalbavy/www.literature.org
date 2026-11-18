@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Between Two Fires"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-18.html"
 ---
 
 In the meantime, Ben Mayberry underwent an experience more peculiar than mine.

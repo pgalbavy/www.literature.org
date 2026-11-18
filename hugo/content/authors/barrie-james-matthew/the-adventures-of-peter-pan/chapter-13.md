@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Do You Believe In Fairies?"
 weight: 13
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-13.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-13.html"
 ---
 
 The more quickly this horror is disposed of the better. The first to emerge from his tree was Curly. He rose out of it into the arms of Cecco, who flung him to Smee, who flung him to Starkey, who flung him to Bill Jukes, who flung him to Noodler, and so he was tossed from one to another till he fell at the feet of the black pirate. All the boys were plucked from their trees in this ruthless manner; and several of them were in the air at a time, like bales of goods flung from hand to hand.

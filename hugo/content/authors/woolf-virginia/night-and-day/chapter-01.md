@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-01.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-01.html"
 ---
 
 It was a Sunday evening in October, and in common with many other young ladies of her class, Katharine Hilbery was pouring out tea. Perhaps a fifth part of her mind was thus occupied, and the remaining parts leapt over the little barrier of day which interposed between Monday morning and this rather subdued moment, and played with the things one does voluntarily and normally in the daylight. But although she was silent, she was evidently mistress of a situation which was familiar enough to her, and inclined to let it take its way for the six hundredth time, perhaps, without bringing into play any of her unoccupied faculties. A single glance was enough to show that Mrs. Hilbery was so rich in the gifts which make tea-parties of elderly distinguished people successful, that she scarcely needed any help from her daughter, provided that the tiresome business of teacups and bread and butter was discharged for her.

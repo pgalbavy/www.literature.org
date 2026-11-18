@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Betty Pays Her Debts"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-19.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-19.html"
 ---
 
 Betty Dene was not a woman afflicted with fears or apprehensions. Born of good parents, but in poverty, for six-and-twenty years she had fought her own way in a rough world and made the best of circumstances. Healthy, full-blooded, tough, affectionate, romantic, but honest in her way, she was well fitted to meet the ups and downs of life, to keep her head above the waters of a turbulent age, and to pay back as much as she received from man or woman.

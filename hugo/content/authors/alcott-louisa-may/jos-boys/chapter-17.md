@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Among The Maids"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-17.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-17.html"
 ---
 
 Although this story is about Jo's boys, her girls cannot be neglected, because they held a high place in this little republic, and especial care was taken to fit them to play their parts worthily in the great republic which offered them wider opportunities and more serious duties. To many the social influence was the better part of the training they received; for education is not confined to books, and the finest characters often graduate from no college, but make experience their master, and life their book. Others cared only for the mental culture, and were in danger of over-studying, under the delusion which pervades New England that learning must be had at all costs, forgetting that health and real wisdom are better. A third class of ambitious girls hardly knew what they wanted, but were hungry for whatever could fit them to face the world and earn a living, being driven by necessity, the urgency of some half-conscious talent, or the restlessness of strong young natures to break away from the narrow life which no longer satisfied.

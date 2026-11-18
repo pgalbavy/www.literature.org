@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Catastrophe"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-01.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-01.html"
 ---
 
 "Clear the lulla!" was the general cry on a bright December afternoon, when all the boys and girls of Harmony Village were out enjoying the first good snow of the season. Up and down three long coasts they went as fast as legs and sleds could carry them. One smooth path led into the meadow, and here the little folk congregated; one swept across the pond, where skaters were darting about like water-bugs; and the third, from the very top of the steep hill, ended abruptly at a rail fence on the high bank above the road. There was a group of lads and lasses sitting or leaning on this fence to rest after an exciting race, and, as they reposed, they amused themselves with criticising their mates, still absorbed in this most delightful of out-door sports.

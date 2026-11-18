@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Missing Witness"
 weight: 17
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-16.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-16.html"
 ---
 
 On the seventeenth, the day I was trysted with the Writer, I had much rebellion against fate. The thought of him waiting in the *King’s Arms*, and of what he would think, and what he would say when next we met, tormented and oppressed me. The truth was unbelievable, so much I had to grant, and it seemed cruel hard I should be posted as a liar and a coward, and have never consciously omitted what it was possible that I should do. I repeated this form of words with a kind of bitter relish, and re-examined in that light the steps of my behaviour. It seemed I had behaved to James Stewart as a brother might; all the past was a picture that I could be proud of, and there was only the present to consider. I could not swim the sea, nor yet fly in the air, but there was always Andie. I had done him a service, he liked me; I had a lever there to work on; if it were just for decency, I must try once more with Andie.

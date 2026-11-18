@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 12"
 weight: 241
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-12.html"
 ---
 
 The Rostovs remained in Moscow till the first of September, that is, till the eve of the enemy's entry into the city.

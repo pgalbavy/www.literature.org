@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"I Had A Dream Which Was Not All A Dream.\""
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-forest-monster/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-forest-monster/chapter-09.html"
 ---
 
 There could be no doubt that gold in abundance existed in the section of the country where the three men had located themselves. We have shown the discovery made by Black Tom, and showed, too, how narrowly he escaped falling into the hands of his enemies.

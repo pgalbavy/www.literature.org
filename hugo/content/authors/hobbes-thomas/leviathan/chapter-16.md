@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Of Persons, Authors, And Things Personated"
 weight: 18
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-16.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-16.html"
 ---
 
 A Person What A PERSON, is he "whose words or actions are considered, either as his own, or as representing the words or actions of an other man, or of any other thing to whom they are attributed, whether Truly or by Fiction."

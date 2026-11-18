@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Trapper’s Story"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/bill-biddon-trapper/chapter-03.html"
 ---
 
 I was aroused from my slumber, before it was yet light, by Biddon shaking me and calling in my ear:

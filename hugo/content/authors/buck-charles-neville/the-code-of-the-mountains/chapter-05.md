@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-05.html"
+url: "/authors/buck-charles-neville/the-code-of-the-mountains/chapter-05.html"
 ---
 
 After the momentary shock of sudden panic the scattered auditors began shamefacedly drifting back for inquiry and a solution.

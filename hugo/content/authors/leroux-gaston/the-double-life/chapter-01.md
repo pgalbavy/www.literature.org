@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - M. Théophraste Longuet Wishes To Inform Him-Self And Visits Historical Monuments"
 weight: 2
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-01.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-01.html"
 ---
 
 *THE* strange adventures of M. Théophraste Longuet, which ended so tragically, originated in a visit to the prison of the Conciergerie, on the 28th of June, 1899. Therefore this history is modern; but the writer would say that, having read and examined all the papers and writings of M. Théophraste Longuet, its recentness does not detract from its sensational character.

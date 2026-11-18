@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-12.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-12.html"
 ---
 
 On a foggy afternoon, toward midwinter, John Estridge strolled into the new Overseas Club, which, still being in process of incubation, occupied temporary quarters on Madison Avenue.

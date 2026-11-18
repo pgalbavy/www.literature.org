@@ -1,8 +1,7 @@
 ---
 title: "Chapter 73"
 weight: 73
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-73.html"
+url: "/authors/eliot-george/middlemarch/chapter-73.html"
 ---
 
 Pity the laden one; this wandering woe May visit you and me.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - How Eric Came Home Again"
 weight: 23
-aliases:
-  - "/authors/haggard-h-rider/eric-brighteyes/chapter-22.html"
+url: "/authors/haggard-h-rider/eric-brighteyes/chapter-22.html"
 ---
 
 Swanhild made a good passage from the Orkneys, and was in Iceland thirty-five days before Eric and Skallagrim set foot there. But she did not land by Westman Isles, for she had no wish to face Gudruda at that time, but by Reyjaness. Now she rode thence with her company to Thingvalla, for here all men were gathered for the Thing. At first people hung aloof from her, notwithstanding her wealth and beauty; but Swanhild knew well how to win the hearts of men. For now she told the same story of Eric that she had told to Atli, and there were none to say her nay. So it came to pass that she was believed, and Eric Brighteyes held to be shamed indeed. Now, too, she set a suit on foot against Eric for the death of Atli at his hand, claiming that sentence of the greater outlawry should be passed against him, and that his lands at Coldback in the Marsh on Ran River should be given, half to her in atonement for the Earl’s death, and half to the men of Eric’s quarter.

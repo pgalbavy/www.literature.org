@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Letter From Élisabeth"
 weight: 4
-aliases:
-  - "/authors/leblanc-maurice/the-woman-of-mystery/chapter-04.html"
+url: "/authors/leblanc-maurice/the-woman-of-mystery/chapter-04.html"
 ---
 
 It was nine o'clock; there was no holding the position; and the colonel was furious.

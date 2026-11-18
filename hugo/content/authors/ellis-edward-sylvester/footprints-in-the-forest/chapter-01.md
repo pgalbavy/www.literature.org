@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Retrospective"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-01.html"
 ---
 
 Those of my friends who have done me the honor of reading "Campfire and Wigwam," will need little help to recall the situation at the close of that narrative. The German lad Otto Relstaub, having lost his horse, while on the way from Kentucky to the territory of Louisiana (their destination being a part of the present State of Missouri), he and his young friend, Jack Carleton, set out to hunt for the missing animal. Naturally enough they failed: not only that, but the two fell into the hands of a band of wandering Sauk Indians, who held them prisoners.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Johnnie Green's Initials"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-timothy-turtle/chapter-16.html"
 ---
 
 Timothy Turtle found himself in a very uncomfortable position, staked out as he was on the bank of Black Creek, with one rope about his body and another about his neck.

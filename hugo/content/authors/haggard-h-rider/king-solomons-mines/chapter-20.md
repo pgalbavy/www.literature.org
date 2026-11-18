@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Found"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-20.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-20.html"
 ---
 
 And now I come to perhaps the strangest adventure that happened to us in all this strange business, and one which shows how wonderfully things are brought about.

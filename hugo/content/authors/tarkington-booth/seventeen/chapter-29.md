@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - \"Don't Forget!\""
 weight: 29
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-29.html"
+url: "/authors/tarkington-booth/seventeen/chapter-29.html"
 ---
 
 Up-stairs, Mrs. Baxter moved to the door of her son's room, pretending to be unconscious of the gaze he maintained upon her. Mustering courage to hum a little tune and affecting inconsequence, she had nearly crossed the threshold when he said, sternly:

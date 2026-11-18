@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 9"
 weight: 199
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-09.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-09.html"
 ---
 
 Until Prince Andrew settled in Bogucharovo its owners had always been absentees, and its peasants were of quite a different character from those of Bald Hills. They differed from them in speech, dress, and disposition. They were called steppe peasants. The old prince used to approve of them for their endurance at work when they came to Bald Hills to help with the harvest or to dig ponds, and ditches, but he disliked them for their boorishness.

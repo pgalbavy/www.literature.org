@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Escape of the Dead"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-02.html"
 ---
 
 A sense of delicious dreaminess overcame me, my muscles relaxed, and I was on the point of giving way to my desire to sleep when the sound of approaching horses reached my ears. I attempted to spring to my feet but was horrified to discover that my muscles refused to respond to my will. I was now thoroughly awake, but as unable to move a muscle as though turned to stone. It was then, for the first time, that I noticed a slight vapor filling the cave. It was extremely tenuous and only noticeable against the opening which led to daylight. There also came to my nostrils a faintly pungent odor, and I could only assume that I had been overcome by some poisonous gas, but why I should retain my mental faculties and yet be unable to move I could not fathom.

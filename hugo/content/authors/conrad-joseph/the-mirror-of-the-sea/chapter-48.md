@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-48.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-48.html"
 ---
 
 And yet the fact remains that, had the wind failed and the fleet lost steerage way, or, worse still, had it been taken aback from the eastward, with its leaders within short range of the enemy’s guns, nothing, it seems, could have saved the headmost ships from capture or destruction. No skill of a great sea officer would have availed in such a contingency. Lord Nelson was more than that, and his genius would have remained undiminished by defeat. But obviously tactics, which are so much at the mercy of irremediable accident, must seem to a modern seaman a poor matter of study. The Commander-in-Chief in the great fleet action that will take its place next to the Battle of Trafalgar in the history of the British navy will have no such anxiety, and will feel the weight of no such dependence. For a hundred years now no British fleet has engaged the enemy in line of battle. A hundred years is a long time, but the difference of modern conditions is enormous. The gulf is great. Had the last great fight of the English navy been that of the First of June, for instance, had there been no Nelson’s victories, it would have been wellnigh impassable. The great Admiral’s slight and passion-worn figure stands at the parting of the ways. He had the audacity of genius, and a prophetic inspiration.

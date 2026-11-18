@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Will"
 weight: 5
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-05.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-05.html"
 ---
 
 Henry Blaine sat in his office, leisurely turning over the pages of a morning newspaper; his attitude was one of apparent idleness, but the occasional swift glances he darted at the clock and a slight lifting of his eyebrows at the least sound from without betokened the fact that he was waiting for some one or something.

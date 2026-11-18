@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-20.html"
+url: "/authors/london-jack/martin-eden/chapter-20.html"
 ---
 
 The desire to write was stirring in Martin once more. Stories and poems were springing into spontaneous creation in his brain, and he made notes of them against the future time when he would give them expression. But he did not write. This was his little vacation; he had resolved to devote it to rest and love, and in both matters he prospered. He was soon spilling over with vitality, and each day he saw Ruth, at the moment of meeting, she experienced the old shock of his strength and health.

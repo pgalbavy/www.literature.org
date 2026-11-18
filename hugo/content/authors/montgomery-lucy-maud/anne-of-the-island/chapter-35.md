@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - The Last Redmond Year Opens"
 weight: 35
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-35.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-35.html"
 ---
 
 "Here we are, all back again, nicely sunburned and rejoicing as a strong man to run a race," said Phil, sitting down on a suitcase with a sigh of pleasure. "Isn't it jolly to see this dear old Patty's Place again -- and Aunty -- and the cats? Rusty has lost another piece of ear, hasn't he?"

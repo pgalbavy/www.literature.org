@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-08.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-08.html"
 ---
 
 "Do you s'pose," she said, at last, in a musing voice: "Herbert, do you s'pose maybe there's some poor family's children somewheres that haven't got any playthings or anything and we could take all these⸺"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-31.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-31.html"
 ---
 
 "A wild dedication of yourselves To unpath'd waters, undreamed shores." - SHAKESPEARE.

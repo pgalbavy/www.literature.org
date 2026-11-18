@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Hiding-Place"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-25.html"
 ---
 
 Twenty minutes or more was consumed by Worrell, in conducting the fugitives to the hiding-place, where he promised they should be secure from all molestation from their enemies. In making this journey they walked slowly, often pausing to examine the ground passed over, and to listen for those unfavorable signals which the straggling settler was sure he heard from the Iroquois. Thus it was that, in spite of the time consumed in making the expedition, they were really at no great distance from the starting point, and both Ned and Jo were confident that they could retrace their steps without difficulty.

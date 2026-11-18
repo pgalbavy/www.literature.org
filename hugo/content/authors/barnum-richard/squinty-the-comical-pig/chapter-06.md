@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Squinty On A Journey"
 weight: 6
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-06.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-06.html"
 ---
 
 "Mamma, did you hear what they were saying about Squinty?" asked Wuff-Wuff, as the boy and the two men walked away from the pig pen.

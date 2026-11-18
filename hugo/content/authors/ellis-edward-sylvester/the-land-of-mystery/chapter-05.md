@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Native Village"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-land-of-mystery/chapter-05.html"
 ---
 
 Meanwhile, Fred Ashman and Aaron Johnston the sailor, found themselves involved in a most stirring experience.

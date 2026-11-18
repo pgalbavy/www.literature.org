@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Difficulties on Theory"
 weight: 8
-aliases:
-  - "/authors/darwin-charles/the-origin-of-species/chapter-06.html"
+url: "/authors/darwin-charles/the-origin-of-species/chapter-06.html"
 ---
 
 arrow_rightDifficulties on the theory of descent with modification arrow_rightTransitions arrow_rightAbsence or rarity of transitional varieties arrow_rightTransitions in habits of life arrow_rightDiversified habits in the same species arrow_rightSpecies with habits widely different from those of their allies arrow_rightOrgans of extreme perfection arrow_rightMeans of transition arrow_rightCases of difficulty arrow_rightNatura non facit saltum arrow_rightOrgans of small importance arrow_rightOrgans not in all cases absolutely perfect arrow_rightThe law of Unity of Type and of the Conditions of Existence embraced by the theory of Natural Selection ---

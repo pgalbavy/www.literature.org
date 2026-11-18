@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-20.html"
 ---
 
 Piracy in the West Indies—Its Cause —Means by Which It Was Wiped Out —Piracy in the Mediterranean.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - The Miser In The Bush"
 weight: 30
-aliases:
-  - "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-30.html"
+url: "/authors/grimm-the-brothers/grimms-fairy-tales/chapter-30.html"
 ---
 
 A farmer had a faithful and diligent servant, who had worked hard for him three years, without having been paid any wages. At last it came into the man’s head that he would not go on thus without pay any longer; so he went to his master, and said, ‘I have worked hard for you a long time, I will trust to you to give me what I deserve to have for my trouble.’ The farmer was a sad miser, and knew that his man was very simple-hearted; so he took out threepence, and gave him for every year’s service a penny. The poor fellow thought it was a great deal of money to have, and said to himself, ‘Why should I work hard, and live here on bad fare any longer? I can now travel into the wide world, and make myself merry.’ With that he put his money into his purse, and set out, roaming over hill and valley.

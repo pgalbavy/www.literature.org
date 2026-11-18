@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mr. Crow Loses Something"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-04.html"
 ---
 
 The picture of the hippopotamus on Farmer Green's barn did not please Ferdinand Frog. But in a few moments he began to smile again.

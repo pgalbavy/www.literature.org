@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Search In Vain"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-11.html"
 ---
 
 It was true that Dickie Deer Mouse and all his relations feasted on the horns shed by the deer. But of course they didn't find horns in the woods every day. Only at a certain season of the year did the deer drop them. And since that time was now past, and the Deer Mouse family had scoured the woods until they found--and devoured--them all, it is clear that Fatty Coon had started out on a fruitless hunt.

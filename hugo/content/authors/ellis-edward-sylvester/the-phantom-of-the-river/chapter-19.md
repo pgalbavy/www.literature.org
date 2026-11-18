@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Fellow-Passenger"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-19.html"
 ---
 
 Jethro Juggens was alarmed on the very threshold of his strange enterprise by the threatened danger of failure. When everything was ready to start, the flatboat refused to stir so much as an inch.

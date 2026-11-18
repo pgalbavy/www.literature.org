@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-10.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-10.html"
 ---
 
 *FROM* the main truck of the average tall ship the horizon describes a circle of many miles, in which you can see another ship right down to her water-line; and these very eyes which follow this writing have counted in their time over a hundred sail becalmed, as if within a magic ring, not very far from the Azores—ships more or less tall. There were hardly two of them heading exactly the same way, as if each had meditated breaking out of the enchanted circle at a different point of the compass. But the spell of the calm is a strong magic. The following day still saw them scattered within sight of each other and heading different ways; but when, at last, the breeze came with the darkling ripple that ran very blue on a pale sea, they all went in the same direction together. For this was the homeward-bound fleet from the far-off ends of the earth, and a Falmouth fruit-schooner, the smallest of them all, was heading the flight. One could have imagined her very fair, if not divinely tall, leaving a scent of lemons and oranges in her wake.

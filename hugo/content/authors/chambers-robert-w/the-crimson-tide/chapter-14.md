@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-14.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-14.html"
 ---
 
 There had been a row at the Red Flag Club—a matter of differing opinions between members—nothing sufficient to attract the police, but enough to break several heads, benches and windows. And it was evident that some gentleman's damaged nose had bled all over the linoleum in the lobby.

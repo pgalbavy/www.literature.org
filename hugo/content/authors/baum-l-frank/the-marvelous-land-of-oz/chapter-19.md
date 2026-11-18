@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-19.html"
 ---
 
 The Tin Woodman was usually a peaceful man, but when occasion required he could fight as fiercely as a Roman gladiator. So, when the Jackdaws nearly knocked him down in their rush of wings, and their sharp beaks and claws threatened to damage his brilliant plating, the Woodman picked up his axe and made it whirl swiftly around his head.

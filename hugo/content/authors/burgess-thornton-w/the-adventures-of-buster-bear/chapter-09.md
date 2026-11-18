@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Farmer Brown's Boy Feels His Hair Rise"
 weight: 9
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-09.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-09.html"
 ---
 
 'Twas just a sudden odd surprise Made Farmer Brown's boy's hair to rise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - New Friends And Old"
 weight: 7
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-06.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-06.html"
 ---
 
 Vivian's startled cry of welcome was heard by Susie, perched on the stairs with several eager youths gathered as close as might be about her, and several pairs of hands helped her swift descent to greet her brother.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Finis"
 weight: 42
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-42.html"
+url: "/authors/bronte-charlotte/villette/chapter-42.html"
 ---
 
 Man cannot prophesy. Love is no oracle. Fear sometimes imagines a vain thing. Those years of absence! How had I sickened over their anticipation! The woe they must bring seemed certain as death. I knew the nature of their course: I never had doubt how it would harrow as it went. The juggernaut on his car towered there a grim load. Seeing him draw nigh, burying his broad wheels in the oppressed soil - I, the prostrate votary - felt beforehand the annihilating craunch.

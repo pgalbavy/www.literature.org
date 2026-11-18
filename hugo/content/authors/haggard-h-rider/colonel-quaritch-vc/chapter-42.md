@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - Ida Goes To Meet Her Fate"
 weight: 42
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-42.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-42.html"
 ---
 
 Most people of a certain age and a certain degree of sensitiveness, in looking back down the vista of their lives, whereon memory's melancholy light plays in fitful flashes like the alternate glow of a censer swung in the twilight of a tomb, can recall some one night of peculiar mental agony. It may have come when first we found ourselves face to face with the chill and hopeless horror of departed life; when, in our soul's despair, we stretched out vain hands and wept, called and no answer came; when we kissed those beloved lips and shrunk aghast at contact with their clay, those lips more eloquent now in the rich pomp of their unutterable silence than in the brightest hour of their unsealing. It may have come when our honour and the hope of all our days lay at our feet shattered like a sherd on the world's hard road. It may have come when she, the star of our youth, the type of completed beauty and woman's most perfect measure, she who held the chalice of our hope, ruthlessly emptied and crushed it, and, as became a star, passed down our horizon's ways to rise upon some other sky. It may have come when Brutus stabbed us, or when a child whom we had cherished struck us with a serpent-fang of treachery and left the poison to creep upon our heart. One way or another it has been with most of us, that long night of utter woe, and all will own that it is a ghastly thing to face.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10 - The Epilogue"
 weight: 27
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-10.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-02-chapter-10.html"
 ---
 
 I cannot but regret, now that I am concluding my story, how little I am able to contribute to the discussion of the many debatable questions which are still unsettled. In one respect I shall certainly provoke criticism. My particular province is speculative philosophy. My knowledge of com- parative physiology is confined to a book or two, but it seems to me that Carver's suggestions as to the reason of the rapid death of the Martians is so probable as to be regarded almost as a proven conclusion. I have assumed that in the body of my narrative.

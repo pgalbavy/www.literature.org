@@ -1,8 +1,7 @@
 ---
 title: "Foreword"
 weight: 1
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/foreword.html"
+url: "/authors/london-jack/michael-brother-of-jerry/foreword.html"
 ---
 
 Very early in my life, possibly because of the insatiable curiosity that was born in me, I came to dislike the performances of trained animals. It was my curiosity that spoiled for me this form of amusement, for I was led to seek behind the performance in order to learn how the performance was achieved. And what I found behind the brave show and glitter of performance was not nice. It was a body of cruelty so horrible that I am confident no normal person exists who, once aware of it, could ever enjoy looking on at any trained-animal turn.

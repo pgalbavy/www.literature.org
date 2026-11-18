@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - School Begins"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-04.html"
 ---
 
 After Snowball's trip to the village old dog Spot scarcely stirred from the farmyard. He left the woodchucks to scurry about the pasture as they pleased. For he felt that he ought to keep an eye on Snowball.

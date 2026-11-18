@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Close Quarters"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-21.html"
 ---
 
 At this moment, when it would be thought that the incident was at its most thrilling crisis, it assumed a ludicrous phase, at which any spectator must have laughed heartily.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 27"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-27.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-27.html"
 ---
 
 That evening Ursula returned home very bright-eyed and wondrous - which irritated her people. Her father came home at suppertime, tired after the evening class, and the long journey home. Gudrun was reading, the mother sat in silence.

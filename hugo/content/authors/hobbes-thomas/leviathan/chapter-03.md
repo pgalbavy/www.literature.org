@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Of The Consequence Or Trayne Of Imaginations"
 weight: 5
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-03.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-03.html"
 ---
 
 By Consequence, or Trayne of Thoughts, I understand that succession of one Thought to another, which is called (to distinguish it from Discourse in words) Mentall Discourse.

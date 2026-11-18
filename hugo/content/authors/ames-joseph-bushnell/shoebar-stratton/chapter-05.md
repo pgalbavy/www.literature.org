@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Tex Lynch"
 weight: 5
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-05.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-05.html"
 ---
 
 Supper, which was served in the ranch-house kitchen by Pedro, the Mexican cook, was not enlivened by much conversation. The food was plentiful and of good quality, and the punchers addressed themselves to its consumption with the single-hearted purpose of hungry men whose appetites have been sharpened by a long day in the saddle. Now and then someone mumbled a request to "pass the sugar," or desired more steak or coffee from the shuffling Pedro; but for the most part the serious business of eating occupied them exclusively.

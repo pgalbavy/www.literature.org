@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-08.html"
 ---
 
 A few paces after the second turn brought the American to the palace of President Yozarro,—a long, low, bamboo structure, standing on slightly rising ground, where it could catch what little air sometimes caressed the town at this time of day. The largest apartment at the rear was the cabinet or council room of the Dictator and President, since the open windows on that side were sure to receive the cool breath of the mountains when it stole through the open windows.

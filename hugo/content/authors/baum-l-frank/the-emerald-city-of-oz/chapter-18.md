@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-18.html"
 ---
 
 Princess Ozma was a very busy little ruler, for she looked carefully after the comfort and welfare of her people and tried to make them happy. If any quarrels arose she decided them justly; if any one needed counsel or advice she was ready and willing to listen to them.

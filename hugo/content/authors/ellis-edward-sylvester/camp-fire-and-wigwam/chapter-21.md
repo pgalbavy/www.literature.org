@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Christian And Pagan"
 weight: 21
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-21.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-21.html"
 ---
 
 The North American Indian is treacherous by nature, and will take any advantage over a foe, no matter what its nature. The Sauk had failed to bring down Deerfoot by the same unscrupulous means he had employed in other instances, but he was on the watch to repeat his tactics.

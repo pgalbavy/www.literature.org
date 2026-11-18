@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Dragon Of The Skies"
 weight: 7
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-07.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-07.html"
 ---
 
 The others had seen the same object which so startled Bohunkus. Several hundred feet up in the air and slightly to the north, the gleam of a red light showed. It was moving slowly in the direction of the three, all of whom were standing and studying it with wondering curiosity. It was as if some aerial wanderer was flourishing a danger lantern through the realms of space.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Beginning Of The Search"
 weight: 13
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-12.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-12.html"
 ---
 
 Accordingly, on the next day the great experiment was made. The chain and ancient winding gear had been tested and proved to be amply sufficient to the strain. Therefore, nothing remained save for Meyer to place himself in the wooden seat with an oil-lamp, and in case this should be extinguished, matches and candles, of both of which they had a large supply.

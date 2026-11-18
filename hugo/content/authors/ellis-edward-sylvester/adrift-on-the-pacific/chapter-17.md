@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - On The Coral"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-17.html"
 ---
 
 Captain Bergen and Abe Storms, as may be supposed, greeted each other ardently when the latter stepped upon the deck of the schooner, clad in his diving-suit.

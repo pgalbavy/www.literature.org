@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-21.html"
+url: "/authors/chambers-robert-w/athalie/chapter-21.html"
 ---
 
 It was in the days when nothing physical tainted her passionate attachment to Clive. When she was with him she enjoyed the moment with all her heart and soul—gave to it and to him everything that was best in her—all the richness of her mental and bodily vigour, all the unspoiled enthusiasm of her years, all the sturdy freshness of youth, eager, receptive, credulous, unsatiated.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Early Days"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-01.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-01.html"
 ---
 
 It may be remembered that in the last pages of his diary, written just before his death, Allan Quatermain makes allusion to his long dead wife, stating that he has written of her fully elsewhere.

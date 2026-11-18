@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-fox/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-fox/chapter-01.html"
 ---
 
 The two girls were usually known by their surnames, Banford and March. They had taken the farm together, intending to work it all by themselves: that is, they were going to rear chickens, make a living by poultry, and add to this by keeping a cow, and raising one or two young beasts. Unfortunately, things did not turn out well.

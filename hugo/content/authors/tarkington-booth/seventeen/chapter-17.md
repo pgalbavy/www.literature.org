@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Jane's Theory"
 weight: 17
-aliases:
-  - "/authors/tarkington-booth/seventeen/chapter-17.html"
+url: "/authors/tarkington-booth/seventeen/chapter-17.html"
 ---
 
 The pale end of sunset was framed in the dining-room windows, and Mr. and Mrs. Baxter and the rehabilitated Jane were at the table, when William made his belated return from the afternoon's excursion. Seating himself, he waived his mother's references to the rain, his clothes, and probable colds, and after one laden glance at Jane denoting a grievance so elaborate that he despaired of setting it forth in a formal complaint to the Powers—he fell into a state of trance. He took nourishment automatically, and roused himself but once during the meal, a pathetic encounter with his father resulting from this awakening.

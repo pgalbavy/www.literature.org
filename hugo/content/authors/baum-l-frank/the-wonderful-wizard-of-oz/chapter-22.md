@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Country of the Quadlings "
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-22.html"
 ---
 
 The four travelers passed through the rest of the forest in safety, and when they came out from its gloom saw before them a steep hill, covered from top to bottom with great pieces of rock.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-02.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-02.html"
 ---
 
 Connie and Clifford came home to Wragby in the autumn of 1920. Miss Chatterley, still disgusted at her brother's defection, had departed and was living in a little flat in London.

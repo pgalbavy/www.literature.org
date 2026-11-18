@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-13.html"
 ---
 
 All had observed this fact which was natural. The elevation of the structure, which was open to every breeze that fluttered through the mountains, made it one of the most comfortable places in that part of the world. Another thing had been noted by the young women. Two armed sentinels were pacing outside, and two more came forward from the lower apartments and saluted the General and his party. They relieved one another at regular intervals, and three of them had their wives domiciled on the second floor. These were slatterns, not wholly lacking in a certain comeliness, and eyed the visitors with shy curiosity. The latter spoke to them in Spanish, to which they smiled and replied in soft, awed monosyllables, and respectfully watched the movements of the young women.

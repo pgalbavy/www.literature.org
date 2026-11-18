@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-15.html"
+url: "/authors/austen-jane/persuasion/chapter-15.html"
 ---
 
 Sir Walter had taken a very good house in Camden Place, a lofty dignified situation, such as becomes a man of consequence; and both he and Elizabeth were settled there, much to their satisfaction.

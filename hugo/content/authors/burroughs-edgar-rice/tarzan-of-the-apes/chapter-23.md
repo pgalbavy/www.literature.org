@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Brother Men"
 weight: 23
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-23.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-23.html"
 ---
 
 When D'Arnot regained consciousness, he found himself lying upon a bed of soft ferns and grasses beneath a little "A" shaped shelter of boughs.

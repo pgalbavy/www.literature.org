@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Muley Cow"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-18.html"
 ---
 
 Nimble Deer was a famous jumper. And so was the Muley Cow. In Farmer Green's herd there was no other that could match her.

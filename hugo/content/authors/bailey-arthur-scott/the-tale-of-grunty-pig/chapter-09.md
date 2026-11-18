@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Great Adventure"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-09.html"
 ---
 
 The next outing that Farmer Green gave Mrs. Pig's family in the little yard proved to be anything but a picnic--for Mrs. Pig. That poor lady had a dreadful time. Grunty ran away again. And he hadn't been gone long before his mother heard a loud squealing in the nearest field. The sound rapidly grew louder. And as she stood still and listened, Mrs. Pig knew that it was Grunty's squeal and that he was drawing nearer every moment.

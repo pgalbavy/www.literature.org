@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 10 - How An Exile Returned To His Own People"
 weight: 21
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-10.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-10.html"
 ---
 
 Next morning I found the Army Commander on his way to Doullens.

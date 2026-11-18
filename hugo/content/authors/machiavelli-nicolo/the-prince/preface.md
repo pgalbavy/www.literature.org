@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/machiavelli-nicolo/the-prince/preface.html"
+url: "/authors/machiavelli-nicolo/the-prince/preface.html"
 ---
 
 Translated by W. K. Marriott

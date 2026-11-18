@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - A Timely Arrival"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-09.html"
 ---
 
 One of the most convincing evidences of a Power beyond our comprehension, governing and directing everything for the best, is the marvelous degree to which the different faculties of our nature can be trained. There is a skill which cannot be explained or understood by him who attains it; and, interwoven through the five senses which science assigns to us, seems to be a sixth not yet understood, of whose wonderful functions every one of us has seen proof.

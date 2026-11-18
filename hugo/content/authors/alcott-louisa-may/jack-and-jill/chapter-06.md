@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Surprises"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-06.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-06.html"
 ---
 
 "Is it pleasant?" was the question Jill asked before she was fairly awake on Christmas morning.

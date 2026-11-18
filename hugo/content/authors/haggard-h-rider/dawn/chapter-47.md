@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47"
 weight: 48
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-47.html"
+url: "/authors/haggard-h-rider/dawn/chapter-47.html"
 ---
 
 Arthur emerged from his hiding-place, horror-struck at hearing what was being said about him, and wondering, so far as he was at the moment capable of accurate thought, how long this report had been going about, and whether by any chance it had reached the ears of the Bellamys. If it had, the mischief might be very serious. In the confusion of his mind, only two things were clear to him--one was, that both for Mildred's and his own sake, he must leave Madeira at once; and, secondly, that he would dance no more with her that night.

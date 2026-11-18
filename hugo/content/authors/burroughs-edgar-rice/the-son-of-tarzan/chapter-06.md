@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-son-of-tarzan/chapter-06.html"
 ---
 
 His first night in the jungle was one which the son of Tarzan held longest in his memory. No savage carnivora menaced him. There was never a sign of hideous barbarian. Or, if there were, the boy's troubled mind took no cognizance of them. His conscience was harassed by the thought of his mother's suffering. Self-blame plunged him into the depths of misery. The killing of the American caused him little or no remorse. The fellow had earned his fate. Jack's regret on this score was due mainly to the effect which the death of Condon had had upon his own plans. Now he could not return directly to his parents as he had planned. Fear of the primitive, borderland law, of which he had read highly colored, imaginary tales, had thrust him into the jungle a fugitive. He dared not return to the coast at this point--not that he was so greatly influenced through personal fear as from a desire to shield his father and mother from further sorrow and from the shame of having their honored name dragged through the sordid degradation of a murder trial.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 10"
 weight: 29
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-02-chapter-10.html"
+url: "/authors/cather-willa/one-of-ours/book-02-chapter-10.html"
 ---
 
 It was Sunday afternoon and Claude had gone down to the mill house, as Enid and her mother had returned from Michigan the day before. Mrs. Wheeler, propped back in a rocking chair, was reading, and Mr. Wheeler, in his shirt sleeves, his Sunday collar unbuttoned, was sitting at his walnut secretary, amusing himself with columns of figures. Presently he rose and yawned, stretching his arms above his head.

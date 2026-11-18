@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Test Of Marksmanship"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-17.html"
 ---
 
 The boys were so tired from their severe tramp, and the rest was so grateful after finishing their dinner, that they stayed where they were an hour longer. Then, realizing that nothing could be done by idleness, they slung their reloaded rifles over their shoulders, took another drink of water, and lazily made their way to higher ground.

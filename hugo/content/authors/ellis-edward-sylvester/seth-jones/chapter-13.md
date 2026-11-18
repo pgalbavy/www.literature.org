@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Some Explanations"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-13.html"
 ---
 
 The village of the Mohawks was at a considerable distance from the spot where had once stood the home of the woodman—and encumbered as they were with plunder, their progress was necessarily slow; besides, knowing full well that pursuit would be useless upon the part of the whites, there was no occasion to hasten their steps. When, however, Seth Jones’ unceremonious entrance among them, together with the escape of his new companion, and the subsequent report of the smaller party with Ina, was made known, the old chief began to have some misgiving about his fancied security. It occurred to him that there might be a large party of whites upon the trail, and in such a case, his greatest skill was required to retain the captives. And here was the trouble. If he was pursued—and upon that point there could be no doubt—his progress must be hastened. His pursuers would follow with the swiftness of vengeance. With the plunder in their possession, the thing was impossible, and he saw, at length, that stratagem must be resorted to.

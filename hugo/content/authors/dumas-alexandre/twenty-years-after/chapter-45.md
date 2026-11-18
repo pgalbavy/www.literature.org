@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - The Beggar Of St. Eustache"
 weight: 45
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-45.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-45.html"
 ---
 
 D'Artagnan had calculated that in not going at once to the Palais Royal he would give Comminges time to arrive before him, and consequently to make the cardinal acquainted with the eminent services which he, D'Artagnan, and his friend had rendered to the queen's party in the morning.

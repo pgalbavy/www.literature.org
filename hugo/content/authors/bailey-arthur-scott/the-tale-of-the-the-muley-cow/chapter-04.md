@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Owning A Boy"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-04.html"
 ---
 
 By the end of a week Johnnie Green was able to milk quite well. When he sat down beside the Muley Cow he could play a merry tune as he made the tiny streams of milk tinkle against the bottom of the milk pail. And he managed to milk the Muley Cow while his father was milking only three others.

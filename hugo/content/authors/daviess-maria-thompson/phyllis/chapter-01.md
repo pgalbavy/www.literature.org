@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/daviess-maria-thompson/phyllis/chapter-01.html"
+url: "/authors/daviess-maria-thompson/phyllis/chapter-01.html"
 ---
 
 The country is so much larger than the city and so empty that you rattle around in it until you wonder if you are ever going to get stuck to any place, especially if there isn't a house numbered anywhere. Our street is named Providence Road and the house Byrd Mansion and I am afraid I'll never be at home there as long as I live. But the doctor says Mother has to live in the country for always, and I'm only glad it isn't any countrier than Byrdsville.

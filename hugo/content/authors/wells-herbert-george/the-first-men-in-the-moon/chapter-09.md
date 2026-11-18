@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Prospecting Begins"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-09.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-09.html"
 ---
 
 WE ceased to gaze. We turned to each other, the same thought, the same question in our eyes. For these plants to grow, there must be some air, however attenuated, air that we also should be able to breathe.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Why Johnny Chuck Didn't Fight"
 weight: 10
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-10.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-10.html"
 ---
 
 Anger is an awful thing;  

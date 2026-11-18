@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Spark And The Blaze"
 weight: 19
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-19.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-19.html"
 ---
 
 I found Nickols lying in his own dim and high bedroom, perfectly motionless under the white sheet, as he had been for two days, the only difference that now his great dark eyes burned into mine and on his mouth there rested a faint trace of the old mocking smile. I sat down close beside his pillow on a low chair which the nurse placed for me as she gave me a warning look and left us alone.

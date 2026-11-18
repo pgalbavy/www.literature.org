@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Emperor's Letters"
 weight: 13
-aliases:
-  - "/authors/leblanc-maurice/813/chapter-12.html"
+url: "/authors/leblanc-maurice/813/chapter-12.html"
 ---
 
 The ruins of Veldenz are well known to all who visit the banks of the Rhine and the Moselle. They comprise the remains of the old feudal castle, built in 1377 by the Archbishop of Fistingen, an enormous dungeon-keep, gutted by Turenne's troops, and the walls, left standing in their entirety, of a large Renascence palace, in which the grand-dukes of Zweibrucken lived for three centuries.

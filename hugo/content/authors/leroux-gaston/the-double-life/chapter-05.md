@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Théophraste Remembers Himself"
 weight: 6
-aliases:
-  - "/authors/leroux-gaston/the-double-life/chapter-05.html"
+url: "/authors/leroux-gaston/the-double-life/chapter-05.html"
 ---
 
 *THEOPHRASTE* sang the song in loud, strident tones, his eyes sparkling, glass in hand. It was with indescribable surprise that the company received it, and despite the richness of the rhyme, the couplet was followed by no applause. An awkward silence followed, and all the ladies looked to Marceline for an explanation.

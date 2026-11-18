@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Conclusion"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-scout/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-27.html"
 ---
 
 It must not be supposed, from what has been related about Mendez, the White Mountain scout, that he was superior to the weaknesses peculiar to his race. That he was brave, loyal to the whites, cunning, full of resources and a consummate master of woodcraft, was conceded by his bitterest enemies; but while he possessed these admirable traits, it must be stated that he shared the unfortunate fondness of his people for intoxicants. At times he indulged in this love for the frightful decoction, "tiswin," which, as has been made known elsewhere, is the product of fermented corn, and is one of the most villainous forms of "fire-water" conceivable.

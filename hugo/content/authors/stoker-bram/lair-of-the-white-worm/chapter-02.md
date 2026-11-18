@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-02.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-02.html"
 ---
 
 Mr. Salton had all his life been an early riser, and necessarily an early waker. But early as he woke on the next morning--and although there was an excuse for not prolonging sleep in the constant whirr and rattle of the "donkey" engine winches of the great ship--he met the eyes of Adam fixed on him from his berth. His grand-nephew had given him the sofa, occupying the lower berth himself. The old man, despite his great strength and normal activity, was somewhat tired by his long journey of the day before, and the prolonged and exciting interview which followed it. So he was glad to lie still and rest his body, whilst his mind was actively exercised in taking in all he could of his strange surroundings. Adam, too, after the pastoral habit to which he had been bred, woke with the dawn, and was ready to enter on the experiences of the new day whenever it might suit his elder companion. It was little wonder, then, that, so soon as each realised the other's readiness, they simultaneously jumped up and began to dress. The steward had by previous instructions early breakfast prepared, and it was not long before they went down the gangway on shore in search of the carriage.

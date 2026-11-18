@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Mr. Crow's News"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-12.html"
 ---
 
 There was no denying that the rooster at Farmer Green's place had handsome tail feathers. But they were as nothing, compared with Turkey Proudfoot's. Not only were the rooster's fewer in number; but he couldn't spread them, fan-fashion.

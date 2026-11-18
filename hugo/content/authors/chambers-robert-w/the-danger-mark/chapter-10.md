@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Dusk"
 weight: 10
-aliases:
-  - "/authors/chambers-robert-w/the-danger-mark/chapter-10.html"
+url: "/authors/chambers-robert-w/the-danger-mark/chapter-10.html"
 ---
 
 The Masked Dance was to begin at ten that evening; for that reason dinner had been served early at scores of small tables on the terrace, a hilarious and topsy-turvy, but somewhat rapid affair, because everybody required time for dressing, and already throughout the house maids and valets were scurrying around, unpacking masks and wigs and dainty costumes for the adorning of the guests at Roya-Neh.

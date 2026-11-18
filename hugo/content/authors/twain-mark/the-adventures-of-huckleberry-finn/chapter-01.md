@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-01.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-01.html"
 ---
 
 NOTICE PERSONS attempting to find a motive in this narra- tive will be prosecuted; persons attempting to find a moral in it will be banished; persons attempting to find a plot in it will be shot.

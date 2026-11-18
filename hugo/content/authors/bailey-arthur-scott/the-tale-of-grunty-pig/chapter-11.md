@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Locked Out"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-11.html"
 ---
 
 The Muley Cow was right. She had said to herself, with a smile, that Grunty Pig, the runaway, would be glad enough to go home when night came. He had decided to stay right there in the pasture for the rest of his life, where there was plenty to eat and plenty to do. He felt sure that he would have a much pleasanter time there than at home. For one thing, he knew well enough that there was a punishing waiting for him at the piggery--if he ever went back to get it.

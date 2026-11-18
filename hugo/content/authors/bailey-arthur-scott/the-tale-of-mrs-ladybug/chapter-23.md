@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Back Again"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-23.html"
 ---
 
 SOMEHOW Mrs. Ladybug's friends missed her. The orchard seemed quite a different place after she vanished inside the farmhouse to stay there all winter long. In spite of her sharp tongue and her prying ways people discovered--now that she was gone--that they had liked Mrs. Ladybug more than they knew.

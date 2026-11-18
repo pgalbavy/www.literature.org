@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Oath Of Maduna"
 weight: 10
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-09.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-09.html"
 ---
 
 Mr. Clifford and Meyer rose to return to the waggon in order to superintend the unyoking of the oxen and to give directions as to their herding, and the off-saddling of the horses. Benita rose also, wondering when the food that had been promised would be ready, for she was hungry. Meanwhile, the Molimo was greeting his son Tamas, patting his hand affectionately and talking to him, when suddenly Benita, who watched this domestic scene with interest, heard a commotion behind her. Turning to discover its cause, she perceived three great man clad in full war panoply, shields on their left arms, spears in their right hands, black ostrich plumes rising from the polished rings woven in their hair, black moochas about their middles, and black oxtails tied beneath their knees, who marched through the throng of Makalanga as though they saw them not.

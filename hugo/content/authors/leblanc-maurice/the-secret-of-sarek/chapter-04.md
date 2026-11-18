@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Poor People Of Sarek"
 weight: 5
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-04.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-04.html"
 ---
 
 Honorine's wound was deep but did not seem likely to prove fatal. When Véronique had dressed it and moved Marie Le Goff's body to the room filled with books and furnished like a study in which her father was lying, she closed M. d'Hergemont's eyes, covered him with a sheet and knelt down to pray. But the words of prayer would not come to her lips and her mind was incapable of dwelling on a single thought. She felt stunned by the repeated blows of misfortune. She sat down in a chair, holding her head in her hands. Thus she remained for nearly an hour, while Honorine slept a feverish sleep.

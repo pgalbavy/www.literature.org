@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - A Perilous Passage"
 weight: 23
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-23.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-23.html"
 ---
 
 Fred Munson was right. In his efforts to regain the pass by which he had entered the mountains, he had gone astray, and he knew no more in what direction to turn than if he had dropped from the moon. The sun was now well up above the horizon, and he not only had the mortification of feeling that he had lost much precious time, but that he was likely to lose much more.

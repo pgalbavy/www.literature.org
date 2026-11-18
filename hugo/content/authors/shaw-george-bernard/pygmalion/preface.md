@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/shaw-george-bernard/pygmalion/preface.html"
+url: "/authors/shaw-george-bernard/pygmalion/preface.html"
 ---
 
 TRANSCRIBER'S NOTE: In the printed version of this text, all apostrophes for contractions such as "can't", "wouldn't" and "he'd" were omitted, to read as "cant", "wouldnt", and "hed". This etext edition restores the omitted apostrophes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - How A Man May Sometimes Put His Trust In A Horse"
 weight: 19
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-18.html"
+url: "/authors/buchan-john/prester-john/chapter-18.html"
 ---
 
 I had long passed the limit of my strength. Only constant fear and wild alternations of hope had kept me going so long, and now that I was safe I became light-headed in earnest. The wonder is that I did not fall off. Happily the horse was good and the ground easy, for I was powerless to do any guiding. I simply sat on his back in a silly glow of comfort, keeping a line for the dying sun, which I saw in a nick of the Iron Crown Mountain. A sort of childish happiness possessed me. After three days of imminent peril, to be free was to be in fairyland. To be swishing through the long bracken or plunging among the breast-high flowers of the meadowlands in a world of essential lights and fragrances, seemed scarcely part of mortal experience. Remember that I was little more than a lad, and that I had faced death so often of late that my mind was all adrift. To be able to hope once more, nay, to be allowed to cease both from hope and fear, was like a deep and happy opiate to my senses. Spent and frail as I was, my soul swam in blessed waters of ease.

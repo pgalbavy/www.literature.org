@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Introspection"
 weight: 7
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-06.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-06.html"
 ---
 
 One of the main purposes of these lectures is to give grounds for the belief that the distinction between mind and matter is not so fundamental as is commonly supposed. In the preceding lecture I dealt in outline with the physical side of this problem. I attempted to show that what we call a material object is not itself a substance, but is a system of particulars analogous in their nature to sensations, and in fact often including actual sensations among their number. In this way the stuff of which physical objects are composed is brought into relation with the stuff of which part, at least, of our mental life is composed.

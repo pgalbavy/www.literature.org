@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 15"
 weight: 182
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-15.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-15.html"
 ---
 
 Rostov, with his keen sportsman's eye, was one of the first to catch sight of these blue French dragoons pursuing our Uhlans. Nearer and nearer in disorderly crowds came the Uhlans and the French dragoons pursuing them. He could already see how these men, who looked so small at the foot of the hill, jostled and overtook one another, waving their arms and their sabers in the air.

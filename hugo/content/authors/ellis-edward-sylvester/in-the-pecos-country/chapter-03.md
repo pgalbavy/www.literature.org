@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Fred Goes On Guard"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/in-the-pecos-country/chapter-03.html"
 ---
 
 Mickey O'Rooney, fully believing the warning of the hunter, could not but feel deeply anxious for the safety of himself and those around him. He was particularly concerned for his young friend, Fred Munson, who had been committed to his charge.

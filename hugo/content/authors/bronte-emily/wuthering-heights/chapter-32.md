@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-32.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-32.html"
 ---
 
 1802\. - This September I was invited to devastate the moors of a friend in the north, and on my journey to his abode, I unexpectedly came within fifteen miles of Gimmerton. The ostler at a roadside public-house was holding a pail of water to refresh my horses, when a cart of very green oats, newly reaped, passed by, and he remarked, - 'Yon's frough Gimmerton, nah! They're allas three wick' after other folk wi' ther harvest.'

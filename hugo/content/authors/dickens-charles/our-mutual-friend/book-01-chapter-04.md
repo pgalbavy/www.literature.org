@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4 - The R. Wilfer Family"
 weight: 4
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-01-chapter-04.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-01-chapter-04.html"
 ---
 
 Reginald Wilfer is a name with rather a grand sound, suggesting on first acquaintance brasses in country churches, scrolls in stained-glass windows, and generally the De Wilfers who came over with the Conqueror. For, it is a remarkable fact in genealogy that no De Any ones ever came over with Anybody else.

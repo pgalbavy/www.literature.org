@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - A Terrible Vision"
 weight: 41
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-40.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-40.html"
 ---
 
 The cardinal leaned his elbow on his manuscript, his cheek upon his hand, and looked intently at the young man for a moment. No one had a more searching eye than the Cardinal de Richelieu, and D'Artagnan felt this glance run through his veins like a fever.

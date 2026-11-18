@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-14.html"
 ---
 
 "What a queer man," remarked the Munchkin boy, when the party had resumed its journey.

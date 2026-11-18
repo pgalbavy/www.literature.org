@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-02.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-02.html"
 ---
 
 IT *WAS* not altogether without difficulty that the older of the brothers graduated. Harlan obtained a diploma inscribed with a special bit of classic praise, for he was an "Honour Man"; but Daniel trod the primrose way a little too gayly as a junior and as a senior. Anxiety had sometimes been felt at home, though knowledge of this was kept from old Mrs. Savage; and Mr. and Mrs. Oliphant were relieved of a strain when Dan was granted his degree at a most reluctant eleventh hour, and telegraphed them:

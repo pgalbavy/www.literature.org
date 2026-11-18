@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 4 - The Clinging Death"
 weight: 18
-aliases:
-  - "/authors/london-jack/white-fang/part-04-chapter-04.html"
+url: "/authors/london-jack/white-fang/part-04-chapter-04.html"
 ---
 
 Beauty Smith slipped the chain from his neck and stepped back.

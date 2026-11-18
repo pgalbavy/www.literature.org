@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 6"
 weight: 130
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-06.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-06.html"
 ---
 
 When the ceremony of plighting troth was over, the beadle spread before the lectern in the middle of the church a piece of pink silken stuff, the choir sang a complicated and elaborate psahm, in which the bass and tenor sang responses to one another, and the priest turning round pointed the bridal pair to the pink silk rug. Though both had often heard a great deal about the saying that the one who steps first on the rug will be the head of the house, neither Levin nor Kitty were capable of recollecting it, as they took the few steps towards it. They did not hear the loud remarks and disputes that followed, some maintaining he had stepped on first, and others that both had stepped on together.

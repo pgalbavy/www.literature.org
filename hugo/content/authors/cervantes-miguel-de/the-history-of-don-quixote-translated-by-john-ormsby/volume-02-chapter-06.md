@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 6 - Of What Took Place Between Don Quixote And His Niece And Housekeeper; One Of The Most Important Chapters In The Whole History"
 weight: 62
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-06.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-06.html"
 ---
 
 While Sancho Panza and his wife, Teresa Cascajo, held the above irrelevant conversation, Don Quixote’s niece and housekeeper were not idle, for by a thousand signs they began to perceive that their uncle and master meant to give them the slip the third time, and once more betake himself to his, for them, ill-errant chivalry. They strove by all the means in their power to divert him from such an unlucky scheme; but it was all preaching in the desert and hammering cold iron. Nevertheless, among many other representations made to him, the housekeeper said to him, "In truth, master, if you do not keep still and stay quiet at home, and give over roaming mountains and valleys like a troubled spirit, looking for what they say are called adventures, but what I call misfortunes, I shall have to make complaint to God and the king with loud supplication to send some remedy."

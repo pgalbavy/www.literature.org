@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-09.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-09.html"
 ---
 
 Villages are scattered plentifully over the unstable buttresses of Vesuvius, and the inhabitants sleep o' nights: Why not? Quite unaware that he was much of their condition, Mr. Madison bade his incidental gossip and the tiny Lottie good-night, and sought his early bed. He maintained in good faith that Saturday night was "a great night to sleep," because of the later hour for rising; probably having also some factitious conviction that there prevailed a hush preparative of the Sabbath. As a matter of fact, in summer, the other members of his family always looked uncommonly haggard at the Sunday breakfast-table. Accepting without question his preposterous legend of additional matutinal slumber, they postponed retiring to a late hour, and were awakened—simultaneously with thousands of fellow-sufferers—at about half-after five on Sunday morning, by a journalistic uprising. Over the town, in these early hours, rampaged the small vendors of the manifold sheets: local papers and papers from greater cities, hawker succeeding hawker with yell upon yell and brain-piercing shrillings in unbearable cadences. No good burgher ever complained: the people bore it, as in winter they bore the smoke that injured their health, ruined their linen, spoiled their complexions, forbade all hope of beauty and comfort in their city, and destroyed the sweetness of their homes and of their wives. It is an incredibly patient citizenry and exalts its persecutors.

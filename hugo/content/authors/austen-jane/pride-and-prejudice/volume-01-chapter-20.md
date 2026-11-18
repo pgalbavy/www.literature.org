@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 20"
 weight: 20
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-20.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-20.html"
 ---
 
 Mr. Collins was not left long to the silent contemplation of his successful love; for Mrs. Bennet, having dawdled about in the vestibule to watch for the end of the conference, no sooner saw Elizabeth open the door and with quick step pass her towards the staircase, than she entered the breakfast-room, and congratulated both him and herself in warm terms on the happy prospect of their nearer connection. Mr. Collins received and returned these felicitations with equal pleasure, and then proceeded to relate the particulars of their interview, with the result of which he trusted he had every reason to be satisfied, since the refusal which his cousin had steadfastly given him would naturally flow from her bashful modesty and the genuine delicacy of her character.

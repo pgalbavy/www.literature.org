@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Which Was It?"
 weight: 19
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-18.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-18.html"
 ---
 
 Rose did read and digest, and found her days much richer for the good company she kept, for an introduction to so much that was wise, beautiful, and true could not but make that month a memorable one. It is not strange that while the young man most admired "Heroism" and "Self-Reliance," the girl preferred "Love" and "Friendship," reading them over and over like prose poems, as they are, to the fitting accompaniment of sunshine, solitude, and sympathy, for letters went to and fro with praiseworthy regularity.

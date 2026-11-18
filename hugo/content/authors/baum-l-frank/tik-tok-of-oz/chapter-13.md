@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-13.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-13.html"
 ---
 
 All the adventurers were reunited next morning when they were brought from various palaces to the Residence of Tititi-Hoochoo and ushered into the great Hall of State.

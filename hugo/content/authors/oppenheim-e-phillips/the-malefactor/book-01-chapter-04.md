@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 4 - A Delicate Mission"
 weight: 4
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-04.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-04.html"
 ---
 
 Aynesworth was back in less than an hour. He carried under his arm a brown paper parcel, the strings of which he commenced at once to untie. Wingrave, who had been engrossed in the contents of his deed box, watched him with immovable face.

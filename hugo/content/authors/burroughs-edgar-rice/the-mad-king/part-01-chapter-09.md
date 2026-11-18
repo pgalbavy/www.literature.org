@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9 - The King's Guests"
 weight: 9
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-09.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-09.html"
 ---
 
 Once within the palace Barney sought the seclusion of a small room off the audience chamber. Here he summoned Butzow.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Why Bowser The Hound Didn't Eat His Dinner"
 weight: 18
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-18.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-18.html"
 ---
 
 The thing you've puzzled most about  

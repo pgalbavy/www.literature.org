@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Promised Treat"
 weight: 5
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-05.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-05.html"
 ---
 
 Snowball wasn't sorry that Johnnie Green had turned him into the pasture. He found the pasture a delightful place. He had plenty of company, for there was a whole flock of sheep with him. And not only did he soon become acquainted with them. He met other folk, such as Billy Woodchuck and Jimmy Rabbit and old Mr. Crow. And though some of the older sheep paid scant heed to so young a lamb as Snowball, Mr. Crow often went out of his way to stop and talk with him.

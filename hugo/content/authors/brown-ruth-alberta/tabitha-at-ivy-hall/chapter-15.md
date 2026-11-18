@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The First Night At Ivy Hall"
 weight: 15
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-15.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-15.html"
 ---
 
 That first night at Ivy Hall—for this was the name of the boarding school—was long remembered by Tabitha. Fifty bright-eyed, rosy-cheeked girls gathered with the little staff of instructors around the long tables in the breezy dining hall, laughing and chattering merrily about their happy vacations, greeting friends of the previous year with girlish enthusiasm, and welcoming the strangers among their number with a cordiality that made them feel as if they had always belonged there. It was such a wonderful experience to our little maid from the desert that she could scarcely touch the tempting meal spread before her, but sat like a statue, drinking in the happy scene with a hungry heart.

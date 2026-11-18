@@ -1,8 +1,7 @@
 ---
 title: "Chapter 41 - The Lieutenant's Sentiments And Problems"
 weight: 43
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-41.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-41.html"
 ---
 
 "Stop! It looks so bright that there must be something going on. Surely the yeomanry can never have come on here already?"

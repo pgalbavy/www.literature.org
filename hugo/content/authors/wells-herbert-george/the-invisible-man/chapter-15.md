@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Man Who Was Running"
 weight: 15
-aliases:
-  - "/authors/wells-herbert-george/the-invisible-man/chapter-15.html"
+url: "/authors/wells-herbert-george/the-invisible-man/chapter-15.html"
 ---
 
 In the early evening time Doctor Kemp was sitting in his study in the belvedere on the hill overlooking Burdock. It was a pleasant little room, with three windows, north, west, and south, and bookshelves crowded with books and scientific publications, and a broad writing-table, and, under the north window, a microscope, glass slips, minute instruments, some cultures, and scattered bottles of reagents. Doctor Kemp's solar lamp was lit, albeit the sky was still bright with the sunset light, and his blinds were up because there was no offence of peering outsiders to require them pulled down. Doctor Kemp was a tall and slender young man, with flaxen hair and a moustache almost white, and the work he was upon would earn him, he hoped, the fellowship of the Royal Society, so highly did he think of it.

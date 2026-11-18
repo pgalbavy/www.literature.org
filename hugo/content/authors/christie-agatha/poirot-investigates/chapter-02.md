@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Tragedy At Marsdon Manor"
 weight: 2
-aliases:
-  - "/authors/christie-agatha/poirot-investigates/chapter-02.html"
+url: "/authors/christie-agatha/poirot-investigates/chapter-02.html"
 ---
 
 I had been called away from town for a few days, and on my return found Poirot in the act of strapping up his small valise.

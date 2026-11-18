@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 8"
 weight: 8
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-08.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-08.html"
 ---
 
 When the professor had gone, Sergey Ivanovitch turned to his brother.

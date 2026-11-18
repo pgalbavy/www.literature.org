@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Tree-top Hunter"
 weight: 8
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-08.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-08.html"
 ---
 
 The morning after the Dum-Dum the tribe started slowly back through the forest toward the coast.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - D'artagnan Shows Himself"
 weight: 10
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-09.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-09.html"
 ---
 
 As Athos and Porthos had foreseen, at the expiration of a half hour, D'Artagnan returned. He had again missed his man, who had disappeared as if by enchantment. D'Artagnan had run, sword in hand, through all the neighboring streets, but had found nobody resembling the man he sought for. Then he came back to the point where, perhaps, he ought to have begun, and that was to knock at the door against which the stranger had leaned; but this proved useless - for though he knocked ten or twelve times in succession, no one answered, and some of the neighbors, who put their noses out of their windows or were brought to their doors by the noise, had assured him that that house, all the openings of which were tightly closed, had not been inhabited for six months.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Determination"
 weight: 11
-aliases:
-  - "/authors/gilman-charlotte-perkins/the-crux/chapter-10.html"
+url: "/authors/gilman-charlotte-perkins/the-crux/chapter-10.html"
 ---
 
 It must have grieved anyone who cared for Andrew Dykeman, to see Mrs. St. Cloud's manner toward him change with his changed circumstances--she had been so much with him, had been so kind to him; kinder than Carston comment "knew for a fact," but not kinder than it surmised.

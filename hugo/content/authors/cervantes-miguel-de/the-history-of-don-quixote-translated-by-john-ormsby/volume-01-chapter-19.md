@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 19 - Of The Shrewd Discourse Which Sancho Held With His Master, And Of The Adventure That Befell Him With A Dead Body, Together With Other Notable Occurrences"
 weight: 22
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-19.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-19.html"
 ---
 
 "It seems to me, señor, that all these mishaps that have befallen us of late have been without any doubt a punishment for the offence committed by your worship against the order of chivalry in not keeping the oath you made not to eat bread off a tablecloth or embrace the queen, and all the rest of it that your worship swore to observe until you had taken that helmet of Malandrino’s, or whatever the Moor is called, for I do not very well remember."

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The French-British Front In Serbia"
 weight: 9
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-08.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-08.html"
 ---
 
 SALONIKA, December, 1915.

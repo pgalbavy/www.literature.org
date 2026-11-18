@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-17.html"
+url: "/authors/austen-jane/persuasion/chapter-17.html"
 ---
 
 While Sir Walter and Elizabeth were assiduously pushing their good fortune in Laura Place, Anne was renewing an acquaintance of a very different description.

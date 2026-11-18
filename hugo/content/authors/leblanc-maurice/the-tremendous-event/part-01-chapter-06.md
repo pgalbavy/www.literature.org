@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - Triumph"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-06.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-06.html"
 ---
 
 Afterwards, he never quite understood the chance to which he owed his life. The most that he could remember was that one of his feet touched something solid which served him as a support and that something else enabled him to advance, now a step, now two or three, to lift himself little by little out of his living tomb and to leave it alive. What had happened? Had he come upon a loose plank of the buried vessel whose flag he saw before him? He did not know. But what he never forgot was the horror of that minute, which was followed by such a collapse of all his will and strength that he remained for a long time lying on a piece of wreckage, unable to move a limb and shuddering all over with fever and mental anguish.

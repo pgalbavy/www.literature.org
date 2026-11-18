@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Catastrophe"
 weight: 20
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-20.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-20.html"
 ---
 
 The discovery galvanized Stratton into instant, alert attention. Motor-cars were rare in this remote range country and confined almost solely to the sort of "flivver" which is not entirely dependent on roads. The presence in the north pasture of this powerful gray machine, which certainly did not belong in the neighborhood, was more than significant, and Buck tried at once to get a view of the occupants.

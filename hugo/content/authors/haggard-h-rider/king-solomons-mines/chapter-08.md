@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - We Enter Kukuanaland"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/king-solomons-mines/chapter-08.html"
+url: "/authors/haggard-h-rider/king-solomons-mines/chapter-08.html"
 ---
 
 All that afternoon we travelled along the magnificent roadway, which trended steadily in a north-westerly direction. Infadoos and Scragga walked with us, but their followers marched about one hundred paces ahead.

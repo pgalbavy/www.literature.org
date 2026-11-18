@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 22"
 weight: 211
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-22.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-22.html"
 ---
 
 Stepan Arkadyevitch felt completely nonplussed by the strange talk which hewas hearing for the first time.The complexity of Petersburg, as a rule, had a stimulating effect on him, rousing him out of his Moscow stagnation. But he liked these complications, and understood them only in the circles he knew and was at home in. In these unfamiliar surroundings he was puzzled and disconcerted, and could not get his bearings. As he listened to Countess Lidia Ivanovna, aware of the beautiful, artless--or perhaps artful, he could not decide which--eyes of Landau fixed upon him, Stepan Arkadyevitch began to be conscious of a peculiar heaviness in his head.

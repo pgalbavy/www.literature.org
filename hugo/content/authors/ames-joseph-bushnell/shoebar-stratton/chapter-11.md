@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Danger"
 weight: 11
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-11.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-11.html"
 ---
 
 As Buck appeared in the doorway, blinking a little at the lamp-light, the five card-players stared at him in astonishment.

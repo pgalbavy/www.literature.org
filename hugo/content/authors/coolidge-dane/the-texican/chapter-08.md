@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Day After"
 weight: 9
-aliases:
-  - "/authors/coolidge-dane/the-texican/chapter-08.html"
+url: "/authors/coolidge-dane/the-texican/chapter-08.html"
 ---
 
 In a land where the desert is king the prolonged absence of even so undesirable a citizen as Pecos Dalhart is sure, after a while, to occasion comment. For Pecos had ridden out on the Carrizo trail without water, and the barren mesa had already claimed its dead from thirst. He was also hardly in his right mind, and though his horse knew the way home he might easily have arrived there without his master. José Garcia was the first to mention the matter to Old Crit, and received a hearty cursing for his pains. Another week passed by, making three, and still the cowboy did not come in for his mail. The bunch of dissipated punchers who lingered around the bunk-house under pretence of riding the range finally worked up quite a hectic interest in the affair, but none of them volunteered to make a search. The chances were that Mr. Dalhart, if still alive, was in an ugly mood—perhaps locoed by Crit's well-known brand of whiskey—and it would be dangerous for an IC man to ride in on him. As for Crit, his asperity wore down a little as the days of absence lengthened away; he retracted several statements which he had made to the effect that he hoped the blankety-blank was dead, and when one of Boone Morgan's deputies finally rode in to investigate the rumor he told him he was afraid the poor fellow had wandered out across the desert and perished of hunger and thirst.

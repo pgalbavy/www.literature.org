@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Gone!"
 weight: 9
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-09.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-09.html"
 ---
 
 Guy Morrow, after a sleepless night, presented himself at Henry Blaine's office the next morning. The great detective, observing his young subordinate with shrewd, kindly eyes, noted in one swift glance his changed demeanor: his pallor, and the new lines graven about the firm mouth, which added strength and maturity to his face. If he guessed the reason for the metamorphosis, Blaine gave no sign, but listened without comment until Morrow had completed his report.

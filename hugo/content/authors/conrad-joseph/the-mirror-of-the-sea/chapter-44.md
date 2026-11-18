@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-44.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-44.html"
 ---
 
 We slipped out to sea quietly at dusk, and all through the night everything went well. The breeze was gusty; a southerly blow was making up. It was fair wind for our course. Now and then Dominic slowly and rhythmically struck his hands together a few times, as if applauding the performance of the *Tremolino*. The balancelle hummed and quivered as she flew along, dancing lightly under our feet.

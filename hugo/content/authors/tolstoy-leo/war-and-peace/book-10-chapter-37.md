@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 37"
 weight: 227
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-37.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-37.html"
 ---
 
 One of the doctors came out of the tent in a bloodstained apron, holding a cigar between the thumb and little finger of one of his small bloodstained hands, so as not to smear it. He raised his head and looked about him, but above the level of the wounded men. He evidently wanted a little respite. After turning his head from right to left for some time, he sighed and looked down.

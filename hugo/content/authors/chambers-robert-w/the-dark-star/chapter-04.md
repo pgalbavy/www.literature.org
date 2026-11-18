@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Trodden Way"
 weight: 5
-aliases:
-  - "/authors/chambers-robert-w/the-dark-star/chapter-04.html"
+url: "/authors/chambers-robert-w/the-dark-star/chapter-04.html"
 ---
 
 There came the indeterminate year when Ruhannah finished school and there was no money available to send her elsewhere for further embellishment, no farther horizon than the sky over the Gayfield hills, no other perspective than the main street of Gayfield with the knitting mill at the end of it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Behind The Scenes"
 weight: 33
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-31.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-31.html"
 ---
 
 Mr. and Mrs. Brown had a long way to drive home that evening, including some eight miles of very indifferent chalky road over the downs, which separate the Vale of Kennet from the Vale of White Horse. Mr. Brown was an early man, and careful of his horses, who responded to his care by being always well up to much more work than they were ever put to. The drive to Barton Manor and back in a day was a rare event in their lives. Their master, taking this fact into consideration, was bent on giving them plenty of time for the return journey, and had ordered his groom to be ready to start by eight o'clock. But, that they might not disturb the rest, by their early departure, he had sent the carriage to the village inn, instead of to the Porter's stables.

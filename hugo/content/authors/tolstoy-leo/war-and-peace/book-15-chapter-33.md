@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 33"
 weight: 350
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-33.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-33.html"
 ---
 
 When Pierre and his wife entered the drawing room the countess was in one of her customary states in which she needed the mental exertion of playing patience, and so- though by force of habit she greeted him with the words she always used when Pierre or her son returned after an absence: "High time, my dear, high time! We were all weary of waiting for you. Well, thank God!" and received her presents with another customary remark: "It's not the gift that's precious, my dear, but that you give it to me, an old woman..."- yet it was evident that she was not pleased by Pierre's arrival at that moment when it diverted her attention from the unfinished game.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/woolf-virginia/jacobs-room/chapter-05.html"
+url: "/authors/woolf-virginia/jacobs-room/chapter-05.html"
 ---
 
 "I rather think," said Jacob, taking his pipe from his mouth, "it's in Virgil," and pushing back his chair, he went to the window.

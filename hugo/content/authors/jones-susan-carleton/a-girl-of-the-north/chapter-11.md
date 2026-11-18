@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-11.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-11.html"
 ---
 
 LILY HERBERT as Lily Phillips had realised the importance of keeping her husband’s love, not his toleration. Mr. Phillips had been affectionate always, and she had tolerated him. She remembered it all; she had been so relieved and glad when he was away from her, his kisses nauseated her.

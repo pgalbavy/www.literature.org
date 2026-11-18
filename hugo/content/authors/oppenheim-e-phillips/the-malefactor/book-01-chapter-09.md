@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 9 - The Sword Of Damocles"
 weight: 9
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-09.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-09.html"
 ---
 
 Mr. Lumley Barrington, K.C. and M.P., was in the act of stepping into his carriage to drive down to the House, when he was intercepted by a message. It was his wife's maid, who came hurrying out after him.

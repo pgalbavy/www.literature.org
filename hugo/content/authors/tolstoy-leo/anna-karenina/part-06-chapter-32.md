@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 32"
 weight: 189
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-32.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-32.html"
 ---
 
 Before Vronsky's departure for the elections, Anna had reflected that the scenes constantly repeated between them each time he left home, might only make him cold to her instead of attaching him to her, and resolved to do all she could to control herself so as to bear the parting with composure. But the cold, severe glance with which he had looked at her when he came to tell her he was going had wounded her, and before he had started her peace of mind was destroyed.

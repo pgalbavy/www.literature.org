@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Cuffy And The Cave"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-nimble-deer/chapter-11.html"
 ---
 
 Nimble did not spend all his spare moments with the other Spike Horns. Once in a while he met Cuffy Bear prowling about near the foot of Blue Mountain. But Nimble never had a mock battle with Cuffy. Cuffy Bear was a famous boxer. And in each of his paws he carried long sharp claws. What if Cuffy should forget to pull in those claws sometime, when he struck you a playful tap? Ah! That wouldn't be very pleasant! This was what Nimble thought about the matter. So he never butted Cuffy Bear nor pricked him with his spikes.

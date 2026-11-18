@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Happy Home"
 weight: 10
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-10.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-10.html"
 ---
 
 One important result of the brush [with the pirates] on the lagoon was that it made the redskins their friends. Peter had saved Tiger Lily from a dreadful fate, and now there was nothing she and her braves would not do for him. All night they sat above, keeping watch over the home under the ground and awaiting the big attack by the pirates which obviously could not be much longer delayed. Even by day they hung about, smoking the pipe of peace, and looking almost as if they wanted tit-bits to eat.

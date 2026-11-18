@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - A Handy Sign"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-10.html"
 ---
 
 HUNTING played a great part in the life of Master Meadow Mouse. Somebody or other was always hunting him. And he was always hunting for something to eat. He spent a good deal of his time away from home, looking for seeds and grain. On the other hand, he spent a good deal of his time in his house; for Master Meadow Mouse liked to take naps--especially in the daytime.

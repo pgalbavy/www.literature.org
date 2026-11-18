@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/ridge-w-pett/love-at-paddington/chapter-02.html"
+url: "/authors/ridge-w-pett/love-at-paddington/chapter-02.html"
 ---
 
 Mr. Trew could scarcely be suspected of exceeding his instructions; he had, upon his return, given privately an account of the words used, with frequent use of the phrases, "I says to him," and "He says to me." But as evenings of the week went by, and other girls at Hilbert's, on leaving at the hour of seven, were met by courageous youths near the door, and by shyer lads at a more reticent spot (some of these took ambush in doorways, affecting to read cricket results in the evening paper), then Gertie Higham began to wonder whether the message had been communicated in the precise tone and manner that she had given it. The blue pinafored girls, stitching gold thread in the workroom at Hilbert's, cultivated little reserve, and when they had occasion to enter the office they sometimes told her of young men encountered (say) at a dance, of ardent protestations of love, faithful promises to meet again.

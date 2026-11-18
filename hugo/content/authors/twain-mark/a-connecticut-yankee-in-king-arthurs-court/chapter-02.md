@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - King Arthur's Court"
 weight: 3
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-02.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-02.html"
 ---
 
 THE moment I got a chance I slipped aside privately and touched an ancient common looking man on the shoulder and said, in an insinuating, confidential way:

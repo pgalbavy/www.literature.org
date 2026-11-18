@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Anthony Disposes Of A Body"
 weight: 9
-aliases:
-  - "/authors/christie-agatha/the-secret-of-chimneys/chapter-09.html"
+url: "/authors/christie-agatha/the-secret-of-chimneys/chapter-09.html"
 ---
 
 Anthony followed Virginia out of the room, smiling a little to himself. Events had taken quite an unexpected turn. But as he bent over the figure in the chair he grew grave again.

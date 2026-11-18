@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - In Danger Of Collision"
 weight: 22
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-22.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-22.html"
 ---
 
 The cabin in the clearing being no longer in Harvey Hamilton’s field of vision, he gave his attention to the management of his aeroplane. In order to avoid so far as possible arousing suspicion, he made a sweeping bend to the northward, with a view of passing over the ridge and then returning to Chesterton from the east. By following this course, he would make it impossible for the tenants of the log cabin to see him, and thus render distrust on their part out of the question.

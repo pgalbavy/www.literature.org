@@ -1,8 +1,7 @@
 ---
 title: "book 03 chapter 00"
 weight: 999
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-00.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-03-chapter-00.html"
 ---
 
 BOOK THE THIRD

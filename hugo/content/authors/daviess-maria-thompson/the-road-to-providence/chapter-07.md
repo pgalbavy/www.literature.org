@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Pretty Bettie'S Wedding Day"
 weight: 7
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-07.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-07.html"
 ---
 
 And even old Dame Nature of Harpeth Hills aroused herself for the occasion and took in hand the wedding day of pretty Bettie Pratt on Providence Road. In the dark hours before dawn she spread a light film of clouds over the stars, from which she first puffed a stiff dust-cleansing breeze and then proceeded to sprinkle a good washing shower which took away the last trace of wear and tear of the past hot days, so by the time she brought the sun out for a final shine up, the village looked like it had been having a most professional laundering. And after an hour or two of his warm encouragement, the roses lifted their buds and began to blow out with joyous exuberance. Mother Mayberry's red-musks tumbled over the wall almost on to the head of Mrs. Peavey's yellow-cluster, and Judy Pike's pink-cabbage fairly flung blossoms and buds over into the Road. The widow's own moss-damask nodded and beckoned hospitably to Mrs. Tutt's Maryland tea, and Pattie Hoover's Maiden's Blush mingled its sweetness with that of the dainty white-cluster that climbed around Mrs. Bostick's window. A haunting perfume from the new-mown clover fields drifted over it all and the glistening silver poplar leaves danced in the breezes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42 - An Old Acquaintance Of Oliver'S, Exhibiting Decided Marks Of Genius, Becomes A Public Character In The Metropolis"
 weight: 42
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-42.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-42.html"
 ---
 
 Upon the night when Nancy, having lulled Mr. Sikes to sleep, hurried on her self-imposed mission to Rose Maylie, there advanced towards London, by the Great North Road, two persons, upon whom it is expedient that this history should bestow some attention.

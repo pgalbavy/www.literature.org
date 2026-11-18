@@ -1,8 +1,7 @@
 ---
 title: "chapter 09"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-09.html"
 ---
 
 Trot rode with more comfort than she had expected, although the swing swayed so much that she had to hold on tight with both hands. Cap'n Bill's bird followed the Ork, and Trot came next, with Button-Bright trailing behind her. It was quite an imposing procession, but unfortunately there was no one to see it, for the Ork had headed straight for the great sandy desert and in a few minutes after starting they were flying high over the broad waste, where no living thing could exist.

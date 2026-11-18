@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-13.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-13.html"
 ---
 
 It was a pretty morning, two weeks after Julia's Dance; and blue and lavender shadows, frayed with mid-summer sunshine, waggled gayly across the grass beneath the trees of the tiny orchard, but trembled with timidity as they hurried over the abnormal surfaces of Mrs. Silver as she sat upon the steps of the "back porch." Her right hand held in security one end of a leather leash; the other end of the leash was fastened to a new collar about the neck of an odd and fascinating dog. Seated upon the brick walk at her feet, he was regarding her with a gravity that seemed to discomfort her. She was unable to meet his gaze, and constantly averted her own whenever it furtively descended to his. In fact, her expression and manner were singular, denoting embarrassment, personal hatred, and a subtle bedazzlement. She could not look at him, yet could not keep herself from looking at him. There was something here that arose out of the depths of natural character; it was intrinsic in the two personalities, that is to say; and was in addition to the bitterness consequent upon a public experience, just past, which had been brought upon Mrs. Silver partly by the dog's appearance (in particular the style and colour of his hair) and partly by his unprecedented actions in her company upon the highway.

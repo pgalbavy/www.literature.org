@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - A Handsome Stranger"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-07.html"
 ---
 
 LITTLE Mrs. Ladybug was too excited to work. Ever since meeting the stranger in the orchard she had been able to think of nothing but him. Perhaps if she hadn't happened to notice his carpetbag, with the words, "P. Bug, Colorado," upon its side, she might not have been so stirred up.

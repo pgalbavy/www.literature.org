@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Home"
 weight: 25
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-25.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-25.html"
 ---
 
 Within an hour of the fall of Lu-don and Mo-sar, the chiefs and principal warriors of Pal-ul-don gathered in the great throneroom of the palace at A-lur upon the steps of the lofty pyramid and placing Ja-don at the apex proclaimed him king. Upon one side of the old chieftain stood Tarzan of the Apes, and upon the other Korak, the Killer, worthy son of the mighty ape-man.

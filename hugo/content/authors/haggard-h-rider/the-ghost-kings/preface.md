@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/haggard-h-rider/the-ghost-kings/preface.html"
+url: "/authors/haggard-h-rider/the-ghost-kings/preface.html"
 ---
 
 EXTRACT FROM LETTER HEADED “THE KING’S KRAAL, ZULULAND, 12TH MAY, 1855.”

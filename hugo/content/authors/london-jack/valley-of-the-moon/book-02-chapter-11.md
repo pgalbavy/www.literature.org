@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 11"
 weight: 26
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-11.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-11.html"
 ---
 
 With Billy on strike and away doing picket duty, and with the departure of Mercedes and the death of Bert, Saxon was left much to herself in a loneliness that even in one as healthy-minded as she could not fail to produce morbidness. Mary, too, had left, having spoken vaguely of taking a job at housework in Piedmont.

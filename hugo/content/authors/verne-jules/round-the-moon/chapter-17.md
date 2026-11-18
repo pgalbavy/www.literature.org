@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-17.html"
+url: "/authors/verne-jules/round-the-moon/chapter-17.html"
 ---
 
 At six in the evening the projectile passed the south pole at less than forty miles off, a distance equal to that already reached at the north pole. The elliptical curve was being rigidly carried out.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Wireless Telegraphy"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-16.html"
 ---
 
 *LET* us do justice to Black Elk, chief of the Shoshones, who acted like a true sportsman. He had witnessed the discomfiture of his sons, and could not conceal his disgust and exasperation. Little doubt that soon after the incidents described he "settled" with his heirs, not so much because of their overthrow, but because of the cowardice they had shown. Courage with the red men, no less than with our own race, is a cardinal virtue, as the lack of it is an unpardonable sin.

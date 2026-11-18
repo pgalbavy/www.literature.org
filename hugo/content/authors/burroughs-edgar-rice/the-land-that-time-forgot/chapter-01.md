@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-01.html"
+url: "/authors/burroughs-edgar-rice/the-land-that-time-forgot/chapter-01.html"
 ---
 
 It must have been a little after three o'clock in the afternoon that it happened--the afternoon of June 3rd, 1916. It seems incredible that all that I have passed through--all those weird and terrifying experiences--should have been encompassed within so short a span as three brief months. Rather might I have experienced a cosmic cycle, with all its changes and evolutions for that which I have seen with my own eyes in this brief interval of time--things that no other mortal eye had seen before, glimpses of a world past, a world dead, a world so long dead that even in the lowest Cambrian stratum no trace of it remains. Fused with the melting inner crust, it has passed forever beyond the ken of man other than in that lost pocket of the earth whither fate has borne me and where my doom is sealed. I am here and here must remain.

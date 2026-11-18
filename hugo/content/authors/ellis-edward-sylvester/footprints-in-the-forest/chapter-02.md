@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Valuable Ally"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/footprints-in-the-forest/chapter-02.html"
 ---
 
 "But who were the Indians?" asked Jack Carleton.

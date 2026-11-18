@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 2"
 weight: 26
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-02.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-02.html"
 ---
 
 OF THE LAST MISERY OF HARMACHIS; OF THE CALLING DOWN OF THE HOLY ISIS BY THE WORD OF FEAR; OF THE PROMISE OF ISIS; OF THE COMING OF ATOUA, AND OF THE WORDS OF ATOUA

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Gorbals Die-Hards Go Into Action"
 weight: 16
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-15.html"
+url: "/authors/buchan-john/huntingtower/chapter-15.html"
 ---
 
 We left Mr. McCunn, full of aches but desperately resolute in spirit, hobbling by the Auchenlochan road into the village of Dalquharter. His goal was Mrs. Morran's hen-house, which was Thomas Yownie's *poste de commandement*. The rain had come on again, and, though in other weather there would have been a slow twilight, already the shadow of night had the world in its grip. The sea even from the high ground was invisible, and all to westward and windward was a ragged screen of dark cloud. It was foul weather for foul deeds.

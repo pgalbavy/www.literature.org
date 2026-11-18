@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-23.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-23.html"
 ---
 
 Brave winds, blowing fair, swiftly drove the Ghost northward into the seal herd. We encountered it well up to the forty-fourth parallel, in a raw and stormy sea across which the wind harried the fog-banks in eternal flight. For days at a time we could never see the sun nor take an observation; then the wind would sweep the face of the ocean clean, the waves would ripple and flash, and we would learn where we were. A day of clear weather might follow, or three days or four, and then the fog would settle down upon us, seemingly thicker than ever.

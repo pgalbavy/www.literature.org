@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 52 - Of The Quarrel That Don Quixote Had With The Goatherd, Together With The Rare Adventure Of The Penitents, Which With An Expenditure Of Sweat He Brought To A Happy Conclusion"
 weight: 55
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-52.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-52.html"
 ---
 
 The goatherd’s tale gave great satisfaction to all the hearers, and the canon especially enjoyed it, for he had remarked with particular attention the manner in which it had been told, which was as unlike the manner of a clownish goatherd as it was like that of a polished city wit; and he observed that the curate had been quite right in saying that the woods bred men of learning. They all offered their services to Eugenio but he who showed himself most liberal in this way was Don Quixote, who said to him, "Most assuredly, brother goatherd, if I found myself in a position to attempt any adventure, I would, this very instant, set out on your behalf, and would rescue Leandra from that convent (where no doubt she is kept against her will), in spite of the abbess and all who might try to prevent me, and would place her in your hands to deal with her according to your will and pleasure, observing, however, the laws of chivalry which lay down that no violence of any kind is to be offered to any damsel. But I trust in God our Lord that the might of one malignant enchanter may not prove so great but that the power of another better disposed may prove superior to it, and then I promise you my support and assistance, as I am bound to do by my profession, which is none other than to give aid to the weak and needy."

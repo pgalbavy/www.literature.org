@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Tum Tum Looks For Mappo"
 weight: 7
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-07.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-07.html"
 ---
 
 Tum Tum, the jolly elephant, pulled hard on the chain that held his big leg fast to a stake driven into the ground. He wanted to get loose so he could stop the wagon from rolling down hill, maybe upsetting and letting the big tiger out.

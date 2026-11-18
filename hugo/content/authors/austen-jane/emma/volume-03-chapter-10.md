@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 10"
 weight: 46
-aliases:
-  - "/authors/austen-jane/emma/volume-03-chapter-10.html"
+url: "/authors/austen-jane/emma/volume-03-chapter-10.html"
 ---
 
 One morning, about ten days after Mrs. Churchill's decease, Emma was called downstairs to Mr. Weston, who “could not stay five minutes, and wanted particularly to speak with her.”--He met her at the parlour-door, and hardly asking her how she did, in the natural key of his voice, sunk it immediately, to say, unheard by her father,

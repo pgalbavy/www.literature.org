@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Under The Equator"
 weight: 1
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-01.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-01.html"
 ---
 
 The Flying Machine Boys were camping under the equator. The Louise and the Bertha, the splendid aeroplanes in which the lads had visited California and Mexico, lay on a great plateau some fifteen thousand feet above the level of the Pacific ocean, and two thin tents of light oiled-silk stood not far away.

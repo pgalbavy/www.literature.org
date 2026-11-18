@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 4"
 weight: 35
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-03-chapter-04.html"
+url: "/authors/cather-willa/song-of-the-lark/part-03-chapter-04.html"
 ---
 
 THEA noticed that Bowers took rather more pains with her now that Fred Ottenburg often dropped in at eleven-thirty to hear her lesson. After the lesson the young man took Bowers off to lunch with him, and Bowers liked good food when another man paid for it. He encouraged Fred's visits, and Thea soon saw that Fred knew exactly why.

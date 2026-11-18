@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - What Melchisedec Heard And Saw"
 weight: 15
-aliases:
-  - "/authors/hodgson-burnett-frances/a-little-princess/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-14.html"
 ---
 
 On this very afternoon, while Sara was out, a strange thing happened in the attic. Only Melchisedec saw and heard it; and he was so much alarmed and mystified that he scuttled back to his hole and hid there, and really quaked and trembled as he peeped out furtively and with great caution to watch what was going on.

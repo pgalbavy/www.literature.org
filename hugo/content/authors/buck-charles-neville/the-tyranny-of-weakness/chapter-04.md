@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-04.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-04.html"
 ---
 
 Stuart Farquaharson had that habit of self-analysis which often compelled him to take his own life into the laboratory of reflection and study its reactions with an almost impersonal directness. That analysis told him that Conscience Williams, had she chosen to do so, might have imposed upon him the thrall of infatuation, even had there been no powerful appeal to his mentality. Every fiery element that had lain dormant in his nature was ready to leap into action, in response to a challenge of which she was herself unconscious--a challenge to the senses. And yet he recognized with an almost prayerful gratitude that it was something paramount to physical lure, which beckoned him along the path of love. Into the more genuine and intimate recesses of her life, where the soul keeps its aloofness, she had given him only keyhole glimpses, but they had been such glimpses as kindled his eagerness and awakened his hunger for exploration. There had been candid indications reënforced by a dozen subtler things that her liking for him was more than casual, and yet she denied him any chance to avow himself, and sometimes, when he came suddenly upon her, he discovered a troubled wistfulness in her face which clouded her eyes and brought a droop to the corners of her lips.

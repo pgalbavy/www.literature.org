@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-20.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-20.html"
 ---
 
 It will be recalled that the catboat, in which Major Jack Starland was descending the river in company with Captain Guzman and the Atlamalcan deserter, Martella, landed them at the spot where the young women had left the tug the night before, the cause for which action on their part has been made clear. This took place early in the afternoon, and, under the guidance of Martella, the three started inland over the trail that had been followed by the two ponies less than four and twenty hours before.

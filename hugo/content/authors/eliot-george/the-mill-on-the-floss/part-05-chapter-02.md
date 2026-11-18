@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2 - Aunt Glegg Learns The Breadth Of Bob's Thumb"
 weight: 34
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-02.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-05-chapter-02.html"
 ---
 
 While Maggie's life-struggles had lain almost entirely within her own soul, one shadowy army fighting another, and the slain shadows forever rising again, Tom was engaged in a dustier, noisier warfare, grappling with more substantial obstacles, and gaining more definite conquests. So it has been since the days of Hecuba, and of Hector, Tamer of horses; inside the gates, the women with streaming hair and uplifted hands offering prayers, watching the world's combat from afar, filling their long, empty days with memories and fears; outside, the men, in fierce struggle with things divine and human, quenching memory in the stronger light of purpose, losing the sense of dread and even of wounds in the hurrying ardor of action.

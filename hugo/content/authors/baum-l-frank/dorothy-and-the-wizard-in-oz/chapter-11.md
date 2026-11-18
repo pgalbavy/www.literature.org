@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-11.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-11.html"
 ---
 
 Another breathless climb brought our adventurers to a third landing where there was a rift in the mountain. On peering out all they could see was rolling banks of clouds, so thick that they obscured all else.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-01.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-01.html"
 ---
 
 Let thy chief terror be of thine own soul: There, 'mid the throng of hurrying desires That trample on the dead to seize their spoil, Lurks vengeance, footless, irresistible As exhalations laden with slow death, And o'er the fairest troop of captured joys Breathes pallid pestilence.

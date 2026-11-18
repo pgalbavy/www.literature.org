@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/london-jack/the-call-of-the-wild/chapter-07.html"
+url: "/authors/london-jack/the-call-of-the-wild/chapter-07.html"
 ---
 
 When Buck earned sixteen hundred dollars in five minutes for John Thornton, he made it possible for his master to pay off certain debts and to journey with his partners into the East after a fabled lost mine, the history of which was as old as the history of the country. Many men had sought it; few had found it; and more than a few there were who had never returned from the quest. This lost mine was steeped in tragedy and shrouded in mystery. No one knew of the first man. The oldest tradition stopped before it got back to him. From the beginning there had been an ancient and ramshackle cabin. Dying men had sworn to it, and to the mine the site of which it marked, clinching their testimony with nuggets that were unlike any known grade of gold in the Northland.

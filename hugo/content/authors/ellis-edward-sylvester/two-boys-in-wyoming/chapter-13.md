@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Strange Occurrence"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/two-boys-in-wyoming/chapter-13.html"
 ---
 
 Once more Motoza had allowed an American youth to get the drop on him, for he could not mistake the meaning of that command, nor the deeper eloquence of the pose of Fred Greenwood with his rifle at a dead level. The Sioux must have despised himself for his forgetfulness.

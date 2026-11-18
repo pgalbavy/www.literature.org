@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Peter Rabbit Is Caught In A Snare"
 weight: 15
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-15.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-15.html"
 ---
 
 *WHEN* Peter Rabbit, reaching up to nibble the bark of one of Farmer Brown’s young trees, felt something tugging at one of his hind legs, he was so startled that he jumped to get away. Instead of doing this, he fell flat on his face. The thing on his hind leg had tightened and held him fast. A great fear came to Peter Rabbit, and lying there in the snow, he kicked and struggled with all his might. But the more he kicked, the tighter grew that hateful thing on his leg! Finally he grew too tired to kick any more and lay still. The dreadful thing that held him hurt his leg, but it didn’t pull when he lay still.

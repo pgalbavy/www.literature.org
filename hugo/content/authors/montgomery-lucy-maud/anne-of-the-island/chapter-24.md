@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Enter Jonas"
 weight: 24
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-24.html"
+url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-24.html"
 ---
 
 "PROSPECT POINT, "August 20th.

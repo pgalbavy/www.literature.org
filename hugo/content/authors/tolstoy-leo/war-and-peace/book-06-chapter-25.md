@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 25"
 weight: 131
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-25.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-25.html"
 ---
 
 During that year after his son's departure, Prince Nicholas Bolkonski's health and temper became much worse. He grew still more irritable, and it was Princess Mary who generally bore the brunt of his frequent fits of unprovoked anger. He seemed carefully to seek out her tender spots so as to torture her mentally as harshly as possible. Princess Mary had two passions and consequently two joys- her nephew, little Nicholas, and religion- and these were the favorite subjects of the prince's attacks and ridicule. Whatever was spoken of he would bring round to the superstitiousness of old maids, or the petting and spoiling of children. "You want to make him"- little Nicholas- "into an old maid like yourself! A pity! Prince Andrew wants a son and not an old maid," he would say. Or, turning to Mademoiselle Bourienne, he would ask her in Princess Mary's presence how she liked our village priests and icons and would joke about them.

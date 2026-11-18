@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Dead Return"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-20.html"
 ---
 
 THAT night Esteban made his lonely camp beside a jungle trail that wound through the dry wash of an old river bed, along which a tiny rivulet still trickled, affording the Spaniard the water which he craved.

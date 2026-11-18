@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Night For Love"
 weight: 16
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-15.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-15.html"
 ---
 
 There was music that evening in the Bunker Hill mansion but Denver Russell sat sulking in his cave with no company but an inquisitive pack-rat. He regretted now his curt refusal to join the Hills at supper, for Drusilla was singing gloriously; but a man without pride is a despicable creature and Old Bunk had tried to insult him. So he went to bed and early in the morning, while the shadow of Apache Leap still lay like a blanket across the plain, he set out to fulfill his contract. Across one shoulder he hung a huge canteen of water, on the other a sack of powder and fuse; and, to top off his burden, he carried a long steel churn-drill and a spoon for scooping out the muck.

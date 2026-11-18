@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - A Present For Kiddie"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-kiddie-katydid/chapter-12.html"
 ---
 
 Mr. Frog had a delightful time listening to the remarks of his callers, who had no idea that he was so near at hand. And as the weather grew colder, they began to shiver and their voices began to shake. And by the time it was almost dark all the waiting company were quite discouraged.

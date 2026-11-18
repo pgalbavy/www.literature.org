@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Haughty Henrietta"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-09.html"
 ---
 
 Feeling as important as she did, Henrietta Hen liked to have her own way. She said that she couldn't be expected to do just as others wished.

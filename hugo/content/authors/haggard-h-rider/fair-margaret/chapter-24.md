@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Falcon Stoops"
 weight: 24
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-24.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-24.html"
 ---
 
 It was the marriage day of Margaret and Peter. Clad in white armour that had been sent to him as a present from the queen, a sign and a token of her good wishes for his success in his combat with Morella, wearing the insignia of a Knight of St. James hanging by a ribbon from his neck, his shield emblazoned with his coat of the stooping falcon, which appeared also upon the white cloak that hung from his shoulders, behind him a squire of high degree, who carried his plumed casque and lance, and accompanied by an escort of the royal guards, Peter rode from his quarters in the prison to the palace gates, and waited there as he had been bidden. Presently they opened, and through them, seated on a palfrey, appeared Margaret, wonderfully attired in white and silver, but with her veil lifted so that her face could be seen. She was companioned by a troop of maidens mounted, all of them, on white horses, and at her side, almost outshining her in glory of apparel, and attended by all her household, rode Betty, Marchioness of Morella--at any rate for that present time.

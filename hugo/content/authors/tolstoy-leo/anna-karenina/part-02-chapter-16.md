@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 16"
 weight: 50
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-16.html"
 ---
 
 On the way home Levin asked all details of Kitty's illness and the Shtcherbatskys' plans, and thogh he would have been ashamed to admit it, he was pleased at what he heard. He was pleased that there was still hope, and still more pleased that she should be suffering who had made him suffer so much. But when Stepan Arkadyevitch began to speak of the causes of Kitty's illness, and mentioned Vronsky's name, Levin cut him short.

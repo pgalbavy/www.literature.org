@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Tongues Wag"
 weight: 7
-aliases:
-  - "/authors/titus-harold/bruce-of-the-circle-a/chapter-07.html"
+url: "/authors/titus-harold/bruce-of-the-circle-a/chapter-07.html"
 ---
 
 It was afternoon the next day that Bruce Bayard, swinging down from his horse, whipped the dust from his clothing with his hat and walked through the kitchen door of the Manzanita House.

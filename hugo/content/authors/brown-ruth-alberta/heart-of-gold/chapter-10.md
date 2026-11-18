@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The New Pastor Of South Avenue Church"
 weight: 10
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-10.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-10.html"
 ---
 
 "Marie, if that is anyone to see Grandma, show them in here, and tell 'em she will be back in a few minutes. Well, that's what she said to do when she went out." For Marie had paused uncertainly on her way to answer the doorbell, and eyed Peace skeptically.

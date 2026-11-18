@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - At The Bell Rock"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-02.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-02.html"
 ---
 
 A mile or more away from where Beatrice stood and saw visions, and further up the coast-line, a second group of rocks, known from their colour as the Red Rocks, or sometimes, for another reason, as the Bell Rocks, juts out between half and three-quarters of a mile into the waters of the Welsh Bay that lies behind Rumball Point. At low tide these rocks are bare, so that a man may walk or wade to their extremity, but when the flood is full only one or two of the very largest can from time to time be seen projecting their weed-wreathed heads through the wash of the shore-bound waves. In certain sets of the wind and tide this is a terrible and most dangerous spot in rough weather, as more than one vessel have learnt to their cost. So long ago as 1780 a three-decker man-of-war went ashore there in a furious winter gale, and, with one exception, every living soul on board of her, to the number of seven hundred, was drowned. The one exception was a man in irons, who came safely and serenely ashore seated upon a piece of wreckage. Nobody ever knew how the shipwreck happened, least of all the survivor in irons, but the tradition of the terror of the scene yet lives in the district, and the spot where the bones of the drowned men still peep grimly through the sand is not unnaturally supposed to be haunted. Ever since this catastrophe a large bell (it was originally the bell of the ill-fated vessel itself, and still bears her name, “H.M.S. Thunder,” stamped upon its metal) has been fixed upon the highest rock, and in times of storm and at high tide sends its solemn note of warning booming across the deep.

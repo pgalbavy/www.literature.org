@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - On The Edge Of The Atlantic"
 weight: 3
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-02.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-02.html"
 ---
 
 Véronique's state of mind underwent a sudden alteration. Even as she had fled resolutely from the threat of danger that seemed to loom up before her from the evil past, so she was now determined to pursue to the end the dread road which was opening before her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Wide, Wide World"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grunty-pig/chapter-04.html"
 ---
 
 It was the first time Grunty Pig had ever been outside his pen. And since he didn't know how long it would be before Farmer Green found him and took him back home, he decided that he had better make the most of his outing while it lasted.

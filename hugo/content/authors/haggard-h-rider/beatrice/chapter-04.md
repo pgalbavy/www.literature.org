@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Watcher At The Door"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-04.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-04.html"
 ---
 
 This was what had happened. Just about the centre of the reef is a large flat-topped rock--it may be twenty feet in the square--known to the Bryngelly fishermen as Table Rock. In ordinary weather, even at high tide, the waters scarcely cover this rock, but when there is any sea they wash over it with great violence. On to this rock Geoffrey and Beatrice had been hurled by the breaker. Fortunately for them it was thickly overgrown with seaweed, which to some slight extent broke the violence of their fall. As it chanced, Geoffrey was knocked senseless by the shock; but Beatrice, whose hand he still held, fell on to him and, with the exception of a few bruises and a shake, escaped unhurt.

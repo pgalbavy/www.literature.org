@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-37.html"
 ---
 
 "Arrest him!" commanded General Yozarro, speaking directly to Colonel Carlos Del Valle, his chief of staff, standing next to the American; "put him in irons."

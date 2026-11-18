@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-15.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-15.html"
 ---
 
 That day was rainy like its predecessor; but towards evening it began to clear up a little, and the next morning was fair and promising. I was out on the hill with the reapers. A light wind swept over the corn, and all nature laughed in the sunshine. The lark was rejoicing among the silvery floating clouds. The late rain had so sweetly freshened and cleared the air, and washed the sky, and left such glittering gems on branch and blade, that not even the farmers could have the heart to blame it. But no ray of sunshine could reach my heart, no breeze could freshen it; nothing could fill the void my faith, and hope, and joy in Helen Graham had left, or drive away the keen regrets and bitter dregs of lingering love that still oppressed it.

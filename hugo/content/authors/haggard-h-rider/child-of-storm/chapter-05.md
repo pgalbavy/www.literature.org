@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Two Bucks And The Doe"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/child-of-storm/chapter-05.html"
+url: "/authors/haggard-h-rider/child-of-storm/chapter-05.html"
 ---
 
 It may be thought that, as a sequel to this somewhat remarkable scene in which I was absolutely bowled over--perhaps bowled out would be a better term--by a Kafir girl who, after bending me to her will, had the genius to drop me before I repented, as she knew I would do so soon as her back was turned, thereby making me look the worst of fools, that my relations with that young lady would have been strained. But not a bit of it. When next we met, which was on the following morning, she was just her easy, natural self, attending to my hurts, which by now were almost well, joking about this and that, inquiring as to the contents of certain letters which I had received from Natal, and of some newspapers that came with them--for on all such matters she was very curious--and so forth.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4 - A Flight For Life"
 weight: 11
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-04.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-04.html"
 ---
 
 ON the morning which followed his interview with the Mormon Prophet, John Ferrier went in to Salt Lake City, and having found his acquaintance, who was bound for the Nevada Mountains, he entrusted him with his message to Jefferson Hope. In it he told the young man of the imminent danger which threatened them, and how necessary it was that he should return. Having done thus he felt easier in his mind, and returned home with a lighter heart.

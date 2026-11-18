@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - \"To The Death!\""
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-02.html"
 ---
 
 In the moment of discovery Tarzan saw that the creature was almost a counterpart of his companion in size and conformation, with the exception that his body was entirely clothed with a coat of shaggy black hair which almost concealed his features, while his harness and weapons were similar to those of the creature he had attacked. Ere Tarzan could prevent the creature had struck the ape-man's companion a blow upon the head with his knotted club that felled him, unconscious, to the earth; but before he could inflict further injury upon his defenseless prey the ape-man had closed with him.

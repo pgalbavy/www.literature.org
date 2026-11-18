@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Captain Len Guy"
 weight: 3
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-03.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-03.html"
 ---
 
 I slept ill. Again and again I "dreamed that I was dreaming." Now—this is an observation made by Edgar Poe—when one suspects that one is dreaming, the waking comes almost instantly. I woke then, and every time in a very bad humour with Captain Len Guy. The idea of leaving the Kerguelens on the Halbrane had full possession of me, and I grew more and more angry with her disobliging captain. In fact, I passed the night in a fever of indignation, and only recovered my temper with daylight. Nevertheless I was determined to have an explanation with Captain Len Guy about his detestable conduct. Perhaps I should fail to get anything out of that human hedgehog, but at least I should have given him a piece of my mind.

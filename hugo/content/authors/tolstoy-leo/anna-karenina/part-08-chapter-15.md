@@ -1,8 +1,7 @@
 ---
 title: "Part 8 - Chapter 15"
 weight: 235
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-08-chapter-15.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-08-chapter-15.html"
 ---
 
 "Do you know, Kostya, with whom Sergey Ivanovitch traveled on his way here?" said Dolly, doling out cucumbers and honey to the children; "with Vronsky! He's going to Servia."

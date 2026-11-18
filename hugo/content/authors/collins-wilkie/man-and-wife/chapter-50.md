@@ -1,8 +1,7 @@
 ---
 title: "Chapter 50 - The Morning"
 weight: 52
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-50.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-50.html"
 ---
 
 WHEN does the vain regret find its keenest sting? When is the doubtful future blackened by its darkest cloud? When is life least worth having. and death oftenest at the bedside? In the terrible morning hours, when the sun is rising in its glory, and the birds are singing in the stillness of the new-born day.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-03.html"
+url: "/authors/eliot-george/middlemarch/chapter-03.html"
 ---
 
 "Say, goddess, what ensued, when Raphael, The affable archangel . . . Eve The story heard attentive, and was filled With admiration, and deep muse, to hear Of things so high and strange." - Paradise Lost, B. vii.

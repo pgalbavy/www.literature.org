@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - One Of Many Chevaliers De Valois"
 weight: 1
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/chapter-01.html"
+url: "/authors/balzac-honore-de/an-old-maid/chapter-01.html"
 ---
 
 Most persons have encountered, in certain provinces in France, a number of Chevaliers de Valois. One lived in Normandy, another at Bourges, a third (with whom we have here to do) flourished in Alencon, and doubtless the South possesses others. The number of the Valesian tribe is, however, of no consequence to the present tale. All these chevaliers, among whom were doubtless some who were Valois as Louis XIV. was Bourbon, knew so little of one another that it was not advisable to speak to one about the others. They were all willing to leave the Bourbons in tranquil possession of the throne of France; for it was too plainly established that Henri IV. became king for want of a male heir in the first Orleans branch called the Valois. If there are any Valois, they descend from Charles de Valois, Duc d'Angouleme, son of Charles IX. and Marie Touchet, the male line from whom ended, until proof to the contrary be produced, in the person of the Abbe de Rothelin. The Valois-Saint-Remy, who descended from Henri II., also came to an end in the famous Lamothe-Valois implicated in the affair of the Diamond Necklace.

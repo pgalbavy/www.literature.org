@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-32.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-32.html"
 ---
 
 While the conversation was going on between the Tory and Gray Panther, Gravity Gimp was rubbing and nursing his "game leg," with many sighs and groans, which he took care should be heard by those around him, while at the same time it did not annoy them.

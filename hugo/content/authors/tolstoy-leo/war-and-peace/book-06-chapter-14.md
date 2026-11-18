@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 14"
 weight: 120
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-14.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-14.html"
 ---
 
 On the thirty-first of December, New Year's Eve, 1809 - 10 an old grandee of Catherine's day was giving a ball and midnight supper. The diplomatic corps and the Emperor himself were to be present.

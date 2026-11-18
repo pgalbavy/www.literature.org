@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Specksynder"
 weight: 33
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-033.html"
+url: "/authors/melville-herman/moby-dick/chapter-033.html"
 ---
 
 Concerning the officers of the whale-craft, this seems as good a place as any to set down a little domestic peculiarity on ship-board, arising from the existence of the harpooneer class of officers, a class unknown of course in any other marine than the whale-fleet.

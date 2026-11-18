@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - A Prophet In His Own Country"
 weight: 24
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-24.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-24.html"
 ---
 
 One May day Avonlea folks were mildly excited over some "Avonlea Notes," signed "Observer," which appeared in the Charlottetown 'Daily Enterprise.' Gossip ascribed the authorship thereof to Charlie Sloane, partly because the said Charlie had indulged in similar literary flights in times past, and partly because one of the notes seemed to embody a sneer at Gilbert Blythe. Avonlea juvenile society persisted in regarding Gilbert Blythe and Charlie Sloane as rivals in the good graces of a certain damsel with gray eyes and an imagination.

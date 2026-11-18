@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Master And Pupil"
 weight: 16
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-16.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-16.html"
 ---
 
 The worthy Master Gryphus, as the reader may have seen, was far from sharing the kindly feeling of his daughter for the godson of Cornelius de Witt.

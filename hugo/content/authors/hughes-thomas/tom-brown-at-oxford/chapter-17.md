@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - New Ground"
 weight: 19
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-17.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-17.html"
 ---
 
 My readers have now been steadily at Oxford for six months without moving. Most people find such a spell of the place without a change quite as much as they care to take; perhaps too, it may do our hero good to let him alone for a little, that he may have time to look steadily into the pit which he has been so near falling down, which is still yawning awkwardly in his path; moreover, the exigencies of a story teller must lead him away from home now and then. Like the rest of us, his family must have change of air, or he has to go off to see a friend properly married, or a connexion buried; to wear white or black gloves with or for some one, carrying such sympathy as he can with him, so that he may come back from every journey, however short, with a wider horizon. Yes; to come back home after every stage of life's journeying with a wider horizon—more in sympathy with men and nature, knowing ever more of the righteous and eternal laws which govern them, and of the righteous and loving will which is above all, and around all, and beneath all—this must be the end and aim of all of us, or we shall be wandering about blindfold, and spending time and labor and journey-money on that which profiteth nothing. So now I must ask my readers to forget the old buildings and quadrangles of the fairest of England's cities, the caps and the gowns, the reading and rowing for a short space, and take a flight with me to other scenes and pastures new.

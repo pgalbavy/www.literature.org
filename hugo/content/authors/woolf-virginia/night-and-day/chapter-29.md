@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-aliases:
-  - "/authors/woolf-virginia/night-and-day/chapter-29.html"
+url: "/authors/woolf-virginia/night-and-day/chapter-29.html"
 ---
 
 Between twelve and one that Sunday night Katharine lay in bed, not asleep, but in that twilight region where a detached and humorous view of our own lot is possible; or if we must be serious, our seriousness is tempered by the swift oncome of slumber and oblivion. She saw the forms of Ralph, William, Cassandra, and herself, as if they were all equally unsubstantial, and, in putting off reality, had gained a kind of dignity which rested upon each impartially. Thus rid of any uncomfortable warmth of partisanship or load of obligation, she was dropping off to sleep when a light tap sounded upon her door. A moment later Cassandra stood beside her, holding a candle and speaking in the low tones proper to the time of night.

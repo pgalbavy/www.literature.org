@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Change Of Base"
 weight: 18
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-18.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-18.html"
 ---
 
 Stratton staggered back against the wall and leaned there, panting. All his strength had gone out in that last terrific blow, and for a space he seemed incapable of movement. At length, conscious of a warm, moist trickle on his chin, he raised one hand mechanically to his face and brought it away, dabbled with bright crimson. For a moment or two he regarded the stiff, crooked fingers and bruised knuckles in a dazed, impersonal fashion as if the hand belonged to some one else. Then he became aware that Bud was speaking.

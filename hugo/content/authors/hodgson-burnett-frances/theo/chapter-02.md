@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Arrival"
 weight: 2
-aliases:
-  - "/authors/hodgson-burnett-frances/theo/chapter-02.html"
+url: "/authors/hodgson-burnett-frances/theo/chapter-02.html"
 ---
 
 A great deal of hard work was done during the following week. The remodelling of the outfit was no light labor: but Pamela was steady to her trust, in her usual practical style. She trimmed, and fitted, and cut, until the always-roughened surface of her thin forefinger was rougher than ever. She kept Theo at work at the smaller tasks she chose to trust to her, and watched her sharply, with no shadow of the softened mood she had given the candle-lighted bedroom a glimpse of. She was as severe upon any dereliction from duty as ever, and the hardness of her general demeanor was not a whit relaxed. Indeed, sometimes Theo found herself glancing up furtively from her tasks, to look at the thin, sharp face, and wondering if she had not dreamed that her arms had clasped a throbbing, shaken form, when they faced together the ghost of long dead love.

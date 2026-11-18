@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-07.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-07.html"
 ---
 
 My first quarter at Lowood seemed an age; and not the golden age either; it comprised an irksome struggle with difficulties in habituating myself to new rules and unwonted tasks. The fear of failure in these points harassed me worse than the physical hardships of my lot; though these were no trifles.

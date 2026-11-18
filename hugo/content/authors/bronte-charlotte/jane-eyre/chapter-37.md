@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 38
-aliases:
-  - "/authors/bronte-charlotte/jane-eyre/chapter-37.html"
+url: "/authors/bronte-charlotte/jane-eyre/chapter-37.html"
 ---
 
 The manor-house of Ferndean was a building of considerable antiquity, moderate size, and no architectural pretensions, deep buried in a wood. I had heard of it before. Mr. Rochester often spoke of it, and sometimes went there. His father had purchased the estate for the sake of the game covers. He would have let the house, but could find no tenant, in consequence of its ineligible and insalubrious site. Ferndean then remained uninhabited and unfurnished, with the exception of some two or three rooms fitted up for the accommodation of the squire when he went there in the season to shoot.

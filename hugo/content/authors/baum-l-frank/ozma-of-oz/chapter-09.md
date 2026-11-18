@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/baum-l-frank/ozma-of-oz/chapter-09.html"
+url: "/authors/baum-l-frank/ozma-of-oz/chapter-09.html"
 ---
 
 The Tin Woodman was the first to address the meeting.

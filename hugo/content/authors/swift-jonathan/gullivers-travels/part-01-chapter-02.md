@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 3
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-01-chapter-02.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-01-chapter-02.html"
 ---
 
 The emperor of Lilliput, attended by several of the nobility, comes to see the author in his confinement. The emperor’s person and habit described. Learned men appointed to teach the author their language. He gains favour by his mild disposition. His pockets are searched, and his sword and pistols taken from him.

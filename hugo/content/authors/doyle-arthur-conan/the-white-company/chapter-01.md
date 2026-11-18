@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - How The Black Sheep Came Forth From The Fold"
 weight: 1
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-01.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-01.html"
 ---
 
 THE great bell of Beaulieu was ringing. Far away through the forest might be heard its musical clangor and swell, Peat-cutters on Blackdown and fishers upon the Exe heard the distant throbbing rising and falling upon the sultry summer air. It was a common sound in those parts--as common as the chatter of the jays and the booming of the bittern. Yet the fishers and the peasants raised their heads and looked questions at each other, for the angelus had already gone and vespers was still far off. Why should the great bell of Beaulieu toll when the shadows were neither short nor long?

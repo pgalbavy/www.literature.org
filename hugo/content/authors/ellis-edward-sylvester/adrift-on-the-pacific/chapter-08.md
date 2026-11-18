@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Voyaging Southward"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-08.html"
 ---
 
 It was certainly very wonderful that little Inez Hawthorne should have been transferred from the steamer to the schooner, and that many hours should have passed before the discovery was made by the respective captains of the craft.

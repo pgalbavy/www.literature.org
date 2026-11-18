@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Roaring Abysmal Beast"
 weight: 22
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-21.html"
+url: "/authors/london-jack/the-iron-heel/chapter-21.html"
 ---
 
 During the long period of our stay in the refuge, we were kept closely in touch with what was happening in the world without, and we were learning thoroughly the strength of the Oligarchy with which we were at war. Out of the flux of transition the new institutions were forming more definitely and taking on the appearance and attributes of permanence. The oligarchs had succeeded in devising a governmental machine, as intricate as it was vast, that worked--and this despite all our efforts to clog and hamper.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Just A Clever Game"
 weight: 9
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-09.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-09.html"
 ---
 
 When the old hag glanced cautiously about the disreputable apartment, Havens began to hope that the bribe of twenty thousand dollars which he had offered her might secure his release. It seemed to him that the old woman was strongly tempted to accept the money.

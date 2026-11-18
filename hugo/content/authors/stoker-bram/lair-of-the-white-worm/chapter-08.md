@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/stoker-bram/lair-of-the-white-worm/chapter-08.html"
+url: "/authors/stoker-bram/lair-of-the-white-worm/chapter-08.html"
 ---
 
 At breakfast Sir Nathaniel noticed that Adam was put out about something, but he said nothing. The lesson of silence is better remembered in age than in youth. When they were both in the study, where Sir Nathaniel followed him, Adam at once began to tell his companion of what had happened. Sir Nathaniel looked graver and graver as the narration proceeded, and when Adam had stopped he remained silent for several minutes, before speaking.

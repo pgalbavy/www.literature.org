@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-21.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-21.html"
 ---
 
 They helped Opdyke into the house and bandaged a wound in his leg, but old Jim sat looking on with a stony face, and when the first aid had been administered he said shortly: "Parish Thornton an' me hev jest been a-studyin' erbout how ter handle ther likes of you. Ye come in good season--an' so fur as kin be jedged from ther place whar thet ball hit, no man kin say which one of us ye shot at. We aims ter make a sample of ye, fer others ter regulate theirselves by, an' I reckon ye're goin' ter sulter in ther penitenshery fer a spell of y'ars."

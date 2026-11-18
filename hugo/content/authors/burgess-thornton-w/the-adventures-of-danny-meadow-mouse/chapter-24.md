@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Reddy Fox Loses His Temper"
 weight: 24
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-24.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-danny-meadow-mouse/chapter-24.html"
 ---
 
 *REDDY FOX* had caught Danny Meadow Mouse, and yet he hadn’t caught him. He had found Danny hiding in the old tomato can, and it didn’t enter Reddy’s head that he couldn’t get Danny out when he wanted to. He was in no hurry. He had had a pretty good breakfast of grasshoppers, and so he thought he would torment Danny a while before gobbling him up. He lay down so that he could peep in at the open end of the old can and see Danny trying to make himself as small as possible at the other end. Reddy grinned until he showed all his long teeth. Reddy always is a bully, especially when his victim is a great deal smaller and weaker than himself.

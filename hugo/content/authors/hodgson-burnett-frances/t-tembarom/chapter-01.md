@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-01.html"
 ---
 
 The boys at the Brooklyn public school which he attended did not know what the “T.” stood for. He would never tell them. All he said in reply to questions was: “It don't stand for nothin'. You've gotter have a' 'nitial, ain't you?” His name was, in fact, an almost inevitable school-boy modification of one felt to be absurd and pretentious. His Christian name was Temple, which became “Temp.” His surname was Barom, so he was at once “Temp Barom.” In the natural tendency to avoid waste of time it was pronounced as one word, and the letter p being superfluous and cumbersome, it easily settled itself into “Tembarom,” and there remained. By much less inevitable processes have surnames evolved themselves as centuries rolled by. Tembarom liked it, and soon almost forgot he had ever been called anything else.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/beasleys-christmas-party/chapter-02.html"
+url: "/authors/tarkington-booth/beasleys-christmas-party/chapter-02.html"
 ---
 
 Mrs. Apperthwaite's was a commodious old house, the greater part of it of about the same age, I judged, as its neighbor; but the late Mr. Apperthwaite had caught the Mansard fever of the late 'Seventies, and the building-disease, once fastened upon him, had never known a convalescence, but, rather, a series of relapses, the tokens of which, in the nature of a cupola and a couple of frame turrets, were terrifyingly apparent. These romantic misplacements seemed to me not inharmonious with the library, a cheerful and pleasantly shabby apartment down-stairs, where I found (over a substratum of history, encyclopaedia, and family Bible) some worn old volumes of Godey's Lady's Book, an early edition of Cooper's works; Scott, Bulwer, Macaulay, Byron, and Tennyson, complete; some odd volumes of Victor Hugo, of the elder Dumas, of Flaubert, of Gautier, and of Balzac; Clarissa, Lalla Rookh, The Alhambra, Beulah, Uarda, Lucile, Uncle Tom's Cabin, Ben-Hur, Trilby, She, Little Lord Fauntleroy; and of a later decade, there were novels about those delicately tangled emotions experienced by the supreme few; and stories of adventurous royalty; tales of "clean-limbed young American manhood;" and some thin volumes of rather precious verse.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Dangers Of Travel"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-02.html"
 ---
 
 It was a long way to Farmer Green's from the Beaver pond where Ferdinand Frog made his home. But he felt that he simply must see that picture which Mr. Crow said looked like him. So he started out just before sunset.

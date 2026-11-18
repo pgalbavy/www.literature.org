@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Jimmy Skunk Is Very Mad Indeed"
 weight: 4
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-04.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-04.html"
 ---
 
 When Jimmy Skunk is angry Then every one watch out! It's better far at such a time To be nowhere about.

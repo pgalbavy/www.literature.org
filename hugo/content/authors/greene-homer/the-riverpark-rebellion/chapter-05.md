@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Hapless Holiday"
 weight: 5
-aliases:
-  - "/authors/greene-homer/the-riverpark-rebellion/chapter-05.html"
+url: "/authors/greene-homer/the-riverpark-rebellion/chapter-05.html"
 ---
 
 Brede, Brightly, and the larger boys leaped up, caught the top of the fence, and swung themselves over lightly, while others unable to do this ran along the base of it wildly, like frightened animals seeking a passage through.

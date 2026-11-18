@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Hail And An Answer"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-15.html"
 ---
 
 Meanwhile Larry Murphy was not idle. He had never received a more terrifying shock than that caused by the discovery that the signal which he was confident was made by Wharton Edwards came from the lips of Blazing Arrow.

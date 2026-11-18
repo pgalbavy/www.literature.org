@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-27.html"
+url: "/authors/stoker-bram/dracula/chapter-27.html"
 ---
 
 MINA HARKER'S JOURNAL

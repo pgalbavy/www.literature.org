@@ -1,8 +1,7 @@
 ---
 title: "Part 4"
 weight: 4
-aliases:
-  - "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-04.html"
+url: "/authors/coleridge-samuel-taylor/the-rime-of-the-ancient-mariner/part-04.html"
 ---
 
 "I fear thee, ancient Mariner! I fear thy skinny hand! And thou art long, and lank, and brown, As is the ribbed sea-sand.

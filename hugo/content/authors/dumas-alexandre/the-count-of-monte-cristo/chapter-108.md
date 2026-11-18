@@ -1,8 +1,7 @@
 ---
 title: "Chapter 108 - The Judge"
 weight: 108
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-108.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-108.html"
 ---
 
 We remember that the Abbe Busoni remained alone with Noirtier in the chamber of death, and that the old man and the priest were the sole guardians of the young girl's body. Perhaps it was the Christian exhortations of the abbe, perhaps his kind charity, perhaps his persuasive words, which had restored the courage of Noirtier, for ever since he had conversed with the priest his violent despair had yielded to a calm resignation which surprised all who knew his excessive affection for Valentine. M. de Villefort had not seen his father since the morning of the death. The whole establishment had been changed; another valet was engaged for himself, a new servant for Noirtier, two women had entered Madame de Villefort's service, - in fact, everywhere, to the concierge and coachmen, new faces were presented to the different masters of the house, thus widening the division which had always existed between the members of the same family.

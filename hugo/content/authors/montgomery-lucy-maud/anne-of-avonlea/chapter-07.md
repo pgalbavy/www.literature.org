@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Pointing Of Duty"
 weight: 7
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-07.html"
+url: "/authors/montgomery-lucy-maud/anne-of-avonlea/chapter-07.html"
 ---
 
 Anne leaned back in her chair one mild October evening and sighed. She was sitting at a table covered with text books and exercises, but the closely written sheets of paper before her had no apparent connection with studies or school work.

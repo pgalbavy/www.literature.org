@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Broke Again"
 weight: 22
-aliases:
-  - "/authors/coolidge-dane/silver-and-gold/chapter-21.html"
+url: "/authors/coolidge-dane/silver-and-gold/chapter-21.html"
 ---
 
 The industry of four jumpers, digging in like gophers on the best of Bunker Hill's claims, was brought to an abrupt termination by the appearance of one man with a gun. He came on unconcernedly, Dave's six-shooter at his hip and the strength of a lion in his stride; and the first of the gun-men, after looking him over, jumped out of his hole and made off. Denver tore down his notice and posted the old one, with a copy of his original affidavit that the annual work had been done; and when he toiled up to the remaining three claims the jumpers had fled before him. They knew him all too well, and the gun at his hip; and they counted it no disgrace to give way before the man who had conquered Dave Chatwourth with rocks. So Denver changed the notices and came back laughing and Bunker Hill made over the claims.

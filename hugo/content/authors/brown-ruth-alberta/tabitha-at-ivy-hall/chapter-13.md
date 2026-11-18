@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Aunt Maria Decides The Question"
 weight: 13
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-13.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-13.html"
 ---
 
 "Behind him lay the gray Azores,  

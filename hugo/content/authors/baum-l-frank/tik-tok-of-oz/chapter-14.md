@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 15
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-14.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-14.html"
 ---
 
 During this time Ruggedo, the Metal Monarch and King of the Nomes, was trying to amuse himself in his splendid jeweled cavern. It was hard work for Ruggedo to find amusement to day, for all the nomes were behaving well and there was no one to scold or to punish. The King had thrown his sceptre at Kaliko six times, without hitting him once. Not that Kaliko had done anything wrong. On the contrary, he had obeyed the King in every way but one: he would not stand still, when commanded to do so, and let the heavy sceptre strike him.

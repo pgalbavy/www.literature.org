@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34"
 weight: 35
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-34.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-34.html"
 ---
 
 Evening. - Breakfast passed well over: I was calm and cool throughout. I answered composedly all inquiries respecting my health; and whatever was unusual in my look or manner was generally attributed to the trifling indisposition that had occasioned my early retirement last night. But how am I to get over the ten or twelve days that must yet elapse before they go? Yet why so long for their departure? When they are gone, how shall I get through the months or years of my future life in company with that man - my greatest enemy? for none could injure me as he has done. Oh! when I think how fondly, how foolishly I have loved him, how madly I have trusted him, how constantly I have laboured, and studied, and prayed, and struggled for his advantage; and how cruelly he has trampled on my love, betrayed my trust, scorned my prayers and tears, and efforts for his preservation, crushed my hopes, destroyed my youth's best feelings, and doomed me to a life of hopeless misery, as far as man can do it, it is not enough to say that I no longer love my husband - I HATE him! The word stares me in the face like a guilty confession, but it is true: I hate him - I hate him! But God have mercy on his miserable soul! and make him see and feel his guilt - I ask no other vengeance! If he could but fully know and truly feel my wrongs I should be well avenged, and I could freely pardon all; but he is so lost, so hardened in his heartless depravity, that in this life I believe he never will. But it is useless dwelling on this theme: let me seek once more to dissipate reflection in the minor details of passing events.

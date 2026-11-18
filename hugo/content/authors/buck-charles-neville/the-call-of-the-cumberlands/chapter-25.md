@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-25.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-25.html"
 ---
 
 Samson, throwing things hurriedly into his bag, heard a knock on his door. He opened it, and outside in the hall stood Adrienne. Her face was pale, and she leaned a little on the hand which rested against the white jamb.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Through The Great Divide"
 weight: 25
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-25.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-on-the-prairies/chapter-25.html"
 ---
 
 *THE* month of August was well advanced when our friends reached the junction of two streams where to-day stands Salmon City, Idaho. They were well received at an Indian village, whose people showed a wish to do all they could to help the travelers on their way to the headwaters of the Columbia. When Mul-tal-la made known their destination several of the red men, including the chief, shook their heads and said it was too late in the season to make the journey; but the party were resolute, for it was not only their intention to traverse the long distance, but they meant, if possible, to return to the Blackfoot country in time to spend the remainder of the winter there.

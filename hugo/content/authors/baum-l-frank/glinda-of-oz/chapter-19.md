@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-19.html"
 ---
 
 After the meal was over and Reera had fed her pets, including the four monster spiders which had come down from their webs to secure their share, she made the table disappear from the floor of the cottage.

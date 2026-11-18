@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Both Sides"
 weight: 14
-aliases:
-  - "/authors/alcott-louisa-may/rose-in-bloom/chapter-13.html"
+url: "/authors/alcott-louisa-may/rose-in-bloom/chapter-13.html"
 ---
 
 Steve's engagement made a great stir in the family a pleasant one this time, for nobody objected, everything seemed felicitous, and the course of true love ran very smoothly for the young couple, who promised to remove the only obstacle to their union by growing old and wise as soon as possible. If he had not been so genuinely happy, the little lover's airs would have been unbearable, for he patronized all mankind in general, his brother and elder cousins in particular.

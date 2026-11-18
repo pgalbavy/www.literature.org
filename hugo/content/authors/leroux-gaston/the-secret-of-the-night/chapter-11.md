@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Poison Continues"
 weight: 11
-aliases:
-  - "/authors/leroux-gaston/the-secret-of-the-night/chapter-11.html"
+url: "/authors/leroux-gaston/the-secret-of-the-night/chapter-11.html"
 ---
 
 At ten o’clock that morning Rouletabille went to the Trebassof villa, which had its guard of secret agents again, a double guard, because Koupriane was sure the Nihilists would not delay in avenging Michael’s death. Rouletabille was met by Ermolai, who would not allow him to enter. The faithful servant uttered some explanation in Russian, which the young man did not understand, or, rather, Rouletabille understood perfectly from his manner that henceforth the door of the villa was closed to him. In vain he insisted on seeing the general, Matrena Petrovna and Mademoiselle Natacha. Ermolai made no reply but "Niet, niet, niet." The reporter turned away without having seen anyone, and walked away deeply depressed. He went afoot clear into the city, a long promenade, during which his brain surged with the darkest forebodings. As he passed by the Department of Police he resolved to see Koupriane again. He went in, gave his name, and was ushered at once to the Chief of Police, whom he found bent over a long report that he was reading through with noticeable agitation.

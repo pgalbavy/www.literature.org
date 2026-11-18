@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Twenty-Three Minutes Past Twelve"
 weight: 7
-aliases:
-  - "/authors/leblanc-maurice/the-golden-triangle/chapter-07.html"
+url: "/authors/leblanc-maurice/the-golden-triangle/chapter-07.html"
 ---
 
 The great hall that ran from Rue Raynouard to the upper terrace of the garden was filled to half its extent by a wide staircase and divided the Essarès house into two parts communicating only by way of the hall.

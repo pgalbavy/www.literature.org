@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - A Surprising Discovery"
 weight: 31
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-31.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-31.html"
 ---
 
 Probably there was no happier Thanksgiving in all the Great World than the Thanksgiving of Lightfoot the Deer, when the dreadful hunting season ended and he was once more back in his beloved Green Forest with nothing to fear. All his neighbors called on him to tell him how glad they were that he had escaped and how the Green Forest would not have been the same if he had not returned. So Lightfoot roamed about without fear and was happy. It seemed to him that he could not be happier. There was plenty to eat and that blessed feeling of nothing to fear. What more could any one ask? He began to grow sleek and fat and handsomer than ever. The days were growing colder and the frosty air made him feel good.

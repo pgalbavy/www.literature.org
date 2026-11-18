@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Skipper"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-betsy-butterfly/chapter-22.html"
 ---
 
 IN Farmer Green's meadow there lived a very nervous person called the Skipper. He was a distant cousin of Betsy Butterfly's. And since the two were almost exactly the same age, they quite naturally spent a good deal of time together.

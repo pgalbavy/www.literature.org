@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-24.html"
+url: "/authors/chambers-robert-w/athalie/chapter-24.html"
 ---
 
 A fine lace-work of mist lay over the salt meadows; the fairy trilling of the little owl had ceased. Marsh-fowl were sleepily astir; the last firefly floated low into the shrouded bushes and its lamp glimmered a moment and went out.

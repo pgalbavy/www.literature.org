@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - One Apple Too Many"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-the-the-muley-cow/chapter-18.html"
 ---
 
 It was a long time since the Muley Cow had jumped the pasture fence. By making her wear a poke for a while Farmer Green had taught her to behave herself. But there came a day, finally, when she made up her mind that just one more jump wouldn't do any great harm.

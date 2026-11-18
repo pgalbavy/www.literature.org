@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-22.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-22.html"
 ---
 
 There seems to be another curious thing about Love [Bibbs wrote]. Love is blind while it lives and only opens its eyes and becomes very wide awake when it dies. Let it alone until then.

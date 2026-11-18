@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Gaston Sauverand Explains"
 weight: 10
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-10.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-10.html"
 ---
 
 Gaston Sauverand!

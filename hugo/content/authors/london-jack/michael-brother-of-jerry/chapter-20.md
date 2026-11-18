@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 21
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-20.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-20.html"
 ---
 
 The dog, like the horse, abases the base. Being base, Waiter Merritt Emory was abased by his desire for the possession of Michael. Had there been no Michael, his conduct would have been quite different. He would have dealt with Daughtry as Daughtry had described, as between white men. He would have warned Daughtry of his disease and enabled him to take ship to the South Seas or to Japan, or to other countries where lepers are not segregated. This would have worked no hardship on those countries, since such was their law and procedure, while it would have enabled Daughtry and Kwaque to escape the hell of the San Francisco pest-house, to which, because of his baseness, he condemned them for the rest of their lives.

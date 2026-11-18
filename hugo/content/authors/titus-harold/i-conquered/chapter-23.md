@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Life, The Trophy"
 weight: 23
-aliases:
-  - "/authors/titus-harold/i-conquered/chapter-23.html"
+url: "/authors/titus-harold/i-conquered/chapter-23.html"
 ---
 
 To VB, at the sound of the stallion's neighing, came the realization of his position--weaponless in the midst of men who, now of all times, would shoot to kill! His righteous abhorrence of the murder Rhues had done and in which the others had been conspirators did not lessen. He did not falter in his determination for vengeance; but his thirst for it did not detract one whit from his realization of the situation's difficulties.

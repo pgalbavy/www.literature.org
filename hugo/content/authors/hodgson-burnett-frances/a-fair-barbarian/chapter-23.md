@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - \u0026quot;May I Go?\u0026quot;"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-23.html"
 ---
 
 The very day after this, Octavia opened the fourth trunk. She had had it brought down from the garret, when there came a summons on the door, and Lucia Gaston appeared.

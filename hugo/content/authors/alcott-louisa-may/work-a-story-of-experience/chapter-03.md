@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Actress"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-03.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-03.html"
 ---
 
 FEELING that she had all the world before her where to choose, and that her next step ought to take her up at least one round higher on the ladder she was climbing, Christie decided not to try going out to service again. She knew very well that she would never live with Irish mates, and could not expect to find another Hepsey. So she tried to get a place as companion to an invalid, but failed to secure the only situation of the sort that was offered her, because she mildly objected to waiting on a nervous cripple all day, and reading aloud half the night. The old lady called har an "impertinent baggage," and Christie retired in great disgust, resolving not to be a slave to anybody.

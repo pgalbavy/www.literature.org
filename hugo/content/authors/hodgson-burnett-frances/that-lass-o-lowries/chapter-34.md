@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - The Decision"
 weight: 34
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-34.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-34.html"
 ---
 
 The owners of the Riggan collieries held their meeting. That a person in their employ should differ from them boldly, and condemn their course openly, was an extraordinary event; that a young man in the outset of his career should dare so much was unprecedented. It would be a ruinous thing, they said among themselves, for so young a man to lose so important a position on the very threshold of his professional life, and they were convinced that his knowledge of this would restrain him. But they were astounded to find that it did not.

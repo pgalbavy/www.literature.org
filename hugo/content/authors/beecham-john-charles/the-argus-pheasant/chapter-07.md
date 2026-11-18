@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Mynheer Muller Worries"
 weight: 8
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-07.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-07.html"
 ---
 
 Seated in a low-framed rattan chair on the broad veranda of his cottage, Mynheer Hendrik Muller, controlleur, and acting resident of Bulungan, awaited in perspiring impatience the appearance of his military associate, Captain Gerrit Van Slyck.

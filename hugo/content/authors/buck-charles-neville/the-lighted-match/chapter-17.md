@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Benton Calls On The King"
 weight: 17
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-17.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-17.html"
 ---
 
 There were several things to harrow Benton's thoughts aside from the ingenious tortures of memory. Blanco should have arrived at Monte Carlo on the day of their separation. Benton himself had proceeded slowly to Puntal and had now been an isolated guest at the Grand Palace Hotel for two days, yet he had heard nothing from Manuel. Still the man from Cadiz had not been idly cruising. The Isis had duly dropped her anchor in the ultramarine waters where the rock of Monaco juts out like a beckoning finger, and Monte Carlo spreads the marble display of its rococo façades at the feet of the Maritime Alps.

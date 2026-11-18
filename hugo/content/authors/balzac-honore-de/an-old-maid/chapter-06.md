@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Final Disappointment And Its First Result"
 weight: 6
-aliases:
-  - "/authors/balzac-honore-de/an-old-maid/chapter-06.html"
+url: "/authors/balzac-honore-de/an-old-maid/chapter-06.html"
 ---
 
 The next day, Mademoiselle Cormon, packed into the old carriole with Josette, and looking like a pyramid on a vast sea of parcels, drove up the rue Saint-Blaise on her way to Prebaudet, where she was overtaken by an event which hurried on her marriage,--an event entirely unlooked for by either Madame Granson, du Bousquier, Monsieur de Valois, or Mademoiselle Cormon himself. Chance is the greatest of all artificers.

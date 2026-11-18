@@ -1,8 +1,7 @@
 ---
 title: "Chapter 116 - The Pardon"
 weight: 116
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-116.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-116.html"
 ---
 
 The next day Danglars was again hungry; certainly the air of that dungeon was very provocative of appetite. The prisoner expected that he would be at no expense that day, for like an economical man he had concealed half of his fowl and a piece of the bread in the corner of his cell. But he had no sooner eaten than he felt thirsty; he had forgotten that. He struggled against his thirst till his tongue clave to the roof of his mouth; then, no longer able to resist, he called out. The sentinel opened the door; it was a new face. He thought it would be better to transact business with his old acquaintance, so he sent for Peppino. "Here I am, your excellency," said Peppino, with an eagerness which Danglars thought favorable to him. "What do you want?"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/brave-tom/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/brave-tom/chapter-17.html"
 ---
 
 The meeting between Tom Gordon and Jim Travers was one of the most joyous character.

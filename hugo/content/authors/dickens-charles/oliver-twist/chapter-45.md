@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - Noah Claypole Is Employed By Fagin On A Secret Mission"
 weight: 45
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-45.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-45.html"
 ---
 
 The old man was up, betimes, next morning, and waited impatiently for the appearance of his new associate, who after a delay that seemed interminable, at length presented himself, and commenced a voracious assault on the breakfast.

@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3"
 weight: 12
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-02-chapter-03.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-02-chapter-03.html"
 ---
 
 The author sent for to court. The queen buys him of his master the farmer, and presents him to the king. He disputes with his majesty’s great scholars. An apartment at court provided for the author. He is in high favour with the queen. He stands up for the honour of his own country. His quarrels with the queen’s dwarf.

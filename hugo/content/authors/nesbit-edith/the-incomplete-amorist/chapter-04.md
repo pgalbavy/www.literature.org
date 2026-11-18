@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Involuntary"
 weight: 4
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-04.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-04.html"
 ---
 
 Six days of sunlight and clear air, of mornings as enchanting as dreams, of dreams as full of magic as May mornings. Then an interminable Sunday hot and sultry, with rolling purple clouds and an evening of thunder and heavy showers. A magenta sunset, a night working, hidden in its own darkness, its own secret purposes, and a Monday morning gray beyond belief, with a soft steady rain.

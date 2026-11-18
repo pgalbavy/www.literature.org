@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 16
-aliases:
-  - "/authors/chambers-robert-w/ailsa-paige/chapter-15.html"
+url: "/authors/chambers-robert-w/ailsa-paige/chapter-15.html"
 ---
 
 Toward the end of June, as Claymore's new provisional brigade of Sykes's division, Fitz John Porter's superb corps d'armee, neared the designated rendezvous, some particularly dirty veteran regiments, bivouacked along the fields, crowded to the roadside, fairly writhing in their scorn and derision.

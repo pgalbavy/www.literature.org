@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Reward For Courage"
 weight: 15
-aliases:
-  - "/authors/ridge-w-pett/mixed-grill/chapter-15.html"
+url: "/authors/ridge-w-pett/mixed-grill/chapter-15.html"
 ---
 
 THE Committee gave Mr. Mayor the time to put on, with the aid of his man, the official garments. One member asked who was looking after Enderby, and the agitated young secretary ran into the largest room in the Town Hall, returned with the satisfactory assurance that the man was seated in the front row, well guarded by friends.

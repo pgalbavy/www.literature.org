@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Enough!"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-15.html"
 ---
 
 "SUCH impudence!" Mrs. Ladybug gasped, as soon as she could speak. "That terrible Jennie Junebug didn't care whether I ever got my breath or not."

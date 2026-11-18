@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-30.html"
+url: "/authors/ellis-edward-sylvester/dewey-and-other-naval-commanders/chapter-30.html"
 ---
 
 The Movement Against Cuba—The Destruction of Cervera's Fleet —Admiral Sampson—Admiral Schley—"Fighting Bob" Evans —Commodore John C. Watson—Commodore John W. Philip —Lieutenant Commander Richard Wainwright.

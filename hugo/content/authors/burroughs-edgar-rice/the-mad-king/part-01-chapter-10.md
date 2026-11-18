@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10 - On The Battlefield"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-mad-king/part-01-chapter-10.html"
 ---
 
 All that night and the following day Barney Custer and his aide rode in search of the missing king.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-12.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-12.html"
 ---
 
 For a while the enemy hesitated to renew the attack. Then a few of them advanced until another shot from the Wizard's revolver made them retreat.

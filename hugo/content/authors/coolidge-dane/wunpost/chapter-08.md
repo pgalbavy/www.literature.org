@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Babes In The Woods"
 weight: 8
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-08.html"
+url: "/authors/coolidge-dane/wunpost/chapter-08.html"
 ---
 
 Ever since David went forth and slew Goliath with his sling, youth has set its puny lance to strike down giants; and history, making much of the hotspurs who won, draws a veil over the striplings who were slain. And yet all who know the stern conditions of life must recognize that youth is a handicap, and if David had but donned the heavy armor of King Saul he too would have gone to his death. But instead he stepped forth untrammeled by its weight, with nothing but a stone and a sling, and because the scoffing giant refused to raise his shield he was struck down by the pebble of a child. But giant Judson Eells was in a baby-killing mood when he invited Wunpost and Wilhelmina to his den; and when they emerged, after signing articles of incorporation, he licked his chops and smiled.

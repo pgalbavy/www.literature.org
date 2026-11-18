@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Vacation Time"
 weight: 23
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-23.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-23.html"
 ---
 
 It was well along in November. And Turkey Proudfoot was feeling fidgetty. Whenever Farmer Green or the hired man stepped into the yard, he started up with a wild look in his eye.

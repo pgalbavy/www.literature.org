@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 22
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-21.html"
 ---
 
 The Army of Glinda the Good looked very grand and imposing when it assembled at daybreak before the palace gates. The uniforms of the girl soldiers were pretty and of gay colors, and their silver-tipped spears were bright and glistening, the long shafts being inlaid with mother-of-pearl. All the officers wore sharp, gleaming swords, and shields edged with peacock- feathers; and it really seemed that no foe could by any possibility defeat such a brilliant army.

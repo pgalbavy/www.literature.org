@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 27"
 weight: 96
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-27.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-27.html"
 ---
 
 "If I'd only the heart to throw up what's been set going . . . such a lot of trouble wasted ...I'd turn my back on the whole business, sell up, go off like Nikolay Ivanovitch ...to hear La Belle Hiline," said the landowner, a pleasant smile lighting up his shrewd old face.

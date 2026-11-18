@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - A Gringo Cinderella"
 weight: 5
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-05.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-05.html"
 ---
 
 "Whether you're here for health, pleasure, or business there ain't a more up-and-comin' town this side o' the Rio than Limasito," Jim Baggott remarked with the air of publicity-promoter as he "set 'em up" for a plump, white-mustached stranger, who had drawn up to the hotel an hour before in an impressive car, and whose equally impressive array of luggage was even then distributed about the best suite the establishment afforded.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-04.html"
 ---
 
 When a few minutes later he went into the back room, he found Aunt Mornin sitting before the big fireplace in which burned a few logs of wood. The light the snapping sticks gave fell full upon her black face, and upon the small bundle upon her spacious knee.

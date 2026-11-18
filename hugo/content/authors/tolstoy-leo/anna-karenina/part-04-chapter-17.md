@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 17"
 weight: 118
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-17.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-17.html"
 ---
 
 Unconsciously going over in his memory the conversations that had taken place during and after dinner, Alexey Alexandrovitch returned to his solitary room. Darya Alexandrovna's words about forgiveness had aroused in him nothing but annoyance. The applicability or non- applicability of the Christian precept to his own case was too difficult a question to be discussed lightly, and this question had long ago been answered by Alexey Alexandrovitch in the negative. Of all that had been said, what stuck most in his memory was the phrase of stupid, good-natured Turovtsin--"ACTED LIKE A MAN, HE DID! CALLED HIM OUT AND SHOT HIM!" Every one had apparently shared this feeling, though from politeness they had not expressed it.

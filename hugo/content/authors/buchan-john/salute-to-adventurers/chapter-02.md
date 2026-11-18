@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Of A High-Handed Lady"
 weight: 3
-aliases:
-  - "/authors/buchan-john/salute-to-adventurers/chapter-02.html"
+url: "/authors/buchan-john/salute-to-adventurers/chapter-02.html"
 ---
 
 The storm died away in the night, and I awoke to a clear, rain-washed world and the chill of an autumn morn. I was as stiff and sore as if I had been whipped, my clothes were sodden and heavy, and not till I had washed my face and hands in the burn and stretched my legs up the hill-side did I feel restored to something of my ordinary briskness.

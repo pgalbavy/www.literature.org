@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - And What Came Of It"
 weight: 9
-aliases:
-  - "/authors/alcott-louisa-may/eight-cousins/chapter-08.html"
+url: "/authors/alcott-louisa-may/eight-cousins/chapter-08.html"
 ---
 
 "Uncle, could you lend me a ninepence? I'll return it as soon as I get my pocket-money," said Rose, coming into the library in a great hurry that evening.

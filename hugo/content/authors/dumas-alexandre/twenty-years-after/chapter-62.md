@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62 - London"
 weight: 62
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-62.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-62.html"
 ---
 
 As soon as the noise of the hoofs was lost in the distance D'Artagnan remounted the bank of the stream and scoured the plain, followed by his three friends, directing their course, as well as they could guess, toward London.

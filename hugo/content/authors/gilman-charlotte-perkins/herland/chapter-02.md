@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Rash Advances"
 weight: 2
-aliases:
-  - "/authors/gilman-charlotte-perkins/herland/chapter-02.html"
+url: "/authors/gilman-charlotte-perkins/herland/chapter-02.html"
 ---
 
 Not more than ten or fifteen miles we judged it from our landing rock to that last village. For all our eagerness we thought it wise to keep to the woods and go carefully.

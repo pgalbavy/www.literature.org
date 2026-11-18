@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/tarkington-booth/alice-adams/chapter-02.html"
+url: "/authors/tarkington-booth/alice-adams/chapter-02.html"
 ---
 
 In fact, the agitation of Mrs. Adams was genuine, but so well under her control that its traces vanished during the three short steps she took to cross the narrow hall between her husband's door and the one opposite. Her expression was matter-of-course, rather than pathetic, as she entered the pretty room where her daughter, half dressed, sat before a dressing-table and played with the reflections of a three-leafed mirror framed in blue enamel. That is, just before the moment of her mother's entrance, Alice had been playing with the mirror's reflections—posturing her arms and her expressions, clasping her hands behind her neck, and tilting back her head to foreshorten the face in a tableau conceived to represent sauciness, then one of smiling weariness, then one of scornful toleration, and all very piquant; but as the door opened she hurriedly resumed the practical, and occupied her hands in the arrangement of her plentiful brownish hair.

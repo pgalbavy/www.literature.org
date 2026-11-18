@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 13 - The Interior Of A Factory"
 weight: 31
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-13.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-02-chapter-13.html"
 ---
 
 Harris and Negoro had told a lie in saying that Mrs. Weldon and little Jack were dead. She, her son, and Cousin Benedict were then in Kazounde.

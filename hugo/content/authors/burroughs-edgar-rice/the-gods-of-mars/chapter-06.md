@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Black Pirates of Barsoom"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-gods-of-mars/chapter-06.html"
 ---
 
 "What is it?" I asked of the girl.

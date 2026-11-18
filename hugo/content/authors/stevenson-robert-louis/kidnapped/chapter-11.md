@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Captain Knuckles Under"
 weight: 12
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-11.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-11.html"
 ---
 
 Alan and I sat down to breakfast about six of the clock. The floor was covered with broken glass and in a horrid mess of blood, which took away my hunger. In all other ways we were in a situation not only agreeable but merry; having ousted the officers from their own cabin, and having at command all the drink in the ship--both wine and spirits--and all the dainty part of what was eatable, such as the pickles and the fine sort of bread. This, of itself, was enough to set us in good humour, but the richest part of it was this, that the two thirstiest men that ever came out of Scotland (Mr. Shuan being dead) were now shut in the fore-part of the ship and condemned to what they hated most--cold water.

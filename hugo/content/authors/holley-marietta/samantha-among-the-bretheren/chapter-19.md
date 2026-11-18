@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/holley-marietta/samantha-among-the-bretheren/chapter-19.html"
+url: "/authors/holley-marietta/samantha-among-the-bretheren/chapter-19.html"
 ---
 
 Couldn't help a-methinkin' to myself several times. It duz seem to me that there hain't a question a-comin' up before that Conference that is harder to tackle than this plasterin' and the conundrum that is up before us Jonesville wimmen how to raise 300 dollars out of nuthin', and to make peace in a meetin' house where anarky is now rainin' down.

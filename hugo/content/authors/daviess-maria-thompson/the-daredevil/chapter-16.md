@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - \"Immediately I Come To You!\""
 weight: 16
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-16.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-16.html"
 ---
 
 And so the time passed until the morning upon which the same railroad train which had brought young Robert Carruthers down into the valley home of his forefathers, arrived with yet another son of France and his secretaries and servants. All were in attendance at the station of arrival, from the Secretary of State, the General Carruthers, who in his large car was to take the Count de Bourdon to the Gouverneur's Mansion for immediate introduction, down to good Cato in a very new gray coat and a quite shiny black hat.

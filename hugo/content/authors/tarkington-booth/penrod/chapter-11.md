@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Fidelity Of A Little Dog"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-11.html"
+url: "/authors/tarkington-booth/penrod/chapter-11.html"
 ---
 
 The returning students, that afternoon, observed that Penrod's desk was vacant—and nothing could have been more impressive than that sinister mere emptiness. The accepted theory was that Penrod had been arrested. How breathtaking, then, the sensation when, at the beginning of the second hour, he strolled—in with inimitable carelessness and, rubbing his eyes, somewhat noticeably in the manner of one who has snatched an hour of much needed sleep, took his place as if nothing in particular had happened. This, at first supposed to be a superhuman exhibition of sheer audacity, became but the more dumfounding when Miss Spence—looking up from her desk—greeted him with a pleasant little nod. Even after school, Penrod gave numerous maddened investigators no relief. All he would consent to say was:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Gathering Up The Ravelled Threads"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-launch-boys-adventures-in-northern-waters/chapter-31.html"
 ---
 
 The records show that not long ago there were a number of post office robberies among the towns and villages in that section of Maine to which some attention has been given in the preceding pages. Not all the guilty parties were captured, but we know of two, or rather three, who were caught in the toils. Two of them, Kit Woodford and Graff Miller, were convicted in the United States Court at Portland, for, to use a common expression, they were caught with the goods on them, and sentenced to long terms in the Atlanta penitentiary. There they are sure to stay for an indefinite time to come, provided they are not soon released on parole, or pardoned on the ground of poor health. Let us hope for better things.

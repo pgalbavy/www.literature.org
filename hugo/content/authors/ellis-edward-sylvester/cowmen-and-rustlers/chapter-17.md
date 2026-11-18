@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Delicate Situation"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-17.html"
 ---
 
 Few men possessed more courage than Fred Whitney, and he was thoroughly aroused.

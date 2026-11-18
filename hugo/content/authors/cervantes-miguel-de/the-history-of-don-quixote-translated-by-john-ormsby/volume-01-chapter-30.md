@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 30 - Which Treats Of Address Displayed By The Fair Dorothea, With Other Matters Pleasant And Amusing"
 weight: 33
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-30.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-30.html"
 ---
 
 The curate had hardly ceased speaking, when Sancho said, "In faith, then, señor licentiate, he who did that deed was my master; and it was not for want of my telling him beforehand and warning him to mind what he was about, and that it was a sin to set them at liberty, as they were all on the march there because they were special scoundrels."

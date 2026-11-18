@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-chessmen-of-mars/chapter-06.html"
 ---
 
 WHAT the creature had told her gave Tara of Helium food for thought. She had been taught that every created thing fulfilled some useful purpose, and she tried conscientiously to discover just what was the rightful place of the kaldane in the universal scheme of things. She knew that it must have its place but what that place was it was beyond her to conceive. She had to give it up. They recalled to her mind a little group of people in Helium who had forsworn the pleasures of life in the pursuit of knowledge. They were rather patronizing in their relations with those whom they thought not so intellectual. They considered themselves quite superior. She smiled at recollection of a remark her father had once made concerning them, to the effect that if one of them ever dropped his egotism and broke it it would take a week to fumigate Helium. Her father liked normal people--people who knew too little and people who knew too much were equally a bore. Tara of Helium was like her father in this respect and like him, too, she was both sane and normal.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Blazing Eyes"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-solomon-owl/chapter-07.html"
 ---
 
 It was some three hours after sunset when Solomon Owl at last reached Farmer Green’s place. All was quiet in the chicken house because the hens and roosters and their families had long since gone to roost. And except for a light that shone through a window, the farmhouse showed not a sign of life.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - At The Court Of Dame Nature"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-03.html"
+url: "/authors/daviess-maria-thompson/rose-of-old-harpeth/chapter-03.html"
 ---
 
 "Well, Rose Mary," said Uncle Tucker as he appeared in the doorway of the milk-house and framed himself against an entrancing, mist-wreathed, sun-up aspect of Sweetbriar with a stretch of Providence Road winding away to the Nob and bending caressingly around red-roofed Providence as it passed over the Ridge, "there are forty-seven new babies out in the barn for you this morning. Better come on over and see 'em!" Uncle Tucker's big eyes were bright with excitement, his gray lavender muffler, which always formed a part of his early morning costume, flew at loose ends, and a rampant, grizzly lock stuck out through the slit in the old gray hat.

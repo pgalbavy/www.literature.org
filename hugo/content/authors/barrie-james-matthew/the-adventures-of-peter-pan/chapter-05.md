@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Island Come True"
 weight: 5
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-05.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-05.html"
 ---
 
 Feeling that Peter was on his way back, the Neverland had again woke into life. We ought to use the pluperfect and say wakened, but woke is better and was always used by Peter.

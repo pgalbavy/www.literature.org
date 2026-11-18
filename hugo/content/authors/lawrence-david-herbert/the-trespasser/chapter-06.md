@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-06.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-06.html"
 ---
 
 Siegmund woke with wonder in the morning. 'It is like the magic tales,' he thought, as he realized where he was; 'and I am transported to a new life, to realize my dream! Fairy-tales are true, after all.'

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Ayesha’s Alchemy"
 weight: 21
-aliases:
-  - "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-20.html"
+url: "/authors/haggard-h-rider/ayesha-the-return-of-she/chapter-20.html"
 ---
 
 It was shortly after this incident of the snow-leopard that one of these demon familiars of Ayesha’s, her infinite ambition, made its formidable appearance. When we had dined with her in the evening, Ayesha’s habit was to discuss plans for our mighty and unending future, that awful inheritance which she had promised to us.

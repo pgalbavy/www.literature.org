@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - An Adventure On The High Road"
 weight: 25
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-25.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-25.html"
 ---
 
 The musketeers rode the whole length of the Faubourg Saint Antoine and of the road to Vincennes, and soon found themselves out of the town, then in a forest and then within sight of a village.

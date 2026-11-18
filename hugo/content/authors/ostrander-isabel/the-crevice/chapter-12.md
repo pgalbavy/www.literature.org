@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Cipher"
 weight: 12
-aliases:
-  - "/authors/ostrander-isabel/the-crevice/chapter-12.html"
+url: "/authors/ostrander-isabel/the-crevice/chapter-12.html"
 ---
 
 It was a haggard, heavy-eyed young man who presented himself at Henry Blaine's office, early the next morning, with his report. The detective made no comment upon his subordinate's changed appearance and manner, but eyed him keenly as with dogged determination Guy Morrow told his story through to the end.

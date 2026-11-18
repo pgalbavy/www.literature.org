@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Only A Rooster"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-17.html"
 ---
 
 Jasper Jay spent several days looking for the great golden bird that Jolly Robin had described. But Jasper couldn't find the wonderful creature anywhere. And he was wondering if it wasn't just a hoax after all, as he had claimed. He had almost decided to give up his search, when he chanced to meet Bennie Barn-Swallow one day. Jasper happened to mention that he was on the lookout for Jolly Robin's strange bird; and Bennie Barn-Swallow said quickly:

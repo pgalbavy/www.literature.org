@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Fire In The Shaft"
 weight: 20
-aliases:
-  - "/authors/greene-homer/burnham-breaker/chapter-20.html"
+url: "/authors/greene-homer/burnham-breaker/chapter-20.html"
 ---
 
 A boy with Ralph's natural courage and spirit could not remain long despondent. Ambition came back to him with the summer days, and hope found an abiding place in his breast once more. It was not, indeed, the old ambition to be rich and learned and famous, nor the hope that he should yet be surrounded with beauty in a home made bright by a mother's love.

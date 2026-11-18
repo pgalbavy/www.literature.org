@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Who Took Old Charlie?"
 weight: 2
-aliases:
-  - "/authors/greene-homer/a-tale-of-the-towpath/chapter-02.html"
+url: "/authors/greene-homer/a-tale-of-the-towpath/chapter-02.html"
 ---
 
 Joe’s errand to the stable on the morning when he went away was not what his sister Jennie supposed. He went there only to say farewell to the horse that had been his friend and companion since he was a little child. He loved “Old Charlie,” and could not go away without caressing him and saying good-by.

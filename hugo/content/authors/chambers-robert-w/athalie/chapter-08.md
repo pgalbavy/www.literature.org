@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/athalie/chapter-08.html"
+url: "/authors/chambers-robert-w/athalie/chapter-08.html"
 ---
 
 Before February had ended C. Bailey, Jr., and Athalie Greensleeve had been to more than one play, had dined and supped together more than once at the Regina.

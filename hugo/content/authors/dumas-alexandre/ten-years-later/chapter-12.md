@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The King And The Lieutenant"
 weight: 12
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-12.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-12.html"
 ---
 
 As soon as the king saw the officer enter, he dismissed his valet de chambre and his gentleman. "Who is on duty to-morrow, monsieur?" asked he.

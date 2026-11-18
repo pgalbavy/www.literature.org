@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 23
-aliases:
-  - "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-22.html"
+url: "/authors/baum-l-frank/the-tin-woodman-of-oz/chapter-22.html"
 ---
 
 We may be sure that at this moment our friends were all anxious to see the end of the adventure that had caused them so many trials and troubles. Perhaps the Tin Woodman's heart did not beat any faster, because it was made of red velvet and stuffed with sawdust, and the Tin Soldier's heart was made of tin and reposed in his tin bosom without a hint of emotion. However, there is little doubt that they both knew that a critical moment in their lives had arrived, and that Nimmie Amee's decision was destined to influence the future of one or the other.

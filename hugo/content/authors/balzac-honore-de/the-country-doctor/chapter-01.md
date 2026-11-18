@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Countryside And The Man"
 weight: 1
-aliases:
-  - "/authors/balzac-honore-de/the-country-doctor/chapter-01.html"
+url: "/authors/balzac-honore-de/the-country-doctor/chapter-01.html"
 ---
 
 On a lovely spring morning in the year 1829, a man of fifty or thereabouts was wending his way on horseback along the mountain road that leads to a large village near the Grande Chartreuse. This village is the market town of a populous canton that lies within the limits of a valley of some considerable length. The melting of the snows had filled the boulder-strewn bed of the torrent (often dry) that flows through this valley, which is closely shut in between two parallel mountain barriers, above which the peaks of Savoy and of Dauphine tower on every side.

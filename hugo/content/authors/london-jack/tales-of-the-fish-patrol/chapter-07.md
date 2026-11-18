@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Yellow Handkerchief"
 weight: 7
-aliases:
-  - "/authors/london-jack/tales-of-the-fish-patrol/chapter-07.html"
+url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-07.html"
 ---
 
 "I'm not wanting to dictate to you, lad," Charley said; "but I'm very much against your making a last raid. You've gone safely through rough times with rough men, and it would be a shame to have something happen to you at the very end."

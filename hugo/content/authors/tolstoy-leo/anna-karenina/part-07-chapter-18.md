@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 18"
 weight: 207
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-18.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-18.html"
 ---
 
 "Now there is something I want to talk about, and you know what it is. About Anna," Stepan Arkadyevitch said, pausing for a brief space, and shaking off the unpleasant impression.

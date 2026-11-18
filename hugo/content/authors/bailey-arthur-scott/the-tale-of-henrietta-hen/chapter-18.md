@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - In Need Of Advice"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-18.html"
 ---
 
 Something was troubling Henrietta Hen. She seemed to have some secret sorrow. No longer did she move with her well-known queenly manner among her neighbors in the farmyard. Instead, she spent a good deal of her time moping. And no one could guess the reason. She didn't even care to talk to anybody--not even to boast about her fine, speckled coat. And that certainly was not in the least like Henrietta Hen.

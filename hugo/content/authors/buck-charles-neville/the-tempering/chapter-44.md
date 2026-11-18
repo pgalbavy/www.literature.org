@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-44.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-44.html"
 ---
 
 Uncle Billy Taulbee's store had stood for a half century in the shade of mighty sycamores, where a trickle of water glinted over pebble and shale, worn hub-deep into wheel-ruts. Except when the spring thaws carried a tawny flood up almost to the edge of his doorstep and the "tide" had right of way, that creek bed and the sandy lane angling across it constituted the junction of the Smoky Hollow Road and that debouching over to "The left hand fork of Nighway Creek." Roundabout it were streamlets with pools where, in season, the mountain trout leaped and darted in shimmering flashes, and to the store one summer noon came two hungry fishermen from the lowlands. They sat on cracker boxes, eating canned peaches and "Vienny" sausages, encouraging the keen-eyed old storekeeper to talk and plying him with questions as to what his coal royalties had run to on this tract and what on that, in the space of the past few years. With neither boast nor evasion, the old man answered them.

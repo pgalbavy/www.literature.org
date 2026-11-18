@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - An Afterthought"
 weight: 17
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-17.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-17.html"
 ---
 
 It was part of the violent nature of Rimrock that his wrath fell upon both the just and the unjust. Mary Fortune had worsted him in their passage at arms and left him bruised from head to heels. She had simply let him come on and at every bludgeon stroke she had replied with a rapier thrust. Without saying a word against the character of Mrs. Hardesty she had conveyed the thought that she was an adventuress; or, if not exactly that, then something less than a lady. And the sure way in which she had reached for that book was proof positive that the stock was not recorded. But the thing that maddened him most, and against which there was no known defense, was her subtle implication that Mrs. Hardesty was at the bottom of his plan to go East. And so, with the fury still hot in his brain, he made poor company on the road to the Tecolote.

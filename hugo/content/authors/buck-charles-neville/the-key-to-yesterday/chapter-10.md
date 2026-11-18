@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/buck-charles-neville/the-key-to-yesterday/chapter-10.html"
+url: "/authors/buck-charles-neville/the-key-to-yesterday/chapter-10.html"
 ---
 
 At the Palace, the Americans were separated. Saxon was ushered into a small room, barely furnished. Its one window was barred, and the one door that penetrated its thick wall was locked from the outside. It seemed incredible that under such stimulus his memory should remain torpid. This must be an absolute echo from the past--yet, he could not remember. But Rodman remembered--and evidently the government remembered.

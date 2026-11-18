@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - Devoted Servants--And The Light Of A Flare"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/chance/part-02-chapter-03.html"
+url: "/authors/conrad-joseph/chance/part-02-chapter-03.html"
 ---
 
 Young Powell thought to himself: "The men, too, are noticing it." Indeed, the captain's behaviour to his wife and to his wife's father was noticeable enough. It was as if they had been a pair of not very congenial passengers. But perhaps it was not always like that. The captain might have been put out by something.

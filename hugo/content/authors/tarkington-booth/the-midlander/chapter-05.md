@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-05.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-05.html"
 ---
 
 *DAN* walked home from his grandmother’s with the wind blowing a fine snow against his chest, within which something seemed to be displaced and painful. Higher up, under the cold sleek band of his tall hat, there was a stricken puzzlement; and no doubt he was in hard case. For a young lover rebuffed upon speaking of his sweetheart is like a fine artist who has made some fragile, exquisite thing and offers it confidently in tender pride, only to see it buffeted and misprized. To Dan it seemed as though Lena herself had been injuriously mishandled, whereas the injury fell really upon something much more delicate; the lovely image he had made for himself and thought was Lena—an angelic substance most different from the substance of that "little brunette" herself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-18.html"
+url: "/authors/jones-susan-carleton/a-girl-of-the-north/chapter-18.html"
 ---
 
 SHELTON cannot be described; it lay along the river, near heavenly back waters, where reeds rustled, and the rushes sighed softly, and it was within reach of the woods.

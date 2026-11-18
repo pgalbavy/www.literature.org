@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Consultation"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/cowmen-and-rustlers/chapter-13.html"
 ---
 
 That mysterious warm-air current known as the Chinook wind steals through the depressions of the Rocky Mountains, at certain seasons of the year, from the mild surface of the Pacific, and tempers the severity of the winters in some portions of Montana, Wyoming, and the great West to a degree that renders them milder than many places farther south.

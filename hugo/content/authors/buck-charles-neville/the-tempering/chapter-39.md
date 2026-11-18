@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39"
 weight: 39
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-39.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-39.html"
 ---
 
 As Anne Masters stood in the narrow doorway of the room where lay the dead body of "Little" Jim Bartleton, she seemed to lose her hold on modernity and to stand a hostage to the forces and emotions of the mediaeval.

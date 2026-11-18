@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-35.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-35.html"
 ---
 
 Mr. Fentolin, arrived outside on the stone front of the boat-house, pointed the wheel of his chair towards the Hall. Hannah Cox, who kept by his side, however, drew it gently towards the beach.

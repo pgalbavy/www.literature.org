@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - An Unexpected Interview"
 weight: 26
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-26.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-26.html"
 ---
 
 Having turned his back on his pursuers, Deerfoot gave them no further attention. His purpose now was to defend Jack Carleton and Otto Relstaub from the two red men in pursuit.

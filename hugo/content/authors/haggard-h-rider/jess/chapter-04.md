@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Bessie Is Asked In Marriage"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-04.html"
+url: "/authors/haggard-h-rider/jess/chapter-04.html"
 ---
 
 In due course John Niel recovered from his sprained ankle and the other injuries inflicted on him by the infuriated cock ostrich (it is, by the way, a humiliating thing to be knocked out of time by a feathered fowl), and set to work to learn the routine of farm life. He did not find this a disagreeable task, especially when he had so fair an instructress as Bessie, who knew all about it, to show him the way in which he should go. Naturally of an energetic and hard-working temperament, he very soon fell more or less into the swing of the thing, and at the end of six weeks began to talk quite learnedly of cattle and ostriches and sweet and sour veldt. About once a week or so Bessie used to put him through a regular examination as to his progress; also she gave him lessons in Dutch and Zulu, both of which tongues she spoke to perfection; so it will be seen that John did not lack for pleasant and profitable employment. Also, as time went on he grew much attached to Silas Croft. The old gentleman, with his handsome, honest face, his large and varied stock of experience and his sturdy English character, made a great impression on his mind. He had never met a man quite like him before. Nor was this friendship unreciprocated, for his host took a wonderful fancy to John Niel.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-17.html"
+url: "/authors/lawrence-david-herbert/lady-chatterleys-lover/chapter-17.html"
 ---
 
 'You see, Hilda,' said Connie after lunch, when they were nearing London, 'you have never known either real tenderness or real sensuality: and if you do know them, with the same person, it makes a great difference.'

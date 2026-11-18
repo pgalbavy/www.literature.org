@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Little Grated Window"
 weight: 15
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-15.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-15.html"
 ---
 
 Gryphus was followed by the mastiff.

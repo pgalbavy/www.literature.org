@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-17.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-17.html"
 ---
 
 When the adventurers reassembled upon the roof it was found that a remarkably queer assortment of articles had been selected by the various members of the party. No one seemed to have a very clear idea of what was required, but all had brought something.

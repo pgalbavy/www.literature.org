@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Expedition"
 weight: 21
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-21.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-21.html"
 ---
 
 It was a cheerless morning when they got into the street; blowing and raining hard; and the clouds looking dull and stormy. The night had been very wet: large pools of water had collected in the road: and the kennels were overflowing. There was a faint glimmering of the coming day in the sky; but it rather aggravated than relieved the gloom of the scene: the sombre light only serving to pale that which the street lamps afforded, without shedding any warmer or brighter tints upon the wet house-tops, and dreary streets. There appeared to be nobody stirring in that quarter of the town; the windows of the houses were all closely shut; and the streets through which they passed, were noiseless and empty.

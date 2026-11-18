@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Rock Of Gibraltar"
 weight: 1
-aliases:
-  - "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-01.html"
+url: "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-01.html"
 ---
 
 [Illustration: Gibraltar]

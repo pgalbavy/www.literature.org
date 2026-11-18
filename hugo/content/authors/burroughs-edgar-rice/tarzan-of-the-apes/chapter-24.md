@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Lost Treasure"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-24.html"
 ---
 
 When the expedition returned, following their fruitless endeavor to succor D'Arnot, Captain Dufranne was anxious to steam away as quickly as possible, and all save Jane had acquiesced.

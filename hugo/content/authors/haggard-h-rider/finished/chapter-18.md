@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Isandhlwana"
 weight: 19
-aliases:
-  - "/authors/haggard-h-rider/finished/chapter-18.html"
+url: "/authors/haggard-h-rider/finished/chapter-18.html"
 ---
 
 We had crossed the Tugela by what is known as the Middle Drift. A mile or so on the further side of it I was challenged by a young fellow in charge of some mounted natives, and found that I had stumbled into what was known as No. 2 Column, which consisted of a rocket battery, three battalions of the Native Contingent and some troops of mounted natives, all under the command of Colonel Durnford, R.E.

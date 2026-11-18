@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Fatty Learns Something About Eggs"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-fatty-coon/chapter-02.html"
 ---
 
 When Fatty Coon started off alone to find something more to eat, after finishing the fish that his mother had brought home for him, he did not know that he was going to have an adventure. He nosed about among the bushes and the tall grasses and caught a few bugs and a frog or two. But he didn't think that THAT was much. He didn't seem to have much luck, down on the ground. So he climbed a tall hemlock, to see if he could find a squirrel's nest, or some bird's eggs.

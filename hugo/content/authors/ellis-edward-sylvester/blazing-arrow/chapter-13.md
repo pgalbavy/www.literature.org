@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Blunder"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/blazing-arrow/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/blazing-arrow/chapter-13.html"
 ---
 
 Blazing Arrow possessed the subtlety of a serpent and the cunning of a fox. Underneath his actions lay his unextinguishable hatred of the white race. His anger against it seemed always to be flaming at white heat.

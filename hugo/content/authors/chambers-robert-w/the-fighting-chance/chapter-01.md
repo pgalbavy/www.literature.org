@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Acquaintance"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/the-fighting-chance/chapter-01.html"
+url: "/authors/chambers-robert-w/the-fighting-chance/chapter-01.html"
 ---
 
 The speed of the train slackened; a broad tidal river flashed into sight below the trestle, spreading away on either hand through yellowing level meadows. And now, above the roaring undertone of the cars, from far ahead floated back the treble bell-notes of the locomotive; there came a gritting vibration of brakes; slowly, more slowly the cars glided to a creaking standstill beside a sun-scorched platform gay with the bright flutter of sunshades and summer gowns.

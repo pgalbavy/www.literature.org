@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-12.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-12.html"
 ---
 
 In a hall of irregular shape sat Pete and Maggie drinking beer. A submissive orchestra dictated to by a spectacled man with frowsy hair and a dress suit, industriously followed the bobs of his head and the waves of his baton. A ballad singer, in a dress of flaming scarlet, sang in the inevitable voice of brass. When she vanished, men seated at the tables near the front applauded loudly, pounding the polished wood with their beer glasses. She returned attired in less gown, and sang again. She received another enthusiastic encore. She reappeared in still less gown and danced. The deafening rumble of glasses and clapping of hands that followed her exit indicated an overwhelming desire to have her come on for the fourth time, but the curiosity of the audience was not gratified.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/hodgson-burnett-frances/through-one-administration/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/through-one-administration/chapter-06.html"
 ---
 
 When Tredennis found himself standing out in the street, half an hour later, it was this picture which remained in his mind, and no other. If an effort had been required to retain the impression upon his mental retina he would have made the effort with the deliberate intention of excluding all else; but no effort was needed.

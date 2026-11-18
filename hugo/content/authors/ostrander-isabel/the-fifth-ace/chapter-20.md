@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Winnie Mason Stands By"
 weight: 20
-aliases:
-  - "/authors/ostrander-isabel/the-fifth-ace/chapter-20.html"
+url: "/authors/ostrander-isabel/the-fifth-ace/chapter-20.html"
 ---
 
 "I say, hello there! Wait a minute, Kearn!" Winnie Mason called as he brought his roadster to a halt with a sudden grinding of brakes. It was two days later and a cutting east wind skirled about the driveway of the Park, rattling the naked branches of the trees like the fleshless arms of a legion of skeletons.

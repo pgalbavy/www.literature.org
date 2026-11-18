@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Villette"
 weight: 7
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-07.html"
+url: "/authors/bronte-charlotte/villette/chapter-07.html"
 ---
 
 I awoke next morning with courage revived and spirits refreshed: physical debility no longer enervated my judgment; my mind felt prompt and clear.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-aliases:
-  - "/authors/tarkington-booth/the-flirt/chapter-18.html"
+url: "/authors/tarkington-booth/the-flirt/chapter-18.html"
 ---
 
 Mrs. Lindley had arranged for her son a small apartment on the second floor, and it was in his own library and smoking-room that Richard, comfortable in a leather-chair by a reading-lamp, after dinner, opened Laura's ledger.

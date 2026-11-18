@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Calls"
 weight: 29
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-29.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-29.html"
 ---
 
 "Come, Jo, it's time."

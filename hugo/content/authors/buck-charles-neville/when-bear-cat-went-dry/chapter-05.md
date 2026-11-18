@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-05.html"
+url: "/authors/buck-charles-neville/when-bear-cat-went-dry/chapter-05.html"
 ---
 
 Jerry Henderson had lost his way.

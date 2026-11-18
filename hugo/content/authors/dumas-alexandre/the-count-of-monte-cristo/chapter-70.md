@@ -1,8 +1,7 @@
 ---
 title: "Chapter 70 - The Ball"
 weight: 70
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-70.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-70.html"
 ---
 
 It was in the warmest days of July, when in due course of time the Saturday arrived upon which the ball was to take place at M. de Morcerf's. It was ten o'clock at night; the branches of the great trees in the garden of the count's house stood out boldly against the azure canopy of heaven, which was studded with golden stars, but where the last fleeting clouds of a vanishing storm yet lingered. From the apartments on the ground-floor might be heard the sound of music, with the whirl of the waltz and galop, while brilliant streams of light shone through the openings of the Venetian blinds. At this moment the garden was only occupied by about ten servants, who had just received orders from their mistress to prepare the supper, the serenity of the weather continuing to increase. Until now, it had been undecided whether the supper should take place in the dining-room, or under a long tent erected on the lawn, but the beautiful blue sky, studded with stars, had settled the question in favor of the lawn. The gardens were illuminated with colored lanterns, according to the Italian custom, and, as is usual in countries where the luxuries of the table - the rarest of all luxuries in their complete form - are well understood, the supper-table was loaded with wax-lights and flowers.

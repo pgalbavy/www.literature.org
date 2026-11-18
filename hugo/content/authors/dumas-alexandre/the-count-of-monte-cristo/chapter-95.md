@@ -1,8 +1,7 @@
 ---
 title: "Chapter 95 - Father And Daughter"
 weight: 95
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-95.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-95.html"
 ---
 
 We saw in a preceding chapter how Madame Danglars went formally to announce to Madame de Villefort the approaching marriage of Eugenie Danglars and M. Andrea Cavalcanti. This announcement, which implied or appeared to imply, the approval of all the persons concerned in this momentous affair, had been preceded by a scene to which our readers must be admitted. We beg them to take one step backward, and to transport themselves, the morning of that day of great catastrophes, into the showy, gilded salon we have before shown them, and which was the pride of its owner, Baron Danglars. In this room, at about ten o'clock in the morning, the banker himself had been walking to and fro for some minutes thoughtfully and in evident uneasiness, watching both doors, and listening to every sound. When his patience was exhausted, he called his valet. "Etienne," said he, "see why Mademoiselle Eugenie has asked me to meet her in the drawing-room, and why she makes me wait so long."

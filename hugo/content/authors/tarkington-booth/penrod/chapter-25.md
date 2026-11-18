@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - Tar"
 weight: 25
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-25.html"
+url: "/authors/tarkington-booth/penrod/chapter-25.html"
 ---
 
 When Marjorie and Mitchy-Mitch got their breath, they used it vocally; and seldom have more penetrating sounds issued from human throats. Coincidentally, Marjorie, quite baresark, laid hands upon the largest stick within reach and fell upon Penrod with blind fury. He had the presence of mind to flee, and they went round and round the caldron, while Mitchy-Mitch feebly endeavoured to follow—his appearance, in this pursuit, being pathetically like that of a bug fished out of an ink-well, alive but discouraged.

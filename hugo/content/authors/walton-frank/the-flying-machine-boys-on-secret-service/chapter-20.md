@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Secret Hiding-Place"
 weight: 20
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-20.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-20.html"
 ---
 
 When the two machines reached the camp they found Mr. Havens very anxious over the long delay.

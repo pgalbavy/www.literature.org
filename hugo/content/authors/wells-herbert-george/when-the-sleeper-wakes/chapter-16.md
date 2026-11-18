@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - The Aerophile"
 weight: 16
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-16.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-16.html"
 ---
 
 For a while, as Graham went through the passages of the Wind-Vane offices with Lincoln, he was preoccupied. But, by an effort, he attended to the things which Lincoln was saying. Soon his preoccupation vanished. Lincoln was talking of flying. Graham had a strong desire to know more of this new human attainment. He began to ply Lincoln with questions. He had followed the crude beginnings of aerial navigation very keenly in his previous life; he was delighted to find the familiar names of Maxim and Pilcher, Langley and Chanute, and, above all, of the aerial proto-martyr Lillienthal, still honoured by men.

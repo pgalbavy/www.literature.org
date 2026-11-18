@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 4"
 weight: 4
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-04.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-04.html"
 ---
 
 When Jane and Elizabeth were alone, the former, who had been cautious in her praise of Mr. Bingley before, expressed to her sister how very much she admired him.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 34 - A Queen's Girl"
 weight: 34
-aliases:
-  - "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-34.html"
+url: "/authors/montgomery-lucy-maud/anne-of-green-gables/chapter-34.html"
 ---
 
 The next three weeks were busy ones at Green Gables, for Anne was getting ready to go to Queen's, and there was much sewing to be done, and many things to be talked over and arranged. Anne's outfit was ample and pretty, for Matthew saw to that, and Marilla for once made no objections whatever to anything he purchased or suggested. More-- one evening she went up to the east gable with her arms full of a delicate pale green material.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Joan Lackland"
 weight: 4
-aliases:
-  - "/authors/london-jack/adventure/chapter-04.html"
+url: "/authors/london-jack/adventure/chapter-04.html"
 ---
 
 By the second day of the northwester, Sheldon was in collapse from his fever. It had taken an unfair advantage of his weak state, and though it was only ordinary malarial fever, in forty-eight hours it had run him as low as ten days of fever would have done when he was in condition. But the dysentery had been swept away from Berande. A score of convalescents lingered in the hospital, but they were improving hourly. There had been but one more death--that of the man whose brother had wailed over him instead of brushing the flies away.

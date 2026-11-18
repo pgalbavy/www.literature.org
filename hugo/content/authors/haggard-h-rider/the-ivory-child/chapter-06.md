@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Bona Fide Gold Mine"
 weight: 6
-aliases:
-  - "/authors/haggard-h-rider/the-ivory-child/chapter-06.html"
+url: "/authors/haggard-h-rider/the-ivory-child/chapter-06.html"
 ---
 
 Fully two years had gone by since I bade farewell to Lord Ragnall and Miss Holmes, and when the curtain draws up again behold me seated on the stoep of my little house at Durban, plunged in reflection and very sad indeed. Why I was sad I will explain presently.

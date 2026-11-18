@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - How Sir Nigel Wrote To Twynham Castle"
 weight: 25
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-25.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-25.html"
 ---
 
 ON the morning after the jousting, when Alleyne Edricson went, as was his custom, into his master's chamber to wait upon him in his dressing and to curl his hair, he found him already up and very busily at work. He sat at a table by the window, a deerhound on one side of him and a lurcher on the other, his feet tucked away under the trestle on which he sat, and his tongue in his cheek, with the air of a man who is much perplexed. A sheet of vellum lay upon the board in front of him, and he held a pen in his hand, with which he had been scribbling in a rude schoolboy hand. So many were the blots, however, and so numerous the scratches and erasures, that he had at last given it up in despair, and sat with his single uncovered eye cocked upwards at the ceiling, as one who waits upon inspiration.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - A Short Term In Jail"
 weight: 19
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-19.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-19.html"
 ---
 
 If the truth must be told, both Ben and Carl experienced a sudden lifting of the hair as the Ann and the Bertha plunged toward the precipice hanging below the summit. It seemed for a time as if the wheels would never lift, but finally, at the last instant, they did so, and the level surface of rock was left below. The Japs who had been so neatly tricked seemed to the boys to be running around in circles and shooting useless bullets into the air up to the time the flying machine to which they had beckoned reached their side.

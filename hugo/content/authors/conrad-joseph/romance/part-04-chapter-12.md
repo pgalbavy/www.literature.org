@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 12"
 weight: 30
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-12.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-12.html"
 ---
 
 Not a soul stirred in the one long street of the negro village. The yellow crescent of the diminished moon swam low in the pearly light of the dawn; and the bamboo walls of huts, thatched with palm leaves, glistened here and there through the great leaves of bananas. All that night we had been moving on and on, slowly crossing clear *savannas*, in which nothing stirred beside ourselves but the escort of our own shadows, or plunging through dense patches of forest of an obscurity so impenetrable that the very forms of our rescuers became lost to us, though we heard their low voices and felt their hands steadying us in our saddles. Then our horses paced softly on the dust of a road, while athwart an avenue of orange trees whose foliage seemed as black as coal, the blind walls of the *hacienda* shone dead white like a vision of mists. A Brazilian aloe flowered by the side of the gate; we drooped in our saddles; and the heavy knocks against the wooden portal seemed to go on without cause, and stop without reason, like a sound heard in a dream. We entered Seraphina's *hacienda*. The high walls inclosed a square court deep as the yard of a prison, with flat-roofed buildings all around. It rang with many voices suddenly. Every moment the daylight increased; young négresses in loose gowns ran here and there, cackling like chased hens, and a fat woman waddled out from under the shadow of a veranda.

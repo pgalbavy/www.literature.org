@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-01.html"
+url: "/authors/hodgson-burnett-frances/in-connection-with-the-de-willoughby-claim/chapter-01.html"
 ---
 
 High noon at Talbot's Cross-roads, with the mercury standing at ninety-eight in the shade--though there was not much shade worth mentioning in the immediate vicinity of the Cross-roads post-office, about which, upon the occasion referred to, the few human beings within sight and sound were congregated. There were trees enough a few hundred yards away, but the post-office stood boldly and unflinchingly in the blazing sun. The roads crossing each other stretched themselves as far as the eye could follow them, the red clay transformed into red dust which even an ordinarily lively imagination might have fancied was red hot. The shrill, rattling cry of the grasshoppers, hidden in the long yellow sedge-grass and drouth-smitten corn, pierced the stillness now and then with a suddenness startling each time it broke forth, because the interval between each of the pipings was given by the hearers to drowsiness or heated unconscious naps.

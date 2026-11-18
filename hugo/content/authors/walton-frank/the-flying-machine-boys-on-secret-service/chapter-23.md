@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - Arrests Are Made"
 weight: 23
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-23.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-23.html"
 ---
 
 There was a tremendous din in the cavern as the bear shot out of the opening. The wailing of the cubs at the rear, the volley of rifle shots at the front, and the smell of powder smoke confused Carl for a moment. Then he crept forward to the entrance, almost entirely concealed by the smoke, and looked out into the brilliant sunlight.

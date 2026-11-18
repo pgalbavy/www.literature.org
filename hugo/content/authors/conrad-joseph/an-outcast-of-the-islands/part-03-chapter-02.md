@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 2"
 weight: 16
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-02.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-03-chapter-02.html"
 ---
 
 After a long silence, during which Almayer had moved towards the table and sat down, his head between his hands, staring straight before him, Lingard, who had recommenced walking, cleared his throat and said—

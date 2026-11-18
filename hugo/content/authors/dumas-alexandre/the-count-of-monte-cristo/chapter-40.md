@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - The Breakfast"
 weight: 40
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-40.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-40.html"
 ---
 
 "And what sort of persons do you expect to breakfast?" said Beauchamp.

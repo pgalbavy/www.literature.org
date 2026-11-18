@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Harvesting"
 weight: 9
-aliases:
-  - "/authors/grahame-kenneth/the-golden-age/chapter-08.html"
+url: "/authors/grahame-kenneth/the-golden-age/chapter-08.html"
 ---
 
 THE year was in its yellowing time, and the face of Nature a study in old gold. ‘A field or, semée with garbs of the same:’ it may be false Heraldry—Nature’s generally is—but it correctly blazons the display that Edward and I considered from the rickyard gate. Harold was not on in this scene, being stretched upon the couch of pain: the special disorder stomachic, as usual. The evening before, Edward, in a fit of unwonted amiability, had deigned to carve me out a turnip lantern, an art-and-craft he was peculiarly deft in; and Harold, as the interior of the turnip flew out in scented fragments under the hollowing knife, had eaten largely thereof: regarding all such jetsam as his special perquisite. Now he was dreeing his weird, with such assistance as the chemist could afford. But Edward and I, knowing that this particular field was to be carried to-day, were revelling in the privilege of riding in the empty waggons from the rickyard back to the sheaves, whence we returned toilfully on foot, to career it again over the billowy acres in these great galleys of a stubble sea. It was the nearest approach to sailing that we inland urchins might compass: and hence it ensued, that such stirring scenes as Sir Richard Grenville on the Revenge, the smoke-wreathed Battle of the Nile, and the Death of Nelson, had all been enacted in turn on these dusty quarter-decks, as they swayed and bumped afield.

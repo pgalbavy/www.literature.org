@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 17
-aliases:
-  - "/authors/london-jack/burning-daylight/part-02-chapter-04.html"
+url: "/authors/london-jack/burning-daylight/part-02-chapter-04.html"
 ---
 
 Back in San Francisco, Daylight quickly added to his reputation In ways it was not an enviable reputation. Men were afraid of him. He became known as a fighter, a fiend, a tiger. His play was a ripping and smashing one, and no one knew where or how his next blow would fall. The element of surprise was large. He balked on the unexpected, and, fresh from the wild North, his mind not operating in stereotyped channels, he was able in unusual degree to devise new tricks and stratagems. And once he won the advantage, he pressed it remorselessly. "As relentless as a Red Indian," was said of him, and it was said truly.

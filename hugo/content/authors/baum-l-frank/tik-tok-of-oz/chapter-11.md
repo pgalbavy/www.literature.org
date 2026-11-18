@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/baum-l-frank/tik-tok-of-oz/chapter-11.html"
+url: "/authors/baum-l-frank/tik-tok-of-oz/chapter-11.html"
 ---
 
 After a short walk through very beautiful gardens they came to the castle and followed Tubekins through the entrance and into a great domed chamber, where he commanded them to be seated.

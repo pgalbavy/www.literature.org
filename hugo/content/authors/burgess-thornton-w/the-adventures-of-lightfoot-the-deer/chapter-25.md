@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Hunter Lies In Wait"
 weight: 25
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-25.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-25.html"
 ---
 
 If ever there was an angry hunter, it was the one who had followed Lightfoot the Deer across the Big River. When he was ordered to get off the land where Lightfoot had climbed out, he got back into his boat, but he didn't row back to the other side. Instead, he rowed down the river, finally landing on the same side but on land which Lightfoot's friend did not own.

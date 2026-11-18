@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Seeing Life"
 weight: 10
-aliases:
-  - "/authors/nesbit-edith/the-incomplete-amorist/chapter-10.html"
+url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-10.html"
 ---
 
 The thoughts of the two who loved her were with Betty that night. The aunt, shaken, jolted, enduring much in the Paris, Lyons and Mediterranean express thought fondly of her.

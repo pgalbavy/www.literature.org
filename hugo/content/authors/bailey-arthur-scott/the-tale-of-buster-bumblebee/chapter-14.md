@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Bad News"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-14.html"
 ---
 
 It is not surprising that the Carpenter's answer failed to satisfy Buster Bumblebee.

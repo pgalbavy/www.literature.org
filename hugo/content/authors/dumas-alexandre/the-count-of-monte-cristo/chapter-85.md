@@ -1,8 +1,7 @@
 ---
 title: "Chapter 85 - The Journey"
 weight: 85
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-85.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-85.html"
 ---
 
 Monte Cristo uttered a joyful exclamation on seeing the young men together. "Ah, ha!" said he, "I hope all is over, explained and settled."

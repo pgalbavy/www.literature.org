@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-02.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-02.html"
 ---
 
 As they entered they saw Dorian Gray. He was seated at the piano, with his back to them, turning over the pages of a volume of Schumann's "Forest Scenes." "You must lend me these, Basil," he cried. "I want to learn them. They are perfectly charming."

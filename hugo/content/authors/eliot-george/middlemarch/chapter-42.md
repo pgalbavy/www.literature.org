@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-42.html"
+url: "/authors/eliot-george/middlemarch/chapter-42.html"
 ---
 
 "How much, methinks, I could despise this man Were I not bound in charity against it! - SHAKESPEARE: Henry VIII.

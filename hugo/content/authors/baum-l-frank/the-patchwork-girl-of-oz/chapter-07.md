@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-07.html"
 ---
 
 When the boy opened his eyes next morning he looked carefully around the room. These small Munchkin houses seldom had more than one room in them. That in which Ojo now found himself had three beds, set all in a row on one side of it. The Glass Cat lay asleep on one bed, Ojo was in the second, and the third was neatly made up and smoothed for the day. On the other side of the room was a round table on which breakfast was already placed, smoking hot. Only one chair was drawn up to the table, where a place was set for one person. No one seemed to be in the room except the boy and Bungle.

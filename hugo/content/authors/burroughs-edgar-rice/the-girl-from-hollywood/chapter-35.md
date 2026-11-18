@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-35.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-35.html"
 ---
 
 Eva was still breathing faintly as the sun dropped behind the western hills. Shannon had not left the house all day. She felt that Custer needed her, that they all needed her, however little she could do to mitigate their grief. There was at least a sense of sharing their burden, and her fine sensibilities told her that this service of love was quite as essential as the more practical help that she would have been glad to offer had it been within her power.

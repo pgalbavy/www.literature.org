@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 16"
 weight: 16
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-16.html"
 ---
 
 Vronsky had never had a real home life. His mother had been in her youth a brilliant society woman, who had had during her mairried life, and still maore afterwards, many love affairs notorious in the whole fashionable world. His father he scarcely remembered, and he had been educated in the Corps of Pages.

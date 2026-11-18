@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-24.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-24.html"
 ---
 
 When Helena arrived home on the Thursday evening she found everything repulsive. All the odours of the sordid street through which she must pass hung about the pavement, having crept out in the heat. The house was bare and narrow. She remembered children sometimes to have brought her moths shut up in matchboxes. As she knocked at the door she felt like a numbed moth which a boy is pushing off its leaf-rest into his box.

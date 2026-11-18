@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/glinda-of-oz/chapter-18.html"
+url: "/authors/baum-l-frank/glinda-of-oz/chapter-18.html"
 ---
 
 We must now return to Ervic the Skeezer, who, when he had set down the copper kettle containing the three fishes at the gate of the lonely cottage, had asked, "What next?"

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1"
 weight: 21
-aliases:
-  - "/authors/cather-willa/my-antonia/book-02-chapter-01.html"
+url: "/authors/cather-willa/my-antonia/book-02-chapter-01.html"
 ---
 
 I HAD BEEN LIVING with my grandfather for nearly three years when he decided to move to Black Hawk. He and grandmother were getting old for the heavy work of a farm, and as I was now thirteen they thought I ought to be going to school. Accordingly our homestead was rented to ‘that good woman, the Widow Steavens,’ and her bachelor brother, and we bought Preacher White’s house, at the north end of Black Hawk. This was the first town house one passed driving in from the farm, a landmark which told country people their long ride was over.

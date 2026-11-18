@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-16.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-16.html"
 ---
 
 Stuart Farquaharson's first impulse upon finding his surprise for the meeting unshared, was an astonishment at Marian herself. Unless some great urgency existed for an immediate return to the States he supposed that she would have avoided sailing with him.

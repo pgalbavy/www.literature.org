@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/ramsey-milholland/chapter-05.html"
+url: "/authors/tarkington-booth/ramsey-milholland/chapter-05.html"
 ---
 
 With Wesley Bender, Ramsey was again upon fair terms before the winter had run its course; the two were neighbours and, moreover, were drawn together by a community of interests which made their reconciliation a necessity. Ramsey played the guitar and Wesley played the mandolin.

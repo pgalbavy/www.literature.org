@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Lady Theobald"
 weight: 4
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-04.html"
 ---
 
 "Oh, dear!" she exclaimed nervously, "there is Lady Theobald."

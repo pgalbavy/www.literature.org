@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - In A Curio Shop In Stamboul"
 weight: 26
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-26.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-26.html"
 ---
 
 The muezzin had called the devout to their prayer-rugs for the third time that day, when the girl and the two men turned from the Stamboul end of Galata Bridge into the tawdry confusion of buildings which cluster about the Mosque Yeni-Djami. They were bound for the bazaars.

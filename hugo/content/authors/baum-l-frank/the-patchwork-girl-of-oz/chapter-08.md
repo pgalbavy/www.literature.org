@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-08.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-08.html"
 ---
 
 On they went, and half an hour's steady walking brought them to a house somewhat better than the two they had already passed. It stood close to the roadside and over the door was a sign that read: "Miss Foolish Owl and Mr. Wise Donkey: Public Advisers."

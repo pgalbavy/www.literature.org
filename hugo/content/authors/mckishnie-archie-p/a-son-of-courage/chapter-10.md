@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - In Lost Man's Swamp"
 weight: 10
-aliases:
-  - "/authors/mckishnie-archie-p/a-son-of-courage/chapter-10.html"
+url: "/authors/mckishnie-archie-p/a-son-of-courage/chapter-10.html"
 ---
 
 The August days were passing swiftly, each fragrant dawn marking another step towards that inevitable something which must be faced--the reopening of the Valley School by a new teacher. Billy's heart saddened as the fields ripened and the woods turned red and gold. For once his world was out of tune. Maurice Keeler was sick with measles and Elgin Scraff lay ill with the same disease. Taking advantage of this fact, the Sand-sharkers had grown bold, some of the more venturesome of them going even so far as to challenge Billy to "knock the chip off their shoulders."

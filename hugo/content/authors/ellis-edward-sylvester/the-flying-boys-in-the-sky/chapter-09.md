@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Professor Talks On Aviation (Continued.)"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-flying-boys-in-the-sky/chapter-09.html"
 ---
 
 Professor Morgan continued: "Thus far the aeronauts had used hot air with which to make their ascents, but the fire under the balloon was always dangerous and more than one fatal accident resulted therefrom. Hydrogen gas was far better, but more costly. Public subscriptions enabled two brothers named Robert, assisted by M. Charles, to construct a spherical balloon, twenty-eight feet in diameter, the silk envelope being covered with varnish, and the upper half inclosed in a network which supported a hoop that encircled the middle of the sphere. A boat-like structure dangled a few feet below the mouth, and was attached to the hoop, while a safety valve at the apex prevented bursting through expansion of the gas as the balloon climbed the sky.

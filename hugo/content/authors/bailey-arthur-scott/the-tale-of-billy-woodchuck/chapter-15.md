@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \"Pop! Goes The Weasel!\""
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-billy-woodchuck/chapter-15.html"
 ---
 
 Just as he had promised, Billy Woodchuck led his two brothers to Mr. Fox's house late in the afternoon, to join the fife-and-drum corps, and make sweet music.

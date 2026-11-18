@@ -1,8 +1,7 @@
 ---
 title: "chapter 21"
 weight: 999
-aliases:
-  - "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-21.html"
+url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-21.html"
 ---
 
 I suppose many of my readers have read descriptions of the beautiful and magnificent Emerald City of Oz, so I need not describe it here, except to state that never has any city in any fairyland ever equalled this one in stately splendor. It lies almost exactly in the center of the Land of Oz, and in the center of the Emerald City rises the wall of glistening emeralds that surrounds the palace of Ozma. The palace is almost a city in itself and is inhabited by many of the Ruler's especial friends and those who have won her confidence and favor. As for Ozma herself, there are no words in any dictionary I can find that are fitted to describe this young girl's beauty of mind and person. Merely to see her is to love her for her charming face and manners; to know her is to love her for her tender sympathy, her generous nature, her truth and honor. Born of a long line of Fairy Queens, Ozma is as nearly perfect as any fairy may be, and she is noted for her wisdom as well as for her other qualities. Her happy subjects adore their girl Ruler and each one considers her a comrade and protector.

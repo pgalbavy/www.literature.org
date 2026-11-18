@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Moonlight Raid"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-13.html"
 ---
 
 THE Meadow Mouse party, in the cornfield, vanished as if by magic. Not one of the merrymakers lingered an instant after hearing that Fatty Coon was entering the field. And since Master Meadow Mouse happened to be near the shock where he lived, he ran up it in a twinkling and crept inside it, to curl up in his nest and try to catch forty winks.

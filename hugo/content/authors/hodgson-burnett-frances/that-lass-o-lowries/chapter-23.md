@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - “Cannybles”"
 weight: 23
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-23.html"
 ---
 
 The night school gained ground steadily. The number of scholars was constantly on the increase, so much so, indeed, that Grace had his hands inconveniently full.

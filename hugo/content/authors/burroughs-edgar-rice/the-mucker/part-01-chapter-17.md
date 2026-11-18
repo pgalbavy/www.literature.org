@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 17 - Home Again"
 weight: 17
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-17.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-17.html"
 ---
 
 BILLY BYRNE continued to fire intermittently for half an hour after the two men had left him. Then he fired several shots in quick succession, and dragging himself to his hands and knees crawled laboriously and painfully back into the jungle in search of a hiding place where he might die in peace.

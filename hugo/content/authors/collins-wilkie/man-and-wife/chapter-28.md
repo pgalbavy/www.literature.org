@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - Stifled"
 weight: 30
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-28.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-28.html"
 ---
 
 IT is the nature of Truth to struggle to the light. In more than one direction, the truth strove to pierce the overlying darkness, and to reveal itself to view, during the interval between the date of Sir Patrick's victory and the date of the wedding-day.

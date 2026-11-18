@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 31"
 weight: 221
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-31.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-31.html"
 ---
 
 Having descended the hill the general after whom Pierre was galloping turned sharply to the left, and Pierre, losing sight of him, galloped in among some ranks of infantry marching ahead of him. He tried to pass either in front of them or to the right or left, but there were soldiers everywhere, all with expression and busy with some unseen but evidently important task. They all gazed with the same dissatisfied and inquiring expression at this stout man in a white hat, who for some unknown reason threatened to trample them under his horse's hoofs.

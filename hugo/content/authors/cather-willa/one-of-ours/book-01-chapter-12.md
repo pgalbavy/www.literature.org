@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 12"
 weight: 12
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-01-chapter-12.html"
+url: "/authors/cather-willa/one-of-ours/book-01-chapter-12.html"
 ---
 
 Between haying and harvest that summer Ralph and Mr. Wheeler drove to Denver in the big car, leaving Claude and Dan to cultivate the corn. When they returned Mr. Wheeler announced that he had a secret. After several days of reticence, during which he shut himself up in the sitting-room writing letters, and passed mysterious words and winks with Ralph at table, he disclosed a project which swept away all Claude's plans and purposes.

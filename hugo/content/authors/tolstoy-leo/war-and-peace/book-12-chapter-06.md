@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 6"
 weight: 269
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-06.html"
 ---
 
 On reaching Moscow after her meeting with Rostov, Princess Mary had found her nephew there with his tutor, and a letter from Prince Andrew giving her instructions how to get to her Aunt Malvintseva at Voronezh. That feeling akin to temptation which had tormented her during her father's illness, since his death, and especially since her meeting with Rostov was smothered by arrangements for the journey, anxiety about her brother, settling in a new house, meeting new people, and attending to her nephew's education. She was sad. Now, after a month passed in quiet surroundings, she felt more and more deeply the loss of her father which was associated in her mind with the ruin of Russia. She was agitated and incessantly tortured by the thought of the dangers to which her brother, the only intimate person now remaining to her, was exposed. She was worried too about her nephew's education for which she had always felt herself incompetent, but in the depths of her soul she felt at peace- a peace arising from consciousness of having stifled those personal dreams and hopes that had been on the point of awakening within her and were related to her meeting with Rostov.

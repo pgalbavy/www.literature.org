@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - An Evening With Socrates"
 weight: 30
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-30.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-30.html"
 ---
 
 How the Colonel had come to be reported dead it was easy enough now to surmise. Some desperate fugitive, or rambling hobo miner seeking a crosscut to the Borax Mines below, had raided his camp in his absence; and, riding off on his burro, had met his death in a sandstorm. His were the tracks that the Indians had followed and somewhere in Death Valley he lay beneath the sand dunes in place of a better man. But the Colonel--did he know that his family had mourned him as dead, and bandied his stock back and forth? Did he know that the Paymaster had been bonded and opened up, and lost again to Blount? And what would be his answer if he knew the man before him was the son of Honest John Holman? Wiley closed down his lips, then he took the outstretched hand and looked the Colonel straight in the eye.

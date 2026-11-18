@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 36 - Which Treats Of More Curious Incidents That Occurred At The Inn"
 weight: 39
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-36.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-36.html"
 ---
 
 Just at that instant the landlord, who was standing at the gate of the inn, exclaimed, "Here comes a fine troop of guests; if they stop here we may say *gaudeamus*."

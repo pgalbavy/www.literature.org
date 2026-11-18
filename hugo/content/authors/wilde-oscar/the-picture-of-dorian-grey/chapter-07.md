@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-07.html"
+url: "/authors/wilde-oscar/the-picture-of-dorian-grey/chapter-07.html"
 ---
 
 For some reason or other, the house was crowded that night, and the fat Jew manager who met them at the door was beaming from ear to ear with an oily tremulous smile. He escorted them to their box with a sort of pompous humility, waving his fat jewelled hands and talking at the top of his voice. Dorian Gray loathed him more than ever. He felt as if he had come to look for Miranda and had been met by Caliban. Lord Henry, upon the other hand, rather liked him. At least he declared he did, and insisted on shaking him by the hand and assuring him that he was proud to meet a man who had discovered a real genius and gone bankrupt over a poet. Hallward amused himself with watching the faces in the pit. The heat was terribly oppressive, and the huge sunlight flamed like a monstrous dahlia with petals of yellow fire. The youths in the gallery had taken off their coats and waistcoats and hung them over the side. They talked to each other across the theatre and shared their oranges with the tawdry girls who sat beside them. Some women were laughing in the pit. Their voices were horribly shrill and discordant. The sound of the popping of corks came from the bar.

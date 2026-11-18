@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 11"
 weight: 200
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-11.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-11.html"
 ---
 
 "What a marvelous, sweet and unhappy woman!" he was think~ ing, as he stepped out into the frosty air with Stepan Arkadyevitch.

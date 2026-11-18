@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - \u0026quot;Then You Might Have Been One Of Those----\u0026quot;"
 weight: 20
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-19.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-19.html"
 ---
 
 When the Earl and Countess of Dunstanwolde arrived in town and took up their abode at Dunstanwolde House, which being already one of the finest mansions, was made still more stately by its happy owner's command, the world of fashion was filled with delighted furore. Those who had heard of the Gloucestershire beauty by report were stirred to open excitement, and such as had not already heard rumours of her were speedily informed of all her past by those previously enlightened. The young lady who had so high a spirit as to have at times awakened somewhat of terror in those who were her adversaries; the young lady who had made such a fine show in male attire, and of whom it had been said that she could outleap, outfence, and outswear any man her size, had made a fine match indeed, marrying an elderly nobleman and widower, who for years had lived the life of a recluse, at last becoming hopelessly enamoured of one who might well be his youngest child.

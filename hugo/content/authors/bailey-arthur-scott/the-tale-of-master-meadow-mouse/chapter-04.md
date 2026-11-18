@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - A Pleasant Stranger"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-master-meadow-mouse/chapter-04.html"
 ---
 
 THE whole Meadow Mouse family enjoyed swimming. They liked to live near water. That was why they made their home in the low meadow, where Broad Brook ran deeper and more quietly than in the hillside pasture. And Black Creek, too, was near-by. So the Meadow Mouse family never had to travel far when they wanted a cool dip.

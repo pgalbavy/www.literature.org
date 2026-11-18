@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 11"
 weight: 11
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-11.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-11.html"
 ---
 
 One Saturday, late in June, Thea arrived early for her lesson. As she perched herself upon the piano stool,--a wobbly, old-fashioned thing that worked on a creaky screw,--she gave Wunsch a side glance, smiling. “You must not be cross to me to-day. This is my birthday.”

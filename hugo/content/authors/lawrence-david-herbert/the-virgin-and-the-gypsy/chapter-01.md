@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-01.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-01.html"
 ---
 
 When the vicar's wife went off with a young and penniless man the scandal knew no bounds. Her two little girls were only seven and nine years old respectively. And the vicar was such a good husband. True, his hair was grey. But his moustache was dark, he was handsome, and still full of furtive passion for his unrestrained and beautiful wife.

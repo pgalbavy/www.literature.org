@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-24.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-24.html"
 ---
 
 *SHE* was right; the growth was now visibly upon the pleasant and substantial town, where all had once appeared to be so settled and so finished; for, just as with some of man’s disorders that develop slowly, at first merely hinting in mild prophetic symptoms, then becoming more sinister, and attacking one member after another until the whole body writhes and alters, so it is with this disorder that comes racking the midland towns through distortions and turmoil into the vaster likenesses of cities: haphazard and insignificant destructions begin casually, but gradually grow more sweeping and more violent until the victim town becomes aware of great crashings;—and then lies choking in a cloud of dust and smoke wherein huge new excrescences appear.

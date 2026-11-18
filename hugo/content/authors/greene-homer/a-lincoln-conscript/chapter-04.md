@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Drafted Copperhead"
 weight: 4
-aliases:
-  - "/authors/greene-homer/a-lincoln-conscript/chapter-04.html"
+url: "/authors/greene-homer/a-lincoln-conscript/chapter-04.html"
 ---
 
 Would he dare to tell his father about the draft? The question kept repeating itself in Bob Bannister’s mind, and the answer to it grew more and more uncertain as he drew nearer to his home. Already he could see the gabled roof of the house, and, back of it, dimly outlined against the gray sky, the white blades of the windmill, free from their lashing, whirling swiftly in the rising wind. The windmill did the work of three men for Rhett Bannister. It sawed his wood, pumped his water, churned his milk, threshed his grain, and drove the machinery by which he manufactured his stock in trade. A few years before the beginning of the war he had secured a patent on a design for a beehive, ingeniously adapted to the instinct of the bees, and so arranged as to make their product removable quickly, easily, and at any time. His success in the manufacture and sale of these hives had been so great that for a time he was quite unable to supply the demand for them. Then the war came, and with it, and as a consequence of it, his ever-growing unpopularity; and, almost before he knew it, his business had so fallen away that it became necessary for him to dismiss his hired help, and he himself had little to do save to manufacture and store his product in hope of better times. Indeed, for the last few weeks the whir of the wheel had been an unusual sound, and Bob wondered as he drew near, that it should be going on this day, especially at so late an hour. So, instead of stopping at the house, he went straight on to the shop entrance, to discover, if possible, the cause of this unwonted activity.

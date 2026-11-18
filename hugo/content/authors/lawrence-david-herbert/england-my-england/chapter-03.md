@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Blind Man"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-03.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-03.html"
 ---
 
 Isabel Pervin was listening for two sounds - for the sound of wheels on the drive outside and for the noise of her husband's footsteps in the hall. Her dearest and oldest friend, a man who seemed almost indispensable to her living, would drive up in the rainy dusk of the closing November day. The trap had gone to fetch him from the station. And her husband, who had been blinded in Flanders, and who had a disfiguring mark on his brow, would be coming in from the outhouses.

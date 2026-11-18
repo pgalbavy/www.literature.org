@@ -1,8 +1,7 @@
 ---
 title: "Chapter 126 - The Life-Buoy"
 weight: 126
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-126.html"
+url: "/authors/melville-herman/moby-dick/chapter-126.html"
 ---
 
 Steering now south-eastward by Ahab's levelled steel, and her progress solely determined by Ahab's level log and line; the Pequod held on her path towards the Equator. Making so long a passage through such unfrequented waters, descrying no ships, and ere long, sideways impelled by unvarying trade winds, over waves monotonously mild; all these seemed the strange calm things preluding some riotous and desperate scene.

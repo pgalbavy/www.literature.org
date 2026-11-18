@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Hendrika Plots Evil"
 weight: 11
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-10.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-10.html"
 ---
 
 On the following morning I had a conversation with Indaba-zimbi. First of all I told him that I was going to marry Stella.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Loggin’-Bee"
 weight: 17
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-17.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-17.html"
 ---
 
 Logging-bees were not uncommon events among the Bushwhackers. But usually logging-bees were held after the winter snows had fallen, when with oxen and sleds the men moved the great logs to where they were wanted.

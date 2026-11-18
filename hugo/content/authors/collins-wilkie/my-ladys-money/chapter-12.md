@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-12.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-12.html"
 ---
 
 THE conference between Lady Lydiard and Mr. Troy, on the way back to London, led to some practical results.

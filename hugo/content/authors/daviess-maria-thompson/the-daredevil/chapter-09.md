@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - \"O'Er The Land Of The Free--\""
 weight: 9
-aliases:
-  - "/authors/daviess-maria-thompson/the-daredevil/chapter-09.html"
+url: "/authors/daviess-maria-thompson/the-daredevil/chapter-09.html"
 ---
 
 I have a desire to know if it is into the life of every person there comes one night which he is never to forget until death and perhaps even after. I do not know; but I am sure that I shall always keep the memory of the night upon which Mr. Robert Carruthers of Grez and Bye was introduced to the friends of his ancestors. It is my jewel that seems a drop of heart's blood that I will wear forever hid in my breast.

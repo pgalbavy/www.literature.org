@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Bright And Broad"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-11.html"
 ---
 
 Farmer Green had a yoke of oxen called Bright and Broad. They were huge, slow-moving fellows, as different from Johnnie Green's pony, Twinkleheels, as any pair could be. They never frisked about in the pasture. They never ran, nor jumped, nor kicked. They seldom even trotted. And when they did move faster than a walk they lurched into a queer, shambling swing.

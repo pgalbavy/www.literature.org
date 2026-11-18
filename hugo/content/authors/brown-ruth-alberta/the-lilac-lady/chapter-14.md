@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - How The Fourth Of July Money Was Spent"
 weight: 14
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-14.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-14.html"
 ---
 
 "Just one week more and Fourth of July will be here," announced Peace from her seat on the grass, as she counted off the days on her fingers. They were all gathered under the trees that warm afternoon, Aunt Pen and Elizabeth with their sewing, the minister with a magazine from which he had been reading aloud, Giuseppe with his beloved violin, from which he was seldom separated, the lame girl lying in her accustomed place, and Peace and Glen gambolling in the grass at their feet.

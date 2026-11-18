@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-10.html"
+url: "/authors/verne-jules/round-the-moon/chapter-10.html"
 ---
 
 Barbicane had evidently hit upon the only plausible reason of this deviation. However slight it might have been, it had sufficed to modify the course of the projectile. It was a fatality. The bold attempt had miscarried by a fortuitous circumstance; and unless by some exceptional event, they could now never reach the moon's disc.

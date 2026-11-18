@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-19.html"
+url: "/authors/baum-l-frank/the-patchwork-girl-of-oz/chapter-19.html"
 ---
 
 A day's journey from the Emerald City brought the little band of adventurers to the home of Jack Pumpkinhead, which was a house formed from the shell of an immense pumpkin. Jack had made it himself and was very proud of it. There was a door, and several windows, and through the top was stuck a stovepipe that led from a small stove inside. The door was reached by a flight of three steps and there was a good floor on which was arranged some furniture that was quite comfortable.

@@ -1,8 +1,7 @@
 ---
 title: "part blah 06"
 weight: 999
-aliases:
-  - "/authors/davis-richard-harding/the-kings-jackal/part-blah-06.html"
+url: "/authors/davis-richard-harding/the-kings-jackal/part-blah-06.html"
 ---
 
 Rehearsals for "The Purple Slipper" had been called positively for September first, and the response became unanimous at about fifteen minutes to eleven at the Barrett Theater on West Forty-sixth Street; that is, it was unanimous except for the presence of the author and the angel--Miss Adair and Mr. Farraday--and Miss Violet Hawtry, the star, who never came to first readings until the whole cast was assembled and could be impressed with the fact that she came and went as she listed.

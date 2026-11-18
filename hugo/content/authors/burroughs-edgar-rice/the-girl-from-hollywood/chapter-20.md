@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/the-girl-from-hollywood/chapter-20.html"
 ---
 
 The pock-marked Mexican stepped close to Shannon and took hold of her bridle reins.

@@ -1,8 +1,7 @@
 ---
 title: "Book 14 - Chapter 18"
 weight: 316
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-14-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-14-chapter-18.html"
 ---
 
 This campaign consisted in a flight of the French during which they did all they could to destroy themselves. From the time they turned onto the Kaluga road to the day their leader fled from the army, none of the movements of the crowd had any sense. So one might have thought that regarding this period of the campaign the historians, who attributed the actions of the mass to the will of one man, would have found it impossible to make the story of the retreat fit their theory. But no! Mountains of books have been written by the historians about this campaign, and everywhere are described Napoleon's arrangements, the maneuvers, and his profound plans which guided the army, as well as the military genius shown by his marshals.

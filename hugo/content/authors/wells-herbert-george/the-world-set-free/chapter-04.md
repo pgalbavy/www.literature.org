@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The New Phase"
 weight: 6
-aliases:
-  - "/authors/wells-herbert-george/the-world-set-free/chapter-04.html"
+url: "/authors/wells-herbert-george/the-world-set-free/chapter-04.html"
 ---
 
 Section 1

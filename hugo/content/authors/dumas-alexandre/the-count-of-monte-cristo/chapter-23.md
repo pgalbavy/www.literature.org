@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Island Of Monte Cristo"
 weight: 23
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-23.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-23.html"
 ---
 
 Thus, at length, by one of the unexpected strokes of fortune which sometimes befall those who have for a long time been the victims of an evil destiny, Dantes was about to secure the opportunity he wished for, by simple and natural means, and land on the island without incurring any suspicion. One night more and he would be on his way.

@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/chambers-robert-w/cardigan/preface.html"
+url: "/authors/chambers-robert-w/cardigan/preface.html"
 ---
 
 *INTRODUCTION*

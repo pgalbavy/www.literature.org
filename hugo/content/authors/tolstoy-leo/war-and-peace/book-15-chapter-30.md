@@ -1,8 +1,7 @@
 ---
 title: "Book 15 - Chapter 30"
 weight: 347
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-15-chapter-30.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-15-chapter-30.html"
 ---
 
 Natasha had married in the early spring of 1813, and in 1820 already had three daughters besides a son for whom she had longed and whom she was now nursing. She had grown stouter and broader, so that it was difficult to recognize in this robust, motherly woman the slim, lively Natasha of former days. Her features were more defined and had a calm, soft, and serene expression. In her face there was none of the ever-glowing animation that had formerly burned there and constituted its charm. Now her face and body were of all that one saw, and her soul was not visible at all. All that struck the eye was a strong, handsome, and fertile woman. The old fire very rarely kindled in her face now. That happened only when, as was the case that day, her husband returned home, or a sick child was convalescent, or when she and Countess Mary spoke of Prince Andrew (she never mentioned him to her husband, who she imagined was jealous of Prince Andrew's memory), or on the rare occasions when something happened to induce her to sing, a practice she had quite abandoned since her marriage. At the rare moments when the old fire did kindle in her handsome, fully developed body she was even more attractive than in former days.

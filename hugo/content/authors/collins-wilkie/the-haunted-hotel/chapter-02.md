@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/collins-wilkie/the-haunted-hotel/chapter-02.html"
+url: "/authors/collins-wilkie/the-haunted-hotel/chapter-02.html"
 ---
 
 'It is one fact, sir, that I am a widow,' she said. 'It is another fact, that I am going to be married again.'

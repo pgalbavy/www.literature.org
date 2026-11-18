@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 11"
 weight: 61
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-06-chapter-11.html"
+url: "/authors/cather-willa/song-of-the-lark/part-06-chapter-11.html"
 ---
 
 DR. ARCHIE saw nothing of Thea during the following week. After several fruitless efforts, he succeeded in getting a word with her over the telephone, but she sounded so distracted and driven that he was glad to say good-night and hang up the instrument. There were, she told him, rehearsals not only for “Walkure,” but also for “Gotterdammerung,” in which she was to sing WALTRAUTE two weeks later.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - “Tha’ Munnot Waste No Time”"
 weight: 18
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-18.html"
 ---
 
 Of course Mary did not waken early the next morning. She slept late because she was tired, and when Martha brought her breakfast she told her that though Colin was quite quiet he was ill and feverish as he always was after he had worn himself out with a fit of crying. Mary ate her breakfast slowly as she listened.

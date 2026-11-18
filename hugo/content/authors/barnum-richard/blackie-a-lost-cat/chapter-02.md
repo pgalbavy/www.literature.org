@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Blackie Runs Away"
 weight: 2
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-02.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-02.html"
 ---
 
 “That cat is a good jumper,” thought Blackie when her new friend had gone. “He went over that fence easily. I wonder if I could do it?”

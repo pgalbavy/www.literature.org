@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Smoke Of A Campfire"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-19.html"
 ---
 
 Deerfoot identified the object before reaching it. His friends followed him doubtingly, and while a rod to the rear, saw him gather it up and hold it aloft.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Attack In The Wood"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-14.html"
 ---
 
 *THE* storm which threatened during the afternoon broke forth toward night and raged until morning. Little rain fell, but the wind was terrific, as it howled around the settlement and screamed through the forest. What rain fell came almost horizontally, and rattled like hailstones against the cabins.

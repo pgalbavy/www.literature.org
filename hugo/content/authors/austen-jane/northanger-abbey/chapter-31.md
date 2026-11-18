@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 32
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-31.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-31.html"
 ---
 
 Mr. and Mrs. Morland’s surprise on being applied to by Mr. Tilney for their consent to his marrying their daughter was, for a few minutes, considerable, it having never entered their heads to suspect an attachment on either side; but as nothing, after all, could be more natural than Catherine’s being beloved, they soon learnt to consider it with only the happy agitation of gratified pride, and, as far as they alone were concerned, had not a single objection to start. His pleasing manners and good sense were self-evident recommendations; and having never heard evil of him, it was not their way to suppose any evil could be told. Goodwill supplying the place of experience, his character needed no attestation. "Catherine would make a sad, heedless young housekeeper to be sure," was her mother’s foreboding remark; but quick was the consolation of there being nothing like practice.

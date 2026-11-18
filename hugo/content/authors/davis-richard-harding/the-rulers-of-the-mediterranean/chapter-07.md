@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - Constantinople"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-07.html"
+url: "/authors/davis-richard-harding/the-rulers-of-the-mediterranean/chapter-07.html"
 ---
 
 A little Italian steamer drew cautiously away from the Piræus when the waters of the bay were quite black and the quays looked like a row of foot-lights in front of the dark curtain of the night. She grazed the anchor chains of H. M. S. the Colossus, where that ship of war's broad white deck lay level with the water, as heavy and solid as a stone pier. She seemed to rise like an island of iron from the very bottom of the bay. Her sailors, as broad and heavy and clean as the decks, raised their heads from their pipes as we passed under the glare of the man-of-war's electric lights, and a bugle call came faintly from somewhere up in the bow. It sounded as though it were a quarter of a mile away. Our lower deck was packed with Greeks and Albanians and Turks, lying as closely together on the hard planks as cartridges in the front of a Circassian's overcoat. They were very dirty and very handsome, in rakish little black silk pill-box caps, with red and gold tops, and the initials "H. I." worked in the embroidery; their canvas breeches were as baggy and patched and muddy as those of a football-player, and their sleeveless jackets and double waistcoats of red and gold made them look like a uniformed soldiery that had seen very hard service. Priests of the Greek Church, with long hair and black formless robes, and hats like stovepipes with the brim around the upper end, paraded the narrow confines of the second cabin, and German tourists with red guide-books, and the Italian ship's officers with a great many medals and very bad manners, stamped up and down the main-deck and named the shadowy islands that rose from the sea and dropped out of sight again as we steamed past them.

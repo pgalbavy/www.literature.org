@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Chicago Commune"
 weight: 23
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-22.html"
+url: "/authors/london-jack/the-iron-heel/chapter-22.html"
 ---
 
 As agents-provocateurs, not alone were we able to travel a great deal, but our very work threw us in contact with the proletariat and with our comrades, the revolutionists. Thus we were in both camps at the same time, ostensibly serving the Iron Heel and secretly working with all our might for the Cause. There were many of us in the various secret services of the Oligarchy, and despite the shakings-up and reorganizations the secret services have undergone, they have never been able to weed all of us out.

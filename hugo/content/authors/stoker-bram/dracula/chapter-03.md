@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/stoker-bram/dracula/chapter-03.html"
+url: "/authors/stoker-bram/dracula/chapter-03.html"
 ---
 
 Jonathan Harker's Journal Continued

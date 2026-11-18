@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 9"
 weight: 43
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-03-chapter-09.html"
+url: "/authors/london-jack/valley-of-the-moon/book-03-chapter-09.html"
 ---
 
 Saxon and Billy were gone weeks on the trip south, but in the end they came back to Carmel. They had stopped with Hafler, the poets in the Marble House, which he had built with his own hands. This queer dwelling was all in one room, built almost entirely of white marble. Hailer cooked, as over a campfire, in the huge marble fireplace, which he used in all ways as a kitchen. There were divers shelves of books, and the massive furniture he had made from redwood, as he had made the shakes for the roof. A blanket, stretched across a corner, gave Saxon privacy. The poet was on the verge of departing for San Francisco and New York, but remained a day over with them to explain the country and run over the government land with Billy. Saxon had wanted to go along that morning, but Hafler scornfully rejected her, telling her that her legs were too short. That night, when the men returned, Billy was played out to exhaustion. He frankly acknowledged that Hafler had walked him into the ground, and that his tongue had been hanging out from the first hour. Hafler estimated that they had covered fifty-five miles.

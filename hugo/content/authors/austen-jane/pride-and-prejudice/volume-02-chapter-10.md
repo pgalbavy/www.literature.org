@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 10"
 weight: 33
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-10.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-10.html"
 ---
 
 More than once did Elizabeth in her ramble within the Park, unexpectedly meet Mr. Darcy.--She felt all the perverseness of the mischance that should bring him where no one else was brought; and to prevent its ever happening again, took care to inform him at first, that it was a favourite haunt of hers.--How it could occur a second time therefore was very odd!--Yet it did, and even a third. It seemed like wilful ill-nature, or a voluntary penance, for on these occasions it was not merely a few formal enquiries and an awkward pause and then away, but he actually thought it necessary to turn back and walk with her. He never said a great deal, nor did she give herself the trouble of talking or of listening much; but it struck her in the course of their third rencontre that he was asking some odd unconnected questions--about her pleasure in being at Hunsford, her love of solitary walks, and her opinion of Mr. and Mrs. Collins's happiness; and that in speaking of Rosings and her not perfectly understanding the house, he seemed to expect that whenever she came into Kent again she would be staying there too. His words seemed to imply it. Could he have Colonel Fitzwilliam in his thoughts? She supposed, if he meant any thing, he must mean an allusion to what might arise in that quarter. It distressed her a little, and she was quite glad to find herself at the gate in the pales opposite the Parsonage.

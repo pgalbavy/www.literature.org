@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Chapter Depicting A Rather Garrulous Reunion"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-02.html"
+url: "/authors/chambers-robert-w/the-adventures-of-a-modest-man/chapter-02.html"
 ---
 
 The second day we ran out of the storm. I remember on that day that I wore a rather doggy suit of gray—a trifle too doggy for a man of my years. In my button-hole reposed a white carnation, and as I strolled into the smoking-room I was humming under my breath an air from "Miss Helyet"—a thing I had not thought of in twenty years.

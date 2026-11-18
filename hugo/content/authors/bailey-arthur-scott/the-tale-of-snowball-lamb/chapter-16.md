@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Aunt Nancy's Plan"
 weight: 16
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-16.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-16.html"
 ---
 
 All was quiet once more, after the race from the ledge near Uncle Jerry Chuck's home. The flock was feeding again. And if you hadn't noticed how Aunt Nancy Ewe puffed from her fast running you wouldn't have supposed there had just been a wild scramble over the stone wall and back.

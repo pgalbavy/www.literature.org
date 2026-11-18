@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-37.html"
+url: "/authors/austen-jane/mansfield-park/chapter-37.html"
 ---
 
 Mr. Crawford gone, Sir Thomas's next object was that he should be missed; and he entertained great hope that his niece would find a blank in the loss of those attentions which at the time she had felt, or fancied, an evil. She had tasted of consequence in its most flattering form; and he did hope that the loss of it, the sinking again into nothing, would awaken very wholesome regrets in her mind. He watched her with this idea; but he could hardly tell with what success. He hardly knew whether there were any difference in her spirits or not. She was always so gentle and retiring that her emotions were beyond his discrimination. He did not understand her: he felt that he did not; and therefore applied to Edmund to tell him how she stood affected on the present occasion, and whether she were more or less happy than she had been.

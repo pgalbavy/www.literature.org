@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The World Of The Untamed"
 weight: 1
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-01.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-01.html"
 ---
 
 The hazy October sunlight sifted through the trees and lay, here and there, golden bits of carpet on the mossy woodland. A glossy black squirrel paused on one of these splashes of sunlight, and, sitting erect, preened his long fur; then as the harsh scolding of a red squirrel fell on his ears he sank on all fours again, and bounded into the heavy shadows of the wood. A pair of pursuing red squirrels sprang from an opposite grove and with shrill chidings crossed the open to the snake fence. By taking this fence they might intercept the quarry’s flight, their object being to make short work of the black, whom they hated with an hereditary hatred harking back to the dim past.

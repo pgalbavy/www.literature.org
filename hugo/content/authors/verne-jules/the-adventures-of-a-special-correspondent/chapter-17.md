@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-17.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-17.html"
 ---
 
 We are off on a Chinese railway, single line, the train drawn by a Chinese engine, driven by a Chinese driver. Let us hope we shall not be telescoped on the road, for among the passengers is one of the chief functionaries of the company in the person of Faruskiar.

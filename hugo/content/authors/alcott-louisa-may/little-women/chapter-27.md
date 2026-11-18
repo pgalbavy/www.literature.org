@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Literary Lessons"
 weight: 27
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-27.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-27.html"
 ---
 
 Fortune suddenly smiled upon Jo, and dropped a good luck penny in her path. Not a golden penny, exactly, but I doubt if half a million would have given more real happiness then did the little sum that came to her in this wise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Bottled Up"
 weight: 19
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-19.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-19.html"
 ---
 
 Captain Ichabod Jones stepped briskly into Squire Chadwick's courtroom--which was otherwise the parlor in his modest home. Van Dusen, that very shrewd detective, observed that the old man trod with a jauntier step than heretofore, and that his expression was one of smug complacency. He wondered a little as to just what might have occurred to make this change so swiftly. He could not guess that a romance of twenty years was concerned, but his observant eyes told him that in some mysterious fashion this aged native had found a new happiness in life within the hour.

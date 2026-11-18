@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Brave Exploit"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-campers-out/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-campers-out/chapter-17.html"
 ---
 
 The danger with Dick Halliard was, that his anger was likely to overmaster his judgment, and lead him to attempt something that would cause his own disastrous overthrow.

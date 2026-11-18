@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Leslie Comes Over"
 weight: 12
-aliases:
-  - "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-12.html"
+url: "/authors/montgomery-lucy-maud/annes-house-of-dreams/chapter-12.html"
 ---
 
 Leslie came over to the house of dreams one frosty October night, when moonlit mists were hanging over the harbor and curling like silver ribbons along the seaward glens. She looked as if she repented coming when Gilbert answered her knock; but Anne flew past him, pounced on her, and drew her in.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Vigil"
 weight: 14
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-13.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-13.html"
 ---
 
 *SIR* James brushed past Julius and hurriedly bent over the fallen woman.

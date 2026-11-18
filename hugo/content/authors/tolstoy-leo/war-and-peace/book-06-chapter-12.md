@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 12"
 weight: 118
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-12.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-12.html"
 ---
 
 Natasha was sixteen and it was the year 1809, the very year to which she had counted on her fingers with Boris after they had kissed four years ago. Since then she had not seen him. Before Sonya and her mother, if Boris happened to be mentioned, she spoke quite freely of that episode as of some childish, long-forgotten matter that was not worth mentioning. But in the secret depths of her soul the question whether her engagement to Boris was a jest or an important, binding promise tormented her.

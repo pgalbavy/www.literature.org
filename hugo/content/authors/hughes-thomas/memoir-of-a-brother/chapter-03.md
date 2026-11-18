@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - A Father’s Letters"
 weight: 4
-aliases:
-  - "/authors/hughes-thomas/memoir-of-a-brother/chapter-03.html"
+url: "/authors/hughes-thomas/memoir-of-a-brother/chapter-03.html"
 ---
 
 If this memoir is to do for you, his sons and nephews, what I hope it may, you must be told of his weak points. You have seen already that he had to leave school half a year sooner than he would otherwise have left, because he was too easy-going as a sixth-form boy, and would not exert himself to keep order; and he had a constitutional indolence, which led him to shirk trouble in small matters, and to leave things to manage themselves. This fault used to annoy your grandfather, who was always exceedingly particular as to business habits, such as answering letters, and putting things in their right places. When we first were allowed to use guns, he gave us special instructions never to bring them into the house loaded. At the end of the Christmas holidays, just after George was made a præpostor, we brought our guns in loaded, and left them in the servants’ hall during luncheon. After lunch, when we went to take them out again, by some carelessness George’s went off, and he narrowly escaped being shot, and the charge went through two floors. Your grandfather said nothing at the moment, but, soon afterwards, George’s neglect to answer some questions on business matters produced from him the first of a series of letters, which certainly did us much good at the time, and I think may be just as useful to you. Most boys have the same kind of faults, and I cannot see that any of you need such advice less than we did.

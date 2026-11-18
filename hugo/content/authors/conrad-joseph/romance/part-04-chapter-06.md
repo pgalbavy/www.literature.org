@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 6"
 weight: 24
-aliases:
-  - "/authors/conrad-joseph/romance/part-04-chapter-06.html"
+url: "/authors/conrad-joseph/romance/part-04-chapter-06.html"
 ---
 
 Manuel's escape was the last event of that memorable night. Nothing more happened, and nothing more could be done; but there remained much talk and wonderment to get through. I did all the talking, of course, under the cuddy lamps. Williams, red and stout, sat staring at me across the table. His round eyes were perfectly motionless with astonishment—the story of what had happened in the Casa Riego was not what he had expected of the small, badly reputed Cuban town.

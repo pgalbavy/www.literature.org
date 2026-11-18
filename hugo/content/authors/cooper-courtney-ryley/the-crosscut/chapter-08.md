@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-08.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-08.html"
 ---
 
 The news caused Fairchild to recoil and stand gasping. And before he could speak, a new voice had cut in, one full of excitement, tremulous, anxious.

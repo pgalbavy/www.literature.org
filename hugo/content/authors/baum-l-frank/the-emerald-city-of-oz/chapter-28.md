@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-28.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-28.html"
 ---
 
 The Scarecrow had no need to sleep; neither had the Tin Woodman or Tiktok or Jack Pumpkinhead. So they all wandered out into the palace grounds and stood beside the sparkling water of the Forbidden Fountain until daybreak. During this time they indulged in occasional conversation.

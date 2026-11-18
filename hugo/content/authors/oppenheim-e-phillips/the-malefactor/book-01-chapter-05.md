@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 5 - The Gospel Of Hate"
 weight: 5
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-05.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-05.html"
 ---
 
 "And what," Wingrave asked his secretary as they sat at dinner that night, "did you think of Lady Ruth?"

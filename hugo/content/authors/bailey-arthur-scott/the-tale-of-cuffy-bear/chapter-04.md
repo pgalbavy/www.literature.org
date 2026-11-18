@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Cuffy Learns Something"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-cuffy-bear/chapter-04.html"
 ---
 
 After leaving the wonderful spring Cuffy Bear was so long getting home that he decided he would not say anything to his father and mother about what he had found. You see--he was afraid they would tell him not to go so far away from home again. But Cuffy had not been long in the snug little house before he had a terrible stomach-ache. He stood the pain as long as he could without saying anything. But he simply had to hang onto his little fat stomach with both his front paws. And at last he began to cry softly. Then Mrs. Bear asked him what he had been doing; and before Cuffy knew it he had told all about finding the delicious, sweet water.

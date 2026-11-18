@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Hatred Of A Tulip-Fancier"
 weight: 6
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-06.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-06.html"
 ---
 
 From that moment Boxtel's interest in tulips was no longer a stimulus to his exertions, but a deadening anxiety. Henceforth all his thoughts ran only upon the injury which his neighbour would cause him, and thus his favourite occupation was changed into a constant source of misery to him.

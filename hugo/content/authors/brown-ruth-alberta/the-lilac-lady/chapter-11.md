@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Peace Finds New Playmates"
 weight: 11
-aliases:
-  - "/authors/brown-ruth-alberta/the-lilac-lady/chapter-11.html"
+url: "/authors/brown-ruth-alberta/the-lilac-lady/chapter-11.html"
 ---
 
 It had been decided that Giuseppe Nicoli was to live at the stone house and be educated as the Lilac Lady's protégé.

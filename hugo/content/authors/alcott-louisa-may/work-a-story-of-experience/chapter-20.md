@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - At Forty"
 weight: 20
-aliases:
-  - "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-20.html"
+url: "/authors/alcott-louisa-may/work-a-story-of-experience/chapter-20.html"
 ---
 
 "NEARLY twenty years since I set out to seek my fortune. It has been a long search, but I think I have found it at last. I only asked to be a useful, happy woman, and my wish is granted: for, I believe I am useful; I know I am happy."

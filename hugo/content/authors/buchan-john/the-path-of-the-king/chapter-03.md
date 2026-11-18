@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Wife Of Flanders"
 weight: 4
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-03.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-03.html"
 ---
 
 From the bed set high on a dais came eerie spasms of laughter, a harsh cackle like fowls at feeding time.

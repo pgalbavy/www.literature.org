@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Ignoring Irene"
 weight: 21
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-21.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-21.html"
 ---
 
 In her self-sufficient egoism Irene Sturgis had no mercy. She continued to ravel the thread.

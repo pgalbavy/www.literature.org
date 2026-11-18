@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Prodigal Returns"
 weight: 15
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-14.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-14.html"
 ---
 
 Aunt Olivia and the Story Girl lived in a whirlwind of dressmaking after that, and enjoyed it hugely. Cecily and Felicity also had to have new dresses for the great event, and they talked of little else for a fortnight. Cecily declared that she hated to go to sleep because she was sure to dream that she was at Aunt Olivia's wedding in her old faded gingham dress and a ragged apron.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - I Will Wait For You"
 weight: 29
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-28.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-28.html"
 ---
 
 Beatrice drove back to Paddington, and as she drove, though her face did not change from its marble cast of woe the great tears rolled down it, one by one.

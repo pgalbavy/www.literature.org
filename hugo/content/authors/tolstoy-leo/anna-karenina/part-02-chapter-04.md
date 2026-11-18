@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 4"
 weight: 38
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-02-chapter-04.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-02-chapter-04.html"
 ---
 
 The highest Petersburge society is essentially one: in it every one knows every one else, every one even visits every one else. but this great set has its subdivisions. Anna Arkadyevna Karenina had friends and close ties in three different circles of this highest society. One circle was her husband's government official set, consisting of his colleagues and subordinates, brought together in the most various and capricious manner, and belonging to different social strata. Anna found it difficult now to recall the feeling of almost awe-stricken reverence which she had at first entertained for these persons. Now she knew all ofthem aspeople know one another in a country town; she knew their habits and weaknesses, and where the shoe pinched each one of them. She knew their relatios with one another and with the head authorities, knew who was for whom, and how each one maintained his position, and where they agreed and disagreed. But the circle of political, masculine interests had never interested her, in spite of countess Kidia Ivanovna's influence, and she avoided it.

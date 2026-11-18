@@ -1,8 +1,7 @@
 ---
 title: "Canto 13"
 weight: 14
-aliases:
-  - "/authors/byron-lord/don-juan/canto-13.html"
+url: "/authors/byron-lord/don-juan/canto-13.html"
 ---
 
 I now mean to be serious;—it is time,  

@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 14"
 weight: 37
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-14.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-02-chapter-14.html"
 ---
 
 The two gentlemen left Rosings the next morning; and Mr. Collins having been in waiting near the lodges, to make them his parting obeisance, was able to bring home the pleasing intelligence, of their appearing in very good health, and in as tolerable spirits as could be expected, after the melancholy scene so lately gone through at Rosings. To Rosings he then hastened to console Lady Catherine, and her daughter; and on his return, brought back, with great satisfaction, a message from her Ladyship, importing that she felt herself so dull as to make her very desirous of having them all to dine with her.

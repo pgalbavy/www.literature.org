@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - The News From Glasgow"
 weight: 40
-aliases:
-  - "/authors/collins-wilkie/man-and-wife/chapter-38.html"
+url: "/authors/collins-wilkie/man-and-wife/chapter-38.html"
 ---
 
 THE letters to Lady Lundie and to Mr. Crum having been dispatched on Monday, the return of the post might be looked for on Wednesday afternoon at Ham Farm.

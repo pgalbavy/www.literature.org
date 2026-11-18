@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 22"
 weight: 22
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-22.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-22.html"
 ---
 
 The Bennets were engaged to dine with the Lucases, and again during the chief of the day, was Miss Lucas so kind as to listen to Mr. Collins. Elizabeth took an opportunity of thanking her. "It keeps him in good humour," said she, "and I am more obliged to you than I can express." Charlotte assured her friend of her satisfaction in being useful, and that it amply repaid her for the little sacrifice of her time. This was very amiable, but Charlotte's kindness extended farther than Elizabeth had any conception of;--its object was nothing less, than to secure her from any return of Mr. Collins's addresses, by engaging them towards herself. Such was Miss Lucas's scheme; and appearances were so favourable that when they parted at night, she would have felt almost sure of success if he had not been to leave Hertfordshire so very soon. But here, she did injustice to the fire and independence of his character, for it led him to escape out of Longbourn House the next morning with admirable slyness, and hasten to Lucas Lodge to throw himself at her feet. He was anxious to avoid the notice of his cousins, from a conviction that if they saw him depart, they could not fail to conjecture his design, and he was not willing to have the attempt known till its success could be known likewise; for though feeling almost secure, and with reason, for Charlotte had been tolerably encouraging, he was comparatively diffident since the adventure of Wednesday. His reception however was of the most flattering kind. Miss Lucas perceived him from an upper window as he walked towards the house, and instantly set out to meet him accidentally in the lane. But little had she dared to hope that so much love and eloquence awaited her there.

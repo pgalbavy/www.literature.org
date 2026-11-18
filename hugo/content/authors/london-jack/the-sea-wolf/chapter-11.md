@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/london-jack/the-sea-wolf/chapter-11.html"
+url: "/authors/london-jack/the-sea-wolf/chapter-11.html"
 ---
 
 The Ghost has attained the southernmost point of the arc she is describing across the Pacific, and is already beginning to edge away to the west and north toward some lone island, it is rumoured, where she will fill her water-casks before proceeding to the season's hunt along the coast of Japan. The hunters have experimented and practised with their rifles and shotguns till they are satisfied, and the boat-pullers and steerers have made their spritsails, bound the oars and rowlocks in leather and sennit so that they will make no noise when creeping on the seals, and put their boats in apple-pie order - to use Leach's homely phrase.

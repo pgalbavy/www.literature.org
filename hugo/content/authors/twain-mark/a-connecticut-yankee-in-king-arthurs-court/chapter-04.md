@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Sir Dinadan the Humorist"
 weight: 5
-aliases:
-  - "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-04.html"
+url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-04.html"
 ---
 
 IT seemed to me that this quaint lie was most simply and beautifully told; but then I had heard it only once, and that makes a difference; it was pleasant to the others when it was fresh, no doubt.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Johnny Chuck Proves His Love"
 weight: 12
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-12.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-12.html"
 ---
 
 These spring days were beautiful days on the Green Meadows. It seemed to Johnny Chuck that the Green Meadows never had been so lovely or the songs of the birds so sweet. He had forgotten all about his old friends, Jimmy Skunk and Peter Rabbit and the other little meadow people.

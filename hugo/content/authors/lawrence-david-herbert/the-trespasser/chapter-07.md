@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/the-trespasser/chapter-07.html"
+url: "/authors/lawrence-david-herbert/the-trespasser/chapter-07.html"
 ---
 
 Siegmund woke to the muffled firing of guns on the sea. He looked across at the shaggy grey water in wonder. Then he turned to Helena.

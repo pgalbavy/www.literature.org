@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Swede"
 weight: 10
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-10.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-10.html"
 ---
 
 As the warriors, clustered thick about Tarzan and Sheeta, realized that it was a flesh-and-blood panther that had interrupted their dance of death, they took heart a trifle, for in the face of all those circling spears even the mighty Sheeta would be doomed.

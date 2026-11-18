@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-14.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-14.html"
 ---
 
 She ran into the house, and found Julia seated at a slim-legged desk, writing a note.

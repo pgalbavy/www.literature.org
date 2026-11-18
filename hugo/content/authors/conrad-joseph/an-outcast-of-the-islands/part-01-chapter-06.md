@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6"
 weight: 7
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-06.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-01-chapter-06.html"
 ---
 
 "Lend me your gun, Almayer," said Willems, across the table on which a smoky lamp shone redly above the disorder of a finished meal. "I have a mind to go and look for a deer when the moon rises to-night."

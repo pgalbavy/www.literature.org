@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 6"
 weight: 34
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-02-chapter-06.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-02-chapter-06.html"
 ---
 
 Kutuzov fell back toward Vienna, destroying behind him the bridges over the rivers Inn (at Braunau) and Traun (near Linz). On October 23 the Russian troops were crossing the river Enns. At midday the Russian baggage train, the artillery, and columns of troops were defiling through the town of Enns on both sides of the bridge.

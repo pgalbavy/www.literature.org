@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Bear Hunters"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/through-forest-and-fire/chapter-13.html"
 ---
 
 Nothing is impossible to pluck and perseverance. That boy who is determined to become brilliant in his studies, no matter what their nature, or to master a difficult profession, or to attain any point possible of attainment, is sure to win, if he will but *stick to it*.

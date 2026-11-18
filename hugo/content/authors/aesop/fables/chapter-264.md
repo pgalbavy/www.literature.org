@@ -1,8 +1,7 @@
 ---
 title: "The Monkey And The Camel"
 weight: 266
-aliases:
-  - "/authors/aesop/fables/chapter-264.html"
+url: "/authors/aesop/fables/chapter-264.html"
 ---
 
 THE BEASTS of the forest gave a splendid entertainment at which the Monkey stood up and danced. Having vastly delighted the assembly, he sat down amidst universal applause. The Camel, envious of the praises bestowed on the Monkey and desiring to divert to himself the favor of the guests, proposed to stand up in his turn and dance for their amusement. He moved about in so utterly ridiculous a manner that the Beasts, in a fit of indignation, set upon him with clubs and drove him out of the assembly. It is absurd to ape our betters.

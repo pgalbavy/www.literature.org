@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-08.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-08.html"
 ---
 
 As thoughts of Pete came to Maggie's mind, she began to have an intense dislike for all of her dresses.

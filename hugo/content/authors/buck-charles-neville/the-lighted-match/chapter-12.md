@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Benton Must Decide"
 weight: 12
-aliases:
-  - "/authors/buck-charles-neville/the-lighted-match/chapter-12.html"
+url: "/authors/buck-charles-neville/the-lighted-match/chapter-12.html"
 ---
 
 On the next afternoon at the base of the flag-staff above Look-out Rock, Lieutenant Lapas nervously swept the leagues of sea and land, spreading under him, with strong glasses. Though the air was somewhat rarer and cooler here than below, beads of sweat stood out on his forehead, and the cigarettes which he incessantly smoked followed each other with a furious haste which denoted mental unrest.

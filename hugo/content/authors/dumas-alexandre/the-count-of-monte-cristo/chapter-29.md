@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - The House Of Morrel \u0026 Son"
 weight: 29
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-29.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-29.html"
 ---
 
 Any one who had quitted Marseilles a few years previously, well acquainted with the interior of Morrel's warehouse, and had returned at this date, would have found a great change. Instead of that air of life, of comfort, and of happiness that permeates a flourishing and prosperous business establishment - instead of merry faces at the windows, busy clerks hurrying to and fro in the long corridors - instead of the court filled with bales of goods, re-echoing with the cries and the jokes of porters, one would have immediately perceived all aspect of sadness and gloom. Out of all the numerous clerks that used to fill the deserted corridor and the empty office, but two remained. One was a young man of three or four and twenty, who was in love with M. Morrel's daughter, and had remained with him in spite of the efforts of his friends to induce him to withdraw; the other was an old one-eyed cashier, called "Cocles," or "Cock-eye," a nickname given him by the young men who used to throng this vast now almost deserted bee-hive, and which had so completely replaced his real name that he would not, in all probability, have replied to any one who addressed him by it.

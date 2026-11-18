@@ -1,8 +1,7 @@
 ---
 title: "Adventure 12 - The Adventure Of The Copper Beeches"
 weight: 12
-aliases:
-  - "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-12.html"
+url: "/authors/doyle-arthur-conan/the-adventures-of-sherlock-holmes/adventure-12.html"
 ---
 
 “To the man who loves art for its own sake,” remarked Sherlock Holmes, tossing aside the advertisement sheet of The Daily Telegraph, “it is frequently in its least important and lowliest manifestations that the keenest pleasure is to be derived. It is pleasant to me to observe, Watson, that you have so far grasped this truth that in these little records of our cases which you have been good enough to draw up, and, I am bound to say, occasionally to embellish, you have given prominence not so much to the many causes célèbres and sensational trials in which I have figured, but rather to those incidents which may have been trivial in themselves, but which have given room for those faculties of deduction and of logical synthesis which I have made my special province.”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-15.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-15.html"
 ---
 
 The young man settled back, and stuffed tobacco into a battered pipe. Then, with a lightness of tone which was assumed as a defense against her mischievous teasing, he began:

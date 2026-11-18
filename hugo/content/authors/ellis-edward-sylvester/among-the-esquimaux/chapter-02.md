@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Colossal Somersault"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-02.html"
 ---
 
 The voyage of the "Nautilus" was uneventful until she was far to the northward in Baffin Bay. It was long after leaving St. John that our friends saw their first iceberg. They should have seen them before, as Captain McAlpine explained, for, as you well know, those mountains of ice often cross the path of the Atlantic steamers, and more than once have endangered our great ocean greyhounds. No doubt numbers of them were drifting southward, gradually dissolving as they neared the equator, but it so happened that the "Nautilus" steered clear of them until many degrees to the north.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Existence Of Matter"
 weight: 3
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-02.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-02.html"
 ---
 
 In this chapter we have to ask ourselves whether, in any sense at all, there is such a thing as matter. Is there a table which has a certain intrinsic nature, and continues to exist when I am not looking, or is the table merely a product of my imagination, a dream-table in a very prolonged dream? This question is of the greatest importance. For if we cannot be sure of the independent existence of objects, we cannot be sure of the independent existence of other people's bodies, and therefore still less of other people's minds, since we have no grounds for believing in their minds except such as are derived from observing their bodies. Thus if we cannot be sure of the independent existence of objects, we shall be left alone in a desert—it may be that the whole outer world is nothing but a dream, and that we alone exist. This is an uncomfortable possibility; but although it cannot be strictly proved to be false, there is not the slightest reason to suppose that it is true. In this chapter we have to see why this is the case.

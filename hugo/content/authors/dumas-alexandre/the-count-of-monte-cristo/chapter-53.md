@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - Robert Le Diable"
 weight: 53
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-53.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-53.html"
 ---
 
 The pretext of an opera engagement was so much the more feasible, as there chanced to be on that very night a more than ordinary attraction at the Academie Royale. Levasseur, who had been suffering under severe illness, made his reappearance in the character of Bertrand, and, as usual, the announcement of the most admired production of the favorite composer of the day had attracteda brilliant and fashionable audience. Morcerf, like most other young men of rank and fortune, had his orchestra stall, with the certainty of always finding a seat in at least a dozen of the principal boxes occupied by persons of his acquaintance; he had, moreover, his right of entry into the omnibus box. Chateau-Renaud rented a stall beside his own, while Beauchamp, as a journalist, had unlimited range all over the theatre. It happened that on this particular night the minister's box was placed at the disposal of Lucien Debray, who offered it to the Comte de Morcerf, who again, upon his mother's rejection of it, sent it to Danglars, with an intimation that he should probably do himself the honor of joining the baroness and her daughter during the evening, in the event of their accepting the box in question. The ladies received the offer with too much pleasure to dream of a refusal. To no class of persons is the presentation of a gratuitous opera-box more acceptable than to the wealthy millionaire, who still hugs economy while boasting of carrying a king's ransom in his waistcoat pocket.

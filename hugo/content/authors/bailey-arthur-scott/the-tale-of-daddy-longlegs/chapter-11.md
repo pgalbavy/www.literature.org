@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Big Wind"
 weight: 11
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-11.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-11.html"
 ---
 
 FOR several days after his unlucky journey across the meadow, when he tried to reach the field where Farmer Green was harvesting his oats, Daddy Longlegs did not wander far from the stone wall.

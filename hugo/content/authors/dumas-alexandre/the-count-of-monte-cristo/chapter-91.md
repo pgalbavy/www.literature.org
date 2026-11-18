@@ -1,8 +1,7 @@
 ---
 title: "Chapter 91 - Mother And Son"
 weight: 91
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-91.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-91.html"
 ---
 
 The Count of Monte Cristo bowed to the five young men with a melancholy and dignified smile, and got into his carriage with Maximilian and Emmanuel. Albert, Beauchamp, and Chateau-Renaud remained alone. Albert looked at his two friends, not timidly, but in a way that appeared to ask their opinion of what he had just done.

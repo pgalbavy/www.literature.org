@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 23 - Of What Befell Don Quixote In The Sierra Morena, Which Was One Of The Rarest Adventures Related In This Veracious History"
 weight: 26
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-23.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-01-chapter-23.html"
 ---
 
 Seeing himself served in this way, Don Quixote said to his squire, "I have always heard it said, Sancho, that to do good to boors is to throw water into the sea. If I had believed thy words, I should have avoided this trouble; but it is done now, it is only to have patience and take warning for the future."

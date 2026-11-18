@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 12 - The Fight In The Palace"
 weight: 12
-aliases:
-  - "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-12.html"
+url: "/authors/burroughs-edgar-rice/the-mucker/part-01-chapter-12.html"
 ---
 
 BARBARA HARDING heard the samurai in the room beyond her prison advancing toward the door that separated them from her. She pressed the point of the daimio's sword close to her heart. A heavy knock fell upon the door and at the same instant the girl was startled by a noise behind her--a noise at the little window at the far end of the room.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/ridge-w-pett/e-r-b/chapter-12.html"
+url: "/authors/ridge-w-pett/e-r-b/chapter-12.html"
 ---
 
 THE incident revealed to Erb the fact that the men’s support and confidence had something of a tidal nature. He had watched, sometimes with amusement, always with interest, the state of other leaders—from high water, when they could swim luxuriously, to low water, when they were left stranded ludicrously on the beach; it had not before occurred to him that he himself might encounter a similar experience; he determined now to make his position as secure as possible. In this effort he relied a good deal on the new journal he was preparing, the first number of which was to bear on the front page the words, “Edited by Herbert C. Barnes.” Lady Frances had written on the subject of labour—

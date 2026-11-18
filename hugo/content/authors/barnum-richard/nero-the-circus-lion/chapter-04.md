@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Nero In A Cave"
 weight: 4
-aliases:
-  - "/authors/barnum-richard/nero-the-circus-lion/chapter-04.html"
+url: "/authors/barnum-richard/nero-the-circus-lion/chapter-04.html"
 ---
 
 Now while the hunter, hidden on a platform in a tree in the jungle, was shouting about having shot a lion, Nero was doing some shouting of another sort. To tell the truth, he was howling and roaring, just as, sometimes, when you step on the puppy's tail, by mistake, of course, the puppy howls. Nero was howling and roaring with pain.

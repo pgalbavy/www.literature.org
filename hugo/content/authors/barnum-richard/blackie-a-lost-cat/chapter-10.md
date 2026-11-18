@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Blackie Scares A Dog"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/blackie-a-lost-cat/chapter-10.html"
+url: "/authors/barnum-richard/blackie-a-lost-cat/chapter-10.html"
 ---
 
 “Now we can talk nicely,” said Don, as he walked along beside Blackie, when she had jumped from the tree. “Come over here in the shade and I’ll tell you of my adventures.”

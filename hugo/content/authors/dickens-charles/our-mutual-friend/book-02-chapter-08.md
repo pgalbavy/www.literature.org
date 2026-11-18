@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 8 - In Which An Innocent Elopement Occurs"
 weight: 25
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-08.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-08.html"
 ---
 
 The minion of fortune and the worm of the hour, or in less cutting language, Nicodemus Boffin, Esquire, the Golden Dustman, had become as much at home in his eminently aristocratic family mansion as he was likely ever to be. He could not but feel that, like an eminently aristocratic family cheese, it was much too large for his wants, and bred an infinite amount of parasites; but he was content to regard this drawback on his property as a sort of perpetual Legacy Duty. He felt the more resigned to it, forasmuch as Mrs Boffin enjoyed herself completely, and Miss Bella was delighted.

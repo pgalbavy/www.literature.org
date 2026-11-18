@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - At Bay"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-10.html"
 ---
 
 While Jack and Otto were talking in guarded tones, and carefully picking their way through the wood, each stopped and became silent at the same instant. They saw nothing, but their ears told them some person or animal was approaching through the undergrowth behind them.

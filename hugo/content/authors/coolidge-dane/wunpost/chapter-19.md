@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Tainted Money"
 weight: 19
-aliases:
-  - "/authors/coolidge-dane/wunpost/chapter-19.html"
+url: "/authors/coolidge-dane/wunpost/chapter-19.html"
 ---
 
 A month passed by and the haze above the Sink lifted its shroud and revealed the mountains beyond; the soft blues and pinks crept back into the distance and the shadowy canyons were filled with royal purple. At dawn a silver radiance rose and glowed along the east and the sunsets stained the west with orange and gold; there was wine in the cool air, and when the night wind came up the prospectors crouched over their fires. The first October storm put a crown on Telescope Peak and tipped the lesser Panamints with snow, but still Wilhelmina waited and Wunpost did not return from his mysterious trip "inside."

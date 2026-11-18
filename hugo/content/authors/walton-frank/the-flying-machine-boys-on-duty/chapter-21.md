@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - Stroup’s Instructions"
 weight: 21
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-21.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-duty/chapter-21.html"
 ---
 
 “How comes it that Jimmie and Kit are lost in the air?” asked Havens, as, accompanied by the sheriff and the forest ranger, Gilmore, the boys walked away from the jail.

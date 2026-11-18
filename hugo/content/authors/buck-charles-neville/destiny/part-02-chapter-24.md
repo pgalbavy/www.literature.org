@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 24"
 weight: 24
-aliases:
-  - "/authors/buck-charles-neville/destiny/part-02-chapter-24.html"
+url: "/authors/buck-charles-neville/destiny/part-02-chapter-24.html"
 ---
 
 After the low scream that came moaningly up from her breast, which was drowned in the echoes of the report, Mary Burton made no outcry. She no longer leaned limp and nerveless against the support of the doorway. Something had seemed to snap the cords of her paralysis and out of her blanched face her eyes stared wide and piteous. As the older banker staggered back she was quick to reach the motionless figure and to lift its head to her breast. Yet she did not really have to look, something fateful and unquestionable told her from the first instant that no human aid could avail--and that he would not speak again or move a muscle in life. His employees found her supporting the weight of his shoulders against her bosom and seeking to staunch with her handkerchief the flow of blood from the temple.

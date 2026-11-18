@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - \"Good-Bye\""
 weight: 27
-aliases:
-  - "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-27.html"
+url: "/authors/ellis-edward-sylvester/deerfoot-in-the-mountains/chapter-27.html"
 ---
 
 The remainder of the homeward journey was without special incident. It was several days before Victor Shelton fully recovered from the pounding caused by his fall into the torrent. The loss of his rifle was keenly felt, but he did not fret, for it would have been ungrateful after his marvelous escape.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 66"
 weight: 66
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-66.html"
+url: "/authors/eliot-george/middlemarch/chapter-66.html"
 ---
 
 "'Tis one thing to be tempted, Escalus, Another thing to fall." - Measure for Measure.

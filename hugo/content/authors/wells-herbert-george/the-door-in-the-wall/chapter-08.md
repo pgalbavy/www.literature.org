@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Country Of The Blind"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-door-in-the-wall/chapter-08.html"
+url: "/authors/wells-herbert-george/the-door-in-the-wall/chapter-08.html"
 ---
 
 Three hundred miles and more from Chimborazo, one hundred from the snows of Cotopaxi, in the wildest wastes of Ecuador's Andes, there lies that mysterious mountain valley, cut off from all the world of men, the Country of the Blind. Long years ago that valley lay so far open to the world that men might come at last through frightful gorges and over an icy pass into its equable meadows, and thither indeed men came, a family or so of Peruvian half-breeds fleeing from the lust and tyranny of an evil Spanish ruler. Then came the stupendous outbreak of Mindobamba, when it was night in Quito for seventeen days, and the water was boiling at Yaguachi and all the fish floating dying even as far as Guayaquil; everywhere along the Pacific slopes there were land-slips and swift thawings and sudden floods, and one whole side of the old Arauca crest slipped and came down in thunder, and cut off the Country of the Blind for ever from the exploring feet of men. But one of these early settlers had chanced to be on the hither side of the gorges when the world had so terribly shaken itself, and he perforce had to forget his wife and his child and all the friends and possessions he had left up there, and start life over again in the lower world. He started it again but ill, blindness overtook him, and he died of punishment in the mines; but the story he told begot a legend that lingers along the length of the Cordilleras of the Andes to this day.

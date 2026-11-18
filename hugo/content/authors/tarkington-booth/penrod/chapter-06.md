@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Evening"
 weight: 6
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-06.html"
+url: "/authors/tarkington-booth/penrod/chapter-06.html"
 ---
 
 The sun was setting behind the back fence (though at a considerable distance) as Penrod Schofield approached that fence and looked thoughtfully up at the top of it, apparently having in mind some purpose to climb up and sit there. Debating this, he passed his fingers gently up and down the backs of his legs; and then something seemed to decide him not to sit anywhere. He leaned against the fence, sighed profoundly, and gazed at Duke, his wistful dog.

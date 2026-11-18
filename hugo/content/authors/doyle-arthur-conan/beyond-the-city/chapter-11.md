@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - A Blot From The Blue"
 weight: 11
-aliases:
-  - "/authors/doyle-arthur-conan/beyond-the-city/chapter-11.html"
+url: "/authors/doyle-arthur-conan/beyond-the-city/chapter-11.html"
 ---
 
 So by the cleverness of two girls a dark cloud was thinned away and turned into sunshine. Over one of them, alas, another cloud was gathering, which could not be so easily dispersed. Of these three households which fate had thrown together, two had already been united by ties of love. It was destined, however, that a bond of another sort should connect the Westmacotts with the Hay Denvers.

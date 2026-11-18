@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Staggering Blow"
 weight: 16
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-16.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-16.html"
 ---
 
 "Here is something my father just asked me to give you."

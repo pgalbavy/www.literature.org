@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Johnnie Green Goes Hunting"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-02.html"
 ---
 
 When Tommy Fox discovered old Mother Grouse crouched beneath the evergreen tree he grew hungrier than ever. And he decided that he would catch Mrs. Grouse and eat her on the spot.

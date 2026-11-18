@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 16"
 weight: 31
-aliases:
-  - "/authors/london-jack/valley-of-the-moon/book-02-chapter-16.html"
+url: "/authors/london-jack/valley-of-the-moon/book-02-chapter-16.html"
 ---
 
 Her vague, unreal existence continued. It seemed in some previous life-time that Billy had gone away, that another life-time would have to come before he returned. She still suffered from insomnia. Long nights passed in succession, during which she never closed her eyes. At other times she slept through long stupors, waking stunned and numbed, scarcely able to open her heavy eyes, to move her weary limbs. The pressure of the iron band on her head never relaxed. She was poorly nourished. Nor had she a cent of money. She often went a whole day without eating. Once, seventy-two hours elapsed without food passing her lips. She dug clams in the marsh, knocked the tiny oysters from the rocks, and gathered mussels.

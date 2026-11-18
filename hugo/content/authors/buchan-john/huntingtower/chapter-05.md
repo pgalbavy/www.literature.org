@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Of The Princess In The Tower"
 weight: 6
-aliases:
-  - "/authors/buchan-john/huntingtower/chapter-05.html"
+url: "/authors/buchan-john/huntingtower/chapter-05.html"
 ---
 
 Very early next morning, while Mrs. Morran was still cooking breakfast, Dickson and Heritage might have been observed taking the air in the village street. It was the Poet who had insisted upon this walk, and he had his own purpose. They looked at the spires of smoke piercing the windless air, and studied the daffodils in the cottage gardens. Dickson was glum, but Heritage seemed in high spirits. He varied his garrulity with spells of cheerful whistling.

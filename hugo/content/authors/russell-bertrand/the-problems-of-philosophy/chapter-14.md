@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Limits Of Philosophical Knowledge"
 weight: 15
-aliases:
-  - "/authors/russell-bertrand/the-problems-of-philosophy/chapter-14.html"
+url: "/authors/russell-bertrand/the-problems-of-philosophy/chapter-14.html"
 ---
 
 In all that we have said hitherto concerning philosophy, we have scarcely touched on many matters that occupy a great space in the writings of most philosophers. Most philosophers—or, at any rate, very many—profess to be able to prove, by *a priori* metaphysical reasoning, such things as the fundamental dogmas of religion, the essential rationality of the universe, the illusoriness of matter, the unreality of all evil, and so on. There can be no doubt that the hope of finding reason to believe such theses as these has been the chief inspiration of many life-long students of philosophy. This hope, I believe, is vain. It would seem that knowledge concerning the universe as a whole is not to be obtained by metaphysics, and that the proposed proofs that, in virtue of the laws of logic such and such things *must* exist and such and such others cannot, are not capable of surviving a critical scrutiny. In this chapter we shall briefly consider the kind of way in which such reasoning is attempted, with a view to discovering whether we can hope that it may be valid.

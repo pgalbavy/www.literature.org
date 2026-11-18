@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Tea-Party In Tlacolula"
 weight: 2
-aliases:
-  - "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-02.html"
+url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-02.html"
 ---
 
 Owen came back to the hotel at about half-past six, tired, excited, a little guilty, and a good deal distressed at having let Kate go alone. And now the whole thing was over, rather dreary in spirit.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Hunting The Hunters"
 weight: 10
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-10.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-10.html"
 ---
 
 It looked to the young hunters as though they had struck the popular hour for the visitors to the salt lick. They were no more than fairly rid of the bisons when they were met by three bears, that showed no wish to yield the path to them. It was this fact that led Will and George to take to their heels while Jack Gedney held his ground.

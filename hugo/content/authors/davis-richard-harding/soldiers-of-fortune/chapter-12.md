@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/davis-richard-harding/soldiers-of-fortune/chapter-12.html"
+url: "/authors/davis-richard-harding/soldiers-of-fortune/chapter-12.html"
 ---
 
 The day of the review rose clear and warm, tempered by a light breeze from the sea. As it was a fete day, the harbor wore an air of unwonted inactivity; no lighters passed heavily from the levees to the merchantmen at anchor, and the warehouses along the wharves were closed and deserted. A thin line of smoke from the funnels of the 'Vesta' showed that her fires were burning, and the fact that she rode on a single anchor chain seemed to promise that at any moment she might slip away to sea.

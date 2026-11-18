@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/cooper-courtney-ryley/the-white-desert/chapter-02.html"
+url: "/authors/cooper-courtney-ryley/the-white-desert/chapter-02.html"
 ---
 
 Hazard Pass had held true to its name. There were yet nearly four miles to go before the summit of nearly twelve thousand feet elevation could be reached and the downward trip of fourteen miles to the nearest settlement made. And that meant--

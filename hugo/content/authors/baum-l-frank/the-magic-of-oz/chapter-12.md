@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 13
-aliases:
-  - "/authors/baum-l-frank/the-magic-of-oz/chapter-12.html"
+url: "/authors/baum-l-frank/the-magic-of-oz/chapter-12.html"
 ---
 
 Then arose a great confusion of sounds as all the animals began talking to their fellows. The monkeys chattered and the bears growled and the voices of the jaguars and lions rumbled, and the wolves yelped and the elephants had to trumpet loudly to make their voices heard. Such a hubbub had never been known in the forest before, and each beast argued with his neighbor until it seemed the noise would never cease.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The \"Accident\""
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-09.html"
 ---
 
 It would seem that the pioneers had more than enough to occupy their minds on this eventful journey through the woods, without coming in contact with such a frightful thing as a rattlesnake, but here was one of the hardy members of the escort apparently stricken unto death by the huge reptile that he had just slain.

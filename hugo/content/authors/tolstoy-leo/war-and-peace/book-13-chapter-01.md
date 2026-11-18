@@ -1,8 +1,7 @@
 ---
 title: "Book 13 - Chapter 1"
 weight: 280
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-13-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-13-chapter-01.html"
 ---
 
 BOOK THIRTEEN: 1812

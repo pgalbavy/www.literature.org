@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Carpenter's Promise"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-13.html"
 ---
 
 When Buster Bumblebee told Whiteface the Carpenter Bee, that he hated to work that honest artisan stared at his caller in astonishment.

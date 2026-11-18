@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Out Of The Storm"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-moon-maid/chapter-05.html"
+url: "/authors/burroughs-edgar-rice/the-moon-maid/chapter-05.html"
 ---
 
 Shortly after we arrived at the village, they took away our watches, our pocket-knives, and everything that we possessed of a similar nature, and which they considered as curiosities. The chief wore Orthis’ wristwatch above one fore-paw and mine above the other, but as he did not know how to wind them, nor the purpose for which they were intended, they did him or us no good. The result was, however, that it was now entirely impossible for us to measure time in any way, and I do not know, even to this day, how long we were in this strange village. We ate when we were hungry, and slept when we were tired. It was always daylight; and it seemed that there were always raiding parties going out or returning, so that flesh was plentiful, and we became rather reconciled to our fate, in so far as the immediate danger of being eaten was concerned, but why they kept us alive, as we had slain so many of their fellows, I could not understand.

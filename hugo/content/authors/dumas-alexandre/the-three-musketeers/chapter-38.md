@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38 - How, Wihtout Incommoding Himself, Athos Procures Hia Equipment"
 weight: 39
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-38.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-38.html"
 ---
 
 D'Artagnan was so completely bewildered that without taking any heed of what might become of Kitty he ran at full speed across half Paris, and did not stop till he came to Athos's door. The confusion of his mind, the terror which spurred him on, the cries of some of the patrol who started in pursuit of him, and the hooting of the people who, notwithstanding the early hour, were going to their work, only made him precipitate his course.

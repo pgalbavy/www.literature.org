@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Parsonage Again"
 weight: 6
-aliases:
-  - "/authors/bronte-anne/agnes-grey/chapter-06.html"
+url: "/authors/bronte-anne/agnes-grey/chapter-06.html"
 ---
 
 FOR a few months I remained peaceably at home, in the quiet enjoyment of liberty and rest, and genuine friendship, from all of which I had fasted so long; and in the earnest prosecution of my studies, to recover what I had lost during my stay at Wellwood House, and to lay in new stores for future use. My father's health was still very infirm, but not materially worse than when I last saw him; and I was glad I had it in my power to cheer him by my return, and to amuse him with singing his favourite songs.

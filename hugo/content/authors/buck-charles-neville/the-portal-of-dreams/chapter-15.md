@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Two Discoveries"
 weight: 15
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-15.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-15.html"
 ---
 
 Bob Maxwell was standing before the fire. He turned abstractedly and set his untouched glass on the mantel shelf.

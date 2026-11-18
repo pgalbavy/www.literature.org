@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Dr. Bauerstein"
 weight: 9
-aliases:
-  - "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-09.html"
+url: "/authors/christie-agatha/the-mysterious-affair-at-styles/chapter-09.html"
 ---
 
 I had had no opportunity as yet of passing on Poirot’s message to Lawrence. But now, as I strolled out on the lawn, still nursing a grudge against my friend’s high-handedness, I saw Lawrence on the croquet lawn, aimlessly knocking a couple of very ancient balls about, with a still more ancient mallet.

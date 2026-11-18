@@ -1,8 +1,7 @@
 ---
 title: "Book 12 - Chapter 1"
 weight: 264
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-12-chapter-01.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-12-chapter-01.html"
 ---
 
 BOOK TWELVE: 1812

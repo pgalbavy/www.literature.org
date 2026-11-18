@@ -1,8 +1,7 @@
 ---
 title: "Chapter 53 - And Last"
 weight: 53
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-53.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-53.html"
 ---
 
 The fortunes of those who have figured in this tale are nearly closed. The little that remains to their historian to relate, is told in few and simple words.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Buster's Scheme"
 weight: 8
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-08.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-08.html"
 ---
 
 About the time summer was half gone, Buster Bumblebee's mother, the Queen, began to worry. She was afraid her workers were not going to make enough honey for her family's needs.

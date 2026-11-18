@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - An Unexpected Happening"
 weight: 10
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-10.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-10.html"
 ---
 
 “Hit me a clip on the wrist and wake me up!” exclaimed Jimmie.

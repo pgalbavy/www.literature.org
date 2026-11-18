@@ -1,8 +1,7 @@
 ---
 title: "Chapter 32"
 weight: 32
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-32.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-32.html"
 ---
 
 It was a full hour later when he left her lying upon a couch in her own room, still lamenting intermittently, though he assured her with heat that the "fuss" she was making irked him far more than his physical loss. He permitted her to think that he meant to return directly to his office, but when he came out to the open air he told the chauffeur in attendance to await him in front of Mr. Vertrees's house, whither he himself proceeded on foot.

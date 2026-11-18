@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Allan Gives His Word"
 weight: 3
-aliases:
-  - "/authors/haggard-h-rider/the-ancient-allan/chapter-03.html"
+url: "/authors/haggard-h-rider/the-ancient-allan/chapter-03.html"
 ---
 
 Mr. Atterby-Smith proved on acquaintance to be even worse than unfond fancy painted him. He was a gentleman in a way and of good family whereof the real name was Atterby, the Smith having been added to secure a moderate fortune left to him on that condition. His connection with Lord Ragnall was not close and through the mother’s side. For the rest he lived in some south-coast watering-place and fancied himself a sportsman because he had on various occasions hired a Scottish moor or deer forest. Evidently he had never done anything nor earned a shilling during all his life and was bringing his family up to follow in his useless footsteps. The chief note of his character was that intolerable vanity which so often marks men who have nothing whatsoever about which to be vain. Also he had a great idea of his rights and what was due to him, which he appeared to consider included, upon what ground I could not in the least understand, the reversal of all the Ragnall properties and wealth. I do not think I need say any more about him, except that he bored me to extinction, especially after his fourth glass of port.

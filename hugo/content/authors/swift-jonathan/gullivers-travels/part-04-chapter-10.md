@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 10"
 weight: 38
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-10.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-10.html"
 ---
 
 The author’s economy, and happy life, among the Houyhnhnms. His great improvement in virtue by conversing with them. Their conversations. The author has notice given him by his master, that he must depart from the country. He falls into a swoon for grief; but submits. He contrives and finishes a canoe by the help of a fellow-servant, and puts to sea at a venture.

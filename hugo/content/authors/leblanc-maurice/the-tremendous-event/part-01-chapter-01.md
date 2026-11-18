@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 1 - The Suit"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-01.html"
+url: "/authors/leblanc-maurice/the-tremendous-event/part-01-chapter-01.html"
 ---
 
 "Oh, but this is terrible!" cried Simon Dubosc. "Edward, just listen!"

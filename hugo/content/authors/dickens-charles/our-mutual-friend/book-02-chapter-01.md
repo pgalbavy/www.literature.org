@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 1 - Of An Educational Character"
 weight: 18
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-01.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-01.html"
 ---
 
 The school at which young Charley Hexam had first learned from a book--the streets being, for pupils of his degree, the great Preparatory Establishment in which very much that is never unlearned is learned without and before book--was a miserable loft in an unsavoury yard. Its atmosphere was oppressive and disagreeable; it was crowded, noisy, and confusing; half the pupils dropped asleep, or fell into a state of waking stupefaction; the other half kept them in either condition by maintaining a monotonous droning noise, as if they were performing, out of time and tune, on a ruder sort of bagpipe. The teachers, animated solely by good intentions, had no idea of execution, and a lamentable jumble was the upshot of their kind endeavours.

@@ -1,8 +1,7 @@
 ---
 title: "Canto 7"
 weight: 8
-aliases:
-  - "/authors/byron-lord/don-juan/canto-07.html"
+url: "/authors/byron-lord/don-juan/canto-07.html"
 ---
 
 O Love! O Glory! what are ye who fly  

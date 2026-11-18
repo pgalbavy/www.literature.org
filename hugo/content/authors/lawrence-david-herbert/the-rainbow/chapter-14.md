@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Widening Circle"
 weight: 14
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-14.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-14.html"
 ---
 
 Maggie's people, the Schofields, lived in the large gardener's cottage, that was half a farm, behind Belcote Hall. The hall was too damp to live in, so the Schofields were caretakers, gamekeepers, farmers, all in one. The father was gamekeeper and stock-breeder, the eldest son was market-gardener, using the big hall gardens, the second son was farmer and gardener. There was a large family, as at Cossethay.

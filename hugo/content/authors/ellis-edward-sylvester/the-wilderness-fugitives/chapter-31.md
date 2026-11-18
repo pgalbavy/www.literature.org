@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Mohawk Explains"
 weight: 31
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-31.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-31.html"
 ---
 
 When Ned had told Lena-Wingo all, and succeeded in restoring him to good humor, he attempted to draw from the Indian an idea of what he had been doing since he left them. But the youth did not gain much satisfactory information. The interview lasted but a short time, when Lena-Wingo proposed that they should return to their friends, who must be quite anxious over their continued absence. He added, also, that they could not but be hungry—a want which he took particular pains to satisfy. On the way to where the brother and sister had been left, the Mohawk turned off to the right, and drew from beneath a fallen tree two goodly-sized loaves of bread and fully ten pounds of well-cooked meat.

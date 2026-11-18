@@ -1,8 +1,7 @@
 ---
 title: "The Astronomer"
 weight: 65
-aliases:
-  - "/authors/aesop/fables/chapter-63.html"
+url: "/authors/aesop/fables/chapter-63.html"
 ---
 
 AN ASTRONOMER used to go out at night to observe the stars. One evening, as he wandered through the suburbs with his whole attention fixed on the sky, he fell accidentally into a deep well. While he lamented and bewailed his sores and bruises, and cried loudly for help, a neighbor ran to the well, and learning what had happened said: "Hark ye, old fellow, why, in striving to pry into what is in heaven, do you not manage to see what is on earth?'

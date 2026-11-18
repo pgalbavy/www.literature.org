@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/london-jack/burning-daylight/part-01-chapter-09.html"
+url: "/authors/london-jack/burning-daylight/part-01-chapter-09.html"
 ---
 
 Ten days later, Harper and Joe Ladue arrived at Sixty Mile, and Daylight, still a trifle weak, but strong enough to obey the hunch that had come to him, traded a third interest in his Stewart town site for a third interest in theirs on the Klondike.

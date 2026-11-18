@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 20"
 weight: 144
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-20.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-20.html"
 ---
 
 The next day the sick man received the sacrament and extreme unction. During the ceremony Nikolay Levin prayed fervently. His great eyes, fastened on the holy image that was set out on a card-table covered with a colored napkin, expressed such passionate prayer and hope that it was awful to Levin to see it. Levin knew that this passionate prayer and hope would only make him feel more bitterly parting from the life he so loved. Levin knew his brother and the workings of his intellect: he knew that his unbelief came not from life being easier for him without faith, but had grown up because step by step the contemporary scientific interpretation of natural phenomena crushed out the possibility of faith; and so he knew that his present return was not a legitimate one, brought about by way of the same working of his intellect, but simply a temporary, interested return to faith in a desperate hope of recovery. Levin knew too that Kitty had strengthened his hope by accounts of the marvelous recoveries she had heard of. Levin knew all this; and it was agonizingly painful to him to behold the supplicating, hopeful eyes and the emaciated wrist, lifted with difficulty, making the sign of the cross on the tense brow, and the prominent shoulders and hollow, gasping chest, which one could not feel consistent with the life the sick man was praying for. During the sacrament Levin did what he, an unbeliever, had done a thousand times. He said, addressing God, "If Thou cost exist, make this man to recover" (of course this same thing has been repeated many times), "and Thou wilt save him and me."

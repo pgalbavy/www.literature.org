@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 1
-aliases:
-  - "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-01.html"
+url: "/authors/baily-waldron/heart-of-the-blue-ridge/chapter-01.html"
 ---
 
 Where the trail bent over a knoll, Zeke halted, and put down from his shoulder the hickory cudgel with its dangling valise of black oilcloth--total of baggage with which he was faring forth into the world. Then, he straightened himself, and looked back over the way he had come.

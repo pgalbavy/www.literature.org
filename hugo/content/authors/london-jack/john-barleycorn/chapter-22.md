@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-22.html"
+url: "/authors/london-jack/john-barleycorn/chapter-22.html"
 ---
 
 Three years was the time required to go through the high school. I grew impatient. Also, my schooling was becoming financially impossible. At such rate I could not last out, and I did greatly want to go to the state university. When I had done a year of high school, I decided to attempt a short cut. I borrowed the money and paid to enter the senior class of a "cramming joint" or academy. I was scheduled to graduate right into the university at the end of four months, thus saving two years.

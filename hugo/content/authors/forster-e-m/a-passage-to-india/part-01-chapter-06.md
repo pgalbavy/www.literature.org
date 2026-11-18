@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6"
 weight: 6
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-01-chapter-06.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-01-chapter-06.html"
 ---
 
 Aziz had not gone to the Bridge Party. Immediately after his meeting with Mrs. Moore he was diverted to other matters. Several surgical cases came in, and kept him busy. He ceased to be either outcaste or poet, and became the medical student, very gay, and full of details of operations which he poured into the shrinking ears of his friends. His profession fascinated him at times, but he required it to be exciting, and it was his hand, not his mind, that was scientific. The knife he loved and used skilfully, and he also liked pumping in the latest serums. But the boredom of regime and hygiene repelled him, and after inoculating a man for enteric, he would go away and drink unfiltered water himself. “What can you expect from the fellow?” said dour Major Callendar. “No grits, no guts.” But in his heart he knew that if Aziz and not he had operated last year on Mrs. Graysford’s appendix, the old lady would probably have lived. And this did not dispose him any better towards his subordinate.

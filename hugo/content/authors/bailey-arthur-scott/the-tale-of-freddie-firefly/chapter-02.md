@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Fine Plan"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-freddie-firefly/chapter-02.html"
 ---
 
 Chirpy Cricket was one of Freddie Firefly's neighbors. He was a good neighbor for anybody to have, too, because he was one of the most cheerful of all the field and forest-folk that lived in Pleasant Valley. Freddie Firefly liked him. And he often remarked that he would rather hear Chirpy Cricket sing than sing himself.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1"
 weight: 2
-aliases:
-  - "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-01.html"
+url: "/authors/christie-agatha/the-man-in-the-brown-suit/chapter-01.html"
 ---
 
 Everybody has been at me, right and left, to write this story from the great (represented by Lord Nasby) to the small (represented by our late maid of all work, Emily, whom I saw when I was last in England. “Lor’, miss, what a beyewtiful book you might make out of it all—just like the pictures!”).

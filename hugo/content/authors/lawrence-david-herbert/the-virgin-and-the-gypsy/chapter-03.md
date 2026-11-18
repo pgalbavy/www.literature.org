@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-03.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-03.html"
 ---
 
 The next day was dull and low, and the roads were awful, for it had been raining for weeks, yet the young ones set off on their trip, without taking Granny's message either. They just slipped out while she was making her slow trip upstairs after lunch. Not for anything would they have called at Lady Louth's house. That widow of a knighted doctor, a harmless person indeed, had become an obnoxity in their lives.

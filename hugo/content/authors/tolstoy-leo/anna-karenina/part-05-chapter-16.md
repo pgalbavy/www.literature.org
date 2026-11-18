@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 16"
 weight: 140
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-16.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-16.html"
 ---
 
 When Levin went up-stairs, his wife was sitting near the new silver samovar behind the new tea-service, and, having settled old Agafea Mihalovna at a little table with a full cup of tea, was reading a letter from Dolly, with whom they were in continual and frequent correspondence.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 6 - \u0026quot;Hast Thou Found Me, O Mine Enemy?\u0026quot;"
 weight: 6
-aliases:
-  - "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-06.html"
+url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-06.html"
 ---
 
 Aynesworth was waiting in the hall on the following afternoon when Lady Ruth arrived. He had half expected that she would drive up to the side door in a hansom, would wear a thick veil, and adopt the other appurtenances of a clandestine meeting. But Lady Ruth was much too clever a woman for anything of the sort. She descended at the great front entrance from her own electric coupe, and swept into the hotel followed by her maid. She stopped to speak to the manager of the hotel, who knew her from her visits to the world-famous restaurant, and she asked at once for Sir Wingrave Seton. Then she saw Aynesworth, and crossed the hall with outstretched hand.

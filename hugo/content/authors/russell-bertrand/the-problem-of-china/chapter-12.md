@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Chinese Character"
 weight: 13
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-12.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-12.html"
 ---
 
 There is a theory among Occidentals that the Chinaman is inscrutable, full of secret thoughts, and impossible for us to understand. It may be that a greater experience of China would have brought me to share this opinion; but I could see nothing to support it during the time when I was working in that country. I talked to the Chinese as I should have talked to English people, and they answered me much as English people would have answered a Chinese whom they considered educated and not wholly unintelligent. I do not believe in the myth of the "Subtle Oriental": I am convinced that in a game of mutual deception an Englishman or American can beat a Chinese nine times out of ten. But as many comparatively poor Chinese have dealings with rich white men, the game is often played only on one side. Then, no doubt, the white man is deceived and swindled; but not more than a Chinese mandarin would be in London.

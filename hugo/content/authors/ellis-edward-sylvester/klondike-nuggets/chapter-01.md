@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Gold-Hunters"
 weight: 1
-aliases:
-  - "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-01.html"
+url: "/authors/ellis-edward-sylvester/klondike-nuggets/chapter-01.html"
 ---
 
 Jeff Graham was an Argonaut who crossed the plains in 1849, while he was yet in his teens, and settling in California, made it his permanent home. When he left Independence, Mo., with the train, his parents and one sister were his companions, but all of them were buried on the prairie, and their loss robbed him of the desire ever to return to the East. Hostile Indians, storm, cold, heat, privation, and suffering were the causes of their taking off, as they have been of hundreds who undertook the long journey to the Pacific coast in quest of gold.

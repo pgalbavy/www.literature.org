@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Sailorman"
 weight: 6
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-05.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-05.html"
 ---
 
 Before Latimer put him on watch, the Nantucket sailorman had not a care in the world. If the wind blew from the north, he spun to the left; if it came from the south, he spun to the right. But it was entirely the wind that was responsible. So, whichever way he turned, he smiled broadly, happily. His outlook upon the world was that of one who loved his fellowman. He had many brothers as like him as twins all over Nantucket and Cape Cod and the North Shore, smiling from the railings of verandas, from the roofs of bungalows, from the eaves of summer palaces. Empaled on their little iron uprights, each sailorman whirled--sometimes languidly, like a great lady revolving to the slow measures of a waltz, sometimes so rapidly that he made you quite dizzy, and had he not been a sailorman with a heart of oak and a head and stomach of pine, he would have been quite seasick. But the particular sailorman that Latimer bought for Helen Page and put on sentry duty carried on his shoulders most grave and unusual responsibilities. He was the guardian of a buried treasure, the keeper of the happiness of two young people. It was really asking a great deal of a care-free, happy-go-lucky weather-vane.

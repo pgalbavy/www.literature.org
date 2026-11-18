@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40 - The End Of The Search"
 weight: 40
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-40.html"
+url: "/authors/ellis-edward-sylvester/adrift-in-the-wilds/chapter-40.html"
 ---
 
 About a hundred and fifty feet above them, almost perpendicularly upward, stood an antelope, its small neck outstretched, and its dark, beautiful eyes fixed upon them with a wondering expression. It was on the very edge of a projecting rock where one step more would bring it over.

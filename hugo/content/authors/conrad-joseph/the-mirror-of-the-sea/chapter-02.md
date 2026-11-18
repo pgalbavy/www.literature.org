@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-02.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-02.html"
 ---
 
 Some commanders of ships take their Departure from the home coast sadly, in a spirit of grief and discontent. They have a wife, children perhaps, some affection at any rate, or perhaps only some pet vice, that must be left behind for a year or more. I remember only one man who walked his deck with a springy step, and gave the first course of the passage in an elated voice. But he, as I learned afterwards, was leaving nothing behind him, except a welter of debts and threats of legal proceedings.

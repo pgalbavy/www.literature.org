@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 2"
 weight: 126
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-02.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-02.html"
 ---
 
 On the day of the wedding, according to the Russian custom (the princess and Darya Alexandrovna insisted on strictly keeping all the customs), Levin did not see his betrothed, and dined at his hotel with three bachelor friends, casually brought together at his rooms. These were Sergey Ivanovitch, Katavasov, a university friend, now professor of natural science, whom Levin had met in the street and insisted on taking home with him, and Tchirikov, his best man, a Moscow conciliation-board judge, Levin's companion in his bear-hunts. The dinner was a very merry one: Sergey Ivanovitch was in his happiest mood, and was much amused by Katavasov's originality. Katavasov, feeling his originality was appreciated and understood, made the most of it. Tchirikov always gave a lively and good-humored support to conversation of any sort.

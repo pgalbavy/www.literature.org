@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - New Impressions"
 weight: 37
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-37.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-37.html"
 ---
 
 At three o'clock in the afternoon, all the fashionable world at Nice may be seen on the Promenade des Anglais - a charming place, for the wide walk, bordered with palms, flowers, and tropical shrubs, is bounded on one side by the sea, on the other by the grand drive, lined with hotels and villas, while beyond lie orange orchards and the hills. Many nations are represented, many languages spoken, many costumes worn, and on a sunny day the spectacle is as gay and brilliant as a carnival. Haughty English, lively French, sober Germans, handsome Spaniards, ugly Russians, meek Jews, free-and-easy Americans, all drive, sit, or saunter here, chatting over the news, and criticizing the latest celebrity who has arrived - Ristori or Dickens, Victor Emmanuel or the Queen of the Sandwich Islands. The equipages are as varied as the company and attract as much attention, especially the low basket barouches in which ladies drive themselves, with a pair of dashing ponies, gay nets to keep their voluminous flounces from overflowing the diminutive vehicles, and little grooms on the perch behind.

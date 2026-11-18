@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/ridge-w-pett/a-son-of-the-state/chapter-02.html"
+url: "/authors/ridge-w-pett/a-son-of-the-state/chapter-02.html"
 ---
 
 THE boy’s sense of injury gave way, and became, indeed, utterly routed the next morning by a feeling of importance. Mrs. Rastin bustled in and prepared a breakfast that filled the room with a most entrancing scent of frying fish; to show her sympathy she sat down with him to the meal, and ate with excellent appetite, beguiling the time with cheery accounts of sudden deaths and murders and suicides that she, in the past, had had the rare good fortune to encounter. Mrs. Rastin took charge of the keys belonging to the chest of drawers, remarking that so far as regarded any little thing that Bobbie’s poor dear mother might have left, she would see that right was done just the same as though it were her own. Holidays being on at the Board School which Bobbie intermittently attended, Mrs. Rastin said how would it be if he were to take a turn in Hoxton Street for a few hours whilst she turned to and tidied up?

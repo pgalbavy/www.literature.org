@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - In The Pit"
 weight: 35
-aliases:
-  - "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-35.html"
+url: "/authors/hodgson-burnett-frances/that-lass-o-lowries/chapter-35.html"
 ---
 
 The next morning Derrick went down to the mine as usual. There were several things he wished to do in these last two days. He had heard that the managers had entered into negotiations with a new engineer, and he wished the man to find no half-done work. The day was bright and frosty, and the sharp, bracing air seemed to clear his brain. He felt more hopeful, and less inclined to view matters darkly.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Nature Indulges In Satire"
 weight: 8
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-08.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-08.html"
 ---
 
 Though I am not giving authorship to this narrative with a view to its general perusal, I am determined so to write it that if other eyes do chance upon it they may read the true records of a man's emotions under those circumstances.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Psychological And Physical Causal Laws"
 weight: 6
-aliases:
-  - "/authors/russell-bertrand/the-analysis-of-mind/chapter-05.html"
+url: "/authors/russell-bertrand/the-analysis-of-mind/chapter-05.html"
 ---
 
 The traditional conception of cause and effect is one which modern science shows to be fundamentally erroneous, and requiring to be replaced by a quite different notion, that of *LAWS OF CHANGE.* In the traditional conception, a particular event A caused a particular event B, and by this it was implied that, given any event B, some earlier event A could be discovered which had a relation to it, such that—

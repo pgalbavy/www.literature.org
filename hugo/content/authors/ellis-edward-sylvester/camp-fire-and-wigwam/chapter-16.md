@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - A Perplexing Question"
 weight: 16
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-16.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-16.html"
 ---
 
 Deerfoot, the Shawanoe, had entered upon the most difficult task of his life. He had undertaken to follow up and befriend the youths who had disappeared more than a week previous, and who had left not the slightest clue as to where they had gone, nor what direction they had taken.

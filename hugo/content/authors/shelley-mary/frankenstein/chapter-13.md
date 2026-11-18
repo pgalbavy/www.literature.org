@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/shelley-mary/frankenstein/chapter-13.html"
+url: "/authors/shelley-mary/frankenstein/chapter-13.html"
 ---
 
 "I now hasten to the more moving part of my story. I shall relate events that impressed me with feelings which, from what I had been, have made me what I am.

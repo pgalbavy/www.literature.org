@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 22 - Wherein Is Related The Grand Adventure Of The Cave Of Montesinos In The Heart Of La Mancha, Which The Valiant Don Quixote Brought To A Happy Termination"
 weight: 78
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-22.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-22.html"
 ---
 
 Many and great were the attentions shown to Don Quixote by the newly married couple, who felt themselves under an obligation to him for coming forward in defence of their cause; and they exalted his wisdom to the same level with his courage, rating him as a Cid in arms, and a Cicero in eloquence. Worthy Sancho enjoyed himself for three days at the expense of the pair, from whom they learned that the sham wound was not a scheme arranged with the fair Quiteria, but a device of Basilio’s, who counted on exactly the result they had seen; he confessed, it is true, that he had confided his idea to some of his friends, so that at the proper time they might aid him in his purpose and insure the success of the deception.

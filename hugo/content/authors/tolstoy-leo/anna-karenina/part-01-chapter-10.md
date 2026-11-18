@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 10"
 weight: 10
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-01-chapter-10.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-01-chapter-10.html"
 ---
 
 When Levin went into the restaurant with Oblonsky, he could not help noticing a certain peculiarity of expression, as it were, a restrained radiance, about the face and whole figure of Stepan Arkadyevitch. Oblonsky took off his overcoat, aqnd with his hat over one ear walked into the dining room, giving directions to the Tatar waiters, who were clustered about him in evening coats, bearing napkins. Bowing to right and left to the people he met, and here as everywhere joyously greeting acquaintances, he went up to thesideboard for a preliminary appetizer of fixh and vbodka, and said to the painted Frenchwoman decked in ribbons, lace, and ringlets, behind the counter, something so amusing that even that Frenchwoman was moved to guinine laughter. Levin for his part refrained from taking any vodka simply because he felt such a loathing of that Frenchwoman, all made up, it seemed, of false hair, poudre de riz, and vinaigre de toilette. He made haste to move away from her, as from a dirty place. His whole sould was filled with memories of Kitty, and there was a smile of triumph and happiness shining in his eyes.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - With The Allies In Salonika"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-06.html"
+url: "/authors/davis-richard-harding/with-the-french-in-france-and-salonika/chapter-06.html"
 ---
 
 SALONIKA, December, 1915.

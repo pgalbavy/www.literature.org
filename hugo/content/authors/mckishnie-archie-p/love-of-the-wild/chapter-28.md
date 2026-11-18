@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Clear Trail"
 weight: 28
-aliases:
-  - "/authors/mckishnie-archie-p/love-of-the-wild/chapter-28.html"
+url: "/authors/mckishnie-archie-p/love-of-the-wild/chapter-28.html"
 ---
 
 Colonel Hallibut sat before the fire smoking and dreaming. The monotonous winter had proven drear enough for him, accustomed as he was to out-of-doors exercise, and now the splash of rain upon the roof fell on his ears like the tinkle of music. Every morning for three months the Colonel had told himself that he would visit those outlaws as soon as the trail was clear, and demand that the man who burned his schooner give himself up. But for three months the trail remained choked and the frost promised death to anyone venturing any distance from shelter. However, spring would now soon come bounding in, so the big man nursed his wrath and said, “To-morrow.”

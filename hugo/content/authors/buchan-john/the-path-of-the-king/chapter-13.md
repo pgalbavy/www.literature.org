@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Last Stage"
 weight: 14
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-13.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-13.html"
 ---
 
 A small boy crept into the darkened hut. The unglazed windows were roughly curtained with skins, but there was sufficient light from the open doorway to show him what he wanted. He tiptoed to a corner where an old travelling trunk lay under a pile of dirty clothes. He opened it very carefully, and after a little searching found the thing he sought. Then he gently closed it, and, with a look towards the bed in the other corner, he slipped out again into the warm October afternoon.

@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 2"
 weight: 2
-aliases:
-  - "/authors/cather-willa/song-of-the-lark/part-01-chapter-02.html"
+url: "/authors/cather-willa/song-of-the-lark/part-01-chapter-02.html"
 ---
 
 For the next four days it seemed to Dr. Archie that his patient might slip through his hands, do what he might. But she did not. On the contrary, after that she recovered very rapidly. As her father remarked, she must have inherited the “constitution” which he was never tired of admiring in her mother.

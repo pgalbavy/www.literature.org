@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 5"
 weight: 5
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-01-chapter-05.html"
+url: "/authors/cather-willa/o-pioneers/part-01-chapter-05.html"
 ---
 
 Alexandra and Emil spent five days down among the river farms, driving up and down the valley. Alexandra talked to the men about their crops and to the women about their poultry. She spent a whole day with one young farmer who had been away at school, and who was experimenting with a new kind of clover hay. She learned a great deal. As they drove along, she and Emil talked and planned. At last, on the sixth day, Alexandra turned Brigham's head northward and left the river behind.

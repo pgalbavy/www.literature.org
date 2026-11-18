@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Come Away, Come Away!"
 weight: 3
-aliases:
-  - "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-03.html"
+url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-03.html"
 ---
 
 For a moment after Mr. and Mrs. Darling left the house the night-lights by the beds of the three children continued to burn clearly. They were awfully nice little night-lights, and one cannot help wishing that they could have kept awake to see Peter; but Wendy's light blinked and gave such a yawn that the other two yawned also, and before they could close their mouths all the three went out.

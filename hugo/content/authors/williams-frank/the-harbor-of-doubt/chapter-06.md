@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - The Island Decides"
 weight: 6
-aliases:
-  - "/authors/williams-frank/the-harbor-of-doubt/chapter-06.html"
+url: "/authors/williams-frank/the-harbor-of-doubt/chapter-06.html"
 ---
 
 In Freekirk Head, next morning, painted signs nailed to telegraph-poles at intervals along the King's Road as far as Castalia read:

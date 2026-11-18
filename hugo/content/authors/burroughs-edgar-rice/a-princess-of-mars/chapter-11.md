@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - With Dejah Thoris"
 weight: 11
-aliases:
-  - "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-11.html"
+url: "/authors/burroughs-edgar-rice/a-princess-of-mars/chapter-11.html"
 ---
 
 As we reached the open the two female guards who had been detailed to watch over Dejah Thoris hurried up and made as though to assume custody of her once more. The poor child shrank against me and I felt her two little hands fold tightly over my arm. Waving the women away, I informed them that Sola would attend the captive hereafter, and I further warned Sarkoja that any more of her cruel attentions bestowed upon Dejah Thoris would result in Sarkoja's sudden and painful demise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Boy Who Cried Wolf"
 weight: 9
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-08.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-08.html"
 ---
 
 Before he finally arrested him, “Jimmie” Sniffen had seen the man with the golf-cap, and the blue eyes that laughed at you, three times. Twice, unexpectedly, he had come upon him in a wood road and once on Round Hill where the stranger was pretending to watch the sunset. Jimmie knew people do not climb hills merely to look at sunsets, so he was not deceived. He guessed the man was a German spy seeking gun sites, and secretly vowed to “stalk” him. From that moment, had the stranger known it, he was as good as dead. For a boy scout with badges on his sleeve for “stalking” and “path-finding,” not to boast of others for “gardening” and “cooking,” can outwit any spy. Even had, General Baden-Powell remained in Mafeking and not invented the boy scout, Jimmie Sniffen would have been one. Because, by birth he was a boy, and by inheritance, a scout. In Westchester County the Sniffens are one of the county families. If it isn't a Sarles, it's a Sniffen; and with Brundages, Platts, and Jays, the Sniffens date back to when the acres of the first Charles Ferris ran from the Boston post road to the coach road to Albany, and when the first Gouverneur Morris stood on one of his hills and saw the Indian canoes in the Hudson and in the Sound and rejoiced that all the land between belonged to him.

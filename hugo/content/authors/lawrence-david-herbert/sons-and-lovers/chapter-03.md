@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Casting Off Of Morel--The Taking On Of William"
 weight: 3
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-03.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-03.html"
 ---
 
 DURING the next week Morel's temper was almost unbearable. Like all miners, he was a great lover of medicines, which, strangely enough, he would often pay for himself.

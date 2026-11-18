@@ -1,8 +1,7 @@
 ---
 title: "Chapter 45 - A Conjugal Scene"
 weight: 46
-aliases:
-  - "/authors/dumas-alexandre/the-three-musketeers/chapter-45.html"
+url: "/authors/dumas-alexandre/the-three-musketeers/chapter-45.html"
 ---
 
 As Athos had foreseen, it was not long before the cardinal came down. He opened the door of the room in which the Musketeers were, and found Porthos playing an earnest game of dice with Aramis. He cast a rapid glance around the room, and perceived that one of his men was missing.

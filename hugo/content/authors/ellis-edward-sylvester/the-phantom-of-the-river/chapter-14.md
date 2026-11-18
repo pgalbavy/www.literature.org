@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Intruder"
 weight: 14
-aliases:
-  - "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-14.html"
+url: "/authors/ellis-edward-sylvester/the-phantom-of-the-river/chapter-14.html"
 ---
 
 It has been said that Agnes Altman, seated behind the boulder on the edge of the rude fortification near the river, was among the most alert of the pioneers that had taken refuge there until Simon Kenton could open the way for their escape across the Ohio.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 12
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-11.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-11.html"
 ---
 
 The rain fell thickly until midnight, and kept me listening to the double roll of the drops along the shingles. I lay in my blanket under the roof, and slept when the rain ceased, but awoke before dawn, listening to the wind roaring around the eaves. Pale clouds, scudding low, alternately hid and revealed the purple roof of sky on which stars hung trembling like drops of dew.

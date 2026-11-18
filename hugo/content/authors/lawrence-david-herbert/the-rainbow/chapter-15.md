@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Bitterness Of Ecstasy"
 weight: 15
-aliases:
-  - "/authors/lawrence-david-herbert/the-rainbow/chapter-15.html"
+url: "/authors/lawrence-david-herbert/the-rainbow/chapter-15.html"
 ---
 
 A storm of industry raged on in the house. Ursula did not go to college till October. So, with a distinct feeling of responsibility, as if she must express herself in this house, she laboured arranging, re-arranging, selecting, contriving.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-28.html"
 ---
 
 The popularity of Captain Palliser's story of the “Ladies” had been great at the outset, but with the passage of time it had oddly waned. This had resulted from the story's ceasing to develop itself, as the simplest intelligence might have anticipated, by means of the only person capable of its proper development. The person in question was of course T. Tembarom. Expectations, amusing expectations, of him had been raised, and he had singularly failed in the fulfilling of them. The neighborhood had, so to speak, stood upon tiptoe,--the feminine portion of it, at least,--looking over shoulders to get the first glimpses of what would inevitably take place.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-06.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-06.html"
 ---
 
 WELL, pretty soon the old man was up and around again, and then he went for Judge Thatcher in the courts to make him give up that money, and he went for me, too, for not stopping school. He catched me a couple of times and thrashed me, but I went to school just the same, and dodged him or outrun him most of the time. I didn't want to go to school much before, but I reckoned I'd go now to spite pap. That law trial was a slow business -- appeared like they warn't ever going to get started on it; so every now and then I'd borrow two or three dollars off of the judge for him, to keep from getting a cowhiding. Every time he got money he got drunk; and every time he got drunk he raised Cain around town; and every time he raised Cain he got jailed. He was just suited -- this kind of thing was right in his line.

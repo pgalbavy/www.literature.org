@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Ann Veronica Gathers Points Of View"
 weight: 2
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-02.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-02.html"
 ---
 
 "Are you coming to the Fadden Dance, Ann Veronica?" asked Constance Widgett.

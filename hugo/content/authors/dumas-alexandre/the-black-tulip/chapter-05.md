@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Tulip-Fancier And His Neighbour"
 weight: 5
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-05.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-05.html"
 ---
 
 Whilst the burghers of the Hague were tearing in pieces the bodies of John and Cornelius de Witt, and whilst William of Orange, after having made sure that his two antagonists were really dead, was galloping over the Leyden road, followed by Captain van Deken, whom he found a little too compassionate to honour him any longer with his confidence, Craeke, the faithful servant, mounted on a good horse, and little suspecting what terrible events had taken place since his departure, proceeded along the high road lined with trees, until he was clear of the town and the neighbouring villages.

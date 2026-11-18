@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Getting Acquainted"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-reddy-wokkpecker/chapter-02.html"
 ---
 
 "I don’t believe—" said Mrs. Jolly Robin after old Mr. Crow had flown off in a rage—"I don’t believe this Mr. Woodpecker can be such a bad person as Mr. Crow thinks. He certainly wears very stylish clothes and a very handsome red cap."

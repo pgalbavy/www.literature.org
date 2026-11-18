@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Camp Laurence"
 weight: 12
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-12.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-12.html"
 ---
 
 Beth was postmistress, for, being most at home, she could attend to it regularly, and dearly liked the daily task of unlocking the little door and distributing the mail. One July day she came in with her hands full, and went about the house leaving letters and parcels like the penny post.

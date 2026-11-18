@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 1 - On The Great Alkali Plain"
 weight: 8
-aliases:
-  - "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-01.html"
+url: "/authors/doyle-arthur-conan/a-study-in-scarlet/part-02-chapter-01.html"
 ---
 
 IN the central portion of the great North American Continent there lies an arid and repulsive desert, which for many a long year served as a barrier against the advance of civilisation. From the Sierra Nevada to Nebraska, and from the Yellowstone River in the north to the Colorado upon the south, is a region of desolation and silence. Nor is Nature always in one mood throughout this grim district. It comprises snow-capped and lofty mountains, and dark and gloomy valleys. There are swift-flowing rivers which dash through jagged canons; {18} and there are enormous plains, which in winter are white with snow, and in summer are grey with the saline alkali dust. They all preserve, however, the common characteristics of barrenness, inhospitality, and misery.

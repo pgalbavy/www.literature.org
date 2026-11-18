@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Glamour"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/his-own-people/chapter-03.html"
+url: "/authors/tarkington-booth/his-own-people/chapter-03.html"
 ---
 
 It was some fair dream that would be gone too soon, he told himself, as they drove rapidly through the twilight streets, down from the Pincio and up the long slope of the Quirinal. They came to a stop in the gray courtyard of a palazzo, and ascended in a sleepy elevator to the fifth floor. Emerging, they encountered a tall man who was turning away from the Countess' door, which he had just closed. The landing was not lighted, and for a moment he failed to see the American following Madame de Vaurigard.

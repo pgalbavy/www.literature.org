@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Flower Temple"
 weight: 15
-aliases:
-  - "/authors/haggard-h-rider/allan-quatermain/chapter-14.html"
+url: "/authors/haggard-h-rider/allan-quatermain/chapter-14.html"
 ---
 
 It was half-past eight by my watch when I woke on the morning following our arrival at Milosis, having slept almost exactly twelve hours, and I must say that I did indeed feel better. Ah, what a blessed thing is sleep! and what a difference twelve hours of it or so makes to us after days and nights of toil and danger. It is like going to bed one man and getting up another.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-26.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-26.html"
 ---
 
 In which Phileas Fogg and party travel by the Pacific railroad

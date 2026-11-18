@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 1"
 weight: 45
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-04-chapter-01.html"
+url: "/authors/cather-willa/one-of-ours/book-04-chapter-01.html"
 ---
 
 A long train of crowded cars, the passengers all of the same sex, almost of the same age, all dressed and hatted alike, was slowly steaming through the green sea-meadows late on a summer afternoon. In the cars, incessant stretching of cramped legs, shifting of shoulders, striking of matches, passing of cigarettes, groans of boredom; occasionally concerted laughter about nothing. Suddenly the train stops short. Clipped heads and tanned faces pop out at every window. The boys begin to moan and shout; what is the matter now?

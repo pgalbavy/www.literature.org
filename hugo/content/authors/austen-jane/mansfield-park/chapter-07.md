@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-07.html"
+url: "/authors/austen-jane/mansfield-park/chapter-07.html"
 ---
 
 “Well, Fanny, and how do you like Miss Crawford now?” said Edmund the next day, after thinking some time on the subject himself. “How did you like her yesterday?”

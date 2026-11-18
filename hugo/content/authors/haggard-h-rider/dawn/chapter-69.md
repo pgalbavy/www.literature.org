@@ -1,8 +1,7 @@
 ---
 title: "Chapter 69"
 weight: 70
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-69.html"
+url: "/authors/haggard-h-rider/dawn/chapter-69.html"
 ---
 
 And so on the following day Angela and Pigott returned to the Abbey House, but they both felt that it was a sad home-coming. Indeed, if there had been no other cause for melancholy, the sight of Philip's face was enough to excite it in the most happy-minded person. Not that Angela saw much of him, however, for they still kept to their old habit of not living together. All day her father was shut up in his room transacting business that had reference to the accession of his property and the settlement of George's affairs; for his cousin had died intestate, so he took his personalty and wound up the estate as heir-at-law. At night, however, he would go out and walk for miles, and in all weathers--he seemed to dread spending the dark hours at home.

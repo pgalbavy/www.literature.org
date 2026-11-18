@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - A Lunar Morning"
 weight: 8
-aliases:
-  - "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-08.html"
+url: "/authors/wells-herbert-george/the-first-men-in-the-moon/chapter-08.html"
 ---
 
 The harsh emphasis, the pitiless black and white of scenery had altogether disappeared. The glare of the sun had taken upon itself a faint tinge of amber; the shadows upon the cliff of the crater wall were deeply purple. To the eastward a dark bank of fog still crouched and sheltered from the sunrise, but to the westward the sky was blue and clear. I began to realise the length of my insensibility.

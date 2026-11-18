@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-28.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-28.html"
 ---
 
 BY and by it was getting-up time. So I come down the ladder and started for down-stairs; but as I come to the girls' room the door was open, and I see Mary Jane setting by her old hair trunk, which was open and she'd been packing things in it -- getting ready to go to England. But she had stopped now with a folded gown in her lap, and had her face in her hands, crying. I felt awful bad to see it; of course anybody would. I went in there and says:

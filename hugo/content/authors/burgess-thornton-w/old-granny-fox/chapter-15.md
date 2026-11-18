@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - Reddy Fights A Battle"
 weight: 15
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-15.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-15.html"
 ---
 
 'T is not the foes that are without  

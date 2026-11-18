@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - A Hopeless Task"
 weight: 28
-aliases:
-  - "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-28.html"
+url: "/authors/ellis-edward-sylvester/among-the-esquimaux/chapter-28.html"
 ---
 
 A fearful task confronted the little party. Thirty miles of snow, several feet deep, lay between them and their only haven of refuge, and they were without sled or snow-shoe. If they succeeded in their prodigious task, it must be done by sheer strength and the power of continued desperation.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 51 - Affording An Explanation Of More Mysteries Than One, And Comprehending A Proposal Of Marriage With No Word Of Settlement Or Pin-Money"
 weight: 51
-aliases:
-  - "/authors/dickens-charles/oliver-twist/chapter-51.html"
+url: "/authors/dickens-charles/oliver-twist/chapter-51.html"
 ---
 
 The events narrated in the last chapter were yet but two days old, when Oliver found himself, at three o'clock in the afternoon, in a travelling-carriage rolling fast towards his native town. Mrs. Maylie, and Rose, and Mrs. Bedwin, and the good doctor were with him: and Mr. Brownlow followed in a post-chaise, accompanied by one other person whose name had not been mentioned.

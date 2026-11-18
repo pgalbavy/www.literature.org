@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Mr. Crow's Apology"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-grandfather-mole/chapter-19.html"
 ---
 
 IT was lucky for Mr. Meadow Mouse that he had placed a little distance between himself and Grandfather Mole down in the gallery under the cornfield. For when Grandfather Mole rushed at him, Mr. Meadow Mouse had just enough lead to escape. He made for the open air as fast as he could scramble, knowing that Grandfather Mole could never catch him once he reached the great out-of-doors.

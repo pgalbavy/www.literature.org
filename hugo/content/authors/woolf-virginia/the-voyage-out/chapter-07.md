@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-07.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-07.html"
 ---
 
 From a distance the *Euphrosyne* looked very small. Glasses were turned upon her from the decks of great liners, and she was pronounced a tramp, a cargo-boat, or one of those wretched little passenger steamers where people rolled about among the cattle on deck. The insect-like figures of Dalloways, Ambroses, and Vinraces were also derided, both from the extreme smallness of their persons and the doubt which only strong glasses could dispel as to whether they were really live creatures or only lumps on the rigging. Mr. Pepper with all his learning had been mistaken for a cormorant, and then, as unjustly, transformed into a cow. At night, indeed, when the waltzes were swinging in the saloon, and gifted passengers reciting, the little ship—shrunk to a few beads of light out among the dark waves, and one high in air upon the mast-head—seemed something mysterious and impressive to heated partners resting from the dance. She became a ship passing in the night—an emblem of the loneliness of human life, an occasion for queer confidences and sudden appeals for sympathy.

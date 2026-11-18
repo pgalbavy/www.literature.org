@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 5"
 weight: 10
-aliases:
-  - "/authors/conrad-joseph/romance/part-02-chapter-05.html"
+url: "/authors/conrad-joseph/romance/part-02-chapter-05.html"
 ---
 
 I remained lying there, bound hand and foot, for a long time; for quite long enough to allow me to collect my senses and see that I had been a fool to threaten O'Brien. I had been nobly indignant, and behold! I had a sack thrown over my head for my pains, and was put away safely somewhere or other. It seemed to be a cellar.

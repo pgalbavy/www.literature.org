@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Biggest Surprise Of All"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-21.html"
 ---
 
 It was a pretty big surprise for Tommy Fox, when Mr. Grouse sprang out of the snow, right beneath his feet. But it was nothing at all, compared with the surprise Tommy had when he reached home.

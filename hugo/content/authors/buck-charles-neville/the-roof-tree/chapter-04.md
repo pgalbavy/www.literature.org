@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/the-roof-tree/chapter-04.html"
+url: "/authors/buck-charles-neville/the-roof-tree/chapter-04.html"
 ---
 
 A week later Dorothy led Kenneth Thornton and Peter Doane to a place where beside a huge boulder a "spring-branch" gushed into a natural basin of stone. The ferns grew thick there, and the moss lay deep and green, but over the spot, with branches spreading nobly and its head high-reared, stood an ancient walnut and in the narrow circle of open ground at its base grew a young tree perhaps three feet tall.

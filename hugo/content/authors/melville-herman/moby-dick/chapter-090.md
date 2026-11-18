@@ -1,8 +1,7 @@
 ---
 title: "Chapter 90 - Heads or Tails"
 weight: 90
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-090.html"
+url: "/authors/melville-herman/moby-dick/chapter-090.html"
 ---
 
 "De balena vero sufficit, si rex habeat caput, et regina caudam."

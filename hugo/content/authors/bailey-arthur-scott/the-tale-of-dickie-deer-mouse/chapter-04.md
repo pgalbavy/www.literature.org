@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Blackbird's Nest"
 weight: 4
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-04.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-dickie-deer-mouse/chapter-04.html"
 ---
 
 For a few days after his visit to Mr. Crow's elm, Dickie Deer Mouse kept watch carefully of Mr. Crow's comings and goings. And he decided at last that the old gentleman liked his home too well to leave it.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Eastern Shore"
 weight: 4
-aliases:
-  - "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-04.html"
+url: "/authors/ellis-edward-sylvester/the-daughter-of-the-chieftain/chapter-04.html"
 ---
 
 Young Ben Ripley made a good record on that eventful 3rd of July. He loaded and fired as steadily as a veteran. The smoke of the guns, the wild whooping of the Iroquois Indians, the sight of his friends and neighbors continually dropping to the ground, some of them at his elbow, the deafening discharge of the rifles—all these and the dreadful swirl and rush of events dazed him at times; but he kept at it with a steadiness which caused more than one expression of praise from the officers nearest him.

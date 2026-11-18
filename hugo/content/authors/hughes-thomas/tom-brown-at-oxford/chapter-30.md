@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30 - Amusements At Barton Manor"
 weight: 32
-aliases:
-  - "/authors/hughes-thomas/tom-brown-at-oxford/chapter-30.html"
+url: "/authors/hughes-thomas/tom-brown-at-oxford/chapter-30.html"
 ---
 
 "A letter, Miss, from Englebourn," said a footman, coming up to Mary with the note given at the end of the last chapter, on a waiter. She took it and tore it open; and while she is reading it, the reader may be introduced to the place and company in which we find her. The scene is a large old-fashioned square brick house, backed by fine trees, in the tops of which the rooks live, and the jackdaws and starlings in the many holes which time has worn in the old trunks; but they are all away on this fine summer morning, seeking their meal and enjoying themselves in the neighbouring fields. In the front of the house is a pretty flower garden, separated by a haw-haw from a large pasture, sloping southwards gently down to a stream, which glides along through water-cress and willow beds to join the Kennet. The beasts have all been driven off, and on the upper part of the field, nearest the house, two men are fixing up a third pair of targets on the rich short grass. A large tent is pitched near the archery ground, to hold quivers and bow-cases, and luncheon, and to shelter lookers-on from the mid-day sun. Beyond the brook, a pleasant, well-timbered, country lies, with high chalk-downs for an horizon, ending in Marlborough hill, faint and blue in the west. This is the place which Mary's father has taken for the summer and autumn, and where she is fast becoming the pet of the neighborhood.

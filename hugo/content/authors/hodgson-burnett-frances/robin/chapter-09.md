@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 10
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-09.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-09.html"
 ---
 
 It was not a long time before he had left the house, but it seemed long and as if he had thought a great many rather incoherent things before he had reached the street and presently parted from his gay acquaintance and was on his way to his mother's house where she was spending a week, having come down from Scotland as she did often.

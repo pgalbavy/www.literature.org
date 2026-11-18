@@ -1,8 +1,7 @@
 ---
 title: "Part 6 - Chapter 27"
 weight: 184
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-06-chapter-27.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-06-chapter-27.html"
 ---
 
 The sixth day was fixed for the election of the marshal of the province. The rooms, large and small, were full of noblemen in all sorts of uniforms. Many had come only for that day. Men who had not seen each other for years, some from the Crimea, some from Petersburg, some from abroad, met in the rooms of the Hall of Nobility. There was much discussion around the governor's table under the portrait of the Tsar.

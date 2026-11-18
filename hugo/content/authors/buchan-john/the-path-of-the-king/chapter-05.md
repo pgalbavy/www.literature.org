@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Maid"
 weight: 6
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-05.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-05.html"
 ---
 
 The hostel of the Ane Raye poured from its upper and lower windows a flood of light into the gathering August dusk. It stood, a little withdrawn among its beeches, at a cross-roads, where the main route southward from the Valois cut the highway from Paris to Rheims and Champagne. The roads at that hour made ghostly white ribbons, and the fore-court of dusty grasses seemed of a verdure which daylight would disprove. Weary horses nuzzled at a watertrough, and serving-men in a dozen liveries made a bustle around the stables, which formed two sides of the open quadrangle. At the foot of the inn signpost beggars squatted—here a leper whining monotonously, there lustier vagrants dicing for supper. At the main door a knot of young squires stood talking in whispers—impatient, if one judged from the restless clank of metal, but on duty, as appeared when a new-comer sought entrance and was brusquely denied. For in an upper room there was business of great folk, and the commonalty must keep its distance.

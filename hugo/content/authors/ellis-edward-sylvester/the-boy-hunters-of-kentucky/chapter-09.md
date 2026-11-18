@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Royal Game"
 weight: 9
-aliases:
-  - "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-09.html"
+url: "/authors/ellis-edward-sylvester/the-boy-hunters-of-kentucky/chapter-09.html"
 ---
 
 "I wonder how far off the lick is," said George, looking along the path, which the eye could trace for several rods.

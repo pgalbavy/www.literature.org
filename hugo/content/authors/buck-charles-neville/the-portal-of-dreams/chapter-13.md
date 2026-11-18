@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Enter The Infantryman"
 weight: 13
-aliases:
-  - "/authors/buck-charles-neville/the-portal-of-dreams/chapter-13.html"
+url: "/authors/buck-charles-neville/the-portal-of-dreams/chapter-13.html"
 ---
 
 The morning would bring by rescuers and the breaking up of housekeeping in my cave. I had no wish that profane eyes should look upon the portrait or the devout worship of my beloved cannibals. Now that I was leaving them I realized that they were beloved. In my memory loomed a hundred acts of simple courtesy. The portrait I took down from its shrined position; the Damascus daggers I put again into their places, and the Mandarin's kimono I folded carefully into a package. On all these things, as on the era for which they stood, I dropped the lid of the mate's chest.

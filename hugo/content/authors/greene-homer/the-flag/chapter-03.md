@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/greene-homer/the-flag/chapter-03.html"
+url: "/authors/greene-homer/the-flag/chapter-03.html"
 ---
 
 It was on an afternoon late in January that the flag was finally presented to the school. It was a day marked with fierce winds and flurries of snow, like a day in March.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Journey to the Great Oz "
 weight: 8
-aliases:
-  - "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-07.html"
+url: "/authors/baum-l-frank/the-wonderful-wizard-of-oz/chapter-07.html"
 ---
 
 They were obliged to camp out that night under a large tree in the forest, for there were no houses near. The tree made a good, thick covering to protect them from the dew, and the Tin Woodman chopped a great pile of wood with his axe and Dorothy built a splendid fire that warmed her and made her feel less lonely. She and Toto ate the last of their bread, and now she did not know what they would do for breakfast.

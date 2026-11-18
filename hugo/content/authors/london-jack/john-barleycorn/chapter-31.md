@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-31.html"
+url: "/authors/london-jack/john-barleycorn/chapter-31.html"
 ---
 
 But the same stimulus to the human organism will not continue to produce the same response. By and by I discovered there was no kick at all in one cocktail. One cocktail left me dead. There was no glow, no laughter tickle. Two or three cocktails were required to produce the original effect of one. And I wanted that effect. I drank my first cocktail at eleven-thirty when I took the morning's mail into the hammock, and I drank my second cocktail an hour later just before I ate. I got into the habit of crawling out of the hammock ten minutes earlier so as to find time and decency for two more cocktails ere I ate. This became schedule--three cocktails in the hour that intervened between my desk and dinner. And these are two of the deadliest drinking habits: regular drinking and solitary drinking.

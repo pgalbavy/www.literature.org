@@ -1,8 +1,7 @@
 ---
 title: "Book 10 - Chapter 33"
 weight: 223
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-10-chapter-33.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-10-chapter-33.html"
 ---
 
 The chief action of the battle of Borodino was fought within the seven thousand feet between Borodino and Bagration's fleches. Beyond that space there was, on the one side, a demonstration made by the Russians with Uvarov's cavalry at midday, and on the other side, beyond Utitsa, Poniatowski's collision with Tuchkov; but these two were detached and feeble actions in comparison with what took place in the center of the battlefield. On the field between Borodino and the fleches, beside the wood, the chief action of the day took place on an open space visible from both sides and was fought in the simplest and most artless way.

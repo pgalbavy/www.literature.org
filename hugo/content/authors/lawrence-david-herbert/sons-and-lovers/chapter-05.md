@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Paul Launches Into Life"
 weight: 5
-aliases:
-  - "/authors/lawrence-david-herbert/sons-and-lovers/chapter-05.html"
+url: "/authors/lawrence-david-herbert/sons-and-lovers/chapter-05.html"
 ---
 
 MOREL was rather a heedless man, careless of danger. So he had endless accidents. Now, when Mrs. Morel heard the rattle of an empty coal-cart cease at her entry-end, she ran into the parlour to look, expecting almost to see her husband seated in the waggon, his face grey under his dirt, his body limp and sick with some hurt or other. If it were he, she would run out to help.

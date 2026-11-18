@@ -1,8 +1,7 @@
 ---
 title: "Volume 3 - Chapter 15"
 weight: 57
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-15.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-03-chapter-15.html"
 ---
 
 The discomposure of spirits, which this extraordinary visit threw Elizabeth into, could not be easily overcome; nor could she for many hours, learn to think of it less than incessantly. Lady Catherine it appeared, had actually taken the trouble of this journey from Rosings, for the sole purpose of breaking off her supposed engagement with Mr. Darcy. It was a rational scheme to be sure! but from what the report of their engagement could originate, Elizabeth was at a loss to imagine; till she recollected that his being the intimate friend of Bingley, and her being the sister of Jane, was enough, at a time when the expectation of one wedding, made every body eager for another, to supply the idea. She had not herself forgotten to feel that the marriage of her sister must bring them more frequently together. And her neighbours at Lucas lodge, therefore, (for through their communication with the Collinses, the report she concluded had reached lady Catherine) had only set that down, as almost certain and immediate, which she had looked forward to as possible, at some future time.

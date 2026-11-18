@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - How I Set The Signal"
 weight: 9
-aliases:
-  - "/authors/buchan-john/sir-quixote-of-the-moors/chapter-08.html"
+url: "/authors/buchan-john/sir-quixote-of-the-moors/chapter-08.html"
 ---
 
 When I set out to write this history in the English tongue, that none of my own house might read it, I did not know the hard task that lay before me. For if I were writing it in my own language, I could tell the niceties of my feelings in a way which is impossible for me in any other. And, indeed, to make my conduct intelligible, I should forthwith fall to telling each shade of motive and impulse which came to harass my mind. But I am little skilled in this work, so I must needs recount only the landmarks of my life, or I should never reach the end.

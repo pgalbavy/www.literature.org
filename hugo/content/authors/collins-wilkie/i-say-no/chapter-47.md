@@ -1,8 +1,7 @@
 ---
 title: "Chapter 47 - Debating"
 weight: 47
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-47.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-47.html"
 ---
 
 In the meanwhile Emily had been true to her promise to relieve Mirabel's anxieties, on the subject of Miss Jethro. Entering the drawing-room in search of Alban, she found him talking with Cecilia, and heard her own name mentioned as she opened the door.

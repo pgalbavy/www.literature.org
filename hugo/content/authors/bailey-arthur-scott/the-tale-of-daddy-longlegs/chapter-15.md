@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - A Call On A Neighbor"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-15.html"
 ---
 
 DADDY LONGLEGS was delighted to be at home again. And Mr. Chippy--as well as other neighbors--remarked that they had never seen him so happy and cheerful.

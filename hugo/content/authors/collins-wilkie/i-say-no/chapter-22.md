@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - Alban Morris"
 weight: 22
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-22.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-22.html"
 ---
 
 Having looked at the card, Emily put her first question to the servant.

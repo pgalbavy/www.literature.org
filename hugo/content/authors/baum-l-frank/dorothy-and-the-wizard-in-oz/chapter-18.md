@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 19
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-18.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-18.html"
 ---
 
 Several days of festivity and merry-making followed, for such old friends did not often meet and there was much to be told and talked over between them, and many amusements to be enjoyed in this delightful country.

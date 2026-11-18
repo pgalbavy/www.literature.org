@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - In The Heart Of The Hills"
 weight: 21
-aliases:
-  - "/authors/buchan-john/the-half-hearted/part-02-chapter-02.html"
+url: "/authors/buchan-john/the-half-hearted/part-02-chapter-02.html"
 ---
 
 All around was stone and scrub, rising in terraces to the foot of sheer cliffs which opened up here and there in nullahs and gave a glimpse of great snow hills behind them. On one of the flat ridge-tops a little village of stunted, slaty houses squatted like an ape, with a vigilant eye on twenty gorges. Thin, twisting paths led up to it, and before, on the more clement slopes, some fields of grain were tilled as our Aryan forefathers tilled the soil on the plains of Turkestan. The place was at least 8,000 feet above the sea, so the air was highland, clear and pleasant, save for the dryness which the great stone deserts forced upon the soft south winds. You will not find the place marked in any map, for it is a little beyond even the most recent geographer's ken, but it is none the less a highly important place, for the nameless village is one of the seats of that most active and excellent race of men, the Bada-Mawidi, who are so old that they can afford to look down on their neighbours from a vantage-ground of some thousands of years. It is well known that when God created the earth He first fashioned this tangle of hill land, and set thereon a primitive Bada-Mawidi, the first of the clan, who was the ancestor, in the thousandth degree, of the excellent Fazir Khan, the present father of the tribe.

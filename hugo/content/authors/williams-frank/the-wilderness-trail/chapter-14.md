@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Frigid Idyl"
 weight: 14
-aliases:
-  - "/authors/williams-frank/the-wilderness-trail/chapter-14.html"
+url: "/authors/williams-frank/the-wilderness-trail/chapter-14.html"
 ---
 
 Arrived back at the little shanty, they set about their housekeeping at once. The situation might have been delicate in other periods and climes, but here no false sentimentality clouded the grisly facts. Face to face with them stood hunger and cold, two relentless enemies. Hunger, in a land where the temperature burns up the tissues as a freight-engine on a grade eats coal, makes no truces; it sets its fangs when October comes, and tries its malignant best to keep them set until May or June.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-20.html"
+url: "/authors/london-jack/john-barleycorn/chapter-20.html"
 ---
 
 The jute mills failed of its agreement to increase my pay to a dollar and a quarter a day, and I, a free-born American boy whose direct ancestors had fought in all the wars from the old pre- Revolutionary Indian wars down, exercised my sovereign right of free contract by quitting the job.

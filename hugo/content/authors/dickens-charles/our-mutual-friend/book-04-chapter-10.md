@@ -1,8 +1,7 @@
 ---
 title: "Book 4 - Chapter 10 - The Dolls’ Dressmaker Discovers A Word"
 weight: 60
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-04-chapter-10.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-04-chapter-10.html"
 ---
 
 A darkened and hushed room; the river outside the windows flowing on to the vast ocean; a figure on the bed, swathed and bandaged and bound, lying helpless on its back, with its two useless arms in splints at its sides. Only two days of usage so familiarized the little dressmaker with this scene, that it held the place occupied two days ago by the recollections of years.

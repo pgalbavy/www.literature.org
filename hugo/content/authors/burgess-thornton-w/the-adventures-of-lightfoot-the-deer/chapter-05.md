@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Sammy Jay Brings Lightfoot Word"
 weight: 5
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-05.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-05.html"
 ---
 
 Sammy Jay is one of those who believe in the wisdom of the old saying, "Early to bed and early to rise." Sammy needs no alarm clock to get up early in the morning. He is awake as soon as it is light enough to see and wastes no time wishing he could sleep a little longer. His stomach wouldn't let him if he wanted to. Sammy always wakes up hungry. In this he is no different from all his feathered neighbors.

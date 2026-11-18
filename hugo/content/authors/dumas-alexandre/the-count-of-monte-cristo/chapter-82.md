@@ -1,8 +1,7 @@
 ---
 title: "Chapter 82 - The Burglary"
 weight: 82
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-82.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-82.html"
 ---
 
 The day following that on which the conversation we have related took place, the Count of Monte Cristo set out for Auteuil, accompanied by Ali and several attendants, and also taking with him some horses whose qualities he was desirous of ascertaining. He was induced to undertake this journey, of which the day before he had not even thought and which had not occurred to Andrea either, by the arrival of Bertuccio from Normandy with intelligence respecting the house and sloop. The house was ready, and the sloop which had arrived a week before lay at anchor in a small creek with her crew of six men, who had observed all the requisite formalities and were ready again to put to sea.

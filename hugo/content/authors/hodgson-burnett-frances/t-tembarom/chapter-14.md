@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/t-tembarom/chapter-14.html"
+url: "/authors/hodgson-burnett-frances/t-tembarom/chapter-14.html"
 ---
 
 He could not persuade them to remain to take lunch with him. The firmness of Hutchinson's declination was not unconnected with a private feeling that “them footmen chaps 'u'd be on the lookout to see the way you handled every bite you put in your mouth.” He couldn't have stood it, dang their impudence! Little Ann, on her part, frankly and calmly said, “It wouldn't DO.” That was all, and evidently covered everything.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Bargain"
 weight: 18
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-18.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-peter-mink/chapter-18.html"
 ---
 
 Stuck fast in the mud as he was, Jimmy Rabbit couldn't do a thing except shout. Or you might spy there were only two things he could do--shouting being one of them, and keeping still being the other.

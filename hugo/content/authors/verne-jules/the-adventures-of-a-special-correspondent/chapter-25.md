@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-25.html"
+url: "/authors/verne-jules/the-adventures-of-a-special-correspondent/chapter-25.html"
 ---
 
 And I, who wanted "incident," who feared the weariness of a monotonous voyage of six thousand kilometres, in the course of which I should not meet with an impression or emotion worth clothing in type!

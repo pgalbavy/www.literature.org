@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - In Which Aramis Is Sought And Only Bazin Is Found"
 weight: 17
-aliases:
-  - "/authors/dumas-alexandre/ten-years-later/chapter-17.html"
+url: "/authors/dumas-alexandre/ten-years-later/chapter-17.html"
 ---
 
 Two hours had scarcely elapsed since the departure of the master of the house, who, in Blaisois's sight, had taken the road to Paris, when a horseman, mounted on a good pied horse, stopped before the gate, and with a sonorous "hola!" called the stable-boys who, with the gardeners, had formed a circle round Blaisois, the historian-in-ordinary to the household of the chateau. This "hola," doubtless well known to Master Blaisois, made him turn his head and exclaim - "Monsieur d'Artagnan! run quickly, you chaps, and open the gate."

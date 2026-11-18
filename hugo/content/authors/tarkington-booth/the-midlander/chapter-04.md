@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-04.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-04.html"
 ---
 
 *SHE* nodded to where before them a long wooden picket fence outlined the street boundary of Mrs. Savage’s lawn. Here was an older quarter than that upper reach of National Avenue whence the two young people had come; the houses here and southward were most of them substantial and ample, but not of the imposing spaciousness prevailing farther up the avenue. Three or four of them had felt the seventies so deeply as to adopt the mansard roof in company with one or two parasite slate turrets; but in the main the houses were without pretentiousness; and among them it was curious and pleasant to see lingering two or three white, low-gabled cottages of a single story.

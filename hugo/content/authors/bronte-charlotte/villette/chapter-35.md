@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35 - Fraternity"
 weight: 35
-aliases:
-  - "/authors/bronte-charlotte/villette/chapter-35.html"
+url: "/authors/bronte-charlotte/villette/chapter-35.html"
 ---
 
 "Oubliez les Professeurs." So said Madame Beck. Madame Beck was a wise woman, but she should not have uttered those words. To do so was a mistake. That night she should have left me calm - not excited, indifferent, not interested, isolated in my own estimation and that of others - not connected, even in idea, with this second person whom I was to forget.

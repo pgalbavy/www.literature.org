@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 20
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-19.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-19.html"
 ---
 
 Vanya's concert had been enough of a success to attract the attention of genuine music-lovers and an impecunious impresario—an irresponsible promoter celebrated for rushing headlong into things and being kicked headlong out of them.

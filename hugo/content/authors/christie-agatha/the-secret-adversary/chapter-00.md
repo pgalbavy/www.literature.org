@@ -1,8 +1,7 @@
 ---
 title: "chapter 00"
 weight: 999
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-00.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-00.html"
 ---
 
 *PROLOGUE*

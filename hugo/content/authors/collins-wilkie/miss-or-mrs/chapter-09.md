@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Drawing-Room"
 weight: 9
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-09.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-09.html"
 ---
 
 "Amelia!"

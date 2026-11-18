@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 8
-aliases:
-  - "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-08.html"
+url: "/authors/lawrence-david-herbert/the-virgin-and-the-gypsy/chapter-08.html"
 ---
 
 The rector heard about Yvette's intimacy with the Eastwoods, and she was somewhat startled by the result. She had thought he wouldn't care. Verbally, in his would-be humorous fashion, he was so entirely unconventional, such a frightfully good sport. As he said himself, he was a conservative anarchist, which meant, he was like a great many more people, a mere unbeliever. The anarchy extended to his humorous talk, and his secret thinking. The conservatism based on a mongrel fear of the anarchy, controlled every action. His thoughts, secretly, were something to be scared of. Therefore, in his life, he was fanatically afraid of the unconventional.

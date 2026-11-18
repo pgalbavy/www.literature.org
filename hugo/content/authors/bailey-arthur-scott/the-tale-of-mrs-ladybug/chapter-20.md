@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Fire! Fire!"
 weight: 20
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-20.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-20.html"
 ---
 
 THE whole countryside was dry. It hadn't rained for weeks. The grass was turning brown. The water in the river was low. And Broad Brook was no more than a narrow trickle. Every morning the sun rose streaming hot, to beat down upon Pleasant Valley all day long until it sank--a round, red ball--behind Blue Mountain each night.

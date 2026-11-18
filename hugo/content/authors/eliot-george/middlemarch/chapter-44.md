@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44"
 weight: 44
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-44.html"
+url: "/authors/eliot-george/middlemarch/chapter-44.html"
 ---
 
 I would not creep along the coast but steer Out in mid-sea, by guidance of the stars.

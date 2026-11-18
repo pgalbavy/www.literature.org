@@ -1,8 +1,7 @@
 ---
 title: "Chapter 62 - Ghosts"
 weight: 62
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-62.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-62.html"
 ---
 
 At first sight the exterior of the house at Auteuil gave no indications of splendor, nothing one would expect from the destined residence of the magnificent Count of Monte Cristo; but this simplicity was according to the will of its master, who positively ordered nothing to be altered outside. The splendor was within. Indeed, almost before the door opened, the scene changed. M. Bertuccio had outdone himself in the taste displayed in furnishing, and in the rapidity with which it was executed. It is told that the Duc d'Antin removed in a single night a whole avenue of trees that annoyed Louis XIV.; in three days M. Bertuccio planted an entirely bare court with poplars, large spreading sycamores to shade the different parts of the house, and in the foreground, instead of the usual paving-stones, half hidden by the grass, there extended a lawn but that morning laid down, and upon which the water was yet glistening. For the rest, the orders had been issued by the count; he himself had given a plan to Bertuccio, marking the spot where each tree was to be planted, and the shape and extent of the lawn which was to take the place of the paving-stones. Thus the house had become unrecognizable, and Bertuccio himself declared that he scarcely knew it, encircled as it was by a framework of trees. The overseer would not have objected, while he was about it, to have made some improvements in the garden, but the count had positively forbidden it to be touched. Bertuccio made amends, however, by loading the ante-chambers, staircases, and mantle-pieces with flowers.

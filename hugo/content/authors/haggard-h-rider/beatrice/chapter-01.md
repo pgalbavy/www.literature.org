@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A Mist Wraith"
 weight: 2
-aliases:
-  - "/authors/haggard-h-rider/beatrice/chapter-01.html"
+url: "/authors/haggard-h-rider/beatrice/chapter-01.html"
 ---
 
 The autumn afternoon was fading into evening. It had been cloudy weather, but the clouds had softened and broken up. Now they were lost in slowly darkening blue. The sea was perfectly and utterly still. It seemed to sleep, but in its sleep it still waxed with the rising tide. The eye could not mark its slow increase, but Beatrice, standing upon the farthest point of the Dog Rocks, idly noted that the long brown weeds which clung about their sides began to lift as the water took their weight, till at last the delicate pattern floated out and lay like a woman’s hair upon the green depth of sea. Meanwhile a mist was growing dense and soft upon the quiet waters. It was not blown up from the west, it simply grew like the twilight, making the silence yet more silent and blotting away the outlines of the land. Beatrice gave up studying the seaweed and watched the gathering of these fleecy hosts.

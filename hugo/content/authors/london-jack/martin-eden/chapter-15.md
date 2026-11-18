@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-15.html"
+url: "/authors/london-jack/martin-eden/chapter-15.html"
 ---
 
 "The first battle, fought and finished," Martin said to the looking-glass ten days later. "But there will be a second battle, and a third battle, and battles to the end of time, unless - "

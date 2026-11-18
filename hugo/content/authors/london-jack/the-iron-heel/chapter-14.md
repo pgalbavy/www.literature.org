@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Beginning Of The End"
 weight: 15
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-14.html"
+url: "/authors/london-jack/the-iron-heel/chapter-14.html"
 ---
 
 As early as January, 1913, Ernest saw the true trend of affairs, but he could not get his brother leaders to see the vision of the Iron Heel that had arisen in his brain. They were too confident. Events were rushing too rapidly to culmination. A crisis had come in world affairs. The American Oligarchy was practically in possession of the world-market, and scores of countries were flung out of that market with unconsumable and unsalable surpluses on their hands. For such countries nothing remained but reorganization. They could not continue their method of producing surpluses. The capitalistic system, so far as they were concerned, had hopelessly broken down.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - Abide With Me"
 weight: 14
-aliases:
-  - "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-14.html"
+url: "/authors/daviess-maria-thompson/the-hearts-kingdom/chapter-14.html"
 ---
 
 "Auntie Charlotte, you stole Minister away from us in a no-fair way," stormed Charlotte as she came around the young larches and wild swamp root that had formed the world apart for the dangerous Jaguar and me. "Mother Spurlock can't sing to any good and Sue is so little we gets the key away from her. Let him come right back!" As she made this peremptory demand for the release of my prisoner, my name-daughter stood her ground with her cohorts, who had been scrambling around and over and through the shrubbery, massed behind her. There were Mikey of the red head, small James, the musical wee Susan, Maudie Burns and Jennie Todd, besides several more of the Burns family, a few Sprouls and Paynes and a very ragged young Jones, and they all looked at me with hostile and accusing eyes as Charlotte hurled a final invective at me. "You are wicked and the devil will burn you up," she threatened.

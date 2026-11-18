@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 58 - Which Tells How Adventures Came Crowding On Don Quixote In Such Numbers That They Gave One Another No Breathing-Time"
 weight: 114
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-58.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-58.html"
 ---
 
 When Don Quixote saw himself in open country, free, and relieved from the attentions of Altisidora, he felt at his ease, and in fresh spirits to take up the pursuit of chivalry once more; and turning to Sancho, he said, "Freedom, Sancho, is one of the most precious gifts that heaven has bestowed upon men; no treasures that the earth holds buried or the sea conceals can compare with it; for freedom, as for honour, life may and should be ventured; and on the other hand, captivity is the greatest evil that can fall to the lot of man. I say this, Sancho, because thou hast seen the good cheer, the abundance we have enjoyed in this castle we are leaving; well then, amid those dainty banquets and snow-cooled beverages I felt as though I were undergoing the straits of hunger, because I did not enjoy them with the same freedom as if they had been mine own; for the sense of being under an obligation to return benefits and favours received is a restraint that checks the independence of the spirit. Happy he, to whom heaven has given a piece of bread for which he is not bound to give thanks to any but heaven itself!"

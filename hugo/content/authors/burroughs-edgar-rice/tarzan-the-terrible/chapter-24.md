@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Messenger Of Death"
 weight: 24
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-24.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-24.html"
 ---
 
 The sun rose to see the forces of Ja-don still held at the palace gate. The old warrior had seized the tall structure that stood just beyond the palace and at the summit of this he kept a warrior stationed to look toward the northern wall of the palace where Ta-den was to make his attack; but as the minutes wore into hours no sign of the other force appeared, and now in the full light of the new sun upon the roof of one of the palace buildings appeared Lu-don, the high priest, Mo-sar, the pretender, and the strange, naked figure of a man, into whose long hair and beard were woven fresh ferns and flowers. Behind them were banked a score of lesser priests who chanted in unison: "This is Jad-ben-Otho. Lay down your arms and surrender." This they repeated again and again, alternating it with the cry: "The false Dor-ul-Otho is a prisoner."

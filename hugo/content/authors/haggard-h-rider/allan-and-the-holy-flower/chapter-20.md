@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Battle Of The Gate"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-20.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-20.html"
 ---
 
 By now heavy firing had begun at the north gate of the town, accompanied by much shouting. The mist was still too thick to enable us to see anything at first. But shortly after the commencement of the firing a strong, hot wind, which always followed these mists, got up and gradually gathered to a gale, blowing away the vapours. Then from the top of the crest, Hans, who had climbed a tree there, reported that the Arabs were advancing on the north gate, firing as they came, and that the Mazitu were replying with their bows and arrows from behind the palisade that surrounded the town. This palisade, I should state, consisted of an earthen bank on the top of which tree trunks were set close together. Many of these had struck in that fertile soil, so that in general appearance this protective work resembled a huge live fence, on the outer and inner side of which grew great masses of prickly pear and tall, finger-like cacti. A while afterwards Hans reported that the Mazitu were retreating and a few minutes later they began to arrive through the south gate, bringing several wounded with them. Their captain said that they could not stand against the fire of the guns and had determined to abandon the town and make the best fight they could upon the ridge.

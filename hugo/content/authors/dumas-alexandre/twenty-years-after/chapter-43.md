@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43 - In Which It Is Proved That First Impulses Are Oftentimes The Best"
 weight: 43
-aliases:
-  - "/authors/dumas-alexandre/twenty-years-after/chapter-43.html"
+url: "/authors/dumas-alexandre/twenty-years-after/chapter-43.html"
 ---
 
 The three gentlemen took the road to Picardy, a road so well known to them and which recalled to Athos and Aramis some of the most picturesque adventures of their youth.

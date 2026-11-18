@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The Lady From The Past"
 weight: 14
-aliases:
-  - "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-14.html"
+url: "/authors/ames-joseph-bushnell/shoebar-stratton/chapter-14.html"
 ---
 
 Stratton's first feeling was that the girl must have made a mistake. In a dazed fashion he stepped forward and helped her out of the buckboard, but this was a more or less mechanical action and because she so evidently expected it. As he took her hand she pressed it warmly and did not at once relinquish it after she had reached the ground.

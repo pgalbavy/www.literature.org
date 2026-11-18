@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - Knights and Squires"
 weight: 27
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-027.html"
+url: "/authors/melville-herman/moby-dick/chapter-027.html"
 ---
 
 Stubb was the second mate. He was a native of Cape Cod; and hence, according to local usage, was called a Cape-Cod-man. A happy-go-lucky; neither craven nor valiant; taking perils as they came with an indifferent air; and while engaged in the most imminent crisis of the chase, toiling away, calm and collected as a journeyman joiner engaged for the year. Good-humored, easy, and careless, he presided over his whaleboat as if the most deadly encounter were but a dinner, and his crew all invited guests. He was as particular about the comfortable arrangements of his part of the boat, as an old stage-driver is about the snugness of his box. When close to the whale, in the very death-lock of the fight, he handled his unpitying lance coolly and off-handedly, as a whistling tinker his hammer. He would hum over his old rigadig tunes while flank and flank with the most exasperated monster. Long usage had, for this Stubb, converted the jaws of death into an easy chair. What he thought of death itself, there is no telling. Whether he ever thought of it at all, might be a question; but, if he ever did chance to cast his mind that way after a comfortable dinner, no doubt, like a good sailor, he took it to be a sort of call of the watch to tumble aloft, and bestir themselves there, about something which he would find out when he obeyed the order, and not sooner.

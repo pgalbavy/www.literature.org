@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 4 - The Passage"
 weight: 12
-aliases:
-  - "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-04.html"
+url: "/authors/stevenson-robert-louis/the-black-arrow/book-02-chapter-04.html"
 ---
 
 The passage in which Dick and Joanna now found themselves was narrow, dirty, and short. At the other end of it, a door stood partly open; the same door, without doubt, that they had heard the man unlocking. Heavy cobwebs hung from the roof; and the paved flooring echoed hollow under the lightest tread.

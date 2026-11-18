@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-06.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-06.html"
 ---
 
 George Lescott had known hospitality of many brands and degrees. He had been the lionized celebrity in places of fashion. He had been the guest of equally famous brother artists in the cities of two hemispheres, and, since sincere painting had been his pole-star, he had gone where his art's wanderlust beckoned. His most famous canvas, perhaps, was his "Prayer Toward Mecca," which hangs in the Metropolitan. It shows, with a power that holds the observer in a compelling grip, the wonderful colors of a sunset across the desert. One seems to feel the renewed life that comes to the caravan with the welcome of the oasis. One seems to hear the grunting of the kneeling camels and the stirring of the date palms. The Bedouins have spread their prayer-rugs, and behind them burns the west. Lescott caught in that, as he had caught in his mountain sketches, the broad spirit of the thing. To paint that canvas, he had endured days of racking camel -travel and burning heat and thirst. He had followed the lure of transitory beauty to remote sections of the world. The present trip was only one of many like it, which had brought him into touch with varying peoples and distinctive types of life. He told himself that never had he found men at once so crude and so courteous as these hosts, who, facing personal perils, had still time and willingness to regard his comfort.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 87 - The Challenge"
 weight: 87
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-87.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-87.html"
 ---
 
 "Then," continued Beauchamp, "I took advantage of the silence and the darkness to leave the house without being seen. The usher who had introduced me was waiting for me at the door, and he conducted me through the corridors to a private entrance opening into the Rue de Vaugirard. I left with mingled feelings of sorrow and delight. Excuse me, Albert, - sorrow on your account, and delight with that noble girl, thus pursuing paternal vengeance. Yes, Albert, from whatever source the blow may have proceeded - it may be from an enemy, but that enemy is only the agent of providence." Albert held his head between his hands; he raised his face, red with shame and bathed in tears, and seizing Beauchamp's arm, "My friend," said he, "my life is ended. I cannot calmly say with you, 'Providence has struck the blow;' but I must discover who pursues me with this hatred, and when I have found him I shall kill him, or he will kill me. I rely on your friendship to assist me, Beauchamp, if contempt has not banished it from your heart."

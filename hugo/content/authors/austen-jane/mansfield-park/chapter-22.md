@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-22.html"
+url: "/authors/austen-jane/mansfield-park/chapter-22.html"
 ---
 
 Fanny's consequence increased on the departure of her cousins. Becoming, as she then did, the only young woman in the drawing-room, the only occupier of that interesting division of a family in which she had hitherto held so humble a third, it was impossible for her not to be more looked at, more thought of and attended to, than she had ever been before; and “Where is Fanny?” became no uncommon question, even without her being wanted for any one's convenience.

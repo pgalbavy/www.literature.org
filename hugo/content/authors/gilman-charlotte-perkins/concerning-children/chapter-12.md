@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Meditations On The Nurse-Maid"
 weight: 12
-aliases:
-  - "/authors/gilman-charlotte-perkins/concerning-children/chapter-12.html"
+url: "/authors/gilman-charlotte-perkins/concerning-children/chapter-12.html"
 ---
 
 "The trouble with these household problems which vex women so much is that we do not give our minds to them sufficiently," said earnest little Mrs. Blythe. "Now I mean to give my mind to this nurse-maid problem, and work it out."

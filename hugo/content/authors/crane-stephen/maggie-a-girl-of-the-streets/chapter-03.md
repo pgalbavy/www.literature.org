@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-03.html"
+url: "/authors/crane-stephen/maggie-a-girl-of-the-streets/chapter-03.html"
 ---
 
 Jimmie and the old woman listened long in the hall. Above the muffled roar of conversation, the dismal wailings of babies at night, the thumping of feet in unseen corridors and rooms, mingled with the sound of varied hoarse shoutings in the street and the rattling of wheels over cobbles, they heard the screams of the child and the roars of the mother die away to a feeble moaning and a subdued bass muttering.

@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 18"
 weight: 67
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-03-chapter-18.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-03-chapter-18.html"
 ---
 
 Rostov had been ordered to look for Kutuzov and the Emperor near the village of Pratzen. But neither they nor a single commanding officer were there, only disorganized crowds of troops of various kinds. He urged on his already weary horse to get quickly past these crowds, but the farther he went the more disorganized they were. The highroad on which he had come out was thronged with caleches, carriages of all sorts, and Russian and Austrian soldiers of all arms, some wounded and some not. This whole mass droned and jostled in confusion under the dismal influence of cannon balls flying from the French batteries stationed on the Pratzen Heights.

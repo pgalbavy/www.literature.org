@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - The Pursuit"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-33.html"
 ---
 
 There are two angels within us forever struggling for the mastery: One is the angel of darkness, and the other of light—of evil and of good.

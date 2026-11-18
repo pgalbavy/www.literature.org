@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - My Dream: And Dudley's Girl"
 weight: 2
-aliases:
-  - "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-02.html"
+url: "/authors/jones-susan-carleton/the-la-chance-mine-mystery/chapter-02.html"
 ---
 
 All I could do was to stand in the living room doorway and stare at her.

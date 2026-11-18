@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28 - And After"
 weight: 29
-aliases:
-  - "/authors/christie-agatha/the-secret-adversary/chapter-28.html"
+url: "/authors/christie-agatha/the-secret-adversary/chapter-28.html"
 ---
 
 "*THAT* was a mighty good toast, Jane," said Mr. Hersheimmer, as he and his cousin were being driven back in the Rolls-Royce to the *Ritz*.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - \"Cruel Prince, Obeying Destiny\""
 weight: 18
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-17.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-17.html"
 ---
 
 Don Luis once more addressed himself to Vorski:

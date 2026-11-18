@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - \u0026quot;And 'Twas The Town Rake And Beauty--Sir John Oxon\u0026quot;"
 weight: 16
-aliases:
-  - "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-15.html"
 ---
 
 That night he lay almost till 'twas morning, his eyes open upon the darkness, since he could not sleep, finding it impossible to control the thoughts which filled his mind. 'Twas a night whose still long hours he never could forget in the years that followed, and 'twas not a memory which was a happy one. He passed through many a curious phase of thought, and more than once felt a pang of sorrow that he was now alone as he had never thought of being, and that if suffering came, his silent endurance of it must be a new thing. To be silent because one does not wish to speak is a different matter from being silent because one knows no creature dear and near enough to hear the story of one's trouble. He realised now that the tender violet eyes which death had closed would have wooed from his reserve many a thing it might have been good to utter in words.

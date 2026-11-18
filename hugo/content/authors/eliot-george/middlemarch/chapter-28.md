@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-28.html"
+url: "/authors/eliot-george/middlemarch/chapter-28.html"
 ---
 
 1st Gent. All times are good to seek your wedded home Bringing a mutual delight. 2d Gent. Why, true. The calendar hath not an evil day For souls made one by love, and even death Were sweetness, if it came like rolling waves While they two clasped each other, and foresaw No life apart.

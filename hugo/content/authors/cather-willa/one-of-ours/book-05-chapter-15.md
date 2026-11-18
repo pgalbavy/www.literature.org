@@ -1,8 +1,7 @@
 ---
 title: "Book 5 - Chapter 15"
 weight: 68
-aliases:
-  - "/authors/cather-willa/one-of-ours/book-05-chapter-15.html"
+url: "/authors/cather-willa/one-of-ours/book-05-chapter-15.html"
 ---
 
 The Battalion had twenty-four hours' rest at Rupprecht trench, and then pushed on for four days and nights, stealing trenches, capturing patrols, with only a few hours' sleep,--snatched by the roadside while their food was being prepared. They pushed hard after a retiring foe, and almost outran themselves. They did outrun their provisions; on the fourth night, when they fell upon a farm that had been a German Headquarters, the supplies that were to meet them there had not come up, and they went to bed supperless.

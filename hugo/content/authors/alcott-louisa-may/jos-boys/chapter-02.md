@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Parnassus"
 weight: 2
-aliases:
-  - "/authors/alcott-louisa-may/jos-boys/chapter-02.html"
+url: "/authors/alcott-louisa-may/jos-boys/chapter-02.html"
 ---
 
 It was well named; and the Muses seemed to be at home that day, for as the newcomers went up the slope appropriate sights and sounds greeted them. Passing an open window, they looked in upon a library presided over by Clio, Calliope, and Urania; Melpomene and Thalia were disporting themselves in the hall, where some young people were dancing and rehearsing a play; Erato was walking in the garden with her lover, and in the music-room Phoebus himself was drilling a tuneful choir.

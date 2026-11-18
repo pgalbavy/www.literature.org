@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Rosa's Lover"
 weight: 18
-aliases:
-  - "/authors/dumas-alexandre/the-black-tulip/chapter-18.html"
+url: "/authors/dumas-alexandre/the-black-tulip/chapter-18.html"
 ---
 
 Rosa had scarcely pronounced these consolatory words when a voice was heard from the staircase asking Gryphus how matters were going on.

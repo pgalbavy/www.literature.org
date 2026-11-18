@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Gillane Sands"
 weight: 14
-aliases:
-  - "/authors/stevenson-robert-louis/catriona/chapter-13.html"
+url: "/authors/stevenson-robert-louis/catriona/chapter-13.html"
 ---
 
 I did not profit by Alan’s pilotage as he had done by his marchings under General Cope; for I can scarce tell what way we went. It is my excuse that we travelled exceeding fast. Some part we ran, some trotted, and the rest walked at a vengeance of a pace. Twice, while we were at top speed, we ran against country-folk; but though we plumped into the first from round a corner, Alan was as ready as a loaded musket.

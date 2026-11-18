@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 16
-aliases:
-  - "/authors/lawrence-david-herbert/the-captains-doll/chapter-16.html"
+url: "/authors/lawrence-david-herbert/the-captains-doll/chapter-16.html"
 ---
 
 By one of the loud streams, under a rock in the sun, with scented minty or thyme flowers near, they sat down to eat some lunch. It was about eleven o'clock. A thin bee went in and out the scented flowers and the eyebright. The water poured with all the lust and greed of unloosed water over the stones. He took a cupful for Hannele, bright and icy, and she mixed it with the red Hungarian wine.

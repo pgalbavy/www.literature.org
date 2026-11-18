@@ -1,8 +1,7 @@
 ---
 title: "Book 11 - Chapter 23"
 weight: 252
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-11-chapter-23.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-11-chapter-23.html"
 ---
 
 From an unfinished house on the Varvarka, the ground floor of which was a dramshop, came drunken shouts and songs. On benches round the tables in a dirty little room sat some ten factory hands. Tipsy and perspiring, with dim eyes and wide-open mouths, they were all laboriously singing some song or other. They were singing discordantly, arduously, and with great effort, evidently not because they wished to sing, but because they wanted to show they were drunk and on a spree. One, a tall, fair-haired lad in a clean blue coat, was standing over the others. His face with its fine straight nose would have been handsome had it not been for his thin, compressed, twitching lips and dull, gloomy, fixed eyes. Evidently possessed by some idea, he stood over those who were singing, and solemnly and jerkily flourished above their heads his white arm with the sleeve turned up to the elbow, trying unnaturally to spread out his dirty fingers. The sleeve of his coat kept slipping down and he always carefully rolled it up again with his left hand, as if it were most important that the sinewy white arm he was flourishing should be bare. In the midst of the song cries were heard, and fighting and blows in the passage and porch. The tall lad waved his arm.

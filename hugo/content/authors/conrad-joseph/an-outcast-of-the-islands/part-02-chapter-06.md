@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 6"
 weight: 14
-aliases:
-  - "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-06.html"
+url: "/authors/conrad-joseph/an-outcast-of-the-islands/part-02-chapter-06.html"
 ---
 
 As soon as Abdulla and his companions had left the enclosure, Aissa approached Willems and stood by his side. He took no notice of her expectant attitude till she touched him gently, when he turned furiously upon her and, tearing off her face-veil, trampled upon it as though it had been a mortal enemy. She looked at him with the faint smile of patient curiosity, with the puzzled interest of ignorance watching the running of a complicated piece of machinery. After he had exhausted his rage, he stood again severe and unbending looking down at the fire, but the touch of her fingers at the nape of his neck effaced instantly the hard lines round his mouth; his eyes wavered uneasily; his lips trembled slightly. Starting with the unresisting rapidity of a particle of iron—which, quiescent one moment, leaps in the next to a powerful magnet—he moved forward, caught her in his arms and pressed her violently to his breast. He released her as suddenly, and she stumbled a little, stepped back, breathed quickly through her parted lips, and said in a tone of pleased reproof—

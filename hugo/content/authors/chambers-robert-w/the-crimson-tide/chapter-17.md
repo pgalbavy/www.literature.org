@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/the-crimson-tide/chapter-17.html"
+url: "/authors/chambers-robert-w/the-crimson-tide/chapter-17.html"
 ---
 
 "Jim," said his mother, "Miss Dumont called you on the telephone at an unusual hour last night. You had gone to your room, and on the chance that you were asleep I did not speak to you."

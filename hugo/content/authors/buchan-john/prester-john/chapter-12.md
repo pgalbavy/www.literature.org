@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Captain Arcoll Sends A Message"
 weight: 13
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-12.html"
+url: "/authors/buchan-john/prester-john/chapter-12.html"
 ---
 
 I once read —I think in some Latin writer—the story of a man who was crushed to a jelly by the mere repeated touch of many thousand hands. His murderers were not harsh, but an infinite repetition of the gentlest handling meant death. I do not suppose that I was very brutally manhandled in the cave. I was trussed up tight and carried out to the open, and left in the care of the guards. But when my senses returned I felt as if I had been cruelly beaten in every part. The raw-hide bonds chafed my wrists and ankle and shoulders, but they were the least part of my aches. To be handled by a multitude of Kaffirs is like being shaken by some wild animal. Their skins are insensible to pain, and I have seen a Zulu stand on a piece of red-hot iron without noticing it till he was warned by the smell of burning hide. Anyhow, after I had been bound by Kaffir hands and tossed on Kaffir shoulders, I felt as if I had been in a scrimmage of mad bulls. I found myself lying looking up at the moon. It was the edge of the bush, and all around was the stir of the army getting ready for the road. You know how a native babbles and chatters over any work he has to do. It says much for Laputa's iron hand that now everything was done in silence. I heard the nickering of horses and the jolt of carts as they turned from the bush into the path. There was the sound of hurried whispering, and now and then a sharp command. And all the while I lay, staring at the moon and wondering if I was going to keep my reason.

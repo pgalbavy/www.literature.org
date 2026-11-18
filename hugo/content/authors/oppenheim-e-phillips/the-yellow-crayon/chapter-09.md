@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-09.html"
+url: "/authors/oppenheim-e-phillips/the-yellow-crayon/chapter-09.html"
 ---
 
 Felix, after an uneventful voyage, landed duly at Liverpool. To his amazement the first person he saw upon the quay was Mr. Sabin, leaning upon his stick and smoking a cigarette.

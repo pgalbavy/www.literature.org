@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Herr Schmidt Dances"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/tom-temples-career/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/tom-temples-career/chapter-37.html"
 ---
 
 *THE FIDDLER* struck up a lively polka. The members of the band, two by two, begun to dance. Gates, entering into the spirit of the joke, impressed Tom as a not unwilling partner, and Morton was seized by one of his captors and compelled to join in. But Herr Schmidt looked on stupidly, and stood motionless.

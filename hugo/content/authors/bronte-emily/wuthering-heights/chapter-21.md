@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-21.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-21.html"
 ---
 
 WE had sad work with little Cathy that day: she rose in high glee, eager to join her cousin, and such passionate tears and lamentations followed the news of his departure that Edgar himself was obliged to soothe her, by affirming he should come back soon: he added, however, 'if I can get him'; and there were no hopes of that. This promise poorly pacified her; but time was more potent; and though still at intervals she inquired of her father when Linton would return, before she did see him again his features had waxed so dim in her memory that she did not recognise him.

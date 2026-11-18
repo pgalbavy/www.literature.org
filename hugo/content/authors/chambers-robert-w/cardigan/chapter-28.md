@@ -1,8 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 29
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-28.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-28.html"
 ---
 
 Silver Heels stood in the tap-room of "Buckman's Tavern" casting bullets; the barefoot drummer watched the white-hot crucible and baled out the glittering molten metal or fed it with lumps of lead stripped from the gate-post of Hooper's house in Danvers.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Forced Backward"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-12.html"
 ---
 
 Ear and eye were strained to catch sound or sight that would tell something of their enemies. All, even the Mohawk, expected to hear the ripple of the paddles of the Iroquois in pursuit, but the stillness of the tomb was not more profound than that in which they were now enfolded. Probably a half mile below them another light was seen shining, and almost directly opposite was a similar one. It looked as if the Iroquois were signaling to one another; and, if it so happened that this scow, with its occupants, was the object of these communications, the latter might well feel anxiety about their situation.

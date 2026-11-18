@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Automobile Vs. Aeroplane"
 weight: 6
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-06.html"
+url: "/authors/walton-frank/the-flying-machine-boys-in-the-wilds/chapter-06.html"
 ---
 
 Shortly after midnight Ben was awakened by a noise which seemed to come from the door of his room. Half asleep as he was, it came to his consciousness like the sparkling of a motor. There was the same sharp tick, tick, tick, with regular pauses between.

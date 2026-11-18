@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Latest Arrival"
 weight: 2
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-02.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-bobby-bobolink/chapter-02.html"
 ---
 
 BOBBY BOBOLINK did not reach Pleasant Valley in time to spend May Day with his old friends of the summer before. And although everybody was disappointed not to see him--and hear him--the feathered folk tried to be cheerful and told one another that Bobby ought to arrive almost any day.

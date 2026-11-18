@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-05.html"
+url: "/authors/hodgson-burnett-frances/little-lord-fauntleroy/chapter-05.html"
 ---
 
 It was late in the afternoon when the carriage containing little Lord Fauntleroy and Mr. Havisham drove up the long avenue which led to the castle. The Earl had given orders that his grandson should arrive in time to dine with him; and for some reason best known to himself, he had also ordered that the child should be sent alone into the room in which he intended to receive him. As the carriage rolled up the avenue, Lord Fauntleroy sat leaning comfortably against the luxurious cushions, and regarded the prospect with great interest. He was, in fact, interested in everything he saw. He had been interested in the carriage, with its large, splendid horses and their glittering harness; he had been interested in the tall coachman and footman, with their resplendent livery; and he had been especially interested in the coronet on the panels, and had struck up an acquaintance with the footman for the purpose of inquiring what it meant.

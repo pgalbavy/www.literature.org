@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46 - Pretending"
 weight: 46
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-46.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-46.html"
 ---
 
 Miss de Sor began cautiously with an apology. "Excuse me, Mr. Mirabel, for reminding you of my presence."

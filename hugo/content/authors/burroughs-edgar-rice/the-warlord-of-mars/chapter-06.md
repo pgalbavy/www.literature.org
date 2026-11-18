@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Hero in Kaol"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-06.html"
 ---
 
 It was daylight when I was awakened by the sound of stealthy movement near by.

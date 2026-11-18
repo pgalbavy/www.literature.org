@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-17.html"
+url: "/authors/greene-homer/the-guardsman/chapter-17.html"
 ---
 
 That was a strange group that marched, three abreast, up the main street of Fairweather that Sunday morning of the riot. Sergeant Barriscale, with a rifle on each shoulder; on his right Corporal Manning, hatless, with bandaged head; and on his left, shuffling weakly along, General Chick.

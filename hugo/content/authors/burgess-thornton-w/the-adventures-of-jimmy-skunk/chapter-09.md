@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Jimmy Visits Johnny Chuck's Old House"
 weight: 9
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-09.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-09.html"
 ---
 
 Jimmy Skunk was smiling as he ambled towards the old house of Johnny Chuck near the foot of the hill. There was no one near to see him, and this made him smile still more. You see, the odor of that perfume which he had thrown at Reddy Fox just a little while before was very, very strong there, and Jimmy knew that until that had disappeared no one would come near the place because it was so unpleasant for every one. To Jimmy himself it wasn't unpleasant at all, and he couldn't understand why other people disliked it so. He had puzzled over that a great deal. He was glad that it was so, because on account of it every one treated him with respect and took special pains not to quarrel with him.

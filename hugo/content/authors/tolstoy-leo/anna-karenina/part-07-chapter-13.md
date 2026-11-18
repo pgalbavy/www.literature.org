@@ -1,8 +1,7 @@
 ---
 title: "Part 7 - Chapter 13"
 weight: 202
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-07-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-07-chapter-13.html"
 ---
 
 Nowhere are no conditions to which a man cannot become used, especially if he sees that all around him are living in the same way. Levin could not have believed three months before that he could have gone quietly to sleep in the condition in which he was that day, that leading an aimless, irrational life, living too beyond his means, after drinking to excess (he could not call what happened at the club anything else), forming inappropriately friendly relations with a man with whom his wife had once been in love, and a still more inappropriate call upon a woman who could only be called a lost woman, after being fascinated by that woman and causing his wife distress--he could still go quietly to sleep. But under the influence of fatigue, a sleepless night, and the wine he had drunk, his sleep was sound and untroubled.

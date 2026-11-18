@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Race In The Air"
 weight: 13
-aliases:
-  - "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-13.html"
+url: "/authors/walton-frank/the-flying-machine-boys-on-secret-service/chapter-13.html"
 ---
 
 “Don’t read any more chapters from your dream-book!” warned Ben. “We’ve materialized the coat, the whiskers, the dickey, the wing collar, the red tie, and the felt hat Colleton wore away from his office that day, and I think that’s about enough!”

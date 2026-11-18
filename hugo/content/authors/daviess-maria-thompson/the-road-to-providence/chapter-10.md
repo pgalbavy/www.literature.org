@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Song Of The Master'S Grail"
 weight: 10
-aliases:
-  - "/authors/daviess-maria-thompson/the-road-to-providence/chapter-10.html"
+url: "/authors/daviess-maria-thompson/the-road-to-providence/chapter-10.html"
 ---
 
 "In all my long life it have never been gave to me to see anything like Deacon Bostick and his Providence children," said Mother Mayberry, as she stood on the end of the porch with the singer girl's hand in hers. "He are a-setting on his bench under the tree right by her window, like he always did to listen for her, and every child in the Road is a-huddled up against him like a forlorn lot of little motherless chickens. He have got little Bettie and Martin Luther on his knees and the rest are just crowded up all around him. He don't seem to notice any of the rest of us, but looks to 'Liza for everything. She got him to go to bed at nine o'clock and when Buck and Mr. Petway went to set up for the night they found she'd done made 'Lias and Henny and Bud all lie down by him, one on each side and Bud acrost the foot. He wanted 'em to stay and the men let 'em do it. Judy says she were up by daylight and gone down the Road to see about his breakfast and things. And now she are just a-standing by him waiting for the bell to toll for the funeral. The Deacon have surely followed his Master in the suffering of little children to draw close to him in this life and now he are becoming as one of 'em before entering the Kingdom."

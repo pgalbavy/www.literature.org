@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/up-the-forked-river/chapter-35.html"
 ---
 
 The question for the moment took away the breath of the American. He looked into the crimson, flabby countenance and wondered if the man was in earnest. He was. By great effort, Major Starland held back the laugh tugging at the corners of his mouth.

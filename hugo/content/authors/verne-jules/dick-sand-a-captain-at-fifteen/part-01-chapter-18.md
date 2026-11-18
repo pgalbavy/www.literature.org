@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 18 - The Terrible Word"
 weight: 18
-aliases:
-  - "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-18.html"
+url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-18.html"
 ---
 
 It was time to arrive. Extreme lassitude made it impossible for Mrs. Weldon to continue any longer a journey made under such painful conditions. Her little boy, crimson during the fits of fever, very pale during the intermissions, was pitiable to see. His mother extremely anxious, had not been willing to leave Jack even in the care of the good Nan. She held him, half-lying, in her arms.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Suspicious Sound"
 weight: 17
-aliases:
-  - "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-17.html"
+url: "/authors/ellis-edward-sylvester/the-hunters-of-the-ozark/chapter-17.html"
 ---
 
 By and by Fred Linden and Terry Clark became drowsy. Devoutly kneeling, they spent several minutes in prayer, and then stretched out on a single blanket, with their backs toward each other, and the face of Fred in such a position that he could look across the blaze at Deerfoot on the other side. The latter had remained still and motionless, while the lads, remembering the lesson they had learned at their mothers' knee, asked their Heavenly Father to hold them in His keeping. The young Shawanoe, who spent many an hour in communion with his Maker, was touched to see that his friends did not forget their duty.

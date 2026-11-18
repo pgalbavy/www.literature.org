@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - A Lucky Find"
 weight: 13
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-13.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-brownie-beaver/chapter-13.html"
 ---
 
 Brownie Beaver almost wished he hadn't spent so much time waiting for Grandaddy to tell him to tie down his house so it wouldn't be carried away by the big wind on the following day. With no rope--or anything else--to tie the house with, Brownie could not see that Grandaddy's advice was of any use to him.

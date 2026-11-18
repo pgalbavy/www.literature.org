@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/verne-jules/from-the-earth-to-the-moon/chapter-22.html"
+url: "/authors/verne-jules/from-the-earth-to-the-moon/chapter-22.html"
 ---
 
 That same day all America heard of the affair of Captain Nicholl and President Barbicane, as well as its singular _denouement_. From that day forth, Michel Ardan had not one moment's rest. Deputations from all corners of the Union harassed him without cessation or intermission. He was compelled to receive them all, whether he would or no. How many hands he shook, how many people he was "hail-fellow-well-met" with, it is impossible to guess! Such a triumphal result would have intoxicated any other man; but he managed to keep himself in a state of delightful _semi_-tipsiness.

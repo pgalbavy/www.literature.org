@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Lightfoot And Paddy Become Partners"
 weight: 13
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-13.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-lightfoot-the-deer/chapter-13.html"
 ---
 
 The instant Lightfoot saw Paddy the Beaver he knew that for the time being, at least, there was no danger. He knew that Paddy is one of the shyest of all the little people of the Green Forest and that when he is found working in the daytime it means that he has been undisturbed for a long time; otherwise he would work only at night.

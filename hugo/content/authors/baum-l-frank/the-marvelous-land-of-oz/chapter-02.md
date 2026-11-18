@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-02.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-02.html"
 ---
 
 After considering the matter carefully, Tip decided that the best place to locate Jack would be at the bend in the road, a little way from the house. So he started to carry his man there, but found him heavy and rather awkward to handle. After dragging the creature a short distance Tip stood him on his feet, and by first bending the joints of one leg, and then those of the other, at the same time pushing from behind, the boy managed to induce Jack to walk to the bend in the road. It was not accomplished without a few tumbles, and Tip really worked harder than he ever had in the fields or forest; but a love of mischief urged him on, and it pleased him to test the cleverness of his workmanship.

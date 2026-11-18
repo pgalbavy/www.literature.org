@@ -1,8 +1,7 @@
 ---
 title: "Chapter 33 - Conclusion"
 weight: 33
-aliases:
-  - "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-33.html"
+url: "/authors/ellis-edward-sylvester/camp-fire-and-wigwam/chapter-33.html"
 ---
 
 Jack Carleton was in the middle of a pleasant dream of home and friends, when a light touch on his shoulder caused him to open his eyes and look up with a quick, inquiring glance.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27 - \"It Is The Lost Prince! It Is Ivor!\""
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/the-lost-prince/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/the-lost-prince/chapter-27.html"
 ---
 
 Many times since their journey had begun the boys had found their hearts beating with the thrill and excitement of things. The story of which their lives had been a part was a pulse-quickening experience. But as they carefully made their way down the steep steps leading seemingly into the bowels of the earth, both Marco and The Rat felt as though the old priest must hear the thudding in their young sides.

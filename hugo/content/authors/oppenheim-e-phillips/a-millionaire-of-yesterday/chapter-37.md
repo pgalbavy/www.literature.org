@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-37.html"
+url: "/authors/oppenheim-e-phillips/a-millionaire-of-yesterday/chapter-37.html"
 ---
 
 From a conversational point of view," Lady Tresham remarked, "our guest to-night seems scarcely likely to distinguish himself."

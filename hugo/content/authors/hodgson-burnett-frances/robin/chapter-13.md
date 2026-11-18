@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 14
-aliases:
-  - "/authors/hodgson-burnett-frances/robin/chapter-13.html"
+url: "/authors/hodgson-burnett-frances/robin/chapter-13.html"
 ---
 
 But there were no letters. And she was obliged to sit at her desk in the corner and listen to what people said about what was happening, and now and then to Lord Coombe speaking in low tones to the Duchess of his anxiety and uncertainty about Donal. Anxiety was increasing on every side and such of the unthinking multitude as had at last ceased to believe that one magnificent English blow would rid the earth of Germany, had begun to lean towards belief in a vision of German millions adding themselves each day to other millions advancing upon France, Belgium, England itself, a grey encroaching mass rolling forward and ever forward, overwhelming even neutral countries until not only Europe but the whole world was covered, and the mailed fist beat its fragments into such dust as it chose. Even those who had not lost their heads and who knew more than the general public, wore grave faces because they felt they knew too little and could not know more. Coombe's face was hard and grey many days.

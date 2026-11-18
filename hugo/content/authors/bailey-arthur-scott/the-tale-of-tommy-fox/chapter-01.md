@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - Tommy Enjoys Himself"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-01.html"
 ---
 
 Tommy Fox was having a delightful time. If you could have come upon him in the woods you would have been astonished at his antics. He leaped high off the ground, and struck out with his paws. He opened his mouth and thrust his nose out and then clapped his jaws shut again, with a snap. Tommy burrowed his sharp face into the dead leaves at his feet and tossed his head into the air. And then he jumped up and barked just like a puppy.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-06.html"
+url: "/authors/dickens-charles/great-expectations/chapter-06.html"
 ---
 
 My state of mind regarding the pilfering from which I had been so unexpectedly exonerated, did not impel me to frank disclosure; but I hope it had some dregs of good at the bottom of it.

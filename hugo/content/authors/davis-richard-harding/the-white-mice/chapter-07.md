@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 7
-aliases:
-  - "/authors/davis-richard-harding/the-white-mice/chapter-07.html"
+url: "/authors/davis-richard-harding/the-white-mice/chapter-07.html"
 ---
 
 Roddy was for at once dashing down the stone steps and exploring the tunnel, but McKildrick held him back.

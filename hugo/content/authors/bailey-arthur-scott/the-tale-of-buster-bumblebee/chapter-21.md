@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Bumblebee In The Pumpkin"
 weight: 21
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-21.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-21.html"
 ---
 
 Of course the dancers at Farmer Green's party had to stop now and then to get their breath. And the fiddlers, too, had to pause in order to rest. That is, two of them found it necessary to lay their fiddles aside once in a while. And it was no wonder; for they had each eaten a whole custard pie.

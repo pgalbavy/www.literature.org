@@ -1,8 +1,7 @@
 ---
 title: "Chapter 46"
 weight: 46
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-46.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-46.html"
 ---
 
 "A *FELLOW* has now no chance of promotion unless he jumps into the muzzle of a gun and crawls out of the touch-hole."

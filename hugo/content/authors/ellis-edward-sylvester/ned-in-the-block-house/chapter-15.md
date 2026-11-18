@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - An Unexpected Visitor"
 weight: 15
-aliases:
-  - "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-15.html"
+url: "/authors/ellis-edward-sylvester/ned-in-the-block-house/chapter-15.html"
 ---
 
 Jo Stinger had decided to venture out from the block-house, at a time when the Wyandots were on every side, and when many of them were within the stockade and close to the building itself It was a perilous act, but the veteran had what he deemed good grounds for undertaking it.

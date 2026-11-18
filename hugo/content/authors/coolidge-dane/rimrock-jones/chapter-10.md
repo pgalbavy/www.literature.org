@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Fight For The Old Juan"
 weight: 10
-aliases:
-  - "/authors/coolidge-dane/rimrock-jones/chapter-10.html"
+url: "/authors/coolidge-dane/rimrock-jones/chapter-10.html"
 ---
 
 When a man's honor is questioned--his honor as a fighting man--it is the dictum of centuries of chivalry that he shall not seek to avoid the combat. A great fortune was at stake, many millions of dollars and the possession of a valuable mine, and yet Rimrock Jones did not move. He walked around the town and held conferences with his friends until word came at last that he was jumped.

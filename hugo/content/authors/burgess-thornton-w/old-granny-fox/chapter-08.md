@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - What Farmer Brown's Boy Did"
 weight: 8
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-08.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-08.html"
 ---
 
 In time of danger heed this rule:  

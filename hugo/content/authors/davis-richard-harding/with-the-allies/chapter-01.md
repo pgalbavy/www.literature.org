@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Germans In Brussels"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/with-the-allies/chapter-01.html"
+url: "/authors/davis-richard-harding/with-the-allies/chapter-01.html"
 ---
 
 When, on August 4, the Lusitania, with lights doused and air-ports sealed, slipped out of New York harbor the crime of the century was only a few days old. And for three days those on board the Lusitania of the march of the great events were ignorant. Whether or no between England and Germany the struggle for the supremacy of the sea had begun we could not learn.

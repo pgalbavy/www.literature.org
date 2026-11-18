@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - My First Dissipation"
 weight: 25
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-24.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-24.html"
 ---
 
 It was a wonderfully fine thing to have that lofty castle to myself, and to feel, when I shut my outer door, like Robinson Crusoe, when he had got into his fortification, and pulled his ladder up after him. It was a wonderfully fine thing to walk about town with the key of my house in my pocket, and to know that I could ask any fellow to come home, and make quite sure of its being inconvenient to nobody, if it were not so to me. It was a wonderfully fine thing to let myself in and out, and to come and go without a word to anyone, and to ring Mrs. Crupp up, gasping, from the depths of the earth, when I wanted her--and when she was disposed to come. All this, I say, was wonderfully fine; but I must say, too, that there were times when it was very dreary.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Quarrel Of Friends"
 weight: 4
-aliases:
-  - "/authors/greene-homer/whispering-tongues/chapter-04.html"
+url: "/authors/greene-homer/whispering-tongues/chapter-04.html"
 ---
 
 Parmenter, fresh from his extorted confession of hazing, went back across the campus with his mind in a tumult. Half a dozen students spoke to him on the way, but he did not answer them. He could see nothing but Professor Lee’s white, strong face; he could hear nothing but his terrible words of condemnation.

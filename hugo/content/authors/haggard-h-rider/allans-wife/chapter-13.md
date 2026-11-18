@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - What Happened To Stella"
 weight: 14
-aliases:
-  - "/authors/haggard-h-rider/allans-wife/chapter-13.html"
+url: "/authors/haggard-h-rider/allans-wife/chapter-13.html"
 ---
 
 The fight was over. In all we had lost seven men killed, and several more severely bitten, while but few had escaped without some tokens whereby he might remember what a baboon’s teeth and claws are like. How many of the brutes we killed I never knew, because we did not count, but it was a vast number. I should think that the stock must have been low about Babyan’s Peak for many years afterwards. From that day to this, however, I have always avoided baboons, feeling more afraid of them than any beast that lives.

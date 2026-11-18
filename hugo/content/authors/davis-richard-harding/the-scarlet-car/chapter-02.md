@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - The Trespassers"
 weight: 2
-aliases:
-  - "/authors/davis-richard-harding/the-scarlet-car/chapter-02.html"
+url: "/authors/davis-richard-harding/the-scarlet-car/chapter-02.html"
 ---
 
 With a long, nervous shudder, the Scarlet Car came to a stop, and the lamps bored a round hole in the night, leaving the rest of the encircling world in a chill and silent darkness.

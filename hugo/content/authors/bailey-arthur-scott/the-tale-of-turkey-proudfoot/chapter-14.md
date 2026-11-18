@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A Proud Person"
 weight: 14
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-14.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-turkey-proudfoot/chapter-14.html"
 ---
 
 The peacock in front of the farmhouse paid no heed to Turkey Proudfoot, but moved very slowly and very haughtily about the lawn. His huge tail was spread like a sail. In the light summer breeze it swayed and rippled, sending out a thousand shimmering gleams. And on his tail were dozens of eyes. At least they looked like eyes to Turkey Proudfoot. And they all seemed to be trying to out-stare him.

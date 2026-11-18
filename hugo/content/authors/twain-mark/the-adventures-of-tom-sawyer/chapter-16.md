@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-16.html"
+url: "/authors/twain-mark/the-adventures-of-tom-sawyer/chapter-16.html"
 ---
 
 AFTER dinner all the gang turned out to hunt for turtle eggs on the bar. They went about poking sticks into the sand, and when they found a soft place they went down on their knees and dug with their hands. Sometimes they would take fifty or sixty eggs out of one hole. They were perfectly round white things a trifle smaller than an English walnut. They had a famous fried-egg feast that night, and another on Friday morning.

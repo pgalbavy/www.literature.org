@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - The Custom Of The Country"
 weight: 23
-aliases:
-  - "/authors/coolidge-dane/bat-wing-bowles/chapter-23.html"
+url: "/authors/coolidge-dane/bat-wing-bowles/chapter-23.html"
 ---
 
 When Bat Wing Bowles got up out of the dirt he was shaken in body and spirit. His corporeal frame felt as if it had been passed through a carpet-beater, and he had lost some of his most precious illusions. Certainly, if there was any way by which a tenderfoot might hope to achieve a little hard-earned fame in the Far West, it was not by riding bronks; and now, before he could wipe the blood from his nose, they were blaming him for all their troubles.

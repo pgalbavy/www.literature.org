@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/the-call-of-the-wild/chapter-06.html"
+url: "/authors/london-jack/the-call-of-the-wild/chapter-06.html"
 ---
 
 When John Thornton froze his feet in the previous December his partners had made him comfortable and left him to get well, going on themselves up the river to get out a raft of saw-logs for Dawson. He was still limping slightly at the time he rescued Buck, but with the continued warm weather even the slight limp left him. And here, lying by the river bank through the long spring days, watching the running water, listening lazily to the songs of birds and the hum of nature, Buck slowly won back his strength.

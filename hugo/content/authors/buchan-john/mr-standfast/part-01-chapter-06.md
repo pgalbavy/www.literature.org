@@ -1,8 +1,7 @@
 ---
 title: "Part 1 - Chapter 6 - The Skirts Of The Coolin"
 weight: 6
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-01-chapter-06.html"
+url: "/authors/buchan-john/mr-standfast/part-01-chapter-06.html"
 ---
 
 Obviously I must keep away from the railway. If the police were after me in Morvern, that line would be warned, for it was a barrier I must cross if I were to go farther north. I observed from the map that it turned up the coast, and concluded that the place for me to make for was the shore south of that turn, where Heaven might send me some luck in the boat line. For I was pretty certain that every porter and station-master on that tin-pot outfit was anxious to make better acquaintance with my humble self.

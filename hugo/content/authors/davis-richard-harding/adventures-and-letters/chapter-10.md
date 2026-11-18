@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Campaigning In Cuba And Greece"
 weight: 10
-aliases:
-  - "/authors/davis-richard-harding/adventures-and-letters/chapter-10.html"
+url: "/authors/davis-richard-harding/adventures-and-letters/chapter-10.html"
 ---
 
 In December, 1896, Richard and Frederic Remington, the artist, were commissioned by the New York Journal to visit Cuba which was then at war with Spain. It was their intention to go from Key West in the Vamoose, a very fast but frail steam-launch, and to make a landing at some uninhabited point on the Cuban coast. After this their plans seem to have been to trust to luck and the kindliness of the revolutionists. After waiting for some time at Key West for favorable weather, they at last started out on a dark night to make the crossing. A few hours after the Vamoose had left Key West a heavy storm arose--apparently much too violent for the slightly built launch. The crew struck and the captain finally refused to go on to Cuba and put back to Key West. Shortly after this Remington and my brother reached Havana by a more simple and ostentatious route. This was my brother's first effort as a war correspondent, and I presume it was this fact and the very indefiniteness of the original plan that caused his mother and father so much uneasiness. And, indeed, it did prove eventually a hazardous exploit.

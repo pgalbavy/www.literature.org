@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Abbe's Chamber"
 weight: 17
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-17.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-17.html"
 ---
 
 After having passed with tolerable ease through the subterranean passage, which, however, did not admit of their holding themselves erect, the two friends reached the further end of the corridor, into which the abbe's cell opened; from that point the passage became much narrower, and barely permitted one to creep through on hands and knees. The floor of the abbe's cell was paved, and it had been by raising one of the stones in the most obscure corner that Faria had to been able to commence the laborious task of which Dantes had witnessed the completion.

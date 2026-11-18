@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 27
-aliases:
-  - "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-27.html"
+url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-27.html"
 ---
 
 The night before Robin went away as she sat alone in the dimness of one light, thinking as girls nearly always sit and think on the eve of a change, because to youth any change seems to mean the final closing as well as the opening of ways, the door of her room was opened and an exquisite and nymphlike figure in pale green stood exactly where the rays of the reading lamp seemed to concentrate themselves in an effort to reveal most purely its delicately startling effect. It was her mother in a dress whose spring-like tint made her a sort of slim dryad. She looked so pretty and young that Robin caught her breath as she rose and went forward.

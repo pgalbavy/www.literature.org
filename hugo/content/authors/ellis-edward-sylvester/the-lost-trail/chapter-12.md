@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Among The Tree-Tops"
 weight: 12
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-12.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-12.html"
 ---
 
 Jack Carleton was astounded. Up to that moment he was absolutely certain that the young Shawanoe was on the other side of the Mississippi, and would make no attempt to return to the Kentucky shore until night. Yet he had not only recrossed, but was actually within fifty feet of the enclosure, directly among his fiercest enemies, who were assailing it, and, more remarkable than all, he had climbed among the limbs of a tree, where he could gain a view of the interior.

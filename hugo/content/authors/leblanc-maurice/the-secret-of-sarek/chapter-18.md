@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The God-Stone"
 weight: 19
-aliases:
-  - "/authors/leblanc-maurice/the-secret-of-sarek/chapter-18.html"
+url: "/authors/leblanc-maurice/the-secret-of-sarek/chapter-18.html"
 ---
 
 The Crystal Stopper was running on the surface of the water. Don Luis sat talking, with Stéphane, Patrice and All's Well, who were gathered round him:

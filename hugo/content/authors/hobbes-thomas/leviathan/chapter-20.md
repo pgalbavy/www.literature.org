@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Of Dominion Paternall And Despoticall"
 weight: 22
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-20.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-20.html"
 ---
 
 A Common-wealth by Acquisition, is that, where the Soveraign Power is acquired by Force; And it is acquired by force, when men singly, or many together by plurality of voyces, for fear of death, or bonds, do authorise all the actions of that Man, or Assembly, that hath their lives and liberty in his Power.

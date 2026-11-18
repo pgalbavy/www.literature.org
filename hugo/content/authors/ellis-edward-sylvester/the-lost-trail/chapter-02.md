@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - What A Rifle-Shot Did"
 weight: 2
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-02.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-02.html"
 ---
 
 The moment the young Kentuckian assumed this attitude, he became aware that the cougar had determined upon hostilities.

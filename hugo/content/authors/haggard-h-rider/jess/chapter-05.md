@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Dreams Are Foolishness"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/jess/chapter-05.html"
+url: "/authors/haggard-h-rider/jess/chapter-05.html"
 ---
 
 When, at the approach of Frank Muller, John Niel left Bessie on the verandah, he had taken his gun, and, having whistled to the pointer dog Pontac, he mounted his shooting pony and started in quest of partridges. On the warm slopes of the hills round Wakkerstroom a large species of partridge is very abundant, particularly in the patches of red grass with which the slopes are sometimes clothed. It is a merry sound to hear these birds calling from all directions just after daybreak, and one to make the heart of every true sportsman rejoice exceedingly. On leaving the house John proceeded up the side of the hill behind it--his pony picking its way carefully between the stones, and the dog Pontac ranging about two or three hundred yards off, for in this sort of country it is necessary to have a dog with a wide range. Presently seeing him stop under a mimosa thorn and suddenly stiffen out as if he had been petrified, John made the best of his way towards him. Pontac stood still for a few seconds, and then slowly and deliberately veered his head round as though it worked on a hinge to see if his master was coming. John knew his ways. Three times would that remarkable old dog look round thus, and if the gun had not then arrived he would to a certainty run in and flush the birds. This was a rule that he never broke, for his patience had a fixed limit. On this occasion, however, John arrived before it was reached, and, jumping off his pony, cocked his gun and marched slowly up, full of happy expectation. On drew the dog, his eye cold and fixed, saliva dropping from his mouth, and his head, on which was frozen an extraordinary expression of instinctive ferocity, outstretched to its utmost limit.

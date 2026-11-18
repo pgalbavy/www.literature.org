@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16 - Up At Merry's"
 weight: 17
-aliases:
-  - "/authors/alcott-louisa-may/jack-and-jill/chapter-16.html"
+url: "/authors/alcott-louisa-may/jack-and-jill/chapter-16.html"
 ---
 
 "Now fly round, child, and get your sweeping done up smart and early."

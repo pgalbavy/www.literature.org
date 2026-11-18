@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-aliases:
-  - "/authors/tarkington-booth/the-turmoil/chapter-26.html"
+url: "/authors/tarkington-booth/the-turmoil/chapter-26.html"
 ---
 
 George departed, and Bibbs was left gazing upon chaos and listening to thunder. He could not reach the stairway without passing the open doors of the library, and he was convinced that the mere glimpse of him, just then, would prove nothing less than insufferable for his father. For that reason he was about to make his escape into the gold-and-brocade room, intending to keep out of sight, when he heard Sheridan vociferously demanding his presence.

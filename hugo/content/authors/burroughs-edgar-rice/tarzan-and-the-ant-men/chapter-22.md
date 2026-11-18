@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-22.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-ant-men/chapter-22.html"
 ---
 
 A Waziri, returning from the village of Obebe the cannibal, saw a bone lying beside the trail. This, in itself, was nothing remarkable. Many bones lie along savage trails in Africa. But this bone caused him to pause. It was the bone of a child. Nor was that alone enough to give pause to a warrior hastening through an unfriendly country back toward his own people.

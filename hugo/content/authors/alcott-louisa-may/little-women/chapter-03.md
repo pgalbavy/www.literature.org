@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Laurence Boy"
 weight: 3
-aliases:
-  - "/authors/alcott-louisa-may/little-women/chapter-03.html"
+url: "/authors/alcott-louisa-may/little-women/chapter-03.html"
 ---
 
 "Jo! Jo! Where are you?" cried Meg at the foot of the garret stairs.

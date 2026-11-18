@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8"
 weight: 9
-aliases:
-  - "/authors/austen-jane/northanger-abbey/chapter-08.html"
+url: "/authors/austen-jane/northanger-abbey/chapter-08.html"
 ---
 
 In spite of Udolpho and the dressmaker, however, the party from Pulteney Street reached the Upper Rooms in very good time. The Thorpes and James Morland were there only two minutes before them; and Isabella having gone through the usual ceremonial of meeting her friend with the most smiling and affectionate haste, of admiring the set of her gown, and envying the curl of her hair, they followed their chaperones, arm in arm, into the ballroom, whispering to each other whenever a thought occurred, and supplying the place of many ideas by a squeeze of the hand or a smile of affection.

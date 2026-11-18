@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - \"Tell Mother I Am All Right\""
 weight: 6
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-06.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-06.html"
 ---
 
 There is a fascination in the presence of danger which we all feel. The news of the dreadful disaster spread with astonishing rapidity, and when I reached the river-side it seemed as if all Damietta were there.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - The Broken Trust"
 weight: 31
-aliases:
-  - "/authors/coolidge-dane/shadow-mountain/chapter-31.html"
+url: "/authors/coolidge-dane/shadow-mountain/chapter-31.html"
 ---
 
 To seek always for Truth and Justice and the common good of mankind has seldom had its earthly reward but, twenty-three hundred and fifteen years after he drank the cup of hemlock, the soul of Socrates received its oration. Not that the Colonel was hipped upon the subject of the ancients, for he talked mining and showed some copper claims as well; but a similar tragedy in his own domestic life had evoked a profound admiration for Socrates. And if Wiley understood what lay behind his words he gave no hint to the Colonel. Always, morning, noon and night, he listened respectfully, his lips curling briefly at some thought; and at the end of a week the Colonel was as devoted to him as he had been formerly to his father.

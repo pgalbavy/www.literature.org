@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Lilac Lady's Message"
 weight: 5
-aliases:
-  - "/authors/brown-ruth-alberta/heart-of-gold/chapter-05.html"
+url: "/authors/brown-ruth-alberta/heart-of-gold/chapter-05.html"
 ---
 
 Mercifully, Peace slept long the next morning, and it was not until the sun was high in the sky that she opened her eyes to her surroundings. Then it was with a heavy sense of something wrong, and she stared uneasily about her, trying to remember what was the trouble.

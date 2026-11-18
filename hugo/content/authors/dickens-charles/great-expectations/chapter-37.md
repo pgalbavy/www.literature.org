@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/dickens-charles/great-expectations/chapter-37.html"
+url: "/authors/dickens-charles/great-expectations/chapter-37.html"
 ---
 
 DEEMING Sunday the best day for taking Mr Wemmick's Wal- worth sentiments, I devoted the next ensuing Sunday afternoon to a pilgrimage to the Castle. On arriving before the battlements, I found the Union Jack flying and the drawbridge up; but undeterred by this show of defiance and resistance, I rang at the gate, and was admitted in a most pacific manner by the Aged.

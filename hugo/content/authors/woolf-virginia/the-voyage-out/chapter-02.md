@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/woolf-virginia/the-voyage-out/chapter-02.html"
+url: "/authors/woolf-virginia/the-voyage-out/chapter-02.html"
 ---
 
 Uncomfortable as the night, with its rocking movement, and salt smells, may have been, and in one case undoubtedly was, for Mr. Pepper had insufficient clothes upon his bed, the breakfast next morning wore a kind of beauty. The voyage had begun, and had begun happily with a soft blue sky, and a calm sea. The sense of untapped resources, things to say as yet unsaid, made the hour significant, so that in future years the entire journey perhaps would be represented by this one scene, with the sound of sirens hooting in the river the night before, somehow mixing in.

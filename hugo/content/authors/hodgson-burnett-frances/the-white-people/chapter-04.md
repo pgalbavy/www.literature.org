@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/hodgson-burnett-frances/the-white-people/chapter-04.html"
+url: "/authors/hodgson-burnett-frances/the-white-people/chapter-04.html"
 ---
 
 My guardian was a man whose custom it was to give large and dignified parties. Among his grand and fashionable guests there was nearly always a sprinkling of the more important members of the literary world. The night after I arrived there was to be a particularly notable dinner. I had come prepared to appear at it. Jean had brought fine array for me and a case of jewels. I knew I must be “dressed up” and look as important as I could. When I went up-stairs after tea, Jean was in my room laying things out on the bed.

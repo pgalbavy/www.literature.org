@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - An Affair Of State"
 weight: 5
-aliases:
-  - "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-05.html"
+url: "/authors/oppenheim-e-phillips/the-illustrious-prince/chapter-05.html"
 ---
 
 Miss Penelope Morse was perfectly well aware that the taxicab in which she left the Carlton Hotel was closely followed by two others. Through the tube which she found by her side, she altered her first instructions to the driver, and told him to proceed as fast as possible to Harrod's Stores. Then, raising the flap at the rear of the cab, she watched the progress of the chase. Along Pall Mall the taxi in which she was seated gained considerably, but in the Park and along the Bird Cage Walk both the other taxies, risking the police regulations, drew almost alongside. Once past Hyde Park Corner, however, her cab again drew ahead, and when she was deposited in front of Harrod's Stores, her pursuers were out of sight. She paid the driver quickly, a little over double his fare.

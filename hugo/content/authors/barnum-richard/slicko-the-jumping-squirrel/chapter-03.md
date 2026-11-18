@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Slicko Goes On A Visit"
 weight: 3
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-03.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-03.html"
 ---
 
 Mr. Squirrel came along, hurrying and jumping through the leafy branches of the trees as fast as he could come. When he was still some distance away from the nest, he took a long jump, and landed on the limb near the hole in the tree.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Man Dead"
 weight: 2
-aliases:
-  - "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-02.html"
+url: "/authors/leblanc-maurice/the-teeth-of-the-tiger/chapter-02.html"
 ---
 
 The declaration was followed by a silence of some length. The Secretary of the American Embassy and the Peruvian attaché had followed the conversation with eager interest. Major d'Astrignac nodded his head with an air of approval. To his mind, Perenna could not be mistaken.

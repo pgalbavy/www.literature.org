@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Death Steals Behind"
 weight: 6
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-06.html"
+url: "/authors/burroughs-edgar-rice/tarzan-and-the-golden-lion/chapter-06.html"
 ---
 
 DURING the afternoon of the day that Tarzan discovered the camp of the conspirators, a watcher upon the crumbling outer wall of the ruined city of Opar descried a party of men moving downward into the valley from the summit of the encircling cliff. Tarzan, Jane Clayton, and their black Waziri were the only strangers that the denizens of Opar had ever seen within their valley during the lifetime of the oldest among them, and only in half-forgotten legends of a by-gone past was there any suggestion that strangers other than these had ever visited Opar. Yet from time immemorial a guard had always remained upon the summit of the outer wall. Now a single knurled and crippled man-like creature was all that recalled the numerous, lithe warriors of lost Atlantis. For down through the long ages the race had deteriorated and finally, through occasional mating with the great apes, the men had become the beast-like things of modern Opar. Strange and inexplicable had been the providence of nature that had confined this deterioration almost solely to the males, leaving the females straight, well-formed, often of comely and even beautiful features, a condition that might be largely attributable to the fact that female infants possessing ape-like characteristics were immediately destroyed, while, on the other hand, boy babies who possessed purely human attributes were also done away with.

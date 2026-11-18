@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Strange Cry"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jasper-jay/chapter-03.html"
 ---
 
 AS you may already know, Jasper Jay was a vain fellow. And it was not only of his brilliant blue suit that he was proud. He was greatly pleased with his own voice, though many of the feathered folk thought it harsh and disagreeable. But, that, perhaps, was because they seldom or never heard Jasper's sweeter, flute-like notes, or the soft, low chatter which he kept for his most intimate friends.

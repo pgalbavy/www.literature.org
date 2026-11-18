@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The City of Gold"
 weight: 19
-aliases:
-  - "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-19.html"
+url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-19.html"
 ---
 
 The very night that Tarzan of the Apes became chief of the Waziri the woman he loved lay dying in a tiny boat two hundred miles west of him upon the Atlantic. As he danced among his naked fellow savages, the firelight gleaming against his great, rolling muscles, the personification of physical perfection and strength, the woman who loved him lay thin and emaciated in the last coma that precedes death by thirst and starvation.

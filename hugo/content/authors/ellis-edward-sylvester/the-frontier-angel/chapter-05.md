@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Mysterious Warning"
 weight: 5
-aliases:
-  - "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-05.html"
+url: "/authors/ellis-edward-sylvester/the-frontier-angel/chapter-05.html"
 ---
 
 IT was a mild September night in 179-. The day had been one of those warm, hazy ones that sometimes appear at that season of the year, and the night had set in with delicious coolness. There was a faint moon in the heavens, and several flaky clouds were drifting past it, causing their fantastic shadows to glide like phantoms over the settlement, sometimes, for a moment, throwing it into shadow, and then permitting the moonlight again to stream down upon it.

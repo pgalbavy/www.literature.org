@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-03.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-03.html"
 ---
 
 Mrs. Dashwood remained at Norland several months; not from any disinclination to move when the sight of every well known spot ceased to raise the violent emotion which it produced for a while; for when her spirits began to revive, and her mind became capable of some other exertion than that of heightening its affliction by melancholy remembrances, she was impatient to be gone, and indefatigable in her inquiries for a suitable dwelling in the neighbourhood of Norland; for to remove far from that beloved spot was impossible. But she could hear of no situation that at once answered her notions of comfort and ease, and suited the prudence of her eldest daughter, whose steadier judgment rejected several houses as too large for their income, which her mother would have approved.

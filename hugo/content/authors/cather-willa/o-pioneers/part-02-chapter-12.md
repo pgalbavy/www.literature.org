@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 12"
 weight: 17
-aliases:
-  - "/authors/cather-willa/o-pioneers/part-02-chapter-12.html"
+url: "/authors/cather-willa/o-pioneers/part-02-chapter-12.html"
 ---
 
 Carl came into the sitting-room while Alexandra was lighting the lamp. She looked up at him as she adjusted the shade. His sharp shoulders stooped as if he were very tired, his face was pale, and there were bluish shadows under his dark eyes. His anger had burned itself out and left him sick and disgusted.

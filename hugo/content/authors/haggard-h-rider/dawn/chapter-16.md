@@ -1,8 +1,7 @@
 ---
 title: "Chapter 16"
 weight: 17
-aliases:
-  - "/authors/haggard-h-rider/dawn/chapter-16.html"
+url: "/authors/haggard-h-rider/dawn/chapter-16.html"
 ---
 
 Reader, we are about to see Angela again, and to see a good deal of her; but you must be prepared for a change in her personal appearance, for the curtain has been down for ten years since last you met the child whose odd propensities excited Pigott's wonder and indignation and Mr. Fraser's interest; and ten years, as we all know, can work many changes in the history of the world and individuals. In ten years some have been swept clean off the board, and their places taken by others; a few have grown richer, many poorer, some of us sadder, some wiser, and all of us ten years older. Now, this was exactly what had happened to little Angela--that is, the Angela we knew as little, and ten years make curious differences between the slim child of nine and a half and the woman of nearly twenty.

@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 3 - Scholastic"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-03.html"
+url: "/authors/wells-herbert-george/the-new-machiavelli/book-01-chapter-03.html"
 ---
 
 1

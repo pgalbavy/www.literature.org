@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 6 - The Five Days’ Festival"
 weight: 27
-aliases:
-  - "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-06.html"
+url: "/authors/stevenson-robert-louis/in-the-south-seas/part-03-chapter-06.html"
 ---
 
 Thursday, July 25.—The street was this day much enlivened by the presence of the men from Little Makin; they average taller than Butaritarians, and being on a holiday, went wreathed with yellow leaves and gorgeous in vivid colours. They are said to be more savage, and to be proud of the distinction. Indeed, it seemed to us they swaggered in the town, like plaided Highlanders upon the streets of Inverness, conscious of barbaric virtues.

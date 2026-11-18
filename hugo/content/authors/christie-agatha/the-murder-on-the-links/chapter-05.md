@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Mrs. Renauld’s Story"
 weight: 5
-aliases:
-  - "/authors/christie-agatha/the-murder-on-the-links/chapter-05.html"
+url: "/authors/christie-agatha/the-murder-on-the-links/chapter-05.html"
 ---
 
 We found M. Hautet awaiting us in the hall, and we all proceeded upstairs together, Françoise marching ahead to show us the way. Poirot went up in a zigzag fashion which puzzled me, until he whispered with a grimace:

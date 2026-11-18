@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25 - The Squire Gives His Consent"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-25.html"
+url: "/authors/haggard-h-rider/colonel-quaritch-vc/chapter-25.html"
 ---
 
 Edward Cossey did not come away from the scene of his engagement in a very happy or triumphant tone of mind. Ida's bitter words stung like whips, and he understood, and she clearly meant he should understand, that it was only in consideration of the money advanced that she had consented to become his wife. Now, however satisfactory it is to be rich enough to purchase your heart's desire in this fashion, it is not altogether soothing to the pride of a nineteenth-century man to be continually haunted by the thought that he is a buyer in the market and nothing but a buyer. Of course, he saw clearly enough that there was an object in all this--he saw that Ida, by making obvious her dislike, wished to disgust him with his bargain, and escape from an alliance of which the prospect was hateful to her. But he had no intention of being so easily discouraged. In the first place his passion for the woman was as a devouring flame, eating ever at his heart. In that at any rate he was sincere; he did love her so far as his nature was capable of love, or at any rate he had the keenest desire to make her his wife. A delicate-minded man would probably have shrunken from forcing himself upon a woman under parallel circumstances; but Edward Cossey did not happen to fall into that category. As a matter of fact such men are not as common as they might be.

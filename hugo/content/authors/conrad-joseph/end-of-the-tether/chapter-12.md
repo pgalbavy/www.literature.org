@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12"
 weight: 12
-aliases:
-  - "/authors/conrad-joseph/end-of-the-tether/chapter-12.html"
+url: "/authors/conrad-joseph/end-of-the-tether/chapter-12.html"
 ---
 
 Mr. Van Wyk, the white man of Batu Beru, an ex-naval officer who, for reasons best known to himself, had thrown away the promise of a brilliant career to become the pioneer of tobacco-planting on that remote part of the coast, had learned to like Captain Whalley. The appearance of the new skipper had attracted his attention. Nothing more unlike all the diverse types he had seen succeeding each other on the bridge of the Sofala could be imagined.

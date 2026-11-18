@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - Traveling With Terror"
 weight: 2
-aliases:
-  - "/authors/burroughs-edgar-rice/pellucidar/chapter-02.html"
+url: "/authors/burroughs-edgar-rice/pellucidar/chapter-02.html"
 ---
 
 We made camp there beside the peaceful river. There Perry told me all that had befallen him since I had departed for the outer crust.

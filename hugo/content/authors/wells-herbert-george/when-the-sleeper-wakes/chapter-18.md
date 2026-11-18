@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Graham Remembers"
 weight: 18
-aliases:
-  - "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-18.html"
+url: "/authors/wells-herbert-george/when-the-sleeper-wakes/chapter-18.html"
 ---
 
 She came upon him at last in a little gallery that ran from the Wind Vane Offices toward his state apartments. The gallery was long and narrow, with a series of recesses, each with an arched fenestration that looked upon a court of palms. He came upon her suddenly in one of these recesses. She was seated. She turned her head at the sound of his footsteps and started at the sight of him. Every touch of colour vanished from her face. She rose instantly, made a step toward him as if to address him, and hesitated. He stopped and stood still, expectant. Then he perceived that a nervous tumult silenced her, perceived too, that she must have sought speech with him to be waiting for him in this place.

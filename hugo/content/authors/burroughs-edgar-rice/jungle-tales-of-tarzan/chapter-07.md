@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The End of Bukawai"
 weight: 7
-aliases:
-  - "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-07.html"
+url: "/authors/burroughs-edgar-rice/jungle-tales-of-tarzan/chapter-07.html"
 ---
 
 WHEN TARZAN OF the Apes was still but a boy he had learned, among other things, to fashion pliant ropes of fibrous jungle grass. Strong and tough were the ropes of Tarzan, the little Tarmangani. Tublat, his foster father, would have told you this much and more. Had you tempted him with a handful of fat caterpillars he even might have sufficiently unbended to narrate to you a few stories of the many indignities which Tarzan had heaped upon him by means of his hated rope; but then Tublat always worked himself into such a frightful rage when he devoted any considerable thought either to the rope or to Tarzan, that it might not have proved comfortable for you to have remained close enough to him to hear what he had to say.

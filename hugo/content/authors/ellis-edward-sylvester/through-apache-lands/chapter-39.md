@@ -1,8 +1,7 @@
 ---
 title: "Chapter 39 - Conclusion"
 weight: 39
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-39.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-39.html"
 ---
 
 Long and hard rode Tom Hardynge after his escape from the beleaguring Apaches, for he was determined to save Ned and Dick if the thing were within the range of human possibility. His mustang seemed to understand what was expected of him, and he required no urging from his master to maintain his arrowy flight. It was a literal race between life and death. If he could reach Fort Havens in time to procure succor, the man and the boy were saved. If not, then they were doomed.

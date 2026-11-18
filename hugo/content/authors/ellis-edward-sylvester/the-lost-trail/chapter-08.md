@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Behind The Tree"
 weight: 8
-aliases:
-  - "/authors/ellis-edward-sylvester/the-lost-trail/chapter-08.html"
+url: "/authors/ellis-edward-sylvester/the-lost-trail/chapter-08.html"
 ---
 
 The report of the gun reached the ears of Otto and Jack, and naturally caused them alarm. They hurriedly made their way to the edge of the river and peered out from cover, not forgetting the warnings previously given by Deerfoot.

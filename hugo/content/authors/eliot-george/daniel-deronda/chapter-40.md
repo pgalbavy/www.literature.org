@@ -1,8 +1,7 @@
 ---
 title: "Chapter 40"
 weight: 40
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-40.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-40.html"
 ---
 
 "Within the soul a faculty abides, That with interpositions, which would hide And darken, so can deal, that they become Contingencies of pomp; and serve to exalt Her native brightness, as the ample moon. In the deep stillness of a summer even. Rising behind a thick and lofty grove. Into a substance glorious as her own, Yea, with her own incorporated, by power Capacious and serene." - WORDSWORTH: Excursion, B. IV.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Buster Bear Becomes A Hero"
 weight: 11
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-11.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-buster-bear/chapter-11.html"
 ---
 
 The news that Little Joe Otter told at the Smiling Pool,—how Farmer Brown's boy had run away from Buster Bear without even seeing him,—soon spread all over the Green Meadows and through the Green Forest, until every one who lives there knew about it. Of course, Peter Rabbit helped spread it. Trust Peter for that! But everybody else helped too. You see, they had all been afraid of Farmer Brown's boy for so long that they were tickled almost to pieces at the very thought of having some one in the Green Forest who could make Farmer Brown's boy feel fear as they had felt it. And so it was that Buster Bear became a hero right away to most of them.

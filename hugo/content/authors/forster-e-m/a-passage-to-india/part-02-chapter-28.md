@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 28"
 weight: 28
-aliases:
-  - "/authors/forster-e-m/a-passage-to-india/part-02-chapter-28.html"
+url: "/authors/forster-e-m/a-passage-to-india/part-02-chapter-28.html"
 ---
 
 Dead she was—committed to the deep while still on the southward track, for the boats from Bombay cannot point towards Europe until Arabia has been rounded; she was further in the tropics than ever achieved while on shore, when the sun touched her for the last time and her body was lowered into yet another India—the Indian Ocean. She left behind her sore discomfort, for a death gives a ship a bad name. Who was this Mrs. Moore? When Aden was reached, Lady Mellanby cabled, wrote, did all that was kind, but the wife of a Lieutenant-Governor does not bargain for such an experience; and she repeated: “I had only seen the poor creature for a few hours when she was taken ill; really this has been needlessly distressing, it spoils one’s home-coming.” A ghost followed the ship up the Red Sea, but failed to enter the Mediterranean. Somewhere about Suez there is always a social change: the arrangements of Asia weaken and those of Europe begin to be felt, and during the transition Mrs. Moore was shaken off. At Port Said the grey blustery north began. The weather was so cold and bracing that the passengers felt it must have broken in the land they had left, but it became hotter steadily there in accordance with its usual law.

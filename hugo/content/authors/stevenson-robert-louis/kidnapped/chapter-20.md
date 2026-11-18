@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - The Flight In The Heather: The Rocks"
 weight: 21
-aliases:
-  - "/authors/stevenson-robert-louis/kidnapped/chapter-20.html"
+url: "/authors/stevenson-robert-louis/kidnapped/chapter-20.html"
 ---
 
 Sometimes we walked, sometimes ran; and as it drew on to morning, walked ever the less and ran the more. Though, upon its face, that country appeared to be a desert, yet there were huts and houses of the people, of which we must have passed more than twenty, hidden in quiet places of the hills. When we came to one of these, Alan would leave me in the way, and go himself and rap upon the side of the house and speak awhile at the window with some sleeper awakened. This was to pass the news; which, in that country, was so much of a duty that Alan must pause to attend to it even while fleeing for his life; and so well attended to by others, that in more than half of the houses where we called they had heard already of the murder. In the others, as well as I could make out (standing back at a distance and hearing a strange tongue), the news was received with more of consternation than surprise.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Bill's Tombstone"
 weight: 3
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-03.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-03.html"
 ---
 
 There were soldiers riding down the road, on horses two and two. That is the horses were two and two, and the men not. Because each man was riding one horse and leading another. To exercise them. They came from Chatham Barracks. We all drew up in a line outside the churchyard wall, and saluted as they went by, though we had not read Toady Lion then. We have since. It is the only decent book I have ever read written by Toady Lion's author. The others are mere piffle. But many people like them. In Sir Toady Lion the officer salutes the child.

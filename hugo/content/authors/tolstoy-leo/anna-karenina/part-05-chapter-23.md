@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 23"
 weight: 147
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-23.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-23.html"
 ---
 
 The Countess Lidia Ivanovna had, as a very young and sentimental girl, been married to a wealthy man of high rank, an extremely good-natured, jovial, and extremely dissipated rake. Two months after marriage her husband abandoned her, and her impassioned protestations of affection he met with a sarcasm and even hostility that people knowing the count's good heart, and seeing no defects in the sentimental Lidia, were at loss to explain. Though they were divorced and lived apart, yet whenever the husband met the wife, he invariably behaved to her with the same malignant irony, the cause of which was incomprehensible.

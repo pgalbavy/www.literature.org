@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Mrs. Fox Outwits Dog Spot"
 weight: 10
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-10.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-tommy-fox/chapter-10.html"
 ---
 
 Poor Tommy Fox! How he wished that he had obeyed his mother, and kept away from Farmer Green's hen-house! Now Farmer Green's dog Spot was chasing him. Tommy could hear him baying joyfully as he followed. But you may be sure that Tommy was not joyful. He was terribly frightened. He could think of nothing to do except to run, run, run! as fast as he could go. He was headed straight for home, and he only hoped that he would get there before the dog Spot caught him.

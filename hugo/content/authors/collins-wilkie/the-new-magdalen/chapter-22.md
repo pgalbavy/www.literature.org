@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Man In The Dining-Room"
 weight: 22
-aliases:
-  - "/authors/collins-wilkie/the-new-magdalen/chapter-22.html"
+url: "/authors/collins-wilkie/the-new-magdalen/chapter-22.html"
 ---
 
 IN the great emergencies of life we feel, or we act, as our dispositions incline us. But we never think. Mercy's mind was a blank as she descended the stairs. On her way down she was conscious of nothing but the one headlong impulse to get to the library in the shortest possible space of time. Arrived at the door, the impulse capriciously left her. She stopped on the mat, wondering why she had hurried herself, with time to spare. Her heart sank; the fever of her excitement changed suddenly to a chill as she faced the closed door, and asked herself the question, Dare I go in?

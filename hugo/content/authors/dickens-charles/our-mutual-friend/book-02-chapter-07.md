@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 7 - In Which A Friendly Move Is Originated"
 weight: 24
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-07.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-07.html"
 ---
 
 The arrangement between Mr Boffin and his literary man, Mr Silas Wegg, so far altered with the altered habits of Mr Boffin’s life, as that the Roman Empire usually declined in the morning and in the eminently aristocratic family mansion, rather than in the evening, as of yore, and in Boffin’s Bower. There were occasions, however, when Mr Boffin, seeking a brief refuge from the blandishments of fashion, would present himself at the Bower after dark, to anticipate the next sallying forth of Wegg, and would there, on the old settle, pursue the downward fortunes of those enervated and corrupted masters of the world who were by this time on their last legs. If Wegg had been worse paid for his office, or better qualified to discharge it, he would have considered these visits complimentary and agreeable; but, holding the position of a handsomely-remunerated humbug, he resented them. This was quite according to rule, for the incompetent servant, by whomsoever employed, is always against his employer. Even those born governors, noble and right honourable creatures, who have been the most imbecile in high places, have uniformly shown themselves the most opposed (sometimes in belying distrust, sometimes in vapid insolence) to THEIR employer. What is in such wise true of the public master and servant, is equally true of the private master and servant all the world over.

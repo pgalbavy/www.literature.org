@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - A New Home At Last"
 weight: 14
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-14.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-johnny-chuck/chapter-14.html"
 ---
 
 Home, no matter where it be,  

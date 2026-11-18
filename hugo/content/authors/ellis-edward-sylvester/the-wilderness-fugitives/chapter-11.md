@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - An Unfavorable Omen"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/the-wilderness-fugitives/chapter-11.html"
 ---
 
 Ned pressed the pole into the bottom of the river, which was so far below that only a few feet of the stick remained above the surface, and he was forced to lean over the side of the craft to secure any leverage. Any one who has tried it knows that it is next to impossible to accomplish much under similar circumstances, and the young scout was of the opinion that he was not making any progress at all toward the other shore.

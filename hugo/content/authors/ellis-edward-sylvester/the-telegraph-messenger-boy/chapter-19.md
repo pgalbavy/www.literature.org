@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Baffled!"
 weight: 19
-aliases:
-  - "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-19.html"
+url: "/authors/ellis-edward-sylvester/the-telegraph-messenger-boy/chapter-19.html"
 ---
 
 It so happened that the two men stopped directly at the mouth of the alley, within a few feet of Ben Mayberry, who could hear their guarded words, though he could not catch the first glimpse of their figures.

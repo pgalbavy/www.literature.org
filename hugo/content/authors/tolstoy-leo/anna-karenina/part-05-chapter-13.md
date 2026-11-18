@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 13"
 weight: 137
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-13.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-13.html"
 ---
 
 Mikhailov sold Vronsky his picture, and agreed to paint a portrait of Anna. On the day fixed he came and began the work.

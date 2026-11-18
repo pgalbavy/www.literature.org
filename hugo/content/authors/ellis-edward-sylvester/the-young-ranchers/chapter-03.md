@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Companions In Peril"
 weight: 3
-aliases:
-  - "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-03.html"
+url: "/authors/ellis-edward-sylvester/the-young-ranchers/chapter-03.html"
 ---
 
 Warren Starr was impatient with himself that he had not thought of the stranger being a white man until it was too late to make use of the important fact. The sounds of firing ahead ought to have raised the suspicion in his mind, and the act of his pony should have confirmed it, for he never would have betrayed himself to one of his own species had he not known that he belonged to a friend.

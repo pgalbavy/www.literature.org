@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/conrad-joseph/gaspar-ruiz/chapter-04.html"
+url: "/authors/conrad-joseph/gaspar-ruiz/chapter-04.html"
 ---
 
 "*GASPAR RUIZ* had clambered up on the sill, and sat down there with his feet against the thickness of the wall and his knees slightly bent. The window was not quite broad enough for the length of his legs. It appeared to my crestfallen perception that he meant to keep the window all to himself. He seemed to be taking up a comfortable position. Nobody inside dared to approach him now he could strike with his hands.

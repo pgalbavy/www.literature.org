@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-02.html"
+url: "/authors/baum-l-frank/dorothy-and-the-wizard-in-oz/chapter-02.html"
 ---
 
 When Dorothy recovered her senses they were still falling, but not so fast. The top of the buggy caught the air like a parachute or an umbrella filled with wind, and held them back so that they floated downward with a gentle motion that was not so very disagreeable to bear. The worst thing was their terror of reaching the bottom of this great crack in the earth, and the natural fear that sudden death was about to overtake them at any moment. Crash after crash echoed far above their heads, as the earth came together where it had split, and stones and chunks of clay rattled around them on every side. These they could not see, but they could feel them pelting the buggy top, and Jim screamed almost like a human being when a stone overtook him and struck his boney body. They did not really hurt the poor horse, because everything was falling together; only the stones and rubbish fell faster than the horse and buggy, which were held back by the pressure of the air, so that the terrified animal was actually more frightened than he was injured.

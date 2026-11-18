@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Singing-Party"
 weight: 7
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-07.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-ferdinand-frog/chapter-07.html"
 ---
 
 Ferdinand Frog lost no time, after Tired Tim left him. He jumped into the swamp and made straight towards the very middle of it, whence he could already hear the chorus of the numerous Frog family; for the singing-party had begun.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 21 - The Law of the Jungle"
 weight: 21
-aliases:
-  - "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-21.html"
+url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-21.html"
 ---
 
 In Tarzan's camp, by dint of threats and promised rewards, the ape-man had finally succeeded in getting the hull of a large skiff almost completed. Much of the work he and Mugambi had done with their own hands in addition to furnishing the camp with meat.

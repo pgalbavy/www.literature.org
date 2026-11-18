@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - How England Held The Lists At Bordeaux"
 weight: 23
-aliases:
-  - "/authors/doyle-arthur-conan/the-white-company/chapter-23.html"
+url: "/authors/doyle-arthur-conan/the-white-company/chapter-23.html"
 ---
 
 SO used were the good burghers of Bordeaux to martial display and knightly sport, that an ordinary joust or tournament was an everyday matter with them. The fame and brilliancy of the prince's court had drawn the knights-errant and pursuivants-of- arms from every part of Europe. In the long lists by the Garonne on the landward side of the northern gate there had been many a strange combat, when the Teutonic knight, fresh from the conquest of the Prussian heathen, ran a course against the knight of Calatrava, hardened by continual struggle against the Moors, or cavaliers from Portugal broke a lance with Scandinavian warriors from the further shore of the great Northern Ocean. Here fluttered many an outland pennon, bearing symbol and blazonry from the banks of the Danube, the wilds of Lithuania and the mountain strongholds of Hungary; for chivalry was of no clime and of no race, nor was any land so wild that the fame and name of the prince had not sounded through it from border to border.

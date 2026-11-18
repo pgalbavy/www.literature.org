@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Shares Looking Up"
 weight: 8
-aliases:
-  - "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-08.html"
+url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-08.html"
 ---
 
 There were others who echoed her ladyship's words afterward, though they echoed them privately, and with more caution than my lady felt necessary. It is certain that Miss Octavia Bassett did not improve as time progressed, and she had enlarged opportunities for studying the noble example set before her by Slowbridge.

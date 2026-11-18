@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Reconnaissance"
 weight: 4
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-04.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-04.html"
 ---
 
 Hamil awoke early: long before breakfast he was shaved, dressed, and hungry; but in the hotel late rising appeared to be fashionable, and through the bewildering maze of halls and corridors nobody was yet astir except a few children and their maids.

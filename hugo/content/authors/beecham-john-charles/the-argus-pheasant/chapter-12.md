@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Peter Gross's Reception"
 weight: 13
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-12.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-12.html"
 ---
 
 When Peter Gross stepped ashore at the foot of the slope on which the fort and government buildings stood, three thousand pairs of eyes, whose owners were securely hidden in the copses and undergrowth for a quarter of a mile in both directions along the shore-line, watched his every movement. With the lightning celerity with which big news travels word had been spread through Bulungan town that the new resident was coming ashore, and every inhabitant possessed of sound legs to bear him had run, crawled, or scrambled to a favorable patch of undergrowth where he could get a first glimpse of the orang blanda chief without being observed.

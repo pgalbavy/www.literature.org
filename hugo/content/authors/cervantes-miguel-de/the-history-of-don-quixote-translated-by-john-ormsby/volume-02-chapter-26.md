@@ -1,8 +1,7 @@
 ---
 title: "Volume 2 - Chapter 26 - Wherein Is Continued The Droll Adventure Of The Puppet-Showman, Together With Other Things In Truth Right Good"
 weight: 82
-aliases:
-  - "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-26.html"
+url: "/authors/cervantes-miguel-de/the-history-of-don-quixote-translated-by-john-ormsby/volume-02-chapter-26.html"
 ---
 
 All were silent, Tyrians and Trojans; I mean all who were watching the show were hanging on the lips of the interpreter of its wonders, when drums and trumpets were heard to sound inside it and cannon to go off. The noise was soon over, and then the boy lifted up his voice and said, "This true story which is here represented to your worships is taken word for word from the French chronicles and from the Spanish ballads that are in everybody’s mouth, and in the mouth of the boys about the streets. Its subject is the release by Señor Don Gaiferos of his wife Melisendra, when a captive in Spain at the hands of the Moors in the city of Sansueña, for so they called then what is now called Saragossa; and there you may see how Don Gaiferos is playing at the tables, just as they sing it-

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37"
 weight: 37
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-37.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-37.html"
 ---
 
 THAT was all fixed. So then we went away and went to the rubbage-pile in the back yard, where they keep the old boots, and rags, and pieces of bottles, and wore-out tin things, and all such truck, and scratched around and found an old tin washpan, and stopped up the holes as well as we could, to bake the pie in, and took it down cellar and stole it full of flour and started for breakfast, and found a couple of shingle-nails that Tom said would be handy for a prisoner to scrabble his name and sorrows on the dungeon walls with, and dropped one of them in Aunt Sally's apron-pocket which was hanging on a chair, and t'other we stuck in the band of Uncle Silas's hat, which was on the bureau, because we heard the children say their pa and ma was going to the runaway nigger's house this morning, and then went to breakfast, and Tom dropped the pewter spoon in Uncle Silas's coat-pocket, and Aunt Sally wasn't come yet, so we had to wait a little while.

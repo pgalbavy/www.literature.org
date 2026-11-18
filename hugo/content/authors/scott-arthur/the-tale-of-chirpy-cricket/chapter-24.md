@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - Frightening Simon Screecher"
 weight: 24
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-24.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-24.html"
 ---
 
 Mr. Meadow Mouse acted as if he thought he had been a great help when he said that Chirpy Cricket would have to think of another way to avoid Simon Screecher's cruel talons. But the more Chirpy turned the matter over in his mind the further he seemed to be from any plan. For several days and nights he puzzled over his problem. And every time he heard Simon Screecher's unearthly wail he shivered so hard that his fiddling actually seemed to shiver too.

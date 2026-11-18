@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 24
-aliases:
-  - "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-23.html"
+url: "/authors/baum-l-frank/the-marvelous-land-of-oz/chapter-23.html"
 ---
 
 "You are my prisoner, and it is useless for you to struggle any longer," said Glinda, in her soft, sweet voice. "Lie still a moment, and rest yourself, and then I will carry you back to my tent."

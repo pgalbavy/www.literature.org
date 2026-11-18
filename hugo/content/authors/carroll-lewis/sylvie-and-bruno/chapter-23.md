@@ -1,8 +1,7 @@
 ---
 title: "Chapter 23 - An outlandish watch"
 weight: 24
-aliases:
-  - "/authors/carroll-lewis/sylvie-and-bruno/chapter-23.html"
+url: "/authors/carroll-lewis/sylvie-and-bruno/chapter-23.html"
 ---
 
 As I entered the little town, I came upon two of the fishermen's wives interchanging that last word "which never was the last": and it occurred to me, as an experiment with the Magic Watch, to wait till the little scene was over, and then to 'encore' it.

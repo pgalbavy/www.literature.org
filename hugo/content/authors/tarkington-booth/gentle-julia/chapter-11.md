@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-11.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-11.html"
 ---
 
 The stairway was crowded as he descended; and as he looked down upon the heads and shoulders of the throng below, in Julia's hall, the thought came to him that since he had the first and last dances and supper engaged with Julia, the hostess, this was almost the next thing to being the host. It was a pleasing thought, and a slight graciousness now flavoured his salutations.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31 - Moira"
 weight: 31
-aliases:
-  - "/authors/collins-wilkie/i-say-no/chapter-31.html"
+url: "/authors/collins-wilkie/i-say-no/chapter-31.html"
 ---
 
 When Alban presented himself the next morning, the hours of the night had exercised their tranquilizing influence over Emily. She remembered sorrowfully how Doctor Allday had disturbed her belief in the man who loved her; no feeling of irritation remained. Alban noticed that her manner was unusually subdued; she received him with her customary grace, but not with her customary smile.

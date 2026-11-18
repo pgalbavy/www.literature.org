@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/austen-jane/persuasion/chapter-06.html"
+url: "/authors/austen-jane/persuasion/chapter-06.html"
 ---
 
 Anne had not wanted this visit to Uppercross, to learn that a removal from one set of people to another, though at a distance of only three miles, will often include a total change of conversation, opinion, and idea. She had never been staying there before, without being struck by it, or without wishing that other Elliots could have her advantage in seeing how unknown, or unconsidered there, were the affairs which at Kellynch Hall were treated as of such general publicity and pervading interest; yet, with all this experience, she believed she must now submit to feel that another lesson, in the art of knowing our own nothingness beyond our own circle, was become necessary for her; for certainly, coming as she did, with a heart full of the subject which had been completely occupying both houses in Kellynch for many weeks, she had expected rather more curiosity and sympathy than she found in the separate but very similar remark of Mr and Mrs Musgrove: "So, Miss Anne, Sir Walter and your sister are gone; and what part of Bath do you think they will settle in?" and this, without much waiting for an answer; or in the young ladies' addition of, "I hope we shall be in Bath in the winter; but remember, papa, if we do go, we must be in a good situation: none of your Queen Squares for us!" or in the anxious supplement from Mary, of--"Upon my word, I shall be pretty well off, when you are all gone away to be happy at Bath!"

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 59"
 weight: 59
-aliases:
-  - "/authors/eliot-george/daniel-deronda/chapter-59.html"
+url: "/authors/eliot-george/daniel-deronda/chapter-59.html"
 ---
 
 "I count myself in nothing else so happy As in a soul remembering my good friends." - SHAKESPEARE.

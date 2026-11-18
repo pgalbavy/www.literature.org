@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - The Outset Of The Enterprise"
 weight: 10
-aliases:
-  - "/authors/verne-jules/an-antartic-mystery/chapter-10.html"
+url: "/authors/verne-jules/an-antartic-mystery/chapter-10.html"
 ---
 
 Here was I, then, launched into an adventure which seemed likely to surpass all my former experiences. Who would have believed such a thing of me. But I was under a spell which drew me towards the unknown, that unknown of the polar world whose secrets so many daring pioneers had in vain essayed to penetrate. And this time, who could tell but that the sphinx of the Antarctic regions would speak for the first time to human ears!

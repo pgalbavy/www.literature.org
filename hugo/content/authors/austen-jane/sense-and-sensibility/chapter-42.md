@@ -1,8 +1,7 @@
 ---
 title: "Chapter 42"
 weight: 42
-aliases:
-  - "/authors/austen-jane/sense-and-sensibility/chapter-42.html"
+url: "/authors/austen-jane/sense-and-sensibility/chapter-42.html"
 ---
 
 One other short call in Harley Street, in which Elinor received her brother's congratulations on their travelling so far towards Barton without any expense, and on Colonel Brandon's being to follow them to Cleveland in a day or two, completed the intercourse of the brother and sisters in town;--and a faint invitation from Fanny, to come to Norland whenever it should happen to be in their way, which of all things was the most unlikely to occur, with a more warm, though less public, assurance, from John to Elinor, of the promptitude with which he should come to see her at Delaford, was all that foretold any meeting in the country.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 96 - The Contract"
 weight: 96
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-96.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-96.html"
 ---
 
 Three days after the scene we have just described, namely towards five o'clock in the afternoon of the day fixed for the signature of the contract between Mademoiselle Eugenie Danglars and Andrea Cavalcanti, - whom the banker persisted in calling prince, - a fresh breeze was stirring the leaves in the little garden in front of the Count of Monte Cristo's house, and the count was preparing to go out. While his horses were impatiently pawing the ground, - held in by the coachman, who had been seated a quarter of an hour on his box, - the elegant phaeton with which we are familiar rapidly turned the angle of the entrance-gate, and cast out on the doorsteps M. Andrea Cavalcanti, as decked up and gay as if he were going to marry a princess. He inquired after the count with his usual familiarity, and ascending lightly to the second story met him at the top of the stairs. The count stopped on seeing the young man. As for Andrea, he was launched, and when he was once launched nothing stopped him. "Ah, good morning, my dear count," said he. "Ah, M. Andrea," said the latter, with his half-jesting tone; "how do you do."

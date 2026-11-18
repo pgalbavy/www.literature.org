@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Frisky's Prison"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-frisky-squirrel/chapter-19.html"
 ---
 
 Frisky Squirrel simply couldn't keep away from the field where the wheat was being threshed. He was on hand before the men came in the morning, and he was the last to leave the place at night. He ate all his meals right on the spot, and went home only to sleep.

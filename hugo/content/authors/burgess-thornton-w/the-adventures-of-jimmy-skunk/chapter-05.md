@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Reddy Fox Sneaks Away"
 weight: 5
-aliases:
-  - "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-05.html"
+url: "/authors/burgess-thornton-w/the-adventures-of-jimmy-skunk/chapter-05.html"
 ---
 
 To sneak away is to steal away trying to keep out of sight of everybody, and is usually done only by those who for some reason or other are ashamed to be seen. Just as soon as Reddy Fox could see after Jimmy Skunk had thrown that terrible perfume in Reddy's face he started for the Green Forest. He wanted to get away by himself. But he didn't trot with his head up and his big plumey tail carried proudly as is usual with him. No indeed. Instead he hung his head, and his handsome tail was dropped between his legs; he was the very picture of shame. You see that terrible perfume which Jimmy Skunk had thrown at him clung to his red coat and he knew that he couldn't get rid of it, not for a long time anyway. And he knew, too, that wherever he went his neighbors would hold their noses and make fun of him, and that no one would have anything to do with him. So he sneaked away across the Green Meadows towards the Green Forest and he felt too sick and mean and unhappy to even be angry with Sammy Jay, who was making fun of him and saying that he had got no more than he deserved.

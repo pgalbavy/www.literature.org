@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Lessons"
 weight: 10
-aliases:
-  - "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-09.html"
+url: "/authors/alcott-louisa-may/an-old-fashioned-girl/chapter-09.html"
 ---
 
 THE first few weeks were hard ones, for Polly had not yet outgrown her natural shyness and going among so many strangers caused her frequent panics. But her purpose gave her courage, and when the ice was once broken, her little pupils quickly learned to love her. The novelty soon wore off, and though she thought she was prepared for drudgery, she found it very tedious to go on doing the same thing day after day. Then she was lonely, for Will could only come once a week, her leisure hours were Fanny's busiest, and the “bits of pleasure” were so few and far between that they only tantalized her. Even her small housekeeping lost its charms, for Polly was a social creature, and the solitary meals were often sad ones. Ashputtel and Nick did their best to cheer her, but they too, seemed to pine for country freedom and home atmosphere. Poor Puttel, after gazing wistfully out of the window at the gaunt city cats skulking about the yard, would retire to the rug, and curl herself up as if all hope of finding congenial society had failed; while little Nick would sing till he vibrated on his perch, without receiving any response except an inquisitive chirp from the pert sparrows, who seemed to twit him with his captivity. Yes, by the time the little teakettle had lost its brightness, Polly had decided that getting one's living was no joke, and many of her brilliant hopes had shared the fate of the little kettle.

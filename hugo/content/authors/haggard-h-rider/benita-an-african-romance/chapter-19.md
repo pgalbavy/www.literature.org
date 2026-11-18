@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Awaking"
 weight: 20
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-19.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-19.html"
 ---
 
 Still Jacob Meyer hesitated. The great secret was unlearned, and, if this occasion passed, might never be learned. But if he hesitated, Mr. Clifford did not. The knowledge of his child’s danger, the sense that her life was mysteriously slipping away from her under pressure of the ghastly spell in which she lay enthralled, stirred him to madness. His strength and manhood came back to him. He sprang straight at Meyer’s throat, gripped it with one hand, and with the other drew the knife he wore.

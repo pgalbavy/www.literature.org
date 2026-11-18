@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/coolidge-dane/the-desert-trail/chapter-14.html"
+url: "/authors/coolidge-dane/the-desert-trail/chapter-14.html"
 ---
 
 It is a great sensation--striking it rich--one of the greatest in the world.

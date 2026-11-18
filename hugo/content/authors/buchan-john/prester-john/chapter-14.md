@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - I Carry The Collar Of Prester John"
 weight: 15
-aliases:
-  - "/authors/buchan-john/prester-john/chapter-14.html"
+url: "/authors/buchan-john/prester-john/chapter-14.html"
 ---
 
 I ran till my breath grew short, for some kind of swift motion I had to have or choke. The events of the last few minutes had inflamed my brain. For the first time in my life I had seen men die by violence—nay, by brutal murder. I had put my soul into the blow which laid out Henriques, and I was still hot with the pride of it. Also I had in my pocket the fetich of the whole black world; I had taken their Ark of the Covenant, and soon Laputa would be on my trail. Fear, pride, and a blind exultation all throbbed in my veins. I must have run three miles before I came to my sober senses.

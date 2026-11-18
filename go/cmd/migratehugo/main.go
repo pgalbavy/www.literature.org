@@ -49,12 +49,102 @@ var (
 
 func main() {
 	siteRoot := flag.String("site-root", ".", "path to the source site root")
+	canonicalizeURLs := flag.Bool("canonicalize-legacy-urls", false, "replace generated aliases with legacy canonical URLs")
 	flag.Parse()
 
-	if err := migrate(*siteRoot); err != nil {
+	var err error
+	if *canonicalizeURLs {
+		err = canonicalizeLegacyURLs(*siteRoot)
+	} else {
+		err = migrate(*siteRoot)
+	}
+	if err != nil {
 		fmt.Fprintln(os.Stderr, err)
 		os.Exit(1)
 	}
+}
+
+func canonicalizeLegacyURLs(siteRoot string) error {
+	siteRoot, err := filepath.Abs(siteRoot)
+	if err != nil {
+		return fmt.Errorf("resolve site root: %w", err)
+	}
+	contentRoot := filepath.Join(siteRoot, "hugo", "content", "authors")
+	converted := 0
+	err = filepath.WalkDir(contentRoot, func(path string, entry fs.DirEntry, walkErr error) error {
+		if walkErr != nil {
+			return walkErr
+		}
+		if entry.IsDir() || filepath.Ext(path) != ".md" {
+			return nil
+		}
+		data, err := os.ReadFile(path)
+		if err != nil {
+			return fmt.Errorf("read Hugo content %s: %w", path, err)
+		}
+		updated, changed, err := replaceAliasesWithURLs(string(data), filepath.Base(path) == "_index.md")
+		if err != nil {
+			return fmt.Errorf("canonicalize URLs in %s: %w", path, err)
+		}
+		if !changed {
+			return nil
+		}
+		if err := writeContent(path, updated); err != nil {
+			return err
+		}
+		converted++
+		return nil
+	})
+	if err != nil {
+		return fmt.Errorf("walk Hugo content: %w", err)
+	}
+	fmt.Printf("Canonicalized URLs in %d Markdown files\n", converted)
+	return nil
+}
+
+func replaceAliasesWithURLs(content string, isIndex bool) (string, bool, error) {
+	lines := strings.Split(content, "\n")
+	if len(lines) < 3 || lines[0] != "---" {
+		return "", false, fmt.Errorf("missing front matter")
+	}
+	frontMatterEnd := -1
+	for i := 1; i < len(lines); i++ {
+		if lines[i] == "---" {
+			frontMatterEnd = i
+			break
+		}
+	}
+	if frontMatterEnd == -1 {
+		return "", false, fmt.Errorf("unterminated front matter")
+	}
+
+	updated := make([]string, 0, len(lines))
+	changed := false
+	for i := 0; i < frontMatterEnd; i++ {
+		if lines[i] != "aliases:" {
+			updated = append(updated, lines[i])
+			continue
+		}
+		changed = true
+		firstAlias := i + 1
+		if firstAlias >= frontMatterEnd || !strings.HasPrefix(strings.TrimSpace(lines[firstAlias]), "- ") {
+			return "", false, fmt.Errorf("aliases must contain at least one URL")
+		}
+		alias := strings.TrimSpace(strings.TrimPrefix(strings.TrimSpace(lines[firstAlias]), "- "))
+		next := firstAlias + 1
+		for next < frontMatterEnd && strings.HasPrefix(strings.TrimSpace(lines[next]), "- ") {
+			next++
+		}
+		if !isIndex && next != firstAlias+1 {
+			return "", false, fmt.Errorf("content page has multiple aliases")
+		}
+		if !isIndex {
+			updated = append(updated, "url: "+alias)
+		}
+		i = next - 1
+	}
+	updated = append(updated, lines[frontMatterEnd:]...)
+	return strings.Join(updated, "\n"), changed, nil
 }
 
 func migrate(siteRoot string) error {
@@ -107,9 +197,8 @@ func migrate(siteRoot string) error {
 		if err := os.MkdirAll(authorContentDir, 0o755); err != nil {
 			return fmt.Errorf("create author content for %s: %w", authorDir.Name(), err)
 		}
-		authorIndex := fmt.Sprintf("---\ntitle: %s\naliases:\n  - %s\n---\n",
-			yamlString(replaceQuoteBackticks(authorTitle)),
-			yamlString("/authors/"+authorDir.Name()+"/index.html"))
+		authorIndex := fmt.Sprintf("---\ntitle: %s\n---\n",
+			yamlString(replaceQuoteBackticks(authorTitle)))
 		if err := writeContent(filepath.Join(authorContentDir, "_index.md"), authorIndex); err != nil {
 			return err
 		}
@@ -190,15 +279,10 @@ func migrateBook(authorName, authorTitle, authorPath, bookPath, bookContentDir s
 		if err := os.MkdirAll(bookContentDir, 0o755); err != nil {
 			return 0, 0, fmt.Errorf("create book content for %s: %w", bookPath, err)
 		}
-		bookAlias, err := filepath.Rel(authorPath, bookPath)
-		if err != nil {
-			return 0, 0, fmt.Errorf("build alias for %s: %w", bookPath, err)
-		}
-		bookIndex := fmt.Sprintf("---\ntitle: %s\nbook_author: %s\nsource: %s\naliases:\n  - %s\n---\n",
+		bookIndex := fmt.Sprintf("---\ntitle: %s\nbook_author: %s\nsource: %s\n---\n",
 			yamlString(replaceQuoteBackticks(bookTitle)),
 			yamlString(replaceQuoteBackticks(bookAuthor)),
-			yamlString(bookJSON.Source),
-			yamlString("/"+filepath.ToSlash(filepath.Join("authors", authorName, bookAlias, "index.html"))))
+			yamlString(bookJSON.Source))
 		if err := writeContent(filepath.Join(bookContentDir, "_index.md"), bookIndex); err != nil {
 			return 0, 0, err
 		}
@@ -246,14 +330,14 @@ func migrateBook(authorName, authorTitle, authorPath, bookPath, bookContentDir s
 			chapterTitle = metadata.title
 			weight = metadata.weight
 		}
-		bookAlias, err := filepath.Rel(authorPath, bookPath)
+		bookPathFromAuthor, err := filepath.Rel(authorPath, bookPath)
 		if err != nil {
-			return 0, 0, fmt.Errorf("build alias for %s: %w", sourcePath, err)
+			return 0, 0, fmt.Errorf("build legacy URL for %s: %w", sourcePath, err)
 		}
-		frontmatter := fmt.Sprintf("---\ntitle: %s\nweight: %d\naliases:\n  - %s\n---\n\n%s\n",
+		frontmatter := fmt.Sprintf("---\ntitle: %s\nweight: %d\nurl: %s\n---\n\n%s\n",
 			yamlString(replaceQuoteBackticks(chapterTitle)),
 			weight,
-			yamlString("/"+filepath.ToSlash(filepath.Join("authors", authorName, bookAlias, name))),
+			yamlString("/"+filepath.ToSlash(filepath.Join("authors", authorName, bookPathFromAuthor, name))),
 			markdown)
 		if err := writeContent(filepath.Join(bookContentDir, chapterName+".md"), frontmatter); err != nil {
 			return 0, 0, err

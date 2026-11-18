@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 9"
 weight: 37
-aliases:
-  - "/authors/swift-jonathan/gullivers-travels/part-04-chapter-09.html"
+url: "/authors/swift-jonathan/gullivers-travels/part-04-chapter-09.html"
 ---
 
 A grand debate at the general assembly of the *Houyhnhnms*, and how it was determined. The learning of the *Houyhnhnms*. Their buildings. Their manner of burials. The defectiveness of their language.

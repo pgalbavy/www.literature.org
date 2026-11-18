@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Bound To Be Different"
 weight: 20
-aliases:
-  - "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-20.html"
+url: "/authors/scott-arthur/the-tale-of-chirpy-cricket/chapter-20.html"
 ---
 
 Nothing ever surprised Chirpy Cricket more than what Kiddie Katydid told him. He had thought it was thunder that he had just heard. But it was Mr. Nighthawk, making that odd, booming sound of his. It was ever so much louder than Chirpy had supposed it could be. He had never heard it so near before.

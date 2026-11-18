@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Indian Fight"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/through-apache-lands/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/through-apache-lands/chapter-18.html"
 ---
 
 In spite of his great anxiety to learn all there was to be known about the camp fire, Ned remained where he was for half an hour, until he had rested somewhat from his severe labor.

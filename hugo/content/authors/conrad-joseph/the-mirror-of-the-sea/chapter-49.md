@@ -1,8 +1,7 @@
 ---
 title: "Chapter 49"
 weight: 49
-aliases:
-  - "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-49.html"
+url: "/authors/conrad-joseph/the-mirror-of-the-sea/chapter-49.html"
 ---
 
 This the navy of the Twenty Years’ War knew well how to do, and never better than when Lord Nelson had breathed into its soul his own passion of honour and fame. It was a fortunate navy. Its victories were no mere smashing of helpless ships and massacres of cowed men. It was spared that cruel favour, for which no brave heart had ever prayed. It was fortunate in its adversaries. I say adversaries, for on recalling such proud memories we should avoid the word "enemies," whose hostile sound perpetuates the antagonisms and strife of nations, so irremediable perhaps, so fateful—and also so vain. War is one of the gifts of life; but, alas! no war appears so very necessary when time has laid its soothing hand upon the passionate misunderstandings and the passionate desires of great peoples. "Le temps," as a distinguished Frenchman has said, "est un galant homme." He fosters the spirit of concord and justice, in whose work there is as much glory to be reaped as in the deeds of arms.

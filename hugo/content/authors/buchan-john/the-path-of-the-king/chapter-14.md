@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14 - The End Of The Road"
 weight: 15
-aliases:
-  - "/authors/buchan-john/the-path-of-the-king/chapter-14.html"
+url: "/authors/buchan-john/the-path-of-the-king/chapter-14.html"
 ---
 
 When Edward M. Stanton was associated at Cincinnati in 1857 with Abraham Lincoln in the great McCormick Reaper patent suit, it was commonly assumed that this was the first time the two men had met. Such was Lincoln's view, for his memory was apt to have blind patches in it. But in fact there had been a meeting fifteen years before, the recollection of which in Stanton's mind had been so overlaid by the accumulations of a busy life that it did not awake till after the President's death.

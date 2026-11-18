@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - A Close Call"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-18.html"
 ---
 
 Few situations are more trying than that of being followed at night by what we suspect is an enemy. The furtive glances to the rear show the foe too indistinctly for us to recognize him, and the imagination pictures the swift, stealthy attack and the treacherous blow against which it is impossible to guard.

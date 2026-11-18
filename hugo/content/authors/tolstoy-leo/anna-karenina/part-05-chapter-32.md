@@ -1,8 +1,7 @@
 ---
 title: "Part 5 - Chapter 32"
 weight: 156
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-05-chapter-32.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-05-chapter-32.html"
 ---
 
 When Vronsky returned home, Anna was not yet home. Soon after he had left, some lady, so they told him, had come to see her, and she had gone out with her. That she had gone out without leaving word where she was going, that she had not yet come back, and that all the morning she had been going about somewhere without a word to him--all this, together with the strange look of excitement in her face in the morning, and the recollection of the hostile tone with which she had before Yashvin almost snatched her son's photographs out of his hands, made him serious. He decided he absolutely must speak openly with her.

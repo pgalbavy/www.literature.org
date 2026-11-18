@@ -1,8 +1,7 @@
 ---
 title: "Chapter 15 - The Prisoner"
 weight: 15
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-15.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-buster-bumblebee/chapter-15.html"
 ---
 
 Buster Bumblebee did not stay long in the dooryard of the missing Carpenter. Saying a mournful good-by to the sad company, he flew away toward Farmer Green's house. It was there that the Carpenter was a prisoner. And Buster could only hope that he might find some way of setting the woodworker free.

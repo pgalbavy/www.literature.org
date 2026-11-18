@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Strange Tracks"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-daddy-longlegs/chapter-01.html"
 ---
 
 THERE was great excitement in the neighborhood of Farmer Green's house. Rusty Wren had found some strange tracks. And nobody knew whose they were.

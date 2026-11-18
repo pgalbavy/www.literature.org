@@ -1,8 +1,7 @@
 ---
 title: "Part 4 - Chapter 12"
 weight: 113
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-04-chapter-12.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-04-chapter-12.html"
 ---
 
 Connected with the conversation that had sprung up on the rights of women there were certain questions as to the inequality of rights in marriage improper to discuss before the ladies. Pestsov had several times during dinner touched upon these questions, but Sergey Ivanovitch and Stepan Arkadyevitch carefully drew him off them.

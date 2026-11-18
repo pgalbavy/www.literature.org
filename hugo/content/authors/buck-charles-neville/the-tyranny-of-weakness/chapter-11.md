@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-11.html"
+url: "/authors/buck-charles-neville/the-tyranny-of-weakness/chapter-11.html"
 ---
 
 Thinking through days when a cold and tortured moisture would burst out on her temples and through nights when she lay wide-eyed and sleepless, only one answer seemed to come to Conscience. All Stuart's love must have curled in that swift transition into indifference and contempt.

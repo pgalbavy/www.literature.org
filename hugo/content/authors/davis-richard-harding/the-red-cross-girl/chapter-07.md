@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Naked Man"
 weight: 8
-aliases:
-  - "/authors/davis-richard-harding/the-red-cross-girl/chapter-07.html"
+url: "/authors/davis-richard-harding/the-red-cross-girl/chapter-07.html"
 ---
 
 In their home town of Keepsburg, the Keeps were the reigning dynasty, socially and in every way. Old man Keep was president of the trolley line, the telephone company, and the Keep National Bank. But Fred, his son, and the heir apparent, did not inherit the business ability of his father; or, if he did, he took pains to conceal that fact. Fred had gone through Harvard, but as to that also, unless he told people, they would not have known it. Ten minutes after Fred met a man he generally told him.

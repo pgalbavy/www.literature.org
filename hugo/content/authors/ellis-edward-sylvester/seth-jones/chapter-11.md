@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - Still In Pursuit"
 weight: 11
-aliases:
-  - "/authors/ellis-edward-sylvester/seth-jones/chapter-11.html"
+url: "/authors/ellis-edward-sylvester/seth-jones/chapter-11.html"
 ---
 
 "It seems the devil himself is helping them imps!" remarked Haldidge as they landed.

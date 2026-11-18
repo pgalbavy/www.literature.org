@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - A New Departure"
 weight: 2
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-01.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-01.html"
 ---
 
 "I've thought of something amusing for the winter," I said as we drew into a half-circle around the glorious wood-fire in Uncle Alec's kitchen.

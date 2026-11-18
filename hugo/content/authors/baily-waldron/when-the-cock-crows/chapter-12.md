@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - Toward The Unknown"
 weight: 12
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-12.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-12.html"
 ---
 
 When Captain Ichabod left the Island in haste to get medical help for the unconscious Ethel Marion, Doctor Gifford Garnet stood before the shack and watched the red skiff as it rose and fell on the billows until it was well on its way to Beaufort. Then, with a smile of satisfaction, he turned and entered the abode where the girl was lying with no sign of life save the gentle rhythm of the bosom as it rose and fell with her breathing. Now, once again, he knelt by the bedside. For a little, he stroked the forehead with deft fingers, then touched her wrist and counted the pulse. It was evident that he found the condition of his patient satisfactory, for a pleased expression came in place of the anxiety that had hitherto marked his features.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-07.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-07.html"
 ---
 
 Now the dark pages turning in the book of fate were flying faster than young eyes could mark. First to the Hall came Thayendanegea, brother to Mistress Molly, and embraced us all, eagerly admiring my uniform with an Indian's frank naïveté, caressing Silver Heels's curly pate and praising her beauty, and fondling Esk and Peter with Albany sweets till I forbade them to approach, for their stickiness did disgust me.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Jolly's Mistake"
 weight: 9
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-09.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-jolly-robin/chapter-09.html"
 ---
 
 With Jolly Robin following close behind him, Jasper Jay flew directly to the crossroads, almost half-way to the village. Once there, he perched himself upon the sign-post at the four corners. And Jolly Robin seated himself upon one of the boards that were nailed to the post.

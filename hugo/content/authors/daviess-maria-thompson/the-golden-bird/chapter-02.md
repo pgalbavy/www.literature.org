@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 3
-aliases:
-  - "/authors/daviess-maria-thompson/the-golden-bird/chapter-02.html"
+url: "/authors/daviess-maria-thompson/the-golden-bird/chapter-02.html"
 ---
 
 As we ambled towards the sun, which was setting over old Harpeth, the tallest humpbacked hill on Paradise Ridge, the Greek battle raged on the front seat and there was peace with anxiety in the back of the ancestral coach.

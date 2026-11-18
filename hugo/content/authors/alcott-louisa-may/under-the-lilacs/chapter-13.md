@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Somebody Runs Away"
 weight: 13
-aliases:
-  - "/authors/alcott-louisa-may/under-the-lilacs/chapter-13.html"
+url: "/authors/alcott-louisa-may/under-the-lilacs/chapter-13.html"
 ---
 
 "'School is done, Now we'll have fun,"

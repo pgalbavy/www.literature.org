@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13"
 weight: 13
-aliases:
-  - "/authors/tarkington-booth/the-midlander/chapter-13.html"
+url: "/authors/tarkington-booth/the-midlander/chapter-13.html"
 ---
 
 HE *HAD* no wish to supplant his brother in Mrs. Savage’s will or in anything;—last of all did he wish to supplant him in the heart of Martha Shelby. Mrs. Savage had been far from understanding her grandson’s deep pride, and, as he strode homeward in the slashing rain, her acrid warnings that he must not hope for anything from Martha repeated themselves over and over in his mind, as such things will, and upon each repetition stung the more.

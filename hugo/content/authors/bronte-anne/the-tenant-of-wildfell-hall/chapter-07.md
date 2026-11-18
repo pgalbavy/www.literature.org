@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7"
 weight: 8
-aliases:
-  - "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-07.html"
+url: "/authors/bronte-anne/the-tenant-of-wildfell-hall/chapter-07.html"
 ---
 
 Not many days after this, on a mild sunny morning - rather soft under foot; for the last fall of snow was only just wasted away, leaving yet a thin ridge, here and there, lingering on the fresh green grass beneath the hedges; but beside them already, the young primroses were peeping from among their moist, dark foliage, and the lark above was singing of summer, and hope, and love, and every heavenly thing - I was out on the hill-side, enjoying these delights, and looking after the well-being of my young lambs and their mothers, when, on glancing round me, I beheld three persons ascending from the vale below. They were Eliza Millward, Fergus, and Rose; so I crossed the field to meet them; and, being told they were going to Wildfell Hall, I declared myself willing to go with them, and offering my arm to Eliza, who readily accepted it in lieu of my brother's, told the latter he might go back, for I would accompany the ladies.

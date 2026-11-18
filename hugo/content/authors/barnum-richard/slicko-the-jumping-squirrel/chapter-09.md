@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Slicko Does Some Tricks"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-09.html"
+url: "/authors/barnum-richard/slicko-the-jumping-squirrel/chapter-09.html"
 ---
 
 Slicko was put back into the wooden box, and Bob fastened the wire over the top again.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Hassan"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-05.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-05.html"
 ---
 
 I suppose it must have been two hours after dawn on the following morning that I was awakened by knocks upon the door and the voice of Jack saying that Sam, the cook, wanted to speak to me.

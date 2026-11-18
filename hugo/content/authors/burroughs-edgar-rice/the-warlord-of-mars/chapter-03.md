@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Temple of the Sun"
 weight: 3
-aliases:
-  - "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-03.html"
+url: "/authors/burroughs-edgar-rice/the-warlord-of-mars/chapter-03.html"
 ---
 
 There was nothing for it now other than to fight; nor did I have any advantage as I sprang, sword in hand, into the corridor before the two therns, for my untimely sneeze had warned them of my presence and they were ready for me.

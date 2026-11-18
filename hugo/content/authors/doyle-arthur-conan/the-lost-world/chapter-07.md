@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - To-Morrow We Disappear Into The Unknown"
 weight: 7
-aliases:
-  - "/authors/doyle-arthur-conan/the-lost-world/chapter-07.html"
+url: "/authors/doyle-arthur-conan/the-lost-world/chapter-07.html"
 ---
 
 I will not bore those whom this narrative may reach by an account of our luxurious voyage upon the Booth liner, nor will I tell of our week's stay at Para (save that I should wish to acknowledge the great kindness of the Pereira da Pinta Company in helping us to get together our equipment). I will also allude very briefly to our river journey, up a wide, slow-moving, clay-tinted stream, in a steamer which was little smaller than that which had carried us across the Atlantic. Eventually we found ourselves through the narrows of Obidos and reached the town of Manaos. Here we were rescued from the limited attractions of the local inn by Mr. Shortman, the representative of the British and Brazilian Trading Company. In his hospital Fazenda we spent our time until the day when we were empowered to open the letter of instructions given to us by Professor Challenger. Before I reach the surprising events of that date I would desire to give a clearer sketch of my comrades in this enterprise, and of the associates whom we had already gathered together in South America. I speak freely, and I leave the use of my material to your own discretion, Mr. McArdle, since it is through your hands that this report must pass before it reaches the world.

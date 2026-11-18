@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9"
 weight: 9
-aliases:
-  - "/authors/wells-herbert-george/the-time-machine/chapter-09.html"
+url: "/authors/wells-herbert-george/the-time-machine/chapter-09.html"
 ---
 
 'We emerged from the palace while the sun was still in part above the horizon. I was determined to reach the White Sphinx early the next morning, and ere the dusk I purposed pushing through the woods that had stopped me on the previous journey. My plan was to go as far as possible that night, and then, building a fire, to sleep in the protection of its glare. Accordingly, as we went along I gathered any sticks or dried grass I saw, and presently had my arms full of such litter. Thus loaded, our progress was slower than I had anticipated, and besides Weena was tired. And I began to suffer from sleepiness too; so that it was full night before we reached the wood. Upon the shrubby hill of its edge Weena would have stopped, fearing the darkness before us; but a singular sense of impending calamity, that should indeed have served me as a warning, drove me onward. I had been without sleep for a night and two days, and I was feverish and irritable. I felt sleep coming upon me, and the Morlocks with it.

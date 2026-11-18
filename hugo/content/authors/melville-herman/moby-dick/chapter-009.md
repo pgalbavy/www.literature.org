@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - The Sermon"
 weight: 9
-aliases:
-  - "/authors/melville-herman/moby-dick/chapter-009.html"
+url: "/authors/melville-herman/moby-dick/chapter-009.html"
 ---
 
 Father Mapple rose, and in a mild voice of unassuming authority ordered the scattered people to condense. "Star board gangway, there! side away to larboard--larboard gangway to starboard! Midships! midships!"

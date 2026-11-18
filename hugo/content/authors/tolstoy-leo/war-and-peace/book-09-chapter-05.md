@@ -1,8 +1,7 @@
 ---
 title: "Book 9 - Chapter 5"
 weight: 172
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-09-chapter-05.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-09-chapter-05.html"
 ---
 
 Davout was to Napoleon what Arakcheev was to Alexander- though not a coward like Arakcheev, he was as precise, as cruel, and as unable to express his devotion to his monarch except by cruelty.

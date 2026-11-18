@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Aziel Plights His Troth"
 weight: 9
-aliases:
-  - "/authors/haggard-h-rider/elissa/chapter-08.html"
+url: "/authors/haggard-h-rider/elissa/chapter-08.html"
 ---
 
 At first Aziel feared that the poison had done its work, and that Elissa was dead, till placing his hand upon her heart he felt it beating faintly, and knew that she did but swoon. To leave her to seek water or assistance was impossible, since he dared not loose his hold of the bandage about her wrist. So, patiently as he might, he knelt at her side awaiting the return of Metem.

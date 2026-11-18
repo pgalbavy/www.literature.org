@@ -1,8 +1,7 @@
 ---
 title: "Chapter 48"
 weight: 48
-aliases:
-  - "/authors/buck-charles-neville/the-tempering/chapter-48.html"
+url: "/authors/buck-charles-neville/the-tempering/chapter-48.html"
 ---
 
 Paris by night was a dancer who has taken the veil. Paris by day, when the siren screamed its air-raid warning, was a bold spirit not cowed but sobered with a realization of death. Yet today Paris was vibrantly alive along her boulevards where, despite the shadow, bright currents flowed and sparkled.

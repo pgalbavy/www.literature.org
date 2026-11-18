@@ -1,8 +1,7 @@
 ---
 title: "Chapter 25"
 weight: 25
-aliases:
-  - "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-25.html"
+url: "/authors/oppenheim-e-phillips/the-vanished-messenger/chapter-25.html"
 ---
 
 Hamel met Kinsley shortly before one o'clock the following afternoon, in the lounge of the Royal Hotel at Norwich.

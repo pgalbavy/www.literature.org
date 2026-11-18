@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 12 - What I Saw of the Destruction of Weybridge and Shepperton"
 weight: 12
-aliases:
-  - "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-12.html"
+url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-12.html"
 ---
 
 As the dawn grew brighter we withdrew from the win- dow from which we had watched the Martians, and went very quietly downstairs.

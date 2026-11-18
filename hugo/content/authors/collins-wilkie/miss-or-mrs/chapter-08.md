@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - The Library"
 weight: 8
-aliases:
-  - "/authors/collins-wilkie/miss-or-mrs/chapter-08.html"
+url: "/authors/collins-wilkie/miss-or-mrs/chapter-08.html"
 ---
 
 The next day Sir Joseph Graybrooke, Sir Joseph's lawyer, Mr. Dicas (highly respectable and immensely rich), and Richard Turlington were assembled in the library at Muswell Hill, to discuss the question of Natalie's marriage settlement.

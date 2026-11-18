@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2 - A Landing"
 weight: 2
-aliases:
-  - "/authors/chambers-robert-w/the-firing-line/chapter-02.html"
+url: "/authors/chambers-robert-w/the-firing-line/chapter-02.html"
 ---
 
 The *Ariani* was to sail that evening, her destination being Miami and the West Coast where Portlaw desired to do some tarpon fishing and Wayward had railroad interests. Malcourt, always in a receptive attitude, was quite ready to go anywhere when invited. Otherwise he preferred a remunerative attention to business.

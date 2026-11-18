@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - After The Storm"
 weight: 11
-aliases:
-  - "/authors/burgess-thornton-w/old-granny-fox/chapter-11.html"
+url: "/authors/burgess-thornton-w/old-granny-fox/chapter-11.html"
 ---
 
 The joys and the sunshine that make us glad;  

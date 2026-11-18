@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Pansies For Thought"
 weight: 3
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-03.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-03.html"
 ---
 
 Lisbeth gave him a sweeping little curtsy, and looked at him sweetly, with her immense, dense eyes.

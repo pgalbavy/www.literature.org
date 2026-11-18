@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Tum Tum And Don"
 weight: 5
-aliases:
-  - "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-05.html"
+url: "/authors/barnum-richard/tum-tum-the-jolly-elephant/chapter-05.html"
 ---
 
 "Well, this is certainly a funny place," thought Tum Tum, the jolly elephant, as he looked about him. And well might he say so.

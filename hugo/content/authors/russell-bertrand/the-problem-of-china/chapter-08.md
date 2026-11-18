@@ -1,8 +1,7 @@
 ---
 title: "Chapter 8 - Japan And China During The War"
 weight: 9
-aliases:
-  - "/authors/russell-bertrand/the-problem-of-china/chapter-08.html"
+url: "/authors/russell-bertrand/the-problem-of-china/chapter-08.html"
 ---
 
 The most urgent problem in China's relations with foreign powers is Japanese aggression. Originally Japan was less powerful than China, but after 1868 the Japanese rapidly learnt from us whatever we had to teach in the way of skilful homicide, and in 1894 they resolved to test their new armaments upon China, just as Bismarck tested his on Denmark. The Chinese Government preserved its traditional haughtiness, and appears to have been quite unaware of the defeat in store for it. The question at issue was Korea, over which both Powers claimed suzerainty. At that time there would have been no reason for an impartial neutral to take one side rather than the other. The Japanese were quickly and completely victorious, but were obliged to fight Russia before obtaining secure possession of Korea. The war with Russia (1904-5) was fought chiefly in Manchuria, which the Russians had gained as a reward for befriending China. Port Arthur and Southern Manchuria up to Mukden were acquired by the Japanese as a result of the Russo-Japanese war; the rest of Manchuria came under Japanese control as a result of Russia's collapse after the Great War.

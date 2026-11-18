@@ -1,8 +1,7 @@
 ---
 title: "Chapter 7 - The Primrose Path"
 weight: 7
-aliases:
-  - "/authors/lawrence-david-herbert/england-my-england/chapter-07.html"
+url: "/authors/lawrence-david-herbert/england-my-england/chapter-07.html"
 ---
 
 A young man came out of the Victoria station, looking undecidedly at the taxi-cabs, dark-red and black, pressing against the kerb under the glass-roof. Several men in greatcoats and brass buttons jerked themselves erect to catch his attention, at the same time keeping an eye on the other people as they filtered through the open doorways of the station. Berry, however, was occupied by one of the men, a big, burly fellow whose blue eyes glared back and whose red-brown moustache bristled in defiance.

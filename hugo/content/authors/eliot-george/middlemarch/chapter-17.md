@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-17.html"
+url: "/authors/eliot-george/middlemarch/chapter-17.html"
 ---
 
 "The clerkly person smiled and said Promise was a pretty maid, But being poor she died unwed."

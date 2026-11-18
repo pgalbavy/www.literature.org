@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19"
 weight: 19
-aliases:
-  - "/authors/chambers-robert-w/the-business-of-life/chapter-19.html"
+url: "/authors/chambers-robert-w/the-business-of-life/chapter-19.html"
 ---
 
 Jacqueline had been half an hour late at her office and the routine business was not yet quite finished when Captain Herrendene was announced at the telephone.

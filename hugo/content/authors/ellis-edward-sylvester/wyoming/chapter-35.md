@@ -1,8 +1,7 @@
 ---
 title: "Chapter 35"
 weight: 35
-aliases:
-  - "/authors/ellis-edward-sylvester/wyoming/chapter-35.html"
+url: "/authors/ellis-edward-sylvester/wyoming/chapter-35.html"
 ---
 
 Jake Golcher and Habakkuk McEwen were evidently old acquaintances, and the Tory seemed to be trying to identify him through the paint that was daubed over his countenance in such a loose fashion.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - An Unexpected Signal"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-13.html"
 ---
 
 *THE* mystery to the lads was deeper than ever. Matters were inexplainable before, and now they were still more involved.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 30"
 weight: 31
-aliases:
-  - "/authors/london-jack/michael-brother-of-jerry/chapter-30.html"
+url: "/authors/london-jack/michael-brother-of-jerry/chapter-30.html"
 ---
 
 No rough-and-ready surgery of the Del Mar sort obtained at Cedarwild, else Michael would not have lived. A real surgeon, skilful and audacious, came very close to vivisecting him as he radically repaired the ruin of a shoulder, doing things he would not have dared with a human but which proved to be correct for Michael.

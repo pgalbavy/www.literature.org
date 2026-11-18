@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11 - The Nest Of The Missel Thrush"
 weight: 11
-aliases:
-  - "/authors/hodgson-burnett-frances/the-secret-garden/chapter-11.html"
+url: "/authors/hodgson-burnett-frances/the-secret-garden/chapter-11.html"
 ---
 
 For two or three minutes he stood looking round him, while Mary watched him, and then he began to walk about softly, even more lightly than Mary had walked the first time she had found herself inside the four walls. His eyes seemed to be taking in everything—the gray trees with the gray creepers climbing over them and hanging from their branches, the tangle on the walls and among the grass, the evergreen alcoves with the stone seats and tall flower urns standing in them.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - A Terrible Mix-Up"
 weight: 17
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-17.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-snowball-lamb/chapter-17.html"
 ---
 
 There was a terrible mix-up. Some sheep were trying to cross the stone wall in one direction. Some were trying to cross it in the other. And in the midst of the fleecy tangle Snowball struggled in vain. He found himself face to face with Aunt Nancy Ewe, who was so huge that he couldn't budge her. He pushed and shoved until she cried out, "Where are your manners, young man?"

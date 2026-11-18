@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Circus And The Missionary"
 weight: 17
-aliases:
-  - "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-17.html"
+url: "/authors/brown-ruth-alberta/at-the-little-brown-house/chapter-17.html"
 ---
 
 "Oh, look, Allee! See the elephants and lions and giraffes and zebras on that poster. It's the cirkis as sure as I'm alive! Do you know I've always wanted to see the cirkis, and this is the first time I ever knew one to stop at Parker."

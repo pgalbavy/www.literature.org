@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3"
 weight: 3
-aliases:
-  - "/authors/tarkington-booth/the-beautiful-lady/chapter-03.html"
+url: "/authors/tarkington-booth/the-beautiful-lady/chapter-03.html"
 ---
 
 Early the whole of the next day, endeavoring to look preoccupied, I haunted the lobbies and vicinity of the most expensive hotels, unable to do any other thing, but ashamed of myself that I had not returned to my former task of seeking employment, although still reassured by possession of two louis and some silver, I dined well at a one-franc coachman's restaurant, where my elegance created not the slightest surprise, and I felt that I might live in this way indefinitely.

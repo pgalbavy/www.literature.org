@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10 - Don’s New Friend"
 weight: 10
-aliases:
-  - "/authors/barnum-richard/don-a-runaway-dog/chapter-10.html"
+url: "/authors/barnum-richard/don-a-runaway-dog/chapter-10.html"
 ---
 
 Poor Don did not know what to make of all this. But, somehow, he felt that he was in danger, and, with one more glance back over his shoulder, seeing the man with the net on the long pole still running after him, Don ran also――and faster than ever.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - Good-By"
 weight: 17
-aliases:
-  - "/authors/hodgson-burnett-frances/miss-crespigny/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/miss-crespigny/chapter-17.html"
 ---
 
 Surely, so serious a question was never so dismissed in so short a time. For these few busy moments, the matter was as completely disposed of, as if they had spent hours in arguing it. He scarcely knew how it was that he felt so sure that he need say no more; that the brave, simple, pretty Georgie had set his poor, weak plans aside so easily, and yet so tenderly. Much as he admired and reverenced her, there was a depth in her girlish nature which he had never sounded. It was all over for him with Georgie Esmond, though he need not fear that her friendship would ever waver.

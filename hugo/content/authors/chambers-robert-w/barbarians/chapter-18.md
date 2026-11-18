@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Aviator"
 weight: 18
-aliases:
-  - "/authors/chambers-robert-w/barbarians/chapter-18.html"
+url: "/authors/chambers-robert-w/barbarians/chapter-18.html"
 ---
 
 Where the Fontanes highroad crosses the byroad to Sainte Lesse they were halted by a dusty column moving rapidly west—four hundred American mules convoyed by gendarmerie and remount troopers.

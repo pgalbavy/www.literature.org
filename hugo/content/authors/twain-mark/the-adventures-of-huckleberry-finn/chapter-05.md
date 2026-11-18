@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-05.html"
+url: "/authors/twain-mark/the-adventures-of-huckleberry-finn/chapter-05.html"
 ---
 
 I HAD shut the door to. Then I turned around. and there he was. I used to be scared of him all the time, he tanned me so much. I reckoned I was scared now, too; but in a minute I see I was mistaken -- that is, after the first jolt, as you may say, when my breath sort of hitched, he being so unexpected; but right away after I see I warn't scared of him worth bothring about.

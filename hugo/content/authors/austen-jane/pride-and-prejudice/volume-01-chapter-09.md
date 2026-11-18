@@ -1,8 +1,7 @@
 ---
 title: "Volume 1 - Chapter 9"
 weight: 9
-aliases:
-  - "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-09.html"
+url: "/authors/austen-jane/pride-and-prejudice/volume-01-chapter-09.html"
 ---
 
 Elizabeth passed the chief of the night in her sister's room, and in the morning had the pleasure of being able to send a tolerable answer to the enquiries which she very early received from Mr. Bingley by a housemaid, and some time afterwards from the two elegant ladies who waited on his sisters. In spite of this amendment, however, she requested to have a note sent to Longbourn, desiring her mother to visit Jane, and form her own judgment of her situation. The note was immediately dispatched, and its contents as quickly complied with. Mrs. Bennet, accompanied by her two youngest girls, reached Netherfield soon after the family breakfast.

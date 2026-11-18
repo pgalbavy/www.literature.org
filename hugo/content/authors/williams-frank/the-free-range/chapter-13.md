@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - The Heathen Chinee"
 weight: 13
-aliases:
-  - "/authors/williams-frank/the-free-range/chapter-13.html"
+url: "/authors/williams-frank/the-free-range/chapter-13.html"
 ---
 
 Hard-winter Sims, lying at full length on the grass, indulging in another of his frequent siestas, was rudely awakened by one of his herders.

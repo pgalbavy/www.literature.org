@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Hidden Wings"
 weight: 3
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-03.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-mrs-ladybug/chapter-03.html"
 ---
 
 THE next day Buster Bumblebee set out for the orchard to find Mrs. Ladybug. He wanted to warn her to stop talking about Betsy Butterfly. But Buster hadn't realized that it was not an easy matter to say anything to Mrs. Ladybug. Mrs. Ladybug always liked to do most of the talking herself. She preferred to let others listen.

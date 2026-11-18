@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-aliases:
-  - "/authors/huxley-aldous/antic-hay/chapter-17.html"
+url: "/authors/huxley-aldous/antic-hay/chapter-17.html"
 ---
 
 The two o’clock snorted out of Charing Cross, but no healths were drunk, this time, to Viscount Lascelles. A desiccating sobriety made arid the corner of the third-class carriage in which Gumbril was sitting. His thoughts were an interminable desert of sand, with not a palm in sight, not so much as a comforting mirage. Once again he fumbled in his breast-pocket, brought out and unfolded the flimsy paper. Once more he read. How many times had he read before?

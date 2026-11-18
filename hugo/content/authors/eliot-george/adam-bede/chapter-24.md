@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The Health-Drinking"
 weight: 24
-aliases:
-  - "/authors/eliot-george/adam-bede/chapter-24.html"
+url: "/authors/eliot-george/adam-bede/chapter-24.html"
 ---
 
 WHEN the dinner was over, and the first draughts from the great cask of birthday ale were brought up, room was made for the broad Mr. Poyser at the side of the table, and two chairs were placed at the head. It had been settled very definitely what Mr. Poyser was to do when the young squire should appear, and for the last five minutes he had been in a state of abstraction, with his eyes fixed on the dark picture opposite, and his hands busy with the loose cash and other articles in his breeches pockets.

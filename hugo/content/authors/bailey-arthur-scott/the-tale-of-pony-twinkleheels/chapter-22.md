@@ -1,8 +1,7 @@
 ---
 title: "Chapter 22 - The Circus Rider"
 weight: 22
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-22.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-pony-twinkleheels/chapter-22.html"
 ---
 
 The next afternoon, when Johnnie went to the pasture with old dog Spot to drive the cows home, he climbed a tree--not that climbing a tree helped in any way to get the cows into the lane!

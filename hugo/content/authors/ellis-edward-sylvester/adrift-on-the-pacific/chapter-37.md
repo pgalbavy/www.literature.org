@@ -1,8 +1,7 @@
 ---
 title: "Chapter 37 - Conclusion"
 weight: 37
-aliases:
-  - "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-37.html"
+url: "/authors/ellis-edward-sylvester/adrift-on-the-pacific/chapter-37.html"
 ---
 
 Many a long hour did the two —Fred and Inez—spend in talking together of the past and their future. They were as brother and sister to each other, and their prospects were discussed as if it were fixed that they should never lose sight of each other again.

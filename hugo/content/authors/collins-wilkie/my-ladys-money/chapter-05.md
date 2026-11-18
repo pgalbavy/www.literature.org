@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/collins-wilkie/my-ladys-money/chapter-05.html"
+url: "/authors/collins-wilkie/my-ladys-money/chapter-05.html"
 ---
 
 "WELL?" asked Isabel eagerly, "what does Mr. Hardyman say? Does he think he can cure Tommie?"

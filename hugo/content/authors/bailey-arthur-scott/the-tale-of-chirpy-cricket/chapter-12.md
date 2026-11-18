@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - An Underground Chat"
 weight: 12
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-12.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-chirpy-cricket/chapter-12.html"
 ---
 
 Chirpy Cricket was glad of one thing. Mr. Mole Cricket talked quite pleasantly, for all he looked so frightful. When he dug his way through the dirt in Farmer Green's garden and broke into the crack where Chirpy was hiding he had given Chirpy a terrible start.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 20 - Silently In The Night"
 weight: 20
-aliases:
-  - "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-20.html"
+url: "/authors/burroughs-edgar-rice/tarzan-the-terrible/chapter-20.html"
 ---
 
 In A-lur the fortunes of the city had been tossed from hand to hand. The party of Ko-tan's loyal warriors that Tarzan had led to the rendezvous at the entrance to the secret passage below the palace gates had met with disaster. Their first rush had been met with soft words from the priests. They had been exhorted to defend the faith of their fathers from blasphemers. Ja-don was painted to them as a defiler of temples, and the wrath of Jad-ben-Otho was prophesied for those who embraced his cause. The priests insisted that Lu-don's only wish was to prevent the seizure of the throne by Ja-don until a new king could be chosen according to the laws of the Ho-don.

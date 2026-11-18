@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 3"
 weight: 109
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-03.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-03.html"
 ---
 
 Next morning, having taken leave of no one but the count, and not waiting for the ladies to appear, Prince Andrew set off for home.

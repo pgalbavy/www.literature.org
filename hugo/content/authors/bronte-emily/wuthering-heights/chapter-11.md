@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-11.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-11.html"
 ---
 
 SOMETIMES, while meditating on these things in solitude, I've got up in a sudden terror, and put on my bonnet to go see how all was at the farm. I've persuaded my conscience that it was a duty to warn him how people talked regarding his ways; and then I've recollected his confirmed bad habits, and, hopeless of benefiting him, have flinched from re-entering the dismal house, doubting if I could bear to be taken at my word.

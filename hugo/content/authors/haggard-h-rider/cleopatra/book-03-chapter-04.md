@@ -1,8 +1,7 @@
 ---
 title: "Book 3 - Chapter 4"
 weight: 28
-aliases:
-  - "/authors/haggard-h-rider/cleopatra/book-03-chapter-04.html"
+url: "/authors/haggard-h-rider/cleopatra/book-03-chapter-04.html"
 ---
 
 OF THE MEETING OF CHARMION WITH THE LEARNED OLYMPUS; OF HER SPEECH WITH HIM; OF THE COMING OF OLYMPUS INTO THE PRESENCE OF CLEOPATRA; AND OF THE COMMANDS OF CLEOPATRA.

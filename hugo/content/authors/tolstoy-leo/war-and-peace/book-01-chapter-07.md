@@ -1,8 +1,7 @@
 ---
 title: "Book 1 - Chapter 7"
 weight: 7
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-01-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-01-chapter-07.html"
 ---
 
 The rustle of a woman's dress was heard in the next room. Prince Andrew shook himself as if waking up, and his face assumed the look it had had in Anna Pavlovna's drawing room. Pierre removed his feet from the sofa. The princess came in. She had changed her gown for a house dress as fresh and elegant as the other. Prince Andrew rose and politely placed a chair for her.

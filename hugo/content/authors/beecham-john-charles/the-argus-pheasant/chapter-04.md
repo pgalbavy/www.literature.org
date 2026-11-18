@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Koyala's Prayer"
 weight: 5
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-04.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-04.html"
 ---
 
 It was a blistering hot day in Bulungan. The heavens were molten incandescence. The muddy river that bisected the town wallowed through its estuary, a steaming tea-kettle. The black muck-fields baked and flaked under the torrid heat. The glassy surface of the bay, lying within the protecting crook of a curling tail of coral reef, quivered under the impact of the sun's rays like some sentient thing.

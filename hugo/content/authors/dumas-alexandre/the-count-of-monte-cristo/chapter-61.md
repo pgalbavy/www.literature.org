@@ -1,8 +1,7 @@
 ---
 title: "Chapter 61 - How A Gardener May Get Rid Of The Dormice That Eat His Peaches"
 weight: 61
-aliases:
-  - "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-61.html"
+url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-61.html"
 ---
 
 Not on the same night, as he had intended, but the next morning, the Count of Monte Cristo went out by the Barrier d'Enfer, taking the road to Orleans. Leaving the village of Linas, without stopping at the telegraph, which flourished its great bony arms as he passed, the count reached the tower of Montlhery, situated, as every one knows, upon the highest point of the plain of that name. At the foot of the hill the count dismounted and began to ascend by a little winding path, about eighteen inches wide; when he reached the summit he found himself stopped by a hedge, upon which green fruit had succeeded to red and white flowers.

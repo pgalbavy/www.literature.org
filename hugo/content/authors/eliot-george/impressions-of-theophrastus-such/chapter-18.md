@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Modern Hep! Hep! Hep!"
 weight: 18
-aliases:
-  - "/authors/eliot-george/impressions-of-theophrastus-such/chapter-18.html"
+url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-18.html"
 ---
 
 To discern likeness amidst diversity, it is well known, does not require so fine a mental edge as the discerning of diversity amidst general sameness. The primary rough classification depends on the prominent resemblances of things: the progress is towards finer and finer discrimination according to minute differences. Yet even at this stage of European culture one's attention is continually drawn to the prevalence of that grosser mental sloth which makes people dull to the most ordinary prompting of comparison - the bringing things together because of their likeness. The same motives, the same ideas, the same practices, are alternately admired and abhorred, lauded and denounced, according to their association with superficial differences, historical or actually social: even learned writers treating of great subjects often show an attitude of mind not greatly superior in its logic to that of the frivolous fine lady who is indignant at the frivolity of her maid.

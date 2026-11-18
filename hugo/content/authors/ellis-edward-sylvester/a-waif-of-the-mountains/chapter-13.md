@@ -1,8 +1,7 @@
 ---
 title: "Chapter 13 - Young Love's Dream"
 weight: 13
-aliases:
-  - "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-13.html"
+url: "/authors/ellis-edward-sylvester/a-waif-of-the-mountains/chapter-13.html"
 ---
 
 That which in the nature of things was inevitable came to pass. Lieutenant Russell, in the same moment that his eyes rested upon Nellie Dawson, was smitten, as hopelessly as ever ardent lover was smitten by the lady whom he worshiped. The many things which the father had told him about his daughter naturally excited interest in her, but the young officer never dreamed of looking upon such marvelous beauty as that which met his gaze in that secluded cañon of the Sierras. It required all his self-control from drawing attention to himself by his admiration of her.

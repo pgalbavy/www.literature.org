@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Tabitha Is Comforted"
 weight: 5
-aliases:
-  - "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-05.html"
+url: "/authors/brown-ruth-alberta/tabitha-at-ivy-hall/chapter-05.html"
 ---
 
 Tom had preceded her to the house and evidently had told Aunt Maria, for when the child burst into the kitchen trailing the green gingham which she had picked up on her way, the worthy woman said never a word of reproach, but with trembling fingers helped her out of the queer little rig and laid it away herself among its crumpled wrappings, while down her withered cheek stole two tears of pity for the unhappy Tabitha.

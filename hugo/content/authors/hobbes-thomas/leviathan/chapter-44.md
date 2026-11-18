@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - Of Spirituall Darknesse From Misinterpretation Of Scripture"
 weight: 46
-aliases:
-  - "/authors/hobbes-thomas/leviathan/chapter-44.html"
+url: "/authors/hobbes-thomas/leviathan/chapter-44.html"
 ---
 
 The Kingdome Of Darknesse What Besides these Soveraign Powers, Divine, and Humane, of which I have hitherto discoursed, there is mention in Scripture of another Power, namely, (Eph. 6. 12.), that of "the Rulers of the Darknesse of this world, (Mat. 12. 26.), "the Kingdome of Satan," and, (Mat. 9. 34.), "the Principality of Beelzebub over Daemons," that is to say, over Phantasmes that appear in the Air: For which cause Satan is also called (Eph. 2. 2.) "the Prince of the Power of the Air;" and (because he ruleth in the darknesse of this world) (Joh. 16. 11.) "The Prince of this world;" And in consequence hereunto, they who are under his Dominion, in opposition to the faithfull (who are the Children Of The Light) are called the Children Of Darknesse. For seeing Beelzebub is Prince of Phantasmes, Inhabitants of his Dominion of Air and Darknesse, the Children of Darknesse, and these Daemons, Phantasmes, or Spirits of Illusion, signifie allegorically the same thing. This considered, the Kingdome of Darknesse, as it is set forth in these, and other places of the Scripture, is nothing else but a "Confederacy of Deceivers, that to obtain dominion over men in this present world, endeavour by dark, and erroneous Doctrines, to extinguish in them the Light, both of Nature, and of the Gospell; and so to dis-prepare them for the Kingdome of God to come."

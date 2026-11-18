@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 7"
 weight: 13
-aliases:
-  - "/authors/conrad-joseph/the-rescue/part-02-chapter-07.html"
+url: "/authors/conrad-joseph/the-rescue/part-02-chapter-07.html"
 ---
 
 The faint murmur of the words spoken on that night lingered for a long time in Lingard's ears, more persistent than the memory of an uproar; he looked with a fixed gaze at the stars burning peacefully in the square of the doorway, while after listening in silence to all he had to say, Belarab, as if seduced by the strength and audacity of the white man, opened his heart without reserve. He talked of his youth surrounded by the fury of fanaticism and war, of battles on the hills, of advances through the forests, of men's unswerving piety, of their unextinguishable hate. Not a single wandering cloud obscured the gentle splendour of the rectangular patch of starlight framed in the opaque blackness of the hut. Belarab murmured on of a succession of reverses, of the ring of disasters narrowing round men's fading hopes and undiminished courage. He whispered of defeat and flight, of the days of despair, of the nights without sleep, of unending pursuit, of the bewildered horror and sombre fury, of their women and children killed in the stockade before the besieged sallied forth to die.

@@ -1,8 +1,7 @@
 ---
 title: "chapter 03"
 weight: 999
-aliases:
-  - "/authors/lawrence-david-herbert/women-in-love/chapter-03.html"
+url: "/authors/lawrence-david-herbert/women-in-love/chapter-03.html"
 ---
 
 A school-day was drawing to a close. In the class-room the last lesson was in progress, peaceful and still. It was elementary botany. The desks were littered with catkins, hazel and willow, which the children had been sketching. But the sky had come overdark, as the end of the afternoon approached: there was scarcely light to draw any more. Ursula stood in front of the class, leading the children by questions to understand the structure and the meaning of the catkins.

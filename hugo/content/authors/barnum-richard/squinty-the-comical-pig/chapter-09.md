@@ -1,8 +1,7 @@
 ---
 title: "Chapter 9 - Squinty's Balloon Ride"
 weight: 9
-aliases:
-  - "/authors/barnum-richard/squinty-the-comical-pig/chapter-09.html"
+url: "/authors/barnum-richard/squinty-the-comical-pig/chapter-09.html"
 ---
 
 This was the third time Squinty had run away. But not once did he intend to do any wrong; you see he knew no better. He just found his pen door open and walked out--that was all there was to it.

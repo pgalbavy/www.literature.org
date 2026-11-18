@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - Hunting A Clue"
 weight: 6
-aliases:
-  - "/authors/baily-waldron/when-the-cock-crows/chapter-06.html"
+url: "/authors/baily-waldron/when-the-cock-crows/chapter-06.html"
 ---
 
 The Morton camp was not unlike other Adirondack camps owned by the wealthy New Yorker. It consisted of vast acres of wonderful forests, where conifers and hard wood intermingled. Through the tract wandered a pellucid trout stream. At a glance, one would know that those waters were teeming with wonderful trout, that many a big fellow of the finny tribe inhabited the depths that waited for the angler's lure.

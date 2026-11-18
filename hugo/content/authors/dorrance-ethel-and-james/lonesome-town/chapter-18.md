@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - Too Ready Rescue"
 weight: 18
-aliases:
-  - "/authors/dorrance-ethel-and-james/lonesome-town/chapter-18.html"
+url: "/authors/dorrance-ethel-and-james/lonesome-town/chapter-18.html"
 ---
 
 Before the desk sergeant of a metropolitan police station friendship usually ceases. It did tonight in the Arsenal, otherwise the 33rd Precinct. By not so much as the ghost of a grin could the be-mustached official in a uniform striped by decades of service have detected even a speaking acquaintance between captors and prisoners.

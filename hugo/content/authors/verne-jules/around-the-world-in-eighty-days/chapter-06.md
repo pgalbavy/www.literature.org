@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/verne-jules/around-the-world-in-eighty-days/chapter-06.html"
+url: "/authors/verne-jules/around-the-world-in-eighty-days/chapter-06.html"
 ---
 
 The circumstances under which this telegraphic dispatch about Phileas Fogg was sent were as follows:

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/bronte-emily/wuthering-heights/chapter-05.html"
+url: "/authors/bronte-emily/wuthering-heights/chapter-05.html"
 ---
 
 IN the course of time Mr. Earnshaw began to fail. He had been active and healthy, yet his strength left him suddenly; and when he was confined to the chimney-corner he grew grievously irritable. A nothing vexed him; and suspected slights of his authority nearly threw him into fits. This was especially to be remarked if any one attempted to impose upon, or domineer over, his favourite: he was painfully jealous lest a word should be spoken amiss to him; seeming to have got into his head the notion that, because he liked Heathcliff, all hated, and longed to do him an ill-turn. It was a disadvantage to the lad; for the kinder among us did not wish to fret the master, so we humoured his partiality; and that humouring was rich nourishment to the child's pride and black tempers. Still it became in a manner necessary; twice, or thrice, Hindley's manifestation of scorn, while his father was near, roused the old man to a fury: he seized his stick to strike him, and shook with rage that he could not do it.

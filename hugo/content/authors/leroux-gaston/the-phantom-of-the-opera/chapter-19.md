@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - The Viscount And The Persian"
 weight: 20
-aliases:
-  - "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-19.html"
+url: "/authors/leroux-gaston/the-phantom-of-the-opera/chapter-19.html"
 ---
 
 Raoul now remembered that his brother had once shown him that mysterious person, of whom nothing was known except that he was a Persian and that he lived in a little old-fashioned flat in the Rue de Rivoli.

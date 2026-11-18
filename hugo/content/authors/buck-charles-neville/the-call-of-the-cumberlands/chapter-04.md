@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-04.html"
+url: "/authors/buck-charles-neville/the-call-of-the-cumberlands/chapter-04.html"
 ---
 
 In days when the Indian held the Dark and Bloody Grounds a pioneer, felling oak and poplar logs for the home he meant to establish on the banks of a purling water-course, let his axe slip, and the cutting edge gashed his ankle. Since to the discoverer belongs the christening, that water-course became Cripple-shin, and so it is to-day set down on atlas pages. A few miles away, as the crow flies, but many weary leagues as a man must travel, a brother settler, racked with rheumatism, gave to his creek the name of Misery. The two pioneers had come together from Virginia, as their ancestors had come before them from Scotland. Together, they had found one of the two gaps through the mountain wall, which for more than a hundred miles has no other passable rift. Together, and as comrades, they had made their homes, and founded their race. What original grievance had sprung up between their descendants none of the present generation knew--perhaps it was a farm line or disputed title to a pig. The primary incident was lost in the limbo of the past; but for fifty years, with occasional intervals of truce, lives had been snuffed out in the fiercely burning hate of these men whose ancestors had been comrades.

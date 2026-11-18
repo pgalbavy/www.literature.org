@@ -1,8 +1,7 @@
 ---
 title: "Chapter 12 - The Canterbury Pilgrims"
 weight: 12
-aliases:
-  - "/authors/nesbit-edith/the-wouldbegoods/chapter-12.html"
+url: "/authors/nesbit-edith/the-wouldbegoods/chapter-12.html"
 ---
 
 The author of these few lines really does hope to goodness that no one will be such an owl as to think from the number of things we did when we were in the country, that we were wretched, neglected little children, whose grown-up relations sparkled in the bright haunts of pleasure, and whirled in the giddy what's-its-name of fashion, while we were left to weep forsaken at home. It was nothing of the kind, and I wish you to know that my father was with us a good deal - and Albert's uncle (who is really no uncle of ours, but only of Albert next door when we lived in Lewisham) gave up a good many of his valuable hours to us. And the father of Denny and Daisy came now and then, and other people, quite as many as we wished to see. And we had some very decent times with them; and enjoyed ourselves very much indeed, thank you. In some ways the good times you have with grown-ups are better than the ones you have by yourselves. At any rate they are safer. It is almost impossible, then, to do anything fatal without being pulled up short by a grown-up ere yet the deed is done. And, if you are careful, anything that goes wrong can be looked on as the grown-up's fault. But these secure pleasures are not so interesting to tell about as the things you do when there is no one to stop you on the edge of the rash act.

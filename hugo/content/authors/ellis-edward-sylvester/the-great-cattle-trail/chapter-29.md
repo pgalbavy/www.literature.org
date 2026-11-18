@@ -1,8 +1,7 @@
 ---
 title: "Chapter 29 - Old Acquaintances"
 weight: 29
-aliases:
-  - "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-29.html"
+url: "/authors/ellis-edward-sylvester/the-great-cattle-trail/chapter-29.html"
 ---
 
 Without hesitation the mustang was after the stubborn steer again, showing less fear than before, though he maintained a sharp lookout against a repetition of the attack. It may have been that the dexterous manner in which he had just eluded the brute gave him self-confidence, as it weakened that of the fugitive without lessening his obduracy, for he took care that the line of his flight led straight away from his own herd.

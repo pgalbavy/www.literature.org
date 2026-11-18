@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - The Crisis"
 weight: 4
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-04.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-04.html"
 ---
 
 We left Miss Stanley with Ann Veronica's fancy dress in her hands and her eyes directed to Ann Veronica's pseudo-Turkish slippers.

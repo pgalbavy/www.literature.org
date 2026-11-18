@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 7
-aliases:
-  - "/authors/chambers-robert-w/cardigan/chapter-06.html"
+url: "/authors/chambers-robert-w/cardigan/chapter-06.html"
 ---
 
 It was not yet dawn, though a few birds sang in the darkness around us, as Sir William and I set off for the Cayuga's lodge, which stood beyond the town on a rocky knoll, partly cleared of trees.

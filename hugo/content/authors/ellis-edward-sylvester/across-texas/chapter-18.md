@@ -1,8 +1,7 @@
 ---
 title: "Chapter 18 - The Second Range Of Hills"
 weight: 18
-aliases:
-  - "/authors/ellis-edward-sylvester/across-texas/chapter-18.html"
+url: "/authors/ellis-edward-sylvester/across-texas/chapter-18.html"
 ---
 
 *BUT* while riding across the level plain, Herbert Watrous did a good deal of thinking, and strove hard to fix upon the wisest course to benefit the missing Nick.

@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 13 - A Solo And A Duett"
 weight: 30
-aliases:
-  - "/authors/dickens-charles/our-mutual-friend/book-02-chapter-13.html"
+url: "/authors/dickens-charles/our-mutual-friend/book-02-chapter-13.html"
 ---
 
 The wind was blowing so hard when the visitor came out at the shop-door into the darkness and dirt of Limehouse Hole, that it almost blew him in again. Doors were slamming violently, lamps were flickering or blown out, signs were rocking in their frames, the water of the kennels, wind-dispersed, flew about in drops like rain. Indifferent to the weather, and even preferring it to better weather for its clearance of the streets, the man looked about him with a scrutinizing glance. ‘Thus much I know,’ he murmured. ‘I have never been here since that night, and never was here before that night, but thus much I recognize. I wonder which way did we take when we came out of that shop. We turned to the right as I have turned, but I can recall no more. Did we go by this alley? Or down that little lane?’

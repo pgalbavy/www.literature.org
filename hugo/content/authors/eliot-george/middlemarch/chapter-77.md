@@ -1,8 +1,7 @@
 ---
 title: "Chapter 77"
 weight: 77
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-77.html"
+url: "/authors/eliot-george/middlemarch/chapter-77.html"
 ---
 
 "And thus thy fall hath left a kind of blot, To mark the full-fraught man and best indued With some suspicion." - Henry V.

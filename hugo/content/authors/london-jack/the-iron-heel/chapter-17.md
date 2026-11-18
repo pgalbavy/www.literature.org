@@ -1,8 +1,7 @@
 ---
 title: "Chapter 17 - The Scarlet Livery"
 weight: 18
-aliases:
-  - "/authors/london-jack/the-iron-heel/chapter-17.html"
+url: "/authors/london-jack/the-iron-heel/chapter-17.html"
 ---
 
 With the destruction of the Granger states, the Grangers in Congress disappeared. They were being tried for high treason, and their places were taken by the creatures of the Iron Heel. The socialists were in a pitiful minority, and they knew that their end was near. Congress and the Senate were empty pretences, farces. Public questions were gravely debated and passed upon according to the old forms, while in reality all that was done was to give the stamp of constitutional procedure to the mandates of the Oligarchy.

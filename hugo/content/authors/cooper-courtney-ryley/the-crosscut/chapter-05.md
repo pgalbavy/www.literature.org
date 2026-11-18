@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5"
 weight: 5
-aliases:
-  - "/authors/cooper-courtney-ryley/the-crosscut/chapter-05.html"
+url: "/authors/cooper-courtney-ryley/the-crosscut/chapter-05.html"
 ---
 
 Impatiently Fairchild awaited Mother Howard's return, and when at last she came forth from the kitchen, he drew her into the old parlor, shadowy now in the gathering dusk, and closed the doors.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-aliases:
-  - "/authors/austen-jane/mansfield-park/chapter-24.html"
+url: "/authors/austen-jane/mansfield-park/chapter-24.html"
 ---
 
 Henry Crawford had quite made up his mind by the next morning to give another fortnight to Mansfield, and having sent for his hunters, and written a few lines of explanation to the Admiral, he looked round at his sister as he sealed and threw the letter from him, and seeing the coast clear of the rest of the family, said, with a smile, “And how do you think I mean to amuse myself, Mary, on the days that I do not hunt? I am grown too old to go out more than three times a week; but I have a plan for the intermediate days, and what do you think it is?”

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - The Pageant Of The Table Round"
 weight: 5
-aliases:
-  - "/authors/tarkington-booth/penrod/chapter-05.html"
+url: "/authors/tarkington-booth/penrod/chapter-05.html"
 ---
 
 "Penrod!" Mrs. Lora Rewbush stood in the doorway, indignantly gazing upon a Child Sir Lancelot mantled to the heels. "Do you know that you have kept an audience of five hundred people waiting for ten minutes?" She, also, detained the five hundred while she spake further.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 11"
 weight: 11
-aliases:
-  - "/authors/chambers-robert-w/the-common-law/chapter-11.html"
+url: "/authors/chambers-robert-w/the-common-law/chapter-11.html"
 ---
 
 Valerie West was twenty-two years old in February. One year of life lay behind her; her future stretched away into sunlit infinity.

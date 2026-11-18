@@ -1,8 +1,7 @@
 ---
 title: "Book 6 - Chapter 7"
 weight: 113
-aliases:
-  - "/authors/tolstoy-leo/war-and-peace/book-06-chapter-07.html"
+url: "/authors/tolstoy-leo/war-and-peace/book-06-chapter-07.html"
 ---
 
 Nearly two years before this, in 1808, Pierre on returning to Petersburg after visiting his estates had involuntarily found himself in a leading position among the Petersburg Freemasons. He arranged dining and funeral lodge meetings, enrolled new members, and busied himself uniting various lodges and acquiring authentic charters. He gave money for the erection of temples and supplemented as far as he could the collection of alms, in regard to which the majority of members were stingy and irregular. He supported almost singlehanded a poorhouse the order had founded in Petersburg.

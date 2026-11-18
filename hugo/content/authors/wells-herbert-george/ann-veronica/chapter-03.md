@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - The Morning Of The Crisis"
 weight: 3
-aliases:
-  - "/authors/wells-herbert-george/ann-veronica/chapter-03.html"
+url: "/authors/wells-herbert-george/ann-veronica/chapter-03.html"
 ---
 
 Two days after came the day of the Crisis, the day of the Fadden Dance. It would have been a crisis anyhow, but it was complicated in Ann Veronica's mind by the fact that a letter lay on the breakfast-table from Mr. Manning, and that her aunt focussed a brightly tactful disregard upon this throughout the meal. Ann Veronica had come down thinking of nothing in the world but her inflexible resolution to go to the dance in the teeth of all opposition. She did not know Mr. Manning's handwriting, and opened his letter and read some lines before its import appeared. Then for a time she forgot the Fadden affair altogether. With a well-simulated unconcern and a heightened color she finished her breakfast.

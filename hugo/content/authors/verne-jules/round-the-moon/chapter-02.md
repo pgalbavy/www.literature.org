@@ -1,8 +1,7 @@
 ---
 title: "Chapter 2"
 weight: 2
-aliases:
-  - "/authors/verne-jules/round-the-moon/chapter-02.html"
+url: "/authors/verne-jules/round-the-moon/chapter-02.html"
 ---
 
 What had happened? What effect had this frightful shock produced? Had the ingenuity of the constructors of the projectile obtained any happy result? Had the shock been deadened, thanks to the springs, the four plugs, the water-cushions, and the partition-breaks? Had they been able to subdue the frightful pressure of the initiatory speed of more than 11,000 yards, which was enough to traverse Paris or New York in a second? This was evidently the question suggested to the thousand spectators of this moving scene. They forgot the aim of the journey, and thought only of the travelers. And if one of them-- Joseph T. Maston for example-- could have cast one glimpse into the projectile, what would he have seen?

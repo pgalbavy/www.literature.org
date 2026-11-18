@@ -1,8 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-aliases:
-  - "/authors/forster-e-m/howards-end/chapter-31.html"
+url: "/authors/forster-e-m/howards-end/chapter-31.html"
 ---
 
 Houses have their own ways of dying, falling as variously as the generations of men, some with a tragic roar, some quietly, but to an after-life in the city of ghosts, while from others--and thus was the death of Wickham Place--the spirit slips before the body perishes. It had decayed in the spring, disintegrating the girls more than they knew, and causing either to accost unfamiliar regions. By September it was a corpse, void of emotion, and scarcely hallowed by the memories of thirty years of happiness. Through its round-topped doorway passed furniture, and pictures, and books, until the last room was gutted and the last van had rumbled away. It stood for a week or two longer, open-eyed, as if astonished at its own emptiness. Then it fell. Navvies came, and spilt it back into the grey. With their muscles and their beery good temper, they were not the worst of undertakers for a house which had always been human, and had not mistaken culture for an end.

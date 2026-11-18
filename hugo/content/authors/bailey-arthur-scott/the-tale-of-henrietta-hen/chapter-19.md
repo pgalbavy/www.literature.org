@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - Aunt Polly Helps"
 weight: 19
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-19.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-henrietta-hen/chapter-19.html"
 ---
 
 Somehow Henrietta Hen couldn't help liking Aunt Polly Woodchuck, in spite of her old-fashioned appearance. She certainly had a way with her--a way that made a person want to tell her his troubles.

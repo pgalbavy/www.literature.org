@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 3 - The New Schoolfellow"
 weight: 16
-aliases:
-  - "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-03.html"
+url: "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-03.html"
 ---
 
 It was a cold, wet January day on which Tom went back to school; a day quite in keeping with this severe phase of his destiny. If he had not carried in his pocket a parcel of sugar-candy and a small Dutch doll for little Laura, there would have been no ray of expected pleasure to enliven the general gloom. But he liked to think how Laura would put out her lips and her tiny hands for the bits of sugarcandy; and to give the greater keenness to these pleasures of imagination, he took out the parcel, made a small hole in the paper, and bit off a crystal or two, which had so solacing an effect under the confined prospect and damp odors of the gig-umbrella, that he repeated the process more than once on his way.

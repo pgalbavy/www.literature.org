@@ -1,8 +1,7 @@
 ---
 title: "Chapter 19 - By Way Of The Stars"
 weight: 20
-aliases:
-  - "/authors/montgomery-lucy-maud/the-golden-road/chapter-19.html"
+url: "/authors/montgomery-lucy-maud/the-golden-road/chapter-19.html"
 ---
 
 But for two of us the adventures of the night were not yet over. Silence settled down over the old house--the eerie, whisperful, creeping silence of night. Felix and Dan were already sound asleep; I was drifting near the coast o' dreams when I was aroused by a light tap on the door.

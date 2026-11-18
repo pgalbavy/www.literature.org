@@ -1,8 +1,7 @@
 ---
 title: "Part 3 - Chapter 25"
 weight: 94
-aliases:
-  - "/authors/tolstoy-leo/anna-karenina/part-03-chapter-25.html"
+url: "/authors/tolstoy-leo/anna-karenina/part-03-chapter-25.html"
 ---
 
 In the Surovsky district there was no railway nor service of post-horses, and Levin drove there with his own horses in his big, old-fashioned carriage.

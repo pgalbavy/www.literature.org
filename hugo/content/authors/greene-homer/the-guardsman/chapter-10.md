@@ -1,8 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-aliases:
-  - "/authors/greene-homer/the-guardsman/chapter-10.html"
+url: "/authors/greene-homer/the-guardsman/chapter-10.html"
 ---
 
 Three days after Hal’s interview with Brownell, First Lieutenant Morosco sent in his resignation, it was promptly accepted, he was duly and honorably discharged, and he left the service of the Guard. In due time an order came down from the Governor, through his Adjutant-General, and the Brigadier-General commanding the brigade, to the Colonel of the ----th regiment, of the following tenor:

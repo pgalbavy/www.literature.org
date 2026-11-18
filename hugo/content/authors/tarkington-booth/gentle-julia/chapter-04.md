@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 4
-aliases:
-  - "/authors/tarkington-booth/gentle-julia/chapter-04.html"
+url: "/authors/tarkington-booth/gentle-julia/chapter-04.html"
 ---
 
 Mrs. Dill, Noble's mother, talked of organizing a Young Men's Mothers' Club against Julia, nevertheless she acknowledged that in one solitary way Noble was being improved by the experience. His two previous attacks of love (one at twelve, and the other at eighteen) had been incomparably lighter, and the changes in him, noted at home, merely a slight general irritability and a lack of domestic punctuality due to too much punctuality elsewhere. But, when his Julia Atwater trouble came, the very first symptom he manifested was a strange new effort to become beautiful; his mother even discovered that he sometimes worked with pumice stone upon the cigarette stains on his fingers.

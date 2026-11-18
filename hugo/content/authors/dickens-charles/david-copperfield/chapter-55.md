@@ -1,8 +1,7 @@
 ---
 title: "Chapter 55 - Tempest"
 weight: 56
-aliases:
-  - "/authors/dickens-charles/david-copperfield/chapter-55.html"
+url: "/authors/dickens-charles/david-copperfield/chapter-55.html"
 ---
 
 I now approach an event in my life, so indelible, so awful, so bound by an infinite variety of ties to all that has preceded it, in these pages, that, from the beginning of my narrative, I have seen it growing larger and larger as I advanced, like a great tower in a plain, and throwing its fore-cast shadow even on the incidents of my childish days.

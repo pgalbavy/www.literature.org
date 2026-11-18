@@ -1,8 +1,7 @@
 ---
 title: "Preface"
 weight: 1
-aliases:
-  - "/authors/bronte-charlotte/the-professor/preface.html"
+url: "/authors/bronte-charlotte/the-professor/preface.html"
 ---
 
 This little book was written before either "Jane Eyre" or "Shirley," and yet no indulgence can be solicited for it on the plea of a first attempt. A first attempt it certainly was not, as the pen which wrote it had been previously worn a good deal in a practice of some years. I had not indeed published anything before I commenced "The Professor," but in many a crude effort, destroyed almost as soon as composed, I had got over any such taste as I might once have had for ornamented and redundant composition, and come to prefer what was plain and homely. At the same time I had adopted a set of principles on the subject of incident, &c., such as would be generally approved in theory, but the result of which, when carried out into practice, often procures for an author more surprise than pleasure.

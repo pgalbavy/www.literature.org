@@ -1,8 +1,7 @@
 ---
 title: "Chapter 1 - The Outlaw"
 weight: 1
-aliases:
-  - "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-01.html"
+url: "/authors/bailey-arthur-scott/the-tale-of-old-mr-crow/chapter-01.html"
 ---
 
 A good many of the forest-people claimed that old Mr. Crow was an outlaw. They said he was always roving about, robbing Farmer Green of his corn and his chickens, and digging up the potatoes when they shot their sprouts above the surface of the potato-patch. And everybody was aware that the old gentleman stole eggs from the nests of his smaller neighbors. It was even whispered that Mr. Crow had been known to devour baby robins.

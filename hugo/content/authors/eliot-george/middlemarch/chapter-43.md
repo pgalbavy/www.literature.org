@@ -1,8 +1,7 @@
 ---
 title: "Chapter 43"
 weight: 43
-aliases:
-  - "/authors/eliot-george/middlemarch/chapter-43.html"
+url: "/authors/eliot-george/middlemarch/chapter-43.html"
 ---
 
 This figure hath high price: 't was wrought with love Ages ago in finest ivory; Nought modish in it, pure and noble lines Of generous womanhood that fits all time That too is costly ware; majolica Of deft design, to please a lordly eye: The smile, you see, is perfect - wonderful As mere Faience! a table ornament To suit the richest mounting."

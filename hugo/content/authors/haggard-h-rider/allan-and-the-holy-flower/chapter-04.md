@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4 - Mavovo And Hans"
 weight: 4
-aliases:
-  - "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-04.html"
+url: "/authors/haggard-h-rider/allan-and-the-holy-flower/chapter-04.html"
 ---
 
 We arrived safely at Durban at the beginning of March and took up our quarters at my house on the Berea, where I expected that Brother John would be awaiting us. But no Brother John was to be found. The old, lame Griqua, Jack, who looked after the place for me and once had been one of my hunters, said that shortly after I went away in the ship, Dogeetah, as he called him, had taken his tin box and his net and walked off inland, he knew not where, leaving, as he declared, no message or letter behind him. The cases full of butterflies and dried plants were also gone, but these, I found he had shipped to some port in America, by a sailing vessel bound for the United States which chanced to put in at Durban for food and water. As to what had become of the man himself I could get no clue. He had been seen at Maritzburg and, according to some Kaffirs whom I knew, afterwards on the borders of Zululand, where, so far as I could learn, he vanished into space.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 3 - Breakers"
 weight: 3
-aliases:
-  - "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-03.html"
+url: "/authors/gilman-charlotte-perkins/what-diantha-did/chapter-03.html"
 ---
 
 Duck! Dive! Here comes another one! Wait till the crest-ruffles show! Beyond is smooth water in beauty and wonder-- Shut your mouth! Hold your breath! Dip your head under! Dive through the weight and the wash, and the thunder-- Look out for the undertow!

@@ -1,8 +1,7 @@
 ---
 title: "Fit 6 - The Barrister’s Dream"
 weight: 7
-aliases:
-  - "/authors/carroll-lewis/the-hunting-of-the-snark/fit-06.html"
+url: "/authors/carroll-lewis/the-hunting-of-the-snark/fit-06.html"
 ---
 
 They sought it with thimbles, they sought it with care;  

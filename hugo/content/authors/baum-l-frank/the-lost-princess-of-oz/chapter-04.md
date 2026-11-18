@@ -1,8 +1,7 @@
 ---
 title: "Chapter 4"
 weight: 5
-aliases:
-  - "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-04.html"
+url: "/authors/baum-l-frank/the-lost-princess-of-oz/chapter-04.html"
 ---
 
 The settled parts of the Winkie Country are full of happy and contented people who are ruled by a tin Emperor named Nick Chopper, who in turn is a subject of the beautiful girl Ruler, Ozma of Oz. But not all of the Winkie Country is fully settled. At the east, which part lies nearest the Emerald City, there are beautiful farmhouses and roads, but as you travel west, you first come to a branch of the Winkie River, beyond which there is a rough country where few people live, and some of these are quite unknown to the rest of the world. After passing through this rude section of territory, which no one ever visits, you would come to still another branch of the Winkie River, after crossing which you would find another well-settled part of the Winkie Country extending westward quite to the Deadly Desert that surrounds all the Land of Oz and separates that favored fairyland from the more common outside world. The Winkies who live in this west section have many tin mines, from which metal they make a great deal of rich jewelry and other articles, all of which are highly esteemed in the Land of Oz because tin is so bright and pretty and there is not so much of it as there is of gold and silver.

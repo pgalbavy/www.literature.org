@@ -1,8 +1,7 @@
 ---
 title: "Chapter 44 - A Footstep"
 weight: 44
-aliases:
-  - "/authors/hodgson-burnett-frances/the-shuttle/chapter-44.html"
+url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-44.html"
 ---
 
 It was cold enough for fires in halls and bedrooms, and Lady Anstruthers often sat over hers and watched the glowing bed of coals with a fixed thoughtfulness of look. She was so sitting when her sister went to her room to talk to her, and she looked up questioningly when the door closed and Betty came towards her.

@@ -1,8 +1,7 @@
 ---
 title: "Chapter 26 - \"To Half Of My Kingdom--\""
 weight: 27
-aliases:
-  - "/authors/beecham-john-charles/the-argus-pheasant/chapter-26.html"
+url: "/authors/beecham-john-charles/the-argus-pheasant/chapter-26.html"
 ---
 
 Captain Carver selected a cigar from Peter Gross's humidor and reclined in the most comfortable chair in the room.

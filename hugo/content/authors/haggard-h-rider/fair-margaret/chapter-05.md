@@ -1,8 +1,7 @@
 ---
 title: "Chapter 5 - Castell's Secret"
 weight: 5
-aliases:
-  - "/authors/haggard-h-rider/fair-margaret/chapter-05.html"
+url: "/authors/haggard-h-rider/fair-margaret/chapter-05.html"
 ---
 
 In John Castell's house it was the habit, as in most others in those days, for his dependents, clerks, and shopmen to eat their morning and mid-day meals with him in the hall, seated at two lower tables, all of them save Betty, his daughter's cousin and companion, who sat with them at the upper board. This morning Betty's place was empty, and presently Castell, lifting his eyes, for he was lost in thought, noted it, and asked where she might be--a question that neither Margaret nor Peter could answer.

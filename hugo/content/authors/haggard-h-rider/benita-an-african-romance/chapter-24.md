@@ -1,8 +1,7 @@
 ---
 title: "Chapter 24 - The True Gold"
 weight: 25
-aliases:
-  - "/authors/haggard-h-rider/benita-an-african-romance/chapter-24.html"
+url: "/authors/haggard-h-rider/benita-an-african-romance/chapter-24.html"
 ---
 
 “Let me go first,” said Robert.

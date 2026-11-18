@@ -1,8 +1,7 @@
 ---
 title: "Part 2 - Chapter 2 - The Adventure Of The Picardy Château"
 weight: 13
-aliases:
-  - "/authors/buchan-john/mr-standfast/part-02-chapter-02.html"
+url: "/authors/buchan-john/mr-standfast/part-02-chapter-02.html"
 ---
 
 I looked up Eaucourt Sainte-Anne on the map, and the more I studied its position the less I liked it. It was the knot from which sprang all the main routes to our Picardy front. If the Boche ever broke us, it was the place for which old Hindenburg would make. At all hours troops and transport trains were moving through that insignificant hamlet. Eminent generals and their staffs passed daily within sight of the Château. It was a convenient halting-place for battalions coming back to rest. Supposing, I argued, our enemies wanted a key-spot for some assault upon the *morale* or the discipline or health of the British Army, they couldn’t find a better than Eaucourt Sainte-Anne. It was the ideal centre of espionage. But when I guardedly sounded my friends of the Intelligence they didn’t seem to be worrying about it.

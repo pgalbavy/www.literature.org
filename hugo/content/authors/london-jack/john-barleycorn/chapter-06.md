@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-aliases:
-  - "/authors/london-jack/john-barleycorn/chapter-06.html"
+url: "/authors/london-jack/john-barleycorn/chapter-06.html"
 ---
 
 But the time was rapidly drawing near when I was to begin my second series of bouts with John Barleycorn. When I was fourteen, my head filled with the tales of the old voyagers, my vision with tropic isles and far sea-rims, I was sailing a small centreboard skiff around San Francisco Bay and on the Oakland Estuary. I wanted to go to sea. I wanted to get away from monotony and the commonplace. I was in the flower of my adolescence, a-thrill with romance and adventure, dreaming of wild life in the wild man- world. Little I guessed how all the warp and woof of that man- world was entangled with alcohol.

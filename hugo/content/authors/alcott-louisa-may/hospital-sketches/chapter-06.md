@@ -1,8 +1,7 @@
 ---
 title: "Chapter 6 - A Postscript"
 weight: 7
-aliases:
-  - "/authors/alcott-louisa-may/hospital-sketches/chapter-06.html"
+url: "/authors/alcott-louisa-may/hospital-sketches/chapter-06.html"
 ---
 
 My Dear S.: - As inquiries like your own have come to me from various friendly readers of the Sketches, I will answer them en masse and in printed form, as a sort of postscript to what has gone before. One of these questions was, "Are there no services by hospital death-beds, or on Sundays?"

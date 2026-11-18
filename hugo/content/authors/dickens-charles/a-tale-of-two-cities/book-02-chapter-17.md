@@ -1,8 +1,7 @@
 ---
 title: "Book 2 - Chapter 17 - One Night"
 weight: 23
-aliases:
-  - "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-17.html"
+url: "/authors/dickens-charles/a-tale-of-two-cities/book-02-chapter-17.html"
 ---
 
 NEVER DID the sun go down with a brighter glory on the quiet corner in Soho, than one memorable evening when the Doctor and his daughter sat under the plane-tree together. Never did the moon rise with a milder radiance over great London, than on that night when it found them still seated under the tree, and shone upon their faces through its leaves.

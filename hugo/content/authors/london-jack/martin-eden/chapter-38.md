@@ -1,8 +1,7 @@
 ---
 title: "Chapter 38"
 weight: 38
-aliases:
-  - "/authors/london-jack/martin-eden/chapter-38.html"
+url: "/authors/london-jack/martin-eden/chapter-38.html"
 ---
 
 "Come on, let's go down to the local."

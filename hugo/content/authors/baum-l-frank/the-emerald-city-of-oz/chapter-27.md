@@ -1,8 +1,7 @@
 ---
 title: "Chapter 27"
 weight: 28
-aliases:
-  - "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-27.html"
+url: "/authors/baum-l-frank/the-emerald-city-of-oz/chapter-27.html"
 ---
 
 The Nome King and his terrible allies sat at the banquet table until midnight. There was much quarreling between the Growleywogs and Phanfasms, and one of the wee-headed Whimsies got angry at General Guph and choked him until he nearly stopped breathing. Yet no one was seriously hurt, and the Nome King felt much relieved when the clock struck twelve and they all sprang up and seized their weapons.

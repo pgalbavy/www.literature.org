@@ -1,8 +1,7 @@
 ---
 title: "Chapter 14"
 weight: 14
-aliases:
-  - "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-14.html"
+url: "/authors/oppenheim-e-phillips/the-kingdom-of-the-blind/chapter-14.html"
 ---
 
 Monsieur Guillot was a man of emotional temperament. For more than an hour after Granet had left him, he paced up and down his little room, stood before the high windows which overlooked the Thames, raised his hands above his head and gazed with flashing eyes into the future--such a future! All his life he had been a schemer, his eyes turned towards the big things, yet with himself always occupying the one glorified place in the centre of the arena. He was, in one sense of the word, a patriot, but it was the meanest and smallest sense. There was no great France for him in which his was not the commanding figure. In every dream of that wonderful future, of a more splendid and triumphant France, he saw himself on the pinnacle of fame, himself acclaimed by millions the strong great man, the liberator. France outside himself lived only as a phantasy. And now at last his chance had come. The minutes passed unnoticed as he built his way up into the future. He was shrewd and calculating, he took note of the pitfalls he must avoid. One by one he decided upon the men whom gradually and cautiously he would draw into his confidence. Finally he saw the whole scheme complete, the bomb-shell thrown, France hysterically casting laurels upon the man who had brought her unexpected peace.
