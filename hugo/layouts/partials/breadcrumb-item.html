@@ -1,0 +1,11 @@
+{{- if .Href -}}
+<a class="reader-breadcrumb-item reader-crumb--{{ .Kind }}" href="{{ .Href }}" aria-label="{{ .Label }}" title="{{ .Label }}"{{ if .Current }} aria-current="page"{{ end }}>
+  <i class="material-icons reader-breadcrumb-icon" aria-hidden="true">{{ .Icon }}</i>
+  <span class="reader-breadcrumb-label">{{ .Label }}</span>
+</a>
+{{- else -}}
+<span class="reader-breadcrumb-item reader-crumb--{{ .Kind }}" aria-current="page" aria-label="{{ .Label }}" title="{{ .Label }}">
+  <i class="material-icons reader-breadcrumb-icon" aria-hidden="true">{{ .Icon }}</i>
+  <span class="reader-breadcrumb-label">{{ .Label }}</span>
+</span>
+{{- end -}}

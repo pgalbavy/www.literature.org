@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 loadcss("/css/w3.css");
 loadcss("/css/icon.css");
-loadcss("/css/literature.css");
+loadcss("/css/literature.css?v=6");
 function loadcss(path) {
     let link = document.createElement("link");
     link.setAttribute("rel", "stylesheet");
@@ -74,7 +74,7 @@ async function Single(element) {
         // append text with headings and anchors, update contents link to anchor and no another page
         let div = appendElement(document, element, 'article', chap, [
             ['id', c.title],
-            ['class', 'w3-container w3-justify']
+            ['class', 'w3-container w3-justify reader-content']
         ]);
         prependElement(document, div, 'h2', c.title, [
             ['class', 'w3-container litleft'],
@@ -114,15 +114,13 @@ async function Contents(element) {
     let contents = await fetchAsJSON(article.getAttribute('contents'));
     let ul = appendElement(document, article, 'ul', null, [
         ['id', 'contents'],
-        ['class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable']
+        ['class', 'w3-bar-block w3-ul w3-border w3-hoverable']
     ]);
     if (contents.authors === undefined) {
         contents.authors = [];
     }
     for (let a of contents.authors.sort(hrefSort)) {
-        let li = appendElement(document, ul, 'li', null, [
-            ['class', 'w3-col s12 m6 l4']
-        ]);
+        let li = appendElement(document, ul, 'li', null);
         let ahref = appendElement(document, li, 'a', nameCapsHTML(a.name), [
             ['href', a.href],
             ['class', 'w3-bar-item litleft w3-button']
@@ -145,7 +143,7 @@ async function Contents(element) {
             aliases = aliases.substring(0, aliases.length - 2);
         }
         let li = appendElement(document, ul, 'li', null, [
-            ['class', 'w3-col w3-hover-none']
+            ['class', 'w3-hover-none']
         ]);
         let span = appendElement(document, li, 'span', nameCapsHTML(contents.title) + aliases, [
             ['class', 'w3-bar-item']
@@ -155,9 +153,7 @@ async function Contents(element) {
         ]);
     }
     for (let b of contents.books.sort(bookSort)) {
-        let li = appendElement(document, ul, 'li', null, [
-            ['class', 'w3-col s12 m6 l4']
-        ]);
+        let li = appendElement(document, ul, 'li', null);
         let ahref = appendElement(document, li, 'a', nameCapsHTML(b.title) + (b.year !== undefined ? ' (' + b.year + ')' : ''), [
             ['href', b.href],
             ['class', 'w3-bar-item litleft w3-button']
@@ -220,84 +216,96 @@ async function Navigate(element) {
     }
     let contents = await fetchAsJSON(nav.getAttribute('navigate') ?? '');
     nav.removeAttribute('navigate');
+    const pathSegments = location.pathname.split('/').filter(part => part && part != 'index.html');
+    const final = pathSegments[pathSegments.length - 1];
+    const isContactPage = pathSegments[0] === 'contact';
     let title = "literature.org";
     // this breaks if there is more than one article
     let articles = document.getElementsByTagName("article");
     let article = articles[0];
-    let sidebar = appendElement(document, nav, 'nav', null, [
-        ['class', 'w3-sidebar w3-bar-block w3-large'],
-        ['style', 'width:66%; max-width: 400px; display:none'],
-        ['id', 'sidebar']
+    let sidebar = appendElement(document, nav, 'aside', null, [
+        ['class', 'reader-drawer'],
+        ['id', 'sidebar'],
+        ['aria-hidden', 'true'],
+        ['aria-label', 'Site navigation']
     ]);
-    let button = appendElement(document, sidebar, 'button', ' Close', [
-        ['class', 'w3-bar-item w3-button'],
-        ['onclick', 'w3_close()']
+    sidebar.inert = true;
+    let sidebarNav = appendElement(document, sidebar, 'nav', null, [
+        ['class', 'w3-bar-block w3-large'],
+        ['id', 'sidebar-links'],
+        ['aria-label', 'Site navigation']
     ]);
-    prependElement(document, button, 'i', 'close', [
-        ['class', 'material-icons md-lit']
-    ]);
-    let ahref = appendElement(document, sidebar, 'a', ' literature.org', [
+    let ahref = appendElement(document, sidebarNav, 'a', null, [
         ['href', '/'],
-        ['class', 'w3-bar-item w3-button']
+        ['class', 'w3-bar-item w3-button'],
+        ['aria-label', 'literature.org'],
+        ['title', 'literature.org']
     ]);
     prependElement(document, ahref, 'i', 'home', [
         ['class', 'material-icons md-lit']
     ]);
-    ahref = appendElement(document, sidebar, 'a', ' Authors', [
+    appendElement(document, ahref, 'span', 'literature.org', [
+        ['class', 'reader-drawer-label']
+    ]);
+    ahref = appendElement(document, sidebarNav, 'a', null, [
         ['href', '/authors'],
-        ['class', 'w3-bar-item w3-button']
+        ['class', 'w3-bar-item w3-button'],
+        ['aria-label', 'Authors'],
+        ['title', 'Authors']
     ]);
     prependElement(document, ahref, 'i', 'people', [
         ['class', 'material-icons md-lit']
     ]);
-    // sidebar
+    appendElement(document, ahref, 'span', 'Authors', [
+        ['class', 'reader-drawer-label']
+    ]);
+    // Breadcrumb levels remain available in the drawer on narrow screens.
     if (contents.author) {
-        ahref = appendElement(document, sidebar, 'a', ` ${contents.author}`, [
-            ['href', '../'],
-            ['class', 'w3-bar-item w3-button litleft']
-        ]);
-        prependElement(document, ahref, 'i', 'person', [
-            ['class', 'material-icons md-lit']
-        ]);
         title = titleCase(contents.author) + " at " + title;
     }
-    let parts = location.pathname.split('/');
-    parts.reverse();
-    let final = parts.find(function (value, index, array) { return value != "index.html" && value != ""; });
-    if (final && final != "authors") {
-        ahref = appendElement(document, sidebar, 'a', ` ${contents.title}`, [
-            ['href', 'index.html'],
-            ['class', 'w3-bar-item w3-button litleft']
-        ]);
-        prependElement(document, ahref, 'i', 'menu_book', [
-            ['class', 'material-icons md-lit']
-        ]);
+    if (pathSegments[0] === 'authors' && pathSegments.length >= 2) {
+        const authorLabel = contents.author ||
+            (pathSegments.length === 2 ? contents.title : titleCase(pathSegments[1].replace(/-/g, ' ')));
+        const authorIsCurrent = pathSegments.length === 2;
+        appendDrawerCrumb(document, sidebarNav, authorLabel, 'person',
+            authorIsCurrent ? '' : `/authors/${pathSegments[1]}/`, authorIsCurrent);
+    }
+    if (pathSegments[0] === 'authors' && pathSegments.length >= 3) {
+        const bookIsCurrent = pathSegments.length === 3;
+        appendDrawerCrumb(document, sidebarNav, contents.title, 'menu_book',
+            bookIsCurrent ? '' : `/authors/${pathSegments[1]}/${pathSegments[2]}/`, bookIsCurrent);
+    }
+    if (pathSegments[0] === 'authors' && pathSegments.length >= 4) {
+        const chapter = contents.chapters?.find(item => item.href === final);
+        const chapterLabel = chapter?.title || titleCase(final.replace(/\.html$/, '').replace(/-/g, ' '));
+        appendDrawerCrumb(document, sidebarNav, chapterLabel, 'library_books', '', true);
+    }
+    if (final && final != "authors" && !isContactPage) {
         if (contents.chapters !== undefined) {
-            if (final.endsWith(".html")) {
-                let chapter = contents.chapters.findIndex(o => o.href === final);
-                // dropdown here
-                button = appendElement(document, sidebar, 'button', ` ${contents.chapters[chapter].title}`, [
-                    ['class', 'w3-bar-item w3-button litleft'],
-                    ['onclick', 'w3_close()']
-                ]);
-                prependElement(document, button, 'i', 'library_books', [
-                    ['class', 'material-icons md-lit']
-                ]);
-            }
-            else {
-                ahref = appendElement(document, sidebar, 'a', ` Single Page View`, [
+            if (!final.endsWith(".html")) {
+                ahref = appendElement(document, sidebarNav, 'a', null, [
                     ['href', `?single`],
-                    ['class', 'w3-bar-item w3-button litleft']
+                    ['class', 'w3-bar-item w3-button litleft'],
+                    ['aria-label', 'Single Page View'],
+                    ['title', 'Single Page View']
                 ]);
                 prependElement(document, ahref, 'i', 'description', [
                     ['class', 'material-icons md-lit']
                 ]);
-                ahref = appendElement(document, sidebar, 'a', ` Download ePub`, [
+                appendElement(document, ahref, 'span', 'Single Page View', [
+                    ['class', 'reader-drawer-label']
+                ]);
+                ahref = appendElement(document, sidebarNav, 'a', null, [
                     ['href', `?epub`],
-                    ['class', 'w3-bar-item w3-button litleft']
+                    ['class', 'w3-bar-item w3-button litleft'],
+                    ['aria-label', 'Download ePub'],
+                    ['title', 'Download ePub']
                 ]);
                 prependElement(document, ahref, 'i', 'cloud_download', [
                     ['class', 'material-icons md-lit']
+                ]);
+                appendElement(document, ahref, 'span', 'Download ePub', [
+                    ['class', 'reader-drawer-label']
                 ]);
             }
         }
@@ -310,12 +318,17 @@ async function Navigate(element) {
     }
     // top bar
     let navbar = appendElement(document, nav, 'nav', null, [
-        ['class', 'w3-bar'],
+        ['class', 'w3-bar reader-toolbar'],
         ['style', 'font-size:24px; white-space: nowrap;']
     ]);
-    button = appendElement(document, navbar, 'button', null, [
-        ['class', 'w3-bar-item w3-button'],
-        ['onclick', 'w3_open()']
+    let button = appendElement(document, navbar, 'button', null, [
+        ['class', 'w3-bar-item w3-button reader-menu-toggle'],
+        ['onclick', 'w3_toggle()'],
+        ['type', 'button'],
+        ['title', 'Open navigation menu'],
+        ['aria-label', 'Open navigation menu'],
+        ['aria-controls', 'sidebar'],
+        ['aria-expanded', 'false']
     ]);
     appendElement(document, button, 'i', 'menu', [
         ['class', 'material-icons md-lit']
@@ -331,60 +344,35 @@ async function Navigate(element) {
     else {
         list = contents.chapters;
     }
-    if (list && final) {
-        let page = list.findIndex(o => o.href === final);
-        if (final == "authors") {
-            addNavButton(document, navbar, '/', 'home', 'Home', 'w3-left');
-        }
-        else {
-            if (typeof contents.author === 'undefined' || contents.author == "") {
-                addNavButton(document, navbar, '/authors', 'people', 'Authors', 'w3-left');
-            }
-            else {
-                // author
-                addNavButton(document, navbar, '../', 'person', 'Author', 'w3-left');
-            }
-            // contents page
-            if (!(contents.title != "Authors" && (contents.author === undefined || contents.author == ""))) {
-                if (final.endsWith(".html")) {
-                    addNavButton(document, navbar, 'index.html', 'menu_book', 'Contents', 'w3-left');
-                }
-                else {
-                    if (single) {
-                        addNavButton(document, navbar, 'index.html', 'menu_book', 'Contents', 'w3-left');
-                    }
-                    else {
-                        addNavButton(document, navbar, '?single', 'description', 'Single Page', 'w3-left');
-                    }
-                    addNavButton(document, navbar, '?epub', 'cloud_download', 'Download ePub', 'w3-left');
-                }
-            }
-        }
+    let page = list && final ? list.findIndex(o => o.href === final) : -1;
+    appendReaderBreadcrumbs(document, navbar, contents, pathSegments,
+        isContactPage ? "Contact" : page >= 0 ? list[page].title : contents.title, final);
+    const actions = appendElement(document, navbar, 'div', null, [
+        ['class', 'reader-toolbar-actions']
+    ]);
+    if (list && final && !isContactPage) {
         let prev, next;
         if (single) {
-            addNavButton(document, navbar, '#top', 'arrow_upward', 'Previous');
+            addNavButton(document, actions, '#top', 'arrow_upward', 'Previous');
         }
         else if (page > 0) {
             // there is a valid previous page
             prev = list[page - 1].href;
-            addNavButton(document, navbar, prev, 'arrow_back', 'Previous');
+            addNavButton(document, actions, prev, 'arrow_back', 'Previous');
         }
         else {
-            addNavButtonDisabled(document, navbar, 'arrow_back', 'Previous');
-        }
-        if (is_touch_enabled() === true) {
-            addNavButtonDisabled(document, navbar, 'touch_app', 'lit-narrow');
+            addNavButtonDisabled(document, actions, 'arrow_back');
         }
         if (single) {
-            addNavButton(document, navbar, '#top', 'arrow_downward', 'Next');
+            addNavButton(document, actions, '#top', 'arrow_downward', 'Next');
         }
         else if (page < list.length - 1 && contents.author != "") {
             // there is a valid next page
             next = list[page + 1].href;
-            addNavButton(document, navbar, next, 'arrow_forward', 'Next');
+            addNavButton(document, actions, next, 'arrow_forward', 'Next');
         }
         else {
-            addNavButtonDisabled(document, navbar, 'arrow_forward', 'Next');
+            addNavButtonDisabled(document, actions, 'arrow_forward');
         }
         // update link rel="next"/"prev" values
         let links = document.head.getElementsByTagName("link");
@@ -429,9 +417,6 @@ async function Navigate(element) {
                 ['class', 'w3-hide-medium w3-hide-large w3-left-align'],
                 ['id', 'heading']
             ]);
-            appendElement(document, navbar, 'div', list[page].title, [
-                ['class', 'w3-bar-item lit w3-hide-small']
-            ]);
             title = list[page].title + " - " + title;
         }
         else {
@@ -448,24 +433,23 @@ async function Navigate(element) {
                     ['style', 'width: 24px']
                 ]);
             }
-            appendElement(document, navbar, 'div', nameCapsHTML(contents.title), [
-                ['class', 'w3-bar-item lit w3-hide-small']
-            ]);
         }
         if (list[page]) {
-            appendElement(document, navbar, 'div', (page + 1) + "/" + list.length, [
-                ['class', 'w3-bar-item lit w3-hide-medium w3-hide-large']
+            appendElement(document, actions, 'span', (page + 1) + "/" + list.length, [
+                ['class', 'w3-bar-item lit reader-page-counter w3-hide-medium w3-hide-large']
             ]);
         }
     }
+    else if (isContactPage) {
+        title = "How to contact us - literature.org";
+    }
     else if (final != null) {
-        // author
-        addNavButton(document, navbar, '../', 'person', 'Author', 'w3-left');
-        appendElement(document, navbar, 'a', contents.title, [
-            ['href', 'index.html']
-        ]);
         title = contents.title + " - " + title;
     }
+    if (window.initializeReaderSettings) {
+        window.initializeReaderSettings(sidebar);
+    }
+    initializeNavigationDrawer();
     // grab first paragraph and massage it into a meta description,
     // using the title as a suffix and truncating to a length of 160-ish
     let paras = article.getElementsByTagName("p");
@@ -488,6 +472,142 @@ async function Navigate(element) {
         document.head.appendChild(meta);
     }
     document.title = title;
+}
+function appendReaderCrumb(document, breadcrumbs, label, iconName, crumbName, href, current = false) {
+    let crumb = document.createElement(href ? 'a' : 'span');
+    crumb.className = `reader-breadcrumb-item reader-crumb--${crumbName}`;
+    if (!href) {
+        crumb.classList.add('reader-crumb--current');
+    }
+    else {
+        crumb.href = href;
+    }
+    if (current || !href) {
+        crumb.setAttribute('aria-current', 'page');
+    }
+    crumb.setAttribute('aria-label', label);
+    crumb.title = label;
+
+    let icon = document.createElement('i');
+    icon.className = 'material-icons reader-breadcrumb-icon';
+    icon.setAttribute('aria-hidden', 'true');
+    icon.textContent = iconName;
+    crumb.appendChild(icon);
+
+    let text = document.createElement('span');
+    text.className = 'reader-breadcrumb-label';
+    text.textContent = label;
+    crumb.appendChild(text);
+    breadcrumbs.appendChild(crumb);
+}
+function appendDrawerCrumb(document, sidebarNav, label, iconName, href, current = false) {
+    let item = appendElement(document, sidebarNav, href ? 'a' : 'span', null, [
+        ['class', `w3-bar-item ${href ? 'w3-button' : ''} litleft reader-drawer-crumb`],
+        ['aria-label', label],
+        ['title', label]
+    ]);
+    if (href) {
+        item.href = href;
+    }
+    if (current) {
+        item.setAttribute('aria-current', 'page');
+    }
+    prependElement(document, item, 'i', iconName, [
+        ['class', 'material-icons md-lit'],
+        ['aria-hidden', 'true']
+    ]);
+    appendElement(document, item, 'span', label, [
+        ['class', 'reader-drawer-label']
+    ]);
+}
+function appendChapterDropdown(document, breadcrumbs, chapters, currentTitle, currentHref) {
+    let details = document.createElement('details');
+    details.className = 'reader-chapter-menu reader-crumb--current';
+    let summary = document.createElement('summary');
+    summary.setAttribute('aria-label', `Choose a chapter; current chapter: ${currentTitle}`);
+    summary.title = currentTitle;
+    let icon = document.createElement('i');
+    icon.className = 'material-icons reader-breadcrumb-icon';
+    icon.setAttribute('aria-hidden', 'true');
+    icon.textContent = 'menu_book';
+    summary.appendChild(icon);
+    let label = document.createElement('span');
+    label.className = 'reader-breadcrumb-label';
+    label.textContent = currentTitle;
+    summary.appendChild(label);
+    icon = document.createElement('i');
+    icon.className = 'material-icons reader-chapter-menu-chevron';
+    icon.setAttribute('aria-hidden', 'true');
+    icon.textContent = 'expand_more';
+    summary.appendChild(icon);
+    details.appendChild(summary);
+
+    let menu = document.createElement('ul');
+    menu.className = 'reader-chapter-menu-list';
+    const directory = location.pathname.slice(0, location.pathname.lastIndexOf('/') + 1);
+    for (const chapter of chapters) {
+        let item = document.createElement('li');
+        let link = document.createElement('a');
+        link.href = directory + chapter.href;
+        link.textContent = chapter.title;
+        if (chapter.href === currentHref) {
+            link.setAttribute('aria-current', 'page');
+            item.classList.add('reader-chapter-current');
+        }
+        item.appendChild(link);
+        menu.appendChild(item);
+    }
+    details.appendChild(menu);
+    breadcrumbs.appendChild(details);
+}
+function appendReaderBreadcrumbs(document, navbar, contents, segments, currentTitle, currentHref) {
+    let breadcrumbs = appendElement(document, navbar, 'div', '', [
+        ['class', 'reader-breadcrumbs'],
+        ['aria-label', 'Breadcrumb']
+    ]);
+
+    if (segments.length === 0) {
+        appendReaderCrumb(document, breadcrumbs, 'Authors', 'people', 'home-authors', '/authors/');
+        return breadcrumbs;
+    }
+
+    appendReaderCrumb(document, breadcrumbs, 'Home', 'home', 'home', '/');
+    if (segments[0] !== 'authors') {
+        appendReaderCrumb(document, breadcrumbs, currentTitle, 'menu_book', 'current', '');
+        return breadcrumbs;
+    }
+
+    if (segments.length === 1) {
+        appendReaderCrumb(document, breadcrumbs, 'Authors', 'people', 'current', '/authors/', true);
+        return breadcrumbs;
+    }
+
+    if (segments.length > 2) {
+        appendReaderCrumb(document, breadcrumbs, 'Authors', 'people', 'authors', '/authors/');
+    }
+    const authorLabel = contents.author
+        ? titleCase(contents.author)
+        : segments.length === 2 ? titleCase(contents.title) : titleCase(segments[1].replace(/-/g, ' '));
+    const authorHref = segments.length === 2 ? '/authors/' : `/authors/${segments[1]}/`;
+    appendReaderCrumb(document, breadcrumbs, authorLabel, 'person',
+        segments.length === 2 ? 'current' : 'author', authorHref);
+
+    if (segments.length >= 3) {
+        const bookHref = `/authors/${segments[1]}/${segments[2]}/`;
+        appendReaderCrumb(document, breadcrumbs, contents.title, 'menu_book', 'book',
+            segments.length === 3 ? '' : bookHref);
+    }
+
+    const hasChapterMenu = contents.chapters && contents.chapters.length > 0 && segments.length >= 3;
+    if (segments.length >= 4 && !hasChapterMenu) {
+        appendReaderCrumb(document, breadcrumbs, currentTitle, 'library_books', 'current', '');
+    }
+
+    if (hasChapterMenu) {
+        appendChapterDropdown(document, breadcrumbs, contents.chapters,
+            segments.length >= 4 ? currentTitle : 'Chapters', currentHref);
+    }
+    return breadcrumbs;
 }
 // very much WIP - build an epub for the current directory
 async function CreateEPub(element) {
@@ -555,17 +675,76 @@ function swipedetect(element, callback) {
         callback(swipedir);
     }, false);
 }
-function w3_open() {
+function initializeNavigationDrawer() {
     const sidebar = document.getElementById("sidebar");
-    if (sidebar) {
-        sidebar.style.display = "block";
+    if (!sidebar || sidebar.dataset.drawerInitialized) return sidebar;
+    sidebar.dataset.drawerInitialized = "true";
+    document.addEventListener("keydown", event => {
+        if (event.key === "Escape" && sidebar.dataset.open === "true") {
+            event.preventDefault();
+            w3_close();
+        }
+    });
+    const desktopRail = window.matchMedia("(min-width: 641px)");
+    const updateDrawerAccess = () => setNavigationToggleState(sidebar.dataset.open === "true");
+    if (desktopRail.addEventListener) {
+        desktopRail.addEventListener("change", updateDrawerAccess);
+    }
+    else {
+        desktopRail.addListener(updateDrawerAccess);
+    }
+    setNavigationToggleState(readNavigationToggleState());
+    return sidebar;
+}
+
+function readNavigationToggleState() {
+    try {
+        return window.sessionStorage.getItem('literatureReaderNavigationOpen') === 'true';
+    }
+    catch (error) {
+        console.error('Could not read navigation state in this tab.', error);
+        return false;
     }
 }
-function w3_close() {
+
+function setNavigationToggleState(open) {
     const sidebar = document.getElementById("sidebar");
-    if (sidebar) {
-        sidebar.style.display = "none";
+    try {
+        window.sessionStorage.setItem('literatureReaderNavigationOpen', String(open));
     }
+    catch (error) {
+        console.error('Could not save navigation state in this tab.', error);
+    }
+    if (sidebar) {
+        sidebar.dataset.open = String(open);
+        const drawerInteractive = open || window.matchMedia("(min-width: 641px)").matches;
+        sidebar.setAttribute("aria-hidden", String(!drawerInteractive));
+        sidebar.inert = !drawerInteractive;
+    }
+    document.body.classList.toggle("reader-navigation-open", open);
+    document.querySelectorAll(".reader-menu-toggle").forEach(toggle => {
+        toggle.setAttribute("aria-expanded", String(open));
+        toggle.setAttribute("aria-label", open ? "Close navigation menu" : "Open navigation menu");
+        toggle.title = open ? "Close navigation menu" : "Open navigation menu";
+    });
+}
+function w3_open() {
+    const sidebar = initializeNavigationDrawer();
+    if (!sidebar || sidebar.dataset.open === "true") return;
+    setNavigationToggleState(true);
+    document.querySelector(".reader-menu-toggle")?.focus();
+}
+function w3_close() {
+    const sidebar = initializeNavigationDrawer();
+    if (!sidebar || sidebar.dataset.open !== "true") return;
+    const restoreFocus = sidebar.contains(document.activeElement);
+    setNavigationToggleState(false);
+    if (restoreFocus) document.querySelector(".reader-menu-toggle")?.focus();
+}
+function w3_toggle() {
+    const sidebar = initializeNavigationDrawer();
+    if (sidebar?.dataset.open === "true") w3_close();
+    else w3_open();
 }
 // sort by year or by title with short prefixes removed
 let smallre = /^(the|an|a)\s/i;
@@ -707,7 +886,7 @@ function addNavButton(document, elem, link, icon, title, classextra = '') {
         ['href', link],
         ['title', title],
         ['onclick', `return navClick('${icon}');`],
-        ['class', `w3-bar-item w3-button ${classextra}`]
+        ['class', `w3-bar-item w3-button reader-nav-button ${classextra}`]
     ]);
     appendElement(document, ahref, 'i', icon, [
         ['class', 'material-icons md-lit']
@@ -716,7 +895,7 @@ function addNavButton(document, elem, link, icon, title, classextra = '') {
 function addNavButtonDisabled(document, elem, icon, classextra = '') {
     const div = appendElement(document, elem, 'div', null, [
         ['id', icon],
-        ['class', `w3-bar-item w3-button w3-disabled ${classextra}`]
+        ['class', `w3-bar-item w3-button reader-nav-button w3-disabled ${classextra}`]
     ]);
     appendElement(document, div, 'i', icon, [
         ['class', 'material-icons md-lit']

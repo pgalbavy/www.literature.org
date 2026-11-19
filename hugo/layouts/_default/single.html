@@ -1,11 +1,7 @@
 {{ define "main" }}
 {{ $sections := split (trim .RelPermalink "/") "/" }}
-{{ partial "topbar.html" (dict "Title" .Title "BackURL" .Parent.RelPermalink "BackTitle" "Contents" "BackIcon" "menu_book") }}
-<nav class="w3-bar" style="font-size:24px; white-space: nowrap">
-  {{ with .NextInSection }}<a class="w3-bar-item w3-button" href="{{ .RelPermalink }}" title="Previous" rel="prev"><i class="material-icons md-lit">arrow_back</i></a>{{ else }}<span class="w3-bar-item w3-disabled"><i class="material-icons md-lit">arrow_back</i></span>{{ end }}
-  {{ with .PrevInSection }}<a class="w3-bar-item w3-button" href="{{ .RelPermalink }}" title="Next" rel="next"><i class="material-icons md-lit">arrow_forward</i></a>{{ else }}<span class="w3-bar-item w3-disabled"><i class="material-icons md-lit">arrow_forward</i></span>{{ end }}
-</nav>
-<article class="w3-container w3-justify">
+{{ partial "topbar.html" (dict "Title" .Title "Page" . "ShowNavigation" true) }}
+<article class="w3-container w3-justify reader-content">
   <h1 class="w3-hide-medium w3-hide-large litleft">{{ .Title }}</h1>
   {{ .Content }}
 </article>

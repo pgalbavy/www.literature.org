@@ -6,8 +6,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<meta charset="UTF-8">
 	<meta name="go-import" content="literature.org git https://github.com/pgalbavy/www.literature.org" />
-	<script src="/js/include.js"></script>
-	<script src="/js/changelog.js"></script>
+	<script src="/js/include.js?v=3"></script>
+	<script src="/js/reader-settings.js?v=5" defer></script>
 </head>
 
 <body class="hide">
@@ -19,137 +19,41 @@
 				<h3>Welcome to literature.org</h3>
 			</div>
 			<div class="w3-container">
-				<p>On this site you will find classic works of English
-					literature. Fiction from writers like <a href="/authors/carroll-lewis/">Lewis Carroll</a>, the
-					Bronte
-					sisters (<a href="/authors/bronte-anne/">Anne</a>,
-					<a href="/authors/bronte-charlotte/">Charlotte</a> and <a href="/authors/bronte-emily/">Emily</a>),
-					<a href="/authors/london-jack">Jack London</a>, <a href="/authors/twain-mark">Mark Twain</a>, <a
-						href="/authors/dickens-charles">Charles Dickens</a>,
-					non-fiction from <a href="/authors/darwin-charles/">Charles
-						Darwin</a> and
-					<a href="/authors/descartes-rene/">Rene Descartes</a> and
-					more.
-				</p>
+				<p>Welcome! Explore classic fiction and non-fiction by authors including
+					<a class="home-author-link" href="/authors/carroll-lewis/">Lewis Carroll</a>, the Brontë sisters
+					(<a class="home-author-link" href="/authors/bronte-anne/">Anne</a>,
+					<a class="home-author-link" href="/authors/bronte-charlotte/">Charlotte</a>, and
+					<a class="home-author-link" href="/authors/bronte-emily/">Emily</a>),
+					<a class="home-author-link" href="/authors/london-jack/">Jack London</a>,
+					<a class="home-author-link" href="/authors/twain-mark/">Mark Twain</a>,
+					<a class="home-author-link" href="/authors/dickens-charles/">Charles Dickens</a>,
+					<a class="home-author-link" href="/authors/darwin-charles/">Charles Darwin</a>, and
+					<a class="home-author-link" href="/authors/descartes-rene/">Rene Descartes</a>. Browse the
+					<a class="home-authors-list-link" href="/authors/"><em>Authors list</em></a> and enjoy reading at your own pace.</p>
+				<p>We will be updating the collection and improving the reading experience over the coming months.
+					Thank you for visiting; we hope you find something you love, and we
+					<a class="home-contact-link" href="/contact/">welcome your suggestions</a>.</p>
 			</div>
 			<div class="w3-container">
-				<p>Start here:
+				<h4>Start exploring</h4>
 				<article contents="contents.json"></article>
-				</p>
 			</div>
 			<div class="w3-container">
-				<p>Please let us know what you think and feel free to make suggestions.
-					For those who may not be familiar with Copyright
-					law, we are unable to make works available that are not in the
-					<a href="https://en.wikipedia.org/wiki/Public_domain">public domain</a>. This means, basically,
-					almost nothing until the
-					author has been dead for either 75 to 90 years.
-				</p>
-				<p>
-					Contact&nbsp;Us:&nbsp;<a href="mailto:contact@literature.org">contact@literature.org<a>
-				</p>
+				<p>We focus on works in the public domain, so some more recent titles cannot be offered. You can
+					<a class="home-contact-link" href="/contact/">contact us</a> with questions or suggestions.</p>
 			</div>
 		</div>
 
-		<section changelog="changelog.json"></section>
+		<p class="home-privacy-note">Privacy note: This site is served from static files and does not use cookies or
+			collect personal data. Reader settings stay in this browser and are never sent to literature.org. The
+			hosting provider may keep standard web traffic logs that we cannot access. JavaScript is required for the
+			site's navigation and reading features.</p>
 
-		<section class="w3-card">
-			<div class="w3-container w3-teal">
-				<h3>Site Update - August 2021 - Downloads are here!</h3>
-			</div>
-
-			<div class="w3-container">
-				<p>
-					It's been a quiet time for us at literature.org but recently we've added a selection of new books
-					for your to enjoy and also the first version of a new download feature!
-					Look for the Download icon on the contents page of each book (like this: <i
-						class="material-icons ml-lit">cloud_download</i>) and this will build an EPub file for you to
-					download to your device.
-				</p>
-				<p>
-					These EPub files are built dynamically entirely in your browser from the files on the web-site and
-					so if you see any problems then please check that your browser is a modern one that supports HTML5
-					and so on. All popular browsers do right now, as long as you keep them updated. If you are
-					unfortunate enough to still be using IE then it will not work.
-				</p>
-				<p>
-					We're working on adding other formats such as Mobi so that you can download books to a wider range
-					of readers, including Kindle devices, but EPub was the most straight forward to implement as it's an
-					open standard based on web technologies. Mobi (and Amazon's Kindle formats) are less
-					straightforward. You can always convert the EPub files yourself in something like the excellent
-					Calibre application.
-				</p>
-			</div>
-
-			<div class="w3-container w3-teal">
-				<h3>Site Update - June 2020</h3>
-			</div>
-
-			<div class="w3-container">
-				<p>We've made further improvements to the site and we would like to hear your comments. Just drop us an
-					email
-					at <a href="mailto:contact@literature.org">contact@literature.org</a>. Some of the changes include:
-				</p>
-				<ul class="w3-ul w3-card-4">
-					<li style="font-size: initial;"><i class="material-icons ml-lit">check</i> Links to online
-						biographies and other sites for authors and their books. This is still being filled out.</li>
-					<li style="font-size: initial;"><i class="material-icons ml-lit">check</i> The lists of authors and
-						books will now display in one, two or three columns depending on your screen size</li>
-					<li style="font-size: initial;"><i class="material-icons ml-lit">check</i> On a mobile phone, tablet
-						or other touchscreen device you can swipe left and right to move between chapters in a book</li>
-					<li style="font-size: initial;"><i class="material-icons ml-lit">check</i> More books (of course!)
-					</li>
-				</ul>
-				<p>There are more gradual changes coming, stay tuned!</p>
-			</div>
-
-			<div class="w3-container w3-teal">
-				<h3>Site Update - May 2020</h3>
-			</div>
-
-			<div class="w3-container">
-				<p>This site fell off the Internet a few years ago after some embarrassing oversights and confusion
-					around backups. Don't let this happen to you! Be more careful than we were.</p>
-				<p>The original site contents have now been mostly rescued with the wonderful help of
-					<a href="https://archive.org/web/">The Wayback Machine</a> and this
-					<a href="https://github.com/hartator/wayback-machine-downloader">Wayback Machine Downloader</a>.
-					Thanks to all those who provide these great tools for free.
-				</p>
-
-				<p>After some work and lots of learning about how web technologies have evolved we can
-					present this new version of the site. The aim has been to update the look of the site to
-					give it a more modern feel, to make it work well on different device types and to improve navigation
-					through the library.</p>
-
-				<p>For those interested all the changes are on the client side and based on
-					<a href="https://www.w3schools.com/w3css/default.asp">W3.CSS</a>. We have tried to keep the
-					client-side
-					scripting as simple as possible and to avoid large frameworks. We hope that the behind the scenes
-					changes
-					will also make it more straightforward to update and add new books.
-				</p>
-
-				<p>There will be continual improvements where possible to your experience and any suggestions are more
-					than welcome, even if we cannot promise to act on them.</p>
-			</div>
-
-			<div class="w3-container"></div>
-		</section>
-
-		<p>
-			Please note: This site collects no personal data at all. The hosting provider may collect logs of web traffic
-			but we don't see those. The site is based completely static files.
-			It does however rely on JavaScript being enabled in your browser.
-		</p>
-
-		<p>
-			About literature.org: This site, including all the code that drives it and the tools that help convert books
-			to the right format	for the site are all on <a href="https://github.com/pgalbavy/www.literature.org">GitHub</a>.
-		</p>
+		<p>About literature.org: The site and its supporting tools are available on
+			<a href="https://github.com/pgalbavy/www.literature.org">GitHub</a>.</p>
 	</article>
 
-	<div include-html="/inc/footer.html"></div>
-
-	<script>loadchangelog();</script>
+	<div include-html="/inc/footer.html?v=2"></div>
 </body>
+
 </html>

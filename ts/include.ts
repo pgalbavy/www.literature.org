@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 loadcss("/css/w3.css");
 loadcss("/css/icon.css");
-loadcss("/css/literature.css");
+loadcss("/css/literature.css?v=6");
 
 function loadcss(path) {
 	let link = document.createElement("link");
@@ -132,16 +132,14 @@ async function Contents(element) {
 
 	let ul = appendElement(document, article, 'ul', null, [
 		['id', 'contents'],
-		['class', 'w3-row w3-bar-block w3-ul w3-border w3-hoverable']
+		['class', 'w3-bar-block w3-ul w3-border w3-hoverable']
 	]);
 
 	if (contents.authors === undefined) {
 		contents.authors = [];
 	}
 	for (let a of contents.authors.sort(hrefSort)) {
-		let li = appendElement(document, ul, 'li', null, [
-			['class', 'w3-col s12 m6 l4']
-		]);
+		let li = appendElement(document, ul, 'li', null);
 		let ahref = appendElement(document, li, 'a', nameCapsHTML(a.name), [
 			['href', a.href],
 			['class', 'w3-bar-item litleft w3-button']
@@ -164,7 +162,7 @@ async function Contents(element) {
 			aliases = aliases.substring(0, aliases.length - 2)
 		}
 		let li = appendElement(document, ul, 'li', null, [
-			['class', 'w3-col w3-hover-none']
+			['class', 'w3-hover-none']
 		]);
 		let span = appendElement(document, li, 'span', nameCapsHTML(contents.title) + aliases, [
 			['class', 'w3-bar-item']
@@ -175,9 +173,7 @@ async function Contents(element) {
 	}
 
 	for (let b of contents.books.sort(bookSort)) {
-		let li = appendElement(document, ul, 'li', null, [
-			['class', 'w3-col s12 m6 l4']
-		]);
+		let li = appendElement(document, ul, 'li', null);
 
 		let ahref = appendElement(document, li, 'a', nameCapsHTML(b.title) + (b.year !== undefined ? ' (' + b.year + ')' : ''), [
 			['href', b.href],

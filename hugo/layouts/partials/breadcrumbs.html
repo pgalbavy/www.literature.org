@@ -1,0 +1,54 @@
+{{ $page := . }}
+{{ $parts := split (trim $page.RelPermalink "/") "/" }}
+<div class="reader-breadcrumbs" aria-label="Breadcrumb">
+  {{ if eq $page.RelPermalink "/" }}
+    {{ partial "breadcrumb-item.html" (dict "Label" "Authors" "Icon" "people" "Kind" "home-authors" "Href" "/authors/") }}
+  {{ else }}
+    {{ partial "breadcrumb-item.html" (dict "Label" "Home" "Icon" "home" "Kind" "home" "Href" "/") }}
+    {{ if and (eq $page.Section "authors") (ge (len $parts) 1) }}
+      {{ if eq (len $parts) 1 }}
+        {{ partial "breadcrumb-item.html" (dict "Label" "Authors" "Icon" "people" "Kind" "current" "Href" "/authors/" "Current" true) }}
+      {{ else }}
+        {{ if gt (len $parts) 2 }}
+          {{ partial "breadcrumb-item.html" (dict "Label" "Authors" "Icon" "people" "Kind" "authors" "Href" "/authors/") }}
+        {{ end }}
+        {{ $authorPage := $page.Site.GetPage (printf "/authors/%s" (index $parts 1)) }}
+        {{ if $authorPage }}
+          {{ $authorKind := "author" }}
+          {{ $authorHref := $authorPage.RelPermalink }}
+          {{ if eq (len $parts) 2 }}{{ $authorKind = "current" }}{{ $authorHref = "/authors/" }}{{ end }}
+          {{ partial "breadcrumb-item.html" (dict "Label" $authorPage.Title "Icon" "person" "Kind" $authorKind "Href" $authorHref) }}
+        {{ end }}
+        {{ if ge (len $parts) 3 }}
+          {{ $bookPage := $page.Site.GetPage (printf "/authors/%s/%s" (index $parts 1) (index $parts 2)) }}
+          {{ if $bookPage }}
+            {{ $bookKind := "book" }}
+            {{ $bookHref := $bookPage.RelPermalink }}
+            {{ if eq (len $parts) 3 }}{{ $bookKind = "current" }}{{ $bookHref = "" }}{{ end }}
+            {{ partial "breadcrumb-item.html" (dict "Label" $bookPage.Title "Icon" "menu_book" "Kind" $bookKind "Href" $bookHref) }}
+            {{ with $bookPage.Pages.ByWeight }}
+            {{ $chapterLabel := "Chapters" }}
+            {{ if ge (len $parts) 4 }}{{ $chapterLabel = $page.Title }}{{ end }}
+            <details class="reader-chapter-menu{{ if ge (len $parts) 4 }} reader-crumb--current{{ end }}">
+              <summary aria-label="Choose a chapter: {{ $chapterLabel }}" title="{{ $chapterLabel }}">
+                <i class="material-icons reader-breadcrumb-icon" aria-hidden="true">menu_book</i>
+                <span class="reader-breadcrumb-label">{{ $chapterLabel }}</span>
+                <i class="material-icons reader-chapter-menu-chevron" aria-hidden="true">expand_more</i>
+              </summary>
+              <ul class="reader-chapter-menu-list">
+                {{ range . }}
+                <li{{ if eq .RelPermalink $page.RelPermalink }} class="reader-chapter-current"{{ end }}>
+                  <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}>{{ .Title }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </details>
+            {{ end }}
+          {{ end }}
+        {{ end }}
+      {{ end }}
+    {{ else }}
+      {{ partial "breadcrumb-item.html" (dict "Label" $page.Title "Icon" "menu_book" "Kind" "current") }}
+    {{ end }}
+  {{ end }}
+</div>

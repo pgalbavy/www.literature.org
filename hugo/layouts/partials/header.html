@@ -1,7 +1,32 @@
 <nav>
-  <nav id="sidebar" class="w3-sidebar w3-bar-block w3-large" style="width:66%; max-width:400px; display:none">
-    <button class="w3-bar-item w3-button" onclick="w3_close()" type="button"><i class="material-icons md-lit">close</i> Close</button>
-    <a class="w3-bar-item w3-button" href="/"><i class="material-icons md-lit">home</i> literature.org</a>
-    <a class="w3-bar-item w3-button" href="/authors/"><i class="material-icons md-lit">people</i> Authors</a>
-  </nav>
+  <aside id="sidebar" class="reader-drawer" data-open="false" aria-hidden="true" aria-label="Site navigation" inert>
+    <nav id="sidebar-links" class="w3-bar-block w3-large" aria-label="Site navigation">
+      <a class="w3-bar-item w3-button" href="/" aria-label="literature.org" title="literature.org"><i class="material-icons md-lit" aria-hidden="true">home</i><span class="reader-drawer-label">literature.org</span></a>
+      <a class="w3-bar-item w3-button" href="/authors/" aria-label="Authors" title="Authors"><i class="material-icons md-lit" aria-hidden="true">people</i><span class="reader-drawer-label">Authors</span></a>
+      {{ $parts := split (trim .RelPermalink "/") "/" }}
+      {{ if and (eq .Section "authors") (ge (len $parts) 2) }}
+        {{ $authorPage := .Site.GetPage (printf "/authors/%s" (index $parts 1)) }}
+        {{ if $authorPage }}
+          {{ if eq (len $parts) 2 }}
+      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ $authorPage.Title }}" title="{{ $authorPage.Title }}" aria-current="page"><i class="material-icons md-lit" aria-hidden="true">person</i><span class="reader-drawer-label">{{ $authorPage.Title }}</span></span>
+          {{ else }}
+      <a class="w3-bar-item w3-button litleft reader-drawer-crumb" href="{{ $authorPage.RelPermalink }}" aria-label="{{ $authorPage.Title }}" title="{{ $authorPage.Title }}"><i class="material-icons md-lit" aria-hidden="true">person</i><span class="reader-drawer-label">{{ $authorPage.Title }}</span></a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ if and (eq .Section "authors") (ge (len $parts) 3) }}
+        {{ $bookPage := .Site.GetPage (printf "/authors/%s/%s" (index $parts 1) (index $parts 2)) }}
+        {{ if $bookPage }}
+          {{ if eq (len $parts) 3 }}
+      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ $bookPage.Title }}" title="{{ $bookPage.Title }}" aria-current="page"><i class="material-icons md-lit" aria-hidden="true">menu_book</i><span class="reader-drawer-label">{{ $bookPage.Title }}</span></span>
+          {{ else }}
+      <a class="w3-bar-item w3-button litleft reader-drawer-crumb" href="{{ $bookPage.RelPermalink }}" aria-label="{{ $bookPage.Title }}" title="{{ $bookPage.Title }}"><i class="material-icons md-lit" aria-hidden="true">menu_book</i><span class="reader-drawer-label">{{ $bookPage.Title }}</span></a>
+          {{ end }}
+        {{ end }}
+      {{ end }}
+      {{ if and (eq .Section "authors") (ge (len $parts) 4) }}
+      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ .Title }}" title="{{ .Title }}" aria-current="page"><i class="material-icons md-lit" aria-hidden="true">library_books</i><span class="reader-drawer-label">{{ .Title }}</span></span>
+      {{ end }}
+    </nav>
+  </aside>
 </nav>

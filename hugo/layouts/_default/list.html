@@ -1,39 +1,28 @@
 {{ define "main" }}
 {{ if eq .RelPermalink "/" }}
-  {{ partial "topbar.html" (dict "Title" .Title "BackURL" "" "BackTitle" "Home" "BackIcon" "home") }}
+  {{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
 {{ else if eq .Section "authors" }}
   {{ $parts := split (trim .RelPermalink "/") "/" }}
   {{ if eq (len $parts) 1 }}
-    {{ partial "topbar.html" (dict "Title" .Title "BackURL" "/" "BackTitle" "Home" "BackIcon" "home") }}
+    {{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
   {{ else if eq (len $parts) 2 }}
-    {{ partial "topbar.html" (dict "Title" .Title "BackURL" "/authors/" "BackTitle" "Authors" "BackIcon" "people") }}
+    {{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
   {{ else }}
-    {{ $authorURL := printf "/authors/%s/" (index $parts 1) }}
-    {{ partial "topbar.html" (dict "Title" .Title "BackURL" $authorURL "BackTitle" "Author" "BackIcon" "person") }}
+    {{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
   {{ end }}
 {{ else }}
-  {{ partial "topbar.html" (dict "Title" .Title "BackURL" "/" "BackTitle" "Home" "BackIcon" "home") }}
+  {{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
 {{ end }}
 <article class="w3-container w3-justify">
   <div class="w3-card-4">
     {{ if eq .RelPermalink "/" }}
       <div class="w3-container w3-teal"><h3>Welcome to literature.org</h3></div>
-      <div class="w3-container">{{ .Content }}</div>
-      {{ with site.Data.changelog }}
-      <div class="w3-container w3-teal"><h3>Recently Added Books <span class="w3-hide-small">(Latest First)</span></h3></div>
-      <ul class="w3-bar-block w3-ul w3-hoverable">
-        {{ range first 5 (sort . "lastupdated" "desc") }}
-        <li class="w3-bar-item w3-border w3-padding-small">
-          <a class="w3-bar-item litleft w3-button w3-large w3-padding-small" href="{{ .href }}"><i class="material-icons md-lit w3-margin-right">menu_book</i> {{ .title }}</a>
-        </li>
-        {{ end }}
-      </ul>
-      {{ end }}
+      <div class="w3-container home-welcome">{{ .Content }}</div>
     {{ else }}
       <div class="w3-container w3-teal"><h3>{{ .Title }}</h3></div>
-      <ul class="w3-row w3-bar-block w3-ul w3-border w3-hoverable">
+      <ul class="w3-bar-block w3-ul w3-border w3-hoverable">
         {{ range .Pages.ByWeight }}
-        <li class="w3-col s12 m6 l4">
+        <li>
           <a class="w3-bar-item litleft w3-button" href="{{ .RelPermalink }}">
             {{ if eq .Kind "section" }}<i class="material-icons md-lit w3-margin-right">{{ if eq .Section "authors" }}person{{ else }}menu_book{{ end }}</i>{{ end }}
             {{ .Title }}

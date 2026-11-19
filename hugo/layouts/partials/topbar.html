@@ -1,13 +1,10 @@
-<nav class="w3-bar" style="font-size:24px; white-space: nowrap">
-  <button class="w3-bar-item w3-button" onclick="w3_open()" type="button" title="Open navigation"><i class="material-icons md-lit">menu</i></button>
-
-  {{ with .BackURL }}
-  <a class="w3-bar-item w3-button w3-left" href="{{ . }}" title="{{ $.BackTitle }}">
-    <i class="material-icons md-lit">{{ $.BackIcon }}</i>
-  </a>
-  {{ else }}
-  <a class="w3-bar-item w3-button w3-left" href="/" title="Home"><i class="material-icons md-lit">home</i></a>
+<nav class="w3-bar reader-toolbar" style="font-size:24px; white-space: nowrap">
+  <button class="w3-bar-item w3-button reader-menu-toggle" onclick="w3_toggle()" type="button" title="Open navigation menu" aria-label="Open navigation menu" aria-controls="sidebar" aria-expanded="false"><i class="material-icons md-lit">menu</i></button>
+  {{ partial "breadcrumbs.html" .Page }}
+  {{ if .ShowNavigation }}
+  <div class="reader-toolbar-actions">
+    {{ with .Page.NextInSection }}<a class="w3-bar-item w3-button reader-nav-button" href="{{ .RelPermalink }}" title="Previous" aria-label="Previous" rel="prev"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button" title="No previous chapter" aria-label="No previous chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></span>{{ end }}
+    {{ with .Page.PrevInSection }}<a class="w3-bar-item w3-button reader-nav-button" href="{{ .RelPermalink }}" title="Next" aria-label="Next" rel="next"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button" title="No next chapter" aria-label="No next chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></span>{{ end }}
+  </div>
   {{ end }}
-
-  <div class="w3-bar-item lit w3-hide-small">{{ .Title }}</div>
 </nav>

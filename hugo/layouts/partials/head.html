@@ -3,7 +3,15 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ if .Title }}{{ .Title }} - {{ end }}literature.org</title>
   {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+  <script>
+    try {
+      document.documentElement.dataset.readerNavigationOpen =
+        String(sessionStorage.getItem("literatureReaderNavigationOpen") === "true");
+    } catch (error) {
+      console.error("Could not read navigation state in this tab.", error);
+    }
+  </script>
   <link rel="stylesheet" href="/css/w3.css">
   <link rel="stylesheet" href="/css/icon.css">
-  <link rel="stylesheet" href="/css/literature.css">
+  <link rel="stylesheet" href="/css/literature.css?v=6">
 </head>

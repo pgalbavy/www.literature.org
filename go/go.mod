@@ -1,7 +1,7 @@
 module literature.org/go
 
-go 1.14
+go 1.27.4
 
 replace literature.org/go => ../go
 
-require golang.org/x/text v0.3.6
+require golang.org/x/text v0.44.0
