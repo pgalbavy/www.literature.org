@@ -110,6 +110,17 @@ article.reader-content p[id^="reader-paragraph-"] {
 	scroll-margin-top: 3.5rem;
 }
 
+article li {
+	overflow-wrap: anywhere;
+}
+
+article .w3-bar-item.litleft {
+	overflow-x: visible;
+	overflow-wrap: anywhere;
+	text-overflow: clip;
+	white-space: normal;
+}
+
 .home-author-link,
 .home-authors-list-link,
 .home-contact-link,

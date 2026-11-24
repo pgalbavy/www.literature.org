@@ -269,6 +269,7 @@
     if ((window.location.pathname === "/" || window.location.pathname === "/index.html") &&
         !window.location.search && !window.location.hash) {
       try {
+        if (document.referrer && new URL(document.referrer).origin === window.location.origin) return;
         const savedLocation = localStorage.getItem(lastLocationKey);
         if (!savedLocation) return;
         const destination = new URL(savedLocation, window.location.origin);
