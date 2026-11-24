@@ -2,11 +2,11 @@
 
 (() => {
   const storageKey = "literature.org.readerSettings";
-  const defaults = { width: "normal", font: "open-sans", size: "medium", theme: "system" };
+  const defaults = { width: "normal", font: "open-sans", size: 16, theme: "system" };
+  const legacySizes = { small: 14, medium: 16, large: 20 };
   const allowed = {
     width: ["narrow", "normal", "wide"],
     font: ["open-sans", "karla", "georgia", "times", "arial", "verdana", "opendyslexic"],
-    size: ["small", "medium", "large"],
     theme: ["light", "dark", "system"]
   };
   let settings = { ...defaults };
@@ -14,6 +14,7 @@
   let status;
 
   function isAllowed(key, value) {
+    if (key === "size") return Number.isInteger(value) && value >= 6 && value <= 32;
     return allowed[key].includes(value);
   }
 
@@ -23,6 +24,7 @@
     root.dataset.readerFont = settings.font;
     root.dataset.readerSize = settings.size;
     root.dataset.readerTheme = settings.theme;
+    root.style.setProperty("--reader-font-size", `${settings.size}pt`);
   }
 
   function loadSettings() {
@@ -36,7 +38,11 @@
       }
 
       for (const key of Object.keys(defaults)) {
-        if (isAllowed(key, parsed[key])) settings[key] = parsed[key];
+        const value = key === "size" && typeof parsed.size === "string" &&
+          Object.prototype.hasOwnProperty.call(legacySizes, parsed.size)
+          ? legacySizes[parsed.size]
+          : parsed[key];
+        if (isAllowed(key, value)) settings[key] = value;
       }
     } catch (error) {
       console.error("Could not read saved reader settings.", error);
@@ -62,6 +68,8 @@
         control.value = settings[control.name];
       }
     });
+    dialog.querySelector("#reader-settings-size-value").value = `${settings.size} pt`;
+    dialog.querySelector("#reader-settings-size").setAttribute("aria-valuetext", `${settings.size} points`);
   }
 
   function createDialog() {
@@ -96,12 +104,21 @@
         <option value="times">Times New Roman (serif)</option>
         <option value="verdana">Verdana (sans-serif)</option>
       </select>
-      <label class="reader-settings-field" for="reader-settings-size">Font size</label>
-      <select id="reader-settings-size" name="size">
-        <option value="small">Small</option>
-        <option value="medium">Medium (default)</option>
-        <option value="large">Large</option>
-      </select>
+      <label class="reader-settings-field" for="reader-settings-size">Font size
+        <output id="reader-settings-size-value" for="reader-settings-size">16 pt</output>
+      </label>
+      <input id="reader-settings-size" name="size" type="range" min="6" max="32" step="1" value="16"
+        list="reader-settings-size-ticks" aria-describedby="reader-settings-size-value reader-settings-size-limits">
+      <datalist id="reader-settings-size-ticks">
+        <option value="6"></option><option value="8"></option><option value="10"></option>
+        <option value="12"></option><option value="14"></option><option value="16"></option>
+        <option value="18"></option><option value="20"></option><option value="22"></option>
+        <option value="24"></option><option value="26"></option><option value="28"></option>
+        <option value="30"></option><option value="32"></option>
+      </datalist>
+      <div id="reader-settings-size-limits" class="reader-settings-size-limits" aria-hidden="true">
+        <span>6 pt</span><span>32 pt</span>
+      </div>
       <label class="reader-settings-field" for="reader-settings-theme">Theme</label>
       <select id="reader-settings-theme" name="theme">
         <option value="light">Light</option>
@@ -131,11 +148,69 @@
     });
     dialog.addEventListener("change", (event) => {
       const control = event.target;
-      if (!control.name || !isAllowed(control.name, control.value)) return;
-      settings[control.name] = control.value;
+      if (!control.name) return;
+      const value = control.name === "size" ? Number(control.value) : control.value;
+      if (!isAllowed(control.name, value)) return;
+      settings[control.name] = value;
       applySettings();
       saveSettings();
     });
+    dialog.addEventListener("input", (event) => {
+      const control = event.target;
+      if (control.name !== "size") return;
+      const value = Number(control.value);
+      if (!isAllowed("size", value)) return;
+      settings.size = value;
+      applySettings();
+      dialog.querySelector("#reader-settings-size-value").value = `${value} pt`;
+      control.setAttribute("aria-valuetext", `${value} points`);
+    });
+  }
+
+  function initializeFontSizePinch() {
+    const article = document.querySelector("article.reader-content");
+    if (!article || article.dataset.fontSizePinchInitialized) return;
+    article.dataset.fontSizePinchInitialized = "true";
+
+    let pinch;
+    const distanceBetweenTouches = (touches) => {
+      const deltaX = touches[0].pageX - touches[1].pageX;
+      const deltaY = touches[0].pageY - touches[1].pageY;
+      return Math.hypot(deltaX, deltaY);
+    };
+    const finishPinch = () => {
+      if (pinch?.changed) saveSettings();
+      pinch = undefined;
+    };
+
+    article.addEventListener("touchstart", (event) => {
+      if (event.touches.length !== 2) {
+        if (event.touches.length > 2) finishPinch();
+        return;
+      }
+      if (event.target instanceof Element && event.target.closest("a, button, input, select, textarea")) return;
+      const distance = distanceBetweenTouches(event.touches);
+      if (distance === 0) return;
+      pinch = { distance, size: settings.size, changed: false };
+    }, { passive: true });
+
+    article.addEventListener("touchmove", (event) => {
+      if (!pinch || event.touches.length !== 2) return;
+      event.preventDefault();
+      const size = Math.min(32, Math.max(6, Math.round(
+        pinch.size * distanceBetweenTouches(event.touches) / pinch.distance
+      )));
+      if (size === settings.size) return;
+      settings.size = size;
+      pinch.changed = true;
+      applySettings();
+      syncControls();
+    }, { passive: false });
+
+    article.addEventListener("touchend", (event) => {
+      if (event.touches.length < 2) finishPinch();
+    }, { passive: true });
+    article.addEventListener("touchcancel", finishPinch, { passive: true });
   }
 
   function addSettingsButton(drawer) {
@@ -162,6 +237,7 @@
       applySettings();
       syncControls();
     }
+    initializeFontSizePinch();
     addSettingsButton(drawer);
   };
 

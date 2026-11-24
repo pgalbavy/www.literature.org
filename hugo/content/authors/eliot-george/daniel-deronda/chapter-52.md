@@ -4,61 +4,271 @@ weight: 52
 url: "/authors/eliot-george/daniel-deronda/chapter-52.html"
 ---
 
-"La même fermeté qui sert à résister à l'amour sert aussi à le rendre violent et durable; et les personnes faibles qui sont toujours agitées des passions n'en sont presque jamais véritablement remplies." - LA ROCHEFOUCAULD.
+&quot;La m&ecirc;me fermet&eacute; qui sert &agrave; r&eacute;sister &agrave; l'amour sert aussi &agrave; le rendre violent et durable; et les personnes faibles qui sont toujours agit&eacute;es des passions n'en sont presque jamais v&eacute;ritablement remplies.&quot; - LA ROCHEFOUCAULD.
 
 Among Deronda's letters the next morning was one from Hans Meyrick of four quarto pages, in the small, beautiful handwriting which ran in the Meyrick family.
 
-Some months before, this letter from Hans would have divided Deronda's thoughts irritatingly: its romancing, about Mirah would have had an unpleasant edge, scarcely anointed with any commiseration for his friend's probable disappointment. But things had altered since March. Mirah was no longer so critically placed with regard to the Meyricks, and Deronda's own position had been undergoing a change which had just been crowned by the revelation of his birth. The new opening toward the future, though he would not trust in any definite visions, inevitably shed new lights, and influenced his mood toward past and present; hence, what Hans called his hope now seemed to Deronda, not a mischievous unreasonableness which roused his indignation, but an unusually persistent bird-dance of an extravagant fancy, and he would have felt quite able to pity any consequent suffering of his friend's, if he had believed in the suffering as probable. But some of the busy thought filling that long day, which passed without his receiving any new summons from his mother, was given to the argument that Hans Meyrick's nature was not one in which love could strike the deep roots that turn disappointment into sorrow: it was too restless, too readily excitable by novelty, too ready to turn itself into imaginative material, and wear its grief as a fantastic costume. "Already he is beginning to play at love: he is taking the whole affair as a comedy," said Deronda to himself; "he knows very well that there is no chance for him. Just like him - never opening his eyes on any possible objection I could have to receive his outpourings about Mirah. Poor old Hans! If we were under a fiery hail together he would howl like a Greek, and if I did not howl too it would never occur to him that I was as badly off as he. And yet he is tender-hearted and affectionate in intention, and I can't say that he is not active in imagining what goes on in other people - but then he always imagines it to fit his own inclination."
+> MY DEAR DERONDA, - In return for your sketch of Italian movements and  
+> your view of the world's affairs generally, I may say that here at  
+> home the most judicious opinion going as to the effects of present  
+> causes is that &quot;time will show.&quot; As to the present causes of past  
+> effects, it is now seen that the late swindling telegrams account for  
+> the last year's cattle plague - which is a refutation of philosophy  
+> falsely so called, and justifies the compensation to the farmers. My  
+> own idea that a murrain will shortly break out in the commercial  
+> class, and that the cause will subsequently disclose itself in the  
+> ready sale of all rejected pictures, has been called an unsound use of  
+> analogy; but there are minds that will not hesitate to rob even the  
+> neglected painter of his solace. To my feeling there is great beauty  
+> in the conception that some bad judge might give a high price for my  
+> Berenice series, and that the men in the city would have already been  
+> punished for my ill-merited luck.
+
+> Meanwhile I am consoling myself for your absence by finding my  
+> advantage in it - shining like Hesperus when Hyperion has departed;  
+> sitting with our Hebrew prophet, and making a study of his head, in  
+> the hours when he used to be occupied with you - getting credit with  
+> him as a learned young Gentile, who would have been a Jew if he could  
+> - and agreeing with him in the general principle, that whatever is  
+> best is for that reason Jewish. I never held it my forte to be  
+> a severe reasoner, but I can see that if whatever is best is A, and B  
+> happens to be best, B must be A, however little you might have  
+> expected it beforehand. On that principle I could see the force of a  
+> pamphlet I once read to prove that all good art was Protestant.  
+> However, our prophet is an uncommonly interesting sitter - a better  
+> model than Rembrandt had for his Rabbi - and I never come away from him  
+> without a new discovery. For one thing, it is a constant wonder to me  
+> that, with all his fiery feeling for his race and their traditions, he  
+> is no straight-laced Jew, spitting after the word Christian, and  
+> enjoying the prospect that the Gentile mouth will water in vain for a  
+> slice of the roasted Leviathan, while Israel will be sending up plates  
+> for more, ad libitum, (You perceive that my studies had taught  
+> me what to expect from the orthodox Jew.) I confess that I have always  
+> held lightly by your account of Mordecai, as apologetic, and merely  
+> part of your disposition to make an antedeluvian point of view lest  
+> you should do injustice to the megatherium. But now I have given ear  
+> to him in his proper person, I find him really a sort of  
+> philosophical-allegorical-mystical believer, and yet with a sharp  
+> dialectic point, so that any argumentative rattler of peas in a  
+> bladder might soon be pricked in silence by him. The mixture may be  
+> one of the Jewish prerogatives, for what I know. In fact, his mind  
+> seems so broad that I find my own correct opinions lying in it quite  
+> commodiously, and how they are to be brought into agreement with the  
+> vast remainder is his affair, not mine. I leave it to him to settle  
+> our basis, never yet having seen a basis which is not a world-  
+> supporting elephant, more or less powerful and expensive to keep. My  
+> means will not allow me to keep a private elephant. I go into mystery  
+> instead, as cheaper and more lasting - a sort of gas which is likely to  
+> be continually supplied by the decomposition of the elephants. And if  
+> I like the look of an opinion, I treat it civilly, without suspicious  
+> inquiries. I have quite a friendly feeling toward Mordecai's notion  
+> that a whole Christian is three-fourths a Jew, and that from the  
+> Alexandrian time downward the most comprehensive minds have been  
+> Jewish; for I think of pointing out to Mirah that, Arabic and other  
+> incidents of life apart, there is really little difference between me  
+> and - Maimonides. But I have lately been finding out that it is your  
+> shallow lover who can't help making a declaration. If Mirah's ways  
+> were less distracting, and it were less of a heaven to be in her  
+> presence and watch her, I must long ago have flung myself at her feet,  
+> and requested her to tell me, with less indirectness, whether she  
+> wished me to blow my brains out. I have a knack of hoping, which is as  
+> good as an estate in reversion, if one can keep from the temptation of  
+> turning it into certainty, which may spoil all. My Hope wanders among  
+> the orchard blossoms, feels the warm snow falling on it through the  
+> sunshine, and is in doubt of nothing; but, catching sight of Certainty  
+> in the distance, sees an ugly Janus-faced deity, with a dubious wink  
+> on the hither side of him, and turns quickly away. But you, with your  
+> supreme reasonableness, and self-nullification, and preparation for  
+> the worst - you know nothing about Hope, that immortal, delicious  
+> maiden forever courted forever propitious, whom fools have called  
+> deceitful, as if it were Hope that carried the cup of disappointment,  
+> whereas it is her deadly enemy, Certainty, whom she only escapes by  
+> transformation. (You observe my new vein of allegory?) Seriously,  
+> however, I must be permitted to allege that truth will prevail, that  
+> prejudice will melt before it, that diversity, accompanied by merit,  
+> will make itself felt as fascination, and that no virtuous aspiration  
+> will be frustrated - all which, if I mistake not, are doctrines of the  
+> schools, and they imply that the Jewess I prefer will prefer me. Any  
+> blockhead can cite generalities, but the mind-master discerns the  
+> particular cases they represent.
+
+> I am less convinced that my society makes amends to Mordecai for your  
+> absence, but another substitute occasionally comes in the form of  
+> Jacob Cohen. It is worth while to catch our prophet's expression when  
+> he has that remarkable type of young Israel on his knee, and pours  
+> forth some Semitic inspiration with a sublime look of melancholy  
+> patience and devoutness. Sometimes it occurs to Jacob that Hebrew will  
+> be more edifying to him if he stops his ears with his palms, and  
+> imitates the venerable sounds as heard through that muffled medium.  
+> When Mordecai gently draws down the little fists and holds them fast,  
+> Jacob's features all take on an extraordinary activity, very much as  
+> if he was walking through a menagerie and trying to imitate every  
+> animal in turn, succeeding best with the owl and the peccary. But I  
+> dare say you have seen something of this. He treats me with the  
+> easiest familiarity, and seems in general to look at me as a second-  
+> hand Christian commodity, likely to come down in price; remarking on  
+> my disadvantages with a frankness which seems to imply some thoughts  
+> of future purchase. It is pretty, though, to see the change in him if  
+> Mirah happens to come in. He turns child suddenly - his age usually  
+> strikes one as being like the Israelitish garments in the desert,  
+> perhaps near forty, yet with an air of recent production. But, with  
+> Mirah, he reminds me of the dogs that have been brought up by women,  
+> and remain manageable by them only. Still, the dog is fond of Mordecai  
+> too, and brings sugar-plums to share with him, filling his own mouth  
+> to rather an embarrassing extent, and watching how Mordecai deals with  
+> a smaller supply. Judging from this modern Jacob at the age of six, my  
+> astonishment is that his race has not bought us all up long ago, and  
+> pocketed our feebler generations in the form of stock and scrip, as so  
+> much slave property. There is one Jewess I should not mind being slave  
+> to. But I wish I did not imagine that Mirah gets a little sadder, and  
+> tries all the while to hide it. It is natural enough, of course, while  
+> she has to watch the slow death of this brother, whom she has taken to  
+> worshipping with such looks of loving devoutness that I am ready to  
+> wish myself in his place.
+
+> For the rest, we are a little merrier than usual. Rex Gascoigne - you  
+> remember a head you admired among my sketches, a fellow with a good  
+> upper lip, reading law - has got some rooms in town now not far off us,  
+> and has had a neat sister (upper lip also good) staying with him the  
+> last fortnight. I have introduced them both to my mother and the  
+> girls, who have found out from Miss Gascoigne that she is cousin to  
+> your Vandyke duchess!!! I put the notes of exclamation to mark the  
+> surprise that the information at first produced on my feeble  
+> understanding. On reflection I discovered that there was not the least  
+> ground for surprise, unless I had beforehand believed that nobody  
+> could be anybody's cousin without my knowing it. This sort of  
+> surprise, I take it, depends on a liveliness of the spine, with a more  
+> or less constant nullity of brain. There was a fellow I used to meet  
+> at Rome who was in an effervescence of surprise at contact with the  
+> simplest information. Tell him what you would - that you were fond of  
+> easy boots - he would always say, &quot;No! are you?&quot; with the same energy  
+> of wonder: the very fellow of whom pastoral Browne wrote  
+> prophetically -
+
+> &quot;A wretch so empty that if e'er there be  
+> In nature found the least vacuity  
+> 'Twill be in him.&quot;
+
+> I have accounted for it all - he had a lively spine.
+
+> However, this cousinship with the duchess came out by chance one day  
+> that Mirah was with them at home and they were talking about the  
+> Mallingers. Apropos; I am getting so important that I have  
+> rival invitations. Gascoigne wants me to go down with him to his  
+> father's rectory in August and see the country round there. But I  
+> think self-interest well understood will take me to Topping Abbey, for  
+> Sir Hugo has invited me, and proposes - God bless him for his rashness!  
+> - that I should make a picture of his three daughters sitting on a  
+> bank - as he says, in the Gainsborough style. He came to my studio the  
+> other day and recommended me to apply myself to portrait. Of course I  
+> know what that means. - &quot;My good fellow, your attempts at the historic  
+> and poetic are simply pitiable. Your brush is just that of a  
+> successful portrait-painter - it has a little truth and a great  
+> facility in falsehood - your idealism will never do for gods and  
+> goddesses and heroic story, but it may fetch a high price as flattery.  
+> Fate, my friend, has made you the hinder wheel - _rota posterior  
+> curras, et in axe secundo_ - run behind, because you can't help it.&quot;  
+> - What great effort it evidently costs our friends to give us these  
+> candid opinions! I have even known a man to take the trouble to call,  
+> in order to tell me that I had irretrievably exposed my want of  
+> judgment in treating my subject, and that if I had asked him we would  
+> have lent me his own judgment. Such was my ingratitude and my  
+> readiness at composition, that even while he was speaking I inwardly  
+> sketched a Last Judgment with that candid friend's physiognomy on the  
+> left. But all this is away from Sir Hugo, whose manner of implying  
+> that one's gifts are not of the highest order is so exceedingly good-  
+> natured and comfortable that I begin to feel it an advantage not to be  
+> among those poor fellows at the tip-top. And his kindness to me tastes  
+> all the better because it comes out of his love for you, old boy. His  
+> chat is uncommonly amusing. By the way, he told me that your Vandyke  
+> duchess is gone with her husband yachting to the Mediterranean. I  
+> bethink me that it is possible to land from a yacht, or to be taken on  
+> to a yacht from the land. Shall you by chance have an opportunity of  
+> continuing your theological discussion with the fair Supralapsarian - I  
+> think you said her tenets were of that complexion? Is Duke Alphonso  
+> also theological? - perhaps an Arian who objects to triplicity. (Stage  
+> direction. While D. is reading, a profound scorn gathers in his face  
+> till at the last word he flings down the letter, grasps his coat-  
+> collar in a statuesque attitude and so remains with a look generally  
+> tremendous, throughout the following soliloquy, &quot;O night, O blackness,  
+> etc., etc.&quot;)
+
+> Excuse the brevity of this letter. You are not used to more from me  
+> than a bare statement of facts, without comment or digression. One  
+> fact I have omitted - that the Klesmers on the eve of departure have  
+> behaved magnificently, shining forth as might be expected from the  
+> planets of genius and fortune in conjunction. Mirah is rich with their  
+> oriental gifts.
+
+> What luck it will be if you come back and present yourself at the  
+> Abbey while I am there! I am going to behave with consummate  
+> discretion and win golden opinions, But I shall run up to town now and  
+> then, just for a peep into Gad Eden. You see how far I have got in  
+> Hebrew lore - up with my Lord Bolingbroke, who knew no Hebrew, but  
+> &quot;understood that sort of learning and what is writ about it.&quot; If Mirah  
+> commanded, I would go to a depth below the tri-literal roots. Already  
+> it makes no difference to me whether the points are there or not. But  
+> while her brother's life lasts I suspect she would not listen to a  
+> lover, even one whose &quot;hair is like a flock of goats on Mount Gilead&quot;  
+> - and I flatter myself that few heads would bear that trying  
+> comparison better than mine. So I stay with my hope among the orchard-  
+> blossoms.
+
+> Your devoted,
+
+> HANS MEYRICK.
+
+Some months before, this letter from Hans would have divided Deronda's thoughts irritatingly: its romancing, about Mirah would have had an unpleasant edge, scarcely anointed with any commiseration for his friend's probable disappointment. But things had altered since March. Mirah was no longer so critically placed with regard to the Meyricks, and Deronda's own position had been undergoing a change which had just been crowned by the revelation of his birth. The new opening toward the future, though he would not trust in any definite visions, inevitably shed new lights, and influenced his mood toward past and present; hence, what Hans called his hope now seemed to Deronda, not a mischievous unreasonableness which roused his indignation, but an unusually persistent bird-dance of an extravagant fancy, and he would have felt quite able to pity any consequent suffering of his friend's, if he had believed in the suffering as probable. But some of the busy thought filling that long day, which passed without his receiving any new summons from his mother, was given to the argument that Hans Meyrick's nature was not one in which love could strike the deep roots that turn disappointment into sorrow: it was too restless, too readily excitable by novelty, too ready to turn itself into imaginative material, and wear its grief as a fantastic costume. &quot;Already he is beginning to play at love: he is taking the whole affair as a comedy,&quot; said Deronda to himself; &quot;he knows very well that there is no chance for him. Just like him - never opening his eyes on any possible objection I could have to receive his outpourings about Mirah. Poor old Hans! If we were under a fiery hail together he would howl like a Greek, and if I did not howl too it would never occur to him that I was as badly off as he. And yet he is tender-hearted and affectionate in intention, and I can't say that he is not active in imagining what goes on in other people - but then he always imagines it to fit his own inclination.&quot;
 
 With this touch of causticity Deronda got rid of the slight heat at present raised by Hans's naive expansiveness. The nonsense about Gwendolen, conveying the fact that she was gone yachting with her husband, only suggested a disturbing sequel to his own strange parting with her. But there was one sentence in the letter which raised a more immediate, active anxiety. Hans's suspicion of a hidden sadness in Mirah was not in the direction of his wishes, and hence, instead of distrusting his observation here, Deronda began to conceive a cause for the sadness. Was it some event that had occurred during his absence, or only the growing fear of some event? Was it something, perhaps alterable, in the new position which had been made for her? Or - had Mordecai, against his habitual resolve, communicated to her those peculiar cherished hopes about him, Deronda, and had her quickly sensitive nature been hurt by the discovery that her brother's will or tenacity of visionary conviction had acted coercively on their friendship - been hurt by the fear that there was more of pitying self-suppression than of equal regard in Deronda's relation to him? For amidst all Mirah's quiet renunciation, the evident thirst of soul with which she received the tribute of equality implied a corresponding pain if she found that what she had taken for a purely reverential regard toward her brother had its mixture of condescension.
 
 In this last conjecture of Deronda's he was not wrong as to the quality in Mirah's nature on which he was founding - the latent protest against the treatment she had all her life being subject to until she met him. For that gratitude which would not let her pass by any notice of their acquaintance without insisting on the depth of her debt to him, took half its fervor from the keen comparison with what others had thought enough to render to her. Deronda's affinity in feeling enabled him to penetrate such secrets. But he was not near the truth in admitting the idea that Mordecai had broken his characteristic reticence. To no soul but Deronda himself had he yet breathed the history of their relation to each other, or his confidence about his friend's origin: it was not only that these subjects were for him too sacred to be spoken of without weighty reason, but that he had discerned Deronda's shrinking at any mention of his birth; and the severity of reserve which had hindered Mordecai from answering a question on a private affair of the Cohen family told yet more strongly here.
 
-"Ezra, how is it?" Mirah one day said to him - "I am continually going to speak to Mr. Deronda as if he were a Jew?"
+&quot;Ezra, how is it?&quot; Mirah one day said to him - &quot;I am continually going to speak to Mr. Deronda as if he were a Jew?&quot;
 
-He smiled at her quietly, and said, "I suppose it is because he treats us as if he were our brother. But he loves not to have the difference of birth dwelt upon."
+He smiled at her quietly, and said, &quot;I suppose it is because he treats us as if he were our brother. But he loves not to have the difference of birth dwelt upon.&quot;
 
-"He has never lived with his parents, Mr. Hans, says," continued Mirah, to whom this was necessarily a question of interest about every one for whom she had a regard.
+&quot;He has never lived with his parents, Mr. Hans, says,&quot; continued Mirah, to whom this was necessarily a question of interest about every one for whom she had a regard.
 
-"Seek not to know such things from Mr. Hans," said Mordecai, gravely, laying his hand on her curls, as he was wont. "What Daniel Deronda wishes us to know about himself is for him to tell us."
+&quot;Seek not to know such things from Mr. Hans,&quot; said Mordecai, gravely, laying his hand on her curls, as he was wont. &quot;What Daniel Deronda wishes us to know about himself is for him to tell us.&quot;
 
 And Mirah felt herself rebuked, as Deronda had done. But to be rebuked in this way by Mordecai made her rather proud.
 
-"I see no one so great as my brother," she said to Mrs. Meyrick one day that she called at the Chelsea house on her way home, and, according to her hope, found the little mother alone. "It is difficult to think that he belongs to the same world as those people I used to live amongst. I told you once that they made life seem like a madhouse; but when I am with Ezra he makes me feel that his life is a great good, though he has suffered so much; not like me, who wanted to die because I had suffered a little, and only for a little while. His soul is so full, it is impossible for him to wish for death as I did. I get the same sort of feeling from him that I got yesterday, when I was tired, and came home through the park after the sweet rain had fallen and the sunshine lay on the grass and flowers. Everything in the sky and under the sky looked so pure and beautiful that the weariness and trouble and folly seemed only a small part of what is, and I became more patient and hopeful."
+&quot;I see no one so great as my brother,&quot; she said to Mrs. Meyrick one day that she called at the Chelsea house on her way home, and, according to her hope, found the little mother alone. &quot;It is difficult to think that he belongs to the same world as those people I used to live amongst. I told you once that they made life seem like a madhouse; but when I am with Ezra he makes me feel that his life is a great good, though he has suffered so much; not like me, who wanted to die because I had suffered a little, and only for a little while. His soul is so full, it is impossible for him to wish for death as I did. I get the same sort of feeling from him that I got yesterday, when I was tired, and came home through the park after the sweet rain had fallen and the sunshine lay on the grass and flowers. Everything in the sky and under the sky looked so pure and beautiful that the weariness and trouble and folly seemed only a small part of what is, and I became more patient and hopeful.&quot;
 
 A dove-like note of melancholy in this speech caused Mrs. Meyrick to look at Mirah with new examination. After laying down her hat and pushing her curls flat, with an air of fatigue, she placed herself on a chair opposite her friend in her habitual attitude, her feet and hands just crossed; and at a distance she might have seemed a colored statue of serenity. But Mrs. Meyrick discerned a new look of suppressed suffering in her face, which corresponded to the hint that to be patient and hopeful required some extra influence.
 
-"Is there any fresh trouble on your mind, my dear?" said Mrs. Meyrick, giving up her needlework as a sign of concentrated attention.
+&quot;Is there any fresh trouble on your mind, my dear?&quot; said Mrs. Meyrick, giving up her needlework as a sign of concentrated attention.
 
-Mirah hesitated before she said, "I am too ready to speak of troubles, I think. It seems unkind to put anything painful into other people's minds, unless one were sure it would hinder something worse. And perhaps I am too hasty and fearful."
+Mirah hesitated before she said, &quot;I am too ready to speak of troubles, I think. It seems unkind to put anything painful into other people's minds, unless one were sure it would hinder something worse. And perhaps I am too hasty and fearful.&quot;
 
-"Oh, my dear, mothers are made to like pain and trouble for the sake of their children. Is it because the singing lessons are so few, and are likely to fall off when the season comes to an end? Success in these things can't come all at once." Mrs. Meyrick did not believe that she was touching the real grief; but a guess that could be corrected would make an easier channel for confidence.
+&quot;Oh, my dear, mothers are made to like pain and trouble for the sake of their children. Is it because the singing lessons are so few, and are likely to fall off when the season comes to an end? Success in these things can't come all at once.&quot; Mrs. Meyrick did not believe that she was touching the real grief; but a guess that could be corrected would make an easier channel for confidence.
 
-"No, not that," said Mirah, shaking her head gently. "I have been a little disappointed because so many ladies said they wanted me to give them or their daughters lessons, and then I never heard of them again, But perhaps after the holidays I shall teach in some schools. Besides, you know, I am as rich as a princess now. I have not touched the hundred pounds that Mrs. Klesmer gave me; and I should never be afraid that Ezra would be in want of anything, because there is Mr. Deronda," and he said, "It is the chief honor of my life that your brother will share anything with me. Oh, no! Ezra and I can have no fears for each other about such things as food and clothing."
+&quot;No, not that,&quot; said Mirah, shaking her head gently. &quot;I have been a little disappointed because so many ladies said they wanted me to give them or their daughters lessons, and then I never heard of them again, But perhaps after the holidays I shall teach in some schools. Besides, you know, I am as rich as a princess now. I have not touched the hundred pounds that Mrs. Klesmer gave me; and I should never be afraid that Ezra would be in want of anything, because there is Mr. Deronda,&quot; and he said, &quot;It is the chief honor of my life that your brother will share anything with me. Oh, no! Ezra and I can have no fears for each other about such things as food and clothing.&quot;
 
-"But there is some other fear on your mind," said Mrs. Meyrick not without divination - "a fear of something that may disturb your peace; Don't be forecasting evil, dear child, unless it is what you can guard against. Anxiety is good for nothing if we can't turn it into a defense. But there's no defense against all the things that might be. Have you any more reason for being anxious now than you had a month ago?"
+&quot;But there is some other fear on your mind,&quot; said Mrs. Meyrick not without divination - &quot;a fear of something that may disturb your peace; Don't be forecasting evil, dear child, unless it is what you can guard against. Anxiety is good for nothing if we can't turn it into a defense. But there's no defense against all the things that might be. Have you any more reason for being anxious now than you had a month ago?&quot;
 
-"Yes, I have," said Mirah. "I have kept it from Ezra. I have not dared to tell him. Pray forgive me that I can't do without telling you. I have more reason for being anxious. It is five days ago now. I am quite sure I saw my father."
+&quot;Yes, I have,&quot; said Mirah. &quot;I have kept it from Ezra. I have not dared to tell him. Pray forgive me that I can't do without telling you. I have more reason for being anxious. It is five days ago now. I am quite sure I saw my father.&quot;
 
 Mrs. Meyrick shrank into a smaller space, packing her arms across her chest and leaning forward - to hinder herself from pelting that father with her worst epithets.
 
-"The year has changed him," Mirah went on. "He had already been much altered and worn in the time before I left him. You remember I said how he used sometimes to cry. He was always excited one way or the other. I have told Ezra everything that I told you, and he says that my father had taken to gambling, which makes people easily distressed, and then again exalted. And now - it was only a moment that I saw him - his face was more haggard, and his clothes were shabby. He was with a much worse-looking man, who carried something, and they were hurrying along after an omnibus."
+&quot;The year has changed him,&quot; Mirah went on. &quot;He had already been much altered and worn in the time before I left him. You remember I said how he used sometimes to cry. He was always excited one way or the other. I have told Ezra everything that I told you, and he says that my father had taken to gambling, which makes people easily distressed, and then again exalted. And now - it was only a moment that I saw him - his face was more haggard, and his clothes were shabby. He was with a much worse-looking man, who carried something, and they were hurrying along after an omnibus.&quot;
 
-"Well, child, he did not see you, I hope?"
+&quot;Well, child, he did not see you, I hope?&quot;
 
-"No. I had just come from Mrs. Raymond's, and I was waiting to cross near the Marble Arch. Soon he was on the omnibus and gone out of sight. It was a dreadful moment. My old life seemed to have come back again, and it was worse than it had ever been before. And I could not help feeling it a new deliverance that he was gone out of sight without knowing that I was there. And yet it hurt me that I was feeling so - it seemed hateful in me - almost like words I once had to speak in a play, that 'I had warmed my hands in the blood of my kindred.' For where might my father be going? What may become of him? And his having a daughter who would own him in spite of all, might have hindered the worst. Is there any pain like seeing what ought to be the best things in life turned into the worst? All those opposite feelings were meeting and pressing against each other, and took up all my strength. No one could act that. Acting is slow and poor to what we go through within. I don't know how I called a cab. I only remember that I was in it when I began to think, 'I cannot tell Ezra; he must not know.'"
+&quot;No. I had just come from Mrs. Raymond's, and I was waiting to cross near the Marble Arch. Soon he was on the omnibus and gone out of sight. It was a dreadful moment. My old life seemed to have come back again, and it was worse than it had ever been before. And I could not help feeling it a new deliverance that he was gone out of sight without knowing that I was there. And yet it hurt me that I was feeling so - it seemed hateful in me - almost like words I once had to speak in a play, that 'I had warmed my hands in the blood of my kindred.' For where might my father be going? What may become of him? And his having a daughter who would own him in spite of all, might have hindered the worst. Is there any pain like seeing what ought to be the best things in life turned into the worst? All those opposite feelings were meeting and pressing against each other, and took up all my strength. No one could act that. Acting is slow and poor to what we go through within. I don't know how I called a cab. I only remember that I was in it when I began to think, 'I cannot tell Ezra; he must not know.'&quot;
 
-"You are afraid of grieving him?" Mrs. Meyrick asked, when Mirah had paused a little.
+&quot;You are afraid of grieving him?&quot; Mrs. Meyrick asked, when Mirah had paused a little.
 
-"Yes - and there is something more," said Mirah, hesitatingly, as if she were examining her feeling before she would venture to speak of it. "I want to tell you; I cannot tell any one else. I could not have told my own mother: I should have closed it up before her. I feel shame for my father, and it is perhaps strange - but the shame is greater before Ezra than before any one else in the world. He desired me to tell him all about my life, and I obeyed him. But it is always like a smart to me to know that those things about my father are in Ezra's mind. And - can you believe it? when the thought haunts me how it would be if my father were to come and show himself before us both, what seems as if it would scorch me most is seeing my father shrinking before Ezra. That is the truth. I don't know whether it is a right feeling. But I can't help thinking that I would rather try to maintain my father in secret, and bear a great deal in that way, if I could hinder him from meeting my brother."
+&quot;Yes - and there is something more,&quot; said Mirah, hesitatingly, as if she were examining her feeling before she would venture to speak of it. &quot;I want to tell you; I cannot tell any one else. I could not have told my own mother: I should have closed it up before her. I feel shame for my father, and it is perhaps strange - but the shame is greater before Ezra than before any one else in the world. He desired me to tell him all about my life, and I obeyed him. But it is always like a smart to me to know that those things about my father are in Ezra's mind. And - can you believe it? when the thought haunts me how it would be if my father were to come and show himself before us both, what seems as if it would scorch me most is seeing my father shrinking before Ezra. That is the truth. I don't know whether it is a right feeling. But I can't help thinking that I would rather try to maintain my father in secret, and bear a great deal in that way, if I could hinder him from meeting my brother.&quot;
 
-"You must not encourage that feeling, Mirah," said Mrs. Meyrick, hastily. "It would be very dangerous; it would be wrong. You must not have concealment of that sort."
+&quot;You must not encourage that feeling, Mirah,&quot; said Mrs. Meyrick, hastily. &quot;It would be very dangerous; it would be wrong. You must not have concealment of that sort.&quot;
 
-"But ought I now to tell Ezra that I have seen my father?" said Mirah, with deprecation in her tone.
+&quot;But ought I now to tell Ezra that I have seen my father?&quot; said Mirah, with deprecation in her tone.
 
-"No," Mrs. Meyrick answered, dubitatively. "I don't know that it is necessary to do that. Your father may go away with the birds. It is not clear that he came after you; you may never see him again. And then your brother will have been spared a useless anxiety. But promise me that if your father sees you - gets hold of you in any way again - and you will let us all know. Promise me that solemnly, Mirah. I have a right to ask it."
+&quot;No,&quot; Mrs. Meyrick answered, dubitatively. &quot;I don't know that it is necessary to do that. Your father may go away with the birds. It is not clear that he came after you; you may never see him again. And then your brother will have been spared a useless anxiety. But promise me that if your father sees you - gets hold of you in any way again - and you will let us all know. Promise me that solemnly, Mirah. I have a right to ask it.&quot;
 
-Mirah reflected a little, then leaned forward to put her hands in Mrs. Meyrick's, and said, "Since you ask it, I do promise. I will bear this feeling of shame. I have been so long used to think that I must bear that sort of inward pain. But the shame for my father burns me more when I think of his meeting Ezra." She was silent a moment or two, and then said, in a new tone of yearning compassion, "And we are his children - and he was once young like us - and my mother loved him. Oh! I cannot help seeing it all close, and it hurts me like a cruelty."
+Mirah reflected a little, then leaned forward to put her hands in Mrs. Meyrick's, and said, &quot;Since you ask it, I do promise. I will bear this feeling of shame. I have been so long used to think that I must bear that sort of inward pain. But the shame for my father burns me more when I think of his meeting Ezra.&quot; She was silent a moment or two, and then said, in a new tone of yearning compassion, &quot;And we are his children - and he was once young like us - and my mother loved him. Oh! I cannot help seeing it all close, and it hurts me like a cruelty.&quot;
 
 Mirah shed no tears: the discipline of her whole life had been against indulgence in such manifestation, which soon falls under the control of strong motives; but it seemed that the more intense expression of sorrow had entered into her voice. Mrs. Meyrick, with all her quickness and loving insight, did not quite understand that filial feeling in Mirah which had active roots deep below her indignation for the worst offenses. She could conceive that a mother would have a clinging pity and shame for a reprobate son, but she was out of patience with what she held an exaggerated susceptibility on behalf of this father, whose reappearance inclined her to wish him under the care of a turnkey. Mirah's promise, however, was some security against her weakness.
 
@@ -66,74 +276,74 @@ That incident was the only reason that Mirah herself could have stated for the h
 
 It was when Anna Gascoigne, visiting the Meyricks; was led to speak of her cousinship with Gwendolen. The visit had been arranged that Anna might see Mirah; the three girls were at home with their mother, and there was naturally a flux of talk among six feminine creatures, free from the presence of a distorting male standard. Anna Gascoigne felt herself much at home with the Meyrick girls, who knew what it was to have a brother, and to be generally regarded as of minor importance in the world; and she had told Rex that she thought the University very nice, because brothers made friends there whose families were not rich and grand, and yet (like the University) were very nice. The Meyricks seemed to her almost alarmingly clever, and she consulted them much on the best mode of teaching Lotta, confiding to them that she herself was the least clever of her family. Mirah had lately come in, and there was a complete bouquet of young faces around the tea-table - Hafiz, seated a little aloft with large eyes on the alert, regarding the whole scene as an apparatus for supplying his allowance of milk.
 
-"Think of our surprise, Mirah," said Kate. "We were speaking of Mr. Deronda and the Mallingers, and it turns out that Miss Gascoigne knows them."
+&quot;Think of our surprise, Mirah,&quot; said Kate. &quot;We were speaking of Mr. Deronda and the Mallingers, and it turns out that Miss Gascoigne knows them.&quot;
 
-"I only knew about them," said Anna, a little flushed with excitement, what she had heard and now saw of the lovely Jewess being an almost startling novelty to her. "I have not even seen them. But some months ago, my cousin married Sir Hugo Mallinger's nephew, Mr. Grandcourt, who lived in Sir Hugo's place at Diplow, near us."
+&quot;I only knew about them,&quot; said Anna, a little flushed with excitement, what she had heard and now saw of the lovely Jewess being an almost startling novelty to her. &quot;I have not even seen them. But some months ago, my cousin married Sir Hugo Mallinger's nephew, Mr. Grandcourt, who lived in Sir Hugo's place at Diplow, near us.&quot;
 
-"There!" exclaimed Mab, clasping her hands. "Something must come of that. Mrs. Grandcourt, the Vandyke duchess, is your cousin?"
+&quot;There!&quot; exclaimed Mab, clasping her hands. &quot;Something must come of that. Mrs. Grandcourt, the Vandyke duchess, is your cousin?&quot;
 
-"Oh, yes; I was her bridesmaid," said Anna. "Her mamma and mine are sisters. My aunt was much richer before last year, but then she and mamma lost all their fortune. Papa is a clergyman, you know, so it makes very little difference to us, except that we keep no carriage, and have no dinner parties - and I like it better. But it was very sad for poor Aunt Davilow, for she could not live with us, because she has four daughters besides Gwendolen; but then, when she married Mr. Grandcourt, it did not signify so much, because of his being so rich."
+&quot;Oh, yes; I was her bridesmaid,&quot; said Anna. &quot;Her mamma and mine are sisters. My aunt was much richer before last year, but then she and mamma lost all their fortune. Papa is a clergyman, you know, so it makes very little difference to us, except that we keep no carriage, and have no dinner parties - and I like it better. But it was very sad for poor Aunt Davilow, for she could not live with us, because she has four daughters besides Gwendolen; but then, when she married Mr. Grandcourt, it did not signify so much, because of his being so rich.&quot;
 
-"Oh, this finding out relationships is delightful!" said Mab. "It is like a Chinese puzzle that one has to fit together. I feel sure something wonderful may be made of it, but I can't tell what."
+&quot;Oh, this finding out relationships is delightful!&quot; said Mab. &quot;It is like a Chinese puzzle that one has to fit together. I feel sure something wonderful may be made of it, but I can't tell what.&quot;
 
-"Dear me, Mab," said Amy, "relationships must branch out. The only difference is, that we happen to know some of the people concerned. Such things are going on every day."
+&quot;Dear me, Mab,&quot; said Amy, &quot;relationships must branch out. The only difference is, that we happen to know some of the people concerned. Such things are going on every day.&quot;
 
-"And pray, Amy, why do you insist on the number nine being so wonderful?" said Mab. "I am sure that is happening every day. Never mind, Miss Gascoigne; please go on. And Mr. Deronda? - have you never seen Mr. Deronda? You must bring him in."
+&quot;And pray, Amy, why do you insist on the number nine being so wonderful?&quot; said Mab. &quot;I am sure that is happening every day. Never mind, Miss Gascoigne; please go on. And Mr. Deronda? - have you never seen Mr. Deronda? You must bring him in.&quot;
 
-"No, I have not seen him," said Anna; "but he was at Diplow before my cousin was married, and I have heard my aunt speaking of him to papa. She said what you have been saying about him - only not so much: I mean, about Mr. Deronda living with Sir Hugo Mallinger, and being so nice, she thought. We talk a great deal about every one who comes near Pennicote, because it is so seldom there is any one new. But I remember, when I asked Gwendolen what she thought of Mr. Deronda, she said, 'Don't mention it, Anna: but I think his hair is dark.' That was her droll way of answering: she was always so lively. It is really rather wonderful that I should come to hear so much about him, all through Mr. Hans knowing Rex, and then my having the pleasure of knowing you," Anna ended, looking at Mrs. Meyrick with a shy grace.
+&quot;No, I have not seen him,&quot; said Anna; &quot;but he was at Diplow before my cousin was married, and I have heard my aunt speaking of him to papa. She said what you have been saying about him - only not so much: I mean, about Mr. Deronda living with Sir Hugo Mallinger, and being so nice, she thought. We talk a great deal about every one who comes near Pennicote, because it is so seldom there is any one new. But I remember, when I asked Gwendolen what she thought of Mr. Deronda, she said, 'Don't mention it, Anna: but I think his hair is dark.' That was her droll way of answering: she was always so lively. It is really rather wonderful that I should come to hear so much about him, all through Mr. Hans knowing Rex, and then my having the pleasure of knowing you,&quot; Anna ended, looking at Mrs. Meyrick with a shy grace.
 
-"The pleasure is on our side too; but the wonder would have been, if you had come to this house without hearing of Mr. Deronda - wouldn't it, Mirah?" said Mrs. Meyrick.
+&quot;The pleasure is on our side too; but the wonder would have been, if you had come to this house without hearing of Mr. Deronda - wouldn't it, Mirah?&quot; said Mrs. Meyrick.
 
 Mirah smiled acquiescently, but had nothing to say. A confused discontent took possession of her at the mingling of names and images to which she had been listening.
 
-"My son calls Mrs. Grandcourt the Vandyke duchess," continued Mrs. Meyrick, turning again to Anna; "he thinks her so striking and picturesque."
+&quot;My son calls Mrs. Grandcourt the Vandyke duchess,&quot; continued Mrs. Meyrick, turning again to Anna; &quot;he thinks her so striking and picturesque.&quot;
 
-"Yes," said Anna. "Gwendolen was always so beautiful - people fell dreadfully in love with her. I thought it a pity, because it made them unhappy."
+&quot;Yes,&quot; said Anna. &quot;Gwendolen was always so beautiful - people fell dreadfully in love with her. I thought it a pity, because it made them unhappy.&quot;
 
-"And how do you like Mr. Grandcourt, the happy lover?" said Mrs. Meyrick, who, in her way, was as much interested as Mab in the hints she had been hearing of vicissitude in in the life of a widow with daughters.
+&quot;And how do you like Mr. Grandcourt, the happy lover?&quot; said Mrs. Meyrick, who, in her way, was as much interested as Mab in the hints she had been hearing of vicissitude in in the life of a widow with daughters.
 
-"Papa approved of Gwendolen's accepting him, and my aunt says he is very generous," said Anna, beginning with a virtuous intention of repressing her own sentiments; but then, unable to resist a rare occasion for speaking them freely, she went on - "else I should have thought he was not very nice - rather proud, and not at all lively, like Gwendolen. I should have thought some one younger and more lively would have suited her better. But, perhaps, having a brother who seems to us better than any one makes us think worse of others."
+&quot;Papa approved of Gwendolen's accepting him, and my aunt says he is very generous,&quot; said Anna, beginning with a virtuous intention of repressing her own sentiments; but then, unable to resist a rare occasion for speaking them freely, she went on - &quot;else I should have thought he was not very nice - rather proud, and not at all lively, like Gwendolen. I should have thought some one younger and more lively would have suited her better. But, perhaps, having a brother who seems to us better than any one makes us think worse of others.&quot;
 
-"Wait till you see Mr. Deronda," said Mab, nodding significantly. "Nobody's brother will do after him."
+&quot;Wait till you see Mr. Deronda,&quot; said Mab, nodding significantly. &quot;Nobody's brother will do after him.&quot;
 
-"Our brothers must do for people's husbands," said Kate, curtly, "because they will not get Mr. Deronda. No woman will do for him to marry."
+&quot;Our brothers must do for people's husbands,&quot; said Kate, curtly, &quot;because they will not get Mr. Deronda. No woman will do for him to marry.&quot;
 
-"No woman ought to want him to marry him," said Mab, with indignation. "I never should. Fancy finding out that he had a tailor's bill, and used boot-hooks, like Hans. Who ever thought of his marrying?"
+&quot;No woman ought to want him to marry him,&quot; said Mab, with indignation. &quot;I never should. Fancy finding out that he had a tailor's bill, and used boot-hooks, like Hans. Who ever thought of his marrying?&quot;
 
-"I have," said Kate. "When I drew a wedding for a frontispiece to 'Hearts and Diamonds,' I made a sort of likeness to him for the bridegroom, and I went about looking for a grand woman who would do for his countess, but I saw none that would not be poor creatures by the side of him."
+&quot;I have,&quot; said Kate. &quot;When I drew a wedding for a frontispiece to 'Hearts and Diamonds,' I made a sort of likeness to him for the bridegroom, and I went about looking for a grand woman who would do for his countess, but I saw none that would not be poor creatures by the side of him.&quot;
 
-"You should have seen this Mrs. Grandcourt then," said Mrs. Meyrick. "Hans says that she and Mr. Deronda set each other off when they are side by side. She is tall and fair. But you know her, Mirah - you can always say something descriptive. What do you think of Mrs. Grandcourt?"
+&quot;You should have seen this Mrs. Grandcourt then,&quot; said Mrs. Meyrick. &quot;Hans says that she and Mr. Deronda set each other off when they are side by side. She is tall and fair. But you know her, Mirah - you can always say something descriptive. What do you think of Mrs. Grandcourt?&quot;
 
-"I think she is the Princess of Eboli in Don Carlos," said Mirah, with a quick intensity. She was pursuing an association in her own mind not intelligible to her hearers - an association with a certain actress as well as the part she represented.
+&quot;I think she is the Princess of Eboli in Don Carlos,&quot; said Mirah, with a quick intensity. She was pursuing an association in her own mind not intelligible to her hearers - an association with a certain actress as well as the part she represented.
 
-"Your comparison is a riddle for me, my dear," said Mrs. Meyrick, smiling.
+&quot;Your comparison is a riddle for me, my dear,&quot; said Mrs. Meyrick, smiling.
 
-"You said that Mrs. Grandcourt was tall and fair," continued Mirah, slightly paler. "That is quite true."
+&quot;You said that Mrs. Grandcourt was tall and fair,&quot; continued Mirah, slightly paler. &quot;That is quite true.&quot;
 
 Mrs. Meyrick's quick eye and ear detected something unusual, but immediately explained it to herself. Fine ladies had often wounded Mirah by caprices of manner and intention.
 
-"Mrs. Grandcourt had thought of having lessons of Mirah," she said turning to Anna. "But many have talked of having lessons, and then have found no time. Fashionable ladies have too much work to do."
+&quot;Mrs. Grandcourt had thought of having lessons of Mirah,&quot; she said turning to Anna. &quot;But many have talked of having lessons, and then have found no time. Fashionable ladies have too much work to do.&quot;
 
 And the chat went on without further insistance on the _Princess of Eboli_. That comparison escaped Mirah's lips under the urgency of a pang unlike anything she had felt before. The conversation from the beginning had revived unpleasant impressions, and Mrs. Meyrick's suggestion of Gwendolen's figure by the side of Deronda's had the stinging effect of a voice outside her, confirming her secret conviction that this tall and fair woman had some hold on his lot. For a long while afterward she felt as if she had had a jarring shock through her frame.
 
 In the evening, putting her cheek against her brother's shoulder as she was sitting by him, while he sat propped up in bed under a new difficulty of breathing, she said -
 
-"Ezra, does it ever hurt your love for Mr. Deronda that so much of his life was all hidden away from you - that he is amongst persons and cares about persons who are all so unlike us - I mean unlike you?"
+&quot;Ezra, does it ever hurt your love for Mr. Deronda that so much of his life was all hidden away from you - that he is amongst persons and cares about persons who are all so unlike us - I mean unlike you?&quot;
 
-"No, assuredly no," said Mordecai. "Rather it is a precious thought to me that he has a preparation which I lacked, and is an accomplished Egyptian." Then, recollecting that his words had reference which his sister must not yet understand, he added. "I have the more to give him, since his treasure differs from mine. That is a blessedness in friendship."
+&quot;No, assuredly no,&quot; said Mordecai. &quot;Rather it is a precious thought to me that he has a preparation which I lacked, and is an accomplished Egyptian.&quot; Then, recollecting that his words had reference which his sister must not yet understand, he added. &quot;I have the more to give him, since his treasure differs from mine. That is a blessedness in friendship.&quot;
 
 Mirah mused a little.
 
-"Still," she said, "it would be a trial to your love for him if that other part of his life were like a crowd in which he had got entangled, so that he was carried away from you - I mean in his thoughts, and not merely carried out of sight as he is now - and not merely for a little while, but continually. How should you bear that! Our religion commands us to bear. But how should you bear it?"
+&quot;Still,&quot; she said, &quot;it would be a trial to your love for him if that other part of his life were like a crowd in which he had got entangled, so that he was carried away from you - I mean in his thoughts, and not merely carried out of sight as he is now - and not merely for a little while, but continually. How should you bear that! Our religion commands us to bear. But how should you bear it?&quot;
 
-"Not well, my sister - not well; but it will never happen," said Mordecai, looking at her with a tender smile. He thought that her heart needed comfort on his account.
+&quot;Not well, my sister - not well; but it will never happen,&quot; said Mordecai, looking at her with a tender smile. He thought that her heart needed comfort on his account.
 
-Mirah said no more. She mused over the difference between her own state of mind and her brother's, and felt her comparative pettiness. Why could she not be completely satisfied with what satisfied his larger judgment? She gave herself no fuller reason than a painful sense of unfitness - in what? Airy possibilities to which she could give no outline, but to which one name and one figure gave the wandering persistency of a blot in her vision. Here lay the vaguer source of the hidden sadness rendered noticeable to Hans by some diminution of that sweet ease, that ready joyousness of response in her speech and smile, which had come with the new sense of freedom and safety, and had made her presence like the freshly-opened daisies and clear bird-notes after the rain. She herself regarded her uneasiness as a sort of ingratitude and dullness of sensibility toward the great things that had been given her in her new life; and whenever she threw more energy than usual into her singing, it was the energy of indignation against the shallowness of her own content. In that mood she once said, "Shall I tell you what is the difference between you and me, Ezra? You are a spring in the drought, and I am an acorn-cup; the waters of heaven fill me, but the least little shake leaves me empty."
+Mirah said no more. She mused over the difference between her own state of mind and her brother's, and felt her comparative pettiness. Why could she not be completely satisfied with what satisfied his larger judgment? She gave herself no fuller reason than a painful sense of unfitness - in what? Airy possibilities to which she could give no outline, but to which one name and one figure gave the wandering persistency of a blot in her vision. Here lay the vaguer source of the hidden sadness rendered noticeable to Hans by some diminution of that sweet ease, that ready joyousness of response in her speech and smile, which had come with the new sense of freedom and safety, and had made her presence like the freshly-opened daisies and clear bird-notes after the rain. She herself regarded her uneasiness as a sort of ingratitude and dullness of sensibility toward the great things that had been given her in her new life; and whenever she threw more energy than usual into her singing, it was the energy of indignation against the shallowness of her own content. In that mood she once said, &quot;Shall I tell you what is the difference between you and me, Ezra? You are a spring in the drought, and I am an acorn-cup; the waters of heaven fill me, but the least little shake leaves me empty.&quot;
 
-"Why, what has shaken thee?" said Mordecai. He fell into this antique form of speech habitually in talking to his sister and to the Cohen children.
+&quot;Why, what has shaken thee?&quot; said Mordecai. He fell into this antique form of speech habitually in talking to his sister and to the Cohen children.
 
-"Thoughts," said Mirah; "thoughts that come like the breeze and shake me - bad people, wrong things, misery - and how they might touch our life."
+&quot;Thoughts,&quot; said Mirah; &quot;thoughts that come like the breeze and shake me - bad people, wrong things, misery - and how they might touch our life.&quot;
 
-"We must take our portion, Mirah. It is there. On whose shoulder would we lay it, that we might be free?"
+&quot;We must take our portion, Mirah. It is there. On whose shoulder would we lay it, that we might be free?&quot;
 
 The one voluntary sign she made of her inward care was this distant allusion.

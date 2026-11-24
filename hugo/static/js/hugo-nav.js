@@ -98,6 +98,10 @@ function initializeSwipeNavigation() {
 
   article.addEventListener("touchend", event => {
     if (!start) return;
+    if (event.touches.length !== 0) {
+      start = undefined;
+      return;
+    }
     const touch = event.changedTouches[0];
     const deltaX = touch.pageX - start.x;
     const deltaY = touch.pageY - start.y;
@@ -107,6 +111,9 @@ function initializeSwipeNavigation() {
 
     if (deltaX < 0 && next) window.location.assign(next.href);
     else if (deltaX > 0 && previous) window.location.assign(previous.href);
+  }, { passive: true });
+  article.addEventListener("touchcancel", () => {
+    start = undefined;
   }, { passive: true });
 }
 

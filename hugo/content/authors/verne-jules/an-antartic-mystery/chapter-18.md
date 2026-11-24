@@ -4,83 +4,84 @@ weight: 18
 url: "/authors/verne-jules/an-antartic-mystery/chapter-18.html"
 ---
 
-The following day, the 29th of December, at six in the morning, the schooner set sail with a north-east wind, and this time her course was due south. The two succeeding days passed wholly without incident; neither land nor any sign of land was observed. The men on the Halbrahe took great hauls of fish, to their own satisfaction and ours. It was New Year's Day, 1840, four months and seventeen days since I had left the Kerguelens and two months and five days since the Halbrahe had sailed from the Falklands. The half-breed, between whom and myself an odd kind of tacit understanding subsisted, approached the bench on which I was sitting—the captain was in his cabin, and West was not in sight—with a plain intention of conversing with me. The subject may easily be guessed.
+The following day, the 29th of December, at six in the morning, the schooner set sail with a north-east wind, and this time her course was due south. The two succeeding days passed wholly without incident; neither land nor any sign of land was observed. The men on the Halbrahe took great hauls of fish, to their own satisfaction and ours. It was New Year&apos;s Day, 1840, four months and seventeen days since I had left the Kerguelens and two months and five days since the Halbrahe had sailed from the Falklands. The half-breed, between whom and myself an odd kind of tacit understanding subsisted, approached the bench on which I was sitting&mdash;the captain was in his cabin, and West was not in sight&mdash;with a plain intention of conversing with me. The subject may easily be guessed.
 
-"Dirk Peters," said I, taking up the subject at once, "do you wish that we should talk of him?"
+&quot;Dirk Peters,&quot; said I, taking up the subject at once, &quot;do you wish that we should talk of *him*?&quot;
 
-"Him !" he murmured.
+&quot;Him !&quot; he murmured.
 
-"You have remained faithful to his memory, Dirk Peters."
+&quot;You have remained faithful to his memory, Dirk Peters.&quot;
 
-"Forget him, sir! Never!"
+&quot;Forget him, sir! Never!&quot;
 
-"He is always there—before you?"
+&quot;He is always there&mdash;before you?&quot;
 
-"Always! So many dangers shared! That makes brothers! No, it makes a father and his son! Yes! And I have seen America again, but Pym—poor Pym—he is still beyond there!"
+&quot;Always! So many dangers shared! That makes brothers! No, it makes a father and his son! Yes! And I have seen America again, but Pym&mdash;poor Pym&mdash;he is still beyond there!&quot;
 
-"Dirk Peters," I asked, "have you any idea of the route which you and Arthur Pym followed in the boat after your departure from Tsalal Island?"
+&quot;Dirk Peters,&quot; I asked, &quot;have you any idea of the route which you and Arthur Pym followed in the boat after your departure from Tsalal Island?&quot;
 
-"None, sir! Poor Pym had no longer any instrument —you know—sea machines—for looking at the sun. We could not know, except that for the eight days the current pushed us towards the south, and the wind also. A fine breeze and a fair sea, and our shirts for a sail."
+&quot;None, sir! Poor Pym had no longer any instrument &mdash;you know&mdash;sea machines&mdash;for looking at the sun. We could not know, except that for the eight days the current pushed us towards the south, and the wind also. A fine breeze and a fair sea, and our shirts for a sail.&quot;
 
-"Yes, white linen shirts, which frightened your prisoner Nu Nu—"
+&quot;Yes, white linen shirts, which frightened your prisoner Nu Nu&mdash;&quot;
 
-"Perhaps so—I did not notice. But if Pym has said so, Pym must be believed."
+&quot;Perhaps so&mdash;I did not notice. But if Pym has said so, Pym must be believed.&quot;
 
-"And during those eight days you were able to supply yourselves with food?"
+&quot;And during those eight days you were able to supply yourselves with food?&quot;
 
-"Yes, sir, and the days after—we and the savage. You know—the three turtles that were in the boat. These animals contain a store of fresh water—and their flesh is sweet, even raw. Oh, raw flesh, sir !"
+&quot;Yes, sir, and the days after&mdash;we and the savage. You know&mdash;the three turtles that were in the boat. These animals contain a store of fresh water&mdash;and their flesh is sweet, even raw. Oh, raw flesh, sir !&quot;
 
-He lowered his voice, and threw a furtive glance around him. It would be impossible to describe the frightful expression of the half-breed's face as he thus recalled the terrible scenes of the Grampus. And it was not the expression of a cannibal of Australia or the New Hebrides, but that of a man who is pervaded by an insurmountable horror of himself.
+He lowered his voice, and threw a furtive glance around him. It would be impossible to describe the frightful expression of the half-breed&apos;s face as he thus recalled the terrible scenes of the *Grampus*. And it was not the expression of a cannibal of Australia or the New Hebrides, but that of a man who is pervaded by an insurmountable horror of himself.
 
-"Was it not on the 1st of March, Dirk Peters," I asked, "that you perceived for the first time the veil of grey vapour shot with luminous and moving rays ?"
+&quot;Was it not on the 1st of March, Dirk Peters,&quot; I asked, &quot;that you perceived for the first time the veil of grey vapour shot with luminous and moving rays ?&quot;
 
-"I do not remember, sir, but if Pym says It was so, Pym must be believed."
+&quot;I do not remember, sir, but if Pym says It was so, Pym must be believed.&quot;
 
-"Did he never speak to you of fiery rays which fell from the sky?" I did not use the term "polar aurora," lest the half-breed should not understand it.
+&quot;Did he never speak to you of fiery rays which fell from the sky?&quot; I did not use the term &quot;polar aurora,&quot; lest the half-breed should not understand it.
 
-"Never, sir," said Dirk Peters, after some reflection. "Did you not remark that the colour of the sea changed, grew white like milk, and that its surface became ruffled around your boat?"
+&quot;Never, sir,&quot; said Dirk Peters, after some reflection. &quot;Did you not remark that the colour of the sea changed, grew white like milk, and that its surface became ruffled around your boat?&quot;
 
-"It may have been so, sir; I did not observe. The boat went on and on, and my head went with it."
+&quot;It may have been so, sir; I did not observe. The boat went on and on, and my head went with it.&quot;
 
-"And then, the fine powder, as fine as ashes, that fell—"
+&quot;And then, the fine powder, as fine as ashes, that fell&mdash;&quot;
 
-"I don't remember it." "Was it not snow ?"
+&quot;I don&apos;t remember it.&quot;  
+&quot;Was it not snow ?&quot;
 
-"Snow? Yes! No! The weather was warm. What did Pym say? Pym must be believed." He lowered his voice and continued: "But Pym will tell you all that, sir. He knows. I do not know. He saw, and you will believe him."
+&quot;Snow? Yes! No! The weather was warm. What did Pym say? Pym must be believed.&quot; He lowered his voice and continued: &quot;But Pym will tell you all that, sir. He knows. I do not know. He saw, and you will believe him.&quot;
 
-"Yes, Dirk Peters, I shall believe him."
+&quot;Yes, Dirk Peters, I shall believe him.&quot;
 
-"We are to go in search of him, are we not?"
+&quot;We are to go in search of him, are we not?&quot;
 
-"I hope so."
+&quot;I hope so.&quot;
 
-"After we shall have found William Guy and the sailors of the Jane!"
+&quot;After we shall have found William Guy and the sailors of the *Jane*!&quot;
 
-"Yes, after."
+&quot;Yes, after.&quot;
 
-"And even if we do not find them?"
+&quot;And even if we do not find them?&quot;
 
-"Yes, even in that case. I think I shall induce our captain. I think he will not refuse—"
+&quot;Yes, even in that case. I think I shall induce our captain. I think he will not refuse&mdash;&quot;
 
-"No, he will not refuse to bring help to a man—a man like him g"
+&quot;No, he will not refuse to bring help to a man&mdash;a man like him g&quot;
 
-"And yet," I said, "if William Guy and his people are living, can we admit that Arthur Pym—"
+&quot;And yet,&quot; I said, &quot;if William Guy and his people are living, can we admit that Arthur Pym&mdash;&quot;
 
-"Living? Yes! Living!" cried the half-breed. "By the great spirit of my fathers, he is—he is waiting for me, my poor Pym! How joyful he will be when he clasps his old Dirk in his arms, and I—I, when I feel him, there, there."
+&quot;Living? Yes! Living!&quot; cried the half-breed. &quot;By the great spirit of my fathers, he is&mdash;he is waiting for me, my poor Pym! How joyful he will be when he clasps his old Dirk in his arms, and I&mdash;I, when I feel him, there, there.&quot;
 
 And the huge chest of the man heaved like a stormy sea. Then he went away, leaving me inexpressibly affected by the revelation of the tenderness for his unfortunate companion that lay deep in the heart of this semi-savage.
 
 In the meantime I said but little to Captain Len Guy, whose whole heart and soul were set on the rescue of brother, of the possibility of our finding Arthur Gordon Pym. Time enough, if in the course of this strange enterprise of ours we succeeded in that object, to urge upon him one still more visionary.
 
-At length, on the 7th of January—according to Dirk Peters, who had fixed it only by the time that had expired —we arrived at the place where Nu Nu the savage breathed his last, lying in the bottom of the boat. On that day an observation gave 86° 33' for the latitude, the longitude remaining the same between the and the forty-third meridian. Here it was, according the half-breed, that the two fugitives were parted after the collision between the boat and the floating mass of ice. But a question now arose. Since the mass of ice carrying away Dirk Peters had drifted towards the north, was this because it was subjected to the action of a countercurrent?
+At length, on the 7th of January&mdash;according to Dirk Peters, who had fixed it only by the time that had expired &mdash;we arrived at the place where Nu Nu the savage breathed his last, lying in the bottom of the boat. On that day an observation gave 86° 33&apos; for the latitude, the longitude remaining the same between the and the forty-third meridian. Here it was, according the half-breed, that the two fugitives were parted after the collision between the boat and the floating mass of ice. But a question now arose. Since the mass of ice carrying away Dirk Peters had drifted towards the north, was this because it was subjected to the action of a countercurrent?
 
-Yes, that must have been so, for oar schooner had not felt the influence of the current which had guided her on leaving the Falklands, for fully four days. And yet, there was nothing surprising in that, for everything is variable in the austral seas. Happily, the fresh breeze from the north-east continued to blow, and the Halbrane made progress toward higher waters, thirteen degrees in advance upon Weddells ship and two degrees upon the fane. As for the land—islands or continent—which Captain Len Guy was seeking on the surface of that vast ocean, it did not appear. I was well aware that he was gradually losing confidence in our enterprise.
+Yes, that must have been so, for oar schooner had not felt the influence of the current which had guided her on leaving the Falklands, for fully four days. And yet, there was nothing surprising in that, for everything is variable in the austral seas. Happily, the fresh breeze from the north-east continued to blow, and the *Halbrane* made progress toward higher waters, thirteen degrees in advance upon Weddells ship and two degrees upon the fane. As for the land&mdash;islands or continent&mdash;which Captain Len Guy was seeking on the surface of that vast ocean, it did not appear. I was well aware that he was gradually losing confidence in our enterprise.
 
-As for me, I was possessed by the desire to rescue Arthur Pym as well as the survivors of the Jane. And yet, how could he have survived! But then, the half-breed's fixed idea! Supposing our captain were to give the order to go back, what would Dirk Peters do? Throw himself into the sea rather than return northwards? This it was which made me dread some act of violence on his part, when he heard the greater number of the sailors protesting against this insensate voyage, and talking of putting the ship about, especially towards Hearne, who was stealthily inciting his comrades of the Falklands to insubordination.
+As for me, I was possessed by the desire to rescue Arthur Pym as well as the survivors of the *Jane*. And yet, how could he have survived! But then, the half-breed&apos;s fixed idea! Supposing our captain were to give the order to go back, what would Dirk Peters do? Throw himself into the sea rather than return northwards? This it was which made me dread some act of violence on his part, when he heard the greater number of the sailors protesting against this insensate voyage, and talking of putting the ship about, especially towards Hearne, who was stealthily inciting his comrades of the Falklands to insubordination.
 
-It was absolutely necessary not to allow discipline to decline, or discouragement to grow among the crew; so that, on the 7th of January, Captain Len Guy at my request assembled the men and addressed them in the following words:—
+It was absolutely necessary not to allow discipline to decline, or discouragement to grow among the crew; so that, on the 7th of January, Captain Len Guy at my request assembled the men and addressed them in the following words:&mdash;
 
-"Sailors of the Halbrane, since our departure from Tsalal Island, the schooner has gained two degrees southwards, and I now inform you, that, conformably with the engagement signed by Mr. Jeorling, four thousand dollars—that is two thousand dollars for each degree—are due to you, and will be paid at the end of the voyage."
+&quot;Sailors of the *Halbrane*, since our departure from Tsalal Island, the schooner has gained two degrees southwards, and I now inform you, that, conformably with the engagement signed by Mr. Jeorling, four thousand dollars&mdash;that is two thousand dollars for each degree&mdash;are due to you, and will be paid at the end of the voyage.&quot;
 
 These words were greeted with some murmurs of satisfaction, but not with cheers, except those of Hurliguerly the boatswain, and Endicott the cook, which found no echo.
 
@@ -88,109 +89,110 @@ On the 13th of January a conversation took place between the boatswain and mysel
 
 The men were at breakfast, with the exception of Drap and Stern. The schooner was cutting the water under a stiff breeze. I was walking between the fore and main masts, watching the great flights of birds wheeling about the ship with deafening clangour, and the petrels occasionally perching on our yards. No effort was made to catch or shoot them; it would have been useless cruelty, since their oily and stringy flesh is not eatable.
 
-At this moment Hurliguerly approached me, looked attentively at the birds, and said,—
+At this moment Hurliguerly approached me, looked attentively at the birds, and said,&mdash;
 
-"I remark one thing, Mr. Jeorling."
+&quot;I remark one thing, Mr. Jeorling.&quot;
 
-"What is it, boatswain?"
+&quot;What is it, boatswain?&quot;
 
-"That these birds do not fly so directly south as they did up to the present. Some of them are setting north."
+&quot;That these birds do not fly so directly south as they did up to the present. Some of them are setting north.&quot;
 
-"I have noticed the same fact."
+&quot;I have noticed the same fact.&quot;
 
-"And I add, Mr. Jeorling, that those who are below there will come back without delay."
+&quot;And I add, Mr. Jeorling, that those who are below there will come back without delay.&quot;
 
-"And you conclude from this?"
+&quot;And you conclude from this?&quot;
 
-"I conclude that they feel the approach of winter."
+&quot;I conclude that they feel the approach of winter.&quot;
 
-"Of winter?"
+&quot;Of winter?&quot;
 
-"Undoubtedly."
+&quot;Undoubtedly.&quot;
 
-"No, no, boatswain; the temperature is so high that the birds can't want to get to less cold regions so prematurely."
+&quot;No, no, boatswain; the temperature is so high that the birds can&apos;t want to get to less cold regions so prematurely.&quot;
 
-"Oh! prematurely, Mr. Jeorling."
+&quot;Oh! prematurely, Mr. Jeorling.&quot;
 
-"Yes, boatswain; do we not know that navigators have always been able to frequent the Antarctic waters until the month of March?"
+&quot;Yes, boatswain; do we not know that navigators have always been able to frequent the Antarctic waters until the month of March?&quot;
 
-"Not at such a latitude. Besides, there are precocious winters as well as precocious summers. The fine season this year was full two months in advance, and it is to ba feared the bad season may come sooner than usual."
+&quot;Not at such a latitude. Besides, there are precocious winters as well as precocious summers. The fine season this year was full two months in advance, and it is to ba feared the bad season may come sooner than usual.&quot;
 
-"That is very likely," I replied. "After all, it does not signity to us, since our campaign will certainly be over in three weeks."
+&quot;That is very likely,&quot; I replied. &quot;After all, it does not signity to us, since our campaign will certainly be over in three weeks.&quot;
 
-"If some obstacle does not arise beforehand, Mr. Jeorling."
+&quot;If some obstacle does not arise beforehand, Mr. Jeorling.&quot;
 
-"And what obstacle ?"
+&quot;And what obstacle ?&quot;
 
-"For instance, a continent stretching to the south and barring our way."
+&quot;For instance, a continent stretching to the south and barring our way.&quot;
 
-"A continent, Hurliguerly!"
+&quot;A continent, Hurliguerly!&quot;
 
-"I should not be at all surprised."
+&quot;I should not be at all surprised.&quot;
 
-"And, in fact, there would be nothing surprising in it."
+&quot;And, in fact, there would be nothing surprising in it.&quot;
 
-"As for the lands seen by Dirk Peters," said the boatswain, "where the men of the Jane might have landed on one or another of them, I don't believe in them."
+&quot;As for the lands seen by Dirk Peters,&quot; said the boatswain, &quot;where the men of the *Jane* might have landed on one or another of them, I don&apos;t believe in them.&quot;
 
-"Why ?"
+&quot;Why ?&quot;
 
-"Because William Guy, who can only have had a small craft at his disposal, could not have got so far into these seas."
+&quot;Because William Guy, who can only have had a small craft at his disposal, could not have got so far into these seas.&quot;
 
-"I do not feel quite so sure of that." a Nevertheless, Mr. Jeorling—"
+&quot;I do not feel quite so sure of that.&quot; a Nevertheless, Mr. Jeorling&mdash;&quot;
 
-"What would there be so surprising in William Guy's being carried to land somewhere by the action of the currents? He did not remain on board his boat for eight months, I suppose. His companions and he may have been able to land on an island, or even on a continent, and that is a sufficient motive for us to pursue our search."
+&quot;What would there be so surprising in William Guy&apos;s being carried to land somewhere by the action of the currents? He did not remain on board his boat for eight months, I suppose. His companions and he may have been able to land on an island, or even on a continent, and that is a sufficient motive for us to pursue our search.&quot;
 
-"No doubt—but all are not of your opinion," replied Hurliguerly, shaking his head.
+&quot;No doubt&mdash;but all are not of your opinion,&quot; replied Hurliguerly, shaking his head.
 
-"I know," said I, "and that is what makes me most anxious. Is the ill-feeling increasing?"
+&quot;I know,&quot; said I, &quot;and that is what makes me most anxious. Is the ill-feeling increasing?&quot;
 
-"I fear so, Mr. Jeorling. The satisfaction of having gained several hundreds of dollars is already lessened, and the prospect of gaining a few more hundreds does not put a stop to disputes. And yet the prize is tempting! From Tsalal Island to the pole, admitting that we might get there, is six degrees. Now six degrees at two thousand dollars each makes twelve thousand dollars for thirty men, that is four hundred dollars a head A nice little sum to slip into one's pocket on the return of the Halbrane; but, notwithstanding, that fellow Hearne works so wickedly upon his comrades that I believe they are ready to 'bout ship in spite of anybody."
+&quot;I fear so, Mr. Jeorling. The satisfaction of having gained several hundreds of dollars is already lessened, and the prospect of gaining a few more hundreds does not put a stop to disputes. And yet the prize is tempting! From Tsalal Island to the pole, admitting that we might get there, is six degrees. Now six degrees at two thousand dollars each makes twelve thousand dollars for thirty men, that is four hundred dollars a head A nice little sum to slip into one&apos;s pocket on the return of the *Halbrane*; but, notwithstanding, that fellow Hearne works so wickedly upon his comrades that I believe they are ready to &apos;bout ship in spite of anybody.&quot;
 
-"I can believe that of the recruits, boatswain, but the old crew—"
+&quot;I can believe that of the recruits, boatswain, but the old crew&mdash;&quot;
 
-"H—m! there are three or four of those who are beginning to reflect, and they are not easy in their minds about the prolongation of the voyage."
+&quot;H&mdash;m! there are three or four of those who are beginning to reflect, and they are not easy in their minds about the prolongation of the voyage.&quot;
 
-"I fancy Captain Len Guy and his lieutenant will how to get themselves obeyed."
+&quot;I fancy Captain Len Guy and his lieutenant will how to get themselves obeyed.&quot;
 
-"We shall see, Mr. Jeorling. But may it not that our captain himself will get disheartened; that the sense of his responsibility will prevail, and that he will renounce his enterprise?"
+&quot;We shall see, Mr. Jeorling. But may it not that our captain himself will get disheartened; that the sense of his responsibility will prevail, and that he will renounce his enterprise?&quot;
 
-Yes! this was what I feared, and there was no remedy on that side. "As for my friend Endicott, Mr. Jeorling, I answer for him as for myself. We would go to the end of the world—if the world has an end—did the captain want to go there. True, we two, Dirk Peters and yourself, are but a few to be a law to the others."
+Yes! this was what I feared, and there was no remedy on that side.  
+&quot;As for my friend Endicott, Mr. Jeorling, I answer for him as for myself. We would go to the end of the world&mdash;if the world has an end&mdash;did the captain want to go there. True, we two, Dirk Peters and yourself, are but a few to be a law to the others.&quot;
 
-"And what do you think of the half-breed ?" I asked.
+&quot;And what do you think of the half-breed ?&quot; I asked.
 
-"Well, our men appear to accuse him chiefly of the prolongation of the voyage. You see, Mr. Jeorling, though you have a good deal to do with it, you pay, and pay well, while this crazy fellow, Dirk Peters, persists in asserting that his poor Pym is still living—his poor Pym who was drowned, or frozen, or crushed—killed, anyhow, one way or another, eleven years ago!"
+&quot;Well, our men appear to accuse him chiefly of the prolongation of the voyage. You see, Mr. Jeorling, though you have a good deal to do with it, you pay, and pay well, while this crazy fellow, Dirk Peters, persists in asserting that his poor Pym is still living&mdash;his poor Pym who was drowned, or frozen, or crushed&mdash;killed, anyhow, one way or another, eleven years ago!&quot;
 
 So completely was this my own belief that I never discussed the subject with the half-breed.
 
-"You see, Mr. Jeorling," resumed the boatswain, "at the first some curiosity was felt about Dirk Peters. Then, after he saved Martin Holt, it was interest. Certainly, he was no more talkative than before, and the bear came no oftener out of his den! But now we know what he is, and no one likes him the better for that. At all events it was he who induced our captain, by talking of land to the south of Tsalal Island, to make this voyage, and it is owing to him that he has reached the eighty-sixth degree of latitude."
+&quot;You see, Mr. Jeorling,&quot; resumed the boatswain, &quot;at the first some curiosity was felt about Dirk Peters. Then, after he saved Martin Holt, it was interest. Certainly, he was no more talkative than before, and the bear came no oftener out of his den! But now we know what he is, and no one likes him the better for that. At all events it was he who induced our captain, by talking of land to the south of Tsalal Island, to make this voyage, and it is owing to him that he has reached the eighty-sixth degree of latitude.&quot;
 
-"That is quite true, boatswain."
+&quot;That is quite true, boatswain.&quot;
 
-"And so, Mr. Jeorling, I am always afraid that one of these days somebody will do Peters an ill turn."
+&quot;And so, Mr. Jeorling, I am always afraid that one of these days somebody will do Peters an ill turn.&quot;
 
-"Dirk Peters would defend himself, and I should pity the man who laid a finger on him."
+&quot;Dirk Peters would defend himself, and I should pity the man who laid a finger on him.&quot;
 
-"Quite so. It would not be good for anybody to be in his hands, for they could bend iron! But then, all being against him, he would be forced into the hold."
+&quot;Quite so. It would not be good for anybody to be in his hands, for they could bend iron! But then, all being against him, he would be forced into the hold.&quot;
 
-"Well, well, we have not yet come to that, I hope, and I count on you, Hurliguerly, to prevent any against Dirk Peters. Reason with your men. Make them understand that we have time to return to the Falklands before the end of the fine season. Their reproaches must not be allowed to provide the captain with an excuse for turning back before the object is attained."
+&quot;Well, well, we have not yet come to that, I hope, and I count on you, Hurliguerly, to prevent any against Dirk Peters. Reason with your men. Make them understand that we have time to return to the Falklands before the end of the fine season. Their reproaches must not be allowed to provide the captain with an excuse for turning back before the object is attained.&quot;
 
-"Count on me, Mr. Jeorling, to will serve you to the best of my ability."
+&quot;Count on me, Mr. Jeorling, to will serve you to the best of my ability.&quot;
 
-"You will not repent of doing so, Hurliguerly. Nothing is easier than to add a round o to the four hundred dollars which each man is to have, if that man be something more than a sailor—even were his functions simply those of boatswain on board the Halbrane.
+&quot;You will not repent of doing so, Hurliguerly. Nothing is easier than to add a round o to the four hundred dollars which each man is to have, if that man be something more than a sailor&mdash;even were his functions simply those of boatswain on board the *Halbrane.*
 
 Nothing important occurred on the 13th and 14th, but a fresh fall in the temperature took place. Captain Len Guy called my attention to this, pointing out the flocks of birds continuously flying north.
 
-While he was speaking to me I felt that his last hopes were fading. And who could wonder? Of the land indicated by the half-breed nothing was seen, and we were already more than one hundred and eighty miles Tsalal Island. At every point of the compass was the sea, nothing but the vast sea with its desert horizon which the sun's disk had been nearing since the 21st and would touch on the 21st March, prior to during the six months of the austral night. Honestly, was it possible to admit that William Guy and his five panions could have accomplished such a distance on a craft, and was there one chance in a hundred that the could ever be recovered?
+While he was speaking to me I felt that his last hopes were fading. And who could wonder? Of the land indicated by the half-breed nothing was seen, and we were already more than one hundred and eighty miles Tsalal Island. At every point of the compass was the sea, nothing but the vast sea with its desert horizon which the sun&apos;s disk had been nearing since the 21st and would touch on the 21st March, prior to during the six months of the austral night. Honestly, was it possible to admit that William Guy and his five panions could have accomplished such a distance on a craft, and was there one chance in a hundred that the could ever be recovered?
 
-On the 15th of January an observation most carefully taken gave 43° 13' longitude and 88° 17' latitude. The Halbrane was less than two degrees from the pole.
+On the 15th of January an observation most carefully taken gave 43° 13&apos; longitude and 88° 17&apos; latitude. The *Halbrane* was less than two degrees from the pole.
 
 Captain Len Guy did not seek to conceal the result of this observation, and the sailors knew enough of nautical calculation to understand it. Besides, if the consequences had to be explained to them, were not Holt and Hardy there to do this, and Hearne, to exaggerate them to the utmost?
 
 During the afternoon I had indubitable proof that the sealing-master had been working on the minds of the crew. The men, emerging at the foot of the mainmast, talked in whispers and cast evil glances at us. Two or three sailors made threatening gestures undisguisedly; then arose such angry mutterings that West could not to be deaf to them.
 
-He strode forward and called out. "Silence, there! The first man who speaks will have to reckon with me !"
+He strode forward and called out. &quot;Silence, there! The first man who speaks will have to reckon with me !&quot;
 
-Captain Len Guy was shut up in his cabin, but every moment I expected to see him come out, give one last long around the waste of waters, and then order the ship's course to be reversed. Nevertheless, on the next day the schooner was sailing in the same direction. Unfortunately—for the circumstance had some gravity—a mist was beginning to come down on us. I could not keep still, I My apprehensions were redoubled. It was that West was only awaiting the order to change the helm. What mortal anguish soever the captain's must be, I understood too well that he would not give that order without hesitation.
+Captain Len Guy was shut up in his cabin, but every moment I expected to see him come out, give one last long around the waste of waters, and then order the ship&apos;s course to be reversed. Nevertheless, on the next day the schooner was sailing in the same direction. Unfortunately&mdash;for the circumstance had some gravity&mdash;a mist was beginning to come down on us. I could not keep still, I My apprehensions were redoubled. It was that West was only awaiting the order to change the helm. What mortal anguish soever the captain&apos;s must be, I understood too well that he would not give that order without hesitation.
 
 For several days past I had not seen the half-breed, or, least, I had not exchanged a word with him. He was boycotted by the whole crew, with the exception of the boatswain, who was careful to address him, although rarely got a word in return. Dirk Peters took not faintest notice of this state of things. He remained completely absorbed in his own thoughts, yet, had he heard West give the word to steer north, I know not acts of violence he might have been driven. He seemed to avoid me; was this from a desire not to compromise me?
 
@@ -198,95 +200,96 @@ On the 17th, in the afternoon, however, Dirk Peters manifested an intention of s
 
 It was about half-past two, and, not feeling well, I gone to my cabin, where the side window was open, that at the back was closed. I heard a knock at the dom and asked who was there.
 
-"Dirk Peters," was the reply.
+&quot;Dirk Peters,&quot; was the reply.
 
-"You want to speak to me?"
+&quot;You want to speak to me?&quot;
 
-"Yes."
+&quot;Yes.&quot;
 
-"I am coming out."
+&quot;I am coming out.&quot;
 
-"If you please—I should prefer—may I come into your cabin?"
+&quot;If you please&mdash;I should prefer&mdash;may I come into your cabin?&quot;
 
-"Come in."
+&quot;Come in.&quot;
 
 He entered, and shut the door behind him?
 
 Without rising I signed to him to seat himself arm-chair, but he remained standing.
 
-"What do you want of me, Dirk Peters?" I asked at length, as he seemed unable to make up his mind to speak.
+&quot;What do you want of me, Dirk Peters?&quot; I asked at length, as he seemed unable to make up his mind to speak.
 
-"I want to tell you something—because it seems well that you should know it, and you only. In the crew—they must never know it."
+&quot;I want to tell you something&mdash;because it seems well that you should know it, and you only. In the crew&mdash;they must never know it.&quot;
 
-"If it is a grave matter, and you fear any indiscretion, Dirk Peters, why do you speak to me?"
+&quot;If it is a grave matter, and you fear any indiscretion, Dirk Peters, why do you speak to me?&quot;
 
-"If!—I must! Ah, yes! I must! It is impossible to keep it there! It weighs on me like a stone."
+&quot;If!&mdash;I must! Ah, yes! I must! It is impossible to keep it there! It weighs on me like a stone.&quot;
 
 And Dirk Peters struck his breast violently.
 
 Then he resumed:
 
-"Yes! I am always afraid it may escape me during my sleep, and that someone will hear it, for I dream of it, and in dreaming—"
+&quot;Yes! I am always afraid it may escape me during my sleep, and that someone will hear it, for I dream of it, and in dreaming&mdash;&quot;
 
-"You dream," I replied, "and of what ?"
+&quot;You dream,&quot; I replied, &quot;and of what ?&quot;
 
-"Of him, of him. Therefore it is that I sleep in corners, all alone, for fear that his true name should be discovered."
+&quot;Of him, of him. Therefore it is that I sleep in corners, all alone, for fear that his true name should be discovered.&quot;
 
-Then it struck me that the half-breed was perhaps about to respond to an inquiry which I had not yet made —why he had gone to live at the Falklands under the name of Hunt after leaving Illinois?
+Then it struck me that the half-breed was perhaps about to respond to an inquiry which I had not yet made &mdash;why he had gone to live at the Falklands under the name of Hunt after leaving Illinois?
 
-I put the question to him, and he replied,—
+I put the question to him, and he replied,&mdash;
 
-"It is not that; no, it is not that I wish—"
+&quot;It is not that; no, it is not that I wish&mdash;&quot;
 
-"I insist, Dirk Peters, and I desire to know in the first place for what reason you did not remain in America, for what reason you chose the Falklands—"
+&quot;I insist, Dirk Peters, and I desire to know in the first place for what reason you did not remain in America, for what reason you chose the Falklands&mdash;&quot;
 
-"For what reason, sir? Because I wanted to get near Pym, my poor Pym—beeause I hoped to find an opportunity at the Falklands of embarking on a whaling ship bound for the southern sea."
+&quot;For what reason, sir? Because I wanted to get near Pym, my poor Pym&mdash;beeause I hoped to find an opportunity at the Falklands of embarking on a whaling ship bound for the southern sea.&quot;
 
-"But that name of Hunt?"
+&quot;But that name of Hunt?&quot;
 
-"I would not bear my own name any longer—on account of the affair of the Grampus."
+&quot;I would not bear my own name any longer&mdash;on account of the affair of the *Grampus*.&quot;
 
-The half-breed was alluding to the scene of the "short straw" (or lot-drawing) on board the American brig, when it was decided between Augustus Barnard, Arthur Pym, Dirk Peters, and Parker, the sailor, that one of the four should be sacrificed—as food for the three others. I remembered the obstinate resistance of Arthur Pym, and how it was impossible for him to refuse to take his the tragedy about to be performed—he says this himself—and the horrible act whose remembrance must poison the existence of all those who had survived it.
+The half-breed was alluding to the scene of the &quot;short straw&quot; (or lot-drawing) on board the American brig, when it was decided between Augustus Barnard, Arthur Pym, Dirk Peters, and Parker, the sailor, that one of the four should be sacrificed&mdash;as food for the three others. I remembered the obstinate resistance of Arthur Pym, and how it was impossible for him to refuse to take his the tragedy about to be performed&mdash;he says this himself&mdash;and the horrible act whose remembrance must poison the existence of all those who had survived it.
 
-Oh, that lot-drawing! The "short straws" were little splinters of wood of uneven length which Arthur held in his hand. The shortest was to designate him who should be immolated. And he speaks of the sort of involuntary fierce desire to deceive his corn that he felt—"to cheat" is the word he uses—but he did not "cheat," and he asks pardon for having had the idea! Let us try to put ourselves in his place!
+Oh, that lot-drawing! The &quot;short straws&quot; were little splinters of wood of uneven length which Arthur held in his hand. The shortest was to designate him who should be immolated. And he speaks of the sort of involuntary fierce desire to deceive his corn that he felt&mdash;&quot;to cheat&quot; is the word he uses&mdash;but he did not &quot;cheat,&quot; and he asks pardon for having had the idea! Let us try to put ourselves in his place!
 
 He made up his mind, and held out his hand, closed on the four slips. Dirk Peters drew the first. Fate favoured him. He had nothing more to fear. Arthur Pym calculated that one more chance was against him. Augustus Barnard drew in his turn. Saved, too, he! And now Arthur Pym reckoned up the exact chances Parker and himself. At that moment all the ferocity the tiger entered into his soul. He conceived an intense and devilish hatred of his poor comrade, his fellow-man.
 
-Five minutes elapsed before Parker dared to draw. At length Arthur Pym, standing with closed eyes, not knowing whether the lot was for or against him, felt a hand seize his own. It was the hand of Dirk Peters. Arthur Pym had escaped death. And then the half-breed upon Parker and stabbed him in the back. The frightful repast followed—immediately—and words are not sufficient to convey to the mind the horror of the reality.
+Five minutes elapsed before Parker dared to draw. At length Arthur Pym, standing with closed eyes, not knowing whether the lot was for or against him, felt a hand seize his own. It was the hand of Dirk Peters. Arthur Pym had escaped death. And then the half-breed upon Parker and stabbed him in the back. The frightful repast followed&mdash;immediately&mdash;and words are not sufficient to convey to the mind the horror of the reality.
 
-Yes! I knew that hideous story, not a fable, as I had long believed. This was what had happened on board the Grampus, on the I6th of July, 1827, and vainly did I try to understand Dirk Peters' reason for recalling it to my recollection.
+Yes! I knew that hideous story, not a fable, as I had long believed. This was what had happened on board the *Grampus*, on the I6th of July, 1827, and vainly did I try to understand Dirk Peters&apos; reason for recalling it to my recollection.
 
-"Well, Dirk Peters," I said, "I will ask you, since you were anxious to hide your name, what it was that induced you to reveal it, when the Halbrane was moored off Tsalal Island; why you did not keep to the name of Hunt?"
+&quot;Well, Dirk Peters,&quot; I said, &quot;I will ask you, since you were anxious to hide your name, what it was that induced you to reveal it, when the *Halbrane* was moored off Tsalal Island; why you did not keep to the name of Hunt?&quot;
 
-"Sir—understand me—there was hesitation about going farther—they wanted to turn back. This was decided, and then I thought that by telling who I was—Dirk Peters—of the Grampus—poor Pym's companion—I should be heard; they would belieye with me that he was still living, they would go in search of him! And yet, it was a serious thing to do—to acknowledge that I was Dirk Peters, he who had killed Parker! But hunger, devouring hunger!"
+&quot;Sir&mdash;understand me&mdash;there was hesitation about going farther&mdash;they wanted to turn back. This was decided, and then I thought that by telling who I was&mdash;Dirk Peters&mdash;of the *Grampus*&mdash;poor Pym&apos;s companion&mdash;I should be heard; they would belieye with me that he was still living, they would go in search of him! And yet, it was a serious thing to do&mdash;to acknowledge that I was Dirk Peters, he who had killed Parker! But hunger, devouring hunger!&quot;
 
-"Come, come, Dirk Peters," said I, "you exaggerate! If the lot had fallen to you, you would have incurred the fate of Parker. You cannot be charged with a crime."
+&quot;Come, come, Dirk Peters,&quot; said I, &quot;you exaggerate! If the lot had fallen to you, you would have incurred the fate of Parker. You cannot be charged with a crime.&quot;
 
-"Sir, would Parker's family speak of it as you do?"
+&quot;Sir, would Parker&apos;s family speak of it as you do?&quot;
 
-"His family! Had he then relations?"
+&quot;His family! Had he then relations?&quot;
 
-"Yes—and that is why Pym changed his name in the narrative. Parker's name was not Parker—it was—"
+&quot;Yes&mdash;and that is why Pym changed his name in the narrative. Parker&apos;s name was not Parker&mdash;it was&mdash;&quot;
 
-"Arthur Pym was right," I said, interrupting him quickly, "and as for me, I do not wish to know Parker's real name. Keep this secret."
+&quot;Arthur Pym was right,&quot; I said, interrupting him quickly, &quot;and as for me, I do not wish to know Parker&apos;s real name. Keep this secret.&quot;
 
-"No, I will tell it to you. It weighs too heavily on me, and I shall be relieved, perhaps, when I have told you, Mr. Jeorling."
+&quot;No, I will tell it to you. It weighs too heavily on me, and I shall be relieved, perhaps, when I have told you, Mr. Jeorling.&quot;
 
-"No, Dirk Peters, no!"
+&quot;No, Dirk Peters, no!&quot;  
+ 
 
-"His name was Holt—Ned Holt."
+&quot;His name was Holt&mdash;Ned Holt.&quot;
 
-"Holt!" I exclaimed, "the same name as our sailing-master's."
+&quot;Holt!&quot; I exclaimed, &quot;the same name as our sailing-master&apos;s.&quot;
 
-"Who is his own brother, sir."
+&quot;Who is his own brother, sir.&quot;
 
-"Martin Holt?"
+&quot;Martin Holt?&quot;
 
-"Yes—understand me—his brother."
+&quot;Yes&mdash;understand me&mdash;his brother.&quot;
 
-"But he believes that Ned Holt perished in the wreck of the Grampus with the rest."
+&quot;But he believes that Ned Holt perished in the wreck of the *Grampus* with the rest.&quot;
 
-"It was not so, and if he learned that I—'
+&quot;It was not so, and if he learned that I&mdash;&apos;
 
 Just at that instant a violent shock flung me out of my bunk.
 
@@ -294,18 +297,19 @@ The schooner had made such a lurch to the port side that she was near foundering
 
 I heard an angry voice cry out:
 
-"What dog is that at the helm?"
+&quot;What dog is that at the helm?&quot;
 
 It was the voice of West, and the person he was Hearne.
 
 I rushed out of my cabin.
 
-"Have you let the wheel go?" repeated West, who had seized Hearne by the collar of his jersey.
+&quot;Have you let the wheel go?&quot; repeated West, who had seized Hearne by the collar of his jersey.
 
-"Lieutenant—I don't know—"
+&quot;Lieutenant&mdash;I don&apos;t know&mdash;&quot;
 
-"Yes, I tell you, you have let it go. A little more and ; the schooner would have capsized under full sail."
+&quot;Yes, I tell you, you have let it go. A little more and ; the schooner would have capsized under full sail.&quot;
 
-"Gratian," cried West, calling one of the sailors, "take the helm; and you, Hearne, go down into the hold."
+&quot;Gratian,&quot; cried West, calling one of the sailors, &quot;take the helm; and you, Hearne, go down into the hold.&quot;
 
-On a sudden the cry of "Land!" resounded, and every eye was turned southwards,
+On a sudden the cry of &quot;Land!&quot; resounded, and every eye was turned southwards,  
+ 

@@ -13,7 +13,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 
 loadcss("/css/w3.css");
 loadcss("/css/icon.css");
-loadcss("/css/literature.css?v=6");
+loadcss("/css/literature.css?v=7");
 
 function loadcss(path) {
 	let link = document.createElement("link");
@@ -581,6 +581,10 @@ function swipedetect(element, callback) {
 		startTime;
 
 	element.addEventListener('touchstart', function (e) {
+		if (e.touches.length !== 1) {
+			startX = undefined;
+			return;
+		}
 		let touchobj = e.changedTouches[0];
 		startX = touchobj.pageX;
 		startY = touchobj.pageY;
@@ -590,17 +594,26 @@ function swipedetect(element, callback) {
 	})
 
 	element.addEventListener('touchend', function (e) {
+		if (startX === undefined || e.touches.length !== 0) {
+			startX = undefined;
+			return;
+		}
 		let touchobj = e.changedTouches[0];
 		let distX = touchobj.pageX - startX;
 		let distY = touchobj.pageY - startY;
 		let elapsedTime = new Date().getTime() - startTime;
 		let swipedir = 'none';
+		startX = undefined;
 		if (elapsedTime <= allowedTime) {
 			if (Math.abs(distX) >= threshold && Math.abs(distY) <= restraint) {
 				swipedir = (distX < 0) ? 'left' : 'right'
 			}
 		}
 		callback(swipedir);
+	}, false)
+
+	element.addEventListener('touchcancel', function () {
+		startX = undefined;
 	}, false)
 }
 

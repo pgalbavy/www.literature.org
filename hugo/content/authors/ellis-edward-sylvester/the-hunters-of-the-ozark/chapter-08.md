@@ -43,7 +43,7 @@ While Hardin went out to bring in the two beavers that had been taken from the t
 The Shawanoe nodded his head to signify that it was all clear to him. Linden passed within the cabin, where he hurriedly wrote the few lines that are already known to the reader, folded the paper, and wrote on the outside:
 
 "*FREDERICK LINDEN,  
-*Grevil."
+            *Grevil."
 
 He then handed it to Deerfoot, saying:
 
@@ -57,7 +57,7 @@ He then handed it to Deerfoot, saying:
 
 No pen can describe the amazement that appeared on the faces of Linden and Bowlby. Here was a young Indian teaching a white man old enough to be his father how to spell in the English language! Was the like ever known?
 
-For a full minute neither of the hunters spoke. They were sitting on the log, while Deerfoot was standing in front of them. He held his rifle in his right hand and the folded piece of paper in his left, while he looked inquiringly down in the faces of the two men, whose mouths and eyes were open, as though they could not believe the evidence of their own senses. Finally, with a deep sigh, Linden slowly rose to his feet—
+For a full minute neither of the hunters spoke. They were sitting on the log, while Deerfoot was standing in front of them. He held his rifle in his right hand and the folded piece of paper in his left, while he looked inquiringly down in the faces of the two men, whose mouths and eyes were open, as though they could not believe the evidence of their own senses. Finally, with a deep sigh, Linden slowly rose to his feet&mdash;
 
 "Well, by gracious! if that don't beat every thing! Do you mean to say that you can read *writing*? Impossible!"
 
@@ -73,7 +73,7 @@ Bowlby, who had not yet spoken, seemed unable to express his emotions. Unable hi
 
 I should state at this point that although Linden had not seen fit to make it known, he had heard of Deerfoot the Shawanoe long before. He knew of some of his exploits in Kentucky, as well as those of later years on the western bank of the Mississippi (which are told in the "Young Pioneer" and the "Log Cabin Series"), but he had never met the youth, nor had he ever heard or suspected that he knew how to read and write. Taking hold of his arm, he asked:
 
-"Where in the name of all that is wonderful did you learn that? When I wrote to Fred that I would tell him some things about you I did not know of the most extraordinary of all—that which I have just seen. Sit right down here, between me and Jim, and let us know all about it."
+"Where in the name of all that is wonderful did you learn that? When I wrote to Fred that I would tell him some things about you I did not know of the most extraordinary of all&mdash;that which I have just seen. Sit right down here, between me and Jim, and let us know all about it."
 
 Deerfoot held back, but yielded, and finally answered in his modest way the numerous questions with which he was plied. Bowlby had managed to find his tongue, and his queries were about twice as numerous as those of his companion. By the time that Deerfoot had time to rest, Hardin came back, and there was little left to tell.
 

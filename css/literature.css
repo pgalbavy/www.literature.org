@@ -103,7 +103,7 @@ article.reader-content {
 	max-width: 72ch;
 	margin-left: auto;
 	margin-right: auto;
-	touch-action: pan-y pinch-zoom;
+	touch-action: pan-y;
 }
 
 .home-author-link,
@@ -155,16 +155,8 @@ article.reader-content {
 	font-family: 'OpenDyslexic', sans-serif;
 }
 
-:root[data-reader-size="small"] article.reader-content {
-	font-size: clamp(12px, 3.5vw, 18px);
-}
-
-:root[data-reader-size="medium"] article.reader-content {
-	font-size: clamp(14px, 4vw, 22px);
-}
-
-:root[data-reader-size="large"] article.reader-content {
-	font-size: clamp(16px, 4.6vw, 26px);
+:root[data-reader-size] article.reader-content {
+	font-size: var(--reader-font-size, 16pt);
 }
 
 .reader-settings-dialog {
@@ -235,6 +227,22 @@ article.reader-content {
 	border: 1px solid #888;
 	background: var(--reader-surface);
 	color: var(--reader-text);
+}
+
+.reader-settings-dialog output {
+	float: right;
+	font-variant-numeric: tabular-nums;
+}
+
+.reader-settings-size-limits {
+	display: flex;
+	justify-content: space-between;
+	font-size: 0.85rem;
+}
+
+.reader-settings-dialog input[type="range"] {
+	width: 100%;
+	margin: 0.75rem 0 0;
 }
 
 .reader-settings-reset-link {
