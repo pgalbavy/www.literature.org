@@ -7,4 +7,4 @@ Welcome! Explore classic fiction and non-fiction by authors including [Lewis Car
 
 We are refreshing the collection and improving the reading experience over the coming months. Thank you for visiting; we hope you find something you love, and we [welcome your suggestions](/contact/).
 
-<p class="home-privacy-note">Privacy note: This site is served from static files and does not use cookies or collect personal data. Reader settings stay in this browser and are never sent to literature.org. The hosting provider may keep standard web traffic logs that we cannot access. JavaScript is required for the site's navigation and reading features.</p>
+<p class="home-privacy-note">Privacy note: This site is served from static files and does not use cookies or collect personal data. Reader settings and your last reading location stay in this browser and are never sent to literature.org. The hosting provider may keep standard web traffic logs that we cannot access. JavaScript is required for the site's navigation and reading features.</p>

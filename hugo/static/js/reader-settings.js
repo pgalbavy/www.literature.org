@@ -2,7 +2,14 @@
 
 (() => {
   const storageKey = "literature.org.readerSettings";
-  const defaults = { width: "normal", font: "open-sans", size: 16, theme: "system" };
+  const lastLocationKey = "literature.org.lastReadingLocation";
+  const defaults = {
+    width: "normal",
+    font: "open-sans",
+    size: 16,
+    theme: "system",
+    resumeLastLocation: true
+  };
   const legacySizes = { small: 14, medium: 16, large: 20 };
   const allowed = {
     width: ["narrow", "normal", "wide"],
@@ -15,6 +22,7 @@
 
   function isAllowed(key, value) {
     if (key === "size") return Number.isInteger(value) && value >= 6 && value <= 32;
+    if (key === "resumeLastLocation") return typeof value === "boolean";
     return allowed[key].includes(value);
   }
 
@@ -60,9 +68,27 @@
     }
   }
 
+  function paragraphsIn(article) {
+    const paragraphs = [...article.querySelectorAll("p")];
+    paragraphs.forEach((paragraph, index) => {
+      if (!paragraph.id) paragraph.id = `reader-paragraph-${index + 1}`;
+    });
+    return paragraphs;
+  }
+
+  function visibleParagraph(paragraphs) {
+    const toolbarBottom = document.querySelector(".reader-toolbar")?.getBoundingClientRect().bottom ?? 0;
+    return paragraphs.find((paragraph) => {
+      const bounds = paragraph.getBoundingClientRect();
+      return bounds.bottom > toolbarBottom && bounds.top < window.innerHeight;
+    });
+  }
+
   function syncControls() {
     dialog.querySelectorAll("[name]").forEach((control) => {
-      if (control.type === "radio") {
+      if (control.type === "checkbox") {
+        control.checked = settings[control.name];
+      } else if (control.type === "radio") {
         control.checked = control.value === settings[control.name];
       } else {
         control.value = settings[control.name];
@@ -125,7 +151,11 @@
         <option value="dark">Dark</option>
         <option value="system">Follow browser / system</option>
       </select>
-      <p class="reader-settings-privacy">Your reading settings are stored only in this browser and are never sent to literature.org. <a href="#" class="reader-settings-reset-link">Reset to defaults</a>.</p>
+      <label class="reader-settings-resume">
+        <input type="checkbox" name="resumeLastLocation">
+        Return to your last reading location when opening the home page
+      </label>
+      <p class="reader-settings-privacy">Your reading settings and last reading location are stored only in this browser and are never sent to literature.org. <a href="#" class="reader-settings-reset-link">Reset to defaults</a>.</p>
       <p class="reader-settings-status" role="status" aria-live="polite"></p>
     `;
     document.body.appendChild(dialog);
@@ -137,6 +167,7 @@
       applySettings();
       syncControls();
       saveSettings("Reading settings reset to defaults.");
+      initializeLastLocation();
     });
     dialog.addEventListener("click", (event) => {
       if (event.target !== dialog) return;
@@ -149,11 +180,14 @@
     dialog.addEventListener("change", (event) => {
       const control = event.target;
       if (!control.name) return;
-      const value = control.name === "size" ? Number(control.value) : control.value;
+      const value = control.type === "checkbox"
+        ? control.checked
+        : control.name === "size" ? Number(control.value) : control.value;
       if (!isAllowed(control.name, value)) return;
       settings[control.name] = value;
       applySettings();
       saveSettings();
+      if (control.name === "resumeLastLocation") initializeLastLocation();
     });
     dialog.addEventListener("input", (event) => {
       const control = event.target;
@@ -229,6 +263,96 @@
     menu.appendChild(button);
   }
 
+  function initializeLastLocation() {
+    if (!settings.resumeLastLocation) return;
+
+    if ((window.location.pathname === "/" || window.location.pathname === "/index.html") &&
+        !window.location.search && !window.location.hash) {
+      try {
+        const savedLocation = localStorage.getItem(lastLocationKey);
+        if (!savedLocation) return;
+        const destination = new URL(savedLocation, window.location.origin);
+        if (destination.origin !== window.location.origin || destination.pathname === "/") return;
+        window.location.replace(destination.href);
+      } catch (error) {
+        console.error("Could not restore the last reading location.", error);
+      }
+      return;
+    }
+
+    const article = document.querySelector("article.reader-content");
+    if (!article) return;
+    if (article.dataset.lastLocationInitialized) return;
+    article.dataset.lastLocationInitialized = "true";
+    const paragraphs = paragraphsIn(article);
+
+    if (window.location.hash) {
+      let fragment;
+      try {
+        fragment = decodeURIComponent(window.location.hash.slice(1));
+      } catch (error) {
+        fragment = window.location.hash.slice(1);
+      }
+      document.getElementById(fragment)?.scrollIntoView({ block: "start" });
+    }
+
+    let savePending = false;
+    const saveVisibleParagraph = () => {
+      savePending = false;
+      if (!settings.resumeLastLocation) return;
+      const paragraph = visibleParagraph(paragraphs);
+      if (!paragraph) return;
+      try {
+        const destination = new URL(window.location.href);
+        destination.hash = paragraph.id;
+        localStorage.setItem(lastLocationKey, `${destination.pathname}${destination.search}${destination.hash}`);
+      } catch (error) {
+        console.error("Could not save the last reading location.", error);
+      }
+    };
+    const scheduleSave = () => {
+      if (savePending) return;
+      savePending = true;
+      window.requestAnimationFrame(saveVisibleParagraph);
+    };
+
+    window.addEventListener("scroll", scheduleSave, { passive: true });
+    window.addEventListener("pagehide", saveVisibleParagraph);
+    saveVisibleParagraph();
+  }
+
+  function initializeShareButton() {
+    const article = document.querySelector("article.reader-content");
+    const actions = document.querySelector(".reader-toolbar-actions");
+    if (!article || !actions || typeof navigator.share !== "function" ||
+        actions.querySelector(".reader-share-button")) return;
+
+    const paragraphs = paragraphsIn(article);
+    const button = document.createElement("button");
+    button.className = "w3-bar-item w3-button reader-nav-button reader-share-button";
+    button.type = "button";
+    button.title = "Share this location";
+    button.setAttribute("aria-label", "Share this location");
+    button.innerHTML = '<i class="material-icons md-lit" aria-hidden="true">share</i>';
+    const status = document.createElement("span");
+    status.className = "reader-share-status";
+    status.setAttribute("role", "status");
+    status.setAttribute("aria-live", "polite");
+    actions.append(button, status);
+    button.addEventListener("click", async () => {
+      const destination = new URL(window.location.href);
+      const paragraph = visibleParagraph(paragraphs);
+      if (paragraph) destination.hash = paragraph.id;
+      try {
+        await navigator.share({ title: document.title, url: destination.href });
+      } catch (error) {
+        if (error.name === "AbortError") return;
+        console.error("Could not share this reading location.", error);
+        status.textContent = "Could not share this reading location.";
+      }
+    });
+  }
+
   window.initializeReaderSettings = function (drawer) {
     if (!document.body || !drawer) return;
     if (!dialog) {
@@ -236,8 +360,10 @@
       loadSettings();
       applySettings();
       syncControls();
+      initializeLastLocation();
     }
     initializeFontSizePinch();
+    initializeShareButton();
     addSettingsButton(drawer);
   };
 

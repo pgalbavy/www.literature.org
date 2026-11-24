@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', (event) => {
 });
 loadcss("/css/w3.css");
 loadcss("/css/icon.css");
-loadcss("/css/literature.css?v=7");
+loadcss("/css/literature.css?v=8");
 function loadcss(path) {
     let link = document.createElement("link");
     link.setAttribute("rel", "stylesheet");
