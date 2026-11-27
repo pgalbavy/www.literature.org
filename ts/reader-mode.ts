@@ -20,8 +20,7 @@ const PAGE_TURN_MS = 180;       // page-turn slide-and-fade duration
 const PAGE_TURN_SHIFT = 16;     // px the new page slides in from
 const TAP_MAX_TIME = 300;       // ms a tap may last
 const TAP_MAX_MOVE = 12;        // px a tap may move
-const DOUBLE_TAP_TIME = 350;    // ms between the two taps of a double-tap
-const DOUBLE_TAP_DISTANCE = 40; // px between the two taps of a double-tap
+const TOUCH_GUARD_MS = 700;     // ms after a tap turn in which mouse events are ignored
 const SWIPE_DISTANCE = 50;      // px
 const SWIPE_MAX_TIME = 800;     // ms
 const WHEEL_THRESHOLD = 40;     // accumulated wheel delta per page turn
@@ -471,18 +470,18 @@ function initializeInput(article: HTMLElement): void {
   // text never turns the page; the word a double-click selects is cleared.
   let lastTouchTurn = 0;
   document.addEventListener("dblclick", (event: MouseEvent) => {
-    // A double-tap already turned the page; ignore the browser's copy of it
-    if (Date.now() - lastTouchTurn < DOUBLE_TAP_TIME * 2) return;
+    // A tap already turned the page; ignore any copy the browser makes of it
+    if (Date.now() - lastTouchTurn < TOUCH_GUARD_MS) return;
     const zone = turnZoneAt(event.clientX, event.clientY, event.target);
     if (!zone) return;
     event.preventDefault();
     turnPage(zone);
   });
 
-  // Double-tap in the same zones on touch screens. Phones do not reliably
-  // send dblclick, so two quick, short, nearby taps are detected here.
+  // Single tap in the same zones on touch screens. Touch selects text with a
+  // long press, so a quick tap that does not move is safe to use; drags,
+  // long presses and swipes are not taps.
   let tapStart: { x: number; y: number; time: number } | undefined;
-  let lastTap: { x: number; y: number; time: number; zone: "prev" | "next" } | undefined;
   document.addEventListener("touchstart", (event: TouchEvent) => {
     tapStart = undefined;
     if (!pagedActive || event.touches.length !== 1) return;
@@ -496,24 +495,12 @@ function initializeInput(article: HTMLElement): void {
     const touch = event.changedTouches[0];
     const now = Date.now();
     if (now - start.time > TAP_MAX_TIME ||
-        Math.hypot(touch.clientX - start.x, touch.clientY - start.y) > TAP_MAX_MOVE) {
-      lastTap = undefined;
-      return;
-    }
+        Math.hypot(touch.clientX - start.x, touch.clientY - start.y) > TAP_MAX_MOVE) return;
     const zone = turnZoneAt(touch.clientX, touch.clientY, event.target);
-    if (!zone) {
-      lastTap = undefined;
-      return;
-    }
-    if (lastTap && lastTap.zone === zone && now - lastTap.time < DOUBLE_TAP_TIME &&
-        Math.hypot(touch.clientX - lastTap.x, touch.clientY - lastTap.y) < DOUBLE_TAP_DISTANCE) {
-      event.preventDefault();   // no synthetic click, dblclick or zoom
-      lastTap = undefined;
-      lastTouchTurn = now;
-      turnPage(zone);
-      return;
-    }
-    lastTap = { x: touch.clientX, y: touch.clientY, time: now, zone };
+    if (!zone) return;
+    event.preventDefault();   // no synthetic click or dblclick after the tap
+    lastTouchTurn = now;
+    turnPage(zone);
   }, { passive: false });
 
   document.addEventListener("mousemove", (event: MouseEvent) => {
