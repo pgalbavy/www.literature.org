@@ -157,6 +157,10 @@ function setNavButton(button, label, enabled) {
 }
 function updateNavButtons() {
     const { back, forward } = navButtons();
+    // Grey margin cursors (literature.css) where a turn has nowhere to go
+    const root = document.documentElement.dataset;
+    root.readerNoPrev = String(pagedActive && currentPage === 0 && chapterLink("prev") === null);
+    root.readerNoNext = String(pagedActive && currentPage >= pageCount - 1 && chapterLink("next") === null);
     if (!pagedActive) {
         // Restore the chapter-only behaviour from the template
         for (const button of [back, forward]) {
