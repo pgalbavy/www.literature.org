@@ -11,7 +11,7 @@ url: "/authors/alcott-louisa-may/little-men/preface.html"
 > HOURS OF HER LIFE,  
 > THIS BOOK IS GRATEFULLY DEDICATED  
 > BY THEIR LOVING  
-> &quot;AUNT WEEDY&quot;
+> "AUNT WEEDY"
 
 > Life at Plumfield with Jo's Boys
 

@@ -1,141 +1,63 @@
 ---
-title: "Chapter 18 - \"See Dere!\""
-weight: 20
+title: "Chapter 18 - A Cruel Blow"
+weight: 18
 url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-18.html"
 ---
 
-Lieutenant James Decker had been warned more than once by the older and more experienced officers of his regiment that, sooner or later, his ardor would bring him to grief. He was so eager for a brush with the Apaches, that he charged headlong into the affray, forgetful that the foe was the most cunning, brave and skillful of any tribe on the American continent.
+Freeman, having finished his call at the fort and given his horse a good rest, remounted for his return home. Despite the proofs received of the goodwill of the Apaches on the reservation, he was disturbed because of the opinion expressed by the colonel.
 
-It was Decker who, on his first campaign against Geronimo, brought a sharp reprimand upon himself from the captain, for his recklessness in front of a rocky edge, at a time when it was known the wily chieftain and his band had been brought to bay. The command had dismounted, and were lying on the ground, behind their prostrate steeds, or whatever protection they could secure, waiting for a chance at the miscreants, among the rocks, but a short distance away. And while they were lying thus, what did the lieutenant do but spur his pony forward, and deliberately gallop back and forth, between the two lines, where it would seem it was the easiest thing in the world for Geronimo or one of his men to tumble him from the saddle.
+It was at this juncture that startling news came to the military post. Mendez, our old friend, the White Mountain scout, dashed up, his horse covered with foam, and his own appearance showing rough treatment. It was not often that the stolid fellow displayed agitation or excitement, but he was greatly disturbed, as his story proved he had good reason to be.
 
-At first Captain Grindle could hardly believe his eyes; then he thought the young officer was "rattled" to that extent that he was unaware of what he was doing; but he quickly saw the true state of affairs, and Decker was ordered instantly to fall back. As he turned to obey the peremptory command, several shots were fired from the rocks behind him, but, scorning to throw himself forward on the neck of his animal, he rode slowly back, freely expressing his opinion of the timidity of the other officers and men.
+His statement was that Maroz and Ceballos had thrown off the mask they had worn so long, had left the reservation and were at that moment well on their way to the Apache Mountains, to the south of the Gila. Those fastnesses once reached, they could defy the whole United States army to remove them.
 
-It was Decker, too, who, on another occasion of still greater peril, pretended he did not hear the order of his superior officer to withdraw, and spurred his horse straight at a group of red men, using his revolver and sword with a vigor and effect that thrilled the veteran campaigners who witnessed the scene. It took a charge of a dozen cavalrymen to extricate the fellow, but he came back without a scratch. He did good service, too, as has been told, in checking the raid of Geronimo the previous winter.
+It was not the simple fact alone that these two turbulent spirits had cast aside their disguise, but they were sure to induce other disaffected ones to join them. Should they succeed in gathering a dozen warriors or even less around them, another costly Indian campaign was inevitable and a reign of terror would follow in Southern Arizona.
 
-Somehow or other, the best of fortune had attended Lieutenant Decker thus far. He had played the part of target for Apache rifles more times than he could count, but the astonishing fact remained that not a hair of his head had as yet been harmed.
+Questioned regarding his old comrade Cemuri, Mendez replied that he was dead, slain by Maroz in the most treacherous manner conceivable. It was evident that there had been a desperate fight, for Mendez carried with him evidences of his own savage treatment.
 
-But this could not last, however. Unless he mended his ways and showed more discretion, he must go down as many a brave man had gone before him. But, as I have said, he was liked by his command and associates; for, aside from his fine personal qualities, he was a leader, instead of a follower, in all emergencies where dashing heroism was required.
+It was noted by some of those who listened to the story, that Mendez was confused in a few of the details. Those who knew him well saw evidence that he had been indulging in the bane of his life, "tiswin," that curse of so many of his people, but the exciting incident in which he had taken a prominent part had sobered him and he was fully himself.
 
-Every one of the six men who gave their steeds rein and charged southward toward the Gila in pursuit of the fleeing Apaches was splendidly mounted. It would have been folly to take up the pursuit under any other conditions. The time was likely to come when their animals could not serve them, and they would have to dismount and push on afoot, but until then they must ride hard and unceasingly.
+Little time, however, was given to questioning the scout. The alarming danger was manifest to all. Serious work was at hand. Not an hour must be lost in pursuing the hostiles, whose example was likely to spread like a prairie fire. There was a hasty call to saddle, and in less time than would be deemed possible, several cavalrymen, all of whom had seen similar service, were scurrying to the southeast.
 
-The well-known qualities of the leader of the little company caused Maurice Freeman keen misgiving. He knew that if ever the moment should arrive when Maroz and Ceballos saw they could not hold their little prisoner, they would put him to death with no more compunction than they would crush the rattlesnake in their path. In an enterprise of this kind there was urgent call for subtlety of the highest order. The father was so impressed with the fact that he reminded the lieutenant of it while they were riding side by side. Decker nodded his head, and said:
+Naturally the first thought of Maurice Freeman, when he learned what had occurred, was his own family, ten miles away, with no suspicion of danger. He pictured the little brother and sister at play outdoors and the mother singing about her household duties, while the fearful shadow stole down upon them, as the deadly serpent winds its way through the tall grass and strikes its blow before its presence is suspected.
 
-"I won’t forget it; I wish the boy was somewhere else, not only for his own sake, but that his presence among the Apaches might not handicap us. I would like to drive those fellows into a corner before they could cross, and then sail into them! There would be three less Apaches to raise the mischief than now."
+He thought, too, of Captain Murray, whose confidence in the continuance of peace was not to be shaken by argument or persuasion. He had ridiculed the fears of Freeman, but what would he say now when the news reached him?
 
-"But what do you intend to do?" asked the parent, unable to understand his plans without more enlightenment.
+Freeman had never taken pains to conceal his distrust of Maroz and Ceballos, after learning of their treachery the previous winter when Geronimo was turned back from his contemplated raid into the Sutra Valley. In fact, the ranchman had told Maroz to his face that he deserved shooting for his double dealing, and if he could have his way he would see that such punishment was inflicted. There could be no doubt, therefore, that the two renegades remembered the bitter words and would be eager to wreak revenge upon him who uttered them.
 
-The lieutenant turned his frank face toward the anxious one on his left, and replied:
+And yet there was one feature of the situation which brought the ranchman unspeakable relief. Mendez had said that when the hostiles leaped upon their ponies they headed for the Apache Mountains, which, it will be borne in mind, are on the southern side of the Salt River, while the Sutra Valley, in which he and a few of his friends had their homes, lies to the north. That broad, winding stream flows between, besides which an additional number of miles separate the two sections.
 
-"The prime object of this business is to save your boy; I know how you feel, and I feel for you; the colonel and the rest condemn me for being reckless, but that is only where *men* are involved; I’ll show that I can be as cautious and as patient as any of them, when there is need of being so."
+This knowledge I repeat was a great relief to the ranchman, as he turned the head of his horse homeward. So long as the hostiles pushed southward, so long was the safety of his family assured. There was no call to press his pony, especially as the heat was increasing and the animal was likely to suffer more than his rider.
 
-"But—lieutenant——"
+"It’s a curious coincidence," he reflected, "that it is two years this very day since we moved into the Territory. Molly and I have had hard work," he added, as he drew a match along his thigh and lighted his pipe without checking his steed, "and she has been a true helpmate to me. We have a comfortable home and no sickness has visited us. Settlers are coming into the valley and before long we shall be a town the rival of Tucson, Prescott, Phœnix, Benson and the rest of them. Then will come the churches and schools that Captain Murray is looking for, and we shall be able to educate our children properly; but permanent peace must first be established."
 
-"I know what you are going to say; my actions just now don’t indicate that, for they mean a fight. Nevertheless, I’ll prove my earnestness if I have the chance. My plan is to bring them to bay this side of the river. Then, before we fire a shot, I’ll let them know that, if they surrender and give up the boy, they won’t be punished."
+The course of the trail was almost parallel with the river, but some distance from it crossing several small streams, most of which were fringed with stunted trees, where a grateful shade could be secured. He humored his faithful animal so far as he could, without allowing him to halt, until two-thirds of the distance was passed.
 
-"But how can you do *that*?" was the astonished inquiry of Freeman.
+One fact curiously disturbed Freeman, despite the assurance received from Mendez: it was that he had left his Winchester at home by the direct request of his wife. He recalled that more than once in their lives her intuition, or whatever it may be termed, had revealed to her the shadow of coming events, when he saw nothing of them. Could it be so in the present instance?
 
-"Easily; I’ve been in the country long enough to pick up a fair knowledge of their lingo, and you’ll admit that I am the proprietor of a pretty good voice."
+The strange misgiving grew upon him as he advanced, until finally he touched spur to his horse, and despite the extreme heat, struck him into a gallop.
 
-"But will the murder of Captain Murray and his family be allowed to go unpunished?"
+"There can’t be any doubt of Mendez," he concluded; "and when he said the two headed southward for the mountains, on the other side of the river, he spoke the truth, but Maroz and Ceballos may have changed their minds, without his knowledge, or possibly the action of the hostiles was intended to mislead him. Laying their plans to draw the soldiers into the Apache Mountains, they could have recrossed the stream, dashed the few remaining miles, and swept through the valley like a whirlwind."
 
-"It ought not to, but that will have to be a condition. The colonel told me when I left the fort to get word to Maroz and Ceballos that they would be treated leniently if they stopped at once and returned to the reservation. We knew they had slain Cemuri, but that would be overlooked."
+Lest it may seem that the fear of Freeman was groundless, it should be remembered that there were no ranches or settlements on the southern side of the river in that vicinity. They were to the east and west, but so far removed as to be in little danger from this particular band of hostiles.
 
-"Think of Captain Murray and his family!"
+The innate viciousness of the Apache nature would not allow them simply to take to the mountains, and there defy the United States Government to bring them back: that would be altogether too tame. They must strike one or two blows, even though they knew the great personal risk involved.
 
-"I have done so; the colonel, if he knew that, would not permit the offer on my part, but I have his warrant for giving the pledge, and I’ll do it for the sake of your child, if the chance is given. There is dishonesty among the traders and some of the settlers, but the renegades know as well as you that when the army makes a pledge it will be kept, no matter at what cost."
+Those blows, as a matter of course, would be delivered where the best opportunity offered. The nearest white people would receive them, and the ones thus exposed were the several families along the Sutra Valley, of which his own was one.
 
-Maurice Freeman always admired the dashing lieutenant, but he never appeared so handsome to him as when, with a glowing face, he uttered these words. The heart of the brave fellow was as tender as a woman’s and the prime purpose of the dangerous business on which he had entered was to save the innocent child from the fate that impended over it.
+It will be seen, therefore, that Maurice Freeman was in anything but a restful frame of mind as his mustang cantered along the trail leading from Fort Reno, up the Sutra Valley, to the several homes scattered throughout that section.
 
-Meantime the chase was pushed with all possible vigor. Every pony was doing his level best, and neither he nor his rider cared for the pitiless rays that darted down upon their heads like spears of fire. There was scarcely a tree between them and the river flowing across their course. A couple of brooks were passed, but the major portion of the route was an undulating plain, sandy in most places, but rich and fertile in others, with a surprising luxuriance of grass, which rendered it a favorite grazing resort for animals.
+"I hope I am mistaken," he said, "but I can only wait and see."
 
-Further to the west and north, where many extensive ranches were to be found, the grazing was no better, and often not so good. Miles to the southward, beyond the calmly flowing river, the ragged Apache range lifted its crest against the sky, stretching east and west, further than the eye could reach, and forming one of the wildest spurs of the Rocky Mountain system.
+He strained his eyes toward the point where he knew his cabin stood, and which must rise to view before going a half mile further. If the Apaches were there, the first sign to catch his eye would be the smoke from his burning home; the next the lifeless bodies of his wife and children, and no man ever prayed more fervently than he that the sight might be spared to him.
 
-It was toward the fastnesses of this range that the hostiles were making with the desperate energy of men who knew that success meant life and failure the opposite. If they could place the river between them and their pursuers, they would be safe: could they do it?
+But if the hostiles were in the neighborhood, he did not forget that he himself was riding into imminent and increasing peril. Those Apaches have more than once ambushed a wagon train, in the middle of a sandy plain, devoid of every tree, rock and blade of grass. The searching glances which he cast to the right and left, as he sped along, might flit over the very spot where the warriors were crouching and waiting for him to come a little nearer before opening their deadly fire.
 
-The dusky horsemen were about a mile from the river when the first sight of them was obtained. Lieutenant Decker, who had forged slightly ahead of the rest, thundered up one of the numerous slopes, only a few feet in height, at the moment that the fugitives shot over the crest of a similar one. They were seen distinctly riding close together, and with their ponies at the highest speed.
+But he could not afford to wait or follow a more circuitous course: his anxiety was to reach his family with the least possible delay.
 
-"We are gaining!" shouted the lieutenant; "don’t spare your horses! we shall catch them!"
+A little further, and his eager eyes would catch sight of that humble home, where all that was dear in this world was gathered. He had but to gallop down that little slope just ahead, across the tiny stream winding below, then up the higher slope beyond, when the valley would open out before him for miles.
 
-In truth the animals had not been spared from the first. It was cruel to push them thus, but the stakes warranted it. That little life was worth more than the lives of any multitude of mustangs.
+The pony seemed to catch the excitement, and, without waiting for the touch of the spur, he increased his pace, even though the pitiless rays of the sun scorched his haunches and flanks until the steamy perspiration dried up and vanished. The sky above the site of his home remained of crystalline clearness and the pulsating atmosphere was unstained by any vapor.
 
-The fact that the whites had gained up to this time was ground for belief they would continue to do so, and much ought to be done before the stream was reached.
+Splash, splash, dashed the mustang through the shallow water without pausing to moisten his parching throat—then up the brief incline at the same headlong speed, and the next moment the rider uttered a groan and his heart seemed to cease beating; for, directly ahead, he saw the ascending smoke of a burning building.
 
-Hardly a word was exchanged, except now and then, between the lieutenant and Mr. Freeman. Peyser, Colgate and Redfield kept their ponies at the high pace, while they sat grimly in their saddles leaning forward to catch the earliest sight possible of the fugitives. Mendez rode his own mustang, a wiry little mare of coal black color, that was one of the hardiest and fleetest of her kind.
-
-The White Mountain Apache kept a little to the left of the rest, as if he preferred the companionship of his thoughts to that of men. The speed of his animal lifted the coarse black hair, that generally dangled about his shoulders, and caused it to flutter in a gale, like the mane and tail of his steed. His stolid face was without pain, and it must be confessed that it was not pleasant to look upon. It was broad, with protruding cheek bones, the mouth was wide, and the nose was scarred and broken years before in some ugly affray of which he never spoke.
-
-The American Indian always shows little muscular development, but those half-bare arms and legs were like tempered steel. Mendez, more than once, had trotted up the side of a mountain, for a quarter of a mile, and, when he stopped, his respiration was no faster than at starting. Many others of his people have done the same thing and can do it to-day.
-
-He had ridden his mustang into the mountains as far as he could go, and when three days passed, with not a mouthful of food, he slew his pony, devoured what he wanted, and then pushed on for three days more, without eating, during two of which he did not taste a drop of water.
-
-And through all that period, the temperature during the day never sank below a hundred degrees. The swarthy foe whose trail he was following (and whom he ultimately bagged) did almost precisely the same thing, and the endurance of neither was greater than that of the majority of their people at this very hour.
-
-Mendez rode without saddle, and his only bridle was a piece of lariat loosely looped about the neck of his mustang, just back of the head. There was little need of that, for he readily guided the movements of the animal by the touch of the hand or heel or his voice.
-
-Whether the renegades to the southward had seen their pursuers before the latter caught sight of them cannot be known, but within the succeeding five minutes a most unpleasant truth became manifest: they were fully as well mounted as the whites. Lieutenant Decker muttered impatiently when the fact could no longer be ignored:
-
-"Their outbreak and flight were no sudden impulse," he concluded, "for had it been they could not have made such complete preparations. There are no better ponies in the country than those they are riding."
-
-Shortly after this decision was reached another unpleasant discovery broke upon the whites, or rather upon Mendez, for he was the first to notice it, and told the rest in a few words of his broken English.
-
-When first seen there were three of the flying Apaches, corresponding with the number that had fired the home and destroyed the family of Captain Murray. The second scrutiny of the band revealed the astonishing fact that there were now four, who were pushing desperately for the river.
-
-Where in the name of all that was wonderful the fourth horseman had come from was beyond the understanding of the pursuers, unless a glimmer of the truth stole through the brain of Mendez. If so, he kept it to himself.
-
-The first thought of the lieutenant and Freeman was that the lifeless warrior, which the Apaches were bearing away, had been set upon a pony, and so fixed that he could keep upright during the flight; but to do that an additional animal was necessary, and his sudden appearance was as amazing as that of his rider.
-
-The most probable theory was that the new reinforcement had been waiting somewhere along the line of flight, and fell into line when the proper time arrived; but the disquieting conviction could not be avoided that Maroz and Ceballos had not only made deliberate preparations for their crimes, but had more allies than at first was suspected.
-
-All this was bad enough, but still worse was to come.
-
-Lieutenant Decker shook his head:
-
-"There’s no stopping them; they’ll cross the river in the face of all we can do; they must be followed into the mountains, and by that time there is likely to be a dozen of them together."
-
-Freeman made no answer, for he had none to make, but he observed that the officer now abated the killing pace of his horse. Since it was impossible to overtake the Apaches in a fair pursuit, and there was no possible way of preventing them from crossing the river, it was cruel to hold the animals at such exhausting speed.
-
-Sure enough, when the horsemen struck the northern bank of the stream, the others were emerging on the southern shore. Their animals had swam most of the way, for the river was deep. The enemies were now in plainer sight of each other than ever.
-
-Reining up his horse, Lieutenant Decker leveled his glass and studied the Apaches with the utmost care during the few minutes the opportunity presented. He had no difficulty in identifying Maroz and Ceballos, who, halting their ponies in plain sight, made tantalizing gestures and uttered defiant shouts in a mixture of Apache and English.
-
-The other bucks were strangers to the officer, though he was quite sure he had seen one of them at the fort. It was the latter who still supported the body of his fallen friend on his horse, as if resolved that it should not fall into the hands of their pursuers.
-
-Maroz held young Fulton Freeman on the mustang in front of him. Not only that, but he raised the lad, and steadied him on his feet, so as so make sure his friends saw him. The boy stared wonderingly across the river, as if searching for some one whom he knew. He would have recognized his father had not the latter shrank behind the lieutenant.
-
-"Don’t move," he said to the officer in a husky voice; "I can’t stand it if he sees and calls to me. Tell me when he is gone!"
-
-The strong man bowed his head, while the others silently watched the scene on the other shore.
-
-In reply to the taunts of Maroz and his companions, the lieutenant now called back, that if they would return to the reservation, restoring their prisoner unharmed to his friends, and would promise henceforth to be good Indians, they should not suffer for what they had already done.
-
-The answer to this offer was so insulting that the officer ground his teeth, and prayed that he might once get within arm’s reach of the miscreant before the business ended. Possibly, had the Apaches been checked in their flight before reaching the river, they might have accepted the offer; but then, had such good fortune befallen the pursuers, it is unlikely the offer would have been made, unless necessary to save the life of the young prisoner.
-
-Having scorned the olive branch, Maroz and Ceballos emphasized the refusal by deliberately firing a couple of shots at their pursuers, the bullets whistling uncomfortably near their ears. Then, to show how much they despised the soldiers, they rode away at a walk, instead of dashing off at full speed.
-
-The strongest proof that Lieutenant Decker could give to Maurice Freeman of his self-restraint was when he forbade any of his men to return the fire. The conclusion was fair that one or more of the hostiles could be hit, for there was not a poor marksman in the party; but little Fulton Freeman was as likely to be struck as they, and, if not, his captors would show their characteristic enmity against him.
-
-"You can look up now, Freeman!" said Decker to the parent, sitting motionless and with bowed head behind him.
-
-The father did so, without a word, and observed the Apaches riding off, Maroz and Ceballos bearing to the left, while the other two, with their inanimate burden, trended to the right. The fugitives had split into two equal divisions, which, if they continued to diverge, must soon lose sight of each other.
-
-The most direct course for the pursuers was to ride into the water and follow the fugitives, but the lieutenant hesitated.
-
-"They expect us to do it," said he, consulting with his companions, as was his custom, at a perplexing point.
-
-"Then why not do it?" asked Budge Colgate.
-
-"Because we can gain nothing and may lose a great deal. I would give all I have, which isn’t much, for a chance at them, but this is a case where we must try their own tactics: we must hide our plan of campaign from them, if it can possibly be done."
-
-"What method do you propose?"
-
-"We’ll turn back and ride off, as if we had given up a useless task, or have started after reinforcements. The Apaches will vote us sensible men for doing so. Then we must manage to get to the other side without discovery, and with the help of Mendez will try to track them to their hiding place."
-
-A comparison of views showed a unanimous agreement that this was the best course to follow. Mendez, to whom the others looked with special confidence, nodded his head several times and told them nothing else would do. They would probably have to wait until night before setting out in earnest, but that was far better than to swim the river, when sure of being seen.
-
-To emphasize his words, the dusky scout now pointed across the stream and uttered the single exclamation:
-
-"See dere!"
-
-All eyes followed the direction of the extended finger and their hearts sank at what met their gaze.
-
-"The very thing I have been dreading from the start!" was the disappointed exclamation of Lieutenant Decker.
+"The Apaches are there!" he exclaimed, and he was right.

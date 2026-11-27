@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 14 - Relates The Cause And Outbreak Of The Revolution"
-weight: 20
+weight: 19
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-14.html"
 ---
 

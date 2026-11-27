@@ -81,8 +81,10 @@ class EPub {
         metadata.setAttribute('xmlns:dc', 'http://purl.org/dc/elements/1.1/');
         let uuid = await uuidFromHash(location);
         appendElement(opf, metadata, 'dc:identifier', `urn:uuid:${uuid}`, [['id', 'pub-id']]);
-        if (this.contents.lastmodified !== undefined) {
-            appendElement(opf, metadata, 'meta', this.contents.lastmodified, [['property', 'dcterms:modified']]);
+        // contents.json has always called this lastupdated
+        const modified = this.contents.lastupdated ?? this.contents.lastmodified;
+        if (modified !== undefined) {
+            appendElement(opf, metadata, 'meta', modified, [['property', 'dcterms:modified']]);
         }
         appendElement(opf, metadata, 'dc:title', this.contents.title);
         appendElement(opf, metadata, 'dc:creator', this.contents.author);

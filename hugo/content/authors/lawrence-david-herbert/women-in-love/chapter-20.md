@@ -1,6 +1,6 @@
 ---
-title: "chapter 20"
-weight: 999
+title: "Chapter 20 - Gladiatorial"
+weight: 20
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-20.html"
 ---
 

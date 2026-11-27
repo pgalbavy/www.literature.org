@@ -1,6 +1,6 @@
 ---
 title: "Chapter 22"
-weight: 23
+weight: 22
 url: "/authors/tarkington-booth/the-guest-of-quesnay/chapter-22.html"
 ---
 

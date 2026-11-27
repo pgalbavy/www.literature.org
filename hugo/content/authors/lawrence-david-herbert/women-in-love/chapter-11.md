@@ -1,6 +1,6 @@
 ---
-title: "chapter 11"
-weight: 999
+title: "Chapter 11 - An Island"
+weight: 11
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-11.html"
 ---
 

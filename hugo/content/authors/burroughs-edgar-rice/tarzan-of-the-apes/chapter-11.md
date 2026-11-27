@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11 - \u0026quot;King of the Apes\u0026quot;"
+title: "Chapter 11 - \"King of the Apes\""
 weight: 11
 url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-11.html"
 ---

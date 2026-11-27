@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 2 - ‘On The Court Of Grünewald,’ Being A Portion Of The Traveller’s Manuscript"
-weight: 8
+weight: 7
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-02.html"
 ---
 

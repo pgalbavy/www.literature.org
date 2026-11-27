@@ -1,6 +1,6 @@
 ---
-title: "chapter 14"
-weight: 999
+title: "Chapter 14 - Water-Party"
+weight: 14
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-14.html"
 ---
 

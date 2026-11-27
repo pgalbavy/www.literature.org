@@ -1,5 +1,5 @@
 ---
-title: "Chapter 26 - \u0026quot;Jack\u0026quot;"
+title: "Chapter 26 - \"Jack\""
 weight: 26
 url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-26.html"
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Book 1 - Chapter 2 - In Which The Prince Plays Haroun-Al-Raschid"
-weight: 4
+weight: 3
 url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-02.html"
 ---
 

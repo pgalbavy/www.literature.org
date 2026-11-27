@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5 - \u0026quot;Not I,\u0026quot; Said She. \u0026quot;There Thou Mayst Trust Me. I Would Not Be Found Out.\u0026quot;"
+title: "Chapter 5 - \"Not I,\" Said She. \"There Thou Mayst Trust Me. I Would Not Be Found Out.\""
 weight: 6
 url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-05.html"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 18 - \u0026quot;I Tried Not To Be\u0026quot;"
+title: "Chapter 18 - \"I Tried Not To Be\""
 weight: 19
 url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-18.html"
 ---

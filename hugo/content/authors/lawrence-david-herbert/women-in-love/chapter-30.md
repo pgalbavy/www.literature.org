@@ -1,6 +1,6 @@
 ---
-title: "chapter 30"
-weight: 999
+title: "Chapter 30 - Snowed Up"
+weight: 30
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-30.html"
 ---
 

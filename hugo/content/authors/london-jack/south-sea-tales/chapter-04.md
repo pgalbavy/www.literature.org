@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4 - \u0026quot;Yah! Yah! Yah!\u0026quot;"
+title: "Chapter 4 - \"Yah! Yah! Yah!\""
 weight: 4
 url: "/authors/london-jack/south-sea-tales/chapter-04.html"
 ---

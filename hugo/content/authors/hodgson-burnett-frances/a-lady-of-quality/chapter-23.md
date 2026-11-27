@@ -1,5 +1,5 @@
 ---
-title: "Chapter 23 - \u0026quot;In One Who Will Do Justice, And Demands That It Shall Be Done To Each Thing He Has Made, By Each Who Bears His Image\u0026quot;"
+title: "Chapter 23 - \"In One Who Will Do Justice, And Demands That It Shall Be Done To Each Thing He Has Made, By Each Who Bears His Image\""
 weight: 24
 url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-23.html"
 ---

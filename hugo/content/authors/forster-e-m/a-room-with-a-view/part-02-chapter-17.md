@@ -1,6 +1,6 @@
 ---
 title: "Part 2 - Chapter 17 - Lying To Cecil"
-weight: 18
+weight: 17
 url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-17.html"
 ---
 

@@ -4,21 +4,21 @@ weight: 56
 url: "/authors/eliot-george/the-mill-on-the-floss/part-07-chapter-03.html"
 ---
 
-When Maggie was at home again, her mother brought her news of an unexpected line of conduct in aunt Glegg. As long as Maggie had not been heard of, Mrs. Glegg had half closed her shutters and drawn down her blinds. She felt assured that Maggie was drowned; that was far more probable than that her niece and legatee should have done anything to wound the family honor in the tenderest point. When at last she learned from Tom that Maggie had come home, and gathered from him what was her explanation of her absence, she burst forth in severe reproof of Tom for admitting the worst of his sister until he was compelled. If you were not to stand by your &quot;kin&quot; as long as there was a shred of honor attributable to them, pray what were you to stand by? Lightly to admit conduct in one of your own family that would force you to alter your will, had never been the way of the Dodsons; and though Mrs. Glegg had always augured ill of Maggie's future at a time when other people were perhaps less clear-sighted, yet fair play was a jewel, and it was not for her own friends to help to rob the girl of her fair fame, and to cast her out from family shelter to the scorn of the outer world, until she had become unequivocally a family disgrace. The circumstances were unprecedented in Mrs. Glegg's experience; nothing of that kind had happened among the Dodsons before; but it was a case in which her hereditary rectitude and personal strength of character found a common channel along with her fundamental ideas of clanship, as they did in her lifelong regard to equity in money matters. She quarrelled with Mr. Glegg, whose kindness, flowing entirely into compassion for Lucy, made him as hard in his judgment of Maggie as Mr. Deane himself was; and fuming against her sister Tulliver because she did not at once come to her for advice and help, shut herself up in her own room with Baxter's &quot;Saints' Rest&quot; from morning till night, denying herself to all visitors, till Mr. Glegg brought from Mr. Deane the news of Stephen's letter. Then Mrs. Glegg felt that she had adequate fighting-ground; then she laid aside Baxter, and was ready to meet all comers. While Mrs. Pullet could do nothing but shake her head and cry, and wish that cousin Abbot had died, or any number of funerals had happened rather than this, which had never happened before, so that there was no knowing how to act, and Mrs. Pullet could never enter St. Ogg's again, because &quot;acquaintances&quot; knew of it all, Mrs. Glegg only hoped that Mrs. Wooll, or any one else, would come to her with their false tales about her own niece, and she would know what to say to that ill-advised person!
+When Maggie was at home again, her mother brought her news of an unexpected line of conduct in aunt Glegg. As long as Maggie had not been heard of, Mrs. Glegg had half closed her shutters and drawn down her blinds. She felt assured that Maggie was drowned; that was far more probable than that her niece and legatee should have done anything to wound the family honor in the tenderest point. When at last she learned from Tom that Maggie had come home, and gathered from him what was her explanation of her absence, she burst forth in severe reproof of Tom for admitting the worst of his sister until he was compelled. If you were not to stand by your "kin" as long as there was a shred of honor attributable to them, pray what were you to stand by? Lightly to admit conduct in one of your own family that would force you to alter your will, had never been the way of the Dodsons; and though Mrs. Glegg had always augured ill of Maggie's future at a time when other people were perhaps less clear-sighted, yet fair play was a jewel, and it was not for her own friends to help to rob the girl of her fair fame, and to cast her out from family shelter to the scorn of the outer world, until she had become unequivocally a family disgrace. The circumstances were unprecedented in Mrs. Glegg's experience; nothing of that kind had happened among the Dodsons before; but it was a case in which her hereditary rectitude and personal strength of character found a common channel along with her fundamental ideas of clanship, as they did in her lifelong regard to equity in money matters. She quarrelled with Mr. Glegg, whose kindness, flowing entirely into compassion for Lucy, made him as hard in his judgment of Maggie as Mr. Deane himself was; and fuming against her sister Tulliver because she did not at once come to her for advice and help, shut herself up in her own room with Baxter's "Saints' Rest" from morning till night, denying herself to all visitors, till Mr. Glegg brought from Mr. Deane the news of Stephen's letter. Then Mrs. Glegg felt that she had adequate fighting-ground; then she laid aside Baxter, and was ready to meet all comers. While Mrs. Pullet could do nothing but shake her head and cry, and wish that cousin Abbot had died, or any number of funerals had happened rather than this, which had never happened before, so that there was no knowing how to act, and Mrs. Pullet could never enter St. Ogg's again, because "acquaintances" knew of it all, Mrs. Glegg only hoped that Mrs. Wooll, or any one else, would come to her with their false tales about her own niece, and she would know what to say to that ill-advised person!
 
 Again she had a scene of remonstrance with Tom, all the more severe in proportion to the greater strength of her present position. But Tom, like other immovable things, seemed only the more rigidly fixed under that attempt to shake him. Poor Tom! he judged by what he had been able to see; and the judgment was painful enough to himself. He thought he had the demonstration of facts observed through years by his own eyes, which gave no warning of their imperfection, that Maggie's nature was utterly untrustworthy, and too strongly marked with evil tendencies to be safely treated with leniency. He would act on that demonstration at any cost; but the thought of it made his days bitter to him. Tom, like every one of us, was imprisoned within the limits of his own nature, and his education had simply glided over him, leaving a slight deposit of polish; if you are inclined to be severe on his severity, remember that the responsibility of tolerance lies with those who have the wider vision. There had arisen in Tom a repulsion toward Maggie that derived its very intensity from their early childish love in the time when they had clasped tiny fingers together, and their later sense of nearness in a common duty and a common sorrow; the sight of her, as he had told her, was hateful to him. In this branch of the Dodson family aunt Glegg found a stronger nature than her own; a nature in which family feeling had lost the character of clanship by taking on a doubly deep dye of personal pride.
 
 Mrs. Glegg allowed that Maggie ought to be punished, - she was not a woman to deny that; she knew what conduct was, - but punished in proportion to the misdeeds proved against her, not to those which were cast upon her by people outside her own family who might wish to show that their own kin were better.
 
-&quot;Your aunt Glegg scolded me so as niver was, my dear,&quot; said poor Mrs. Tulliver, when she came back to Maggie, &quot;as I didn't go to her before; she said it wasn't for her to come to me first. But she spoke like a sister, too; having she allays was, and hard to please, - oh dear! - but she's said the kindest word as has ever been spoke by you yet, my child. For she says, for all she's been so set again' having one extry in the house, and making extry spoons and things, and putting her about in her ways, you shall have a shelter in her house, if you'll go to her dutiful, and she'll uphold you against folks as say harm of you when they've no call. And I told her I thought you couldn't bear to see anybody but me, you were so beat down with trouble; but she said, 'I won't throw ill words at her; there's them out o' th' family 'ull be ready enough to do that. But I'll give her good advice; an' she must be humble.' It's wonderful o' Jane; for I'm sure she used to throw everything I did wrong at me, - if it was the raisin-wine as turned out bad, or the pies too hot, or whativer it was.&quot;
+"Your aunt Glegg scolded me so as niver was, my dear," said poor Mrs. Tulliver, when she came back to Maggie, "as I didn't go to her before; she said it wasn't for her to come to me first. But she spoke like a sister, too; having she allays was, and hard to please, - oh dear! - but she's said the kindest word as has ever been spoke by you yet, my child. For she says, for all she's been so set again' having one extry in the house, and making extry spoons and things, and putting her about in her ways, you shall have a shelter in her house, if you'll go to her dutiful, and she'll uphold you against folks as say harm of you when they've no call. And I told her I thought you couldn't bear to see anybody but me, you were so beat down with trouble; but she said, 'I won't throw ill words at her; there's them out o' th' family 'ull be ready enough to do that. But I'll give her good advice; an' she must be humble.' It's wonderful o' Jane; for I'm sure she used to throw everything I did wrong at me, - if it was the raisin-wine as turned out bad, or the pies too hot, or whativer it was."
 
-&quot;Oh, mother,&quot; said poor Maggie, shrinking from the thought of all the contact her bruised mind would have to bear, &quot;tell her I'm very grateful; I'll go to see her as soon as I can; but I can't see any one just yet, except Dr. Kenn. I've been to him, - he will advise me, and help me to get some occupation. I can't live with any one, or be dependent on them, tell aunt Glegg; I must get my own bread. But did you hear nothing of Philip - Philip Wakem? Have you never seen any one that has mentioned him?&quot;
+"Oh, mother," said poor Maggie, shrinking from the thought of all the contact her bruised mind would have to bear, "tell her I'm very grateful; I'll go to see her as soon as I can; but I can't see any one just yet, except Dr. Kenn. I've been to him, - he will advise me, and help me to get some occupation. I can't live with any one, or be dependent on them, tell aunt Glegg; I must get my own bread. But did you hear nothing of Philip - Philip Wakem? Have you never seen any one that has mentioned him?"
 
-&quot;No, my dear; but I've been to Lucy's, and I saw your uncle, and he says they got her to listen to the letter, and she took notice o' Miss Guest, and asked questions, and the doctor thinks she's on the turn to be better. What a world this is, - what trouble, oh dear! The law was the first beginning, and it's gone from bad to worse, all of a sudden, just when the luck seemed on the turn?&quot; This was the first lamentation that Mrs. Tulliver had let slip to Maggie, but old habit had been revived by the interview with sister Glegg.
+"No, my dear; but I've been to Lucy's, and I saw your uncle, and he says they got her to listen to the letter, and she took notice o' Miss Guest, and asked questions, and the doctor thinks she's on the turn to be better. What a world this is, - what trouble, oh dear! The law was the first beginning, and it's gone from bad to worse, all of a sudden, just when the luck seemed on the turn?" This was the first lamentation that Mrs. Tulliver had let slip to Maggie, but old habit had been revived by the interview with sister Glegg.
 
-&quot;My poor, poor mother!&quot; Maggie burst out, cut to the heart with pity and compunction, and throwing her arms round her mother's neck; &quot;I was always naughty and troublesome to you. And now you might have been happy if it hadn't been for me.&quot;
+"My poor, poor mother!" Maggie burst out, cut to the heart with pity and compunction, and throwing her arms round her mother's neck; "I was always naughty and troublesome to you. And now you might have been happy if it hadn't been for me."
 
-&quot;Eh, my dear,&quot; said Mrs. Tulliver, leaning toward the warm young cheek; &quot;I must put up wi' my children, - I shall never have no more; and if they bring me bad luck, I must be fond on it. There's nothing else much to be fond on, for my furnitur' went long ago. And you'd got to be very good once; I can't think how it's turned out the wrong way so!&quot;
+"Eh, my dear," said Mrs. Tulliver, leaning toward the warm young cheek; "I must put up wi' my children, - I shall never have no more; and if they bring me bad luck, I must be fond on it. There's nothing else much to be fond on, for my furnitur' went long ago. And you'd got to be very good once; I can't think how it's turned out the wrong way so!"
 
 Still two or three more days passed, and Maggie heard nothing of Philip; anxiety about him was becoming her predominant trouble, and she summoned courage at last to inquire about him of Dr. Kenn, on his next visit to her. He did not even know if Philip was at home. The elder Wakem was made moody by an accumulation of annoyance; the disappointment in this young Jetsome, to whom, apparently, he was a good deal attached, had been followed close by the catastrophe to his son's hopes after he had done violence to his own strong feeling by conceding to them, and had incautiously mentioned this concession in St. Ogg's; and he was almost fierce in his brusqueness when any one asked him a question about his son.
 
@@ -26,7 +26,7 @@ But Philip could hardly have been ill, or it would have been known through the c
 
 At last Bob brought her a letter, without a postmark, directed in a hand which she knew familiarly in the letters of her own name, - a hand in which her name had been written long ago, in a pocket Shakespeare which she possessed. Her mother was in the room, and Maggie, in violent agitation, hurried upstairs that she might read the letter in solitude. She read it with a throbbing brow.
 
-> &quot;Maggie, - I believe in you; I know you never meant to deceive me; I  
+> "Maggie, - I believe in you; I know you never meant to deceive me; I  
 > know you tried to keep faith to me and to all. I believed this  
 > before I had any other evidence of it than your own nature. The  
 > night after I last parted from you I suffered torments. I had seen  
@@ -50,7 +50,7 @@ At last Bob brought her a letter, without a postmark, directed in a hand which s
 > never believe that it could bear for another all the meaning and  
 > the beauty it bears for him.
 
-> &quot;I dared not trust myself to see you that morning; I was filled  
+> "I dared not trust myself to see you that morning; I was filled  
 > with selfish passion; I was shattered by a night of conscious  
 > delirium. I told you long ago that I had never been resigned even  
 > to the mediocrity of my powers; how could I be resigned to the loss  
@@ -60,14 +60,14 @@ At last Bob brought her a letter, without a postmark, directed in a hand which s
 > aching affection into the divine rapture of an ever-springing,  
 > ever-satisfied want?
 
-> &quot;But the miseries of that night had prepared me for what came  
+> "But the miseries of that night had prepared me for what came  
 > before the next. It was no surprise to me. I was certain that he  
 > had prevailed on you to sacrifice everything to him, and I waited  
 > with equal certainty to hear of your marriage. I measured your love  
 > and his by my own. But I was wrong, Maggie. There is something  
 > stronger in you than your love for him.
 
-> &quot;I will not tell you what I went through in that interval. But even  
+> "I will not tell you what I went through in that interval. But even  
 > in its utmost agony - even in those terrible throes that love must  
 > suffer before it can be disembodied of selfish desire - my love for  
 > you sufficed to withhold me from suicide, without the aid of any  
@@ -95,7 +95,7 @@ At last Bob brought her a letter, without a postmark, directed in a hand which s
 > transferred life which has come to me in loving you, may be a new  
 > power to me.
 
-> &quot;Then, dear one, in spite of all, you have been the blessing of my  
+> "Then, dear one, in spite of all, you have been the blessing of my  
 > life. Let no self-reproach weigh on you because of me. It is I who  
 > should rather reproach myself for having urged my feelings upon  
 > you, and hurried you into words that you have felt as fetters. You  
@@ -105,7 +105,7 @@ At last Bob brought her a letter, without a postmark, directed in a hand which s
 > best. But, Maggie, I have no just claim on you for more than  
 > affectionate remembrance.
 
-> &quot;For some time I have shrunk from writing to you, because I have  
+> "For some time I have shrunk from writing to you, because I have  
 > shrunk even from the appearance of wishing to thrust myself before  
 > you, and so repeating my original error. But you will not  
 > misconstrue me. I know that we must keep apart for a long while;  
@@ -115,20 +115,20 @@ At last Bob brought her a letter, without a postmark, directed in a hand which s
 > unchangeably yours, - yours not with selfish wishes, but with a  
 > devotion that excludes such wishes.
 
-> &quot;God comfort you, my loving, large-souled Maggie. If every one else  
+> "God comfort you, my loving, large-souled Maggie. If every one else  
 > has misconceived you, remember that you have never been doubted by  
 > him whose heart recognized you ten years ago.
 
-> &quot;Do not believe any one who says I am ill, because I am not seen  
+> "Do not believe any one who says I am ill, because I am not seen  
 > out of doors. I have only had nervous headaches, - no worse than I  
 > have sometimes had them before. But the overpowering heat inclines  
 > me to be perfectly quiescent in the daytime. I am strong enough to  
 > obey any word which shall tell me that I can serve you by word or  
 > deed.
 
-> &quot;Yours to the last,  
-> &quot;Philip Wakem.&quot;
+> "Yours to the last,  
+> "Philip Wakem."
 
 As Maggie knelt by the bed sobbing, with that letter pressed under her, her feelings again and again gathered themselves in a whispered cry, always in the same words, -
 
-&quot;O God, is there any happiness in love that could make me forget their pain?&quot;
+"O God, is there any happiness in love that could make me forget their pain?"

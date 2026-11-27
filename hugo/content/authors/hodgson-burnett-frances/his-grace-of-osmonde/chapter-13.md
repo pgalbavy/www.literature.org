@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13 - \u0026quot;Your--Grace!\u0026quot;"
+title: "Chapter 13 - \"Your--Grace!\""
 weight: 14
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-13.html"
 ---

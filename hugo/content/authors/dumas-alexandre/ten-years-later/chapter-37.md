@@ -1,5 +1,5 @@
 ---
-title: "Chapter 37 - How D'artagnan Regulated The \u0026quot;Assets\u0026quot; Of The Company Before He Established Its \u0026quot;Liabilities\u0026quot;"
+title: "Chapter 37 - How D'artagnan Regulated The \"Assets\" Of The Company Before He Established Its \"Liabilities\""
 weight: 37
 url: "/authors/dumas-alexandre/ten-years-later/chapter-37.html"
 ---

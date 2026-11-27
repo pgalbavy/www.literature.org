@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 1 - What Happened In The Library"
-weight: 7
+weight: 6
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-01.html"
 ---
 

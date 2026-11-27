@@ -1,5 +1,5 @@
 ---
-title: "Chapter 16 - \u0026quot;Most Remarkable\u0026quot;"
+title: "Chapter 16 - \"Most Remarkable\""
 weight: 16
 url: "/authors/burroughs-edgar-rice/tarzan-of-the-apes/chapter-16.html"
 ---

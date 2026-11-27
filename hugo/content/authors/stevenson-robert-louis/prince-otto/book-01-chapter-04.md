@@ -1,6 +1,6 @@
 ---
 title: "Book 1 - Chapter 4 - In Which The Prince Collects Opinions By The Way"
-weight: 6
+weight: 5
 url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-04.html"
 ---
 

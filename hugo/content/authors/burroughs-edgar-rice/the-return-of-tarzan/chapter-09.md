@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9 - Numa \u0026quot;El Adrea\u0026quot;"
+title: "Chapter 9 - Numa \"El Adrea\""
 weight: 9
 url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-09.html"
 ---

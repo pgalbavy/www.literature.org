@@ -1,5 +1,5 @@
 ---
-title: "Chapter 52 - \u0026quot;If I Could Find A Friend!\u0026quot;"
+title: "Chapter 52 - \"If I Could Find A Friend!\""
 weight: 52
 url: "/authors/collins-wilkie/i-say-no/chapter-52.html"
 ---

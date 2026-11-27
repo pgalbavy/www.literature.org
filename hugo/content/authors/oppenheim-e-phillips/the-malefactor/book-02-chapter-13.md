@@ -1,5 +1,5 @@
 ---
-title: "Book 2 - Chapter 13 - \u0026quot;It Was An Accident\u0026quot;"
+title: "Book 2 - Chapter 13 - \"It Was An Accident\""
 weight: 29
 url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-13.html"
 ---

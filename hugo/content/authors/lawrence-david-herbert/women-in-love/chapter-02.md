@@ -1,6 +1,6 @@
 ---
-title: "chapter 02"
-weight: 999
+title: "Chapter 2 - Shortlands"
+weight: 2
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-02.html"
 ---
 

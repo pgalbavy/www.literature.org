@@ -1,6 +1,6 @@
 ---
-title: "chapter 01"
-weight: 999
+title: "Chapter 1 - Sisters"
+weight: 1
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-01.html"
 ---
 

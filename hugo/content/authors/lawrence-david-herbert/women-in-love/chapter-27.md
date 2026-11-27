@@ -1,6 +1,6 @@
 ---
-title: "chapter 27"
-weight: 999
+title: "Chapter 27 - Flitting"
+weight: 27
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-27.html"
 ---
 

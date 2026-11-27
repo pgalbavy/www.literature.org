@@ -1,5 +1,5 @@
 ---
-title: "Chapter 29 - The House Of Morrel \u0026 Son"
+title: "Chapter 29 - The House Of Morrel & Son"
 weight: 29
 url: "/authors/dumas-alexandre/the-count-of-monte-cristo/chapter-29.html"
 ---

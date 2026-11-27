@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7 - \u0026quot;The Locked Door\u0026quot;"
+title: "Chapter 7 - \"The Locked Door\""
 weight: 8
 url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-07.html"
 ---

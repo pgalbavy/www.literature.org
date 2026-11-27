@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 10 - Gotthold’s Revised Opinion; And The Fall Completed"
-weight: 16
+weight: 15
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-10.html"
 ---
 

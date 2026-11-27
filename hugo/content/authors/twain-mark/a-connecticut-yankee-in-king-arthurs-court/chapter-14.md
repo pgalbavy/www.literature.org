@@ -1,5 +1,5 @@
 ---
-title: "Chapter 14 - \u0026quot;Defend Thee, Lord\u0026quot;"
+title: "Chapter 14 - \"Defend Thee, Lord\""
 weight: 15
 url: "/authors/twain-mark/a-connecticut-yankee-in-king-arthurs-court/chapter-14.html"
 ---

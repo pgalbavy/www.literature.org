@@ -1,105 +1,119 @@
 ---
-title: "Chapter 26 - A Surprise Indeed"
-weight: 28
+title: "Chapter 26 - The Reality"
+weight: 26
 url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-26.html"
 ---
 
-Mendez, the White Mountain Apache and friend of the whites, possessed mental gifts above most of his race. More than once he had displayed a grasp of details and a comprehension of plans rarely shown by his people, and which were so unexpected to the officers on the reservation that they were filled with admiration. They trusted more to his skill and perception than they did to any other of the dusky scouts.
+As Mendez pronounced the dreadful words, the father, overcome by his emotions, uttered a groan and sank to the earth. As if pitying his grief, and feeling that it was idle to say anything more, the Apache turned slowly about and walked away, leaving the white man alone with his grief.
 
-He had little to say, immediately after the outbreak of Maroz and Ceballos, but those who knew him were sure his active brain was at work, and that, sooner or later, he would surprise them by some exploit that proved an almost intuitive knowledge of the schemes of the hostiles.
+And then some one touched Freeman on the shoulder, shook him and he—awoke.
 
-The part he acted during the day of the revolt of Maroz and Ceballos has been told. Lieutenant Decker, who was his constant companion, afterward stated that from the moment he rode out from Fort Reno with him and the three cavalrymen, he did not utter twenty words, and those that fell from his lips were mostly in answer to inquiries, while the majority remained unanswered.
+It was all a dream. He had sat down with his back against the boulder to await the signal from Lieutenant Decker, and, hearing it not, had sunk into a restless sleep, and now opened his eyes under the vigorous stirring of his young friend.
 
-It is to be presumed that Mendez was satisfied with the steps taken to head off Maroz and his confederates, for, had it been otherwise, he would have protested. But the effort failed, and then the fellow found use for his tongue. He was freely consulted by the colonel, and the steps that were taken to subdue the outbreak were materially modified to meet the views of the sagacious Mendez.
+"Come," said the officer in a guarded voice, "a sentinel must not sleep on his post. I heard you moan and thought you had been hurt."
 
-No member of the hostiles knew more about the fastnesses of the Apache range than did he. He read in the display of the signal smoke and the actions of the band that had slain the family of Captain Murray an attempt to mislead the whites as to their true purpose. Instead of rendezvousing at the advanced point, where from their actions it would be supposed they had arranged to come together, they fixed upon a wild, precipitous gorge nearly two miles further in the mountains.
+It is impossible to throw off on the instant the effects of a vivid dream. It will linger for a time in our thoughts, even though strong sense tells us the whole thing is absurd. Captain Freeman during his days of campaigning had learned to fall asleep and to awaken quickly. He saw almost on the instant the true situation and greeted his friend cordially and cautiously.
 
-Locating there and keeping vigilant watch against surprise the leaders would send out their runners and bring in all the disaffected warriors that could be persuaded to take the risk of another revolt against the authorities. When they were fully assembled they would burst from the mountains like a cyclone and spread woe and death among the ranches and settlements over an area of hundreds of square miles.
+"This was a piece of thoughtlessness on my part; but, lieutenant, I have gone through a frightful dream: it makes me shudder even now."
 
-To crush this rebellion in the bud was the work of the soldiers, and enough has been told to show that it was a task most difficult of accomplishment. How could the brave boys in blue hope to surprise the camp of the hostiles, when they were prepared for such an attempt and were certain to take every possible precaution against it?
+"I thought something of the kind was under way, for I was guided to this spot by a moan that was like that of a dying person. It was only a little while ago that three Apaches came down to the spring or rivulet, as you may call it, to drink. They stood for some minutes talking. Had you groaned in your sleep or breathed heavily, your slumber would have turned to that which knows no waking."
 
-Evidently there was but one way and even that offered scant probability of success. By taking the direct trail of the raiders and following it into the mountains every rod of advance would become known to the Apaches. They would form their ambush, empty many a saddle and scatter the survivors in dismay. It was for just such a campaign that the hostiles planned and which they believed was to be attempted against them.
+"I have been fortunate, but perhaps it is well that I slept, and yet I am sorry, for its remembrance is terrible."
 
-It is not insisted that, but for Mendez, this course would have been adopted. The intelligent officers and soldiers of the Southwest learned fast, and speedily became adepts in the subtlety of Apache warfare. They learned how to ambuscade their dusky foes as well as to avoid the traps set for them, and the fight was often that of cunning against cunning, rather than bravery against bravery.
+"You have no faith in dreams, captain, I am sure?"
 
-The colonel, however, willingly based his course of action on the belief of Mendez that the rendezvous of the hostiles had been fixed at a certain point among the foothills, which he described and located so clearly that the other White Mountain scouts recognized the spot, and were able to guide the troops unerringly to it, by a route which would allow them to use their horses for most of the distance.
+"None the less they impress us, no matter how we ridicule them."
 
-Fort Reno, standing on the western bank of the Tonto, is fully twenty miles north of the Salt River, a principal tributary of the Gila. Instead of riding eastward toward the Sierra Ancha, which would have been the most direct route, the cavalry swept down the valley of the smaller stream, crossed the larger, and then headed eastward toward the Apache range, passing to the south of Grape Vine Spring, and fording Pinal Creek, which flows directly northward into the Salt River.
+"But come! that must have been a lively one; let me hear about it."
 
-Under the guidance of the Indian scouts, this was carried out with perfect success, the cavalry entering the foothills from an unexpected point, and stealing their way toward the Apache camp without detection from the enemy.
+Seated under the shadow of the huge boulder, where they knew no danger threatened, the two talked freely, though each took care that their voices did not penetrate far from the spot. Freeman gave the particulars of his dream, and it was plain that despite his rugged nature it had made a deep impression on him.
 
-But the ride was a tremendous one, covering as it did a distance of more than fifty miles. It was not begun until the afternoon was well along, and when daylight dawned much was still before them. They were forced to halt to rest their exhausted animals and to prepare for the more delicate and dangerous work before them.
+"Lieutenant, do you suppose there is anything in it?" he asked at the conclusion of the singular story. The young man respected the sorrow of the elder too sincerely to make light of what he said, though he himself felt not the slightest faith in the warnings and visions which it is claimed sometimes come to people in slumber.
 
-Meantime Mendez and Lieutenant Decker were doing their part well. Accompanied by a squad of half a dozen cavalry, they crossed Salt River at a point where they were certain of being seen by the hostiles, riding here and there, apparently in a blind search for the trail. They were ordered to keep this up until night, and then recross at different points, come together on the northern bank and return to the fort.
+"Nothing at all; your feelings have been so wrought up with anxiety that it would be still stranger if you had not dreamed of your boy. How could it be otherwise when there is nothing else in your thoughts?"
 
-It will be understood that the object of this diversion was to deceive the hostiles as to the real plan of campaign. It was sought to make them believe the pursuit and attack would come from the front, whereas, the cavalry were at that very time making all haste to reach the rear of their camp.
+"But it was so realistic that it clings by me."
 
-The members of the smaller party found their way in due time to the fort, with the exception of a couple—Mendez and Lieutenant Decker. They stayed behind and pushed matters on their own account.
+"As a matter of course; your brain was surcharged and overflowed with the same string of ideas, and did not cease its throbbings when the rest of the body was asleep. They say we never dream of anything which has not previously been in our thoughts, but that is an error, for I know I have had fancies in sleep which had never been in my head during waking hours."
 
-Their purpose was altogether different from that of Captain Shindle and the others, for they could not hope to accomplish anything effective against the hostiles: they were aiming to help Maurice Freeman to recover his boy.
+"I have always held the same views as you, and yet we cannot deny, lieutenant, that there have been many verifications of dreams. To dispute it would be to make out some of the best of men and women to be falsifiers."
 
-As the lieutenant had stated, Mendez knew and told him that the father would do precisely what he did do, and that, unless he was checked, he would fall a victim to Apache ferocity, without affording the slightest aid to his child. Freeman had made the natural mistake of believing the hostiles would rendezvous at a point much further in advance than they did. Some of their scouts would be there, on the watch for the approach of the whites, and the chance of the father’s circumventing them was as one in a million.
+"In their cases, I think, a good deal was due to imagination, but you are not of that build. A physician would explain your ugly dream on the plainest of physiological principles, so literally there’s nothing in it."
 
-The lieutenant and the scout, having completed all they could do in the way of diverting the suspicion of the Apaches, now gave their whole energy to the help of the stricken parent.
+"You know how fond Mendez is of tiswin."
 
-The whole question narrowed down to that of the whereabouts of the captive, and whether it was possible to secure possession of him unharmed. Mendez suspected that Maroz and Ceballos, with probably one or two companions, were at the advanced position referred to, but whether they retained the immediate custody of the child, or had sent him further into the mountains with the main band, or had put him to death, were questions which could be answered only by personal investigation.
+"That feature alone proves the character of your vision. The fellow shares with his people the weakness for that extract of hades, but when he is engaged on business like this you could not induce him to swallow a drop, if you held it under his nose. That phase of your dream, therefore, condemns it all."
 
-The natural conclusion was that the first proceeding of the leaders in the outbreak would be to send the child away from them, not only as a surer means against his recapture, but to leave his abductors untrammeled in their movements. Such, I say, was the natural theory, but the sagacious Mendez saw a reason for hoping that the reverse was the case; in other words, that matters were just as it was desired they should be.
+"I am relieved to hear you say so," remarked Freeman with a sigh; "you know more about him than I do, and could hardly mistake on that point."
 
-Maroz was irrestrainable in his ferocity when aroused. No crueler savage ever lived. He carried off little Fulton Freeman, because he saw the chance of torturing his parents’ hearts with deeper grief by doing so than by driving a bullet through his brain. He helped to shoot down the children of Captain Murray, because their father and mother fell during the opening of the scrimmage, and, therefore, they could not be distressed further; but he recognized the son of Freeman and saw his opportunity.
+"Rather curiously it is only a few days ago that some of us were talking about that very peculiarity. One of the men who had scouted for months with him and Cemuri said that both had a certain conscientiousness or rather devotion to duty which kept them strictly sober, till their work is done. Then, too," added the lieutenant, as if resolved to leave no foundation for Freeman’s fears, "there is no way by which Mendez could have got the vile stuff, had he been so disposed."
 
-To turn the little fellow over to the other Apaches back in the mountains would be to relinquish, for a time at least, control of his fate. There were turbulent spirits with the main band who were likely to insist on their own views as to what should be done with him. It was not improbable that these would conflict with the purposes of Maroz and cause him keen disappointment.
+"Could he not have gone among the Apaches and drunk with them?"
 
-It cannot be denied that this was theorizing matters down to a fine point, but it was the theory upon which Mendez acted in his attempts to help Maurice Freeman in his extremity.
+"He, a White Mountain Apache, whose work for us is well known, venture among the hostiles, when they are on the war path!" exclaimed Decker, turning with astonishment to his companion; "why do not you and I go among them? It would be less sensible for him, since they hate him more than both of us together."
 
-The correctness of his belief in the first instance was proven by his discovery of the white man near where he expected him to be. Not intending to be hampered by the movements of the anxious parent, his first step was to pilot him to a safe point, and leave him in the company of the lieutenant until such time as their services should be needed—a contingency that, as the Apache viewed it, was so remote as to be almost out of sight.
+"Well," said Freeman, "your words have given me comfort. I have never had any experience in the dreams which serve as warnings."
 
-Parting from them, as has been described elsewhere, Mendez began one of the most difficult tasks of his life: it was that of locating not only Maroz and Ceballos, but the young captive. That had to be done before the still harder work of rescuing the little one should be attempted.
+"Besides," added the lieutenant, as the new thought struck him, "my recollection of the old superstition is that dreams go by contraries, so that on that basis your omen is a good one. Let me see—the theory was that every dream was to be translated by the rule of contraries, unless it came to us of a Friday night. Since this is Thursday evening that lets you out."
 
-It is not worth while to follow the wonderful scout, step by step, in his approach to the camp of the hostiles. It may be described as the absolute perfection of woodcraft—noiseless, unerring, and as direct as that of the bloodhound on the trail of the fugitive. As the gloom closed him in, and the black eyes lost half their function, his advance showed hardly any diminution, for he was never at a loss as to the course to take.
+"Enough," said Freeman, now able to rally from his depression; "I care nothing for the dream, and can look at it through your eyes. You have not told me whether you saw or heard anything out of the usual, though there must have been something of the sort, or you forgot to give that call for me to join you."
 
-But there came a time when he was within a stone’s throw almost of the spot he had fixed upon as the right one that his phantom-like progress was checked. The slow, silent, gliding motion ceased and the dusky scout stood motionless.
+"Well," replied the lieutenant lightly, "I had a little entertainment of my own, and at one time it looked as if matters would become lively."
 
-At that moment he was among the stunted pines, where the moonlight was so faint that his keen vision could penetrate only a short distance in any direction, but the conviction was strong upon him that some person was near. He had not seen or heard anything to impart such knowledge, but that peculiar sense known by the name of intuition was as unmistakable as sight or hearing could have been.
+Thereupon he gave the incidents which have already been told the reader, and which drove the last remnants of the dream from Freeman’s thoughts.
 
-Sure enough, while gazing to the right, he outlined the figure of an Apache warrior, standing as quiet as himself, in a spot where the dim illumination would have been secure protection against any eyes except those of Mendez. The figure remained stationary only a few seconds when it vanished among the trees in the direction of the camp of the hostiles.
+"It seems to me," said the captain, "that what you tell me gives good cause for uneasiness."
 
-As it moved off the friendly scout received a shock, caused by observing a resemblance to one whom he had known before, and who was the last person in the world he expected to see. The emotion, however, was transitory, and, waiting but a minute or two, he resumed his stealthy approach to the camp.
+"How so?"
 
-A few steps further and he caught the twinkle of a fire among the trees, and he had only to put forth the matchless caution he had displayed from the first to gain sight of that which he was so desirous of seeing.
+"You have met four of the Apaches at least, or rather you saw them. We thought none of them were near. We must be close to the main party."
 
-There was a small fire of broken sticks kindled against the face of a boulder, and in front of it was an Apache warrior stretched on the ground in a lazy attitude, smoking his pipe and seemingly half asleep, as he gazed thoughtfully at the embers; but Mendez needed no one to tell him that every sense of the fellow was on the alert, and that the slightest misstep on the part of the scout would bring him to his feet like a flash.
+"That does not follow; the one with whom I played hide and seek was a sort of wanderer. He had drifted into this section, and, not liking the look of things, has gone."
 
-It was Ceballos who lolled in this fashion, and he was the only Indian in sight. His companion or companions were absent, doubtless on the lookout for the approach of the soldiers, who had been observed hovering on the trail during the afternoon. Mendez scanned every portion of his field of vision, but Ceballos was alone.
+"But he learned that you were here—you a white man, and would not be likely to believe you were alone."
 
-That he had friends near, however, was proven the next minute when a call, similar to that used by the friendly scout, sounded among the trees. Instantly the Apache came to a sitting posture, with his head turned partly sideways, in the attitude of intense attention.
+"I do not see why he should not think so, since he himself was alone. He has known of the water here and concluded that I had come from somewhere to get a drink and was on my return, when we came near running against each other. Remember that we did not meet at the rock where we agreed to await the return of Mendez, so he can know nothing of that."
 
-Then he answered the signal in the same guarded manner, and looked to the left, whence a second figure emerged, with the noiselessness of a shadow. As the firelight fell upon his face, Mendez recognized Maroz, the fierce Apache, who had led the revolt and whose hands were already stained with crime.
+"But, if he carries the news to camp, will not the Apaches suspect the truth, or perhaps more than the truth? They will think a party of white men are after my child and become doubly cautious."
 
-He bent down by the fire, lit his pipe, coolly seated himself beside his companion, and the two began talking together.
+"While it is possible you may be right, I place less importance on the incident than you."
 
-It was all important that a part at least of their words should be overheard, since they were sure to help materially in gaining the knowledge which the White Mountain Indian was seeking. Their voices were low, but it was rather in obedience to custom than through fear of any eavesdroppers. The stillness was profound, and the listener was able to catch enough of the words to hold the drift of conversation.
+"And the three whom you saw at the spring?"
 
-The result was a remarkable confirmation of his own wisdom, for it proved that the couple had placed themselves in this position, near the trail leading into the mountains, to detect the approach of the soldiers, and to give notice to the band, that they might fully prepare to receive them. Maroz and Ceballos speculated as to whether their pursuers had formed any suspicion of the truth, and were making their advance with such care that they would not reach the spot until midnight or later. Nothing, however, that was overheard showed that they suspected the cavalry would try to steal to the rear of their camp; they looked for them over the direct route, as it may be called.
+"Their course proved they had not the slightest suspicion of anything of that nature. Had they believed any of us were near, they would have come and gone without detection, or they would have done worse."
 
-But the great question, after all, remained unanswered. Where was the boy that these vagrants stole from the destroyed home of Captain Murray? Inasmuch as he was not in sight, it was fair to presume he was with the main band, further in the mountains. Mendez suspected this was the fact, but he was not prepared fully to believe it until proof was given. It need not be said, therefore, that he listened with the closest attention to the words of the couple.
+"Well, I hope it is as you say; I am in that nervous state that I cannot look at matters with the coolness you do."
 
-But the minutes passed without affording a hint of the information he was after. Neither Maroz nor Ceballos referred to the lad, but talked about the soldiers, whom they were expecting, and who they were anxious should come. The two took turns in moving back over the trail, so as to prevent any possible surprise, and their presence together was intended for only a short time, and came about because they were quite sure their pursuers would wait until the night was further along.
+"Don’t get the idea that I consider it fair sailing before us. Mendez has a hard job in hand, and, were any one else concerned, I would have little hope; but he understands what he is doing and is following some carefully laid plan of his own. At any rate we shall know before morning."
 
-All at once Mendez caught a reference to the child, but the usually stolid fellow was roused to the point of exasperation by the action of Maroz, who, at the moment he made the remark, shifted his position so as to turn his face directly away from him. Ceballos imitated the movement in order to accommodate him, so interfering with the sounds of their voices that Mendez could not identify a word, even though all were uttered in the same tone as before.
+The consciousness that the crisis was so near added to the uneasiness of Freeman. He rose to his feet and looked anxiously around in the gloom; but they were so far removed from the little rivulet or spring of water that a dozen men might have come and gone without being seen, had they but exercised ordinary caution.
 
-No more trying situation can be imagined than that of the scout, who, on the threshold of information, found the door shut in his face. It was evident that the couple were uttering the very sentences he wished to hear, and it was equally evident that he could not hear them so long as the relative position of the parties remained the same.
+"Since there is no telling when Mendez may return," suggested Freeman, "is it not best that we should return to the other rock?"
 
-Instead of waiting in the hope that they would make another move that would favor him, Mendez promptly took the only course that offered hope; he moved round to the other side of the camp, so as to place himself in front of his enemies.
+Lieutenant Decker saw no objection to this course, and he, too, rose to his feet. He stood a moment, debating some question with himself.
 
-This was a task of such extreme delicacy that he stealthily withdrew until beyond sight of the little blaze. With all his wonderful woodcraft he dared not attempt the circuit while so near to camp, nor, great as was his impatience, did he allow himself to be unduly hurried.
+"I wonder," he finally said, "whether any more of them can be in the neighborhood. I am inclined to take another look at the spring. If you will remain here, I will promise not to keep you waiting more than a few minutes."
 
-But he was expeditious, and striking the right point he again advanced, catching the glimmer of the fire before he had gone a dozen steps in a straight line.
+"Very well; there’s no fear of my falling asleep again, and if you are absent too long I will go forward and find out the cause."
 
-It was a night of surprises, and the greatest of his life now came to him.
+"Wait for the signal, or better, I will return to you."
 
-Maroz and Ceballos held the same position as before and were talking apparently about the captive, concerning whom the spy was anxious to secure information; but a third Indian was present. He must have come during the few minutes the scout was out of sight of camp. His coming was as skillful as that of Mendez himself, for he had heard and seen nothing of him. That singular intuition which revealed the presence of another, when invisible to the eye and inaudible to the ear, was not always with Mendez, or he would have discovered his approach.
+"It is the same distrust," reflected Freeman, when he was once more left alone; "but in this business I suppose one man is better than two."
 
-The new arrival was standing erect, between the couple on the ground and the fire, with his back toward the latter. He was talking, and while holding his rifle in one hand gesticulated with the other. The same indefinable something in his appearance and manner told Mendez that he was the warrior whom he had seen a short time before.
+Despite the reassuring words of the lieutenant, he was somewhat troubled by the new phase of the situation. Of the four Apaches whom he had seen, one received a sharp reminder of the presence of a white man in the neighborhood. If he carried the news to the camp of his people, they would see the probable meaning of it, since no white person would come thither for a drink of water, unless he left companions in the vicinity. The fact that he was near the spring would indicate that others were not far off, and that the solitary Apache held such belief was almost proved by his withdrawal in the face of danger. A warrior with his acumen and skill, who had come so near outwitting his antagonist, would not be apt to give up the game of hide and seek, unless he expected a change of conditions through the arrival of other white men. He must have felt himself the equal of a single foe, but had no wish to become involved with several. His course was simply a retreat before an enemy whom he expected to be joined by reinforcements.
 
-But the face of the Apache was in shadow, and for several minutes he could not identify him. At the end of that time, however, he suddenly turned, so that the firelight fell upon his countenance. And then, as Mendez looked, he recognized him as Cemuri, his companion of years, whom he was certain was slain by Maroz within the preceding twenty-four hours.
+On the other hand, he might be operating on his own responsibility, or, if a scout, would not rejoin the main party until he could take more definite information to them.
+
+It will be seen that the young officer was in a maze of doubt and speculation. Like the detective trying to trace a crime, he could spin theories without limit, only perhaps to find them all wrong in the end. The situation which confronted them was that they were to wait at the rock some distance off until the coming of Mendez, and when he came, he would bring good or evil news. That was the situation in a nutshell.
+
+Had the lieutenant discovered more Apaches near the spring, he would have seen cause for misgiving and alarm. He, therefore, reconnoitered the spot with the utmost care, listening and peering here and there with the patient caution of an Apache himself. It required but a brief while, however, to satisfy himself that none of his enemies were prowling in the neighborhood. Some of them might have come and gone, while he was holding converse with Freeman, but it was unlikely.
+
+The lieutenant, therefore, did not hesitate to emit the guarded whistle which quickly brought his friend to his side.
+
+"I have discovered nothing amiss," he explained; "I don’t believe any of them have been here since the three I told you about."
+
+"I presume you wish to take the lead as usual?"
+
+"It makes no difference," replied Decker, who, however, took care to place himself in advance, with the other only two or three yards behind him. The route had become familiar to both and neither needed to warn the other to be careful. They advanced in the crouching posture to which they had become accustomed, with heads thrown forward, stepping softly, looking keenly on all sides and listening for the first indication of danger, which might come from the rear as well as from the front.
+
+When the lieutenant found himself facing the huge boulder where he had encountered the Apache some time before, he paused, raising his hand for Freeman to do the same. It seemed as if his old enemy must still be near, and the young man did not pass the dangerous point until he had called into play all the skill of which he was master and convinced himself that nothing further was to be feared. Then the two picked their way to the rendezvous by the rock.

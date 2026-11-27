@@ -1,5 +1,5 @@
 ---
-title: "Anne of the Islands"
+title: "Anne of the Island"
 book_author: "Lucy Maud MONTGOMERY"
 source: ""
 ---

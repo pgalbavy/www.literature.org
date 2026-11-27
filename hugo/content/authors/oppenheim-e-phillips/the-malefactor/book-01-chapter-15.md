@@ -1,5 +1,5 @@
 ---
-title: "Book 1 - Chapter 15 - \u0026quot;Devil Take The Hindmost\u0026quot;"
+title: "Book 1 - Chapter 15 - \"Devil Take The Hindmost\""
 weight: 15
 url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-15.html"
 ---

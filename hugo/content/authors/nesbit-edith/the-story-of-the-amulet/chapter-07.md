@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7 - \u0026quot;The Deepest Dungeon Below The Castle Moat\u0026quot;"
+title: "Chapter 7 - \"The Deepest Dungeon Below The Castle Moat\""
 weight: 7
 url: "/authors/nesbit-edith/the-story-of-the-amulet/chapter-07.html"
 ---

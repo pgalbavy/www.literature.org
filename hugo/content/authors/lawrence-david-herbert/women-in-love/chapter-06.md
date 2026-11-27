@@ -1,6 +1,6 @@
 ---
-title: "chapter 06"
-weight: 999
+title: "Chapter 6 - Creme De Menthe"
+weight: 6
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-06.html"
 ---
 

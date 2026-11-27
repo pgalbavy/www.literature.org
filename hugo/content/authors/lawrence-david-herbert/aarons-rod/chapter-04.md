@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4 - \u0026quot;The Pillar Of Salt\u0026quot;"
+title: "Chapter 4 - \"The Pillar Of Salt\""
 weight: 4
 url: "/authors/lawrence-david-herbert/aarons-rod/chapter-04.html"
 ---

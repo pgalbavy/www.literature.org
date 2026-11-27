@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12 - \u0026quot;Averil's Atonement\u0026quot;"
+title: "Chapter 12 - \"Averil's Atonement\""
 weight: 12
 url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-12.html"
 ---

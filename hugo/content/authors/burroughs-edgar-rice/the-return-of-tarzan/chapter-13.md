@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13 - The Wreck of the \u0026quot;Lady Alice\u0026quot;"
+title: "Chapter 13 - The Wreck of the \"Lady Alice\""
 weight: 13
 url: "/authors/burroughs-edgar-rice/the-return-of-tarzan/chapter-13.html"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "chapter 29"
-weight: 999
+title: "Chapter 29 - Continental"
+weight: 29
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-29.html"
 ---
 

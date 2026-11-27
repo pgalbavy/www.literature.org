@@ -1,6 +1,6 @@
 ---
-title: "chapter 24"
-weight: 999
+title: "Chapter 24 - Death And Love"
+weight: 24
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-24.html"
 ---
 

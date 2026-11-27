@@ -1,5 +1,5 @@
 ---
-title: "Book 1 - Chapter 6 - \u0026quot;Hast Thou Found Me, O Mine Enemy?\u0026quot;"
+title: "Book 1 - Chapter 6 - \"Hast Thou Found Me, O Mine Enemy?\""
 weight: 6
 url: "/authors/oppenheim-e-phillips/the-malefactor/book-01-chapter-06.html"
 ---

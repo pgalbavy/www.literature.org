@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 12 - Providence Von Rosen: Act The Second She Informs The Prince"
-weight: 18
+weight: 17
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-12.html"
 ---
 

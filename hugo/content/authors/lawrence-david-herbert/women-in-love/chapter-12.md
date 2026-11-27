@@ -1,6 +1,6 @@
 ---
-title: "chapter 12"
-weight: 999
+title: "Chapter 12 - Carpeting"
+weight: 12
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-12.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "chapter 13"
-weight: 999
+title: "Chapter 13 - Mino"
+weight: 13
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-13.html"
 ---
 

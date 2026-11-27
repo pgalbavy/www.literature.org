@@ -1,5 +1,5 @@
 ---
-title: "Chapter 17 - Townlinson \u0026 Sheppard"
+title: "Chapter 17 - Townlinson & Sheppard"
 weight: 17
 url: "/authors/hodgson-burnett-frances/the-shuttle/chapter-17.html"
 ---

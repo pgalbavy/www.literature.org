@@ -1,5 +1,5 @@
 ---
-title: "Chapter 19 - The Last of the \u0026quot;Kincaid\u0026quot;"
+title: "Chapter 19 - The Last of the \"Kincaid\""
 weight: 19
 url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-19.html"
 ---

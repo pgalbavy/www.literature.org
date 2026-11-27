@@ -1,5 +1,5 @@
 ---
-title: "Chapter 25 - B.\u0026quot;"
+title: "Chapter 25 - B.\""
 weight: 25
 url: "/authors/collins-wilkie/i-say-no/chapter-25.html"
 ---

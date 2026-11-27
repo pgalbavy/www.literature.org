@@ -1,5 +1,5 @@
 ---
-title: "Chapter 17 - \u0026quot;Your\u0026quot; Miss Lackland"
+title: "Chapter 17 - \"Your\" Miss Lackland"
 weight: 17
 url: "/authors/london-jack/adventure/chapter-17.html"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7 - \u0026quot;Coming Events Cast Their Shadows Before.\u0026quot;"
+title: "Chapter 7 - \"Coming Events Cast Their Shadows Before.\""
 weight: 7
 url: "/authors/collins-wilkie/i-say-no/chapter-07.html"
 ---

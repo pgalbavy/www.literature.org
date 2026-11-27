@@ -1,6 +1,6 @@
 ---
 title: "Book 3 - Chapter 3 - Providence Von Rosen: Act The Last In Which She Gallops Off"
-weight: 23
+weight: 22
 url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-03.html"
 ---
 

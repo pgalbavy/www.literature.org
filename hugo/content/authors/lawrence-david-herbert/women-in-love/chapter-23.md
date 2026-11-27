@@ -1,6 +1,6 @@
 ---
-title: "chapter 23"
-weight: 999
+title: "Chapter 23 - Excurse"
+weight: 23
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-23.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "chapter 18"
-weight: 999
+title: "Chapter 18 - Rabbit"
+weight: 18
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-18.html"
 ---
 

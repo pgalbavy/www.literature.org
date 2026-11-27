@@ -1,5 +1,5 @@
 ---
-title: "Chapter 13 - \u0026quot;Revenge!\u0026quot; Timotheus Cries"
+title: "Chapter 13 - \"Revenge!\" Timotheus Cries"
 weight: 13
 url: "/authors/lawrence-david-herbert/the-kangaroo/chapter-13.html"
 ---

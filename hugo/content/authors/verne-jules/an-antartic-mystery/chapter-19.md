@@ -4,11 +4,11 @@ weight: 19
 url: "/authors/verne-jules/an-antartic-mystery/chapter-19.html"
 ---
 
-&quot;Land&quot; is the only word to be found at the beginning of the nineteenth chapter of Edgar Poe&apos;s book. I thought it would be a good idea&mdash;placing after it a note of interrogation&mdash;to put it as a heading to this portion of our narrative.
+"Land" is the only word to be found at the beginning of the nineteenth chapter of Edgar Poe's book. I thought it would be a good idea—placing after it a note of interrogation—to put it as a heading to this portion of our narrative.
 
-Did that word, dropped from our fore-masthead, indicate an island or a continent? And, whether a continent or an island, did not a disappointment await us? Could they be there whom we had come to seek? And Arthur Pym, who was dead, unquestionably dead, in spite of Dirk Peters&apos; assertions, had he ever set foot on this land?
+Did that word, dropped from our fore-masthead, indicate an island or a continent? And, whether a continent or an island, did not a disappointment await us? Could they be there whom we had come to seek? And Arthur Pym, who was dead, unquestionably dead, in spite of Dirk Peters' assertions, had he ever set foot on this land?
 
-When the welcome word resounded on board the *Jane* on the 17th January, 1828&mdash;(a day full of incidents according to Arthur Pym&apos;s diary)&mdash;it was succeeded by &quot;Land on the starboard bow!&quot; Such might have been the signal from the masthead of the *Halbrane.*
+When the welcome word resounded on board the *Jane* on the 17th January, 1828—(a day full of incidents according to Arthur Pym's diary)—it was succeeded by "Land on the starboard bow!" Such might have been the signal from the masthead of the *Halbrane.*
 
 The outlines of land lightly drawn above the sky line were visible on this side.
 
@@ -16,9 +16,9 @@ The land announced to the sailors of the fane was the wild and barren Bennet Isl
 
 I repeat that I was just like the half-breed. Our aim was not merely to discover the survivors, nor was success in this matter the only success we looked for. However, since land was before our eyes, we must get nearer to it first.
 
-That cry of&quot; Land&quot; caused an immediate diversion of our thoughts. I no longer dwelt upon the secret Dirk Peters had just told me&mdash;and perhaps the half-breed forgot it also, for he rushed to the bow and fixed his eyes immovably on the horizon. As for West, whom nothing could divert from his duty, he repeated his commands. Gratian came to take the helm, and Hearne was shut up in the hold.
+That cry of" Land" caused an immediate diversion of our thoughts. I no longer dwelt upon the secret Dirk Peters had just told me—and perhaps the half-breed forgot it also, for he rushed to the bow and fixed his eyes immovably on the horizon. As for West, whom nothing could divert from his duty, he repeated his commands. Gratian came to take the helm, and Hearne was shut up in the hold.
 
-On the whole this was a just punishment, and none of the old crew protested against it, for Hearne&apos;s inattention awkwardness had really endangered the schooner, for a short time only.
+On the whole this was a just punishment, and none of the old crew protested against it, for Hearne's inattention awkwardness had really endangered the schooner, for a short time only.
 
 Five or six of the Falklands sailors did, however, murmur a little.
 
@@ -26,7 +26,7 @@ A sign from the mate silenced them, and they returned at once to their posts.
 
 Needless to say, Captain Len Guy, upon hearing the cry of the look-out man, had tumbled up from his cabin: and eagerly examined this land at ten or twelve miles distance.
 
-As I have said, I was no longer thinking about the secret Dirk Peters had confided to me. Besides, so long as the secret remained between us two&mdash;and neither would betray it&mdash;there would be nothing to fear. But if ever an unlucky accident were to reveal to Martin Holt that his brother&apos;s name had been changed to Parker, that the unfortunate man had not perished in the shipwreck of the *Grampus*, but had been sacrificed to save his companions from perishing of hunger; that Dirk Peters, to whom Martin Holt himself owed his life, had killed him with his own hand, what might not happen then? This was the reason why the half-breed shrank from any expression of thanks from Martin Holt&mdash;why he avoided Martin Holt, the victim&apos;s brother.
+As I have said, I was no longer thinking about the secret Dirk Peters had confided to me. Besides, so long as the secret remained between us two—and neither would betray it—there would be nothing to fear. But if ever an unlucky accident were to reveal to Martin Holt that his brother's name had been changed to Parker, that the unfortunate man had not perished in the shipwreck of the *Grampus*, but had been sacrificed to save his companions from perishing of hunger; that Dirk Peters, to whom Martin Holt himself owed his life, had killed him with his own hand, what might not happen then? This was the reason why the half-breed shrank from any expression of thanks from Martin Holt—why he avoided Martin Holt, the victim's brother.
 
 The boatswain had just struck six bells. The schooner was sailing with the caution demanded by navigation in unknown seas. There might be shoals or reefs barely hidden under the surface on which she might run aground or be wrecked. As things stood with the *Halbrane*, and even admitting that she could be floated again, an accident would have rendered her return impossible before the winter set in. We had urgent need that every chance should be in our favour and not one against us.
 
@@ -38,75 +38,75 @@ However, we all agreed to regard this land as from twenty-five to thirty fathoms
 
 No! we would not admit that we were the victims of a delusion, and yet our uneasy minds feared that it might so!
 
-Is it not natural, after all, for the heart to be assailed by a thousand apprehensions as we near the end of any enterprise? At this thought my mind became confused and dreamy. The *Halbrane* seemed to be reduced to the dimensions of a small boat lost in this boundless space&mdash;the contrary of that limitless sea of which Edgar Poe speaks, where, like a living body, the ship grows larger.
+Is it not natural, after all, for the heart to be assailed by a thousand apprehensions as we near the end of any enterprise? At this thought my mind became confused and dreamy. The *Halbrane* seemed to be reduced to the dimensions of a small boat lost in this boundless space—the contrary of that limitless sea of which Edgar Poe speaks, where, like a living body, the ship grows larger.
 
 When we have charts, or even sailing directions instruct us concerning the hydrography of the coasts, the nature of the landfalls, the bays and the creeks, we may sail along boldly. In every other region, the master of a ship must not defer the order to cast anchor near the shore until the morrow. But, where we were, what an amount of prudence was necessary! And yet, no manifest obstacle was before us. Moreover, we had no cause to fear that the light would fail us during the sunny the night. At this season the sun did not set so soon under the western horizon, and its rays bathed the vast Antarctic zone in unabated light.
 
-From that day forward the ship&apos;s log recorded that the temperature fell continuously. The thermometer in the air and in the shade did not mark more than 32° (0° C.), and when plunged into water it only indicated 26° (3° 33&apos; C. below 0°). What could be the cause of this fall, since we were at the height of the southern summer? The crew were obliged to resume their woollen clothing, which they had left off a month previously. The schooner, however, was sailing before the wind, and these first cold blasts were less keenly felt. Yet we recognized the necessity of reaching our goal as soon as possible. To linger in this region or to expose ourselves to the danger of wintering out would be to tempt Providence!
+From that day forward the ship's log recorded that the temperature fell continuously. The thermometer in the air and in the shade did not mark more than 32° (0° C.), and when plunged into water it only indicated 26° (3° 33' C. below 0°). What could be the cause of this fall, since we were at the height of the southern summer? The crew were obliged to resume their woollen clothing, which they had left off a month previously. The schooner, however, was sailing before the wind, and these first cold blasts were less keenly felt. Yet we recognized the necessity of reaching our goal as soon as possible. To linger in this region or to expose ourselves to the danger of wintering out would be to tempt Providence!
 
 Captain Len Guy tested the direction of the current by heavy lead lines, and discovered that it was beginning to deviate from its former course.
 
-&quot;Whether it is a continent,&quot; said he, &quot;that lies before us, or whether it is an island, we have at present no means of determining. If it be a continent, we must conclude that the current has an issue towards the south-east.&quot;
+"Whether it is a continent," said he, "that lies before us, or whether it is an island, we have at present no means of determining. If it be a continent, we must conclude that the current has an issue towards the south-east."
 
-&quot;And it is quite possible,&quot; I replied, &quot;that the solid part of the Antarctic region may be reduced to a mere polar mound. In any case, it is well to note any of those observations which are likely to be accurate.&quot;
+"And it is quite possible," I replied, "that the solid part of the Antarctic region may be reduced to a mere polar mound. In any case, it is well to note any of those observations which are likely to be accurate."
 
-&quot;That is just what I am doing, Mr. Jeorling, and we shall bring back a mass of information about this portion of the southern sea which will prove useful to navigators.&quot;
+"That is just what I am doing, Mr. Jeorling, and we shall bring back a mass of information about this portion of the southern sea which will prove useful to navigators."
 
-&quot;If ever any venture to come so far south, captain! We have penetrated so far, thanks to the help of particular circumstances, the earliness of the summer season, an abnormal temperature and a rapid thaw. Such conditions may only occur once in twenty or fifty years!&quot;
+"If ever any venture to come so far south, captain! We have penetrated so far, thanks to the help of particular circumstances, the earliness of the summer season, an abnormal temperature and a rapid thaw. Such conditions may only occur once in twenty or fifty years!"
 
-&quot;Wherefore, Mr. Jeorling, I thank Providence for this, and hope revives in me to some extent. As the weather has been constantly fine, what is there to make it impossible for my brother and my fellow-countrymen to have landed on this coast, whither the wind and the tide bore them? What our schooner has done, their boat may have done! They surely did not start on a voyage which might prolonged to an indefinite time without a proper supply of provisions! Why should they not have found the resources as those afforded to them by the island of Tsalal during many long years? They had ammunition and arms elsewhere. Fish abound in these waters, water-fowl also. Oh yes! my heart is full of hope, and I wish I were a few hours older!&quot;
+"Wherefore, Mr. Jeorling, I thank Providence for this, and hope revives in me to some extent. As the weather has been constantly fine, what is there to make it impossible for my brother and my fellow-countrymen to have landed on this coast, whither the wind and the tide bore them? What our schooner has done, their boat may have done! They surely did not start on a voyage which might prolonged to an indefinite time without a proper supply of provisions! Why should they not have found the resources as those afforded to them by the island of Tsalal during many long years? They had ammunition and arms elsewhere. Fish abound in these waters, water-fowl also. Oh yes! my heart is full of hope, and I wish I were a few hours older!"
 
-Without being quite so sanguine as Len Guy, I was glad to see he had regained his hopeful mood. Perhaps, if his investigations were successful, I might be able to have them continued in Arthur Pym&apos;s interest&mdash;even into the heart of this strange land which we were approaching.
+Without being quite so sanguine as Len Guy, I was glad to see he had regained his hopeful mood. Perhaps, if his investigations were successful, I might be able to have them continued in Arthur Pym's interest—even into the heart of this strange land which we were approaching.
 
 The *Halbrane* was going along slowly on these clear waters, which swarmed with fish belonging to the same species as we had already met. The sea-birds were more numerous, and were evidently not frightened; for they kept flying round the mast, or perching in the yards. Several whitish ropes about five or six feet long were brought on board. They were chaplets formed of millions of shell-fish.
 
 Whales, spouting jets of feathery water from their blow-holes, appeared at a distance, and I remarked that all them took a southerly direction. There was therefore reason to believe that the sea extended far and wide in that direction.
 
-The schooner covered two or three miles of her course without any increase of speed. This coast evidently Stretched from north-west to south-east. Nevertheless, the telescopes revealed no distinctive features&mdash;even after three hours&apos; navigation.
+The schooner covered two or three miles of her course without any increase of speed. This coast evidently Stretched from north-west to south-east. Nevertheless, the telescopes revealed no distinctive features—even after three hours' navigation.
 
 The crew, gathered together on the forecastle, were looking on without revealing their impressions. West, after going aloft to the fore-cross-trees, where he had remained ten minutes, had reported nothing precise. Stationed at the port side, leaning my elbows on the bulwarks, I closely watched the sky line, broken only towards the east.
 
 At this moment the boatswain rejoined me, and without preface said:
 
-&quot;Will you allow me to give you my opinion, Mr. Jeorling ?&quot;
+"Will you allow me to give you my opinion, Mr. Jeorling ?"
 
-&quot;Give it, boatswain,&quot; I replied, &quot;at the risk of my not adopting it if I don&apos;t agree with it.&quot;
+"Give it, boatswain," I replied, "at the risk of my not adopting it if I don't agree with it."
 
-&quot;It is correct, and according as we get nearer one must really be blind not to adopt it!&quot;
+"It is correct, and according as we get nearer one must really be blind not to adopt it!"
 
-&quot;And what idea have you got?&quot;
+"And what idea have you got?"
 
-&quot;That it is not land which lies before us, Mr. Jeorling!&quot;
+"That it is not land which lies before us, Mr. Jeorling!"
 
-&quot;What is it you are saying?&quot;
+"What is it you are saying?"
 
-&quot;Look attentively, putting one finger before your eyes&mdash;look there&mdash;out a&mdash;starboard.&quot;
+"Look attentively, putting one finger before your eyes—look there—out a—starboard."
 
 I did as Hurliguerly directed.
 
-&quot;Do you see?&quot; he began again. &quot;May I lose my liking for my grog if these heights do not change place, not with regard to the schooner, but with regard to themselves!&quot;
+"Do you see?" he began again. "May I lose my liking for my grog if these heights do not change place, not with regard to the schooner, but with regard to themselves!"
 
-&quot;And what do you conclude from this?&quot;
+"And what do you conclude from this?"
 
-&quot;That they are moving icebergs.&quot;
+"That they are moving icebergs."
 
-&quot;Icebergs?&quot;
+"Icebergs?"
 
-&quot;Sure enough, Mr. Jeorling.&quot;
+"Sure enough, Mr. Jeorling."
 
 Was not the boatswain mistaken? Were we in for a disappointment? Were there only drifting ice-mountains in the distance instead of a shore?
 
 Presently, there was no doubt on the subject; for some time past the crew had no longer believed existence of land in that direction.
 
-Ten minutes afterwards, the man in the crow&apos;s-nest announced that several icebergs were coming north-west, in an oblique direction, into the course of the *Halbrane.*
+Ten minutes afterwards, the man in the crow's-nest announced that several icebergs were coming north-west, in an oblique direction, into the course of the *Halbrane.*
 
-This news produced a great sensation on board. Our last hope was suddenly extinguished. And what a blow to Captain Len Guy! We should have to seek land of the austral zone under higher latitudes without being sure of ever coming across it!&quot;
+This news produced a great sensation on board. Our last hope was suddenly extinguished. And what a blow to Captain Len Guy! We should have to seek land of the austral zone under higher latitudes without being sure of ever coming across it!"
 
-And then the cry, &quot;Back ship! back ship!&quot; sounded almost unanimously on board the *Halbrane*.
+And then the cry, "Back ship! back ship!" sounded almost unanimously on board the *Halbrane*.
 
 Yes, indeed, the recruits from the Falklands demanding that we should turn back, although Hearne was not there to fan the flame of insubordination, and I must acknowledge that the greater part of the old tars seemed to agree with them.
 
-West awaited his chief&apos;s orders, not daring to impose silence.
+West awaited his chief's orders, not daring to impose silence.
 
 Gratian was at the helm, ready to give a turn to wheel, whilst his comrades with their hands on the cleats were preparing to ease off the sheets.
 
@@ -114,75 +114,75 @@ Dirk Peters remained immovable, leaning against the fore-mast, his head down, hi
 
 But now he turned towards me, and what a look of mingled wrath and entreaty he gave me!
 
-I don&apos;t know what irresistible motive induced me to interfere personally, and once again to protest! A final argument had just crossed my mind&mdash;an argument whose weight could not be disputed.
+I don't know what irresistible motive induced me to interfere personally, and once again to protest! A final argument had just crossed my mind—an argument whose weight could not be disputed.
 
 So I began to speak, and I did so with such conviction that none tried to interrupt me.
 
-The substance of what I said was as follows:&mdash;
+The substance of what I said was as follows:—
 
-&quot;No! all hope must not be abandoned. Land cannot be far off. The icebergs which are formed in the open sea by the accumulation of ice are not before us. These icebergs must have broken off from the solid base of a continent or an island. Now, since the thaw begins at this season of the year, the drift will last for only a short time. Behind them we must meet the coast on which they were formed. In another twenty-four hours, or forty-eight at the most, if the land does not appear, Captain Len Guy will steer to the north again!
+"No! all hope must not be abandoned. Land cannot be far off. The icebergs which are formed in the open sea by the accumulation of ice are not before us. These icebergs must have broken off from the solid base of a continent or an island. Now, since the thaw begins at this season of the year, the drift will last for only a short time. Behind them we must meet the coast on which they were formed. In another twenty-four hours, or forty-eight at the most, if the land does not appear, Captain Len Guy will steer to the north again!
 
-Had I convinced the crew, or ought I to take advantage of Hearne&apos;s absence and of the fact that he could not communicate with them to make them understand that they were being deccived, and to repeat to them that it would endanger the schooner if our course were now to be reversed.
+Had I convinced the crew, or ought I to take advantage of Hearne's absence and of the fact that he could not communicate with them to make them understand that they were being deccived, and to repeat to them that it would endanger the schooner if our course were now to be reversed.
 
-The boatswain came to my help, and in a good-humoured voice exclaimed,&mdash;
+The boatswain came to my help, and in a good-humoured voice exclaimed,—
 
-&quot;Very well reasoned, and for my part I accept Mr. Jeorling&apos;s opinion. Assuredly, land is near! If we seek it beyond those icebergs, we shall discover it without much hard work, or great danger! What is one degree farther south, when it is a question of putting a hundred additional dollars into one&apos;s pocket? And let us not forget that if they are acceptable when they go in, they are none the less so when they come out!&quot;
+"Very well reasoned, and for my part I accept Mr. Jeorling's opinion. Assuredly, land is near! If we seek it beyond those icebergs, we shall discover it without much hard work, or great danger! What is one degree farther south, when it is a question of putting a hundred additional dollars into one's pocket? And let us not forget that if they are acceptable when they go in, they are none the less so when they come out!"
 
 Upon this, Endicott, the cook, came to the aid of his friend the boatswain.
 
-&quot;Yes, very good things indeed are dollars!&quot; cried he, showing two rows of shining white teeth.
+"Yes, very good things indeed are dollars!" cried he, showing two rows of shining white teeth.
 
-Did the crew intend to yield to Hurliguerly&apos;s argument, or would they try to resist if the *Halbrane* went on in the direction of the icebergs?
+Did the crew intend to yield to Hurliguerly's argument, or would they try to resist if the *Halbrane* went on in the direction of the icebergs?
 
-Captain Len Guy took up his telescope again, and turned it upon these moving masses; he observed them with much attention, and cried out in a loud voice,&mdash;
+Captain Len Guy took up his telescope again, and turned it upon these moving masses; he observed them with much attention, and cried out in a loud voice,—
 
-&quot;Steer south-sou&apos;-west!&quot;
+"Steer south-sou'-west!"
 
 West gave orders to execute the manoeuvres. The sailors hesitated an instant. Then, recalled to obedience, they began to brace the yards and slack the sheets, and the schooner increased her speed.
 
-When the operation was over, I went up to Hurliguerly, and drawing him aside, I said,&mdash;
+When the operation was over, I went up to Hurliguerly, and drawing him aside, I said,—
 
-&quot;Thank you, boatswain.&quot;
+"Thank you, boatswain."
 
-&quot;Ah, Mr. Jeorling,&quot; he replied, shaking his head, &quot;it is all very fine for this time, but you must not do it again! Everyone would turn against me, even Endicott, perhaps.&quot;
+"Ah, Mr. Jeorling," he replied, shaking his head, "it is all very fine for this time, but you must not do it again! Everyone would turn against me, even Endicott, perhaps."
 
-&quot;I have urged nothing which is not at least probable,&quot; I answered sharply.
+"I have urged nothing which is not at least probable," I answered sharply.
 
-&quot;I don&apos;t deny that fact, Mr. Jeorling.&quot;
+"I don't deny that fact, Mr. Jeorling."
 
-&quot;Yes, Hurliguerly, yes&mdash;I believe what I have said, and I have no doubt but that we shall really see the land beyond the icebergs.&quot;
+"Yes, Hurliguerly, yes—I believe what I have said, and I have no doubt but that we shall really see the land beyond the icebergs."
 
-&quot;Just possible, Mr. Jeoding, quite possible. But it must appear before two days, or, on the word of a boatswain, nothing can prevent us from putting about!&quot;
+"Just possible, Mr. Jeoding, quite possible. But it must appear before two days, or, on the word of a boatswain, nothing can prevent us from putting about!"
 
-During the next twenty-four hours the *Halbrane* took a south-south-westerlycourse. Nevertheless, her direction must have been frequently changed and her speed decreased in avoiding the ice. The navigation became very dimcult so soon as the schooner headed towards the line of the bergs, which it had to cut obliquely. However, there were none of the packs which blocked up all access to the iceberg on the 67th parallel. The enormous heaps were melting away with majestic slowness. The ice-blocks appeared &quot;quite new&apos; (to employ a perfectly accurate expression), and perhaps they had only been formed some days. However, with a height of one hundred and fifty feet, their bulk must have been calculated by millions of tons. West was watching closcly in order to avoid collisions, and did not leave the deck even for an instant.
+During the next twenty-four hours the *Halbrane* took a south-south-westerlycourse. Nevertheless, her direction must have been frequently changed and her speed decreased in avoiding the ice. The navigation became very dimcult so soon as the schooner headed towards the line of the bergs, which it had to cut obliquely. However, there were none of the packs which blocked up all access to the iceberg on the 67th parallel. The enormous heaps were melting away with majestic slowness. The ice-blocks appeared "quite new' (to employ a perfectly accurate expression), and perhaps they had only been formed some days. However, with a height of one hundred and fifty feet, their bulk must have been calculated by millions of tons. West was watching closcly in order to avoid collisions, and did not leave the deck even for an instant.
 
 Until now, Captain Len Guy had always been able to rely upon the indications of the compass. The magnetic pole, still hundreds of miles off, had no influence on the compass, its direction bcing east. The needle remained steady, and might be trusted.
 
 So, in spite of my conviction, founded, however, on very serious arguments, there was no sign of land, and I was wondering whether it would not be better to steer more to the west, at the risk of removing the *Halbrane* from that extreme point where the meridians of the globe cross each other.
 
-Thus, as the hours went by&mdash;and I was only allowed forty-eight&mdash;it was only too plain that lack of courage prevailed, and that everyone was inclined to be insubordinate.
+Thus, as the hours went by—and I was only allowed forty-eight—it was only too plain that lack of courage prevailed, and that everyone was inclined to be insubordinate.
 
 After another day and a half, I could no longer contend with the general discontent. The schooner must ultimately retrace her course towards the north.
 
 The crew were working in silence, whilst West was giving sharp short orders for manoeuvring through the channels, sometimes luffing in order to avoid a collision, now bearing away almost square before the wind. Nevertheless, in spite of a close watch, in spite of the skill of the sailors, in spite of the prompt execution of the manoeuvres, dangerous friction against the hull, which left long traces of the ridge of the icebergs, occurred. And, in truth, the bravest could not repress a feeling of terror when thinking that the planking might have given way and the sea have invaded us.
 
-The base of these floating ice-mountains was very steep, so that it would have been impossible for us to land upon one. Moreover, we saw no seals&mdash;these were usually very numerous where the ice-fields abounded&mdash;nor even a flock of the screeching penguins which, on other occasions, the *Halbrane* sent diving by myriads as she passed through them; the birds themselves seemed rarer and wilder. Dread, from which none of us could escape, seemed to come upon us from these desolate and deserted regions. How could we still entertain a hope that the survivors of the *Jane* had found shelter, and obtained means of existence in those awful solitudes ?
+The base of these floating ice-mountains was very steep, so that it would have been impossible for us to land upon one. Moreover, we saw no seals—these were usually very numerous where the ice-fields abounded—nor even a flock of the screeching penguins which, on other occasions, the *Halbrane* sent diving by myriads as she passed through them; the birds themselves seemed rarer and wilder. Dread, from which none of us could escape, seemed to come upon us from these desolate and deserted regions. How could we still entertain a hope that the survivors of the *Jane* had found shelter, and obtained means of existence in those awful solitudes ?
 
 And if the Halbrahe were also shipwrecked, would there remain any evidence of her fate?
 
-Since the previous day, from the moment our southern course had been abandoned, to cut the line of the icebergs, a change had taken place in the demeanour of the half-breed. Nearly always crouched down at the foot of the fore-mast, looking afar into the boundless space, he only got up in order to lend a hand to some manoeuvre, and without any of his former vigilance or zeal. Not that he had ceased to believe that his comrade of the *Jane* was still living&mdash;that thought never even came into his mind! But he felt by instinct that the traces of poor Pym were not to be recovered by following this course.
+Since the previous day, from the moment our southern course had been abandoned, to cut the line of the icebergs, a change had taken place in the demeanour of the half-breed. Nearly always crouched down at the foot of the fore-mast, looking afar into the boundless space, he only got up in order to lend a hand to some manoeuvre, and without any of his former vigilance or zeal. Not that he had ceased to believe that his comrade of the *Jane* was still living—that thought never even came into his mind! But he felt by instinct that the traces of poor Pym were not to be recovered by following this course.
 
-&quot;Sir,&quot; he would have said to me, &quot;this is not the way! No, this is not the way!&quot; And how could I have answered him?
+"Sir," he would have said to me, "this is not the way! No, this is not the way!" And how could I have answered him?
 
-Towards seven o&apos;clock in the evening a rather thick mist arose; this would tend to make the navigation of the schooner difficult and dangerous.
+Towards seven o'clock in the evening a rather thick mist arose; this would tend to make the navigation of the schooner difficult and dangerous.
 
 The day, with its emotions of anxiety and alternatives, had worn me out. So I returned to my cabin, where I threw myself on my bunk in my clothes.
 
-But sleep did not come to me, owing to my besetting thoughts. I willingly admit that the constant reading of Edgar Poe&apos;s works, and reading them in this place in which his heroes delighted, had exercised an influence on me which I did not fully recognize.
+But sleep did not come to me, owing to my besetting thoughts. I willingly admit that the constant reading of Edgar Poe's works, and reading them in this place in which his heroes delighted, had exercised an influence on me which I did not fully recognize.
 
 To-morrow, the forty-eight hours would be up, the last concession which the crew had made to my entreaties.
 
-&quot;Things are not going as you wish?&quot; the boatswain said to me just as I was leaving the deck.
+"Things are not going as you wish?" the boatswain said to me just as I was leaving the deck.
 
 No, certainly not, since land was not to be seen behind the fleet of icebergs. If no sign of a coast appeared between these moving masses, Captain Len Guy would steer north to-morrow.
 
@@ -192,7 +192,7 @@ My mind was quite upset, and teemed with a thousand thoughts, a thousand regrets
 
 And lo! I was doing this in a dream. It is to-morrow! Captain Len Guy has given orders to reverse our course, after a last glance at the horizon. One of the boats is in tow. I warn the half-breed. We creep along without being seen. We cut the painter. Whilst the schooner sails on ahead, we stay astern and the current carries us off.
 
-Thus we drift on the sea without hindrance! At length our boat stops. Land is there. I see a sort of sphinx surmounting the southern peak&mdash;the sea-sphinx. I go to him. I question him. He discloses the secrets of these mysterious regions to me. And then, the phenomena whose reality Arthur Pym asserted appear around the mythic monster. The curtain of flickering vapours, striped with luminous rays, is rent asunder. And it is not a face of superhuman grandeur which arises before my astonished eyes: it is Arthur Pym, fierce guardian of the south pole, flaunting the ensign of the United States in those high latitudes!
+Thus we drift on the sea without hindrance! At length our boat stops. Land is there. I see a sort of sphinx surmounting the southern peak—the sea-sphinx. I go to him. I question him. He discloses the secrets of these mysterious regions to me. And then, the phenomena whose reality Arthur Pym asserted appear around the mythic monster. The curtain of flickering vapours, striped with luminous rays, is rent asunder. And it is not a face of superhuman grandeur which arises before my astonished eyes: it is Arthur Pym, fierce guardian of the south pole, flaunting the ensign of the United States in those high latitudes!
 
 Was this dream suddenly interrupted, or was it changed by a freak of my brain? I cannot tell, but I felt as though I had been. suddenly awakened. It seemed as though a change had taken place in the motion of the schooner, which was sliding along on the surface of the quiet sea, with a slight list to starboard. And yet, there was neither rolling nor pitching. Yes, I felt myself carried off as though my bunk were the car of an air-balloon. I was not mistaken, and I had fallen from dreamland into reality.
 
@@ -216,23 +216,23 @@ A man came creeping up to me, because the slope of the deck prevented him from h
 
 Stretched out at full length, my feet propped up against the jamb of the door, I held out my hand to the boatswain, and helped him, not without difficulty, to hoist himself up near me.
 
-&quot;What is wrong ?&quot; I asked. &quot;A stranding, Mr. Jeorling.&quot;
+"What is wrong ?" I asked. "A stranding, Mr. Jeorling."
 
-&quot;We are ashore!&quot;
+"We are ashore!"
 
-&quot;A shore presupposes land,&quot; replied the boatswain ironically, &quot;and so far as land goes there was never any except in that rascal Dirk Peters&apos; imagination.&quot;
+"A shore presupposes land," replied the boatswain ironically, "and so far as land goes there was never any except in that rascal Dirk Peters' imagination."
 
-&quot;But tell me&mdash;what has happened ?&quot;
+"But tell me—what has happened ?"
 
-&quot;We came upon an iceberg in the middle of the fog, and were unable to keep clear of it.&quot;
+"We came upon an iceberg in the middle of the fog, and were unable to keep clear of it."
 
-&quot;An iceberg, boatswain?&quot;
+"An iceberg, boatswain?"
 
-&quot;Yes, an iceberg, which has chosen just now to turn head over heels. In turning, it struck the *Halbrane* and carried it off just as a battledore catches a shuttlecock, and now here we are, stranded at certainly one hundred feet above the level of the Antarctic Sea.&quot;
+"Yes, an iceberg, which has chosen just now to turn head over heels. In turning, it struck the *Halbrane* and carried it off just as a battledore catches a shuttlecock, and now here we are, stranded at certainly one hundred feet above the level of the Antarctic Sea."
 
 Could one have imagined a more terrible conclusion to the adventurous voyage of the *Halbrane?*
 
-In the middle of these remote regions our only means of transport had just been snatched from its natural element, and carried off by the turn of an iceberg to a height of more than one hundred feet! What a conclusion! To be swallowed up in a polar tempest, to be destroyed in a fight with savages, to be crushed in the ice, such are the dangers to which any ship engaged in the polar seas is exposed! But to think that the *Halbrane* had been lifted by a floating mountain just as that mountain was turning over, was stranded and almost at its summit&mdash;no! such a thing seemed quite impossible.
+In the middle of these remote regions our only means of transport had just been snatched from its natural element, and carried off by the turn of an iceberg to a height of more than one hundred feet! What a conclusion! To be swallowed up in a polar tempest, to be destroyed in a fight with savages, to be crushed in the ice, such are the dangers to which any ship engaged in the polar seas is exposed! But to think that the *Halbrane* had been lifted by a floating mountain just as that mountain was turning over, was stranded and almost at its summit—no! such a thing seemed quite impossible.
 
 I did not know whether we could succeed in letting down the schooner from this height with the means we had at our disposal. But I did know that Captain Len Guy, the mate and the older members of the crew, when they had recovered from their first fright, would not give up in despair, no matter how terrible the situation might be; of that I had no doubt whatsoever! They would all look to the general safety; as for the measures to be taken, no one yet knew anything. A foggy veil, a sort of greyish mist still hung over the iceberg. Nothing could be seen of its enormous mass except the narrow craggy cleft in which the schooner was wedged, nor even what place it occupied in the middle of the ice-fleet drifting towards the south-east.
 
@@ -244,15 +244,15 @@ However, we could distinguish each other at about twelve feet apart. As for the 
 
 We had now to ascertain whether any of those who were on the deck at the time of the catastrophe had been thrown over the bulwarks and precipitated, into the sea?
 
-By Captain Len Guy&apos;s orders all the sailors then present joined the group in which I stood with the mate, the boatswain, Hardy and Martin Holt.
+By Captain Len Guy's orders all the sailors then present joined the group in which I stood with the mate, the boatswain, Hardy and Martin Holt.
 
-So far, this catastrophe had cost us five men&mdash;these were the first since our departure from Kerguelen, but were they to be the last?
+So far, this catastrophe had cost us five men—these were the first since our departure from Kerguelen, but were they to be the last?
 
 There was no doubt that these unfortunate fellows had perished, because we called them in vain, and in vain we sought for them, when the fog abated, along the sides of the iceberg, at every place where they might have been able to catch on to a projection.
 
 When the disappearance of the five men had been ascertained, we fell into despair. Then we felt more keenly than before the dangers which threaten every expedition to the Antarctic zone.
 
-&quot;What about Hearne?&quot; said a voice.
+"What about Hearne?" said a voice.
 
 Martin Holt pronounced the name at a moment when there was general silence. Had the sealing-master been crushed to death in the narrow part of the hold where he was shut up?
 
@@ -266,7 +266,7 @@ At length the mate reappeared on deck and Hearne followed him! By a miracle, nei
 
 Hearne rejoined his comrades without opening his lips, and we had no further trouble about him.
 
-Towards six o&apos;clock in the morning the fog cleared off, owing to a marked fall in the temperature. We had no longer to do with completely frozen vapour, but had to deal with the phenomenon called frost-rime, which often occurs in these high latitudes. Captain Len Guy recognized it by the quantity of prismatic threads, the point following the wind which roughened the light ice-crust deposited on the sides ot the iceberg. Navigators know better than to confound this frost-rime with the hoar frost of the temperate zones, which only freezes when it has been deposited on the surface of the soil.
+Towards six o'clock in the morning the fog cleared off, owing to a marked fall in the temperature. We had no longer to do with completely frozen vapour, but had to deal with the phenomenon called frost-rime, which often occurs in these high latitudes. Captain Len Guy recognized it by the quantity of prismatic threads, the point following the wind which roughened the light ice-crust deposited on the sides ot the iceberg. Navigators know better than to confound this frost-rime with the hoar frost of the temperate zones, which only freezes when it has been deposited on the surface of the soil.
 
 We were now enabled to estimate the size of the solid mass on which we clustered like flies on a sugar-loaf, and the schooner, seen from below, looked no bigger than the yawl of a trading vessel.
 
@@ -276,7 +276,7 @@ This is what had happened:
 
 The iceberg, having been melted away at its base by contact with warmer waters, had risen little by little; its centre of gravity had become displaced, and its equilibrium could only be re-established by a sudden capsize, which had lifted up the part that had been underneath above the sea-level. The *Halbrane*, caught in this movement, was hoisted as by an enormous lever. Numbers of icebergs capsize thus on the polar seas, and form one of the greatest dangers to which approaching vessels are exposed.
 
-Our schooner was caught in a hollow on the west side of the iceberg. She listed to starboard with her stern raised and her bow lowered. We could not help thinking that the slightest shake would cause her to slide along the slope of the iceberg into the sea. The collision had been so violent as to stave in some of the planks of her hull. After the first collision, the galley situated before the fore-mast had broken its fastenings. The door between Captain Len Guy&apos;s and the mate&apos;s cabins was torn away from the hinges. The topmast and the topgallant-mast had come down after the back-stays parted, and fresh fractures could plainly be seen as high as the cap of the masthead.
+Our schooner was caught in a hollow on the west side of the iceberg. She listed to starboard with her stern raised and her bow lowered. We could not help thinking that the slightest shake would cause her to slide along the slope of the iceberg into the sea. The collision had been so violent as to stave in some of the planks of her hull. After the first collision, the galley situated before the fore-mast had broken its fastenings. The door between Captain Len Guy's and the mate's cabins was torn away from the hinges. The topmast and the topgallant-mast had come down after the back-stays parted, and fresh fractures could plainly be seen as high as the cap of the masthead.
 
 Fragments of all kinds, yards, spars, a part of the sails, breakers, cases, hen-coops, were probably floating at the foot of the mass and drifting with it.
 
@@ -286,21 +286,21 @@ As a result of the first examination, we found that the lower masts had remained
 
 When I found myself with Captain Len Guy, the mate, and the boatswain, I questioned them on this subject.
 
-&quot;I agree with you,&quot; replied West, &quot;that the operation involves great risks, but since it is indispensable, we will accomplish it. I think it will be necessary to dig out a sort of slide down to the base of the iceberg.&quot;
+"I agree with you," replied West, "that the operation involves great risks, but since it is indispensable, we will accomplish it. I think it will be necessary to dig out a sort of slide down to the base of the iceberg."
 
-&quot;And without the delay of a single day,&quot; added Captain Len Guy.
+"And without the delay of a single day," added Captain Len Guy.
 
-&quot;Do you hear, boatswain?&quot; said Jem West.
+"Do you hear, boatswain?" said Jem West.
 
-&quot;Work begins to-day.&quot;
+"Work begins to-day."
 
-&quot;I hear, and everyone will set himself to the task,&quot; replied Hurliguerly. &quot;If you allow me, I shall just make one observation, captain.&quot;
+"I hear, and everyone will set himself to the task," replied Hurliguerly. "If you allow me, I shall just make one observation, captain."
 
-&quot;What is it?&quot;
+"What is it?"
 
-&quot;Before beginning the work, let us examine the hull and see what the damage is, and whether it can be repaired. For what use would it be to launch a ship stripped of her planks, which would go to the bottom at once?&quot;
+"Before beginning the work, let us examine the hull and see what the damage is, and whether it can be repaired. For what use would it be to launch a ship stripped of her planks, which would go to the bottom at once?"
 
-We complied with the boatswain&apos;s just demand.
+We complied with the boatswain's just demand.
 
 The fog having cleared off, a bright sun then illumined the eastern side of the iceberg, whence the sea was visible round a large part of the horizon. Here the sides of the iceberg showed rugged projections, ledges, shoulders, and even flat instead of smooth surfaces, giving no foothold. However, caution would be necessary in order to avoid the falling of those unbalanced blocks, which a single shock might set loose. And, as a matter of fact, during the morning, several of these blocks did roll into the sea with a frightful noise just like an avalanche.
 

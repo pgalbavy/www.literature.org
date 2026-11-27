@@ -1,5 +1,5 @@
 ---
-title: "Chapter 6 - \u0026quot;No; She Has Not Yet Come To Court\u0026quot;"
+title: "Chapter 6 - \"No; She Has Not Yet Come To Court\""
 weight: 7
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-06.html"
 ---

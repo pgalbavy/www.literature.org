@@ -1,5 +1,5 @@
 ---
-title: "Chapter 20 - \u0026quot;Unmerciful Disaster\u0026quot;"
+title: "Chapter 20 - \"Unmerciful Disaster\""
 weight: 20
 url: "/authors/verne-jules/an-antartic-mystery/chapter-20.html"
 ---

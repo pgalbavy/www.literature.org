@@ -1,5 +1,5 @@
 ---
-title: "Chapter 22 - \u0026quot;You Have Made It Livelier\u0026quot;"
+title: "Chapter 22 - \"You Have Made It Livelier\""
 weight: 22
 url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-22.html"
 ---

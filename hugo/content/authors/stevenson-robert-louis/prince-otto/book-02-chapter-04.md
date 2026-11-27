@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 4 - While The Prince Is In The Ante-Room"
-weight: 10
+weight: 9
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-04.html"
 ---
 

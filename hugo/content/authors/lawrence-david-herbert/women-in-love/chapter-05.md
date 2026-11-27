@@ -1,6 +1,6 @@
 ---
-title: "chapter 05"
-weight: 999
+title: "Chapter 5 - In The Train"
+weight: 5
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-05.html"
 ---
 

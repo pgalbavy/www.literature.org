@@ -1,6 +1,6 @@
 ---
-title: "chapter 21"
-weight: 999
+title: "Chapter 21 - Threshold"
+weight: 21
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-21.html"
 ---
 

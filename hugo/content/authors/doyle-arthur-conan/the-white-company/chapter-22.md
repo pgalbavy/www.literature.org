@@ -1,5 +1,5 @@
 ---
-title: "Chapter 22 - How The Bowmen Held Wassail At The \u0026quot;Rose De Guienne\u0026quot;"
+title: "Chapter 22 - How The Bowmen Held Wassail At The \"Rose De Guienne\""
 weight: 22
 url: "/authors/doyle-arthur-conan/the-white-company/chapter-22.html"
 ---

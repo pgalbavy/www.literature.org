@@ -1,5 +1,5 @@
 ---
-title: "Chapter 28 - \u0026quot;And So--\u0026quot;"
+title: "Chapter 28 - \"And So--\""
 weight: 28
 url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-28.html"
 ---

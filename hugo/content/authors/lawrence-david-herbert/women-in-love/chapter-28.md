@@ -1,6 +1,6 @@
 ---
-title: "chapter 28"
-weight: 999
+title: "Chapter 28 - Gudrun In The Pompadour"
+weight: 28
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-28.html"
 ---
 

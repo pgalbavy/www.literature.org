@@ -1,5 +1,5 @@
 ---
-title: "Part 1 - Chapter 1 - The Brig-Schooner \u0026quot;Pilgrim\u0026quot;"
+title: "Part 1 - Chapter 1 - The Brig-Schooner \"Pilgrim\""
 weight: 1
 url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-01.html"
 ---

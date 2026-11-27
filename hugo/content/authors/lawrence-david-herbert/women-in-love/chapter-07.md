@@ -1,6 +1,6 @@
 ---
-title: "chapter 07"
-weight: 999
+title: "Chapter 7 - Fetish"
+weight: 7
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-07.html"
 ---
 

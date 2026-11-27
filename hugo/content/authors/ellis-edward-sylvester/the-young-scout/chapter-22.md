@@ -1,83 +1,213 @@
 ---
-title: "Chapter 22 - What Does It Mean?"
-weight: 24
+title: "Chapter 22 - On The Mountain Side"
+weight: 22
 url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-22.html"
 ---
 
-"Now," said Lieutenant Decker, as the horrible serpent glided from sight in the gloom, "if you’ll pass round the end of that big rock over yonder and give that Apache your attention, I’ll forgive you for the way you scared me."
+Maurice Freeman was withdrawing from his perilous position, when without the slightest warning an Apache warrior stepped from behind a rock a short way ahead and confronted him.
 
-As nearly as he could judge, the rattler was heading in the direction named, and the officer listened, hoping to hear favorable results, but the silence was unbroken, and, if the reptile passed near the warrior, there was no collision between them.
+When it is stated that this individual held a Winchester in his right hand and carried it at his thigh, it will be conceded that his action was altogether contrary to that of his people under such circumstances; for it gave the white man a chance to bring his weapon to his shoulder by a lightning-like movement and to secure the "drop" on him—one of the most difficult of all feats to perform. But when it is added further, that the Apache belonged to the White Mountain branch of the tribe his conduct will be understood.
 
-One of the uncomfortable facts connected with these fearsome pests is that when you come upon one in the desert or wilderness, you are likely to meet another or perhaps several of them. The species attain enormous size in New Mexico and Arizona, and a sting from one of them, though slower in its results than the bite of the cobra, is about as fatal. No man can contemplate the probability of coming upon a rattler unawares in the night without a shudder. While it was not likely that the reptile, seeing the crouching man, would attack him, yet such things have occurred and the lieutenant never allowed himself to forget the fact.
+No sight could have been more welcome to Freeman, whose face lit up with pleasure at the discovery that, instead of an enemy, he had the best of friends at his elbow. He paused a moment, and then, with the whispered word, "*Mendez*," on his lips, moved toward him.
 
-His chief concern, however, was with the "two-legged rattler" who, as matters stood, was tenfold more dangerous than the creeping one. Neither of the men had gained a shot at the other, but both were hopeful of doing so.
+The dusky trailer did not speak, but raised his left hand as an appeal for caution; and beckoning him to advance, turned away and resumed his walk with that catlike movement peculiar to his race and which was absolutely without noise.
 
-"It must be that in some way he has learned of my change of base. I can’t understand how he got the knowledge, but if he thought I was still sneaking along the side of that boulder he would not content himself by waiting for me to come into range——"
+Freeman understood what he meant; the situation was too dangerous for him to hold, and must be changed without delay. He did his best to follow instructions, though he could not do so with the perfection of his guide. The latter continued the lead for fully two hundred yards and then halted, turned around and silently watched the white man’s approach.
 
-Fortunate was it for Lieutenant Decker that he had made the change described, for, with the same unity of thought that was marvelous, the Apache had resorted to a similar artifice. Instead of confining himself to the big boulder, he had stolen back among the smaller ones, and wormed his way forward and around until he secured a position some twenty feet distant, which allowed him to scan the two sides of the boulder that had been under the eye of the white man for the last fifteen or twenty minutes.
+By this time the latter had lost the trepidation he felt, when the soft, birdlike signal reached him from different points of the compass. Wherever the Apache camp might be, he was now at a safe distance from it.
 
-What prevented the perfect success of the Apache, however, was the fact that he did not suspect his stratagem had been anticipated. He expected to find his enemy crouching along one of the sides of the boulder, waiting for the buck to reveal himself through some unguarded movement.
+"I didn’t expect to meet you, Mendez," said the settler in a guarded undertone, "and I needn’t tell you——"
 
-Failing to discover him at the first scrutiny, the Apache silently rose to a half-standing posture, and, with his head thrust forward, peered here and there in search of the man whom he was eager to shoot on sight.
+"Be careful; the trees and rocks have ears."
 
-In this position his side was toward the officer, who laid down his revolver and brought his Winchester to the front, carefully sighting at the miscreant, who was not only hungry for his life, but had doubtless dyed his hands in the blood of many an innocent person. No one could have been more cautious than Lieutenant Decker, and yet, when he came to adjust his aim, he made the exasperating discovery that no Apache was in sight. He had vanished like the shadow of a passing cloud. It was hard to say what had caused his disappearance. It may have been due to the slight noise made by the white man in preparing to shoot, or his failure to discern him where he thought he was, may have told the startling truth with that lightning-like quickness which marks the trained warrior, and caused him to drop out of view and withdraw from the post of danger with the same celerity that had brought him to it.
+It was Lieutenant Decker who uttered these warning words, as he stepped into view, very much as the scout had done a short time before. He smilingly extended his hand to his astonished friend, adding by way of explanation:
 
-Be that as it may, he was gone, and the problem seemed to revert to its status at the beginning. The two enemies were still maneuvering against each other, with no apparent advantage to either. The lieutenant, however, fancied he had a trifle the better of it, for the Apache did not know where to look for him, while he had a general knowledge of the other’s location.
+"You didn’t expect either of us, but we are here all the same; the fight which I looked for this morning was unavoidably postponed, but I am hopeful that I shan’t be disappointed after all."
 
-Now followed fifteen or twenty minutes of the most trying nature. During the interval, the lieutenant neither saw nor heard anything that could give him the slightest clue to the other’s whereabouts or his line of procedure. When the ignorance had continued that long, he began to suspect the warrior had left the place. He might have become convinced that it was too risky to attempt to outwit the white man, or he may have suspected he had a companion in the neighborhood, who was likely to appear at any moment and turn the scales against him.
+"Why, lieutenant, I am pleased beyond expression, but you owe me an explanation of how this was brought about."
 
-This was a comforting theory, but the officer was too wise to trust his safety to it. It would have been in accord with the subtlety of the Apache to contribute to the delusion. The strained situation, however, could not last forever. Mendez was expected to arrive ere long, and he would be certain to bring a change. If the warrior was as shrewd as he appeared to be, he would find that instead of one man to contend against, he had two and possibly more.
+[Illustration: Lieutenant Decker smilingly extended his hand to his astonished friend.
 
-This reasoning became so convincing at the end of fifteen minutes more that the lieutenant acted upon it. Withdrawing still further from the big boulder, he picked his way among the smaller ones until near the spot where he had seen the Apache rise to view and then drop out of sight again. He certainly was gone, but might be not far off. The lieutenant resumed his cautious circling of the huge boulder until he had passed entirely around it and come back to his starting point. This took considerable time and was accomplished with the utmost skill and care, but he neither saw nor heard anything of his enemy.
+"You did not expect either of us, but we are here all the same."—Page 184.
 
-"He has vamosed the ranch, of a certainty," was the gratifying conclusion of Decker, who felt a greater degree of security than had been his since the discovery of his peril. "At any rate, I’ll signal to Freeman."
+—*The Young Scout.*]
 
-And he emitted the low, vibratory whistle, like the call of a nightbird. It could be heard but a short distance away, though capable of being made much louder and more penetrating.
+"It was all due to *him*," replied the officer, nodding his head toward the Apache, who did not open his lips, but stood, looking back over the route he had just traversed, as if watching for some expected form, or listening for a signal that had not yet been made.
 
-"Freeman will be certain to hear it. He must be wondering at my delay and won’t tarry in coming to me. It may be that the Apache is listening for something of the kind and will read its meaning. If he does he is welcome."
+"I suppose so, but that fact does not explain matters."
 
-The officer compressed his lips and held himself ready for any demonstration from the dusky miscreant, who never would have given up his attempt on his life unless compelled to do so by a fear of his own safety. Glancing here, there and everywhere, the officer was prepared to fire the instant the opportunity presented, and was a trifle disappointed that it did not appear.
+"Mendez is not addicted to talking, but I think I learned more of his thoughts than any one else. When you parted from us this forenoon, I supposed you meant to go home and wait until night, before making any move to help your child, but that shrewd fellow read your intentions in your face and in your manner. He told me you meant to ride away from the river until out of our sight and then cross and take up the trail of Maroz and Ceballos. I would have followed you and protested against such foolhardiness, but knew it was useless."
 
-He had gone through too many perils, brief as was his service in the Southwest, to throw away any opportunity by impatience or carelessness. He repeated the signals several times, at intervals of a few minutes, and watched and listened for the reply from an enemy instead of his friend, but none came.
+"He hit the truth," remarked Freeman, with an admiring glance at their friend, whose attention seemed still drawn away from them and who showed no interest in the conversation.
 
-"The fellow has left, beyond a doubt," was the decision reached; "he has gone to join his companions and nothing further is to be feared from him. There’s no saying, however, what some of the others may be doing."
+"Instead of attempting to interfere with you, we rode fast to the fort and reported to the colonel; he had already learned the truth from the Indian scouts whom he had sent across the river some hours before. The indications were unmistakable that eight or ten hostiles were on the war path, and, unless prompt measures were taken, the number would be increased. The colonel isn’t the man to hesitate at such times and he moved quickly. A number of our best men at the post, with three White Mountain Apaches, all well mounted and under Captain Shindle, who was a veteran at this business before I entered the Point, set out for the mountains."
 
-The distance to the spring was short. The lieutenant showed the effects of the heat by lying down on his face and taking another deep draught of the tepid water, after which he donned his hat and looked around in the gloom.
+"Where are they now?"
 
-"Since the Apaches must know of this supply, I shouldn’t be surprised, if some of them came here to quench their thirst, which being so, I’ll locate a few paces from it. What the mischief can be the matter with Freeman?" he asked himself, with a feeling of vague uneasiness; "I thought he would be quick to respond to my call, but he hasn’t even answered it."
+"All that I can say is that they are hard at it, but I have no knowledge of their precise location. The scouts who bore the tidings to the colonel were certain the rendezvous was fully a mile back of where we saw the signal smoke, and which was meant to mislead us more than to guide their allies. The captain will aim to get to the rear and to approach from the south. This will give him a chance to prevent the withdrawal of the bucks further into the mountains. They will not look for a movement of that kind, and unless their scouts have discovered his purpose, he has a fair prospect of circumventing them."
 
-It was well that Decker took the precaution of withdrawing from the spring and ensconcing himself among the surrounding boulders, where he could peep forth, and, by the exercise of a little precaution, see without being seen.
+"But where are Colgate, Peyser, and Redfield?"
 
-He had hardly taken this position when he caught the sound of footsteps and the murmur of voices. In the stillness he plainly heard the words spoken. Their surly, guttural tones, the very few sentences uttered, and the fact that he could not understand a syllable, were proof that the new arrivals were his old enemies, the Apaches. The carelessness displayed by them was proof also that they had no suspicion of the presence of any whites near. When anything of the kind is apprehended, the cunning and caution of those red men cannot be surpassed. It is almost impossible to approach them undetected, and they never indulge in the carelessness shown in this instance.
+"With the captain; this is a private campaign of Mendez and myself, but we are willing to let you in as a partner on the ground floor."
 
-Just before reaching the spring, they passed over a spot where the moonlight struck them. There were three, dressed and accoutered like the members of the band that had wrought such sad havoc during the past day or two.
+"Nothing could suit me better, but, if the Apaches are so far off, why this extreme caution, and what chance is there of our doing anything to help my child?"
 
-They took turns in kneeling down and quaffing from the spring, after which they rose to their feet, and stood grouped together in plain sight of the officer, who was stealthily watching them. One of them appeared to hold his peace, while the others exchanged views upon some matter that interested all.
+"I’ll admit that the prospect isn’t dazzling, but, if the theory on which Mendez is working proves correct, we shall have an opportunity to effect something."
 
-"The next thing I must do," thought the listener, "is to take lessons in the beautiful Apache language. I may persuade Geronimo to give me instruction, but, before he did that, he himself ought to have a few lessons in other matters."
+"What is his theory?"
 
-Nothing would have been easier than to shoot one, and perhaps all, from where the lieutenant was hiding. The distance was short, and the wretches deserved no mercy. Had Freeman been with him, it is more than probable that the two would have opened fire upon them with destructive results.
+"That Maroz and Ceballos are not far from this spot, while the main band is a mile beyond in the mountains. They are watching the trail, along which they expect the pursuit to be made, and will telegraph the fact in their own way the moment it is discovered to the main party. There may be others with the couple, but that is the game they are playing."
 
-"If they’ll only be obliging enough to stand in a row," mused the officer, struggling against the temptation, "I would let them have a broadside, but the instant I dropped one the others would be off."
+"If Mendez is right, what have they done with my boy?"
 
-Prudence demanded that he should leave them undisturbed. The sole purpose of this remarkable expedition was to recover the lost child. To make an attack on the group, without the certainty of annihilating the whole three, would apprise the Apaches of what was on foot and inevitably defeat it. Besides, there was no telling what had become of Freeman. He, too, was likely to become involved, with disastrous consequences to himself. The occasion was unquestionably one for the exercise of self-control.
+"He is with Maroz and Ceballos."
 
-And Lieutenant Decker exercised it. He held himself motionless, with his trusty Winchester in his ready grasp, and with a strong yearning to try his skill upon the miscreants who knew no such quality as mercy.
+"Would they not be likely to place him in charge of the main band, so as to lessen the danger of his rescue."
 
-The three warriors stood in plain view for fully ten minutes. Then they walked deliberately away, taking the opposite course from that leading to the rock where the two white men had arranged to await the return of Mendez with word of the stolen child of Freeman.
+"That would be *my* theory, but I suspect *he* thinks differently."
 
-The officer kept his position for several minutes after the disappearance of the trio. There was no probability of their coming back, after quenching their thirst, but he meant to make sure they were beyond hearing before he moved.
+"I have as much faith as you in the woodcraft of Mendez, but I can’t accept *that* theory."
 
-He was uneasy over the silence of Freeman, and what he had just witnessed increased his misgivings. If these warriors made this visit, it was not unlikely that others had done the same before them. Coming upon the white man suddenly, nothing was more certain than a fatal collision, and yet it would seem that if anything of the kind had occurred, there must have been a shot, an outcry or some kind of noise which assuredly would have been heard by the lieutenant a short distance away.
+Freeman would have been only too glad to believe as did the guide, but the doubt he uttered was that which would have come to any clear-headed man. If Maroz and Ceballos were acting as the rear guard of the hostiles, they could not afford to handicap themselves with the care of a prisoner, the possession of whom, it may be said, was the key to the situation.
 
-But it might have been otherwise. They may have been more guarded than the last, and, stealing up to the spring, discovered the presence of the white man. In that case, they could have crept forward unawares and despatched him without any disturbance that could have been heard twenty feet away.
+If the boy were placed in charge of the stronger party, the two would be untrammeled in the crisis which they had every reason to believe was at hand. This was the situation, as it presented itself to Freeman and Lieutenant Decker, but the latter’s convincing remark was:
 
-"I hope this suspense will soon be over. It doesn’t seem to me that there’s much chance of Freeman getting his little fellow back, even with the aid of the matchless Mendez, and now it begins to look as if it had gone ill with him. What a blow to the wife and mother, and yet how many similar ones have been struck in the Southwest!"
+"It strikes me as mighty odd, but Mendez wouldn’t believe what he does without the best of reasons."
 
-The lieutenant now resorted to signaling again, listening with a painful throbbing of the heart for the reply which came not.
+"Have you questioned him?"
 
-"Something is wrong," was his conclusion; "the poor fellow may have grown impatient with waiting and started off on a hunt of his own. If he has attempted anything of that kind, it is the end of the business so far as *he* is concerned. I should not have left him alone—Sh!"
+"I have."
 
-At that instant he was thrilled by a peculiar sound. It was not a signal or spoken word, but the low, moaning outcry made by a person in the depth of distress or great suffering.
+"What did he say?"
 
-"It’s Freeman," whispered the lieutenant; "and some grievous ill has befallen him! He is not far off; what can it mean?"
+"He told me it was none of my business: not exactly in those words," added the smiling officer, "but his refusal to enlighten me amounted to the same thing."
+
+Freeman turned toward the subject of their conversation, but he was so absorbed in watching a point to his left, and listening for that which he heard not, that the remarks seemed to be lost upon him.
+
+"Let me ask how near we are to the spot where Mendez suspects Maroz and Ceballos to be."
+
+The lieutenant had put the same question to the guide before coming upon the settler, and he answered:
+
+"Not more than a quarter of a mile."
+
+"A quarter of a mile!" repeated the astonished Freeman, "why I was sure I was within a dozen rods of it."
+
+"Nothing is easier than to be mistaken."
+
+It is singular how the emotion of mirth will intrude at the most inopportune times. Maurice Freeman was oppressed by a grief such as he had never known before, but he now laughed silently and heartily. He recalled his extreme trepidation, when he believed he was near the Apache camp, his effort to withdraw and the caution of Mendez in guiding him away. To him the picture was that of a big urchin, who has ignorantly approached some danger, and whose father seeks to coax him back to safety. The figure of himself playing the part of booby was what caused him to laugh, but his mirth quickly vanished, and he wondered at himself for having shown it.
+
+"If such care must be used when we are so far from the camp, how will it be when we get within sight of it?"
+
+The lieutenant shook his head.
+
+"I’m afraid there isn’t much show for making that test; I have been pleading with Mendez to take me in as a full partner and to allow me to be at his elbow when the first squint of the camp is obtained, but my eloquence was wasted. The fact is," continued the young officer, becoming serious, "he is right. I don’t believe the white man lives who can steal up to an Apache camp in the day-time, or during the early part of the evening, no matter how dark, without discovery, and I needn’t tell you what *that* means for you and me. After midnight, when they are asleep, there might be a show, but even then Mendez must be in the advance. He expected to find you somewhere in this neighborhood, and you have been as much an object of search for the last hour or two as the hostiles themselves."
+
+"What was his purpose in signaling from different points, when he located me?"
+
+"I presume to give you a good scare."
+
+"Well, he succeeded! I was never so rattled in all my life. But I was quite near the place where I expected to find Maroz and Ceballos."
+
+"That may be, but you were away off in your calculations; you made a mistake; I have done something of the kind once or twice during my checkered career."
+
+While the conversation continued in this vein, generally serious, but now and then lightened by the bubbling humor of the lieutenant, darkness settled about them. This was most welcome, for it brought nearer the hour for action. Between the downsetting and uprising of the sun, the all-important question must be settled as to what was to be the fate of little Fulton Freeman.
+
+The father and the lieutenant talked several minutes longer, while their forms grew indistinct in the gloom, until a remark of the officer caused the other to turn his head toward Mendez. He had vanished.
+
+"What’s become of him?" whispered Freeman, as if his absence indicated some new peril at hand.
+
+"He’s gone to take a look at things; he moved away fifteen minutes ago."
+
+"I didn’t hear him."
+
+"Nor did I, but I saw him, just as you have seen the shadow of a cloud whisk over the earth. Of course, there is no saying when he will be back, since that depends on what he learns, but we can count on his being here before daylight."
+
+"And in the meantime we have nothing to do but to wait."
+
+"You hit it that time, and we can’t find more comfortable quarters than these."
+
+It would not do to go far from the spot, since it might cause Mendez trouble in finding them, beside which there was no object in doing so, since one part of the mountain differed little from another. Accordingly, they assumed lolling postures on the nearest rock, which was still warm from the rays of the sun, and continued their conversation in tones that could not have been heard more than a dozen feet away.
+
+Freeman had eaten nothing since morning, and the thought of food had not been with him; but when the lieutenant produced a small, substantial lunch, which he was thoughtful enough to bring, the two shared it and were refreshed therefrom.
+
+"Now, if I had a drink of water," said the elder, "I would be satisfied; it seems to me I never felt more thirsty, but I can manage to stand it until morning."
+
+"There’s no need of that; a stream is within a hundred feet of us. It doesn’t amount to much, and is as warm as dishwater, but it is a thousand per cent. better than thirst."
+
+The lieutenant located the spot for his friend, proposing that they should go thither separately, in order that one of them might be sure of being on hand when Mendez returned. But the scout had been absent so short a time that this precaution seemed useless, and, when Freeman asked him to show him the way, he complied willingly.
+
+The night had a gibbous moon, and, as the sky was without a cloud, considerable light reached the earth, where the rays were not obstructed. The vegetable growth in this portion of the Apache range is sparse, the small trees being scattered, so that it was easy to pick their way for the short distance necessary to reach the water.
+
+As the lieutenant had intimated, the draught was uninviting to one not very thirsty. The rivulet issued from under the roots of a tree, where it was to be supposed it would be quite cool, but it was lukewarm and roiled, as the officer learned when he quenched his thirst during the afternoon, but the drink was none the less refreshing on that account.
+
+"Freeman," said the lieutenant, looking around them, as if suspecting the presence of an enemy in their vicinity, "suppose you wait here for a few minutes, while I go back to the old spot."
+
+"Why do you propose that?"
+
+"I fancied just now I heard something suspicious. Maybe I was mistaken, but when you are in this confounded Apache country, the rule is to believe every man guilty until proved innocent."
+
+"And if you were not mistaken?"
+
+"Well," replied the young officer in his off-hand way, "it’s likely in that case that there will be music in the air."
+
+"I mean as to what *I* shall do. Am I to stand here and take no part in the business? Is that your idea of how one comrade should stand by another?"
+
+The question may seem trifling, but it perplexed the lieutenant for the moment. The idea of comradeship with him, as it is with every true soldier, is that one shall stand by his friend to the death. The basest crime that a soldier can commit is to desert a comrade in extremity. Ordinarily, therefore, the answer of Decker would have been prompt, or rather there would have been no occasion for asking the question, but while Freeman was a brave man, his powers of keen, subtle reasoning, of cool-headedness and quick resources were affected by his mental distress over the peril and uncertainty about his little boy. It is the rule among physicians for no member of the profession to attend unaided his own family (unless the peril make it unavoidable), since affection must weaken the judgment. The situation of the father was somewhat analogous.
+
+In other words the thought of the lieutenant was that it would be safer for them to be apart, if danger should come. The elder not only could not aid the younger, but would increase his own peril. He must, therefore, stay where he was.
+
+"I wish you would remain here until I signal for you to join me. It may be that if there is anything of the kind in the air, it will be best to let it alone, and there is more chance of that with one of us than with both. If I find myself in need of you I will call."
+
+Freeman could make no objection to this, and he sat down in the stunted undergrowth near the spring, reflecting that with the fervid heat he was likely to feel a renewal of thirst every fifteen minutes or less, and was favorably located for quenching the same without any trying delay.
+
+"Listen for the signal," whispered the lieutenant again, "and don’t join me until you hear it. I will make it as soon as I am convinced the way is clear."
+
+The space between the spring and the rock where they meant to await the return of Mendez was but little more than a hundred yards. It was broken by boulders, a number of depressions, with here and there a dwarf pine, one of those sturdy trees which seem to have the power of the moss to extract the needed nourishment where most plants would die for lack of it. Though the moon was almost overhead, it was impossible for either of the men to discern objects for a third of the distance which separated them. The lieutenant had not taken more than a dozen steps in his guarded manner, with his body in a crouching posture and all his senses alert, when the watchful Freeman was as much alone as if the nearest man were miles distant. The brave young officer was swallowed up in the gloom and gone.
+
+"Now," thought the elder, finding himself alone, "the Apaches must know about this spring; those people I suppose understand what hunger and thirst are, though they have less trouble from it than any persons I ever met, and it isn’t impossible that some of them may take a notion to drink from the same spring. That being the case, the prudent thing for me to do is to imbibe freely while I have the chance."
+
+Having drank deeply only a few minutes before, Freeman felt as if he must make excuse to his conscience for his dissipation, but the water was delicious and the supply all-sufficient. He quaffed his fill, and then replacing his hat stole softly from the spot and assumed a crouching posture behind a convenient boulder, where there was little likelihood of an enemy stealing upon him unawares.
+
+"The lieutenant is full of pluck," he reflected, "but the pluckiest man that ever lived sometimes needs the help of a child. There isn’t anything he wouldn’t do for me, and I will stand by him to the last extremity."
+
+Meanwhile, Lieutenant Decker was alert and guarded in every step he took. His principle that while in the Apache country every indication of possible danger, no matter how slight, should be accepted as the reality, was the right principle. Its disregard has brought death to many a brave soldier on the frontier. Lieutenant Decker welcomed a lively brush with the hostiles, but he would have been the idiot which he was not, to disregard the experience of those that had fought these fierce people before he was born, while brief as was his own experience, its lesson was too impressive to be forgotten.
+
+For perhaps a fourth of the distance he advanced almost on his hands and knees, stealing from boulder to boulder, at times almost flat on his face, then raising his head, peering here and there, looking and listening with the utmost keenness at his command.
+
+"There is no wind blowing though I heard a rustle once or twice; I don’t think there has been enough to move a leaf for the last half hour. Now and then we meet wild animals in this part of the world, but that slight noise—if there *was* a noise—wasn’t made by any of them. It looks as if some of the Apaches are hereabouts."
+
+Perhaps a veteran scout would have argued that, inasmuch as the young officer had heard a noise—slight though it was—the fact was against its having been made by one of the dreaded red men, since none of them would commit a blunder of that nature, when in the neighborhood of an enemy, but it might be they did not think any enemy was near, so it was wise for the lieutenant to proceed on the theory that some of Geronimo’s followers were prowling in the vicinity.
+
+For a period of ten minutes the young officer held his place immovable. During that time the oppressive silence was unbroken by the slightest disturbance. Everything seemed absolutely "dead" around him, the atmosphere itself being as pulseless as the warm rocks and boulders on which he rested his hand, as he glided near them. Certain that he had not made the least betrayal, the lieutenant began to ask himself whether he had not been mistaken from the first in his suspicions.
+
+With his head so near the ground, he lay flat, and pressed his ear against the earth, as do hunters and scouts when in the vicinity of enemies. At the moment of resorting to this test, the ear told something faintly, but it was gone at the moment he composed himself to listen—a fact which made it seem that the noise was caused by the first contact of his own ear with the ground.
+
+"Everything seems to be all right," he reflected, finally resuming his advance to the spot where he and Freeman had settled down to await the return of their dusky friend.
+
+A rod further and Decker was checked by a rock that must have weighed several tons. He could pass it by turning to the right or left or climbing over it. It need not be said that the last method was to be used only as a final resort. He paused once more and considered on which side it was best to flank it—a question which it would seem could not be settled by an hour’s deliberation, but there is no accounting for the impressions which sometimes sway persons in perilous emergencies. The lieutenant was cautiously creeping to the left, and had turned the corner, when he abruptly retreated and headed to the right.
+
+Advancing in this Apache-like style, he held the Winchester which he carried with him in his left hand, both hands and knees being used to aid his progress, while he peered ahead in the gloom and listened with the intensity he had shown from the first. The configuration of the rock and the position of the moon (not exactly in the zenith), threw a line of shadow to the right of the immense boulder just far enough to enfold his figure. On the other side there was not a particle of shade, so that his change of advance had brought that much advantage to him.
+
+From the corner of the rock around which he had just crept, to the corresponding edge, was little more than twelve feet, and half the distance was passed, when the very peril against which he was maneuvering presented itself. Beyond the further corner appeared the head of an Apache warrior, thrust forward, seemingly with the slow, noiseless motion of the hand of a clock. He, too, was in a crouching posture, for the impish face, with its dangling mass of hair, was no more than a foot above the ground. It was partly in moonlight and partly in shadow, but shown so plainly that there could be no possible mistake.
+
+Although the position of the lieutenant was the more favorable, the action of the hostile proved that he was as quick to detect him as the other was to observe his dusky foe. Before Decker could draw his revolver or bring his rifle into play, the head of the savage whisked from sight. It vanished so suddenly indeed as to suggest the figurehead of a wooden image that was snapped back by machinery.
+
+The situation was growing interesting. Here were two deadly enemies within eight or ten feet of each other, both equally alive to the fact, both armed and ready to take instant advantage of any turn that might offer.
+
+It cannot be said that Lieutenant Decker felt comfortable. He knew the cunning of these terrible red men, and would much rather fight them in the open or on ground where the chances of each were the same. This savage had been trained in the cunning and woodcraft of his people, and knew things which could not have come as yet to the white man. But the latter was quick of perception and was learning fast in the crucial school of experience.
+
+In one sense, the two were on the same footing. They were within striking distance, with the rock between them, and he who was the first to discover the other, even for an instant, must win in the desperate game. It was, in fact, the question of which could "get the drop" on the other.
+
+The Apache might come around the corner of the rock in front, or at the rear, or possibly he would try to steal over the top, so as to fire down on his enemy. If he could forestall the white man, by a moment, it would inevitably be fatal to the latter.
+
+There is a stratagem as old as the hills and one with which doubtless every reader of these pages is familiar. Lieutenant Decker gently removed his hat and placed it on the muzzle of his rifle. Then creeping slightly forward, he extended the weapon, intending to make the hat show around the edge of the boulder. It will be understood that the idea was to represent himself as peering beyond the edge, so as to draw the shot of the Apache, and then let fly at him before he could recover from the blunder.
+
+The young man had almost reached the corner with the extended Winchester, when he withdrew it and replaced the hat on his head.
+
+"If there were a law against persons making fools of themselves, I would violate it about every hour of the day," was his thought. "I’m glad no one saw me."
+
+For, while reaching forward with one arm, he awakened to the fact that even if the stratagem was successful, it would not help him. Suppose the Apache sent a bullet through the hat, how could that aid the officer? The Indian would discover his mistake before Decker could bring his body to the same spot and fire—an act which would place him in exactly the same peril that the hat had encountered. Furthermore, more than likely the warrior owned a repeating Winchester. If so, the true course for him was to fire at the hat the instant it showed and give the impression that he had been tricked. That would encourage the white man to rush to the attack and bring to his foe the exact chance for which he was maneuvering and waiting. Consequently, this time-honored and once brilliant strategy would prove a boomerang that would recoil with disastrous effect upon the originator.
+
+The momentous question remained as to the Apache’s method of attack, for, whatever it was, it must be forestalled. The officer was obliged to watch the front and the rear, and make sure that his enemy did not glide over the top of the rock like a rattlesnake, and strike down from above.
+
+Decker leaned his rifle against the face of the boulder and drew his revolver. The former weapon was too awkward to be used in the impending encounter. The smaller was equally effective and tenfold more handy.

@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 5 - Gondremark Is In My Lady’s Chamber"
-weight: 11
+weight: 10
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-05.html"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Part 1 - Chapter 4 - The Survivors Of The \u0026quot;Waldeck\u0026quot;"
+title: "Part 1 - Chapter 4 - The Survivors Of The \"Waldeck\""
 weight: 4
 url: "/authors/verne-jules/dick-sand-a-captain-at-fifteen/part-01-chapter-04.html"
 ---

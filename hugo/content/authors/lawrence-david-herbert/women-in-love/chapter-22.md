@@ -1,6 +1,6 @@
 ---
-title: "chapter 22"
-weight: 999
+title: "Chapter 22 - Woman To Woman"
+weight: 22
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-22.html"
 ---
 

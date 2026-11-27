@@ -1,6 +1,6 @@
 ---
-title: "chapter 08"
-weight: 999
+title: "Chapter 8 - Breadalby"
+weight: 8
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-08.html"
 ---
 

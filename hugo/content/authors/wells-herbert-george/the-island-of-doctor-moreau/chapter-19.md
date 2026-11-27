@@ -1,5 +1,5 @@
 ---
-title: "Chapter 19 - Montgomery's \u0026quot;Bank Holiday\u0026quot;"
+title: "Chapter 19 - Montgomery's \"Bank Holiday\""
 weight: 20
 url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-19.html"
 ---

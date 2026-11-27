@@ -1,5 +1,5 @@
 ---
-title: "Chapter 1 - In The Dingey Of The \u0026quot;Lady Vain\u0026quot;"
+title: "Chapter 1 - In The Dingey Of The \"Lady Vain\""
 weight: 2
 url: "/authors/wells-herbert-george/the-island-of-doctor-moreau/chapter-01.html"
 ---

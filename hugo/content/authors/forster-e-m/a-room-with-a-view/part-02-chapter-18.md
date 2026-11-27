@@ -1,6 +1,6 @@
 ---
 title: "Part 2 - Chapter 18 - Lying To Mr. Beebe, Mrs. Honeychurch, Freddy, And The Servants"
-weight: 19
+weight: 18
 url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-18.html"
 ---
 

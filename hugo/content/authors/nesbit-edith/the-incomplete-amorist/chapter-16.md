@@ -1,5 +1,5 @@
 ---
-title: "Chapter 16 - \u0026quot;Love And Tupper\u0026quot;"
+title: "Chapter 16 - \"Love And Tupper\""
 weight: 16
 url: "/authors/nesbit-edith/the-incomplete-amorist/chapter-16.html"
 ---

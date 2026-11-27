@@ -1,5 +1,5 @@
 ---
-title: "Book 1 - Chapter 17 - The \u0026quot;Thunder Child\u0026quot;"
+title: "Book 1 - Chapter 17 - The \"Thunder Child\""
 weight: 17
 url: "/authors/wells-herbert-george/the-war-of-the-worlds/book-01-chapter-17.html"
 ---

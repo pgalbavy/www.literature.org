@@ -1,6 +1,6 @@
 ---
 title: "Book 3 - Chapter 1 - Princess Cinderella"
-weight: 21
+weight: 20
 url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-01.html"
 ---
 

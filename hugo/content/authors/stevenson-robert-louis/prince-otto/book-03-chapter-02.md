@@ -1,6 +1,6 @@
 ---
 title: "Book 3 - Chapter 2 - Treats Of A Christian Virtue"
-weight: 22
+weight: 21
 url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-02.html"
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4 - \u0026quot;God Have Mercy On Its Evil Fortunes\u0026quot;"
+title: "Chapter 4 - \"God Have Mercy On Its Evil Fortunes\""
 weight: 5
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-04.html"
 ---

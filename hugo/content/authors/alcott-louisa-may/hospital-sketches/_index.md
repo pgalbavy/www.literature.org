@@ -1,5 +1,5 @@
 ---
-title: "Hosiptal Sketches"
+title: "Hospital Sketches"
 book_author: "Louisa May ALCOTT"
 source: ""
 ---

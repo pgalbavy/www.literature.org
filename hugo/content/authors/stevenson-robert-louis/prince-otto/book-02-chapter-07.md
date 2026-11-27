@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 7 - The Prince Dissolves The Council"
-weight: 13
+weight: 12
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-07.html"
 ---
 

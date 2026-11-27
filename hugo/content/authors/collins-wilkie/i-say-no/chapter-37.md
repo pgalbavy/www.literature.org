@@ -1,5 +1,5 @@
 ---
-title: "Chapter 37 - \u0026quot;The Lady Wants You, Sir.\u0026quot;"
+title: "Chapter 37 - \"The Lady Wants You, Sir.\""
 weight: 37
 url: "/authors/collins-wilkie/i-say-no/chapter-37.html"
 ---

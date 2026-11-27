@@ -1,5 +1,5 @@
 ---
-title: "Chapter 33 - \u0026quot;He Just Kept Coming And Coming\u0026quot;"
+title: "Chapter 33 - \"He Just Kept Coming And Coming\""
 weight: 33
 url: "/authors/montgomery-lucy-maud/anne-of-the-island/chapter-33.html"
 ---

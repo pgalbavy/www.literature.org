@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2 - \u0026quot;An Investment, Anyway\u0026quot;"
+title: "Chapter 2 - \"An Investment, Anyway\""
 weight: 2
 url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-02.html"
 ---

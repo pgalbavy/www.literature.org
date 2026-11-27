@@ -1,113 +1,117 @@
 ---
-title: "Chapter 25 - A Reminiscence"
-weight: 27
+title: "Chapter 25 - What Befell Maurice Freeman"
+weight: 25
 url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-25.html"
 ---
 
-Reaching the rock, the two men made another reconnaissance before sitting down to await the return of the White Mountain Apache. Nothing was discovered to cause misgiving, and they were almost convinced that they would remain undisturbed until the coming of the scout upon whom all their hopes were now placed.
+It will not be denied that a most memorable experience befell Lieutenant James Decker, and yet what shall be said of that which came to Maurice Freeman, whom he left beside the spring, while he went forward to reconnoiter?
 
-The moon had passed further over in the heavens, and its face was frequently screened by drifting masses of clouds which rendered its light treacherous and uncertain. They talked in low tones, not forgetting to keep constant watch for the approach of their enemies, some of whom it was certain were at no great distance.
+After taking his second deep draught of water, he walked aside, as will be remembered, being impelled thereto by the same distrust that led the young officer some time later to hide himself while the three Apaches came forward to quench their thirst.
 
-"That affair of mine with the rattlesnake," said the lieutenant, "recalled the singular adventure of two scouts under Major Forsythe, in the autumn of 1868. The peace commissioners concluded treaties the previous year with the Arapahoes, Cheyennes, Kiowas, Comanches and Apaches. Other treaties were formed, the object being to secure the removal of the different tribes to the reservations selected for them. There was delay and bad faith on the part of our agents, and, in the face of the treaties, many outrages were committed by the Indians in Kansas and Colorado. Troops were kept on watch along the lines of travel across the State of Kansas into Colorado, and a company of scouts under Major Forsythe, numbering fifty picked men, left Fort Hayes, Kansas, in September. A week was spent in scouting, when they reached Fort Wallace, where Forsythe proceeded to refit his command. Then news came that the Indians had attacked a train near Sheridan, a small railway town, eighty miles away. Forsythe set out with his force to punish the marauders.
+"I understand his action," reflected the father; "he distrusts my judgment; he believes I am so upset by my affliction that I would run blindly into danger; but he is mistaken. Heaven knows that I have suffered and am still tortured by anxiety for my little boy, but I know better than to make his peril greater by any recklessness on my part.
 
-"The Indians were pressed so hard that they resorted to their old trick of breaking up into smaller parties, thus confusing their trail and rendering effective pursuit impossible. Forsythe pushed on to the Republican River, where he struck another trail which grew broader and more distinct, until it was clear that a large number of horses and cattle had been recently driven over it.
+"I would be offended if it were any one except Lieutenant Decker, but who can be offended with him?" asked the captain, with a glow of admiring gratitude; "he has risked his life for the sake of little Fulton and will continue to risk it so long as a shadow of hope remains. He is one of the most chivalrous, noble-hearted young men I ever knew, and if he lives will earn his star."
 
-"At the close of day, the command went into camp on the Arickaree Fork of the Republican, at a point were the river divides so as to inclose a low sandy island about a hundred yards long. The soldiers had but one day’s provisions, but their intention was to push on and strike the Indians, who were known to be not far off. At daylight, while the men were saddling up, they were attacked by fully a thousand Brulés, Sioux, Cheyennes and ‘Dog Soldiers.’ Forsythe retreated to the island, and the position was made as strong as possible. In the first attack, Forsythe was badly wounded and two of his men killed. A few minutes later a second shot shattered the major’s left leg between the knee and ankle. Almost at the same moment, the surgeon was killed. Every horse was shot. That fight and siege formed one of the most fearful episodes in the history of our Indian wars. At the end of the first day not a horse was alive, the provisions were gone, the surgeon was dead, there were no medical stores, four men were killed, four mortally and four badly wounded, ten others being slightly hurt, so that almost one-half of the command had been struck.
+When fifteen minutes passed without bringing the expected signal from the lieutenant, Freeman wondered whether anything was amiss. Had he thought any danger threatened the young officer, he would have hastened to his aid, without hearing his call; but decided to await something more definite.
 
-"On the other hand, the Indians had been decisively repulsed, the soldiers had plenty of ammunition, water could be obtained by digging in the sand, and the bodies of the horses and mules would ward off starvation. But the men needed help in the worst way. The nearest post from which this could be obtained was Fort Wallace, one hundred and ten miles distant. Two of the best scouts, Trudeau and Jack Stillwell, volunteered to run the gauntlet.
+With the same suddenness as his young friend, he became aware that he was not alone. Some one was near him and that some one must be an enemy.
 
-"As soon as it was dark, they stole from the island. There was little hope that they would succeed, but both men were brave and cool-headed, and, if the thing were possible, they were the ones to accomplish it. The defenders waited long and listened, and hearing nothing, believed they had been captured. At dusk on the second day, during which there was continuous fighting, two more scouts were sent out, but they were discovered and barely succeeded in getting back to the island. This convinced all that Stillwell and Trudeau had failed, but such was not the fact.
+The disturbance which brought this knowledge was so exceedingly faint that at first the captain could not decide what point it came from. He did not dare move, therefore, through fear of a misstep; but, grasping his Winchester, he looked and listened with all the acuteness he possessed. The Apache must have been the first to detect the presence of another, for, with all of Freeman’s caution, he was outwitted by the warrior, who appeared so suddenly that he seemed to rise out of the very earth and to be standing erect in front of the astonished captain before he knew where to look for him.
 
-"Those two scouts, in leaving the island, moved down stream, keeping as near the middle as they could. The water was so shallow that neither could swim, and they crawled on their hands and knees for most of the distance. Lucky for the men, the night was clouded, and the moon had set before they left the island. They kept in the river for three miles when they waded ashore, and, hiding their trail as best they could, made for the nearest timber. When day dawned, they were ten miles from the river and their danger was greater than ever. The Indians were patrolling the stream, on the watch for just such attempts and the prairie grass was so short that it was impossible for the scouts to advance without exposing themselves. The only way to escape capture was to conceal themselves and wait for night.
+But Freeman was a veteran soldier and was not the man to surrender, so long as he was able to strike a blow for himself. He recoiled a step, so as to secure elbow room, and was in the act of raising his rifle to his shoulder, when the Apache spoke:
 
-"Sweeping the surrounding prairie, they observed a spot where the grass was about a foot higher than the rest. With the utmost care they crept to it and found it just the place they wanted. The dead body of some animal had acted as a fertilizer, causing the grass to grow with more vigor and density than elsewhere. The bones were those of a buffalo whose flesh had disappeared long before.
+"No fire—me friend."
 
-"Lying down in this hiding place, the scouts munched the slight meal they had brought with them, and then peeped out at their surroundings, which were anything but reassuring. Indian horsemen seemed to be moving on all sides, and the sound of firing from up the river showed that fighting had been renewed. Neither of the scouts dared rise from a prone position, and were in constant danger of discovery. If some of the sharp-eyed redskins detected the trail leading from the river, they were certain to follow it to the clump of grass.
+"Heaven! Mendez, where did you come from?" asked the astounded white man, recognizing the Apache, upon whom it may be said all their hopes rested.
 
-"Trudeau and Stillwell agreed to take turns in sleeping and watching for every three hours. Trudeau was the first to act as sentinel. He lay upon his side, took a big chew of his army plug tobacco, and peeped between the blades of grass, while his companion slept. Before long Trudeau saw a sight which was so alarming that he awoke his companion. Twenty Indian horsemen were approaching and were sure to pass very close to the clump of grass, even if they did not ride through it.
+The warrior was standing in the edge of the moonlight where his hard features were in so plain view that Freeman wondered why he failed to identify him the instant he presented himself.
 
-"Stillwell peeped out and said:
+"’Pache here—soon come," explained Mendez; "we go ’way, where don’t come."
 
-"‘We’ve got to hug the ground close, but if they see us, they’ll find out we come high.’ ‘You bet,’ replied Trudeau and the two grimly waited events.
+This precaution was so sensible that Freeman willingly followed him a few steps further, to a spot where they were not likely to be seen by any one approaching the spring. When they halted it was beside one of those boulders, so numerous in that section that it may be said they were never out of sight. The Apache kept his feet, as did his companion.
 
-"The Indians seemed to have no special business, and rode so slowly that it was a long time before they reached the point only a hundred yards away. It was at this critical moment that a feeling of impending danger caused Stillwell to turn his head. As he did so, he saw an immense rattlesnake gliding through the bones of the dead buffalo and coming straight toward them. It looked as if the scouts had invaded the reptile’s home, for he did that which my pet did not do—he advanced upon them with the intention of attack.
+The heart of Maurice Freeman was throbbing painfully, for instinctively he felt that this singular visit had something to do with his child. He and Lieutenant Decker supposed the friendly Apache was at a considerable distance, intent on his task of rescuing the little one, and now, much sooner than was anticipated, he had come back, almost to his starting point, and the boy was not with him.
 
-"The first thought of the men was to shoot or to club him to death with the stocks of their rifles, but any such act would have revealed their presence to the Indians now close at hand. The next thought was to stare the snake out of countenance as the rattler himself sometimes does with his victims. Stillwell made the attempt, but without any success. The snake meant business.
+"But he brings news—he brings news and my heart tells me it is bad news," thought the stricken parent, striving manfully to quell all signs of his great sorrow.
 
-"The rattler came straight forward until within four feet of Trudeau, when he began coiling to strike. Not a moment was to be lost, and Stillwell made up his mind to shoot the reptile. He preferred death at the hands of the redskins to that from the bite of the rattler.
+What intensified his anguish was the evident fact that something was the matter with Mendez. While walking in front of the captain, he made several missteps. Once he stumbled, lurching far to one side, and violently recovering himself. Then he straightened up and moved with a firm step, as if he had regained his self-control.
 
-"For a minute or two, however, the jaws of Trudeau had been vigorously working on the tobacco in his mouth. He had accumulated a volume of spittle, surcharged with nicotine. He was nearer to the snake than his companion, and he now shot out a thick yellow stream, as if from the nozzle of a hose. It landed directly in the eyes and mouth of the rattler, as he was almost in the act of striking.
+"He has managed in some way to get hold of his favorite drink," was the despairing thought of Freeman; "he is a fine one to attempt to get my boy out of the hands of a band of his countrymen!"
 
-"Well," said Lieutenant Decker, with a smile, "that particular serpent had never learned to chew, and the pungent stuff in his eyes and mouth must have disgusted him to fury. He had never been attacked with that sort of ammunition and it threw him into a panic. He flung himself out of his coil a good deal quicker than he entered it, and, turning tail, glided through the grass and out of sight with such celerity that the scouts, despite their dangerous situation, shook with silent laughter.
+If anything was needed to confirm this belief it was the manner of Mendez. It has been shown that he was morose by nature, but now his tongue was loosened in a way that Freeman had never known before. He did not stop his walk until he had gone more than a hundred yards from the spring. Then he stopped abruptly, wheeled about and said:
 
-"Their mirth did not last long, for the Indians were so near that discovery seemed inevitable. Lying as flat as they could, and wishing they had the power to stamp themselves into the earth, the scouts knew that a minute or two would decide their fate. Capture by the Indians meant death by torture, and they held their rifles tightly grasped, resolved that if the worst came they would prove the truth of Stillwell’s boast that they ‘came high.’
+"Cap’n Freem’n brave man—heap big warrior!"
 
-"The redskins, however, were not making for the clump of grass. They rode past, the horses on a walk and so close that their hoofbeats and the mumble of their voices were plainly heard, but they did not stop and that particular danger was over.
+"No, Mendez, I am no braver than you, nor as good a warrior in fighting your people, for I know less of them than you; but tell me, do you bring any news of my boy, who was stolen by some of your people?"
 
-"Trudeau and Stillwell alternately watched and slept until night came again. The rattler was too sick of his reception to bother them further, and not once did the Indians approach so near as in the early forenoon. When the coast was clear, the two stole out from their hiding place and resumed their journey to Fort Wallace, walking rapidly and often breaking into a trot. They were tough fellows who could keep this up for hours, and, knowing the extremity of their friends on the island, they did not spare themselves. They reached Fort Wallace and quickly made known the need of sending instant help to Major Forsythe.
+Instead of replying, the Apache devoted a minute or two to regaining mastery of himself. He managed to fix his black eyes on the white man, with something of his old defiant expression, when meeting the gaze of an enemy. By the exercise of his iron will, he succeeded in keeping his poise, but he could not drive out the fumes of the horrible tiswin from his brain. They loosened his tongue and gave an odd twist to his ideas.
 
-"Such an appeal is never made in vain, and Major Bankhead was soon on the way with four troops of cavalry. The Indians tried to jump his camp twenty miles from the Arickaree, but failed, and, without waiting to give battle, the whole band retreated. Major Forsythe and what was left of his command were saved."[1]
+"’Pache got boy," said he; "Mendez see ’im."
 
-"And it was your experience with the rattler a little while ago that called this incident to mind?" was the inquiring comment of Captain Freeman.
+"I know that as well as you, for I too saw him in their hands. Is that all the news you bring me?"
 
-"Yes; I had not thought of it for a long time, but when I leveled my revolver and was about to pull trigger, the whole thing flashed upon me. I saw the similarity of my situation with that of Stillwell and Trudeau, though I was not in quite so bad a fix, for the rattler did not mean to attack me, if I let him alone, and there was but the single Indian that was looking for me. But to fire my pistol would undo what I had accomplished by my change of base."
+"Mendez can’t git ’im."
 
-"You had other charges in the weapon, to say nothing of your Winchester, which was within reach."
+"Why not? Have they put him to death?"
 
-"It was not that, but the dusky dog would have known where I was and gained the advantage that was mine."
+The Apache shook his head, without speaking.
 
-"It did you no good."
+"I thought Mendez was a great warrior," said Freeman, hoping to taunt him into an effort that he seemed reluctant or unable to make; "they told me he could do anything; that he could get my child for me; that he would earn the reward I will give him——"
 
-"On the contrary, it convinced him that I was up to his tricks and caused him to withdraw without any more attempts against me."
+"Mendez want no reward—he take no money!" interrupted the Apache, fiercely thumping his breast.
 
-During these minutes, the two maintained their watchfulness. The words were spoken in low tones, and, while the lieutenant was relating his reminiscence, he continually glanced from side to side. The fact that all remained tranquil confirmed the two in their growing belief that nothing was to be feared from the Apaches.
+"Then has he become a squaw? Is he no longer the great warrior that he used to be? Has he become old and weak?"
 
-"It must be growing late," finally remarked Freeman, "and Mendez, it seems to me, is overdue."
+"Mendez not old—Mendez not weak! He great warrior!"
 
-The lieutenant drew out his watch, but the moonlight was not strong enough for him to discern the figures.
+Any reflection upon the courage or skill of the friendly Apache roused his resentment, which was the reason why Freeman pressed him.
 
-"I’m bound to know the time," he said, removing his cap, so as to shade the light of the match which he drew from the small rubber safe he always carried and scraped it across the face of the rock.
+"Where is your greatness? You come and tell me that you cannot get my boy away from your people, and yet it is not long ago that you set out to do so. You did not say then you could not take him from them, for you were the brave Mendez that the white people praise and that is not afraid of any one, whether he be white man or red man. Now you are *afraid*."
 
-"That’s risky business," whispered his companion.
+"Mendez not ’fraid! white man lie!" the warrior thundered as he laid his hand on his knife.
 
-"That’s the reason I’m doing it," replied the officer, speaking more truthfully than he suspected. "But it shan’t give much help to any of the fellows lurking near."
+"I am not afraid of you, Mendez, but you have been too good a friend of the white people for any of them to wish to harm you. But I repeat your own words. Shall I tell you what is the matter with you?"
 
-Before the twist of flame could assume shape a puff of the breath extinguished it.
+"No matter wi’ Mendez! He brave—he strong—he fight."
 
-"It’s later than I suspected," he remarked.
+"There is much the matter with you; you have been drinking tiswin; you are not yourself; but for the tiswin you would be the true, brave, noble Mendez."
 
-"I suppose it is near ten o’clock?"
+This charge being true, intensified the anger of the Apache. He again placed his hand on his knife and drew it partly forth. His scowling face, never attractive at its best, was working with rage. He seemed to be gathering himself to leap upon the man who dared to speak these words to him. Believing he was about to do so, Freeman quietly braced himself for the struggle. He disliked to come to violence with one that had done so much for the settlers and the army, but the exasperation of the captain can be understood. At the moment when his hopes were at the highest, and when he was certain that the scout was putting forth his best efforts, he came staggering back to his friends maudlin, helpless, worthless, good for nothing.
 
-"It’s a quarter to eleven."
+The belief was strong with the parent that if this opportunity was allowed to pass, it would not come again. More than one peculiar circumstance favored the cunning and ability of the scout, the combination being of that nature that a repetition was not in the natural order of things.
 
-"It must be time to look for Mendez."
+The weakness of Mendez for the vicious drink was well known, and no person could be better aware of its palsying effects than Mendez himself. It was to be expected that he would indulge in it when not on duty and the chance offered, but when engaged on an enterprise in which his highest skill was needed, there was no palliation for his dissipation. He must have drunk deliberately, and the father, distressed by fears for his child, could find no excuse for him. His anger was natural.
 
-"I think so, but there’s no certainty about it; he may be here in five minutes and not for five hours. I suspect he will delay his return for a considerable while."
+But, if the Apache meditated an attack on the white man, he changed his mind for the moment. He drew his hand from his knife.
 
-"For what cause?"
+"Say Mendez weak?—say he squaw?" he mumbled.
 
-"You know there isn’t much chance of doing anything against Maroz and Ceballos for a long time yet, and there is no need, therefore, of his coming here and waiting for hours. He would have to lose sight of them for a good while, so that the conditions are likely to change very materially when he ventures on a move against them, whereas, by keeping the two under his eye until it was time to move, he could do so intelligently."
+Freeman saw an appeal in these questions. It was as if the fellow had become sensible of his condition and craved indulgence rather than censure.
 
-"Furthermore, so long as he keeps beyond our reach we can’t urge him to a haste that is against his judgment."
+"The real Mendez is a brave warrior, but, if he is afraid of the Apaches, he is not Mendez; if he wishes to show to his white brother that he is still brave let him go the Apaches and bring back the boy they hold a prisoner; then Mendez will be cunning, he will be brave, he will be a great warrior."
 
-"Doubtless that has something to do with it, but—*st*!"
+The fellow straightened up with a majestic dignity that could not fail to command respect. He had thrown off the spell of the horrible stuff, as a Roman warrior might fling off his cloak to give his limbs freer play.
 
-Both heard the same signal that had alarmed Freeman during the afternoon, when he believed he was inextricably caught. They listened for its repetition, but the next few minutes were marked by perfect stillness. Then, when they whispered their speculations about its import, they disagreed as to the point whence it came.
+"Mendez is brave: he is a great warrior; he is greater than Geronimo or Cochise; he is not afraid of them; he will bring back the child to his white brother; let his white brother wait here and soon his heart shall be made glad; he shall sing with joy like the birds in the trees. Mendez will soon return; let my brother have patience."
 
-Freeman thought it was from the direction of the rivulet, where they had quenched their thirst, but the lieutenant was positive that it issued from a spot at right angles to that course.
+Maurice Freeman was amazed. He had never heard the surly fellow speak the English tongue with such fluency and eloquence. It was a revelation. He appeared to be another person. He towered in height and was the picture of the great Tecumseh himself, addressing an array of chieftains and urging them to battle.
 
-"We’ll find out when we hear it again, as we shall do in a few minutes."
+Before the white man could frame a suitable reply, Mendez turned and strode off, his step that of a conqueror. Captain Freeman gazed in silent wonderment at the figure until it vanished in the gloom and he was left alone.
 
-"Do you think it is Mendez?"
+The only explanation that Freeman could find for this extraordinary occurrence was that when Mendez came to him, though he was so under the influence of tiswin, he was conscious of his unfitness for the task he had undertaken. Prompted by a strange self-accusation, proving that conscience burns in the breast of every being, he had come to make confession. Then he was so stung by the reproofs of the white man that he was roused out of his sodden condition. He had really thrown off the effects of the poison. In other words he was sober, and the Mendez of old.
 
-"Yes, but it won’t do to bank on it until we get further data; it’s the favorite signal of his to announce his coming, but no doubt others of his people use a similar call. If it is he he will come right to this spot—ah, you are right!"
+With his self-restoration came his natural courage and confidence in his own prowess. He felt able to do what he had planned, and set out to do it. He would show Captain Freeman, not by words but by acts, that he was the invincible Mendez, as the white man had described him to the Apache himself.
 
-So it proved. The gentle whistle sounded again and this time there could be no mistaking its source; it was about half way between the rock and the rivulet or spring.
+All this was well, but it could not remove the shuddering dread from the heart of the father that the fatal blunder had already been made. The Apache’s relapse had allowed the golden chance to slip beyond repairing or recovery.
 
-"Don’t forget that it may be some one else; if so, leave him to me," said the officer, stealthily drawing his revolver; "I’ve been disappointed so many times to-day that I am entitled to this chance—there he is!"
+Freeman felt the need of Lieutenant Decker’s presence and counsel, but he could not go to him, for the signal agreed upon had not been sounded, and besides, the instructions of Mendez were that the father should wait where he was until his dusky friend returned. He was obliged, therefore, to content himself as best he might.
 
-The outlines of an Apache warrior silently assumed shape in the dim moonlight, and another "disappointment" fell to the lot of Lieutenant Decker, who returned his weapon to its place as he recognized Mendez, when he uttered a single word of greeting.
+How long would he be gone? Would it be one hour, two hours, until daylight, or, if he gave way to his weakness again, would he ever return?
 
-It takes a great deal to rouse the emotions of an American Indian, but if ever there was an amazed warrior it was this White Mountain Apache. He had visited the camp of Maroz and Ceballos and the discovery he made was one that fairly carried him off his feet, and which, when related to Maurice Freeman and Lieutenant Decker, held them dumfounded with astonishment.
+Had not the hostiles learned what he was trying to do? Had they not plied him with the atrocious stuff on purpose that he should make an exhibition of himself?
 
-[1] This incident is a fact.
+These and similar questionings were rioting in the brain of Maurice Freeman, when he perceived that Mendez was with him again. He appeared with the same strange suddenness as before, but alas! he was alone.
+
+"Where is my boy?" asked the agonized father.
+
+"The heart of Mendez is heavy, for he brings evil tidings; the pappoose of his white brother is—dead."

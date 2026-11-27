@@ -1,6 +1,6 @@
 ---
-title: "chapter 04"
-weight: 999
+title: "Chapter 4 - Diver"
+weight: 4
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-04.html"
 ---
 

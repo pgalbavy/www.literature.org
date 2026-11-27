@@ -1,5 +1,5 @@
 ---
-title: "Chapter 9 - \u0026quot;I Give To Him The Thing He Craves With All His SoulMyself\u0026quot;"
+title: "Chapter 9 - \"I Give To Him The Thing He Craves With All His SoulMyself\""
 weight: 10
 url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-09.html"
 ---

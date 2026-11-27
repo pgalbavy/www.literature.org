@@ -1,6 +1,6 @@
 ---
 title: "Book 3 - Chapter 4 - Babes In The Wood"
-weight: 24
+weight: 23
 url: "/authors/stevenson-robert-louis/prince-otto/book-03-chapter-04.html"
 ---
 

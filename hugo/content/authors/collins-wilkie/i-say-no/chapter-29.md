@@ -1,5 +1,5 @@
 ---
-title: "Chapter 29 - Chapter Xxix \u0026quot;Bony.\u0026quot;"
+title: "Chapter 29 - Chapter Xxix \"Bony.\""
 weight: 29
 url: "/authors/collins-wilkie/i-say-no/chapter-29.html"
 ---

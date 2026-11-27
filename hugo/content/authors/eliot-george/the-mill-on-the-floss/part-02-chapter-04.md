@@ -1,5 +1,5 @@
 ---
-title: "Part 2 - Chapter 4 - \u0026quot;The Young Idea\u0026quot;"
+title: "Part 2 - Chapter 4 - \"The Young Idea\""
 weight: 17
 url: "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-04.html"
 ---

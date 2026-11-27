@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12 - \u0026quot;The Other Fellows\u0026quot;"
+title: "Chapter 12 - \"The Other Fellows\""
 weight: 13
 url: "/authors/alcott-louisa-may/eight-cousins/chapter-12.html"
 ---

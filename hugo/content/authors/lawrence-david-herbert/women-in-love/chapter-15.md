@@ -1,6 +1,6 @@
 ---
-title: "chapter 15"
-weight: 999
+title: "Chapter 15 - Sunday Evening"
+weight: 15
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-15.html"
 ---
 

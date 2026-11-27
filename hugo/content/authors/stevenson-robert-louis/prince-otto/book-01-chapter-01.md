@@ -1,6 +1,6 @@
 ---
 title: "Book 1 - Chapter 1 - In Which The Prince Departs On An Adventure"
-weight: 3
+weight: 2
 url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-01.html"
 ---
 

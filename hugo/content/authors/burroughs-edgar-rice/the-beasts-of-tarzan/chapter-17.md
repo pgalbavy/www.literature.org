@@ -1,5 +1,5 @@
 ---
-title: "Chapter 17 - On the Deck of the \u0026quot;Kincaid\u0026quot;"
+title: "Chapter 17 - On the Deck of the \"Kincaid\""
 weight: 17
 url: "/authors/burroughs-edgar-rice/the-beasts-of-tarzan/chapter-17.html"
 ---

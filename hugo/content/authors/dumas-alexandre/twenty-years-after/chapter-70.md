@@ -1,5 +1,5 @@
 ---
-title: "Chapter 70 - The Skiff \u0026quot;Lightning.\u0026quot;"
+title: "Chapter 70 - The Skiff \"Lightning.\""
 weight: 70
 url: "/authors/dumas-alexandre/twenty-years-after/chapter-70.html"
 ---

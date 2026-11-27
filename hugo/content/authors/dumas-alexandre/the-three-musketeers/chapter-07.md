@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7 - The Interior Of \u0026quot;The Musketeers\u0026quot;"
+title: "Chapter 7 - The Interior Of \"The Musketeers\""
 weight: 8
 url: "/authors/dumas-alexandre/the-three-musketeers/chapter-07.html"
 ---

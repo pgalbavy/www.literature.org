@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12 - \u0026quot;So Young!\u0026quot;"
+title: "Chapter 12 - \"So Young!\""
 weight: 12
 url: "/authors/eliot-george/impressions-of-theophrastus-such/chapter-12.html"
 ---

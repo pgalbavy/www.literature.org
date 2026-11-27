@@ -1,5 +1,5 @@
 ---
-title: "Book 2 - Chapter 21 - \u0026quot;Love Shall Make All Things New\u0026quot;"
+title: "Book 2 - Chapter 21 - \"Love Shall Make All Things New\""
 weight: 37
 url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-21.html"
 ---

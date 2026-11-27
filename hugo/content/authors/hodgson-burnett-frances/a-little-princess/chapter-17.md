@@ -1,5 +1,5 @@
 ---
-title: "Chapter 17 - \u0026quot;It Is The Child!\u0026quot;"
+title: "Chapter 17 - \"It Is The Child!\""
 weight: 18
 url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-17.html"
 ---

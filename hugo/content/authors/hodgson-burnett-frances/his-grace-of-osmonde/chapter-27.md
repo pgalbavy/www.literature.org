@@ -1,5 +1,5 @@
 ---
-title: "Chapter 27 - \u0026quot;'Twas The Night Thou Hidst The Package In The Wall\u0026quot;"
+title: "Chapter 27 - \"'Twas The Night Thou Hidst The Package In The Wall\""
 weight: 28
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-27.html"
 ---

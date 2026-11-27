@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 9 - The Price Of The River Farm; In Which Vainglory Goes Before A Fall"
-weight: 15
+weight: 14
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-09.html"
 ---
 

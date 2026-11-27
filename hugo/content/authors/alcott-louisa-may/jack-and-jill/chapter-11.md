@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11 - \u0026quot;Down Brakes\u0026quot;"
+title: "Chapter 11 - \"Down Brakes\""
 weight: 12
 url: "/authors/alcott-louisa-may/jack-and-jill/chapter-11.html"
 ---

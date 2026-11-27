@@ -1,5 +1,5 @@
 ---
-title: "Chapter 15 - \u0026quot;Hook Or Me This Time\u0026quot;"
+title: "Chapter 15 - \"Hook Or Me This Time\""
 weight: 15
 url: "/authors/barrie-james-matthew/the-adventures-of-peter-pan/chapter-15.html"
 ---

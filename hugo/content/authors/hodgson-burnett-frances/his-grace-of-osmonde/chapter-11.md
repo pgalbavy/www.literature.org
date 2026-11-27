@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11 - \u0026quot;It Might Have Been--It Might Have Been!\u0026quot;"
+title: "Chapter 11 - \"It Might Have Been--It Might Have Been!\""
 weight: 12
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-11.html"
 ---

@@ -1,6 +1,6 @@
 ---
-title: "preface"
-weight: 999
+title: "Preface"
+weight: 1
 url: "/authors/baum-l-frank/the-scarecrow-of-oz/preface.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "chapter 03"
-weight: 999
+title: "Chapter 3 - Class-Room"
+weight: 3
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-03.html"
 ---
 

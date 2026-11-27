@@ -1,5 +1,5 @@
 ---
-title: "Chapter 4 - The Siege Of The \u0026quot;Lancashire Queen\u0026quot;"
+title: "Chapter 4 - The Siege Of The \"Lancashire Queen\""
 weight: 4
 url: "/authors/london-jack/tales-of-the-fish-patrol/chapter-04.html"
 ---

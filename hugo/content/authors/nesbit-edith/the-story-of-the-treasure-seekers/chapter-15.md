@@ -1,5 +1,5 @@
 ---
-title: "Chapter 15 - \u0026quot;Lo, The Poor Indian!\u0026quot;"
+title: "Chapter 15 - \"Lo, The Poor Indian!\""
 weight: 15
 url: "/authors/nesbit-edith/the-story-of-the-treasure-seekers/chapter-15.html"
 ---

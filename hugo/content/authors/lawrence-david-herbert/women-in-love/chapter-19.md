@@ -1,6 +1,6 @@
 ---
-title: "chapter 19"
-weight: 999
+title: "Chapter 19 - Moony"
+weight: 19
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-19.html"
 ---
 

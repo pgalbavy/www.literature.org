@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 3 - The Prince And The English Traveller"
-weight: 9
+weight: 8
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-03.html"
 ---
 

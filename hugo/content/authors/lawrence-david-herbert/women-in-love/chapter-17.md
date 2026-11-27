@@ -1,6 +1,6 @@
 ---
-title: "chapter 17"
-weight: 999
+title: "Chapter 17 - The Industrial Magnate"
+weight: 17
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-17.html"
 ---
 

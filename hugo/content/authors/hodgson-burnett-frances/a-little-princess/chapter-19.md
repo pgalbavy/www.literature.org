@@ -1,5 +1,5 @@
 ---
-title: "Chapter 19 - \u0026quot;Anne\u0026quot;"
+title: "Chapter 19 - \"Anne\""
 weight: 20
 url: "/authors/hodgson-burnett-frances/a-little-princess/chapter-19.html"
 ---

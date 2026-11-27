@@ -1,6 +1,6 @@
 ---
-title: "chapter 31"
-weight: 999
+title: "Chapter 31 - Exeunt"
+weight: 31
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-31.html"
 ---
 

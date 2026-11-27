@@ -136,13 +136,13 @@ Since his discovery of the contents of the basket, Trotty had been standing look
 
 ''The Bells do, father!'' laughed Meg, as she set the basin, and a knife and fork before him. ''Well!''
 
-''Seem to, my Pet,'' said Trotty, falling to with great vigour. ''And where's the difference? If I hear 'em, what does it matter whether they speak it or not? Why bless you, my dear,'' said Toby, pointing at the tower with his fork, and becoming more animated under the influence of dinner, ''how often have I heard them bells say &onq;Toby Veck, Toby Veck, keep a good heart, Toby! Toby Veck, Toby Veck, keep a good heart, Toby!&cnq; A million times? More!''
+''Seem to, my Pet,'' said Trotty, falling to with great vigour. ''And where's the difference? If I hear 'em, what does it matter whether they speak it or not? Why bless you, my dear,'' said Toby, pointing at the tower with his fork, and becoming more animated under the influence of dinner, ''how often have I heard them bells say 'Toby Veck, Toby Veck, keep a good heart, Toby! Toby Veck, Toby Veck, keep a good heart, Toby!' A million times? More!''
 
 ''Well, I never!'' cried Meg.
 
 She had, though -- over and over again. For it was Toby's constant topic.
 
-''When things is very bad,'' said Trotty; ''very bad indeed, I mean; almost at the worst; then it's &onq;Toby Veck, Toby Veck, job coming soon, Toby! Toby Veck, Toby Veck, job coming soon, Toby!&cnq; That way.''
+''When things is very bad,'' said Trotty; ''very bad indeed, I mean; almost at the worst; then it's 'Toby Veck, Toby Veck, job coming soon, Toby! Toby Veck, Toby Veck, job coming soon, Toby!' That way.''
 
 ''And it comes -- at last, father,'' said Meg, with a touch of sadness in her pleasant voice.
 

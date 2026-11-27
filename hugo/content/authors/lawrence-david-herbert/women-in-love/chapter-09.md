@@ -1,6 +1,6 @@
 ---
-title: "chapter 09"
-weight: 999
+title: "Chapter 9 - Coal-Dust"
+weight: 9
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-09.html"
 ---
 

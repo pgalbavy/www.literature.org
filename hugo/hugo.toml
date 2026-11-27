@@ -29,3 +29,16 @@ enableGitInfo = false
   [[module.mounts]]
     source = "static/js"
     target = "assets/js"
+
+# contents.json for the root, /authors/ and each author and book, generated
+# from front matter and the page tree (layouts/_default/list.contents.json)
+# for client-side code. These replace the hand-maintained static copies.
+[outputFormats.contents]
+  mediaType = "application/json"
+  baseName = "contents"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["html", "contents"]
+  section = ["html", "contents"]

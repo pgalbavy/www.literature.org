@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5 - How A Strange Company Gathered At The \u0026quot;Pied Merlin\u0026quot;"
+title: "Chapter 5 - How A Strange Company Gathered At The \"Pied Merlin\""
 weight: 5
 url: "/authors/doyle-arthur-conan/the-white-company/chapter-05.html"
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 25 - \u0026quot;We Were The First\u0026quot;"
+title: "Chapter 25 - \"We Were The First\""
 weight: 25
 url: "/authors/verne-jules/an-antartic-mystery/chapter-25.html"
 ---

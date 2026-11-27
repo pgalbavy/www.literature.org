@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7 - \u0026quot;I Should Like To See More Of Slowbridge\u0026quot;"
+title: "Chapter 7 - \"I Should Like To See More Of Slowbridge\""
 weight: 7
 url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-07.html"
 ---

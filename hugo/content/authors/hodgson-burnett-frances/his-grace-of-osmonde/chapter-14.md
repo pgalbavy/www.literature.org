@@ -1,5 +1,5 @@
 ---
-title: "Chapter 14 - \u0026quot;For All Her Youth--There Is No Other Woman Like Her\u0026quot;"
+title: "Chapter 14 - \"For All Her Youth--There Is No Other Woman Like Her\""
 weight: 15
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-14.html"
 ---

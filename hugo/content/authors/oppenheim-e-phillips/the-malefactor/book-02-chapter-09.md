@@ -1,5 +1,5 @@
 ---
-title: "Book 2 - Chapter 9 - \u0026quot;I Am Misanthropos, And Hate Mankind\u0026quot;"
+title: "Book 2 - Chapter 9 - \"I Am Misanthropos, And Hate Mankind\""
 weight: 25
 url: "/authors/oppenheim-e-phillips/the-malefactor/book-02-chapter-09.html"
 ---

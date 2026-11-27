@@ -1,5 +1,5 @@
 ---
-title: "Chapter 19 - \u0026quot;Then You Might Have Been One Of Those----\u0026quot;"
+title: "Chapter 19 - \"Then You Might Have Been One Of Those----\""
 weight: 20
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-19.html"
 ---

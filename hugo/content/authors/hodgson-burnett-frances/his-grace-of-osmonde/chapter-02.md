@@ -1,5 +1,5 @@
 ---
-title: "Chapter 2 - \u0026quot;He Is The King\u0026quot;"
+title: "Chapter 2 - \"He Is The King\""
 weight: 3
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-02.html"
 ---

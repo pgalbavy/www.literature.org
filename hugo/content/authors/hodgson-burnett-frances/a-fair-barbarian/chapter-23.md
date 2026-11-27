@@ -1,5 +1,5 @@
 ---
-title: "Chapter 23 - \u0026quot;May I Go?\u0026quot;"
+title: "Chapter 23 - \"May I Go?\""
 weight: 23
 url: "/authors/hodgson-burnett-frances/a-fair-barbarian/chapter-23.html"
 ---

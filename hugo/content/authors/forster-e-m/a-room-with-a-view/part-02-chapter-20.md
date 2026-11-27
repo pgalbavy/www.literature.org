@@ -1,6 +1,6 @@
 ---
 title: "Part 2 - Chapter 20 - The End Of The Middle Ages"
-weight: 21
+weight: 20
 url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-20.html"
 ---
 

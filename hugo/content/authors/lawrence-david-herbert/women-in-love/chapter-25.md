@@ -1,6 +1,6 @@
 ---
-title: "chapter 25"
-weight: 999
+title: "Chapter 25 - Marriage Or Not"
+weight: 25
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-25.html"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "Book 1 - Chapter 3 - In Which The Prince Comforts Age And Beauty And Delivers A Lecture On Discretion In Love"
-weight: 5
+weight: 4
 url: "/authors/stevenson-robert-louis/prince-otto/book-01-chapter-03.html"
 ---
 

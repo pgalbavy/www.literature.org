@@ -1,5 +1,5 @@
 ---
-title: "Chapter 32 - Mrs. Poyser \u0026quot;Has Her Say Out\u0026quot;"
+title: "Chapter 32 - Mrs. Poyser \"Has Her Say Out\""
 weight: 32
 url: "/authors/eliot-george/adam-bede/chapter-32.html"
 ---

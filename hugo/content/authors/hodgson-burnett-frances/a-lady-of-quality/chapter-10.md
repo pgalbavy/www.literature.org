@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10 - \u0026quot;YesI Have Marked Him\u0026quot;"
+title: "Chapter 10 - \"YesI Have Marked Him\""
 weight: 11
 url: "/authors/hodgson-burnett-frances/a-lady-of-quality/chapter-10.html"
 ---

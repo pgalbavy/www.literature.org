@@ -1,5 +1,5 @@
 ---
-title: "Chapter 12 - Geographical Distribution \u003cI\u003econtinued\u003c/I\u003e"
+title: "Chapter 12 - Geographical Distribution (continued)"
 weight: 14
 url: "/authors/darwin-charles/the-origin-of-species/chapter-12.html"
 ---

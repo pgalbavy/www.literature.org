@@ -12,5 +12,5 @@ they might repay his kindness, and said, "Men all have seven
 orifices for the purpose of seeing, hearing, eating, and  
 breathing, while this poor Ruler alone has not one. Let us try  
 and make them for him." Accordingly they dug one orifice in him  
-every day; and at the end of seven days Chaos died.&mdash;[*Chuang  
+every day; and at the end of seven days Chaos died.—[*Chuang  
 Tze*, Legge's translation.]

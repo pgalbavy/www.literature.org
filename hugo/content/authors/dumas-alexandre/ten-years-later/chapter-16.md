@@ -1,5 +1,5 @@
 ---
-title: "Chapter 16 - \u0026quot;Remember!\u0026quot;"
+title: "Chapter 16 - \"Remember!\""
 weight: 16
 url: "/authors/dumas-alexandre/ten-years-later/chapter-16.html"
 ---

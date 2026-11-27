@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 8 - The Party Of War Takes Action"
-weight: 14
+weight: 13
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-08.html"
 ---
 

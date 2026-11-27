@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 13 - Providence Von Rosen: Act The Third She Enlightens Seraphina"
-weight: 19
+weight: 18
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-13.html"
 ---
 

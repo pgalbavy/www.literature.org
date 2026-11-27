@@ -1,5 +1,5 @@
 ---
-title: "Chapter 11 - \u0026quot;I am Coming!\u0026quot;"
+title: "Chapter 11 - \"I am Coming!\""
 weight: 11
 url: "/authors/burroughs-edgar-rice/the-monster-men/chapter-11.html"
 ---

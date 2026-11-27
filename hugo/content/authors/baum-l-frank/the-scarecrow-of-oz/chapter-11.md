@@ -1,6 +1,6 @@
 ---
-title: "chapter 11"
-weight: 999
+title: "Chapter 11"
+weight: 12
 url: "/authors/baum-l-frank/the-scarecrow-of-oz/chapter-11.html"
 ---
 

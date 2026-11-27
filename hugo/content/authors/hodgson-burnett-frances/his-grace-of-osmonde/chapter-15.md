@@ -1,5 +1,5 @@
 ---
-title: "Chapter 15 - \u0026quot;And 'Twas The Town Rake And Beauty--Sir John Oxon\u0026quot;"
+title: "Chapter 15 - \"And 'Twas The Town Rake And Beauty--Sir John Oxon\""
 weight: 16
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-15.html"
 ---

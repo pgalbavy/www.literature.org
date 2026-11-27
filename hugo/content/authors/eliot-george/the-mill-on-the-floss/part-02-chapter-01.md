@@ -1,5 +1,5 @@
 ---
-title: "Part 2 - Chapter 1 - Tom's \u0026quot;First Half\u0026quot;"
+title: "Part 2 - Chapter 1 - Tom's \"First Half\""
 weight: 14
 url: "/authors/eliot-george/the-mill-on-the-floss/part-02-chapter-01.html"
 ---

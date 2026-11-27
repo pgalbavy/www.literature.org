@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 11 - Providence Von Rosen: Act The First She Beguiles The Baron"
-weight: 17
+weight: 16
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-11.html"
 ---
 

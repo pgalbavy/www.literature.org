@@ -1,113 +1,141 @@
 ---
-title: "Chapter 19 - An Apache Signal"
-weight: 21
+title: "Chapter 19 - \"Now For It\""
+weight: 19
 url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-19.html"
 ---
 
-When Mendez, the White Mountain Apache, who was acting as guide for Lieutenant Decker and his men, pointed across the Gila, it was not at the fugitives, for they had disappeared from view several minutes before, but at a point some distance to the right of the route taken by Maroz and Ceballos.
+It was at the moment Maurice Freeman’s mustang struck the crest of the slight elevation, beyond the small brook, that he descried the ominous vapor rising in the direction of his own home.
 
-From a spot among the foothills of the Apache range, that was several hundred feet higher than the river, and where the rocks, boulders and pines offered secure shelter, a wavy column of smoke was ascending. It was so thin that, as it climbed slowly upward, with the towering mountains beyond serving as a background, it was perceptible only to the keenest vision. It was fully dissipated before reaching a point that would bring it in relief against the clear sky, above the mountain crest. More than likely that but for the searching scrutiny of Mendez the others would not have discovered it at all.
+There could be but one cause for the smoke that was growing denser every minute; it was from a burning building that had been fired by the renegade Apaches, Maroz and Ceballos, with perhaps several others they had gathered in their flight from the reservation; but the parent’s anguish was quickly relieved by the discovery that, instead of rising from the ruins of his own home, it ascended from the dwelling of Captain Murray, further up the valley. The two houses being in a line, it was natural that Freeman in his alarm should make the mistake, which he saw almost instantly.
 
-Beyond question the column of smoke was intended as a signal for the hostiles who had crossed the river but a short time previous. It proved that they had allies already among the mountains, and that between them and themselves a perfect understanding existed. No doubt could remain that the outbreak was more serious than at first supposed, and instead of having three or four renegades to run down, there was likely to be double or triple that number, with the prospect of another of those long, exhausting campaigns under the sun of Arizona, in which the innocent would suffer tenfold more than the guilty.
+But the relief was only momentary. The renegades were at hand, and had probably visited the nearest cabin before laying the other in flames. As the settler spurred his pony into a dead run, and without any thought of the consequences to himself, he was terrified by the tomblike stillness and the absence of all signs of life.
 
-Lieutenant Decker was so well convinced of the serious task before him that he adopted a radical change of plan. Even though he should succeed in tracing the hostiles to their hiding place in the mountains, his force was too small to strike them an effective blow. He decided to return to camp and report to the colonel, that no time might be lost in organizing a movement that would bring the Indians to terms, always provided the opportunity could be secured for doing so.
+"They have done their work there and hurried on to the captain’s," was his thought.
 
-This meant a long halt in the pursuit, which to the father was unbearable. He could not remain idle during the long, sultry hours, when his child was in the possession of the band, who certainly meant him no good. He must keep moving or he would lose his self-control.
+But never did the brave Molly look so sweet and beautiful, even in the delightful long ago, as when she stepped from the front door of the home with the Winchester in one hand, while she waved the other in salutation to her husband. The happy man snatched off his slouch hat, swung it aloft, and emitted a shout of joy such as he and his brothers sent forth when making the desperate charge in the heat of battle that led to victory.
 
-Declining, therefore, the invitation of the officer to accompany them on their return to the post, and thanking him for what he had already done, he turned the head of his mustang toward home, and struck an easy, swinging gait, while they rode westward to Fort Reno.
+"It looks as if it wasn’t a mistake after all," he concluded, "to leave my gun behind me."
 
-But Freeman had no purpose of returning to his desolate wife and child until he could gather decisive tidings of his boy, whether good or bad. After reaching a point where the intervening undulations of land were likely to shut him from the sight of any watchful Apaches, he changed his course, making it parallel with the river, spurred his pony to greater speed, and finally returned to the stream at a point more than a mile east of where he had parted from the lieutenant and his little company.
+He was out of the saddle before the panting pony could halt, and caught her in his arms.
 
-He was familiar with that part of the country, and without losing any time he rode into the water and headed for the southern shore. The river was narrower than below, but it was deep, and his mustang was forced to swim most of the way; but the bath was as welcome to him as to his rider. Though both emerged dripping wet, it mattered naught under the smiting rays of the sun.
+"Thank God, Molly!" he exclaimed, "but what does this mean?" he asked, observing her white face and trembling form. "Has anything happened to the children? Where are they? Ah, Fannie?"
 
-Once across, Freeman felt that he had fairly entered upon his important task. Disquieted as he was by his grief, he was too old a campaigner to lose his head, no matter how critical the emergency. He had set out to locate the Apaches who held his boy, and then, if no possible means of rescuing him presented itself, he would give his knowledge to friends who would be only too ready to help him.
+And catching the tiny girl in his arms, he flung her aloft and caught her as she came down, fairly smothering her with kisses, while his own eyes grew dim with tears.
 
-It is impossible to exaggerate the difficulty of the work thus laid out for himself. It brought him in direct conflict with the subtlety of the worst of all American tribes, and upon what may be called their own ground. His chances of success were hardly one in a hundred.
+"Now, Fulton, my little man, it is *your* turn!"
 
-But, despite the discouraging outlook, the parent was buoyed up by a fact, and by a theory which he had persuaded himself to believe was also a fact. During his two years in Southern Arizona he had become familiar with much of the Apache Range, and especially with that portion he now meant to visit. He was quite confident that he knew where the little company would make their first halt of any duration; and instead, therefore, of attempting to follow their trail, he proposed to make directly for the rendezvous.
+But the longing gaze showed no sign of the little fellow through the open door, and he turned affrightedly to the wife who had sunk upon the bench just outside, and was on the verge of swooning.
 
-There was more than one advantage in adopting this course, chief of which was that it involved far less risk to himself. The fugitives would watch their own trail and be prepared to ambuscade any of their pursuers who tried to follow it, while, by taking another route to the rendezvous, he was sure to escape that peril. This, however, as will be seen, hinged on the question whether or not he had made a mistake in locating Maroz, Ceballos, and such of their companions as they might have gathered round them. That remained to be proved by actual test.
+"Molly!" he said, releasing Fannie, and tenderly placing his hand upon his wife’s shoulder; "what is the trouble? Where is Fulton?"
 
-The theory that did much to buoy up Freeman was the rather fanciful one that the Apaches were holding his child as a hostage for certain unlawful deeds not yet committed. They had been offered immunity for the crimes of the morning, and had scoffed at the offer. With the opportunity of striking their enemies hard, they could not surrender before doing so. They must give full vent to their viciousness as preliminary to settling down to become good Indians. When the time came, and they were ready to yield, they would have the advantage of giving the authorities the alternative of accepting their submission, with the restoration of the child unharmed, or of consenting to its death by refusing their terms.
+"I—don’t—know!" was the faint response.
 
-This was the theory, and as I have said, it was a fanciful one, which Freeman did not mention to the lieutenant, through fear that he would shake his head and declare it could have no possible existence in fact. He had managed to make himself believe it, and it nerved his arm to the attempt that otherwise would have been the height of folly.
+"Why, mamma let him go to Mr. Murray’s," said the sister in her artless manner, "and he hasn’t come back yet."
 
-The solitary pursuer had not penetrated far among the foothills, when, as he anticipated, a point was reached where his pony could be of no further use to him. Accordingly he dismounted, removed the saddle and bridle and turned him loose, to wander at will, until he should come back to claim him.
+It was the father now who was in danger of giving way. The loved forms, the house and all objects in his field of vision began flickering in an odd fashion before his eyes—darkness hovered in the air, and he stepped weakly to the bench, beside his wife, without uttering a word.
 
-From the point where he left his animal to where he believed the Apaches were gathered was hardly a mile, but the distance was traversed with such extreme care, that the long, hot afternoon was drawing to a close before he was near his destination. Well aware that the slightest mistake on his part would be fatal, he determined to make none, if patience, caution and circumspection could prevent it.
+But he was a strong man, and speedily gained the mastery of himself. Molly had done the same, and with the eager eyes of her husband fixed upon her white face, she told her story.
 
-That stealthy advance among the stunted vegetation, over and around vast rocks, down declivities, gullies and gorges, through hollows and ravines and up abrupt slopes, was enough to try the endurance and nerve of the bravest man. His vision was so circumscribed that he often failed to see a dozen feet in advance, and he never caught sight of a boulder or rock, that he did not ask himself whether one or more of his enemies was not kneeling behind it, with leveled Winchester, awaiting just such an opportunity to bring him down.
+Their little boy had gone to the home of Captain Murray, as Fannie said, to spend the day with the captain’s children. He went early in the morning, and she had no expectation of seeing him again until late in the afternoon.
 
-He could no longer detect anything of the signal fire that was the means of bringing him thither, and he believed it had been extinguished; but when he was congratulating himself on his success, he was startled to find that, without any thought on his part, he had struck the trail of Maroz and Ceballos. There were the hoofprints of their unshod ponies, distinctly marked, where they had borne their riders up the steep slope, and probably for a goodly distance beyond, before they were discarded.
+It was perhaps two hours later when Fannie, who was playing outside, hurried within, saying some Indians were coming over the ridge on horseback, and they were riding fast toward the house. Mrs. Freeman was too quick-witted to hesitate a moment. The approaching red men might be friendly or they might be enemies. The fact of their speeding so hard in the direction of the house was startling, and, without waiting to decide the question, she took the wise course of acting on the theory that they were enemies.
 
-The path showed so plainly that it would have been easy to follow it; but, instead of doing so, he hastily crossed it and made his own course to the supposed rendezvous more circuitous than before.
+The door was hastily barred; Fannie was placed in a corner where no stray shots could reach her, and taking down the Winchester the mother peered cautiously out of one of the windows. She saw four repellent Apaches reining up their ponies, less than a hundred yards away; she saw them, too, bring their guns to their shoulders, and the next instant the room was filled with fragments of window panes, shattered by their bullets.
 
-But if this discovery was alarming, it was not to be compared to that which followed within the next fifteen minutes.
+The woman wanted no other proof than this of the designs of her assailants. Kneeling on the floor, she rested the barrel of the Winchester on the window sill, and keeping so far back that she was not seen, took deliberate aim and pulled the trigger.
 
-The settler had crossed another of those narrow gorges that were continually interposing, and was guardedly picking his way up the opposite side when, without the first warning, he observed an Apache warrior less than fifty feet distant.
+The shot hit the bull’s-eye. She had handled the weapon many a time before, and she was as cool as a veteran when she tumbled the Apache to the earth. He had time to utter only a single screech when he stretched out motionless on the ground, with his mustang circling beyond in frightened bewilderment.
 
-He was seated on the ground, with his back against a dwarfed pine, his position such that his side was turned toward the white man, whom he did not see. This was the more remarkable, since, with all the care the latter might use, he could not avoid a slight noise in his movements which ought to have reached the ears of an enemy at double the distance.
+Without shifting her position, Mrs. Freeman fired again. She did damage, though to a less extent than before. Her bullet bored its way through the pony of a second warrior, and he stumbled to the ground so suddenly that his rider was obliged to move nimbly to avoid being caught beneath.
 
-Hardly repressing a gasp of amazement, Freeman brought his Winchester to his shoulder, and covered the warrior in the twinkling of an eye. No matter how catlike the fellow might be in his actions, he was now at a fatal disadvantage; the white man had the drop on him.
+The Apaches had not counted upon this reception, and the survivors lost no time in placing themselves further from the rifle that was speaking so effectively. The single defender kept close watch upon them, but it will be seen, that despite the brilliant manner in which she had acquitted herself, she was still in great peril. There was only one condition that could save her.
 
-Freeman, however, did not pull trigger. He feared the consequences when the report should ring through the solitude, for of necessity it must reach the ears of others near at hand.
+Maroz, Ceballos and their surviving ally did not dare to wait long enough to push the fight. They were aware that their flight from the reservation had become known, and more than likely a squad of cavalry was already thundering on their trail. There was no hope in lingering in the Sutra Valley, nor indeed anywhere north of the river. Their destination was the Apache Mountains to the south, and they had but to delay their flight only a brief while to find it cut off altogether.
 
-Still the Apache did not stir, even though the settler purposely made a noise with one of his feet.
+But for this, they would have pressed the attack, burned the house, despite all the brave woman could do, and wreaked revenge on her and her child; but an Apache is too cunning to run unnecessary risk.
 
-"He is either asleep or is sunk in a deeper reverie than I ever knew an Indian to be."
+During the five or ten minutes following the fall of the hostile, one of the survivors gave an exhibition of the astonishing activity and power of his people. He made a dash across the open plain, and, though the riderless pony was going at high speed, he overhauled him in a twinkling, leaped deftly upon his bare back, wheeled him short round, and plunged toward the cabin, as if making a direct charge upon it.
 
-Neither of these suppositions was satisfactory. Freeman now coughed quite loudly, but with no more effect upon the warrior than before. Then the settler lowered his rifle, for he knew the truth.
+While the amazed wife was holding her rifle in position, and wondering what all this could mean, the steed described a graceful circle and his rider became invisible for a few seconds. He had thrown himself over the animal’s side, and, holding himself in position by one foot curved over the pony’s neck and the left hand knotted in his mane, he reached down with the other arm, and, hardly abating the pace of his horse, slid it under the body of his lifeless comrade, and swung back to an upright position, with the limp form held securely in front.
 
-Glancing around to make sure that no one was in sight, Freeman walked forward, holding his gun ready for instant use. The Apache’s head was bowed on his breast as if asleep, but his continued quiescence could be accounted for only in one way; he was dead.
+The better to execute this feat, he had cast his rifle to the earth, so as to allow the unrestrained use of his hands. He now guided the mustang to the spot where the weapon lay on the parched grass, and, still riding fast, and with one arm fully engaged in sustaining the body in position, he leaned over again, snatched up his Winchester as if it were a handkerchief, inclined himself forward to escape the expected shot, and with the same speed as at first, joined his companions, who were calmly awaiting him.
 
-Such was the fact. The weapon in the grasp of Maurice Freeman was the one that had brought him low, but it was aimed and fired by the wife when defending her home against the marauders. This was the warrior whose body had been carried among the foothills by his friends, until, believing it was beyond danger of being found by the whites, they had left it behind.
+Mrs. Freeman might have brought down the miscreant while he was engaged in this daring feat, but she was mystified until the most striking part was over, and then, womanlike, a feeling of sympathy restrained the shot, which she regretted very soon had not been fired.
 
-"Ah, if Molly had only used two more cartridges with equal effect what a blessed thing it would have been!" mused the settler, as he glanced at the figure, "it would have saved Captain Murray and his family, and it would have saved, too, my little boy."
+From a distance, too great to render them effective, the Apaches discharged several parting shots, and dashed up the valley in the direction of Captain Murray’s home. The danger, so far as Mrs. Freeman and Fannie were concerned, was over, for, as has been shown, the Apaches did not dare wait nor return.
 
-This discovery was significant. The other Apaches had been there at some time during the day, and probably were still in the neighborhood. The spot fixed upon by Freeman as the one likely to be the rendezvous was not far off, and he felt more certain than before that he was right in the belief that led him to make this venture.
+But when she observed the ponies with their fierce riders speeding up the valley like a whirlwind, she recalled that her only son, little Fulton, was at the nearest dwelling, and that he, like the family, was in a peril whose imminence could not be exaggerated.
 
-But with every rod’s advance the situation grew more critical. No matter where the Apaches might have grouped themselves, they were on the alert for the pursuit that they knew would be quickly made by the soldiers. Indeed, so vigilant are these dusky miscreants that it may be said there is only one brief period out of the whole twenty-four hours when there is a possibility of surprising them. That is a short time before daylight. They are wide awake through the day and most of the night, but if the most careful reconnoitering shows them no sign of their enemies, they are apt to succumb to drowsiness as daybreak approaches.
+The mother was in a sad state of bewilderment. But for the young daughter, she would have set out on foot, or mounted the remaining pony, grazing some distance away, where it had escaped the raiders, and hurried to the help of the imperiled ones. Who shall understand her agony when, shortly after, she heard the rifle-shots and soon discerned the dark smoke which told that the Apaches had met with far more success in their second than in their first attempt?
 
-By what has been said is not meant that an Apache camp is unapproachable except at the period named, but I know of no instance in which a large band has been surprised by pursuing cavalry, except in the dismal hours between three o’clock and the morning.
+It was at this trying moment that she opened the door and peered to the westward, in the hope of seeing her husband returning from Fort Reno. The wish was granted, and, hurrying forward, it required only a few minutes for him to learn all that had taken place.
 
-Should Freeman succeed in locating Maroz and Ceballos, and possibly several others, it might well be asked in what way he would be better situated than when on the northern shore of the river? What could a single man hope to do against several warriors who held his child captive?
+If the wife could not hasten to the help of her child, the husband was granted that privilege.
 
-Nothing in a direct way. But, having located them, and learned that his boy was alive, he would hasten to Lieutenant Decker and leave him to decide upon the plan to follow.
+"You are safe here, Molly," said he, springing to his feet, "even though I must leave you without any weapons; the Apaches are making for the mountains, and the soldiers are after them. I will hurry up the valley to the captain’s, and possibly may be able to do something, though there is little hope."
 
-Although but a comparatively slight distance from the river, he was in one of the wildest portions of the foothills of the Apache Mountains. But for this the Indians would not have dared to halt before penetrating further. As it was they felt as secure as if in the very heart of the range, for nothing was to prevent them from withdrawing still more whenever they chose.
+The second pony was not in sight, and he feared it had been stolen by the marauders, but the grass was much better on the other side of the ridge, in the direction of the river, and the mustangs generally wandered to that neighborhood when left to themselves. The signals of the owner were quickly answered by the animal, which came trotting over the elevation, with a whinny, as if of inquiry, and stood quiet while the saddle, bridle and accouterments were transferred from the other animal to him.
 
-Freeman had not gone far when the conviction forced itself upon him that he was dangerously near the Apache camp. True he had not seen nor heard anything to show this, but it may be said "it was in the air." He felt no doubt of it.
+An affectionate embrace and kiss were given to the wife and little one, and then, swinging himself into the saddle, Maurice Freeman pointed the nose of his mustang up the valley, and spurred him to a dead run, with outstretched neck, flying mane and tail and snorting nostrils. As if he understood that he had set out to save human life, he paid no more heed to the blistering heat than did his rider, who closed his mouth hard, as he refilled the empty chambers of his Winchester without drawing rein.
 
-The ground sloped in its irregular way at an angle of almost forty-five degrees. The dwarf pine was abundant, wherever its hardy roots could find room to draw nourishment from the ground, which had been baked under the sun’s rays; the rocks and boulders were as numerous as ever, and, as Freeman came to a halt and glanced around, he thought:
+The wooden structure, which was Captain Murray’s home, had been seasoned by the flaming sun for weeks and months, so that when the torch was applied it burned like tinder. Before half the distance was passed by the furious rider, it was a mass of smouldering ruins, from which the smoke still ascended and stained the clear air above.
 
-"They must have abandoned their ponies before reaching this camp. A mountain goat could hardly keep his footing."
+Freeman now drew rein, for it would have been folly to continue his headlong flight without learning what was in front. He saw nothing of white men or Indians, as he drew still nearer, and rightly suspected that the hostiles, having delivered their blow, were now making for the mountains with all speed.
 
-While the settler stood motionless, debating whether to venture any further before darkness, he was startled by a faint, tremulous whistle which came from some point in advance. It was so soft and musical that he would not have noticed it at any other time.
+"And where is the captain?—where is his wife?—where are his children?—and where, heaven tell me! is my own boy?"
 
-"That’s an Apache," was his thought; "and I would give much to know what it means. He isn’t far off either."
+It was the last query that wrung his heart with an anguish, such as only a parent can feel, when he believes that a loved child is irrecoverably lost.
 
-If the call was a signal, it was likely to bring a reply, but, though he listened intently, he heard none.
+"They have gone," he added, as he made a cautious circle of the smoking ruins, "they have done their work well——"
 
-"It might have been a bird; I would believe so if I were anywhere else, or this was another time, but things are becoming too ticklish for comfort."
+The most torturing trial of his life was now upon him. When he muttered to himself that the Apaches had done their work well, he meant far more than the burning of the home. That was a trifle compared with the other sight which greeted him while making his awed circuit of the ruins.
 
-He took several steps forward, not with the intention of searching further for the camp, but to utilize a gray, massive rock which bulged a dozen feet above the ground. He would not be quite so conspicuous under its shadow as when standing in the more open space.
+He saw the forms stretched on the ground, with their white faces turned toward the brassy sky, and he needed no one to tell him what it meant. There was the father, lying within a dozen steps of the wife, whom he had defended with his last breath, and just beyond, and nearer the doorstep, a little girl lay with one dimpled arm doubled under her cheek, as if she were sleeping. And so she was, but it was the long dreamless slumber which knows no waking in this world.
 
-It was a proof of the power of the sun in that latitude that, when Freeman placed his hand against the mass of stone, he quickly drew it back, because of the heat still in the rock. He had noticed the same thing on his way thither when he came in contact with other solid substances, but this was a little more pronounced. However, it was a small matter and he gave it no thought.
+The sight which caused the heart of the father to stand still was that of the figure of a little boy, still nearer and indeed on the very threshold. His face was turned away, so that he could not see the features, and the clothing was so disarranged that he could not identify it.
 
-The slight additional sense of security was quickly dissipated by again hearing the signal that he had noticed a few minutes before. The trained ear could not have detected any variation, and he would have been certain that it issued from the same dusky lips, but for the change in the direction of the point whence it came.
+At such times suspense is unbearable. Without dismounting he forced his reluctant pony so close to the burning wood that the additional heat checked him. Then he leaned over his saddle, and peered down into the face of the boy, now in plain view.
 
-At first it sounded exactly in front, as he faced the mountains, but the second time it was well round to his right. True, an Indian could have readily shifted his position from one point to the other during the interval, but Freeman believed more than one was concerned in the business.
+It was Jack, the son of his old friend, or rather what was left of the lad.
 
-Whether or not such was the fact, the conclusion was inevitable that he had placed himself in a most perilous situation. The Apaches could outmaneuver him, and, if they once suspected his presence, there was no possibility of extricating himself.
+Then, with the same hard expression on his countenance, the father straightened up in his saddle, and allowed his gaze to roam over the burning sticks, beams and timbers, the most of which was already ashes. He did not spare himself, and, when the survey was completed, he knew that which he dreaded to see with an unspeakable dread was not there, nor anywhere near.
 
-His shuddering dread was that, despite the care he had exercised, Maroz and Ceballos had already learned the truth and were seeking at that moment to shut off all chance of his eluding them. He believed that those soft, birdlike calls referred to *him*.
+"Yes," he repeated, casting his eyes around the immediate field of vision, "they have done their work well. The captain, his wife, his little child, and boy are all gone—perished within a few minutes of each other. Why my child is not among them I do not understand. For some cause they have spared him yet awhile, but what hope is there of his mother or me ever seeing him alive again?"
 
-No one could question the bravery of Maurice Freeman, but he would have given a good deal, just then, could he have been whisked to any point, a half mile distant, no matter in what direction. He knew he had essayed a task beyond his power and utter overthrow and disaster were near at hand.
+A shout caused him to turn his head quickly, and look to the southward. There they were: five horsemen coming down upon him like mad. At their head, was handsome James Decker, the young lieutenant from West Point, who was getting a further taste of soldiering in dead earnest.
 
-While the Apaches might try to use the child as a hostage, it was not to be expected that they would attempt anything of that nature with the parent. He would be served as was poor Captain Murray, and his enemies would hold the same coign of advantage as before.
+The lieutenant’s companions were veterans, and all had been in the service before he was born. Our old friends Armon Peyser, Budge Colgate and Jack Redfield served creditably during the Civil War, and the leader had already learned something of Mendez, the White Mountain Apache, who was the guide to the party. As for that, both Colgate and Redfield were almost, if not quite, as familiar with the fastnesses of the Apache Mountains as Mendez, for they had been in more than one campaign that led them thither.
 
-Be that as it may, it was self-evident that he must lose no time in falling back and wait for darkness before venturing nearer to the camp. Without any delay, therefore, he assumed a crouching position and turned to retrace the steps that he never should have taken.
+It was the lieutenant who uttered the shout that turned the gaze of Freeman to the ridge, on the crest of which they had just appeared. He had recognized the man, and the latter knew him the moment he looked up.
 
-Before he had gone a rod, the signal again sounded. This time it was directly behind him as he had stood, when hiding behind the rock: in other words, he was advancing straight toward it. One Apache, if not more, was in his path.
+Instead of continuing down the slope to the site of the burned building, the young officer called:
 
-Freeman stopped short, and, without straightening up, glanced searchingly ahead. As he did so, he plainly saw the red man who had emitted the signal step from behind another rock in full view and but a few rods away.
+"If you want to join us, hurry up!"
+
+Freeman answered by sending his pony off at a rate which quickly placed him among the eager group.
+
+"I see they’ve been there," remarked Decker, with a nod toward the smoking ruins.
+
+"I should say they had," was the bitter response.
+
+"Did they wipe them all out?"
+
+"They did not spare one."
+
+"Your family was fortunate."
+
+"Yes, but they have carried off my little boy," replied the father in a broken voice.
+
+"Is it possible?" was the sympathetic response; "there may be a chance of recovering him. Those fellows played us a sharp trick. They left a plain trail, straight to the river, and without sticking to it, we made for another and better crossing, only to learn, after reaching the other side, that they had entered the river, waded up stream a little way, and then turned back again. Their natural viciousness would not allow them to leave without striking this blow, even though it was so dangerous to themselves. They have picked up two allies."
+
+"But have only one left; the other was a victim to my Winchester, fired by my wife."
+
+"Good! that’s business; but here’s the trail leading directly toward the river, and they can’t be far ahead. Do you want to go with us?"
+
+"I wouldn’t turn back for the world, till I learn what has become of my boy."
+
+"It’s only two miles to the river, and we may overtake them before they cross. We are well mounted and here we go!"
+
+And the dashing officer thundered away on a dead run, with the rest bunched closely on the flanks of his mustang. The ground was gently undulating, and they skimmed over it with arrowy swiftness until the lieutenant, who maintained his position slightly in advance, rose in his stirrups, and, peering ahead, shouted:
+
+"Yonder they are, boys! There’s a fight ahead! Now for them!"

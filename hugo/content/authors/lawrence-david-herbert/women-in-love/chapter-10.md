@@ -1,6 +1,6 @@
 ---
-title: "chapter 10"
-weight: 999
+title: "Chapter 10 - Sketch-Book"
+weight: 10
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-10.html"
 ---
 

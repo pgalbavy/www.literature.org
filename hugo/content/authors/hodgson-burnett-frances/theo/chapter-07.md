@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7 - \u0026quot;Parting Is Sweet Sorrow.\u0026quot;"
+title: "Chapter 7 - \"Parting Is Sweet Sorrow.\""
 weight: 7
 url: "/authors/hodgson-burnett-frances/theo/chapter-07.html"
 ---

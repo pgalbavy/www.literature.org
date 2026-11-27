@@ -1,5 +1,5 @@
 ---
-title: "Mood-Face and Other Stories"
+title: "Moon-Face and Other Stories"
 book_author: "Jack LONDON"
 source: ""
 ---

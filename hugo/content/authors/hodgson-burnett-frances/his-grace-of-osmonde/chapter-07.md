@@ -1,5 +1,5 @@
 ---
-title: "Chapter 7 - \u0026quot;'Tis Clo Wildairs, Man--All The County Knows The Vixen\u0026quot;"
+title: "Chapter 7 - \"'Tis Clo Wildairs, Man--All The County Knows The Vixen\""
 weight: 8
 url: "/authors/hodgson-burnett-frances/his-grace-of-osmonde/chapter-07.html"
 ---

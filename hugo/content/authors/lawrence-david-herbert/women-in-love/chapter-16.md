@@ -1,6 +1,6 @@
 ---
-title: "chapter 16"
-weight: 999
+title: "Chapter 16 - Man To Man"
+weight: 16
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-16.html"
 ---
 

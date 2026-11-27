@@ -1,5 +1,5 @@
 ---
-title: "Chapter 10 - Don Ram\u0026oacute;n And Do\u0026ntilde;a Carlota"
+title: "Chapter 10 - Don Ramón And Doña Carlota"
 weight: 10
 url: "/authors/lawrence-david-herbert/the-plumed-serpent/chapter-10.html"
 ---

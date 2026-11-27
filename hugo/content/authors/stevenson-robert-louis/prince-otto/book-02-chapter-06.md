@@ -1,6 +1,6 @@
 ---
 title: "Book 2 - Chapter 6 - The Prince Delivers A Lecture On Marriage, With Practical Illustrations Of Divorce"
-weight: 12
+weight: 11
 url: "/authors/stevenson-robert-louis/prince-otto/book-02-chapter-06.html"
 ---
 

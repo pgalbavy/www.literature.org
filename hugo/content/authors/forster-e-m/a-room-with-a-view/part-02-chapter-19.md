@@ -1,6 +1,6 @@
 ---
 title: "Part 2 - Chapter 19 - Lying To Mr. Emerson"
-weight: 20
+weight: 19
 url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-19.html"
 ---
 

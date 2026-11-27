@@ -1,101 +1,113 @@
 ---
-title: "Chapter 27 - Conclusion"
-weight: 29
+title: "Chapter 27 - A Reminiscence"
+weight: 27
 url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-27.html"
 ---
 
-It must not be supposed, from what has been related about Mendez, the White Mountain scout, that he was superior to the weaknesses peculiar to his race. That he was brave, loyal to the whites, cunning, full of resources and a consummate master of woodcraft, was conceded by his bitterest enemies; but while he possessed these admirable traits, it must be stated that he shared the unfortunate fondness of his people for intoxicants. At times he indulged in this love for the frightful decoction, "tiswin," which, as has been made known elsewhere, is the product of fermented corn, and is one of the most villainous forms of "fire-water" conceivable.
+Reaching the rock, the two men made another reconnaissance before sitting down to await the return of the White Mountain Apache. Nothing was discovered to cause misgiving, and they were almost convinced that they would remain undisturbed until the coming of the scout upon whom all their hopes were now placed.
 
-Had Mendez related the particulars of the outbreak of Maroz and Ceballos, he would have stated that he, Cemuri and they were indulging their weakness and that, humiliating as the confession must have been, he fell more under its influence than any one of them. In fact, he was so far gone that his recollection of the affray was always exceedingly misty. He recalled that, like the explosion of a bombshell, the party suddenly became engaged in a fierce conflict, in which he was the principal offender, and in some way he was slightly wounded and then left alone. The facts that afterward came to light were of an interesting character.
+The moon had passed further over in the heavens, and its face was frequently screened by drifting masses of clouds which rendered its light treacherous and uncertain. They talked in low tones, not forgetting to keep constant watch for the approach of their enemies, some of whom it was certain were at no great distance.
 
-It is a physiological fact that intoxicants remove the sense of moral restraint in a person, or, as it has been expressed, a man, when under their influence, will do that which he would do when sober if he dared; in other words, while in that condition he acts out his natural self.
+"That affair of mine with the rattlesnake," said the lieutenant, "recalled the singular adventure of two scouts under Major Forsythe, in the autumn of 1868. The peace commissioners concluded treaties the previous year with the Arapahoes, Cheyennes, Kiowas, Comanches and Apaches. Other treaties were formed, the object being to secure the removal of the different tribes to the reservations selected for them. There was delay and bad faith on the part of our agents, and, in the face of the treaties, many outrages were committed by the Indians in Kansas and Colorado. Troops were kept on watch along the lines of travel across the State of Kansas into Colorado, and a company of scouts under Major Forsythe, numbering fifty picked men, left Fort Hayes, Kansas, in September. A week was spent in scouting, when they reached Fort Wallace, where Forsythe proceeded to refit his command. Then news came that the Indians had attacked a train near Sheridan, a small railway town, eighty miles away. Forsythe set out with his force to punish the marauders.
 
-This was the case with Maroz and Ceballos, who, though less helpless than Mendez, became so reckless that they threw off the mask they had been wearing so long, and showed themselves the ferocious miscreants they had always been. They cast aside all restraint, and, being more sober than Mendez, would have slain him but for the interference of Cemuri, who had more self-command than even they. He was able to refrain when he had barely tasted the fiery stuff, and with a subtlety like that of Mendez, when he was his own master, he convinced Maroz and his companion that he was with them in sentiment and would eagerly join in the outbreak.
+"The Indians were pressed so hard that they resorted to their old trick of breaking up into smaller parties, thus confusing their trail and rendering effective pursuit impossible. Forsythe pushed on to the Republican River, where he struck another trail which grew broader and more distinct, until it was clear that a large number of horses and cattle had been recently driven over it.
 
-He professed to have a grievance against the colonel at the fort, and was only awaiting the chance to repay it. He would have preferred to wait still longer, but since the couple were determined upon taking the warpath without delay, he was ready to risk everything.
+"At the close of day, the command went into camp on the Arickaree Fork of the Republican, at a point were the river divides so as to inclose a low sandy island about a hundred yards long. The soldiers had but one day’s provisions, but their intention was to push on and strike the Indians, who were known to be not far off. At daylight, while the men were saddling up, they were attacked by fully a thousand Brulés, Sioux, Cheyennes and ‘Dog Soldiers.’ Forsythe retreated to the island, and the position was made as strong as possible. In the first attack, Forsythe was badly wounded and two of his men killed. A few minutes later a second shot shattered the major’s left leg between the knee and ankle. Almost at the same moment, the surgeon was killed. Every horse was shot. That fight and siege formed one of the most fearful episodes in the history of our Indian wars. At the end of the first day not a horse was alive, the provisions were gone, the surgeon was dead, there were no medical stores, four men were killed, four mortally and four badly wounded, ten others being slightly hurt, so that almost one-half of the command had been struck.
 
-That he succeeded in convincing the two of his earnestness was proof that he was as sagacious in some respects as his comrade for many years. He would not permit the latter, however, to receive any serious injury, and thus it was that the courageous fellow, who was literally helpless, was allowed to wander off in the darkness, with little more than a scratch, received from Maroz himself, who had meant to destroy him without mercy. Cemuri joined the rebels, displaying an ardor that surpassed, if possible, their own, and so well counterfeited that they were wholly deceived.
+"On the other hand, the Indians had been decisively repulsed, the soldiers had plenty of ammunition, water could be obtained by digging in the sand, and the bodies of the horses and mules would ward off starvation. But the men needed help in the worst way. The nearest post from which this could be obtained was Fort Wallace, one hundred and ten miles distant. Two of the best scouts, Trudeau and Jack Stillwell, volunteered to run the gauntlet.
 
-Mendez spent the night in sodden slumber, but became himself on the morrow. Brushing the cobwebs from his brain, and recalling the grotesque incidents of the night before, he found himself mystified to understand how it was he was alive and substantially unharmed.
+"As soon as it was dark, they stole from the island. There was little hope that they would succeed, but both men were brave and cool-headed, and, if the thing were possible, they were the ones to accomplish it. The defenders waited long and listened, and hearing nothing, believed they had been captured. At dusk on the second day, during which there was continuous fighting, two more scouts were sent out, but they were discovered and barely succeeded in getting back to the island. This convinced all that Stillwell and Trudeau had failed, but such was not the fact.
 
-It was a part of Cemuri’s far-reaching scheme to make it seem he was dead. By this means his opportunities for befriending the whites were increased. When, therefore, Mendez heard from others that his former companion had been slain and his body flung into the bush he doubted the truth of the statement no more than he doubted that Maroz and Ceballos were leading the formidable revolt. He leaped upon his pony and dashed to Fort Reno in all haste with the tidings. He was considerably mixed as to details, but his story was accepted with little questioning; and the measures were set on foot that have been made clear elsewhere.
+"Those two scouts, in leaving the island, moved down stream, keeping as near the middle as they could. The water was so shallow that neither could swim, and they crawled on their hands and knees for most of the distance. Lucky for the men, the night was clouded, and the moon had set before they left the island. They kept in the river for three miles when they waded ashore, and, hiding their trail as best they could, made for the nearest timber. When day dawned, they were ten miles from the river and their danger was greater than ever. The Indians were patrolling the stream, on the watch for just such attempts and the prairie grass was so short that it was impossible for the scouts to advance without exposing themselves. The only way to escape capture was to conceal themselves and wait for night.
 
-Although Maroz and Ceballos had burned their bridges behind them, they were not sufficiently recovered from the effects of their debauch to undertake offensive movements before the morrow.
+"Sweeping the surrounding prairie, they observed a spot where the grass was about a foot higher than the rest. With the utmost care they crept to it and found it just the place they wanted. The dead body of some animal had acted as a fertilizer, causing the grass to grow with more vigor and density than elsewhere. The bones were those of a buffalo whose flesh had disappeared long before.
 
-Enough has been told to give an idea of the emotions of the scout, when he recognized Cemuri in the camp of the hostiles, and saw him in friendly converse with them. Even his stolid nature was too startled to permit him to form a satisfactory explanation, until he had listened awhile to their conversation, and had managed to recall a little more clearly the events of the preceding evening. But it was not long ere he grasped the whole plot of his friend, whose peculiar mental qualities were better known to him than to any one else.
+"Lying down in this hiding place, the scouts munched the slight meal they had brought with them, and then peeped out at their surroundings, which were anything but reassuring. Indian horsemen seemed to be moving on all sides, and the sound of firing from up the river showed that fighting had been renewed. Neither of the scouts dared rise from a prone position, and were in constant danger of discovery. If some of the sharp-eyed redskins detected the trail leading from the river, they were certain to follow it to the clump of grass.
 
-The first natural question was as to why Cemuri, if aiming to give the whites his individual aid, had deferred action until this late hour. There must have been many opportunities for striking an effective blow before this. It may have been, however, that he contemplated a grand *coup d’etat* when matters should approach a crisis.
+"Trudeau and Stillwell agreed to take turns in sleeping and watching for every three hours. Trudeau was the first to act as sentinel. He lay upon his side, took a big chew of his army plug tobacco, and peeped between the blades of grass, while his companion slept. Before long Trudeau saw a sight which was so alarming that he awoke his companion. Twenty Indian horsemen were approaching and were sure to pass very close to the clump of grass, even if they did not ride through it.
 
-These and similar thoughts passed through the brain of Mendez, while standing too far back in the gloom to be detected, watching the party and listening to their conversation.
+"Stillwell peeped out and said:
 
-The words were disappointing to Mendez, for they gave him no knowledge not possessed before. They referred to the expected pursuit by the soldiers and the plan for ambuscading them, whenever they should penetrate far enough into the mountains to render the success of the Apaches beyond question. He heard nothing about the stolen child, and was, therefore, in as much ignorance of his fate or whereabouts as before.
+"‘We’ve got to hug the ground close, but if they see us, they’ll find out we come high.’ ‘You bet,’ replied Trudeau and the two grimly waited events.
 
-The one indispensable step remained for Mendez to establish communication with his friend; that accomplished, and the prospects would become the brightest. But as matters stood, the task was beyond the skill of the wonderful scout. The most guarded signal that he could make was certain to be heard by the hostiles, at the same instant it reached Cemuri; and, instead of proving a help, must overthrow everything.
+"The Indians seemed to have no special business, and rode so slowly that it was a long time before they reached the point only a hundred yards away. It was at this critical moment that a feeling of impending danger caused Stillwell to turn his head. As he did so, he saw an immense rattlesnake gliding through the bones of the dead buffalo and coming straight toward them. It looked as if the scouts had invaded the reptile’s home, for he did that which my pet did not do—he advanced upon them with the intention of attack.
 
-His only possible hope was that the party would break up by and by and leave Cemuri to himself. If that should take place, the object could be readily attained. The belief that something of the kind would occur held Mendez like a statue, during nearly all the long period he was absent from Lieutenant Decker and Mr. Freeman. He showed the patience of the Esquimau waiting by the air hole, in the ice for the appearance of the nose of the seal.
+"The first thought of the men was to shoot or to club him to death with the stocks of their rifles, but any such act would have revealed their presence to the Indians now close at hand. The next thought was to stare the snake out of countenance as the rattler himself sometimes does with his victims. Stillwell made the attempt, but without any success. The snake meant business.
 
-The experience of the scout was another illustration of the truth that everything comes to him who waits. After awhile Maroz stole away in the gloom, leaving the couple alone. By and by he returned and Ceballos took a hand. They reported that the soldiers were not yet near, and were likely to push their pursuit until the night was further along. All this time not the first reference, so far as Mendez could learn, was made to the little captive.
+"The rattler came straight forward until within four feet of Trudeau, when he began coiling to strike. Not a moment was to be lost, and Stillwell made up his mind to shoot the reptile. He preferred death at the hands of the redskins to that from the bite of the rattler.
 
-Then, when the scout was looking for Cemuri to start off on his reconnaissance, a fourth Apache suddenly appeared in camp. He was from the main body, further back in the mountains, and he remained a half hour, discussing business with the others, and making sure that no possible miscarriage could occur in the plan laid for the overthrow of their pursuers.
+"For a minute or two, however, the jaws of Trudeau had been vigorously working on the tobacco in his mouth. He had accumulated a volume of spittle, surcharged with nicotine. He was nearer to the snake than his companion, and he now shot out a thick yellow stream, as if from the nozzle of a hose. It landed directly in the eyes and mouth of the rattler, as he was almost in the act of striking.
 
-But the messenger finally left, and then Cemuri set out to look after matters, disappearing in the wood in the shadowy manner that his predecessors had done.
+"Well," said Lieutenant Decker, with a smile, "that particular serpent had never learned to chew, and the pungent stuff in his eyes and mouth must have disgusted him to fury. He had never been attacked with that sort of ammunition and it threw him into a panic. He flung himself out of his coil a good deal quicker than he entered it, and, turning tail, glided through the grass and out of sight with such celerity that the scouts, despite their dangerous situation, shook with silent laughter.
 
-The opportunity had come at last, and it need not be told how Mendez improved it. He and his former friend met within a hundred yards of the camp, and that which has been told at the beginning of this chapter was made clear to the scout, confirming the suspicions he had formed while playing the part of eavesdropper.
+"Their mirth did not last long, for the Indians were so near that discovery seemed inevitable. Lying as flat as they could, and wishing they had the power to stamp themselves into the earth, the scouts knew that a minute or two would decide their fate. Capture by the Indians meant death by torture, and they held their rifles tightly grasped, resolved that if the worst came they would prove the truth of Stillwell’s boast that they ‘came high.’
 
-All the information the latter sought was speedily given to him, and, parting from his companion for a time, he made his way to his other friends and told them the amazing story.
+"The redskins, however, were not making for the clump of grass. They rode past, the horses on a walk and so close that their hoofbeats and the mumble of their voices were plainly heard, but they did not stop and that particular danger was over.
 
-Maurice Freeman was so overcome that he was forced to sit down until he could regain mastery of himself. Even Lieutenant Decker lost his facetiousness for the time, and stood with open mouth and staring eyes, unable at first to ask the questions that rapidly took form in his brain.
+"Trudeau and Stillwell alternately watched and slept until night came again. The rattler was too sick of his reception to bother them further, and not once did the Indians approach so near as in the early forenoon. When the coast was clear, the two stole out from their hiding place and resumed their journey to Fort Wallace, walking rapidly and often breaking into a trot. They were tough fellows who could keep this up for hours, and, knowing the extremity of their friends on the island, they did not spare themselves. They reached Fort Wallace and quickly made known the need of sending instant help to Major Forsythe.
 
-Mendez was a little foggy, as before, in describing the occurrences of the preceding night, but the officer suspected the truth, which, if fully told, would have humiliated the brave fellow. He forbore to question him on the point, for it was of little importance.
+"Such an appeal is never made in vain, and Major Bankhead was soon on the way with four troops of cavalry. The Indians tried to jump his camp twenty miles from the Arickaree, but failed, and, without waiting to give battle, the whole band retreated. Major Forsythe and what was left of his command were saved."[1]
 
-Cemuri was not present at this interview, but was only a short way off, awaiting the return of his companion. Telling his friends that the two would soon be with them, Mendez withdrew, and they were again left to themselves.
+"And it was your experience with the rattler a little while ago that called this incident to mind?" was the inquiring comment of Captain Freeman.
 
-"It is the most wonderful thing I ever knew," remarked Mr. Freeman, in an awed tone; "in all my calculations and surmises, I never deemed this among the possibilities."
+"Yes; I had not thought of it for a long time, but when I leveled my revolver and was about to pull trigger, the whole thing flashed upon me. I saw the similarity of my situation with that of Stillwell and Trudeau, though I was not in quite so bad a fix, for the rattler did not mean to attack me, if I let him alone, and there was but the single Indian that was looking for me. But to fire my pistol would undo what I had accomplished by my change of base."
 
-"It would have been still more remarkable had you done so," replied the lieutenant; "it begins to look as if you will recover your little boy."
+"You had other charges in the weapon, to say nothing of your Winchester, which was within reach."
 
-"I hardly dare believe it," said the parent, with a shiver of anxious hope, "and yet why not?"
+"It was not that, but the dusky dog would have known where I was and gained the advantage that was mine."
 
-"I think I understand the *motif* of those fellows in taking the extraordinary course they did. Maroz and Ceballos, I needn’t tell you, are among the worst Apaches that ever lived, and that is a tremendous statement. They saw that if they allowed the child to pass into the hands of the principal band, they must surrender control of him. In the complications likely to follow, it is not impossible that the others would agree to give him up, in order to save their own necks. That would be wise, but at the same time it would rob Maroz and Ceballos of their pet scheme of enjoyment."
+"It did you no good."
 
-"It seems incredible that even an Apache should be so cruel."
+"On the contrary, it convinced him that I was up to his tricks and caused him to withdraw without any more attempts against me."
 
-"There is nothing which human ingenuity can conceive that is too cruel for an Apache to do. This being so, they did not handicap themselves by keeping your child near them. They were liable to lose him, in the event of a sudden attack, before they could remove him, after the fashion that has been popular among the aborigines, ever since the Miss MacCrea episode, more than a hundred years ago."
+During these minutes, the two maintained their watchfulness. The words were spoken in low tones, and, while the lieutenant was relating his reminiscence, he continually glanced from side to side. The fact that all remained tranquil confirmed the two in their growing belief that nothing was to be feared from the Apaches.
 
-"How readily they might have ended the difficulty by putting him out of the way at once!" exclaimed the parent with a shudder.
+"It must be growing late," finally remarked Freeman, "and Mendez, it seems to me, is overdue."
 
-"But for their cruelty of disposition, they would have done that. Such a course, however, must have robbed them of the exquisite happiness they are now feasting upon in imagination. So they carried the sleeping fellow, as tenderly as you could have done, to the place among the rocks, within a hundred feet of their camp. There they secured him against molestation from any prowling wild beast, believing he would sleep until morning, though it mattered little whether he did or not, since there is no way by which he could help himself."
+The lieutenant drew out his watch, but the moonlight was not strong enough for him to discern the figures.
 
-"If I only knew the place," added the parent, half rising to his feet in his excitement, "I would go thither at once."
+"I’m bound to know the time," he said, removing his cap, so as to shade the light of the match which he drew from the small rubber safe he always carried and scraped it across the face of the rock.
 
-"That is the reason Mendez gave us no hint of its location. I’m afraid, Freeman, he doesn’t rank you as being among the champion scouts of the country."
+"That’s risky business," whispered his companion.
 
-"I never laid claim to that honor," replied the man, with an earnestness that he would not have shown under other circumstances, "but it is so hard to wait—wait, when there’s no saying what obstacles may arise."
+"That’s the reason I’m doing it," replied the officer, speaking more truthfully than he suspected. "But it shan’t give much help to any of the fellows lurking near."
 
-"You must content your soul with patience as best you can, for Mendez is running this administration, and no one can do it better."
+Before the twist of flame could assume shape a puff of the breath extinguished it.
 
-The suspense was briefer than the lieutenant anticipated, though it seemed ten times its real length to the distressed parent. A gentle rustling, evidently made intentionally, caused both to turn their head.
+"It’s later than I suspected," he remarked.
 
-There stood Mendez and Cemuri, and the former held in his dusky palm the dimpled hand of a little boy.
+"I suppose it is near ten o’clock?"
 
-"Oh papa, is that you? Why did you leave me so long?"
+"It’s a quarter to eleven."
 
-"God be thanked!" was the fervent ejaculation of the delighted father, as he seized his child in his arms, pressed him to his breast and kissed him over and over again.
+"It must be time to look for Mendez."
 
-Fulton was sleeping soundly when released from his prison among the rocks, and Mendez started to carry him, but the disturbance awoke the child, and, seeing that he was feverish and frightened, his rescuer allowed him to walk at his side as he wished, while he led him to his father.
+"I think so, but there’s no certainty about it; he may be here in five minutes and not for five hours. I suspect he will delay his return for a considerable while."
 
-When a few minutes later the party was about to start northward, in the direction of the river, with the intention of picking up their ponies on the way, and seeing Maurice Freeman safe home again with his loved boy, Lieutenant Decker remarked:
+"For what cause?"
 
-"It seems to me we’re forgetting that we are not yet out of the woods; are we not in danger, Mendez, of being followed by Maroz and Ceballos?"
+"You know there isn’t much chance of doing anything against Maroz and Ceballos for a long time yet, and there is no need, therefore, of his coming here and waiting for hours. He would have to lose sight of them for a good while, so that the conditions are likely to change very materially when he ventures on a move against them, whereas, by keeping the two under his eye until it was time to move, he could do so intelligently."
 
-"*No!*"
+"Furthermore, so long as he keeps beyond our reach we can’t urge him to a haste that is against his judgment."
 
-While the little party were silently threading their way northward to the desolate home which, in due time, was illuminated with perfect joy by the return of the child that had been mourned as dead, Captain Shindle and his cavalry were pressing matters from a different direction. The severe ride deferred their assault on the Apache stronghold until later than was desired, but the diversion, described elsewhere, produced the best effects. Under the guidance of the other White Mountain scouts, the hostiles were so effectually entrapped that their overthrow was complete.
+"Doubtless that has something to do with it, but—*st*!"
 
-In the conflict that followed, half of them were destroyed by the cavalry, who knew it was mercy to the innocent that such heroic measures should be adopted. Those who were not exterminated were captured and taken back as prisoners to the fort.
+Both heard the same signal that had alarmed Freeman during the afternoon, when he believed he was inextricably caught. They listened for its repetition, but the next few minutes were marked by perfect stillness. Then, when they whispered their speculations about its import, they disagreed as to the point whence it came.
 
-The disastrous results of the outbreak speedily became known to all the hostiles on the reservation, Maroz and Ceballos, the leaders, being among the first victims to the vengeance they had invoked. The lesson was of the most salutary nature. Others were on the point of joining the hostiles, and, had a temporary advantage come to the band in the mountains, one of the most formidable outbreaks known in the history of the southwestern frontier would have followed, carrying in its train unutterable woe and suffering.
+Freeman thought it was from the direction of the rivulet, where they had quenched their thirst, but the lieutenant was positive that it issued from a spot at right angles to that course.
 
-But the prompt measures of the cavalry, and especially the actions of Mendez and Cemuri, nipped it in the bud.
+"We’ll find out when we hear it again, as we shall do in a few minutes."
 
-*THE END*.
+"Do you think it is Mendez?"
+
+"Yes, but it won’t do to bank on it until we get further data; it’s the favorite signal of his to announce his coming, but no doubt others of his people use a similar call. If it is he he will come right to this spot—ah, you are right!"
+
+So it proved. The gentle whistle sounded again and this time there could be no mistaking its source; it was about half way between the rock and the rivulet or spring.
+
+"Don’t forget that it may be some one else; if so, leave him to me," said the officer, stealthily drawing his revolver; "I’ve been disappointed so many times to-day that I am entitled to this chance—there he is!"
+
+The outlines of an Apache warrior silently assumed shape in the dim moonlight, and another "disappointment" fell to the lot of Lieutenant Decker, who returned his weapon to its place as he recognized Mendez, when he uttered a single word of greeting.
+
+It takes a great deal to rouse the emotions of an American Indian, but if ever there was an amazed warrior it was this White Mountain Apache. He had visited the camp of Maroz and Ceballos and the discovery he made was one that fairly carried him off his feet, and which, when related to Maurice Freeman and Lieutenant Decker, held them dumfounded with astonishment.
+
+[1] This incident is a fact.

@@ -1,5 +1,5 @@
 ---
-title: "Chapter 3 - \u0026quot;The Lighted Tree\u0026quot;"
+title: "Chapter 3 - \"The Lighted Tree\""
 weight: 3
 url: "/authors/lawrence-david-herbert/aarons-rod/chapter-03.html"
 ---

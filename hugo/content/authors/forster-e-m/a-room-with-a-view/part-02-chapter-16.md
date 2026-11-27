@@ -1,6 +1,6 @@
 ---
 title: "Part 2 - Chapter 16 - Lying To George"
-weight: 17
+weight: 16
 url: "/authors/forster-e-m/a-room-with-a-view/part-02-chapter-16.html"
 ---
 

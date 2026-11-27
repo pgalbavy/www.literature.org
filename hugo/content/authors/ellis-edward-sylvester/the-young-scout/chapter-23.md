@@ -1,117 +1,95 @@
 ---
-title: "Chapter 23 - What Befell Maurice Freeman"
-weight: 25
+title: "Chapter 23 - A Game Of Hide And Seek"
+weight: 23
 url: "/authors/ellis-edward-sylvester/the-young-scout/chapter-23.html"
 ---
 
-It will not be denied that a most memorable experience befell Lieutenant James Decker, and yet what shall be said of that which came to Maurice Freeman, whom he left beside the spring, while he went forward to reconnoiter?
+Lieutenant Decker pressed his ear against the side of the rock and listened, hoping that his enemy would betray himself by coming in contact with the solid substance, but he was too cunning. He knew better than to act in that amateurish fashion.
 
-After taking his second deep draught of water, he walked aside, as will be remembered, being impelled thereto by the same distrust that led the young officer some time later to hide himself while the three Apaches came forward to quench their thirst.
+It was the result of guesswork, rather than of reason, that the young man came to the belief that the warrior would steal around three-fourths of the boulder and come upon him from the rear. Accordingly he faced that way, revolver in hand, and ready for the emergency when it presented itself.
 
-"I understand his action," reflected the father; "he distrusts my judgment; he believes I am so upset by my affliction that I would run blindly into danger; but he is mistaken. Heaven knows that I have suffered and am still tortured by anxiety for my little boy, but I know better than to make his peril greater by any recklessness on my part.
+Reaching the corner, Decker paused, but with the uncomfortable feeling that, after all, he had committed a blunder and the Apache, divining his reasoning, would make his next essay from the front; but, since the whole business, for a time at least, must be conducted upon conjecture, he grimly held his ground.
 
-"I would be offended if it were any one except Lieutenant Decker, but who can be offended with him?" asked the captain, with a glow of admiring gratitude; "he has risked his life for the sake of little Fulton and will continue to risk it so long as a shadow of hope remains. He is one of the most chivalrous, noble-hearted young men I ever knew, and if he lives will earn his star."
+During these critical moments, he did not forget the peril from above. He continually held his ear against the rock, believing that if the buck attempted to steal upon him from that direction, he must inevitably betray himself by sound, which passes readily through a solid substance, and, hearing nothing of the kind, he concluded the essay was not yet made.
 
-When fifteen minutes passed without bringing the expected signal from the lieutenant, Freeman wondered whether anything was amiss. Had he thought any danger threatened the young officer, he would have hastened to his aid, without hearing his call; but decided to await something more definite.
+Now, nothing was clearer than that so long as matters remained thus, the peril was not only unchanged but impended as before. Who was to make the first advance, as may be said, into the enemy’s territory?
 
-With the same suddenness as his young friend, he became aware that he was not alone. Some one was near him and that some one must be an enemy.
+The lieutenant might have been more patient, but for several contingencies which threatened to complicate the situation. Freeman was still at the spring; and although the understanding was that he was to remain there until signaled to come, it was probable that he would accept the long silence of his companion as proof that everything was right, and seek to rejoin him. Could he but know how matters stood, he would give the very help needed, but, not knowing it, was likely to run into a peril which would prove fatal to himself before his young friend could warn him or interfere in his behalf.
 
-The disturbance which brought this knowledge was so exceedingly faint that at first the captain could not decide what point it came from. He did not dare move, therefore, through fear of a misstep; but, grasping his Winchester, he looked and listened with all the acuteness he possessed. The Apache must have been the first to detect the presence of another, for, with all of Freeman’s caution, he was outwitted by the warrior, who appeared so suddenly that he seemed to rise out of the very earth and to be standing erect in front of the astonished captain before he knew where to look for him.
+The other contingency was that the Apache might have one companion or more in the vicinity who would come to his assistance. Such a reinforcement would decide the singular contest at once and against the young man. The lesson of all this was that matters must be forced to an issue with the least possible delay.
 
-But Freeman was a veteran soldier and was not the man to surrender, so long as he was able to strike a blow for himself. He recoiled a step, so as to secure elbow room, and was in the act of raising his rifle to his shoulder, when the Apache spoke:
+The natural course of action for one in the officer’s situation was to peer gradually round the edge of the rock to ascertain where his enemy was, but no man, after second thought, would attempt anything of that nature, for, it will be seen, that it was only taking the place of the hat on the end of the gun barrel. The watchful Apache was certain to detect the insidious advance, and, before the eyes came into view, would send a bullet through the brain of the daring white man.
 
-"No fire—me friend."
+Accordingly Lieutenant Decker adopted the opposite course. He darted his head forward, gaining one glance along the end of the rock, and withdrawing again, before the most alert enemy could fire. It was the right course under the circumstances and proved effectual.
 
-"Heaven! Mendez, where did you come from?" asked the astounded white man, recognizing the Apache, upon whom it may be said all their hopes rested.
+The moonlight struck that portion of the boulder with full effect, there being not even a ribbon of shadow, and, in full view was the Apache, advancing on hands and knees, his hideous face half-hidden by the strands of black hair which dangled about his shoulders and in front of his chest and features.
 
-The warrior was standing in the edge of the moonlight where his hard features were in so plain view that Freeman wondered why he failed to identify him the instant he presented himself.
+Could Decker have known this a moment before, he would have discharged his revolver at the instant of catching his glance, but to have known it was to possess a knowledge that was impossible.
 
-"’Pache here—soon come," explained Mendez; "we go ’way, where don’t come."
+The puzzling question with him was whether the warrior had seen him. He must be depending more on his sense of hearing than on sight, and it would seem that there was reason to believe he had not caught that shadowy thrusting forward and withdrawal of the head. If such were not the fact, he must be unaware of the exact location of the white man, who had only to repeat the maneuver, accompanying it by an instant discharge of his revolver.
 
-This precaution was so sensible that Freeman willingly followed him a few steps further, to a spot where they were not likely to be seen by any one approaching the spring. When they halted it was beside one of those boulders, so numerous in that section that it may be said they were never out of sight. The Apache kept his feet, as did his companion.
+But, suppose he had observed the shadowy movement—ay, there was the rub.
 
-The heart of Maurice Freeman was throbbing painfully, for instinctively he felt that this singular visit had something to do with his child. He and Lieutenant Decker supposed the friendly Apache was at a considerable distance, intent on his task of rescuing the little one, and now, much sooner than was anticipated, he had come back, almost to his starting point, and the boy was not with him.
+If he had failed to see it, he would continue his advance, and continuing it, must disclose some part of himself at the corner of the boulder. Accordingly, the lieutenant partly straightened up, sitting on his heels, weapon grasped, and eyes and ears wide open.
 
-"But he brings news—he brings news and my heart tells me it is bad news," thought the stricken parent, striving manfully to quell all signs of his great sorrow.
+But the minutes passed and nothing was developed. It was impossible to decide what had been done or what should be the next step. Since, however, the former strategy had brought him knowledge and no harm, Decker now repeated it, holding his weapon, so that if the Apache were in his old position he could reach him with a bullet.
 
-What intensified his anguish was the evident fact that something was the matter with Mendez. While walking in front of the captain, he made several missteps. Once he stumbled, lurching far to one side, and violently recovering himself. Then he straightened up and moved with a firm step, as if he had regained his self-control.
+It was like a man darting his head through a trap door, and with one instant, all-embracing sweep of his vision, dropping out of sight before any observer could do more than recognize him.
 
-"He has managed in some way to get hold of his favorite drink," was the despairing thought of Freeman; "he is a fine one to attempt to get my boy out of the hands of a band of his countrymen!"
+The result was disappointing. The side of the rock was bare. The buck had discovered his peril and withdrawn. Where was he?
 
-If anything was needed to confirm this belief it was the manner of Mendez. It has been shown that he was morose by nature, but now his tongue was loosened in a way that Freeman had never known before. He did not stop his walk until he had gone more than a hundred yards from the spring. Then he stopped abruptly, wheeled about and said:
+The lieutenant glanced behind him with a nervous start, half expecting to see the miscreant in the act of firing, but for the moment he was invisible, though somewhere close at hand.
 
-"Cap’n Freem’n brave man—heap big warrior!"
+Since the Apache was too cautious to be caught off his guard by this system of maneuvering, Lieutenant Decker asked himself what other method could be adopted. There must be a change in the order of proceedings, or he himself would be discomfited.
 
-"No, Mendez, I am no braver than you, nor as good a warrior in fighting your people, for I know less of them than you; but tell me, do you bring any news of my boy, who was stolen by some of your people?"
+"I’ll do it!" he muttered, compressing his lips.
 
-Instead of replying, the Apache devoted a minute or two to regaining mastery of himself. He managed to fix his black eyes on the white man, with something of his old defiant expression, when meeting the gaze of an enemy. By the exercise of his iron will, he succeeded in keeping his poise, but he could not drive out the fumes of the horrible tiswin from his brain. They loosened his tongue and gave an odd twist to his ideas.
+No part of the rock was more than five feet in height, so that if a man stood upright beside it, his hat would show from any point. The stone was so rough that it was as easy to climb as a flight of stairs. The lieutenant’s decision was to adopt the system of attack which he had held in so much dread from the first.
 
-"’Pache got boy," said he; "Mendez see ’im."
+Sensible of the necessity of instant action and the great peril attending the recourse, he kept his revolver in his right hand, as he grasped the upper edge of the boulder, placed one foot upon an obstruction, and silently raised his head above the crest of the rock, intending to draw himself upon it.
 
-"I know that as well as you, for I too saw him in their hands. Is that all the news you bring me?"
+His head and shoulders had just moved upward, when with a grasp he let go and dropped out of sight.
 
-"Mendez can’t git ’im."
+"Well, I’ll be hanged!" he exclaimed, "was there ever anything like it?"
 
-"Why not? Have they put him to death?"
+Never did two enemies seem to follow so closely the same line of thought. It looked as if the Apache and the white man’s brains were working in unison. Thus it came about that at the very moment Lieutenant Decker raised himself over one side of the rock to the top, the Apache did the same thing at a point opposite. Both were climbing to the coign of advantage at the same moment. Either could have let fly with his pistol (for the Apache had one), but instead of doing so he made all haste to drop down, so as to interpose the boulder as an armor in front. Thus was another remarkable example given of a unity of thought.
 
-The Apache shook his head, without speaking.
+Everything thus far done by one was duplicated by the other, and the two were once more crouching behind the rock, each debating with himself how best to end a situation, which, to say the least, was extraordinary in more than one respect.
 
-"I thought Mendez was a great warrior," said Freeman, hoping to taunt him into an effort that he seemed reluctant or unable to make; "they told me he could do anything; that he could get my child for me; that he would earn the reward I will give him——"
+Lieutenant Decker now resorted to a daring proceeding that was characteristic of the man. It has been said that boulders were all around him. Less than a rod to his right was another, perhaps half the size of the one he had been about to climb. Hesitating hardly a moment, he took several rapid steps, crouching low, and whisked behind the new shelter. Had the Apache suspected anything of the kind, he would have possessed a fatal advantage, for what better target can a man ask than a fleeing foe only a few yards away? But he could not know it, unless he happened to be peering around the rock at the critical moment, and he was not doing anything of that nature.
 
-"Mendez want no reward—he take no money!" interrupted the Apache, fiercely thumping his breast.
+A creepy feeling came over the officer, during the moment he was gliding across the open space, such as a man feels who expects to hear the report of a weapon and feel the sting of a bullet. He flung himself behind the new shield with a feeling of inexpressible relief.
 
-"Then has he become a squaw? Is he no longer the great warrior that he used to be? Has he become old and weak?"
+"By George!" he exclaimed, as he looked cautiously out; "I forgot my rifle!"
 
-"Mendez not old—Mendez not weak! He great warrior!"
+Sure enough, there it stood in plain sight, leaning against the big boulder, within easy reach of his enemy, should he attempt to seize it.
 
-Any reflection upon the courage or skill of the friendly Apache roused his resentment, which was the reason why Freeman pressed him.
+"But he can’t do it without giving me a chance to wing him," muttered the officer, fully resolved to avert the catastrophe.
 
-"Where is your greatness? You come and tell me that you cannot get my boy away from your people, and yet it is not long ago that you set out to do so. You did not say then you could not take him from them, for you were the brave Mendez that the white people praise and that is not afraid of any one, whether he be white man or red man. Now you are *afraid*."
+The one comforting fact about the situation was that the white man had improved matters and gained an unquestionable advantage. The Apache could not know of the change, and any attempt to locate his foe, without knowing he had left the immediate vicinity of the larger boulder, would expose the warrior to the shot that was awaiting him.
 
-"Mendez not ’fraid! white man lie!" the warrior thundered as he laid his hand on his knife.
+The new position of Decker gave him a view not only of the side where he had been crouching, but of the upper end, just as a person can see two sides of an oblong box from a certain point of view—a fact which it was not to be supposed was known to the warrior, who was, therefore, in danger of exposing himself to a shot from an unexpected quarter. Better still, he could not climb the rock without also showing himself and offering the fairest kind of a target.
 
-"I am not afraid of you, Mendez, but you have been too good a friend of the white people for any of them to wish to harm you. But I repeat your own words. Shall I tell you what is the matter with you?"
+All this tended to make the lieutenant much more comfortable, though the feeling would have been more marked could he have laid hand on the rifle.
 
-"No matter wi’ Mendez! He brave—he strong—he fight."
+"I wouldn’t be uneasy if sure he’s the only buck near, but if a second appears, and my gun is left there, they will have me foul—I’ll do it!"
 
-"There is much the matter with you; you have been drinking tiswin; you are not yourself; but for the tiswin you would be the true, brave, noble Mendez."
+All depended upon quickness and silence. In the same crouching posture, he darted across the intervening space, and was back again in a twinkling, with his gun in hand. The success of his reckless act thrilled him with pleasure.
 
-This charge being true, intensified the anger of the Apache. He again placed his hand on his knife and drew it partly forth. His scowling face, never attractive at its best, was working with rage. He seemed to be gathering himself to leap upon the man who dared to speak these words to him. Believing he was about to do so, Freeman quietly braced himself for the struggle. He disliked to come to violence with one that had done so much for the settlers and the army, but the exasperation of the captain can be understood. At the moment when his hopes were at the highest, and when he was certain that the scout was putting forth his best efforts, he came staggering back to his friends maudlin, helpless, worthless, good for nothing.
+"I haven’t been in this Apache country long," he reflected, "but I think I have learned something. If that fellow gets the better of me, he’s smarter than I believe."
 
-The belief was strong with the parent that if this opportunity was allowed to pass, it would not come again. More than one peculiar circumstance favored the cunning and ability of the scout, the combination being of that nature that a repetition was not in the natural order of things.
+But it was unwisdom to count on safety when peril impended. He was confronted by one of the most fearful of enemies, a member of a tribe whose exploits in cunning approach the marvelous. The most fatal thing the officer could do was to underestimate his enemy.
 
-The weakness of Mendez for the vicious drink was well known, and no person could be better aware of its palsying effects than Mendez himself. It was to be expected that he would indulge in it when not on duty and the chance offered, but when engaged on an enterprise in which his highest skill was needed, there was no palliation for his dissipation. He must have drunk deliberately, and the father, distressed by fears for his child, could find no excuse for him. His anger was natural.
+A dismal, disquieting question forced itself upon him: if he had effected so radical a change of base what was to prevent the Apache doing the same thing? What warrant had the white man for believing a scheme of that nature would present itself to him and not to the dusky marauder? What was to hinder his adopting the artifice?
 
-But, if the Apache meditated an attack on the white man, he changed his mind for the moment. He drew his hand from his knife.
+The thought was like a wet blanket to Decker, who instead of keeping "eyes to the front," began glancing to the right and left and behind him in quest of an insidious approach from that direction.
 
-"Say Mendez weak?—say he squaw?" he mumbled.
+Nothing was seen, but the element lacking to make his situation intolerable came the next moment with the unmistakable noise—faint, but loud enough to him in his tense, nervous state to be heard plainly—made by a body gliding over the ground. Hardly had the conviction formed that it was his old enemy stealing a march upon him, when he saw his mistake. An immense rattlesnake, in its nocturnal wanderings, had been disturbed by his intrusion, and retreating a few feet, as if to gain a better point of view, threw itself into coil, reared its head and gave its warning rattle.
 
-Freeman saw an appeal in these questions. It was as if the fellow had become sensible of his condition and craved indulgence rather than censure.
+It was nigh enough to reach the startled man with its venomous fangs, but before it could deliver its blow, he leaped beyond reach and leveled his revolver. There was sufficient moonlight and the distance was so slight that he could have shattered its head at the first fire, but, when about to press the trigger, he restrained himself.
 
-"The real Mendez is a brave warrior, but, if he is afraid of the Apaches, he is not Mendez; if he wishes to show to his white brother that he is still brave let him go the Apaches and bring back the boy they hold a prisoner; then Mendez will be cunning, he will be brave, he will be a great warrior."
+The shot would betray his presence to the Apache, and not only put him on his guard, but give him the chance to serve the white man as the serpent had been treated.
 
-The fellow straightened up with a majestic dignity that could not fail to command respect. He had thrown off the spell of the horrible stuff, as a Roman warrior might fling off his cloak to give his limbs freer play.
+"This is a lovely situation," muttered the lieutenant; "I like one about as well as the other, but I don’t intend to let you have your own sweet way."
 
-"Mendez is brave: he is a great warrior; he is greater than Geronimo or Cochise; he is not afraid of them; he will bring back the child to his white brother; let his white brother wait here and soon his heart shall be made glad; he shall sing with joy like the birds in the trees. Mendez will soon return; let my brother have patience."
-
-Maurice Freeman was amazed. He had never heard the surly fellow speak the English tongue with such fluency and eloquence. It was a revelation. He appeared to be another person. He towered in height and was the picture of the great Tecumseh himself, addressing an array of chieftains and urging them to battle.
-
-Before the white man could frame a suitable reply, Mendez turned and strode off, his step that of a conqueror. Captain Freeman gazed in silent wonderment at the figure until it vanished in the gloom and he was left alone.
-
-The only explanation that Freeman could find for this extraordinary occurrence was that when Mendez came to him, though he was so under the influence of tiswin, he was conscious of his unfitness for the task he had undertaken. Prompted by a strange self-accusation, proving that conscience burns in the breast of every being, he had come to make confession. Then he was so stung by the reproofs of the white man that he was roused out of his sodden condition. He had really thrown off the effects of the poison. In other words he was sober, and the Mendez of old.
-
-With his self-restoration came his natural courage and confidence in his own prowess. He felt able to do what he had planned, and set out to do it. He would show Captain Freeman, not by words but by acts, that he was the invincible Mendez, as the white man had described him to the Apache himself.
-
-All this was well, but it could not remove the shuddering dread from the heart of the father that the fatal blunder had already been made. The Apache’s relapse had allowed the golden chance to slip beyond repairing or recovery.
-
-Freeman felt the need of Lieutenant Decker’s presence and counsel, but he could not go to him, for the signal agreed upon had not been sounded, and besides, the instructions of Mendez were that the father should wait where he was until his dusky friend returned. He was obliged, therefore, to content himself as best he might.
-
-How long would he be gone? Would it be one hour, two hours, until daylight, or, if he gave way to his weakness again, would he ever return?
-
-Had not the hostiles learned what he was trying to do? Had they not plied him with the atrocious stuff on purpose that he should make an exhibition of himself?
-
-These and similar questionings were rioting in the brain of Maurice Freeman, when he perceived that Mendez was with him again. He appeared with the same strange suddenness as before, but alas! he was alone.
-
-"Where is my boy?" asked the agonized father.
-
-"The heart of Mendez is heavy, for he brings evil tidings; the pappoose of his white brother is—dead."
+The latter was addressed to the rattler, a bite from which was fatal, but it could inflict no harm except by a closer approach. If it attempted to come nearer for the purpose of striking, the officer would blow its head off. He kept his eye on it. But the *crotalus* species is cowardly, and the serpent, finding itself not likely to be attacked, came out of its coil and glided off among the boulders and was seen no more.

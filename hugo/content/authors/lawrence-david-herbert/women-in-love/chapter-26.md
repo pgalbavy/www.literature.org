@@ -1,6 +1,6 @@
 ---
-title: "chapter 26"
-weight: 999
+title: "Chapter 26 - A Chair"
+weight: 26
 url: "/authors/lawrence-david-herbert/women-in-love/chapter-26.html"
 ---
 
