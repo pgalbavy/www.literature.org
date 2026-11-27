@@ -1094,3 +1094,138 @@ html[data-reader-paged="true"] .reader-page-frame {
 .reader-progress-bar[hidden] {
 	display: none;
 }
+
+/* ── Full screen ───────────────────────────────────────
+ * reader-mode.js sets data-reader-fullscreen="true" on <html>. Everything
+ * but the progress bar goes; the burger menu (top left), the full screen /
+ * back / forward buttons (top right) and Settings (bottom left) stay as
+ * faint, uncoloured icons that brighten on hover or focus. The drawer opens
+ * over the page instead of pushing it aside. Works in every reading mode.
+ */
+.reader-fullscreen-settings {
+	display: none;
+}
+
+html[data-reader-fullscreen="true"] body {
+	padding-left: 0 !important;
+	--reader-content-offset: 0px !important;
+}
+
+html[data-reader-fullscreen="true"] .reader-breadcrumbs,
+html[data-reader-fullscreen="true"] .reader-page-counter {
+	display: none !important;
+}
+
+/* The drawer rail is hidden; an opened drawer slides in over the text */
+html[data-reader-fullscreen="true"] #sidebar[data-open="false"] {
+	visibility: hidden;
+	transform: translateX(-102%);
+	transition: transform 220ms ease, visibility 0s linear 220ms;
+}
+
+html[data-reader-fullscreen="true"] #sidebar[data-open="true"] {
+	width: var(--reader-drawer-width) !important;
+	transform: none;
+	visibility: visible;
+}
+
+/* The toolbar keeps its height (page mode measures it, so text never runs
+   under the buttons) but has no background and lets clicks through */
+html[data-reader-fullscreen="true"] .reader-toolbar {
+	position: fixed;
+	top: 0;
+	right: 0;
+	left: 0;
+	z-index: 40;
+	justify-content: space-between;
+	padding-top: env(safe-area-inset-top, 0px);
+	background: transparent !important;
+	box-shadow: none;
+	pointer-events: none;
+}
+
+html[data-reader-fullscreen="true"] .reader-toolbar-actions,
+html[data-reader-fullscreen="true"] .reader-menu-toggle {
+	pointer-events: auto;
+}
+
+html[data-reader-fullscreen="true"] .reader-toolbar-actions {
+	margin-left: auto;
+	padding-right: calc(0.25rem + env(safe-area-inset-right, 0px));
+}
+
+html[data-reader-fullscreen="true"] .reader-toolbar .reader-menu-toggle {
+	position: fixed;
+	top: env(safe-area-inset-top, 0px);
+	left: env(safe-area-inset-left, 0px);
+	width: 40px !important;
+	flex-basis: 40px;
+}
+
+html[data-reader-fullscreen="true"] .reader-toolbar .reader-menu-toggle,
+html[data-reader-fullscreen="true"] .reader-toolbar .reader-nav-button,
+html[data-reader-fullscreen="true"] .reader-fullscreen-settings {
+	background: transparent !important;
+	color: var(--reader-text) !important;
+	opacity: 0.3;
+	transition: opacity 150ms ease, background-color 150ms ease;
+}
+
+html[data-reader-fullscreen="true"] .reader-toolbar .reader-nav-button.w3-disabled {
+	opacity: 0.1;
+}
+
+html[data-reader-fullscreen="true"] .reader-toolbar .reader-menu-toggle:focus-visible,
+html[data-reader-fullscreen="true"] .reader-toolbar .reader-nav-button:not(.w3-disabled):focus-visible,
+html[data-reader-fullscreen="true"] .reader-fullscreen-settings:focus-visible,
+html[data-reader-fullscreen="true"][data-reader-navigation-open="true"] .reader-toolbar .reader-menu-toggle {
+	opacity: 0.9;
+}
+
+@media (hover: hover) {
+	html[data-reader-fullscreen="true"] .reader-toolbar .reader-menu-toggle:hover,
+	html[data-reader-fullscreen="true"] .reader-toolbar .reader-nav-button:not(.w3-disabled):hover,
+	html[data-reader-fullscreen="true"] .reader-fullscreen-settings:hover {
+		background: rgb(128 128 128 / 15%) !important;
+		color: var(--reader-text) !important;
+		opacity: 0.9;
+	}
+}
+
+html[data-reader-fullscreen="true"] .reader-fullscreen-settings {
+	position: fixed;
+	bottom: env(safe-area-inset-bottom, 0px);
+	left: calc(0.25rem + env(safe-area-inset-left, 0px));
+	z-index: 25;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	width: 2.5rem;
+	height: var(--reader-progress-height);
+	margin: 0;
+	padding: 0;
+	border: 0;
+	border-radius: 0.25rem;
+	cursor: pointer;
+}
+
+html[data-reader-fullscreen="true"] .reader-fullscreen-settings .material-icons {
+	font-size: 20px;
+}
+
+/* No progress bar in scroll mode: lift Settings off the window edge */
+html[data-reader-fullscreen="true"]:not([data-reader-paged="true"]) .reader-fullscreen-settings {
+	bottom: calc(0.5rem + env(safe-area-inset-bottom, 0px));
+}
+
+/* Quieter progress bar, so only the text draws the eye */
+html[data-reader-fullscreen="true"] .reader-progress-bar {
+	border-top-color: transparent;
+	opacity: 0.5;
+}
+
+/* Scroll mode: the toolbar no longer takes up room, so keep the first lines
+   clear of the buttons */
+html[data-reader-fullscreen="true"]:not([data-reader-paged="true"]) body {
+	padding-top: var(--reader-toolbar-height);
+}

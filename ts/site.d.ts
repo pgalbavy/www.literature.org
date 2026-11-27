@@ -24,6 +24,7 @@ interface LiteratureReader {
   updateSettings(changes: Partial<ReaderSettings>, message?: string): void;
   visibleParagraph(): HTMLParagraphElement | undefined;
   ensureParagraphIds(): HTMLParagraphElement[];
+  openSettings(): void;
 }
 
 interface Window {

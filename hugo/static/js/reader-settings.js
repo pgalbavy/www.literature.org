@@ -353,11 +353,14 @@ function addSettingsButton(drawer) {
     button.title = "Reading Settings";
     button.setAttribute("aria-label", "Reading Settings");
     button.innerHTML = '<i class="material-icons md-lit" aria-hidden="true">settings</i><span class="reader-drawer-label">Reading Settings</span>';
-    button.addEventListener("click", () => {
-        syncControls();
-        dialog.showModal();
-    });
+    button.addEventListener("click", openSettings);
     menu.appendChild(button);
+}
+function openSettings() {
+    if (!dialog || dialog.open)
+        return;
+    syncControls();
+    dialog.showModal();
 }
 // ── Last location ──────────────────────────────────────────────────────
 function initializeLastLocation() {
@@ -514,6 +517,7 @@ window.literatureReader = {
     updateSettings,
     visibleParagraph,
     ensureParagraphIds,
+    openSettings,
 };
 window.initializeReaderSettings = function (drawer) {
     if (!document.body || !drawer)

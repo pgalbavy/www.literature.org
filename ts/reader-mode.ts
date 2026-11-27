@@ -13,6 +13,7 @@
 const READER_SETTINGS_EVENT = "reader-settings-changed";
 const READER_PAGE_EVENT = "reader-page-changed";
 const OPEN_AT_END_KEY = "literature.org.openAtEnd";
+const FULLSCREEN_KEY = "literature.org.fullscreen";   // per tab, carried to the next chapter
 const MARGIN_ZONE = 0.1;        // fraction of the text width that turns the page on double-click
 const MARGIN_ZONE_MAX = 80;     // px, so the zones stay narrow on wide screens
 const PAGE_EDGE_MARGIN = 2;     // rem between the text and the faint page edges
@@ -529,6 +530,160 @@ function initializeInput(article: HTMLElement): void {
   });
 }
 
+// ── Full screen ────────────────────────────────────────────────────────
+// Full screen hides the drawer and toolbar, leaving only the progress bar,
+// faint full screen / back / forward buttons top right and a faint Settings
+// button bottom left. It works in page, book and scroll mode. Where the
+// browser has a Fullscreen API it is used as well; elsewhere (iPhone) the
+// page is still made immersive. data-reader-fullscreen on <html> drives the
+// CSS. A page load always leaves browser full screen, so moving to another
+// chapter remembers it for the tab and asks again on the first tap or key.
+
+let immersive = false;
+let leavingPage = false;
+let resumeFullscreen: ((event: Event) => void) | undefined;
+
+function fullscreenElement(): Element | null {
+  return document.fullscreenElement ?? (document as any).webkitFullscreenElement ?? null;
+}
+
+function fullscreenSupported(): boolean {
+  const root = document.documentElement as any;
+  return typeof root.requestFullscreen === "function" || typeof root.webkitRequestFullscreen === "function";
+}
+
+function requestBrowserFullscreen(): void {
+  if (fullscreenElement() || !fullscreenSupported()) return;
+  const root = document.documentElement as any;
+  try {
+    const result = root.requestFullscreen
+      ? root.requestFullscreen({ navigationUI: "hide" })
+      : root.webkitRequestFullscreen();
+    result?.catch?.(() => { /* refused: stay immersive without it */ });
+  } catch (_) { /* noop */ }
+}
+
+function exitBrowserFullscreen(): void {
+  if (!fullscreenElement()) return;
+  const doc = document as any;
+  try {
+    const result = document.exitFullscreen ? document.exitFullscreen() : doc.webkitExitFullscreen?.();
+    result?.catch?.(() => { /* noop */ });
+  } catch (_) { /* noop */ }
+}
+
+function updateFullscreenButton(): void {
+  const button = document.querySelector<HTMLElement>(".reader-fullscreen-toggle");
+  if (!button) return;
+  const label = immersive ? "Exit full screen" : "Full screen";
+  button.title = `${label} (${immersive ? "Esc" : "F11"})`;
+  button.setAttribute("aria-label", label);
+  button.setAttribute("aria-pressed", String(immersive));
+  const icon = button.querySelector(".material-icons");
+  if (icon) icon.textContent = immersive ? "fullscreen_exit" : "fullscreen";
+}
+
+function disarmResume(): void {
+  if (!resumeFullscreen) return;
+  for (const type of ["click", "touchend", "keydown"]) {
+    document.removeEventListener(type, resumeFullscreen, true);
+  }
+  resumeFullscreen = undefined;
+}
+
+// Browsers only allow full screen from a tap, click or key press
+function armResume(): void {
+  if (resumeFullscreen || !fullscreenSupported()) return;
+  resumeFullscreen = (event: Event) => {
+    if (event instanceof KeyboardEvent && (event.key === "Escape" || event.key === "F11")) return;
+    if (event.target instanceof Element && event.target.closest(".reader-fullscreen-toggle")) return;
+    disarmResume();
+    requestBrowserFullscreen();
+  };
+  for (const type of ["click", "touchend", "keydown"]) {
+    document.addEventListener(type, resumeFullscreen, true);
+  }
+}
+
+function setImmersive(on: boolean): void {
+  if (on === immersive) return;
+  immersive = on;
+  document.documentElement.dataset.readerFullscreen = String(on);
+  try {
+    if (on) sessionStorage.setItem(FULLSCREEN_KEY, "true");
+    else sessionStorage.removeItem(FULLSCREEN_KEY);
+  } catch (_) { /* noop */ }
+  if (!on) disarmResume();
+  if (on && document.getElementById("sidebar")?.dataset.open === "true") window.w3_close?.();
+  updateFullscreenButton();
+  // The text box grows into the space the drawer rail and toolbar used
+  window.requestAnimationFrame(relayout);
+}
+
+function enterFullscreen(): void {
+  setImmersive(true);
+  requestBrowserFullscreen();
+}
+
+function exitFullscreen(): void {
+  setImmersive(false);
+  exitBrowserFullscreen();
+}
+
+function toggleFullscreen(): void {
+  if (immersive) exitFullscreen(); else enterFullscreen();
+}
+
+function handleFullscreenChange(): void {
+  if (fullscreenElement()) setImmersive(true);
+  else if (!leavingPage) setImmersive(false);   // Esc or the browser's own exit
+}
+
+function initializeFullscreen(): void {
+  const toggle = document.querySelector<HTMLElement>(".reader-fullscreen-toggle");
+  toggle?.addEventListener("click", (event) => {
+    event.preventDefault();
+    toggleFullscreen();
+  });
+
+  // Faint Settings button, bottom left, shown only in full screen
+  const settings = document.createElement("button");
+  settings.type = "button";
+  settings.className = "reader-fullscreen-settings";
+  settings.title = "Reading Settings";
+  settings.setAttribute("aria-label", "Reading Settings");
+  settings.innerHTML = '<i class="material-icons md-lit" aria-hidden="true">settings</i>';
+  settings.addEventListener("click", () => window.literatureReader?.openSettings());
+  document.body.appendChild(settings);
+
+  document.addEventListener("fullscreenchange", handleFullscreenChange);
+  document.addEventListener("webkitfullscreenchange", handleFullscreenChange);
+  window.addEventListener("pagehide", () => { leavingPage = true; });
+  window.addEventListener("pageshow", () => { leavingPage = false; });
+
+  document.addEventListener("keydown", (event: KeyboardEvent) => {
+    if (event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey) return;
+    if (event.key === "F11" && !event.shiftKey && fullscreenSupported()) {
+      // Already in the browser's own full screen (from its menu): let F11 leave it
+      if (!fullscreenElement() && window.matchMedia?.("(display-mode: fullscreen)").matches) return;
+      event.preventDefault();
+      toggleFullscreen();
+    } else if (event.key === "Escape" && immersive && !document.querySelector("dialog[open]")) {
+      // In browser full screen the browser takes Esc itself; this covers the rest
+      event.preventDefault();
+      exitFullscreen();
+    }
+  });
+
+  let resume = false;
+  try { resume = sessionStorage.getItem(FULLSCREEN_KEY) === "true"; } catch (_) { /* noop */ }
+  if (resume) {
+    setImmersive(true);
+    armResume();
+  }
+  updateFullscreenButton();
+}
+
 // ── Public API ─────────────────────────────────────────────────────────
 
 function initializeReaderMode(): void {
@@ -539,6 +694,7 @@ function initializeReaderMode(): void {
 
   initializeInput(article);
   initializeNavButtons();
+  initializeFullscreen();
 
   window.addEventListener(READER_SETTINGS_EVENT, (event: Event) => {
     const { changed } = (event as CustomEvent<ReaderSettingsChange>).detail;
