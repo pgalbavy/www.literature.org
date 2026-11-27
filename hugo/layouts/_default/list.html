@@ -13,11 +13,45 @@
 {{ else }}
   {{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
 {{ end }}
-<article class="w3-container w3-justify">
+{{ $authorsList := eq .RelPermalink "/authors/" }}
+<article class="w3-container w3-justify{{ if $authorsList }} reader-alpha-page{{ end }}">
   <div class="w3-card-4">
     {{ if eq .RelPermalink "/" }}
       <div class="w3-container w3-teal"><h3>Welcome to literature.org</h3></div>
       <div class="w3-container home-welcome">{{ .Content }}</div>
+    {{ else if $authorsList }}
+      {{/* Authors by surname: the capitalised word(s) of the title, e.g.
+           "Anne BRONTË" or "Archie P. MCKISHNIE", then by full name */}}
+      {{ $rows := slice }}
+      {{ range .Pages }}
+        {{ $surname := delimit (findRE `\p{Lu}{2,}` .Title) " " }}
+        {{ if not $surname }}{{ $surname = .Title }}{{ end }}
+        {{ $rows = $rows | append (dict "key" (lower (printf "%s|%s" $surname .Title)) "letter" (upper (substr $surname 0 1)) "page" .) }}
+      {{ end }}
+      {{ $rows = sort $rows "key" }}
+      {{ $letters := slice }}
+      {{ range $rows }}{{ $letters = $letters | append .letter }}{{ end }}
+      {{ $letters = uniq $letters }}
+      <div class="w3-container w3-teal"><h3>{{ .Title }}</h3></div>
+      <nav class="reader-alpha-index" aria-label="Jump to authors by surname initial">
+        <ol>
+          {{ range split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
+          <li>{{ if in $letters . }}<a href="#letter-{{ . }}">{{ . }}</a>{{ else }}<span aria-hidden="true">{{ . }}</span>{{ end }}</li>
+          {{ end }}
+        </ol>
+      </nav>
+      <ul class="w3-bar-block w3-ul w3-border w3-hoverable">
+        {{ $previous := "" }}
+        {{ range $rows }}
+        <li{{ if ne .letter $previous }} id="letter-{{ .letter }}"{{ end }}>
+          <a class="w3-bar-item litleft w3-button" href="{{ .page.RelPermalink }}">
+            <i class="material-icons md-lit w3-margin-right">person</i>
+            {{ .page.Title }}
+          </a>
+        </li>
+        {{ $previous = .letter }}
+        {{ end }}
+      </ul>
     {{ else }}
       <div class="w3-container w3-teal"><h3>{{ .Title }}</h3></div>
       <ul class="w3-bar-block w3-ul w3-border w3-hoverable">

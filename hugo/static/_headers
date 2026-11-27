@@ -1,0 +1,19 @@
+# Cloudflare Pages response headers (https://developers.cloudflare.com/pages/configuration/headers/)
+#
+# HTML keeps the Pages default (revalidate every time) so content updates
+# show immediately. Everything below would otherwise also be revalidated on
+# every page view, costing a round trip per file.
+
+# CSS and JS bundles built by the Hugo layouts: the file name contains a hash
+# of the content, so a change always gets a new URL and these never go stale
+/bundle/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Fonts keep their names when replaced, so a shorter lifetime
+/fonts/*
+  Cache-Control: public, max-age=2592000
+/icons/*
+  Cache-Control: public, max-age=2592000
+
+/favicon.ico
+  Cache-Control: public, max-age=86400

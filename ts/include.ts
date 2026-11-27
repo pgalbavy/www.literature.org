@@ -617,6 +617,7 @@ function swipedetect(element, callback) {
 	}, false)
 }
 
+// Legacy pages only: the Hugo layouts load hugo-nav.js instead of this file.
 function w3_open() {
 	const sidebar = document.getElementById("sidebar");
 	if (sidebar) {
@@ -732,7 +733,7 @@ function loadScript(file: string): Promise<HTMLScriptElement> {
 }
 
 // append element with name and inner HTML value and option atrributes
-function appendElement(doc, node, elemName, value, attr) {
+function appendElement(doc, node, elemName, value, attr?: [string, string][]) {
 	let elem = doc.createElement(elemName)
 	if (attr !== undefined) {
 		for (let a of attr) {

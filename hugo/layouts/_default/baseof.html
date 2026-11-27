@@ -4,8 +4,12 @@
 <body>
   {{ partial "header.html" . }}
   {{ block "main" . }}{{ end }}
-  {{ partial "footer.html" . }}
-  <script src="/js/hugo-nav.js?v=4" defer></script>
-  <script src="/js/reader-settings.js?v=9" defer></script>
+  <div class="reader-progress-bar" hidden></div>
+  {{/* One minified script, named by its content hash (see head.html). The
+       files share one global scope as before. Order matters: reader-mode.js
+       uses the Settings owned by reader-settings.js. */}}
+  {{ $js := slice (resources.Get "js/hugo-nav.js") (resources.Get "js/reader-settings.js") (resources.Get "js/reader-mode.js")
+     | resources.Concat "bundle/site.js" | minify | fingerprint }}
+  <script src="{{ $js.RelPermalink }}" defer></script>
 </body>
 </html>

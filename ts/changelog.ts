@@ -4,6 +4,8 @@
  */
 "use strict";
 
+// nameCapsHTML() is a global provided by include.js, which pages load first.
+
 function loadchangelog() {
 	Changelog();
 }

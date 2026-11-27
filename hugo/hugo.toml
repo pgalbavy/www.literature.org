@@ -13,3 +13,19 @@ enableGitInfo = false
 
 [params]
   description = "Classic works of English literature"
+
+# Minify the generated HTML whatever command the build host runs
+[minify]
+  minifyOutput = true
+
+# The CSS and JS stay in static/ (tsc writes there, and the legacy
+# /templates pages load them by plain URL), and are also mounted as assets so
+# the Hugo layouts can bundle, minify and fingerprint them (see head.html and
+# baseof.html). Fingerprinted names let static/_headers cache them for a year.
+[module]
+  [[module.mounts]]
+    source = "static/css"
+    target = "assets/css"
+  [[module.mounts]]
+    source = "static/js"
+    target = "assets/js"

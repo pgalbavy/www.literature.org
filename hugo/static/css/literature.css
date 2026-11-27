@@ -4,6 +4,7 @@
 	font-family: 'Open Sans';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src: local('Open Sans Regular'), local('OpenSans-Regular'), url('../fonts/open-sans-v17-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
 	url('../fonts/open-sans-v17-latin-regular.woff') format('woff');
 	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -15,6 +16,7 @@
 	font-family: 'Karla';
 	font-style: normal;
 	font-weight: 400;
+	font-display: swap;
 	src: local('Karla'), local('Karla-Regular'),
 	url('../fonts/karla-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
 	url('../fonts/karla-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
@@ -478,6 +480,9 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	min-width: 0;
 	overflow: visible;
 	font-size: clamp(16px, 2.4vw, 20px);
+	/* Labels collapse to icons based on the space the breadcrumbs actually
+	   have (see the @container rules below), not the window width */
+	container: reader-crumbs / inline-size;
 }
 
 .reader-breadcrumb-item {
@@ -485,7 +490,8 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	align-items: center;
 	gap: 0.4rem;
 	flex: 0 1 auto;
-	min-width: 0;
+	/* never narrower than its icon, so neighbouring icons cannot overlap */
+	min-width: calc(24px + 0.8rem);
 	height: 40px;
 	padding: 0 0.4rem;
 	box-sizing: border-box;
@@ -505,10 +511,31 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 
 .reader-breadcrumb-label {
 	display: none;
+	flex: 0 1 auto;
+	min-width: 0;
+	max-width: 24em;
 	overflow: hidden;
-	max-width: 10em;
 	text-overflow: ellipsis;
 	white-space: nowrap;
+}
+
+/* When space is short the author name gives way first, then the book title,
+   and the chapter name last. Flexbox takes space in proportion to these
+   weights until a crumb reaches its minimum (its icon), then from the rest.
+   Keep every weight at 1 or more: if the weights still able to shrink add up
+   to less than 1, flexbox removes only that fraction of the overflow, and
+   the rest spills under the toolbar buttons. */
+.reader-breadcrumbs > .reader-crumb--author {
+	flex-shrink: 10000;
+}
+
+.reader-breadcrumbs > .reader-crumb--book {
+	flex-shrink: 100;
+}
+
+.reader-breadcrumbs > .reader-chapter-menu,
+.reader-breadcrumbs > .reader-crumb--chapter {
+	flex-shrink: 1;
 }
 
 .reader-crumb--home-authors .reader-breadcrumb-label {
@@ -525,18 +552,21 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	padding-left: 4px !important;
 }
 
-.reader-chapter-menu {
+.reader-crumb-menu {
+	position: relative;
 	display: inline-flex;
 	align-items: center;
 	flex: 0 1 auto;
-	min-width: 0;
+	/* icon + drop-down arrow + padding and gap */
+	min-width: calc(48px + 1.2rem);
 }
 
-.reader-chapter-menu summary {
+.reader-crumb-menu summary {
 	display: inline-flex;
 	align-items: center;
 	gap: 0.4rem;
-	max-width: min(18rem, 45vw);
+	min-width: 0;
+	max-width: 100%;
 	height: 40px;
 	padding: 0 0.4rem;
 	box-sizing: border-box;
@@ -544,20 +574,15 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	list-style: none;
 }
 
-.reader-chapter-menu .reader-breadcrumb-label {
-	display: inline;
-	max-width: min(14rem, 35vw);
-}
-
-.reader-chapter-menu summary::-webkit-details-marker {
+.reader-crumb-menu summary::-webkit-details-marker {
 	display: none;
 }
 
-.reader-chapter-menu summary .material-icons {
+.reader-crumb-menu summary .material-icons {
 	font-size: 24px;
 }
 
-.reader-chapter-menu summary .reader-chapter-menu-chevron {
+.reader-crumb-menu summary .reader-crumb-menu-chevron {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
@@ -568,10 +593,12 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	line-height: 1;
 }
 
-.reader-chapter-menu-list {
+.reader-crumb-menu-list {
 	position: absolute;
+	/* Below the chapter menu item; hugo-nav.js shifts it left if it would
+	   run off the right edge of the screen */
 	top: calc(100% + 0.25rem);
-	left: calc(0px - var(--reader-content-offset) + 0.5rem);
+	left: 0;
 	z-index: 25;
 	width: min(28rem, calc(100vw - 1rem));
 	max-width: calc(100vw - 1rem);
@@ -590,22 +617,22 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	overscroll-behavior: contain;
 }
 
-.reader-chapter-menu-list li {
+.reader-crumb-menu-list li {
 	padding: 0;
 	border-bottom: 1px solid rgb(128 128 128 / 30%);
 	font-size: 1rem;
 	overflow-wrap: anywhere;
 }
 
-.reader-chapter-menu-list a {
+.reader-crumb-menu-list a {
 	display: block;
 	padding: 0.5rem 0.75rem;
 	text-decoration: none;
 	overflow-wrap: anywhere;
 }
 
-.reader-chapter-menu-list a:hover,
-.reader-chapter-current a {
+.reader-crumb-menu-list a:hover,
+.reader-crumb-menu-current a {
 	background: rgb(128 128 128 / 20%);
 }
 
@@ -683,9 +710,15 @@ html[data-reader-navigation-open="true"] #sidebar {
 	display: none;
 }
 
-#sidebar-links .reader-settings-button {
+/* Share (chapter pages only), Contact and Reading Settings sit together at
+   the bottom of the drawer */
+#sidebar-links .reader-drawer-contact,
+#sidebar-links .reader-share-button {
 	margin-top: auto;
-	border-top: 1px solid currentColor;
+}
+
+#sidebar-links .reader-share-button ~ .reader-drawer-contact {
+	margin-top: 0;
 }
 
 @media (max-width: 640px) {
@@ -774,16 +807,25 @@ html[data-reader-navigation-open="true"] #sidebar {
 @media (min-width: 900px) {
 	.reader-breadcrumbs > .reader-crumb--book::before,
 	.reader-breadcrumbs > .reader-chapter-menu::before,
+	.reader-breadcrumbs > .reader-crumb--chapter::before,
 	.reader-breadcrumbs > .reader-crumb--author ~ .reader-crumb--current::before {
-		display: inline-flex;
-		align-items: center;
-		justify-content: center;
-		flex: 0 0 auto;
-		margin-right: 0.35rem;
+		/* sits in the gap between crumbs, so it never overlaps an icon */
+		position: absolute;
+		top: 50%;
+		left: -0.35rem;
+		transform: translate(-50%, -50%);
 		content: "·";
 		font-size: 1.2rem;
 		font-weight: 400;
 		opacity: 0.65;
+	}
+
+	.reader-breadcrumbs > .reader-crumb--book,
+	.reader-breadcrumbs > .reader-chapter-menu,
+	.reader-breadcrumbs > .reader-crumb--chapter,
+	.reader-breadcrumbs > .reader-crumb--author ~ .reader-crumb--current {
+		position: relative;
+		margin-left: 0.7rem;
 	}
 }
 
@@ -807,31 +849,37 @@ html[data-reader-navigation-open="true"] #sidebar {
 	}
 }
 
-@media (min-width: 500px) {
-	.reader-crumb--current .reader-breadcrumb-label {
+/* Breadcrumb labels by available width, narrowest first: the current page
+   (and the chapter menu) keep their label longest, then the book title,
+   then the author name. Below 9rem every crumb is icon-only; the chapter
+   menu keeps its drop-down arrow. */
+@container reader-crumbs (min-width: 9rem) {
+	.reader-crumb--current .reader-breadcrumb-label,
+	.reader-chapter-menu .reader-breadcrumb-label,
+	.reader-crumb--chapter .reader-breadcrumb-label {
 		display: inline;
 	}
 }
 
-@media (min-width: 680px) {
+@container reader-crumbs (min-width: 24rem) {
 	.reader-crumb--book .reader-breadcrumb-label {
 		display: inline;
 	}
 }
 
-@media (min-width: 850px) {
+@container reader-crumbs (min-width: 36rem) {
 	.reader-crumb--author .reader-breadcrumb-label {
 		display: inline;
 	}
 }
 
-@media (min-width: 1050px) {
+@container reader-crumbs (min-width: 48rem) {
 	.reader-crumb--authors .reader-breadcrumb-label {
 		display: inline;
 	}
 }
 
-@media (min-width: 1200px) {
+@container reader-crumbs (min-width: 56rem) {
 	.reader-crumb--home .reader-breadcrumb-label {
 		display: inline;
 	}
@@ -841,4 +889,208 @@ html[data-reader-navigation-open="true"] #sidebar {
 	.reader-toolbar-actions .reader-page-counter {
 		display: none !important;
 	}
+}
+
+/* ── Authors A–Z index ─────────────────────────────────
+ * A quiet column of initials beside the drawer on the authors list. Letters
+ * shrink with the screen height; on short screens only every other letter
+ * is shown (each still jumps to its own initial).
+ */
+article.reader-alpha-page {
+	padding-left: 2.25rem;
+}
+
+article.reader-alpha-page li[id^="letter-"] {
+	scroll-margin-top: calc(var(--reader-toolbar-height) + 0.5rem);
+}
+
+.reader-alpha-index {
+	position: fixed;
+	top: calc(var(--reader-toolbar-height) + 0.5rem);
+	bottom: 0.5rem;
+	left: calc(var(--reader-content-offset) + 0.25rem);
+	z-index: 15;
+	display: flex;
+	align-items: center;
+}
+
+.reader-alpha-index ol {
+	display: flex;
+	flex-direction: column;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.reader-alpha-index li {
+	font-size: clamp(10px, calc((100vh - 6rem) / 30), 14px);
+	font-size: clamp(10px, calc((100dvh - 6rem) / 30), 14px);
+	line-height: 1.35;
+	text-align: center;
+}
+
+.reader-alpha-index a,
+.reader-alpha-index span {
+	display: block;
+	min-width: 1.5em;
+	padding: 0 0.2em;
+	border-radius: 0.25rem;
+	text-decoration: none;
+}
+
+.reader-alpha-index a {
+	color: var(--reader-accent);
+	font-weight: 600;
+	opacity: 0.75;
+}
+
+.reader-alpha-index a:hover,
+.reader-alpha-index a:focus-visible {
+	background: rgb(128 128 128 / 15%);
+	opacity: 1;
+}
+
+.reader-alpha-index span {
+	opacity: 0.3;
+}
+
+@media (max-height: 520px) {
+	.reader-alpha-index li:nth-child(even) {
+		display: none;
+	}
+}
+
+/* ── Page mode ─────────────────────────────────────────
+ * reader-mode.js sets data-reader-paged="true" on <html> only on chapter
+ * pages in page mode. The article becomes a fixed box between the toolbar
+ * and the progress bar; CSS columns flow the text into screen-wide pages
+ * that reader-mode.js moves between with scrollLeft.
+ */
+:root {
+	--reader-progress-height: 2rem;
+	--reader-toolbar-height: 40px;
+}
+
+html[data-reader-paged="true"],
+html[data-reader-paged="true"] body {
+	height: 100%;
+	overflow: hidden;
+	overscroll-behavior: none;
+}
+
+html[data-reader-paged="true"] article.reader-content {
+	position: fixed;
+	top: var(--reader-toolbar-height);
+	bottom: calc(var(--reader-progress-height) + env(safe-area-inset-bottom, 0px));
+	left: calc(var(--reader-content-offset) + 1rem);
+	right: 1rem;
+	width: auto;
+	margin: 0 auto;
+	/* generous top space so the toolbar does not crowd the first line */
+	padding: 2rem 0 0.75rem;
+	box-sizing: border-box;
+	overflow: hidden;
+	column-count: 1;
+	column-gap: 2rem;
+	column-fill: auto;
+	touch-action: pan-y;
+}
+
+html[data-reader-paged="true"] article.reader-content p {
+	orphans: 2;
+	widows: 2;
+}
+
+html[data-reader-paged="true"] article.reader-content :is(h1, h2, h3, h4) {
+	break-after: avoid;
+}
+
+html[data-reader-paged="true"] article.reader-content img {
+	max-height: calc(100vh - var(--reader-toolbar-height) - var(--reader-progress-height) - 3rem);
+	object-fit: contain;
+	break-inside: avoid;
+}
+
+/* Page-turn zones (set by reader-mode.js as the mouse moves): a teal circle
+   with a Material back / forward arrow, falling back to the system cursors */
+html[data-reader-paged="true"][data-reader-turn-zone="prev"],
+html[data-reader-paged="true"][data-reader-turn-zone="prev"] article.reader-content {
+	cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23009688' stroke='white' stroke-width='2'/%3E%3Cpath transform='translate(4 4)' fill='white' d='M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z'/%3E%3C/svg%3E") 16 16, w-resize;
+}
+
+html[data-reader-paged="true"][data-reader-turn-zone="next"],
+html[data-reader-paged="true"][data-reader-turn-zone="next"] article.reader-content {
+	cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23009688' stroke='white' stroke-width='2'/%3E%3Cpath transform='translate(4 4)' fill='white' d='M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z'/%3E%3C/svg%3E") 16 16, e-resize;
+}
+
+/* Double-tap turns pages, so stop the browser's double-tap zoom (pinch
+   zoom still works) */
+html[data-reader-paged="true"] body {
+	touch-action: manipulation;
+}
+
+/* Faint page edges either side of a single-column page, when the window has
+   room for them; reader-mode.js positions and shows it. Page mode stops
+   above the progress bar, scroll mode runs to the bottom of the window. */
+.reader-page-frame {
+	position: fixed;
+	top: var(--reader-toolbar-height);
+	bottom: 0;
+	z-index: 0;
+	box-sizing: border-box;
+	border-right: 1px solid rgb(128 128 128 / 20%);
+	border-left: 1px solid rgb(128 128 128 / 20%);
+	pointer-events: none;
+}
+
+html[data-reader-paged="true"] .reader-page-frame {
+	bottom: calc(var(--reader-progress-height) + env(safe-area-inset-bottom, 0px));
+}
+
+/* Book mode: two pages side by side on wide screens */
+@media (min-width: 1000px) {
+	/* The outer insets match half the column gap, so the outer margins are
+	   never narrower than the space either side of the centre rule */
+	html[data-reader-paged="true"][data-reader-bookmode="true"] article.reader-content {
+		left: calc(var(--reader-content-offset) + 2rem);
+		right: 2rem;
+		column-count: 2;
+		column-gap: 4rem;
+		column-rule: 1px solid rgb(128 128 128 / 25%);
+		max-width: calc(2 * 72ch + 4rem);
+	}
+
+	html[data-reader-paged="true"][data-reader-bookmode="true"][data-reader-width="narrow"] article.reader-content {
+		max-width: calc(2 * 56ch + 4rem);
+	}
+
+	html[data-reader-paged="true"][data-reader-bookmode="true"][data-reader-width="wide"] article.reader-content {
+		max-width: calc(2 * 90ch + 4rem);
+	}
+}
+
+/* ── Progress bar (page mode only) ───────────────────── */
+.reader-progress-bar {
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: var(--reader-content-offset);
+	z-index: 20;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: var(--reader-progress-height);
+	padding-bottom: env(safe-area-inset-bottom, 0px);
+	box-sizing: content-box;
+	border-top: 1px solid rgb(128 128 128 / 30%);
+	background: var(--reader-page);
+	color: var(--reader-text);
+	font-size: 0.8rem;
+	font-variant-numeric: tabular-nums;
+	opacity: 0.8;
+	user-select: none;
+}
+
+.reader-progress-bar[hidden] {
+	display: none;
 }

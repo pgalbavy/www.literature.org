@@ -1,7 +1,7 @@
 <nav>
   <aside id="sidebar" class="reader-drawer" data-open="false" aria-hidden="true" aria-label="Site navigation" inert>
     <nav id="sidebar-links" class="w3-bar-block w3-large" aria-label="Site navigation">
-      <a class="w3-bar-item w3-button" href="/" aria-label="literature.org" title="literature.org"><i class="material-icons md-lit" aria-hidden="true">home</i><span class="reader-drawer-label">literature.org</span></a>
+      <a class="w3-bar-item w3-button" href="/" aria-label="literature.org" title="literature.org" onclick="if(typeof window!=='undefined'&&window.__literatureHomeClick)window.__literatureHomeClick();"><i class="material-icons md-lit" aria-hidden="true">home</i><span class="reader-drawer-label">literature.org</span></a>
       <a class="w3-bar-item w3-button" href="/authors/" aria-label="Authors" title="Authors"><i class="material-icons md-lit" aria-hidden="true">people</i><span class="reader-drawer-label">Authors</span></a>
       {{ $parts := split (trim .RelPermalink "/") "/" }}
       {{ if and (eq .Section "authors") (ge (len $parts) 2) }}
@@ -27,6 +27,8 @@
       {{ if and (eq .Section "authors") (ge (len $parts) 4) }}
       <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ .Title }}" title="{{ .Title }}" aria-current="page"><i class="material-icons md-lit" aria-hidden="true">library_books</i><span class="reader-drawer-label">{{ .Title }}</span></span>
       {{ end }}
+      {{/* Bottom of the drawer: Contact, then the Reading Settings button that reader-settings.js appends */}}
+      <a class="w3-bar-item w3-button reader-drawer-contact" href="/contact/" aria-label="Contact literature.org" title="Contact literature.org"{{ if eq .RelPermalink "/contact/" }} aria-current="page"{{ end }}><i class="material-icons md-lit" aria-hidden="true">mail</i><span class="reader-drawer-label">Contact</span></a>
     </nav>
   </aside>
 </nav>

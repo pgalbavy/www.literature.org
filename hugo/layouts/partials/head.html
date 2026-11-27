@@ -11,7 +11,15 @@
       console.error("Could not read navigation state in this tab.", error);
     }
   </script>
-  <link rel="stylesheet" href="/css/w3.css">
-  <link rel="stylesheet" href="/css/icon.css">
-  <link rel="stylesheet" href="/css/literature.css?v=9">
+  {{/* Fonts are otherwise only found after the CSS is parsed; these two are
+       needed on every page. The URLs must match the ones in the CSS. */}}
+  <link rel="preload" href="/icons/MaterialIcons-Regular.woff2" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="/fonts/open-sans-v17-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+  {{/* One minified stylesheet, named by its content hash so it can be cached
+       for a year (static/_headers); a change gets a new name. It lives in
+       /bundle/, one level down like /css/, so the CSS's ../fonts/ and
+       ../icons/ paths still resolve. Order matters: w3, icons, then ours. */}}
+  {{ $css := slice (resources.Get "css/w3.css") (resources.Get "css/icon.css") (resources.Get "css/literature.css")
+     | resources.Concat "bundle/site.css" | minify | fingerprint }}
+  <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 </head>

@@ -1,0 +1,5 @@
+{
+  "extends": "./tsconfig.json",
+  "//": "Scripts used by the legacy pages in hugo/static/templates and EPUB export. Kept separate because they define their own globals (w3_open, w3_close) that are never loaded together with hugo-nav.js.",
+  "files": ["ts/site.d.ts", "ts/include.ts", "ts/changelog.ts", "ts/epub.ts"]
+}

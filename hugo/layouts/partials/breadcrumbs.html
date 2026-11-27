@@ -25,24 +25,59 @@
             {{ $bookKind := "book" }}
             {{ $bookHref := $bookPage.RelPermalink }}
             {{ if eq (len $parts) 3 }}{{ $bookKind = "current" }}{{ $bookHref = "" }}{{ end }}
+            {{/* The book title is a drop-down of the author's works; the
+                 current book stays in the list as the link to its contents.
+                 With only one work it is a plain link to the contents. */}}
+            {{ $works := slice }}
+            {{ with $authorPage }}{{ $works = .Pages.ByWeight }}{{ end }}
+            {{ if gt (len $works) 1 }}
+            <details class="reader-crumb-menu reader-book-menu reader-crumb--{{ $bookKind }}">
+              <summary aria-label="Choose another book by {{ $authorPage.Title }}: {{ $bookPage.Title }}" title="{{ $bookPage.Title }}">
+                <i class="material-icons reader-breadcrumb-icon" aria-hidden="true">menu_book</i>
+                <span class="reader-breadcrumb-label">{{ $bookPage.Title }}</span>
+                <i class="material-icons reader-crumb-menu-chevron" aria-hidden="true">expand_more</i>
+              </summary>
+              <ul class="reader-crumb-menu-list">
+                {{ range $works }}
+                {{ $isBook := eq .RelPermalink $bookPage.RelPermalink }}
+                <li{{ if $isBook }} class="reader-crumb-menu-current"{{ end }}>
+                  <a href="{{ .RelPermalink }}"{{ if and $isBook (eq (len $parts) 3) }} aria-current="page"{{ end }}>{{ .Title }}</a>
+                </li>
+                {{ end }}
+              </ul>
+            </details>
+            {{ else }}
             {{ partial "breadcrumb-item.html" (dict "Label" $bookPage.Title "Icon" "menu_book" "Kind" $bookKind "Href" $bookHref) }}
-            {{ with $bookPage.Pages.ByWeight }}
+            {{ end }}
+            {{ $chapters := $bookPage.Pages.ByWeight }}
+            {{ if eq (len $chapters) 1 }}
+            {{/* Only one chapter: plain text on the chapter itself, or a
+                 direct link to it from the book's contents page */}}
+            {{ $only := index $chapters 0 }}
+            {{ if ge (len $parts) 4 }}
+            {{ partial "breadcrumb-item.html" (dict "Label" $page.Title "Icon" "menu_book" "Kind" "current") }}
+            {{ else }}
+            {{ partial "breadcrumb-item.html" (dict "Label" $only.Title "Icon" "menu_book" "Kind" "chapter" "Href" $only.RelPermalink) }}
+            {{ end }}
+            {{ else }}
+            {{ with $chapters }}
             {{ $chapterLabel := "Chapters" }}
             {{ if ge (len $parts) 4 }}{{ $chapterLabel = $page.Title }}{{ end }}
-            <details class="reader-chapter-menu{{ if ge (len $parts) 4 }} reader-crumb--current{{ end }}">
+            <details class="reader-crumb-menu reader-chapter-menu{{ if ge (len $parts) 4 }} reader-crumb--current{{ end }}">
               <summary aria-label="Choose a chapter: {{ $chapterLabel }}" title="{{ $chapterLabel }}">
                 <i class="material-icons reader-breadcrumb-icon" aria-hidden="true">menu_book</i>
                 <span class="reader-breadcrumb-label">{{ $chapterLabel }}</span>
-                <i class="material-icons reader-chapter-menu-chevron" aria-hidden="true">expand_more</i>
+                <i class="material-icons reader-crumb-menu-chevron" aria-hidden="true">expand_more</i>
               </summary>
-              <ul class="reader-chapter-menu-list">
+              <ul class="reader-crumb-menu-list">
                 {{ range . }}
-                <li{{ if eq .RelPermalink $page.RelPermalink }} class="reader-chapter-current"{{ end }}>
+                <li{{ if eq .RelPermalink $page.RelPermalink }} class="reader-crumb-menu-current"{{ end }}>
                   <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}>{{ .Title }}</a>
                 </li>
                 {{ end }}
               </ul>
             </details>
+            {{ end }}
             {{ end }}
           {{ end }}
         {{ end }}

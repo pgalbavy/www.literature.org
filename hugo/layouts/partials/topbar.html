@@ -3,8 +3,8 @@
   {{ partial "breadcrumbs.html" .Page }}
   {{ if .ShowNavigation }}
   <div class="reader-toolbar-actions">
-    {{ with .Page.NextInSection }}<a class="w3-bar-item w3-button reader-nav-button" href="{{ .RelPermalink }}" title="Previous" aria-label="Previous" rel="prev"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button" title="No previous chapter" aria-label="No previous chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></span>{{ end }}
-    {{ with .Page.PrevInSection }}<a class="w3-bar-item w3-button reader-nav-button" href="{{ .RelPermalink }}" title="Next" aria-label="Next" rel="next"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button" title="No next chapter" aria-label="No next chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></span>{{ end }}
+    {{ with .Page.NextInSection }}<a class="w3-bar-item w3-button reader-nav-button reader-chapter-nav" href="{{ .RelPermalink }}" title="Previous Chapter" aria-label="Previous Chapter" rel="prev"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button reader-chapter-nav" title="No previous chapter" aria-label="No previous chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></span>{{ end }}
+    {{ with .Page.PrevInSection }}<a class="w3-bar-item w3-button reader-nav-button reader-chapter-nav" href="{{ .RelPermalink }}" title="Next Chapter" aria-label="Next Chapter" rel="next"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button reader-chapter-nav" title="No next chapter" aria-label="No next chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></span>{{ end }}
   </div>
   {{ end }}
 </nav>

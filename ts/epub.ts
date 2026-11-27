@@ -77,17 +77,17 @@ class EPub {
 		}
 		for (let chapter of this.contents.chapters) {
 			let html = fetchAsHTML(chapter.href)
-				.then(html => Include(html))
+				.then(html => { Include(html as any); return html as unknown as Document })
 				// override default visibility, as reveal JS doesn't run
-				.then(html => { html.body.style.display = 'block'; return html })
-				.then(html => {
-					let article = html.body.getElementsByTagName('article')[0];
+				.then(doc => { doc.body.style.display = 'block'; return doc })
+				.then(doc => {
+					let article = doc.body.getElementsByTagName('article')[0];
 					// console.log(article);
 					prependElement(document, article, 'h1', chapter.title);
-					return html;
+					return doc;
 				})
 				// strip absolute path for CSS, however paths inside CSS to fonts are already relative
-				.then(html => html.documentElement.outerHTML.replaceAll('/css/', 'css/').replaceAll('/js/', 'js/'))
+				.then(doc => doc.documentElement.outerHTML.replace(/\/css\//g, 'css/').replace(/\/js\//g, 'js/'))
 				// create an XHTML file, which is what EPUB3 requires
 				.then(text => { let doc = new DOMParser().parseFromString(text, 'text/html'); return new XMLSerializer().serializeToString(doc); })
 			this.zip.file(`EPUB/${chapter.href}`, html);
