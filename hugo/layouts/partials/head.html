@@ -46,6 +46,22 @@
   <meta property="og:url" content="{{ $url }}">
   <meta property="og:type" content="{{ if or $chapter $book }}book{{ else }}website{{ end }}">
   <meta property="og:locale" content="en_GB">
+  {{/* Share card from tools/og-cards: the book's for a book or chapter, the
+       author's for an author, else the site's. Falls back to the site card
+       until the tool has been run for a new author or book. */}}
+  {{ $ogImage := "images/og/site.png" }}
+  {{ $ogCard := "" }}
+  {{ if $book }}{{ $ogCard = printf "images/og/%s/%s.png" (index $parts 1) (index $parts 2) }}
+  {{ else if $author }}{{ $ogCard = printf "images/og/%s.png" (index $parts 1) }}{{ end }}
+  {{ if and $ogCard (fileExists (printf "static/%s" $ogCard)) }}{{ $ogImage = $ogCard }}{{ end }}
+  <meta property="og:image" content="{{ $ogImage | absURL }}">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  {{ $ogAlt := printf "literature.org - %s" site.Params.description }}
+  {{ if $book }}{{ $ogAlt = printf "%s - literature.org" $byline }}{{ else if $author }}{{ $ogAlt = printf "%s - literature.org" $authorName }}{{ end }}
+  <meta property="og:image:alt" content="{{ $ogAlt }}">
+  <meta name="twitter:card" content="summary_large_image">
   {{/* schema.org: a chapter is part of a book, a book has an author */}}
   {{ $person := dict }}
   {{ with $author }}{{ $person = dict "@type" "Person" "name" .Title "url" .Permalink }}{{ end }}

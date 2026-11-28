@@ -3,8 +3,7 @@
 // files, under a `params:` block.
 //
 // The chapter, book and author lists are not copied: Hugo builds them from
-// the page tree, and layouts/_default/list.contents.json regenerates the
-// contents.json files from the front matter and that tree.
+// the page tree. The site no longer publishes contents.json files.
 //
 // Every key is accounted for: a key the tool does not know, or a value that
 // disagrees with what the front matter already holds, stops the run before

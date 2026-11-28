@@ -23,7 +23,7 @@ function samePage(a, b) {
     return a.pathname === b.pathname && a.search === b.search;
 }
 // Pages of this site, which all share the same layout: directories and
-// chapters, not files such as contents.json or the legacy /templates.
+// chapters, not other files such as images.
 // Chapters are linked without .html (Cloudflare Pages serves chapter-01.html
 // at /…/chapter-01), or with it under hugo server: a last part with no
 // extension, or .html.

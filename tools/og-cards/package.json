@@ -1,0 +1,12 @@
+{
+  "name": "og-cards",
+  "private": true,
+  "description": "Generates the social media share cards in hugo/static/images/og/",
+  "scripts": {
+    "build": "bun og-cards.ts"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "2.6.2",
+    "wawoff2": "2.0.1"
+  }
+}
