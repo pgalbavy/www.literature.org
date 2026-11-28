@@ -10,6 +10,6 @@ params:
     - "//p"
     - "http://www.gutenberg.org/cache/epub/27355/pg27355.txt"
   links:
-    goodreads: "https://www.goodreads.com/work/editions/6797067"
+    goodreads: "https://www.goodreads.com/book/show/10567448"
     gutenberg: "http://www.gutenberg.org/ebooks/27355"
 ---
