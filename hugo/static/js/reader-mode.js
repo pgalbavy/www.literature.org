@@ -1,7 +1,8 @@
-// reader-mode.ts — page mode for chapter pages. Compiled output:
-// hugo/static/js/reader-mode.js
+// reader-mode.ts — page mode for chapter pages, and full screen on every
+// page. Compiled output: hugo/static/js/reader-mode.js
 //
-// In page mode the chapter article becomes a fixed box below the toolbar and
+// Pages can be loaded in place (page-loader.ts): activatePage() sets up
+// whatever page the document now shows. In page mode the chapter article becomes a fixed box below the toolbar and
 // CSS columns flow the text into page-width columns (two per screen in book
 // mode). Turning a page moves the box sideways by one screen, so pages always
 // break between lines. Settings come from reader-settings.js, which must be
@@ -11,8 +12,8 @@
 const READER_SETTINGS_EVENT = "reader-settings-changed";
 const READER_PAGE_EVENT = "reader-page-changed";
 const OPEN_AT_END_KEY = "literature.org.openAtEnd";
-const FULLSCREEN_KEY = "literature.org.fullscreen"; // per tab, carried to the next chapter
-const MARGIN_ZONE = 0.1; // fraction of the text width that turns the page on double-click
+const FULLSCREEN_KEY = "literature.org.fullscreen"; // per tab, for a reload on a phone
+const MARGIN_ZONE = 0.1; // fraction of the text width that turns the page on a click or tap
 const MARGIN_ZONE_MAX = 80; // px, so the zones stay narrow on wide screens
 const PAGE_EDGE_MARGIN = 2; // rem between the text and the faint page edges
 const PAGE_TURN_MS = 180; // page-turn slide-and-fade duration
@@ -58,7 +59,33 @@ function pageStride(article) {
         : article.clientWidth;
     return Math.max(1, width + columnGap(article));
 }
+// With two columns per screen, a chapter ending in an odd column leaves the
+// last screen half empty. The browser will not scroll past the content, so
+// the last page turn would stop a column short and move the right page to
+// the left. A blank full-height block fills the empty column so every
+// screen is a whole number of columns. It is unbreakable (inline-block), so
+// it always starts a new column rather than sharing the last one.
+function fillLastSpread(article) {
+    let spacer = article.querySelector(":scope > .reader-page-spacer");
+    if (spacer)
+        spacer.style.display = "none"; // measure the text alone
+    const columns = parseInt(getComputedStyle(article).columnCount, 10) || 1;
+    if (!pagedActive || columns < 2)
+        return;
+    const columnStride = pageStride(article) / columns;
+    const used = Math.round((article.scrollWidth + columnGap(article)) / columnStride);
+    if (used % columns === 0)
+        return;
+    if (!spacer) {
+        spacer = document.createElement("div");
+        spacer.className = "reader-page-spacer";
+        spacer.setAttribute("aria-hidden", "true");
+        article.appendChild(spacer);
+    }
+    spacer.style.display = "";
+}
 function measurePages(article) {
+    fillLastSpread(article);
     const stride = pageStride(article);
     pageCount = Math.max(1, Math.ceil((article.scrollWidth + columnGap(article)) / stride - 0.05));
     currentPage = Math.min(currentPage, pageCount - 1);
@@ -121,10 +148,53 @@ function updateProgressBar() {
     if (!bar)
         return;
     bar.hidden = !pagedActive;
-    if (!pagedActive)
+    const article = pagedArticle();
+    if (!pagedActive || !article)
         return;
-    const percent = Math.round(((currentPage + 1) / pageCount) * 100);
-    bar.textContent = `Page ${currentPage + 1} of ${pageCount} · ${percent}%`;
+    const columns = parseInt(getComputedStyle(article).columnCount, 10) || 1;
+    if (columns < 2) {
+        delete bar.dataset.spread;
+        bar.style.paddingLeft = bar.style.paddingRight = "";
+        bar.removeAttribute("aria-label");
+        const percent = Math.round(((currentPage + 1) / pageCount) * 100);
+        bar.textContent = `Page ${currentPage + 1} of ${pageCount} · ${percent}%`;
+        return;
+    }
+    showSpreadProgress(bar, article, columns);
+}
+// Two pages side by side: each page's number under its outer edge and the
+// percentage between them. A screen is one page turn but two pages, so
+// pages are counted one by one; the blank page after a chapter that ends on
+// the left (fillLastSpread) has no number.
+function showSpreadProgress(bar, article, columns) {
+    const spacer = article.querySelector(":scope > .reader-page-spacer");
+    const blank = spacer && spacer.style.display !== "none" ? 1 : 0;
+    const total = Math.max(1, pageCount * columns - blank);
+    const first = currentPage * columns + 1;
+    const last = Math.min(first + columns - 1, total);
+    const percent = Math.round((last / total) * 100);
+    const cell = (text) => {
+        const span = document.createElement("span");
+        span.textContent = text;
+        return span;
+    };
+    bar.dataset.spread = "true";
+    bar.replaceChildren(cell(String(first)), cell(`${percent}%`), cell(last > first ? String(last) : ""));
+    bar.setAttribute("aria-label", last > first
+        ? `Pages ${first} and ${last} of ${total}, ${percent}%`
+        : `Page ${first} of ${total}, ${percent}%`);
+    // Line the numbers up with the text above, clear of the faint full screen
+    // Settings button in the bottom left corner
+    const barBox = bar.getBoundingClientRect();
+    const textBox = article.getBoundingClientRect();
+    let left = Math.max(0, textBox.left - barBox.left);
+    const right = Math.max(0, barBox.right - textBox.right);
+    const settings = document.querySelector(".reader-fullscreen-settings");
+    if (settings && getComputedStyle(settings).display !== "none") {
+        left = Math.max(left, settings.getBoundingClientRect().right - barBox.left + 8);
+    }
+    bar.style.paddingLeft = `${left}px`;
+    bar.style.paddingRight = `${right}px`;
 }
 // ── Toolbar arrows ─────────────────────────────────────────────────────
 // The template renders them as chapter links (or disabled spans when there
@@ -175,11 +245,13 @@ function updateNavButtons() {
     setNavButton(back, atStart ? (chapterLink("prev") ? "Previous chapter" : "No previous chapter") : "Previous page", !atStart || chapterLink("prev") !== null);
     setNavButton(forward, atEnd ? (chapterLink("next") ? "Next chapter" : "No next chapter") : "Next page", !atEnd || chapterLink("next") !== null);
 }
+// Called again for the new arrows after a page loads in place
 function initializeNavButtons() {
     const { back, forward } = navButtons();
     const wire = (button, turn) => {
-        if (!button)
+        if (!button || button.dataset.navWired)
             return;
+        button.dataset.navWired = "true";
         button.addEventListener("click", (event) => {
             if (!pagedActive)
                 return; // scroll mode: the plain chapter link
@@ -265,8 +337,10 @@ function fragmentTarget() {
 // the page that holds the text they were reading.
 function relayout() {
     const article = pagedArticle();
-    if (!article)
+    if (!article) {
+        updateToolbarHeight();
         return;
+    }
     if (!pagedActive) {
         // Scroll mode: only the page edges follow layout changes
         updatePageFrame();
@@ -281,24 +355,24 @@ function relayout() {
         showPage(Math.round(pageFraction * (pageCount - 1)), false);
     }
 }
-// initial: first layout of this page load, so honour the URL fragment and a
-// "continue from the end" request from the following chapter. Otherwise keep
-// the paragraph the reader was looking at in scroll mode.
-function enterPaged(initial) {
+// fresh: a chapter just loaded, so honour the URL fragment and a "continue
+// from the end" request from the following chapter (openAtEnd when loaded in
+// place, sessionStorage after a normal load). Otherwise keep the paragraph
+// the reader was looking at in scroll mode.
+function enterPaged(fresh, openAtEnd = false) {
     const article = pagedArticle();
     if (!article)
         return;
-    const anchor = initial ? undefined : window.literatureReader?.visibleParagraph();
+    const anchor = fresh ? undefined : window.literatureReader?.visibleParagraph();
     pagedActive = true;
     window.scrollTo(0, 0);
     updateToolbarHeight();
     document.documentElement.dataset.readerPaged = "true";
     measurePages(article);
     let startPage = 0;
-    if (initial) {
-        let openAtEnd = false;
+    if (fresh) {
         try {
-            openAtEnd = sessionStorage.getItem(OPEN_AT_END_KEY) === window.location.pathname;
+            openAtEnd || (openAtEnd = sessionStorage.getItem(OPEN_AT_END_KEY) === window.location.pathname);
             sessionStorage.removeItem(OPEN_AT_END_KEY);
         }
         catch (_) { /* noop */ }
@@ -318,17 +392,20 @@ function leavePaged() {
     const anchor = pageAnchor?.element;
     pagedActive = false;
     document.documentElement.dataset.readerPaged = "false";
-    if (article)
+    if (article) {
+        fillLastSpread(article); // removes the spacer outside page mode
         article.scrollLeft = 0;
+    }
     updateProgressBar();
     anchor?.scrollIntoView({ block: "start" });
 }
-function applyMode(initial = false) {
+// After a Settings change: switch mode, keeping the reader's place
+function applyMode() {
     if (wantsPaged()) {
         if (pagedActive)
             relayout();
         else
-            enterPaged(initial);
+            enterPaged(false);
     }
     else if (pagedActive) {
         leavePaged();
@@ -351,7 +428,7 @@ function nextPage() {
     }
     const next = chapterLink("next");
     if (next)
-        window.location.assign(next.href);
+        goToChapter(next.href);
 }
 function prevPage() {
     if (!pagedActive)
@@ -361,13 +438,22 @@ function prevPage() {
         return;
     }
     const previous = chapterLink("prev");
-    if (!previous)
+    if (previous)
+        goToChapter(previous.href, true);
+}
+// Through page-loader.ts, which keeps full screen; a normal load without it
+function goToChapter(href, openAtEnd = false) {
+    if (window.literatureNavigate) {
+        window.literatureNavigate(href, { openAtEnd });
         return;
-    try {
-        sessionStorage.setItem(OPEN_AT_END_KEY, new URL(previous.href, window.location.href).pathname);
     }
-    catch (_) { /* noop */ }
-    window.location.assign(previous.href);
+    if (openAtEnd) {
+        try {
+            sessionStorage.setItem(OPEN_AT_END_KEY, new URL(href, window.location.href).pathname);
+        }
+        catch (_) { /* noop */ }
+    }
+    window.location.assign(href);
 }
 function isInteractive(target) {
     return target instanceof Element &&
@@ -500,14 +586,30 @@ function initializeInput(article) {
             prevPage();
     }, { passive: true });
     article.addEventListener("touchcancel", () => { swipe = undefined; }, { passive: true });
-    // Double-click in the margins: the blank space either side of the text
+    // A short click in the margins: the blank space either side of the text
     // plus a narrow strip at each edge of the text. The cursor shows the zone.
-    // A double-click (not a single click) so clicking and dragging to select
-    // text never turns the page; the word a double-click selects is cleared.
+    // Only a quick press that does not move counts, so a long press or a drag
+    // still selects text there, and a click that ends with text selected
+    // (a double-click on a word, say) is left alone.
     let lastTouchTurn = 0;
-    document.addEventListener("dblclick", (event) => {
+    let clickStart;
+    document.addEventListener("mousedown", (event) => {
+        clickStart = event.button === 0
+            ? { x: event.clientX, y: event.clientY, time: Date.now() }
+            : undefined;
+    }, { passive: true });
+    document.addEventListener("click", (event) => {
+        const start = clickStart;
+        clickStart = undefined;
         // A tap already turned the page; ignore any copy the browser makes of it
-        if (Date.now() - lastTouchTurn < TOUCH_GUARD_MS)
+        if (!start || Date.now() - lastTouchTurn < TOUCH_GUARD_MS)
+            return;
+        if (event.button !== 0 || event.shiftKey || event.ctrlKey || event.metaKey || event.altKey)
+            return;
+        if (Date.now() - start.time > TAP_MAX_TIME ||
+            Math.hypot(event.clientX - start.x, event.clientY - start.y) > TAP_MAX_MOVE)
+            return;
+        if (!(window.getSelection()?.isCollapsed ?? true))
             return;
         const zone = turnZoneAt(event.clientX, event.clientY, event.target);
         if (!zone)
@@ -539,7 +641,7 @@ function initializeInput(article) {
         const zone = turnZoneAt(touch.clientX, touch.clientY, event.target);
         if (!zone)
             return;
-        event.preventDefault(); // no synthetic click or dblclick after the tap
+        event.preventDefault(); // no synthetic mouse click after the tap
         lastTouchTurn = now;
         turnPage(zone);
     }, { passive: false });
@@ -570,16 +672,23 @@ function initializeInput(article) {
     });
 }
 // ── Full screen ────────────────────────────────────────────────────────
-// Full screen hides the drawer and toolbar, leaving only the progress bar,
-// faint full screen / back / forward buttons top right and a faint Settings
-// button bottom left. It works in page, book and scroll mode. Where the
-// browser has a Fullscreen API it is used as well; elsewhere (iPhone) the
-// page is still made immersive. data-reader-fullscreen on <html> drives the
-// CSS. A page load always leaves browser full screen, so moving to another
-// chapter remembers it for the tab and asks again on the first tap or key.
+// Full screen hides the drawer and toolbar on every page, leaving faint
+// menu, full screen, back and forward buttons and a faint Settings button
+// (and the progress bar in page mode). It works in page, book and scroll
+// mode. Where the browser has a Fullscreen API it is used as well; elsewhere
+// (iPhone) the page is still made immersive. data-reader-fullscreen on <html>
+// drives the CSS.
+//
+// Links within the site load in place (page-loader.ts), so full screen lasts
+// while the reader moves around. A real page load (reload) always ends
+// browser full screen, so the layout follows it out, except where there is
+// no Fullscreen API and the layout is all there is. The browser's own full
+// screen (F11 when the page does not catch it, or the browser's menu) gives
+// no event: it is noticed from the window filling the screen, and the layout
+// follows it in and out.
 let immersive = false;
 let leavingPage = false;
-let resumeFullscreen;
+let browserFullscreen = false; // the browser's own full screen, not the page's
 function fullscreenElement() {
     return document.fullscreenElement ?? document.webkitFullscreenElement ?? null;
 }
@@ -609,41 +718,32 @@ function exitBrowserFullscreen() {
     }
     catch (_) { /* noop */ }
 }
+// The browser's own full screen: the display-mode media query where the
+// browser reports it, otherwise a desktop window exactly filling the screen
+// (phones are left out: their browsers can fill the screen when the address
+// bar hides).
+function inBrowserFullscreen() {
+    if (fullscreenElement())
+        return false; // the page's own request
+    if (window.matchMedia?.("(display-mode: fullscreen)").matches)
+        return true;
+    if (!window.matchMedia?.("(hover: hover) and (pointer: fine)").matches)
+        return false;
+    return Math.abs(window.innerWidth - screen.width) <= 1 && Math.abs(window.innerHeight - screen.height) <= 1;
+}
+// Called again for the new toolbar after a page loads in place
 function updateFullscreenButton() {
     const button = document.querySelector(".reader-fullscreen-toggle");
     if (!button)
         return;
     const label = immersive ? "Exit full screen" : "Full screen";
-    button.title = `${label} (${immersive ? "Esc" : "F11"})`;
+    // The browser's own full screen can only be left with its own key
+    const key = immersive && !browserFullscreen ? "Esc" : "F11";
+    button.title = `${label} (${key})`;
     button.setAttribute("aria-label", label);
     button.setAttribute("aria-pressed", String(immersive));
-    const icon = button.querySelector(".material-icons");
-    if (icon)
-        icon.textContent = immersive ? "fullscreen_exit" : "fullscreen";
-}
-function disarmResume() {
-    if (!resumeFullscreen)
-        return;
-    for (const type of ["click", "touchend", "keydown"]) {
-        document.removeEventListener(type, resumeFullscreen, true);
-    }
-    resumeFullscreen = undefined;
-}
-// Browsers only allow full screen from a tap, click or key press
-function armResume() {
-    if (resumeFullscreen || !fullscreenSupported())
-        return;
-    resumeFullscreen = (event) => {
-        if (event instanceof KeyboardEvent && (event.key === "Escape" || event.key === "F11"))
-            return;
-        if (event.target instanceof Element && event.target.closest(".reader-fullscreen-toggle"))
-            return;
-        disarmResume();
-        requestBrowserFullscreen();
-    };
-    for (const type of ["click", "touchend", "keydown"]) {
-        document.addEventListener(type, resumeFullscreen, true);
-    }
+    button.querySelector(".icon use")
+        ?.setAttribute("href", `#icon-${immersive ? "fullscreen_exit" : "fullscreen"}`);
 }
 function setImmersive(on) {
     if (on === immersive)
@@ -657,8 +757,6 @@ function setImmersive(on) {
             sessionStorage.removeItem(FULLSCREEN_KEY);
     }
     catch (_) { /* noop */ }
-    if (!on)
-        disarmResume();
     if (on && document.getElementById("sidebar")?.dataset.open === "true")
         window.w3_close?.();
     updateFullscreenButton();
@@ -682,12 +780,26 @@ function toggleFullscreen() {
 function handleFullscreenChange() {
     if (fullscreenElement())
         setImmersive(true);
-    else if (!leavingPage)
+    else if (!leavingPage && !browserFullscreen)
         setImmersive(false); // Esc or the browser's own exit
 }
+// Follow the browser's own full screen in and out
+function checkBrowserFullscreen() {
+    const now = inBrowserFullscreen();
+    if (now === browserFullscreen)
+        return;
+    browserFullscreen = now;
+    if (now)
+        setImmersive(true);
+    else if (!fullscreenElement())
+        setImmersive(false);
+    updateFullscreenButton();
+}
 function initializeFullscreen() {
-    const toggle = document.querySelector(".reader-fullscreen-toggle");
-    toggle?.addEventListener("click", (event) => {
+    // On the document: the toolbar is replaced when a page loads in place
+    document.addEventListener("click", (event) => {
+        if (!(event.target instanceof Element) || !event.target.closest(".reader-fullscreen-toggle"))
+            return;
         event.preventDefault();
         toggleFullscreen();
     });
@@ -697,19 +809,21 @@ function initializeFullscreen() {
     settings.className = "reader-fullscreen-settings";
     settings.title = "Reading Settings";
     settings.setAttribute("aria-label", "Reading Settings");
-    settings.innerHTML = '<i class="material-icons md-lit" aria-hidden="true">settings</i>';
+    settings.innerHTML = iconMarkup("settings", "md-lit");
     settings.addEventListener("click", () => window.literatureReader?.openSettings());
     document.body.appendChild(settings);
     document.addEventListener("fullscreenchange", handleFullscreenChange);
     document.addEventListener("webkitfullscreenchange", handleFullscreenChange);
     window.addEventListener("pagehide", () => { leavingPage = true; });
     window.addEventListener("pageshow", () => { leavingPage = false; });
+    window.matchMedia?.("(display-mode: fullscreen)").addEventListener?.("change", checkBrowserFullscreen);
+    window.addEventListener("resize", checkBrowserFullscreen);
     document.addEventListener("keydown", (event) => {
         if (event.defaultPrevented || event.altKey || event.ctrlKey || event.metaKey)
             return;
         if (event.key === "F11" && !event.shiftKey && fullscreenSupported()) {
-            // Already in the browser's own full screen (from its menu): let F11 leave it
-            if (!fullscreenElement() && window.matchMedia?.("(display-mode: fullscreen)").matches)
+            // In the browser's own full screen, F11 is the browser's way out
+            if (browserFullscreen || (!fullscreenElement() && inBrowserFullscreen()))
                 return;
             event.preventDefault();
             toggleFullscreen();
@@ -720,34 +834,89 @@ function initializeFullscreen() {
             exitFullscreen();
         }
     });
-    let resume = false;
+    let remembered = false;
     try {
-        resume = sessionStorage.getItem(FULLSCREEN_KEY) === "true";
+        remembered = sessionStorage.getItem(FULLSCREEN_KEY) === "true";
     }
     catch (_) { /* noop */ }
-    if (resume) {
+    if (remembered && !fullscreenSupported())
         setImmersive(true);
-        armResume();
+    else if (remembered) {
+        try {
+            sessionStorage.removeItem(FULLSCREEN_KEY);
+        }
+        catch (_) { /* noop */ }
     }
+    checkBrowserFullscreen();
     updateFullscreenButton();
 }
-// ── Public API ─────────────────────────────────────────────────────────
-function initializeReaderMode() {
+// ── Pages ──────────────────────────────────────────────────────────────
+function watchImages(article) {
+    article.querySelectorAll("img").forEach((image) => {
+        if (!image.complete)
+            image.addEventListener("load", relayout, { once: true });
+    });
+}
+// Sets up whatever page the document shows: on the first load, and after
+// page-loader.ts has swapped in another page. Chapters get page or scroll
+// mode; other pages leave page mode.
+function activatePage(initial, openAtEnd = false) {
+    updateToolbarHeight();
+    updateFullscreenButton();
     const article = pagedArticle();
-    if (!article || article.dataset.readerModeInitialized === "true")
+    if (!article) {
+        pagedActive = false;
+        const root = document.documentElement.dataset;
+        root.readerPaged = "false";
+        root.readerTurnZone = "none";
+        const page = document.querySelector("body > article");
+        if (page)
+            page.scrollLeft = 0; // it was the paged text box
+        updateProgressBar();
         return;
-    article.dataset.readerModeInitialized = "true";
+    }
     window.literatureReader?.ensureParagraphIds();
-    initializeInput(article);
     initializeNavButtons();
+    watchImages(article);
+    pageAnchor = undefined;
+    pageFraction = 0;
+    currentPage = 0;
+    if (wantsPaged()) {
+        pagedActive = false; // a new chapter: lay it out from the start
+        enterPaged(true, openAtEnd);
+        // The same slide as a page turn, in the direction of travel
+        if (!initial)
+            animatePageTurn(article, openAtEnd ? -1 : 1);
+    }
+    else {
+        pagedActive = false;
+        document.documentElement.dataset.readerPaged = "false";
+        updateProgressBar();
+    }
+}
+// ── Public API ─────────────────────────────────────────────────────────
+let readerModeInitialized = false;
+function initializeReaderMode() {
+    if (readerModeInitialized)
+        return;
+    readerModeInitialized = true;
+    // Every page has one <article>; it is kept when pages load in place, so
+    // its listeners are set up once and check what the page holds
+    const article = document.querySelector("body > article");
+    if (article)
+        initializeInput(article);
     initializeFullscreen();
     window.addEventListener(READER_SETTINGS_EVENT, (event) => {
         const { changed } = event.detail;
         if (changed.some((key) => key !== "theme" && key !== "resumeLastLocation"))
             applyMode();
     });
+    window.addEventListener(PAGE_LOADED_EVENT, (event) => {
+        const detail = event.detail;
+        activatePage(false, detail?.openAtEnd ?? false);
+    });
     // The page box changes size with the window, the drawer and the toolbar
-    if (typeof ResizeObserver === "function") {
+    if (article && typeof ResizeObserver === "function") {
         let pending = false;
         new ResizeObserver(() => {
             if (pending)
@@ -766,11 +935,7 @@ function initializeReaderMode() {
     new MutationObserver(() => window.requestAnimationFrame(updatePageFrame))
         .observe(document.documentElement, { attributes: true, attributeFilter: ["data-reader-navigation-open"] });
     document.fonts?.ready.then(relayout);
-    article.querySelectorAll("img").forEach((image) => {
-        if (!image.complete)
-            image.addEventListener("load", relayout, { once: true });
-    });
-    applyMode(true);
+    activatePage(true);
 }
 window.w3_nextPage = nextPage;
 window.w3_prevPage = prevPage;

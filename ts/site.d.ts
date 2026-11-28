@@ -5,7 +5,7 @@ interface Navigator {
 // Reader Settings, owned by reader-settings.ts and shared with reader-mode.ts
 interface ReaderSettings {
   width: "narrow" | "normal" | "wide";
-  font: "open-sans" | "karla" | "georgia" | "times" | "arial" | "verdana" | "opendyslexic";
+  font: "open-sans" | "karla" | "literata" | "georgia" | "times" | "arial" | "verdana" | "opendyslexic";
   size: number;
   theme: "light" | "dark" | "system";
   resumeLastLocation: boolean;
@@ -34,6 +34,9 @@ interface Window {
   w3_nextPage?: () => void;
   w3_prevPage?: () => void;
   initializeReaderMode?: () => void;
+  // Load a page of this site in place (page-loader.ts), so full screen
+  // survives; falls back to a normal page load
+  literatureNavigate?: (href: string, options?: { openAtEnd?: boolean }) => void;
   __literatureHomeClick?: () => void;
   initializeReaderSettings?: (drawer: HTMLElement | null) => void;
   literatureReader?: LiteratureReader;

@@ -1,0 +1,13 @@
+{{/* Info dialog: the chapter's place in its book */}}
+{{ $chapter := .Chapter }}
+{{ $chapters := .Book.RegularPages.ByWeight }}
+{{ $position := 0 }}
+{{ range $i, $c := $chapters }}{{ if eq $c.RelPermalink $chapter.RelPermalink }}{{ $position = add $i 1 }}{{ break }}{{ end }}{{ end }}
+<section class="reader-info-section">
+  <h3>{{ $chapter.Title }}</h3>
+  {{ if and $position (gt (len $chapters) 1) }}
+  <dl class="reader-info-list">
+    <dt>Chapter</dt><dd>{{ $position }} of {{ len $chapters }}</dd>
+  </dl>
+  {{ end }}
+</section>

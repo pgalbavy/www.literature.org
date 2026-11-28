@@ -1,0 +1,15 @@
+{{/* Info dialog for pages outside the author tree: the collection as a
+     whole. Called with partialCached, so it is counted once per build. */}}
+{{ $authors := slice }}
+{{ with site.GetPage "/authors" }}{{ $authors = .Sections }}{{ end }}
+{{ $books := 0 }}
+{{ range $authors }}{{ $books = add $books (len .Sections) }}{{ end }}
+{{ $chapters := len (where site.RegularPages "Section" "authors") }}
+<section class="reader-info-section">
+  <p>Classic works of English literature, free to read online.</p>
+  <dl class="reader-info-list">
+    <dt>Authors</dt><dd>{{ lang.FormatNumber 0 (len $authors) }}</dd>
+    <dt>Books</dt><dd>{{ lang.FormatNumber 0 $books }}</dd>
+    <dt>Chapters</dt><dd>{{ lang.FormatNumber 0 $chapters }}</dd>
+  </dl>
+</section>

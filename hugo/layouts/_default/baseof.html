@@ -2,13 +2,16 @@
 <html lang="en">
 {{ partial "head.html" . }}
 <body>
+  {{ partial "icon-sprite.html" . }}
   {{ partial "header.html" . }}
   {{ block "main" . }}{{ end }}
   <div class="reader-progress-bar" hidden></div>
+  {{ partial "info-dialog.html" . }}
   {{/* One minified script, named by its content hash (see head.html). The
        files share one global scope as before. Order matters: reader-mode.js
-       uses the Settings owned by reader-settings.js. */}}
-  {{ $js := slice (resources.Get "js/hugo-nav.js") (resources.Get "js/reader-settings.js") (resources.Get "js/reader-mode.js")
+       uses the Settings owned by reader-settings.js, and page-loader.js
+       (which loads pages in place) goes last. */}}
+  {{ $js := slice (resources.Get "js/hugo-nav.js") (resources.Get "js/reader-settings.js") (resources.Get "js/reader-mode.js") (resources.Get "js/page-loader.js")
      | resources.Concat "bundle/site.js" | minify | fingerprint }}
   <script src="{{ $js.RelPermalink }}" defer></script>
 </body>

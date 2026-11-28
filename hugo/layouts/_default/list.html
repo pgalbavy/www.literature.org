@@ -45,7 +45,7 @@
         {{ range $rows }}
         <li{{ if ne .letter $previous }} id="letter-{{ .letter }}"{{ end }}>
           <a class="w3-bar-item litleft w3-button" href="{{ .page.RelPermalink }}">
-            <i class="material-icons md-lit w3-margin-right">person</i>
+            {{ partial "icon.html" (dict "Name" "person" "Class" "md-lit w3-margin-right") }}
             {{ .page.Title }}
           </a>
         </li>
@@ -58,7 +58,7 @@
         {{ range .Pages.ByWeight }}
         <li>
           <a class="w3-bar-item litleft w3-button" href="{{ .RelPermalink }}">
-            {{ if eq .Kind "section" }}<i class="material-icons md-lit w3-margin-right">{{ if eq .Section "authors" }}person{{ else }}menu_book{{ end }}</i>{{ end }}
+            {{ if eq .Kind "section" }}{{ partial "icon.html" (dict "Name" (cond (eq .Section "authors") "person" "menu_book") "Class" "md-lit w3-margin-right") }}{{ end }}
             {{ .Title }}
           </a>
         </li>

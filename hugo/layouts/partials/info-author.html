@@ -1,0 +1,20 @@
+{{/* Info dialog: an author's details and links, linked to their page
+     unless that is the current page */}}
+{{ $author := .Author }}
+{{ $isCurrent := eq $author.RelPermalink .Current.RelPermalink }}
+{{ $books := len $author.Sections }}
+<section class="reader-info-section">
+  <h3>{{ if $isCurrent }}{{ $author.Title }}{{ else }}<a href="{{ $author.RelPermalink }}">{{ $author.Title }}</a>{{ end }}</h3>
+  <dl class="reader-info-list">
+    {{ with $author.Params.pen_names }}
+    <dt>Also known as</dt><dd>{{ delimit . ", " }}</dd>
+    {{ end }}
+    {{ if $books }}
+    <dt>On this site</dt><dd>{{ $books }} {{ cond (eq $books 1) "book" "books" }}</dd>
+    {{ end }}
+    {{ with $author.Params.lastupdated }}
+    <dt>Last updated</dt><dd>{{ (time.AsTime .).Format "2 January 2006" }}</dd>
+    {{ end }}
+  </dl>
+  {{ with $author.Params.links }}{{ partial "info-links.html" . }}{{ end }}
+</section>

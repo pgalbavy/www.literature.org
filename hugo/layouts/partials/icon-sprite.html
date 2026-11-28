@@ -1,0 +1,11 @@
+{{/* Every icon on the site as one hidden SVG sprite, drawn once per page and
+     referenced by partials/icon.html and iconMarkup() in reader-settings.ts.
+     The paths in data/icons.json are the Material Icons (Apache 2.0) glyphs,
+     taken from static/icons/MaterialIcons-Regular.ttf on a 24-unit grid; the
+     site_* logos are from Simple Icons (CC0, simple-icons 13.21.0). To add an
+     icon, add its name and path there. */}}
+<svg xmlns="http://www.w3.org/2000/svg" class="icon-sprite" aria-hidden="true" focusable="false">
+  {{- range $name, $path := site.Data.icons }}
+  <symbol id="icon-{{ $name }}" viewBox="0 0 24 24"><path d="{{ $path }}"/></symbol>
+  {{- end }}
+</svg>

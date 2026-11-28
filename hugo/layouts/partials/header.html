@@ -1,16 +1,16 @@
 <nav>
   <aside id="sidebar" class="reader-drawer" data-open="false" aria-hidden="true" aria-label="Site navigation" inert>
     <nav id="sidebar-links" class="w3-bar-block w3-large" aria-label="Site navigation">
-      <a class="w3-bar-item w3-button" href="/" aria-label="literature.org" title="literature.org" onclick="if(typeof window!=='undefined'&&window.__literatureHomeClick)window.__literatureHomeClick();"><i class="material-icons md-lit" aria-hidden="true">home</i><span class="reader-drawer-label">literature.org</span></a>
-      <a class="w3-bar-item w3-button" href="/authors/" aria-label="Authors" title="Authors"><i class="material-icons md-lit" aria-hidden="true">people</i><span class="reader-drawer-label">Authors</span></a>
+      <a class="w3-bar-item w3-button" href="/" aria-label="literature.org" title="literature.org" onclick="if(typeof window!=='undefined'&&window.__literatureHomeClick)window.__literatureHomeClick();">{{ partial "icon.html" (dict "Name" "home" "Class" "md-lit") }}<span class="reader-drawer-label">literature.org</span></a>
+      <a class="w3-bar-item w3-button" href="/authors/" aria-label="Authors" title="Authors">{{ partial "icon.html" (dict "Name" "people" "Class" "md-lit") }}<span class="reader-drawer-label">Authors</span></a>
       {{ $parts := split (trim .RelPermalink "/") "/" }}
       {{ if and (eq .Section "authors") (ge (len $parts) 2) }}
         {{ $authorPage := .Site.GetPage (printf "/authors/%s" (index $parts 1)) }}
         {{ if $authorPage }}
           {{ if eq (len $parts) 2 }}
-      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ $authorPage.Title }}" title="{{ $authorPage.Title }}" aria-current="page"><i class="material-icons md-lit" aria-hidden="true">person</i><span class="reader-drawer-label">{{ $authorPage.Title }}</span></span>
+      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ $authorPage.Title }}" title="{{ $authorPage.Title }}" aria-current="page">{{ partial "icon.html" (dict "Name" "person" "Class" "md-lit") }}<span class="reader-drawer-label">{{ $authorPage.Title }}</span></span>
           {{ else }}
-      <a class="w3-bar-item w3-button litleft reader-drawer-crumb" href="{{ $authorPage.RelPermalink }}" aria-label="{{ $authorPage.Title }}" title="{{ $authorPage.Title }}"><i class="material-icons md-lit" aria-hidden="true">person</i><span class="reader-drawer-label">{{ $authorPage.Title }}</span></a>
+      <a class="w3-bar-item w3-button litleft reader-drawer-crumb" href="{{ $authorPage.RelPermalink }}" aria-label="{{ $authorPage.Title }}" title="{{ $authorPage.Title }}">{{ partial "icon.html" (dict "Name" "person" "Class" "md-lit") }}<span class="reader-drawer-label">{{ $authorPage.Title }}</span></a>
           {{ end }}
         {{ end }}
       {{ end }}
@@ -18,17 +18,18 @@
         {{ $bookPage := .Site.GetPage (printf "/authors/%s/%s" (index $parts 1) (index $parts 2)) }}
         {{ if $bookPage }}
           {{ if eq (len $parts) 3 }}
-      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ $bookPage.Title }}" title="{{ $bookPage.Title }}" aria-current="page"><i class="material-icons md-lit" aria-hidden="true">menu_book</i><span class="reader-drawer-label">{{ $bookPage.Title }}</span></span>
+      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ $bookPage.Title }}" title="{{ $bookPage.Title }}" aria-current="page">{{ partial "icon.html" (dict "Name" "menu_book" "Class" "md-lit") }}<span class="reader-drawer-label">{{ $bookPage.Title }}</span></span>
           {{ else }}
-      <a class="w3-bar-item w3-button litleft reader-drawer-crumb" href="{{ $bookPage.RelPermalink }}" aria-label="{{ $bookPage.Title }}" title="{{ $bookPage.Title }}"><i class="material-icons md-lit" aria-hidden="true">menu_book</i><span class="reader-drawer-label">{{ $bookPage.Title }}</span></a>
+      <a class="w3-bar-item w3-button litleft reader-drawer-crumb" href="{{ $bookPage.RelPermalink }}" aria-label="{{ $bookPage.Title }}" title="{{ $bookPage.Title }}">{{ partial "icon.html" (dict "Name" "menu_book" "Class" "md-lit") }}<span class="reader-drawer-label">{{ $bookPage.Title }}</span></a>
           {{ end }}
         {{ end }}
       {{ end }}
       {{ if and (eq .Section "authors") (ge (len $parts) 4) }}
-      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ .Title }}" title="{{ .Title }}" aria-current="page"><i class="material-icons md-lit" aria-hidden="true">library_books</i><span class="reader-drawer-label">{{ .Title }}</span></span>
+      <span class="w3-bar-item litleft reader-drawer-crumb" aria-label="{{ .Title }}" title="{{ .Title }}" aria-current="page">{{ partial "icon.html" (dict "Name" "format_list_numbered" "Class" "md-lit") }}<span class="reader-drawer-label">{{ .Title }}</span></span>
       {{ end }}
+      <button class="w3-bar-item w3-button reader-info-toggle" type="button" title="Information" aria-label="Information" aria-haspopup="dialog" aria-controls="reader-info">{{ partial "icon.html" (dict "Name" "info_outline" "Class" "md-lit") }}<span class="reader-drawer-label">Information</span></button>
       {{/* Bottom of the drawer: Contact, then the Reading Settings button that reader-settings.js appends */}}
-      <a class="w3-bar-item w3-button reader-drawer-contact" href="/contact/" aria-label="Contact literature.org" title="Contact literature.org"{{ if eq .RelPermalink "/contact/" }} aria-current="page"{{ end }}><i class="material-icons md-lit" aria-hidden="true">mail</i><span class="reader-drawer-label">Contact</span></a>
+      <a class="w3-bar-item w3-button reader-drawer-contact" href="/contact/" aria-label="Contact literature.org" title="Contact literature.org"{{ if eq .RelPermalink "/contact/" }} aria-current="page"{{ end }}>{{ partial "icon.html" (dict "Name" "mail" "Class" "md-lit") }}<span class="reader-drawer-label">Contact</span></a>
     </nav>
   </aside>
 </nav>

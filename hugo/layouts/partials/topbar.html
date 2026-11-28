@@ -1,11 +1,14 @@
 <nav class="w3-bar reader-toolbar" style="font-size:24px; white-space: nowrap">
-  <button class="w3-bar-item w3-button reader-menu-toggle" onclick="w3_toggle()" type="button" title="Open navigation menu" aria-label="Open navigation menu" aria-controls="sidebar" aria-expanded="false"><i class="material-icons md-lit">menu</i></button>
+  <button class="w3-bar-item w3-button reader-menu-toggle" onclick="w3_toggle()" type="button" title="Open navigation menu" aria-label="Open navigation menu" aria-controls="sidebar" aria-expanded="false">{{ partial "icon.html" (dict "Name" "menu" "Class" "md-lit") }}</button>
   {{ partial "breadcrumbs.html" .Page }}
-  {{ if .ShowNavigation }}
   <div class="reader-toolbar-actions">
-    <button class="w3-bar-item w3-button reader-nav-button reader-fullscreen-toggle" type="button" title="Full screen (F11)" aria-label="Full screen" aria-pressed="false"><i class="material-icons md-lit" aria-hidden="true">fullscreen</i></button>
-    {{ with .Page.NextInSection }}<a class="w3-bar-item w3-button reader-nav-button reader-chapter-nav" href="{{ .RelPermalink }}" title="Previous Chapter" aria-label="Previous Chapter" rel="prev"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button reader-chapter-nav" title="No previous chapter" aria-label="No previous chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_back</i></span>{{ end }}
-    {{ with .Page.PrevInSection }}<a class="w3-bar-item w3-button reader-nav-button reader-chapter-nav" href="{{ .RelPermalink }}" title="Next Chapter" aria-label="Next Chapter" rel="next"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button reader-chapter-nav" title="No next chapter" aria-label="No next chapter" aria-disabled="true"><i class="material-icons md-lit" aria-hidden="true">arrow_forward</i></span>{{ end }}
+    {{/* Info sits in the drawer only on narrow screens, to leave the
+         breadcrumbs room (see .reader-info-toggle in literature.css) */}}
+    <button class="w3-bar-item w3-button reader-nav-button reader-info-toggle" type="button" title="Information" aria-label="Information" aria-haspopup="dialog" aria-controls="reader-info">{{ partial "icon.html" (dict "Name" "info_outline" "Class" "md-lit") }}</button>
+    <button class="w3-bar-item w3-button reader-nav-button reader-fullscreen-toggle" type="button" title="Full screen (F11)" aria-label="Full screen" aria-pressed="false">{{ partial "icon.html" (dict "Name" "fullscreen" "Class" "md-lit") }}</button>
+    {{ if .ShowNavigation }}
+    {{ with .Page.NextInSection }}<a class="w3-bar-item w3-button reader-nav-button reader-chapter-nav" href="{{ .RelPermalink }}" title="Previous Chapter" aria-label="Previous Chapter" rel="prev">{{ partial "icon.html" (dict "Name" "arrow_back" "Class" "md-lit") }}</a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button reader-chapter-nav" title="No previous chapter" aria-label="No previous chapter" aria-disabled="true">{{ partial "icon.html" (dict "Name" "arrow_back" "Class" "md-lit") }}</span>{{ end }}
+    {{ with .Page.PrevInSection }}<a class="w3-bar-item w3-button reader-nav-button reader-chapter-nav" href="{{ .RelPermalink }}" title="Next Chapter" aria-label="Next Chapter" rel="next">{{ partial "icon.html" (dict "Name" "arrow_forward" "Class" "md-lit") }}</a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button reader-chapter-nav" title="No next chapter" aria-label="No next chapter" aria-disabled="true">{{ partial "icon.html" (dict "Name" "arrow_forward" "Class" "md-lit") }}</span>{{ end }}
+    {{ end }}
   </div>
-  {{ end }}
 </nav>

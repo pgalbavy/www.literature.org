@@ -5,21 +5,43 @@
   {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
   <script>
     try {
+      // On narrow screens a chapter opens with the drawer closed (hugo-nav.ts)
+      var narrowChapter = window.matchMedia("(max-width: 640px)").matches &&
+        /^\/authors\/[^\/]+\/[^\/]+\/[^\/]+/.test(location.pathname);
       document.documentElement.dataset.readerNavigationOpen =
-        String(sessionStorage.getItem("literatureReaderNavigationOpen") === "true");
+        String(sessionStorage.getItem("literatureReaderNavigationOpen") === "true" && !narrowChapter);
     } catch (error) {
       console.error("Could not read navigation state in this tab.", error);
     }
+    // The reader's font, theme and text size cover the whole page, so set
+    // them before it is drawn; reader-settings.js checks and applies all
+    // Settings later
+    try {
+      var root = document.documentElement;
+      var saved = JSON.parse(localStorage.getItem("literature.org.readerSettings") || "{}") || {};
+      ["font", "theme"].forEach(function (key) {
+        var value = saved[key];
+        if (typeof value === "string" && /^[a-z-]+$/.test(value)) {
+          root.dataset["reader" + key.charAt(0).toUpperCase() + key.slice(1)] = value;
+        }
+      });
+      // 6 to 32, written without "<" (which trips some HTML parsers in tools)
+      if (typeof saved.size === "number" && Math.min(Math.max(saved.size, 6), 32) === saved.size) {
+        root.dataset.readerSize = String(saved.size);
+        root.style.setProperty("--reader-font-size", saved.size + "pt");
+      }
+    } catch (error) { /* reader-settings.js reports unreadable Settings */ }
   </script>
-  {{/* Fonts are otherwise only found after the CSS is parsed; these two are
-       needed on every page. The URLs must match the ones in the CSS. */}}
-  <link rel="preload" href="/icons/MaterialIcons-Regular.woff2" as="font" type="font/woff2" crossorigin>
-  <link rel="preload" href="/fonts/open-sans-v17-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
+  {{/* The font is otherwise only found after the CSS is parsed, and it is
+       needed on every page. The URL must match the one in the CSS. Icons are
+       inline SVG (partials/icon-sprite.html), so need no font. */}}
+  <link rel="preload" href="/fonts/open-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
   {{/* One minified stylesheet, named by its content hash so it can be cached
        for a year (static/_headers); a change gets a new name. It lives in
-       /bundle/, one level down like /css/, so the CSS's ../fonts/ and
-       ../icons/ paths still resolve. Order matters: w3, icons, then ours. */}}
-  {{ $css := slice (resources.Get "css/w3.css") (resources.Get "css/icon.css") (resources.Get "css/literature.css")
+       /bundle/, one level down like /css/, so the CSS's ../fonts/ paths
+       still resolve. Order matters: w3, then ours. (css/icon.css, the
+       icon font, is only for the legacy /templates pages and EPUBs.) */}}
+  {{ $css := slice (resources.Get "css/w3.css") (resources.Get "css/literature.css")
      | resources.Concat "bundle/site.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 </head>

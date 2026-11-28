@@ -33,9 +33,9 @@
             {{ if gt (len $works) 1 }}
             <details class="reader-crumb-menu reader-book-menu reader-crumb--{{ $bookKind }}">
               <summary aria-label="Choose another book by {{ $authorPage.Title }}: {{ $bookPage.Title }}" title="{{ $bookPage.Title }}">
-                <i class="material-icons reader-breadcrumb-icon" aria-hidden="true">menu_book</i>
+                {{ partial "icon.html" (dict "Name" "menu_book" "Class" "reader-breadcrumb-icon") }}
                 <span class="reader-breadcrumb-label">{{ $bookPage.Title }}</span>
-                <i class="material-icons reader-crumb-menu-chevron" aria-hidden="true">expand_more</i>
+                {{ partial "icon.html" (dict "Name" "expand_more" "Class" "reader-crumb-menu-chevron") }}
               </summary>
               <ul class="reader-crumb-menu-list">
                 {{ range $works }}
@@ -55,9 +55,9 @@
                  direct link to it from the book's contents page */}}
             {{ $only := index $chapters 0 }}
             {{ if ge (len $parts) 4 }}
-            {{ partial "breadcrumb-item.html" (dict "Label" $page.Title "Icon" "menu_book" "Kind" "current") }}
+            {{ partial "breadcrumb-item.html" (dict "Label" $page.Title "Icon" "format_list_numbered" "Kind" "current") }}
             {{ else }}
-            {{ partial "breadcrumb-item.html" (dict "Label" $only.Title "Icon" "menu_book" "Kind" "chapter" "Href" $only.RelPermalink) }}
+            {{ partial "breadcrumb-item.html" (dict "Label" $only.Title "Icon" "format_list_numbered" "Kind" "chapter" "Href" $only.RelPermalink) }}
             {{ end }}
             {{ else }}
             {{ with $chapters }}
@@ -65,9 +65,9 @@
             {{ if ge (len $parts) 4 }}{{ $chapterLabel = $page.Title }}{{ end }}
             <details class="reader-crumb-menu reader-chapter-menu{{ if ge (len $parts) 4 }} reader-crumb--current{{ end }}">
               <summary aria-label="Choose a chapter: {{ $chapterLabel }}" title="{{ $chapterLabel }}">
-                <i class="material-icons reader-breadcrumb-icon" aria-hidden="true">menu_book</i>
+                {{ partial "icon.html" (dict "Name" "format_list_numbered" "Class" "reader-breadcrumb-icon") }}
                 <span class="reader-breadcrumb-label">{{ $chapterLabel }}</span>
-                <i class="material-icons reader-crumb-menu-chevron" aria-hidden="true">expand_more</i>
+                {{ partial "icon.html" (dict "Name" "expand_more" "Class" "reader-crumb-menu-chevron") }}
               </summary>
               <ul class="reader-crumb-menu-list">
                 {{ range . }}

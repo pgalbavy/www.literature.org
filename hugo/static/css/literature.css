@@ -1,25 +1,103 @@
-/* open-sans-regular - latin */
+/* Reading fonts, each with real italic, bold and bold italic so emphasis in
+   the text is not faked by slanting or thickening the regular letters.
+   Fontsource 5.3.0 (Latin subset), SIL Open Font License: see the
+   *-OFL.txt files in static/fonts. The older open-sans-v17 and karla-v13
+   files stay for the EPUB export (ts/epub.ts). */
 
 @font-face {
 	font-family: 'Open Sans';
 	font-style: normal;
 	font-weight: 400;
 	font-display: swap;
-	src: local('Open Sans Regular'), local('OpenSans-Regular'), url('../fonts/open-sans-v17-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-	url('../fonts/open-sans-v17-latin-regular.woff') format('woff');
-	/* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+	src: url('../fonts/open-sans-latin-400-normal.woff2') format('woff2');
 }
 
-/* karla-regular - latin */
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../fonts/open-sans-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/open-sans-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Open Sans';
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/open-sans-latin-700-italic.woff2') format('woff2');
+}
 
 @font-face {
 	font-family: 'Karla';
 	font-style: normal;
 	font-weight: 400;
 	font-display: swap;
-	src: local('Karla'), local('Karla-Regular'),
-	url('../fonts/karla-v13-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
-	url('../fonts/karla-v13-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+	src: url('../fonts/karla-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Karla';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../fonts/karla-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Karla';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/karla-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Karla';
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/karla-latin-700-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Literata';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../fonts/literata-latin-400-normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Literata';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../fonts/literata-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Literata';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/literata-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'Literata';
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/literata-latin-700-italic.woff2') format('woff2');
 }
 
 @font-face {
@@ -30,8 +108,54 @@
 	src: url('../fonts/opendyslexic-latin-400-normal.woff2') format('woff2');
 }
 
-.material-icons.md-lit, li, .w3-button {
+@font-face {
+	font-family: 'OpenDyslexic';
+	font-style: italic;
+	font-weight: 400;
+	font-display: swap;
+	src: url('../fonts/opendyslexic-latin-400-italic.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'OpenDyslexic';
+	font-style: normal;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/opendyslexic-latin-700-normal.woff2') format('woff2');
+}
+
+@font-face {
+	font-family: 'OpenDyslexic';
+	font-style: italic;
+	font-weight: 700;
+	font-display: swap;
+	src: url('../fonts/opendyslexic-latin-700-italic.woff2') format('woff2');
+}
+
+/* Icons: inline SVG from the sprite in partials/icon-sprite.html, 1em
+   square so they take their size from font-size like the text beside them */
+.icon {
+	display: inline-block;
+	flex-shrink: 0;
+	width: 1em;
+	height: 1em;
+	font-size: 24px;
+	fill: currentColor;
+}
+
+.icon-sprite {
+	position: absolute;
+	width: 0;
+	height: 0;
+	overflow: hidden;
+}
+
+li, .w3-button {
 	font-size: clamp(20px, 4vw, 28px);
+}
+
+.icon.md-lit {
+	font-size: var(--ui-icon);
 }
 
 article {
@@ -53,10 +177,6 @@ article {
 	overflow-x: hidden;
 	text-align: left;
 	float: none;
-}
-
-html, body {
-	font-family: 'Open Sans', Karla, sans-serif;
 }
 
 body.hide {
@@ -144,36 +264,77 @@ article .w3-bar-item.litleft {
 	max-width: 90ch;
 }
 
-:root[data-reader-font="open-sans"] article.reader-content {
+/* The reader's chosen font, for all text on every page: the book, menus,
+   lists, headings and the Info dialog. Reading Settings keeps the site
+   font, so its controls stay familiar whatever is chosen. */
+:root[data-reader-font="open-sans"] {
+	--reader-font-family: 'Open Sans', Karla, sans-serif;
+}
+
+:root[data-reader-font="literata"] {
+	--reader-font-family: Literata, Georgia, serif;
+}
+
+:root[data-reader-font="karla"] {
+	--reader-font-family: Karla, sans-serif;
+}
+
+:root[data-reader-font="georgia"] {
+	--reader-font-family: Georgia, serif;
+}
+
+:root[data-reader-font="times"] {
+	--reader-font-family: 'Times New Roman', serif;
+}
+
+:root[data-reader-font="arial"] {
+	--reader-font-family: Arial, sans-serif;
+}
+
+:root[data-reader-font="verdana"] {
+	--reader-font-family: Verdana, sans-serif;
+}
+
+:root[data-reader-font="opendyslexic"] {
+	--reader-font-family: 'OpenDyslexic', sans-serif;
+}
+
+html, body,
+h1, h2, h3, h4, h5, h6,
+button, input, select, textarea {
+	font-family: var(--reader-font-family, 'Open Sans', Karla, sans-serif);
+}
+
+.reader-settings-dialog:not(.reader-info-dialog),
+.reader-settings-dialog:not(.reader-info-dialog) :is(h1, h2, h3, h4, h5, h6, button, input, select, textarea) {
 	font-family: 'Open Sans', Karla, sans-serif;
 }
 
-:root[data-reader-font="karla"] article.reader-content {
-	font-family: Karla, sans-serif;
-}
-
-:root[data-reader-font="georgia"] article.reader-content {
-	font-family: Georgia, serif;
-}
-
-:root[data-reader-font="times"] article.reader-content {
-	font-family: 'Times New Roman', serif;
-}
-
-:root[data-reader-font="arial"] article.reader-content {
-	font-family: Arial, sans-serif;
-}
-
-:root[data-reader-font="verdana"] article.reader-content {
-	font-family: Verdana, sans-serif;
-}
-
-:root[data-reader-font="opendyslexic"] article.reader-content {
-	font-family: 'OpenDyslexic', sans-serif;
-}
-
-:root[data-reader-size] article.reader-content {
+/* The reader's text size (Settings, Ctrl+wheel, pinch) sizes the content of
+   every page, not just chapters: headings and list entries on the home,
+   author and book pages are sized from it, so the whole page scales */
+:root[data-reader-size] body > article {
 	font-size: var(--reader-font-size, 16pt);
+}
+
+body > article.reader-content li {
+	font-size: 1em;
+}
+
+body > article:not(.reader-content) li {
+	font-size: 1.1em;
+}
+
+body > article:not(.reader-content) li :is(.w3-button, .w3-bar-item) {
+	font-size: 1em;
+}
+
+body > article:not(.reader-content) h3 {
+	font-size: 1.35em;
+}
+
+body > article:not(.reader-content) .icon.md-lit {
+	font-size: 1.1em;
 }
 
 .reader-settings-dialog {
@@ -227,7 +388,7 @@ article .w3-bar-item.litleft {
 	height: 1rem;
 }
 
-.reader-settings-dialog .material-icons {
+.reader-settings-dialog .icon {
 	font-size: 1.25rem;
 	vertical-align: middle;
 }
@@ -298,7 +459,13 @@ article .w3-bar-item.litleft {
 	--reader-accent: #009688;
 	--reader-accent-hover: #00796b;
 	--reader-drawer-width: min(24rem, 88vw);
-	--reader-drawer-collapsed-width: 4.5rem;
+	/* Toolbar and drawer sizes: icons and menu labels grow a little with the
+	   window, and every button stays at least 44px across for touch */
+	--ui-icon: clamp(22px, 17px + 0.6vw, 28px);
+	--ui-target: max(44px, calc(var(--ui-icon) + 20px));
+	--ui-label: clamp(16px, 13px + 0.35vw, 19px);
+	/* The collapsed drawer: one button wide, plus a little air */
+	--reader-drawer-collapsed-width: calc(var(--ui-target) + 0.5rem);
 	--reader-content-offset: 0px;
 }
 
@@ -358,7 +525,7 @@ html[data-reader-navigation-open="true"] body .reader-toolbar {
 	display: flex;
 	align-items: center;
 	gap: 0;
-	min-height: 40px;
+	min-height: var(--ui-target);
 	overflow: visible;
 	white-space: nowrap;
 	box-shadow: 0 2px 6px rgb(0 0 0 / 12%);
@@ -379,6 +546,68 @@ header.w3-top {
 	padding: 8px;
 }
 
+/* Info dialog (partials/info-dialog.html), styled like Reading Settings */
+.reader-info-section {
+	margin-top: 1rem;
+	padding-top: 0.75rem;
+	border-top: 1px solid rgb(128 128 128 / 40%);
+}
+
+.reader-info-section h3 {
+	margin: 0 0 0.5rem;
+	font-size: 1.15rem;
+	font-weight: 600;
+	overflow-wrap: anywhere;
+}
+
+.reader-info-section p {
+	margin: 0 0 0.75rem;
+}
+
+.reader-info-list {
+	display: grid;
+	grid-template-columns: max-content 1fr;
+	gap: 0.35rem 1rem;
+	margin: 0;
+}
+
+.reader-info-list dt {
+	font-weight: 600;
+}
+
+.reader-info-list dd {
+	margin: 0;
+	overflow-wrap: anywhere;
+}
+
+.reader-info-links {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 0.5rem;
+	margin: 0.75rem 0 0;
+	padding: 0;
+	list-style: none;
+}
+
+.reader-info-links a {
+	display: inline-flex;
+	align-items: center;
+	gap: 0.4rem;
+	padding: 0.35rem 0.65rem;
+	border: 1px solid rgb(128 128 128 / 50%);
+	border-radius: 1rem;
+	text-decoration: none;
+}
+
+.reader-info-links a:hover,
+.reader-info-links a:focus-visible {
+	background: rgb(128 128 128 / 20%);
+}
+
+.reader-info-dialog .reader-info-links .icon {
+	font-size: 1.1rem;
+}
+
 .reader-toolbar-actions {
 	position: relative;
 	z-index: 30;
@@ -393,10 +622,10 @@ header.w3-top {
 	align-items: center;
 	justify-content: center;
 	float: none;
-	flex: 0 0 36px;
-	width: 36px;
-	height: 40px;
-	padding: 8px 4px;
+	flex: 0 0 var(--ui-target);
+	width: var(--ui-target);
+	height: var(--ui-target);
+	padding: 0;
 }
 
 .reader-toolbar-actions > .reader-page-counter {
@@ -407,17 +636,31 @@ header.w3-top {
 	padding: 0 4px !important;
 }
 
+/* Only the menu button is coloured; the buttons on the right are plain
+   icons in the text colour, so they do not draw the eye from the page */
 .reader-toolbar .reader-menu-toggle,
 .reader-toolbar .reader-nav-button {
 	border-radius: 0.25rem;
+}
+
+.reader-toolbar .reader-menu-toggle {
 	background-color: var(--reader-accent) !important;
 	color: #fff !important;
 }
 
-.reader-toolbar .reader-menu-toggle:hover,
-.reader-toolbar .reader-nav-button:not(.w3-disabled):hover {
+.reader-toolbar .reader-menu-toggle:hover {
 	background-color: var(--reader-accent-hover) !important;
 	color: #fff !important;
+}
+
+.reader-toolbar .reader-nav-button {
+	background-color: transparent !important;
+	color: var(--reader-text) !important;
+}
+
+.reader-toolbar .reader-nav-button:not(.w3-disabled):hover {
+	background-color: rgb(128 128 128 / 22%) !important;
+	color: var(--reader-text) !important;
 }
 
 .reader-toolbar .reader-menu-toggle:focus-visible,
@@ -427,7 +670,7 @@ header.w3-top {
 }
 
 .reader-toolbar .reader-nav-button.w3-disabled {
-	opacity: 0.5;
+	opacity: 0.3;
 }
 
 .reader-share-status {
@@ -446,10 +689,10 @@ header.w3-top {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	flex: 0 0 40px;
-	width: 40px;
-	height: 40px;
-	min-height: 40px;
+	flex: 0 0 var(--ui-target);
+	width: var(--ui-target);
+	height: var(--ui-target);
+	min-height: var(--ui-target);
 	box-sizing: border-box;
 	line-height: 1;
 }
@@ -460,15 +703,15 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	top: 0;
 	left: 0;
 	z-index: 40;
-	width: min(4.5rem, var(--reader-drawer-width));
-	height: 40px;
-	min-height: 40px;
+	width: min(var(--reader-drawer-collapsed-width), var(--reader-drawer-width));
+	height: var(--ui-target);
+	min-height: var(--ui-target);
 	padding: 0;
 	box-sizing: border-box;
 }
 
-.reader-menu-toggle .material-icons.md-lit {
-	font-size: 24px;
+.reader-menu-toggle .icon.md-lit {
+	font-size: var(--ui-icon);
 }
 
 .reader-breadcrumbs {
@@ -476,7 +719,7 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	align-items: center;
 	flex: 1 1 auto;
 	gap: 0;
-	height: 40px;
+	height: var(--ui-target);
 	min-width: 0;
 	overflow: visible;
 	font-size: clamp(16px, 2.4vw, 20px);
@@ -491,8 +734,8 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	gap: 0.4rem;
 	flex: 0 1 auto;
 	/* never narrower than its icon, so neighbouring icons cannot overlap */
-	min-width: calc(24px + 0.8rem);
-	height: 40px;
+	min-width: calc(var(--ui-icon) + 0.8rem);
+	height: var(--ui-target);
 	padding: 0 0.4rem;
 	box-sizing: border-box;
 	text-decoration: none;
@@ -502,10 +745,10 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	display: inline-flex;
 	align-items: center;
 	justify-content: center;
-	flex: 0 0 24px;
-	width: 24px;
-	height: 24px;
-	font-size: 24px;
+	flex: 0 0 var(--ui-icon);
+	width: var(--ui-icon);
+	height: var(--ui-icon);
+	font-size: var(--ui-icon);
 	line-height: 1;
 }
 
@@ -558,7 +801,7 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	align-items: center;
 	flex: 0 1 auto;
 	/* icon + drop-down arrow + padding and gap */
-	min-width: calc(48px + 1.2rem);
+	min-width: calc(2 * var(--ui-icon) + 1.2rem);
 }
 
 .reader-crumb-menu summary {
@@ -567,7 +810,7 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	gap: 0.4rem;
 	min-width: 0;
 	max-width: 100%;
-	height: 40px;
+	height: var(--ui-target);
 	padding: 0 0.4rem;
 	box-sizing: border-box;
 	cursor: pointer;
@@ -578,8 +821,8 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	display: none;
 }
 
-.reader-crumb-menu summary .material-icons {
-	font-size: 24px;
+.reader-crumb-menu summary .icon {
+	font-size: var(--ui-icon);
 }
 
 .reader-crumb-menu summary .reader-crumb-menu-chevron {
@@ -587,9 +830,9 @@ html[data-reader-navigation-open="true"] body .reader-menu-toggle {
 	align-items: center;
 	justify-content: center;
 	flex: 0 0 auto;
-	width: 24px;
-	height: 24px;
-	font-size: 24px;
+	width: var(--ui-icon);
+	height: var(--ui-icon);
+	font-size: var(--ui-icon);
 	line-height: 1;
 }
 
@@ -678,25 +921,31 @@ html[data-reader-navigation-open="true"] #sidebar {
 	flex-direction: column;
 	height: 100%;
 	overflow-y: auto;
-	padding: calc(1rem + 2.5rem) 0 1rem;
+	/* clear of the menu button above, which sits over the drawer */
+	padding: calc(var(--ui-target) + 0.75rem) 0 1rem;
 	background: var(--reader-surface);
 	color: var(--reader-text);
 }
 
+/* Each icon sits in the same place whether the drawer is collapsed (icons
+   centred in the rail) or open (labels beside them) */
 #sidebar-links .w3-bar-item {
+	--reader-drawer-inset: calc((var(--reader-drawer-collapsed-width) - var(--ui-icon)) / 2);
 	display: flex;
 	align-items: center;
 	gap: 0.75rem;
 	width: 100%;
-	min-height: 48px;
-	padding: 8px 12px;
+	min-height: var(--ui-target);
+	padding: 0.25rem var(--reader-drawer-inset);
+	font-size: var(--ui-label);
 	text-align: left;
 }
 
-#sidebar-links .material-icons {
-	flex: 0 0 32px;
-	width: 32px;
-	text-align: center;
+#sidebar-links .icon {
+	flex: 0 0 var(--ui-icon);
+	width: var(--ui-icon);
+	height: var(--ui-icon);
+	font-size: var(--ui-icon);
 }
 
 .reader-drawer-label {
@@ -723,7 +972,7 @@ html[data-reader-navigation-open="true"] #sidebar {
 
 @media (max-width: 640px) {
 	:root {
-		--reader-drawer-width: 4.5rem;
+		--reader-drawer-width: var(--reader-drawer-collapsed-width);
 	}
 
 	#sidebar {
@@ -733,8 +982,8 @@ html[data-reader-navigation-open="true"] #sidebar {
 
 	#sidebar-links .w3-bar-item {
 		justify-content: center;
-		padding-right: 8px;
-		padding-left: 8px;
+		padding-right: 0;
+		padding-left: 0;
 	}
 }
 
@@ -760,8 +1009,8 @@ html[data-reader-navigation-open="true"] #sidebar {
 		left: 0;
 		z-index: 40;
 		width: var(--reader-drawer-collapsed-width) !important;
-		height: 40px;
-		min-height: 40px;
+		height: var(--ui-target);
+		min-height: var(--ui-target);
 		padding: 0;
 		box-sizing: border-box;
 	}
@@ -782,15 +1031,15 @@ html[data-reader-navigation-open="true"] #sidebar {
 	#sidebar[data-open="false"] #sidebar-links .w3-bar-item {
 		justify-content: center;
 		gap: 0;
-		padding-right: 8px;
-		padding-left: 8px;
+		padding-right: 0;
+		padding-left: 0;
 	}
 
 	html[data-reader-navigation-open="true"] #sidebar[data-open="false"] #sidebar-links .w3-bar-item {
 		justify-content: flex-start;
 		gap: 0.75rem;
-		padding-right: 12px;
-		padding-left: 12px;
+		padding-right: var(--reader-drawer-inset);
+		padding-left: var(--reader-drawer-inset);
 	}
 
 	body.reader-navigation-open #sidebar-links .reader-drawer-label,
@@ -849,6 +1098,18 @@ html[data-reader-navigation-open="true"] #sidebar {
 	}
 }
 
+/* On narrow screens the top bar keeps its room for the breadcrumbs and page
+   arrows; Information stays in the drawer. Full screen hides it too. */
+@media (max-width: 640px) {
+	.reader-toolbar-actions > .reader-info-toggle {
+		display: none;
+	}
+}
+
+html[data-reader-fullscreen="true"] .reader-toolbar-actions > .reader-info-toggle {
+	display: none;
+}
+
 /* Breadcrumb labels by available width, narrowest first: the current page
    (and the chapter menu) keep their label longest, then the book title,
    then the author name. Below 9rem every crumb is icon-only; the chapter
@@ -883,6 +1144,12 @@ html[data-reader-navigation-open="true"] #sidebar {
 	.reader-crumb--home .reader-breadcrumb-label {
 		display: inline;
 	}
+}
+
+/* Set by hugo-nav.js on a label squeezed below a readable width, so the
+   crumb shows only its icon instead of a sliver of text */
+.reader-breadcrumbs .reader-breadcrumb-label.reader-breadcrumb-label--squeezed {
+	display: none;
 }
 
 @media (max-width: 480px) {
@@ -996,6 +1263,20 @@ html[data-reader-paged="true"] article.reader-content {
 	touch-action: pan-y;
 }
 
+/* Fills the empty column after a chapter that ends on a left-hand page in
+   book mode (reader-mode.js); a whole column high, so it cannot share the
+   last column of text */
+.reader-page-spacer {
+	display: none;
+}
+
+html[data-reader-paged="true"] article.reader-content > .reader-page-spacer {
+	display: inline-block;
+	width: 100%;
+	height: 100%;
+	vertical-align: top;
+}
+
 html[data-reader-paged="true"] article.reader-content p {
 	orphans: 2;
 	widows: 2;
@@ -1107,6 +1388,22 @@ html[data-reader-paged="true"] .reader-page-frame {
 	display: none;
 }
 
+/* Two pages side by side: page numbers under the outer edges of the text
+   (reader-mode.js pads the bar to line them up), percentage in the middle */
+.reader-progress-bar[data-spread="true"] {
+	display: grid;
+	grid-template-columns: 1fr auto 1fr;
+	align-items: center;
+}
+
+.reader-progress-bar[data-spread="true"] > :first-child {
+	justify-self: start;
+}
+
+.reader-progress-bar[data-spread="true"] > :last-child {
+	justify-self: end;
+}
+
 /* ── Full screen ───────────────────────────────────────
  * reader-mode.js sets data-reader-fullscreen="true" on <html>. Everything
  * but the progress bar goes; the burger menu (top left), the full screen /
@@ -1170,8 +1467,8 @@ html[data-reader-fullscreen="true"] .reader-toolbar .reader-menu-toggle {
 	position: fixed;
 	top: env(safe-area-inset-top, 0px);
 	left: env(safe-area-inset-left, 0px);
-	width: 40px !important;
-	flex-basis: 40px;
+	width: var(--ui-target) !important;
+	flex-basis: var(--ui-target);
 }
 
 html[data-reader-fullscreen="true"] .reader-toolbar .reader-menu-toggle,
@@ -1221,7 +1518,7 @@ html[data-reader-fullscreen="true"] .reader-fullscreen-settings {
 	cursor: pointer;
 }
 
-html[data-reader-fullscreen="true"] .reader-fullscreen-settings .material-icons {
+html[data-reader-fullscreen="true"] .reader-fullscreen-settings .icon {
 	font-size: 20px;
 }
 

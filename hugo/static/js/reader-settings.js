@@ -5,6 +5,14 @@
 // and change them through window.literatureReader and listen for the
 // "reader-settings-changed" event.
 "use strict";
+// ── Icons ──────────────────────────────────────────────────────────────
+// Markup for an icon from the SVG sprite the Hugo layouts put at the top of
+// every page (hugo/layouts/partials/icon-sprite.html). Also used by
+// reader-mode.ts.
+function iconMarkup(name, className = "") {
+    const classes = className ? `icon ${className}` : "icon";
+    return `<svg class="${classes}" aria-hidden="true" focusable="false"><use href="#icon-${name}"></use></svg>`;
+}
 // ── Constants ──────────────────────────────────────────────────────────
 const STORAGE_KEY = "literature.org.readerSettings";
 const LAST_LOCATION_KEY = "literature.org.lastReadingLocation";
@@ -25,10 +33,23 @@ const DEFAULTS = {
 const LEGACY_SIZES = { small: 14, medium: 16, large: 20 };
 const ALLOWED = {
     width: ["narrow", "normal", "wide"],
-    font: ["open-sans", "karla", "georgia", "times", "arial", "verdana", "opendyslexic"],
+    font: ["open-sans", "karla", "literata", "georgia", "times", "arial", "verdana", "opendyslexic"],
     theme: ["light", "dark", "system"],
     mode: ["scroll", "page"],
 };
+// The font choices in Settings. Each entry is styled in its own face, which
+// desktop Chrome and Firefox show as a preview (other browsers draw their
+// own plain menu). The families match --reader-font-family in literature.css.
+const FONT_CHOICES = [
+    ["arial", "Arial", "sans-serif", "Arial, sans-serif"],
+    ["georgia", "Georgia", "serif", "Georgia, serif"],
+    ["karla", "Karla", "", "Karla, sans-serif"],
+    ["literata", "Literata", "serif, made for reading on screen", "Literata, Georgia, serif"],
+    ["opendyslexic", "Open Dyslexic", "dyslexia-friendly", "'OpenDyslexic', sans-serif"],
+    ["open-sans", "Open Sans", "default", "'Open Sans', Karla, sans-serif"],
+    ["times", "Times New Roman", "serif", "'Times New Roman', serif"],
+    ["verdana", "Verdana", "sans-serif", "Verdana, sans-serif"],
+];
 // ── State ──────────────────────────────────────────────────────────────
 let readerSettings = { ...DEFAULTS };
 let dialog;
@@ -188,27 +209,27 @@ function createDialog() {
     <div class="reader-settings-heading">
       <h2 id="reader-settings-title">Reading Settings</h2>
       <button class="w3-button" type="button" aria-label="Close reading Settings">
-        <i class="material-icons md-lit" aria-hidden="true">close</i>
+        ${iconMarkup("close", "md-lit")}
       </button>
     </div>
     <fieldset>
       <legend>Reading width</legend>
       <div class="reader-width-options">
         <label><input type="radio" name="width" value="narrow">
-          <i class="material-icons" aria-hidden="true">format_indent_decrease</i> Narrow</label>
+          ${iconMarkup("format_indent_decrease")} Narrow</label>
         <label><input type="radio" name="width" value="normal">
-          <i class="material-icons" aria-hidden="true">format_align_justify</i> Normal</label>
+          ${iconMarkup("format_align_justify")} Normal</label>
         <label><input type="radio" name="width" value="wide">
-          <i class="material-icons" aria-hidden="true">format_indent_increase</i> Wide</label>
+          ${iconMarkup("format_indent_increase")} Wide</label>
       </div>
     </fieldset>
     <fieldset>
       <legend>Reading mode</legend>
       <div class="reader-width-options">
         <label><input type="radio" name="mode" value="page">
-          <i class="material-icons" aria-hidden="true">import_contacts</i> Page</label>
+          ${iconMarkup("import_contacts")} Page</label>
         <label><input type="radio" name="mode" value="scroll">
-          <i class="material-icons" aria-hidden="true">vertical_align_bottom</i> Scroll</label>
+          ${iconMarkup("vertical_align_bottom")} Scroll</label>
       </div>
     </fieldset>
     <label class="reader-settings-resume">
@@ -216,14 +237,8 @@ function createDialog() {
       In page mode, show two pages side by side on wide screens
     </label>
     <label class="reader-settings-field" for="reader-settings-font">Font</label>
-    <select id="reader-settings-font" name="font">
-      <option value="arial">Arial (sans-serif)</option>
-      <option value="georgia">Georgia (serif)</option>
-      <option value="karla">Karla</option>
-      <option value="opendyslexic">Open Dyslexic (dyslexia-friendly)</option>
-      <option value="open-sans">Open Sans (default)</option>
-      <option value="times">Times New Roman (serif)</option>
-      <option value="verdana">Verdana (sans-serif)</option>
+    <select id="reader-settings-font" name="font">${FONT_CHOICES.map(([value, name, note, family]) => `
+      <option value="${value}" style="font-family: ${family}">${name}${note ? ` (${note})` : ""}</option>`).join("")}
     </select>
     <label class="reader-settings-field" for="reader-settings-size">Font size
       <output id="reader-settings-size-value" for="reader-settings-size">16 pt</output>
@@ -291,8 +306,10 @@ function createDialog() {
     });
 }
 // ── Font-size gestures ─────────────────────────────────────────────────
+// Pinch and Ctrl+wheel set the text size on every page. Set up once: the
+// page's <article> is kept when pages load in place (page-loader.ts).
 function initializeFontSizeGestures() {
-    const article = readerArticle();
+    const article = document.querySelector("body > article");
     if (!article || article.dataset.fontSizeGesturesInitialized)
         return;
     article.dataset.fontSizeGesturesInitialized = "true";
@@ -326,9 +343,9 @@ function initializeFontSizeGestures() {
             finishPinch();
     }, { passive: true });
     article.addEventListener("touchcancel", finishPinch, { passive: true });
-    // Ctrl/Cmd + mouse wheel over the text
+    // Ctrl/Cmd + mouse wheel anywhere on the page, instead of browser zoom
     let wheelDelta = 0;
-    article.addEventListener("wheel", (event) => {
+    document.addEventListener("wheel", (event) => {
         if (!event.ctrlKey && !event.metaKey)
             return;
         if (Math.abs(event.deltaY) < Math.abs(event.deltaX))
@@ -352,7 +369,7 @@ function addSettingsButton(drawer) {
     button.type = "button";
     button.title = "Reading Settings";
     button.setAttribute("aria-label", "Reading Settings");
-    button.innerHTML = '<i class="material-icons md-lit" aria-hidden="true">settings</i><span class="reader-drawer-label">Reading Settings</span>';
+    button.innerHTML = `${iconMarkup("settings", "md-lit")}<span class="reader-drawer-label">Reading Settings</span>`;
     button.addEventListener("click", openSettings);
     menu.appendChild(button);
 }
@@ -363,12 +380,17 @@ function openSettings() {
     dialog.showModal();
 }
 // ── Last location ──────────────────────────────────────────────────────
-function initializeLastLocation() {
+// atLoad: a real page load. Only that may send the home page on to the last
+// location; the reader going home within the site (page-loader.ts) or
+// changing the setting must stay there.
+function initializeLastLocation(atLoad = false) {
     if (!readerSettings.resumeLastLocation)
         return;
     // On the home page, offer to continue where the reader left off
     if ((window.location.pathname === "/" || window.location.pathname === "/index.html") &&
         !window.location.search && !window.location.hash) {
+        if (!atLoad)
+            return;
         try {
             // Don't redirect if the reader explicitly navigated home in this tab
             if (sessionStorage.getItem(HOME_VISITED_KEY))
@@ -464,7 +486,7 @@ function initializeShareButton(drawer) {
     button.type = "button";
     button.title = target.label;
     button.setAttribute("aria-label", target.label);
-    button.innerHTML = `<i class="material-icons md-lit" aria-hidden="true">share</i><span class="reader-drawer-label">${target.label}</span>`;
+    button.innerHTML = `${iconMarkup("share", "md-lit")}<span class="reader-drawer-label">${target.label}</span>`;
     const statusEl = document.createElement("span");
     statusEl.className = "reader-share-status";
     statusEl.setAttribute("role", "status");
@@ -525,7 +547,7 @@ window.initializeReaderSettings = function (drawer) {
     if (!dialog) {
         createDialog();
         syncControls();
-        initializeLastLocation();
+        initializeLastLocation(true);
     }
     initializeFontSizeGestures();
     initializeShareButton(drawer);
@@ -538,6 +560,14 @@ loadSettings();
 applySettings();
 function startReaderSettings() {
     window.initializeReaderSettings(document.getElementById("sidebar"));
+    // page-loader.ts swapped another page in (PAGE_LOADED_EVENT in hugo-nav.ts,
+    // spelt out here because the legacy pages load this script on its own):
+    // Share and Settings go back into the new drawer links, and a chapter may
+    // now need its paragraphs and gestures
+    window.addEventListener("literature-page-loaded", () => {
+        window.initializeReaderSettings(document.getElementById("sidebar"));
+        initializeLastLocation(); // once a chapter is shown; no-op after that
+    });
 }
 if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", startReaderSettings);

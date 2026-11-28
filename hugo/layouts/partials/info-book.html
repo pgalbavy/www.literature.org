@@ -1,0 +1,25 @@
+{{/* Info dialog: a book's details, linked to its contents unless that is
+     the current page */}}
+{{ $book := .Book }}
+{{ $isCurrent := eq $book.RelPermalink .Current.RelPermalink }}
+{{ $chapters := len $book.RegularPages }}
+<section class="reader-info-section">
+  <h3>{{ if $isCurrent }}{{ $book.Title }}{{ else }}<a href="{{ $book.RelPermalink }}">{{ $book.Title }}</a>{{ end }}</h3>
+  <dl class="reader-info-list">
+    {{ with $book.Params.year }}
+    <dt>Published</dt><dd>{{ . }}</dd>
+    {{ end }}
+    {{ if gt $chapters 1 }}
+    <dt>Chapters</dt><dd>{{ $chapters }}</dd>
+    {{ end }}
+    {{ with $book.Params.source }}
+    {{ $host := (urls.Parse .).Host }}
+    <dt>Source text</dt>
+    <dd><a href="{{ replaceRE `^http://(www\.)?gutenberg\.org/` `https://www.gutenberg.org/` . }}" target="_blank" rel="noopener">{{ if strings.HasSuffix $host "gutenberg.org" }}Project Gutenberg{{ else }}{{ $host }}{{ end }}</a></dd>
+    {{ end }}
+    {{ with $book.Params.lastupdated }}
+    <dt>Last updated</dt><dd>{{ (time.AsTime .).Format "2 January 2006" }}</dd>
+    {{ end }}
+  </dl>
+  {{ with $book.Params.links }}{{ partial "info-links.html" . }}{{ end }}
+</section>

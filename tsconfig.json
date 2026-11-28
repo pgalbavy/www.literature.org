@@ -11,5 +11,5 @@
     "sourceMap": false
   },
   "//": "Scripts loaded by the Hugo layouts (baseof.html). They share one global scope. The legacy /templates pages are built by tsconfig.legacy.json. Files must not use import/export: they are loaded as classic <script> tags.",
-  "files": ["ts/site.d.ts", "ts/hugo-nav.ts", "ts/reader-settings.ts", "ts/reader-mode.ts"]
+  "files": ["ts/site.d.ts", "ts/hugo-nav.ts", "ts/reader-settings.ts", "ts/reader-mode.ts", "ts/page-loader.ts"]
 }

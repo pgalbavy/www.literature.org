@@ -1,0 +1,32 @@
+{{/* The Info dialog, opened by the info buttons in the top bar and the
+     drawer (hugo-nav.ts). It shows what the site knows about the page in
+     context: a chapter with its book and author, a book with its author, an
+     author, or the collection as a whole. Rows appear only when the front
+     matter or page tree has something to show. */}}
+{{ $page := . }}
+{{ $parts := split (trim $page.RelPermalink "/") "/" }}
+{{ $author := false }}
+{{ $book := false }}
+{{ $chapter := false }}
+{{ if and (eq $page.Section "authors") (ge (len $parts) 2) }}
+  {{ $author = site.GetPage (printf "/authors/%s" (index $parts 1)) }}
+  {{ if ge (len $parts) 3 }}
+    {{ $book = site.GetPage (printf "/authors/%s/%s" (index $parts 1) (index $parts 2)) }}
+  {{ end }}
+  {{ if and (ge (len $parts) 4) $page.IsPage }}{{ $chapter = $page }}{{ end }}
+{{ end }}
+{{ $title := "About literature.org" }}
+{{ if $chapter }}{{ $title = "About this chapter" }}
+{{ else if $book }}{{ $title = "About this book" }}
+{{ else if $author }}{{ $title = "About this author" }}
+{{ end }}
+<dialog id="reader-info" class="reader-settings-dialog reader-info-dialog" aria-labelledby="reader-info-title">
+  <div class="reader-settings-heading">
+    <h2 id="reader-info-title">{{ $title }}</h2>
+    <button class="w3-button reader-info-close" type="button" aria-label="Close">{{ partial "icon.html" (dict "Name" "close" "Class" "md-lit") }}</button>
+  </div>
+  {{ if $chapter }}{{ partial "info-chapter.html" (dict "Chapter" $chapter "Book" $book) }}{{ end }}
+  {{ with $book }}{{ partial "info-book.html" (dict "Book" . "Current" $page) }}{{ end }}
+  {{ with $author }}{{ partial "info-author.html" (dict "Author" . "Current" $page) }}{{ end }}
+  {{ if not $author }}{{ partialCached "info-site.html" . }}{{ end }}
+</dialog>

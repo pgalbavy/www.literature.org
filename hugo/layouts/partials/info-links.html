@@ -1,0 +1,23 @@
+{{/* Info dialog: an author's or book's `links` front matter as a list,
+     known sites first, each with its own icon */}}
+{{ $links := . }}
+{{ $known := slice
+  (dict "key" "wikipedia" "label" "Wikipedia" "icon" "site_wikipedia")
+  (dict "key" "goodreads" "label" "Goodreads" "icon" "site_goodreads")
+  (dict "key" "gutenberg" "label" "Project Gutenberg" "icon" "local_library") }}
+{{ $items := slice }}
+{{ range $k := $known }}
+  {{ with index $links $k.key }}
+    {{ $items = $items | append (dict "href" . "label" $k.label "icon" $k.icon) }}
+  {{ end }}
+{{ end }}
+{{ range $o := index $links "other" }}
+  {{ with $o.href }}{{ $items = $items | append (dict "href" . "label" ($o.title | default (urls.Parse .).Host) "icon" "link") }}{{ end }}
+{{ end }}
+{{ with $items }}
+<ul class="reader-info-links">
+  {{ range . }}
+  <li><a href="{{ replaceRE `^http://(www\.)?gutenberg\.org/` `https://www.gutenberg.org/` .href }}" target="_blank" rel="noopener">{{ partial "icon.html" .icon }}<span>{{ .label }}</span></a></li>
+  {{ end }}
+</ul>
+{{ end }}
