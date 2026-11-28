@@ -1384,8 +1384,10 @@ html[data-reader-paged="true"] .reader-page-frame {
 	user-select: none;
 }
 
+/* !important: the two-page layout below sets display: grid at the same
+   specificity, and data-spread stays set after leaving a chapter */
 .reader-progress-bar[hidden] {
-	display: none;
+	display: none !important;
 }
 
 /* Two pages side by side: page numbers under the outer edges of the text
