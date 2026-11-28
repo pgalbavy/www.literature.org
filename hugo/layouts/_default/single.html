@@ -1,8 +1,13 @@
 {{ define "main" }}
 {{ $sections := split (trim .RelPermalink "/") "/" }}
 {{ partial "topbar.html" (dict "Title" .Title "Page" . "ShowNavigation" true) }}
-<article class="w3-container w3-justify reader-content">
-  <h1 class="w3-hide-medium w3-hide-large litleft">{{ .Title }}</h1>
+<article id="reader-main" class="w3-container w3-justify reader-content" role="main">
+  {{/* Shown on narrow screens; on wider ones the toolbar shows the title,
+       so the heading is there only for screen readers (literature.css) */}}
+  {{ $parts := split (trim .RelPermalink "/") "/" }}
+  {{ $chapter := and (eq .Section "authors") (ge (len $parts) 4) }}
+  {{/* Other pages (Contact) have their title in the top bar */}}
+  <h1 class="litleft {{ if $chapter }}reader-chapter-title{{ else }}reader-visually-hidden{{ end }}">{{ .Title }}</h1>
   {{ .Content }}
 </article>
 {{ end }}

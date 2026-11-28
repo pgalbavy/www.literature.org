@@ -1,5 +1,7 @@
-<nav>
-  <aside id="sidebar" class="reader-drawer" data-open="false" aria-hidden="true" aria-label="Site navigation" inert>
+{{/* The drawer. Usable as it is without JavaScript (the rail on wide
+     screens); hugo-nav.ts makes it inert while closed on narrow screens,
+     where it is off screen. One navigation landmark: the links. */}}
+<div id="sidebar" class="reader-drawer" data-open="false">
     <nav id="sidebar-links" class="w3-bar-block w3-large" aria-label="Site navigation">
       <a class="w3-bar-item w3-button" href="/" aria-label="literature.org" title="literature.org" onclick="if(typeof window!=='undefined'&&window.__literatureHomeClick)window.__literatureHomeClick();">{{ partial "icon.html" (dict "Name" "home" "Class" "md-lit") }}<span class="reader-drawer-label">literature.org</span></a>
       <a class="w3-bar-item w3-button" href="/authors/" aria-label="Authors" title="Authors">{{ partial "icon.html" (dict "Name" "people" "Class" "md-lit") }}<span class="reader-drawer-label">Authors</span></a>
@@ -31,5 +33,4 @@
       {{/* Bottom of the drawer: Contact, then the Reading Settings button that reader-settings.js appends */}}
       <a class="w3-bar-item w3-button reader-drawer-contact" href="/contact/" aria-label="Contact literature.org" title="Contact literature.org"{{ if eq .RelPermalink "/contact/" }} aria-current="page"{{ end }}>{{ partial "icon.html" (dict "Name" "mail" "Class" "md-lit") }}<span class="reader-drawer-label">Contact</span></a>
     </nav>
-  </aside>
-</nav>
+</div>

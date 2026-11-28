@@ -1,7 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en-GB">
 {{ partial "head.html" . }}
 <body>
+  {{/* First stop for keyboard users; off screen until focused */}}
+  <a class="reader-skip-link" href="#reader-main">Skip to the text</a>
   {{ partial "icon-sprite.html" . }}
   {{ partial "header.html" . }}
   {{ block "main" . }}{{ end }}

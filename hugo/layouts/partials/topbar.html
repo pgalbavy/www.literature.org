@@ -1,4 +1,8 @@
-<nav class="w3-bar reader-toolbar" style="font-size:24px; white-space: nowrap">
+{{/* Every page but a chapter has a coloured bar, with the current page's
+     name in the breadcrumbs as its title (literature.css, "Titled bar") */}}
+{{ $parts := split (trim .Page.RelPermalink "/") "/" }}
+{{ $chapter := and (eq .Page.Section "authors") (ge (len $parts) 4) }}
+<header class="w3-bar reader-toolbar{{ if not $chapter }} reader-toolbar--titled{{ end }}" style="font-size:24px; white-space: nowrap">
   <button class="w3-bar-item w3-button reader-menu-toggle" onclick="w3_toggle()" type="button" title="Open navigation menu" aria-label="Open navigation menu" aria-controls="sidebar" aria-expanded="false">{{ partial "icon.html" (dict "Name" "menu" "Class" "md-lit") }}</button>
   {{ partial "breadcrumbs.html" .Page }}
   <div class="reader-toolbar-actions">
@@ -11,4 +15,4 @@
     {{ with .Page.PrevInSection }}<a class="w3-bar-item w3-button reader-nav-button reader-chapter-nav" href="{{ .RelPermalink }}" title="Next Chapter" aria-label="Next Chapter" rel="next">{{ partial "icon.html" (dict "Name" "arrow_forward" "Class" "md-lit") }}</a>{{ else }}<span class="w3-bar-item w3-button w3-disabled reader-nav-button reader-chapter-nav" title="No next chapter" aria-label="No next chapter" aria-disabled="true">{{ partial "icon.html" (dict "Name" "arrow_forward" "Class" "md-lit") }}</span>{{ end }}
     {{ end }}
   </div>
-</nav>
+</header>

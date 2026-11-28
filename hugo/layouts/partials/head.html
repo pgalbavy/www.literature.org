@@ -1,9 +1,65 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>{{ if .Title }}{{ .Title }} - {{ end }}literature.org</title>
-  {{ with .Description }}<meta name="description" content="{{ . }}">{{ end }}
+  {{/* Where the page sits: an author, a book and a chapter, from the path
+       /authors/<author>/<book>/<chapter>.html. Titles and descriptions name
+       the book and author, so search results and tabs say what a page is. */}}
+  {{ $parts := split (trim .RelPermalink "/") "/" }}
+  {{ $author := false }}
+  {{ $book := false }}
+  {{ $chapter := false }}
+  {{ if and (eq .Section "authors") (ge (len $parts) 2) }}
+    {{ $author = site.GetPage (printf "/authors/%s" (index $parts 1)) }}
+    {{ if ge (len $parts) 3 }}{{ $book = site.GetPage (printf "/authors/%s/%s" (index $parts 1) (index $parts 2)) }}{{ end }}
+    {{ if and (ge (len $parts) 4) .IsPage }}{{ $chapter = . }}{{ end }}
+  {{ end }}
+  {{ $authorName := "" }}{{ with $author }}{{ $authorName = .Title }}{{ end }}
+  {{ $bookName := "" }}{{ with $book }}{{ $bookName = .Title }}{{ end }}
+  {{ $byline := $bookName }}{{ if and $bookName $authorName }}{{ $byline = printf "%s by %s" $bookName $authorName }}{{ end }}
+  {{ $heading := .Title }}
+  {{ $description := .Description }}
+  {{ if $chapter }}
+    {{ $heading = printf "%s - %s" .Title $byline }}
+    {{ if not $description }}{{ $description = printf "%s of %s. Read the full text free online at literature.org." .Title $byline }}{{ end }}
+  {{ else if $book }}
+    {{ $heading = $byline }}
+    {{ if not $description }}{{ $n := len $book.RegularPages }}{{ $description = printf "Read %s free online at literature.org: %d %s." $byline $n (cond (eq $n 1) "chapter" "chapters") }}{{ end }}
+  {{ else if $author }}
+    {{ if not $description }}{{ $n := len $author.Sections }}{{ $description = printf "Read the works of %s free online at literature.org: %d %s." $authorName $n (cond (eq $n 1) "book" "books") }}{{ end }}
+  {{ else if eq .RelPermalink "/authors/" }}
+    {{ if not $description }}{{ $description = "Classic works of English literature, free to read online: the full list of authors at literature.org." }}{{ end }}
+  {{ else if .IsHome }}
+    {{ $heading = "" }}
+  {{ end }}
+  {{ if not $description }}{{ $description = site.Params.description }}{{ end }}
+  <title>{{ with $heading }}{{ . }} - {{ end }}literature.org{{ if .IsHome }} - {{ site.Params.description }}{{ end }}</title>
+  <meta name="description" content="{{ $description }}">
+  <link rel="canonical" href="{{ .Permalink }}">
+  <meta property="og:site_name" content="literature.org">
+  <meta property="og:title" content="{{ with $heading }}{{ . }}{{ else }}literature.org{{ end }}">
+  <meta property="og:description" content="{{ $description }}">
+  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:type" content="{{ if or $chapter $book }}book{{ else }}website{{ end }}">
+  <meta property="og:locale" content="en_GB">
+  {{/* schema.org: a chapter is part of a book, a book has an author */}}
+  {{ $person := dict }}
+  {{ with $author }}{{ $person = dict "@type" "Person" "name" .Title "url" .Permalink }}{{ end }}
+  {{ $bookData := dict }}
+  {{ with $book }}
+    {{ $bookData = dict "@type" "Book" "name" .Title "url" .Permalink "inLanguage" "en" }}
+    {{ with $author }}{{ $bookData = merge $bookData (dict "author" $person) }}{{ end }}
+  {{ end }}
+  {{ $schema := dict }}
+  {{ if $chapter }}{{ $schema = dict "@context" "https://schema.org" "@type" "Chapter" "name" .Title "url" .Permalink "isPartOf" $bookData }}
+  {{ else if $book }}{{ $schema = merge $bookData (dict "@context" "https://schema.org") }}
+  {{ else if $author }}{{ $schema = merge $person (dict "@context" "https://schema.org") }}
+  {{ else if .IsHome }}{{ $schema = dict "@context" "https://schema.org" "@type" "WebSite" "name" "literature.org" "url" .Permalink "description" site.Params.description }}
+  {{ end }}
+  {{ with $schema }}<script type="application/ld+json">{{ jsonify . | safeJS }}</script>{{ end }}
   <script>
+    // Lets the CSS hide controls that need the scripts (literature.css,
+    // "Without JavaScript")
+    document.documentElement.classList.add("js");
     try {
       // On narrow screens a chapter opens with the drawer closed (hugo-nav.ts)
       var narrowChapter = window.matchMedia("(max-width: 640px)").matches &&

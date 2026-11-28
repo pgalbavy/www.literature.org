@@ -1,7 +1,8 @@
 {{ $page := . }}
 {{ $parts := split (trim $page.RelPermalink "/") "/" }}
-<div class="reader-breadcrumbs" aria-label="Breadcrumb">
+<nav class="reader-breadcrumbs" aria-label="Breadcrumb">
   {{ if eq $page.RelPermalink "/" }}
+    {{ partial "breadcrumb-item.html" (dict "Label" "Welcome to literature.org" "Icon" "home" "Kind" "current") }}
     {{ partial "breadcrumb-item.html" (dict "Label" "Authors" "Icon" "people" "Kind" "home-authors" "Href" "/authors/") }}
   {{ else }}
     {{ partial "breadcrumb-item.html" (dict "Label" "Home" "Icon" "home" "Kind" "home" "Href" "/") }}
@@ -86,4 +87,4 @@
       {{ partial "breadcrumb-item.html" (dict "Label" $page.Title "Icon" "menu_book" "Kind" "current") }}
     {{ end }}
   {{ end }}
-</div>
+</nav>

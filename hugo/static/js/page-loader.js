@@ -115,6 +115,23 @@ async function loadPage(url, options) {
         else
             window.scrollTo(0, options.scrollY ?? 0);
     }
+    announcePage();
+}
+// The link that was followed has gone with the old page, which leaves focus
+// at the start of the document and screen readers silent. Moving focus to
+// the new page's heading reads it out, and Tab carries on from there. Focus
+// that survived the swap (the toolbar arrow just used) stays where it is.
+function announcePage() {
+    const active = document.activeElement;
+    if (active && active !== document.body && document.contains(active))
+        return;
+    const article = pageArticle();
+    const heading = article?.querySelector("h1") ?? article;
+    if (!heading)
+        return;
+    if (!heading.hasAttribute("tabindex"))
+        heading.tabIndex = -1;
+    heading.focus({ preventScroll: true });
 }
 // Copies the parts of a fetched page that differ between pages into this
 // one, keeping the elements that scripts are attached to.

@@ -14,10 +14,10 @@
   {{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
 {{ end }}
 {{ $authorsList := eq .RelPermalink "/authors/" }}
-<article class="w3-container w3-justify{{ if $authorsList }} reader-alpha-page{{ end }}">
+<article id="reader-main" class="w3-container w3-justify{{ if $authorsList }} reader-alpha-page{{ end }}" role="main">
   <div class="w3-card-4">
     {{ if eq .RelPermalink "/" }}
-      <div class="w3-container w3-teal"><h3>Welcome to literature.org</h3></div>
+      <h1 class="reader-visually-hidden">Welcome to literature.org</h1>
       <div class="w3-container home-welcome">{{ .Content }}</div>
     {{ else if $authorsList }}
       {{/* Authors by surname: the capitalised word(s) of the title, e.g.
@@ -32,7 +32,8 @@
       {{ $letters := slice }}
       {{ range $rows }}{{ $letters = $letters | append .letter }}{{ end }}
       {{ $letters = uniq $letters }}
-      <div class="w3-container w3-teal"><h3>{{ .Title }}</h3></div>
+      {{/* The title is in the top bar; the heading is for screen readers */}}
+      <h1 class="reader-visually-hidden">{{ .Title }}</h1>
       <nav class="reader-alpha-index" aria-label="Jump to authors by surname initial">
         <ol>
           {{ range split "ABCDEFGHIJKLMNOPQRSTUVWXYZ" "" }}
@@ -53,7 +54,8 @@
         {{ end }}
       </ul>
     {{ else }}
-      <div class="w3-container w3-teal"><h3>{{ .Title }}</h3></div>
+      {{/* The title is in the top bar; the heading is for screen readers */}}
+      <h1 class="reader-visually-hidden">{{ .Title }}</h1>
       <ul class="w3-bar-block w3-ul w3-border w3-hoverable">
         {{ range .Pages.ByWeight }}
         <li>

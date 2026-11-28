@@ -105,6 +105,20 @@ if (typeof window !== "undefined") {
     window.w3_close = w3_close;
     window.w3_toggle = w3_toggle;
 }
+// "Skip to the text" (baseof.html): focus the text without the #fragment
+// a plain link would leave in the address bar, and without page mode
+// turning to the start of the chapter. Registered before page-loader.ts,
+// which leaves clicks another script has handled.
+document.addEventListener("click", (event) => {
+    const link = event.target instanceof Element ? event.target.closest(".reader-skip-link") : null;
+    const article = document.querySelector("body > article");
+    if (!link || !article)
+        return;
+    event.preventDefault();
+    if (!article.hasAttribute("tabindex"))
+        article.tabIndex = -1;
+    article.focus({ preventScroll: document.documentElement.dataset.readerPaged === "true" });
+});
 // Swipe between chapters in scroll mode. On the page's <article>, which is
 // kept when pages load in place, so it checks for a chapter each time.
 function initializeSwipeNavigation() {

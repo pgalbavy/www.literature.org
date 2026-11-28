@@ -1540,3 +1540,102 @@ html[data-reader-fullscreen="true"] .reader-progress-bar {
 html[data-reader-fullscreen="true"]:not([data-reader-paged="true"]) body {
 	padding-top: var(--reader-toolbar-height);
 }
+
+/* ── Accessibility ─────────────────────────────────────
+ * Read by screen readers but not shown: page headings whose text the top
+ * bar already shows, and "Skip to the text" until it is focused */
+.reader-visually-hidden,
+.reader-skip-link:not(:focus) {
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	margin: -1px !important;
+	padding: 0 !important;
+	overflow: hidden !important;
+	clip-path: inset(50%) !important;
+	white-space: nowrap !important;
+	border: 0 !important;
+}
+
+/* The chapter title shows in the toolbar on wider screens, so the heading
+   above the text is for screen readers only there */
+@media (min-width: 601px) {
+	.reader-chapter-title {
+		position: absolute;
+		width: 1px;
+		height: 1px;
+		margin: -1px;
+		padding: 0;
+		overflow: hidden;
+		clip-path: inset(50%);
+		white-space: nowrap;
+		border: 0;
+	}
+}
+
+/* "Skip to the text": the first Tab on every page */
+.reader-skip-link:focus {
+	position: fixed;
+	top: 0.5rem;
+	left: 0.5rem;
+	z-index: 100;
+	padding: 0.5rem 1rem;
+	border-radius: 0.25rem;
+	background: var(--reader-surface, #fff);
+	color: var(--reader-text, #000);
+	box-shadow: 0 2px 8px rgb(0 0 0 / 30%);
+	outline: 2px solid currentColor;
+	outline-offset: 2px;
+}
+
+/* Focus moved by script (page-loader.ts, the skip link) to tell screen
+   readers where they are; not something to click, so no outline */
+body > article:focus,
+body > article h1[tabindex="-1"]:focus {
+	outline: none;
+}
+
+/* ── Titled bar ────────────────────────────────────────
+ * Every page but a chapter (topbar.html): the top bar takes the accent
+ * colour of the heading bar the page used to have, and the current page's
+ * breadcrumb is its title, sized like that heading but within the bar's
+ * usual height. Chapters keep the plain bar, so it stays out of the way of
+ * the text. Full screen keeps its transparent bar (rules above win). */
+.reader-toolbar.reader-toolbar--titled {
+	background-color: var(--reader-accent) !important;
+	color: #fff !important;
+}
+
+.reader-toolbar--titled .reader-breadcrumb-item,
+.reader-toolbar--titled .reader-crumb-menu summary {
+	color: #fff;
+}
+
+.reader-toolbar--titled .reader-nav-button {
+	color: #fff !important;
+}
+
+.reader-toolbar--titled .reader-nav-button:not(.w3-disabled):hover,
+.reader-toolbar--titled a.reader-breadcrumb-item:hover,
+.reader-toolbar--titled .reader-crumb-menu summary:hover {
+	background-color: rgb(255 255 255 / 18%) !important;
+	color: #fff !important;
+}
+
+.reader-toolbar--titled .reader-nav-button.w3-disabled {
+	opacity: 0.45;
+}
+
+.reader-toolbar--titled .reader-crumb--current {
+	font-size: clamp(18px, 12px + 1.2vw, 24px);
+	font-weight: 400;
+	line-height: 1.2;
+}
+
+/* ── Without JavaScript ────────────────────────────────
+ * The inline script in head.html marks <html> with "js". Without it the
+ * buttons that only scripts can work are hidden; the text, breadcrumbs,
+ * chapter arrows and the drawer rail on wide screens are plain links. */
+html:not(.js) :is(.reader-menu-toggle, .reader-info-toggle, .reader-fullscreen-toggle) {
+	display: none !important;
+}
