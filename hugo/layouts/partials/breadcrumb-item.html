@@ -1,5 +1,5 @@
 {{- if .Href -}}
-<a class="reader-breadcrumb-item reader-crumb--{{ .Kind }}" href="{{ .Href }}" aria-label="{{ .Label }}" title="{{ .Label }}"{{ if .Current }} aria-current="page"{{ end }}>
+<a class="reader-breadcrumb-item reader-crumb--{{ .Kind }}" href="{{ .Href }}" aria-label="{{ .AriaLabel | default .Label }}" title="{{ .AriaLabel | default .Label }}"{{ if .Current }} aria-current="page"{{ end }}>
   {{ partial "icon.html" (dict "Name" .Icon "Class" "reader-breadcrumb-icon") }}
   <span class="reader-breadcrumb-label">{{ .Label }}</span>
 </a>

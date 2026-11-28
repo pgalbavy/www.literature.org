@@ -34,11 +34,16 @@
   {{ if not $description }}{{ $description = site.Params.description }}{{ end }}
   <title>{{ with $heading }}{{ . }} - {{ end }}literature.org{{ if .IsHome }} - {{ site.Params.description }}{{ end }}</title>
   <meta name="description" content="{{ $description }}">
-  <link rel="canonical" href="{{ .Permalink }}">
+  {{ if eq .Kind "404" }}
+  {{/* Served for any missing address: never indexed, no address of its own */}}
+  <meta name="robots" content="noindex">
+  {{ else }}
+  {{ $url := partial "href.html" .Permalink }}
+  <link rel="canonical" href="{{ $url }}">
   <meta property="og:site_name" content="literature.org">
   <meta property="og:title" content="{{ with $heading }}{{ . }}{{ else }}literature.org{{ end }}">
   <meta property="og:description" content="{{ $description }}">
-  <meta property="og:url" content="{{ .Permalink }}">
+  <meta property="og:url" content="{{ $url }}">
   <meta property="og:type" content="{{ if or $chapter $book }}book{{ else }}website{{ end }}">
   <meta property="og:locale" content="en_GB">
   {{/* schema.org: a chapter is part of a book, a book has an author */}}
@@ -50,12 +55,13 @@
     {{ with $author }}{{ $bookData = merge $bookData (dict "author" $person) }}{{ end }}
   {{ end }}
   {{ $schema := dict }}
-  {{ if $chapter }}{{ $schema = dict "@context" "https://schema.org" "@type" "Chapter" "name" .Title "url" .Permalink "isPartOf" $bookData }}
+  {{ if $chapter }}{{ $schema = dict "@context" "https://schema.org" "@type" "Chapter" "name" .Title "url" (partial "href.html" .Permalink) "isPartOf" $bookData }}
   {{ else if $book }}{{ $schema = merge $bookData (dict "@context" "https://schema.org") }}
   {{ else if $author }}{{ $schema = merge $person (dict "@context" "https://schema.org") }}
   {{ else if .IsHome }}{{ $schema = dict "@context" "https://schema.org" "@type" "WebSite" "name" "literature.org" "url" .Permalink "description" site.Params.description }}
   {{ end }}
   {{ with $schema }}<script type="application/ld+json">{{ jsonify . | safeJS }}</script>{{ end }}
+  {{ end }}
   <script>
     // Lets the CSS hide controls that need the scripts (literature.css,
     // "Without JavaScript")

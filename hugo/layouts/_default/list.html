@@ -59,7 +59,7 @@
       <ul class="w3-bar-block w3-ul w3-border w3-hoverable">
         {{ range .Pages.ByWeight }}
         <li>
-          <a class="w3-bar-item litleft w3-button" href="{{ .RelPermalink }}">
+          <a class="w3-bar-item litleft w3-button" href="{{ partial "href.html" .RelPermalink }}">
             {{ if eq .Kind "section" }}{{ partial "icon.html" (dict "Name" (cond (eq .Section "authors") "person" "menu_book") "Class" "md-lit w3-margin-right") }}{{ end }}
             {{ .Title }}
           </a>

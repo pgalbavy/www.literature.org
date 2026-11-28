@@ -1,0 +1,48 @@
+{{/* Cloudflare Pages serves /404.html, with status 404, for any address
+     that has no file. Without it, Pages treats the site as a single-page
+     app and answers every missing address with the home page. */}}
+{{ define "main" }}
+{{ partial "topbar.html" (dict "Title" .Title "Page" .) }}
+<article id="reader-main" class="w3-container w3-justify" role="main">
+  <div class="w3-card-4">
+    <div class="w3-container home-welcome">
+      <h1 class="reader-visually-hidden">Page not found</h1>
+      <p>Sorry, there is no page at this address. It may have been mistyped, or the page may have moved: some books have been corrected and reorganised.</p>
+      <p class="reader-not-found-suggestion" hidden></p>
+      <ul>
+        <li><a href="/authors/">Browse the Authors list</a></li>
+        <li><a href="/">Go to the home page</a></li>
+        <li><a href="/contact/">Tell us about a broken link</a></li>
+      </ul>
+    </div>
+  </div>
+</article>
+<script>
+  // Suggest the nearest book or author page that exists, e.g. the book's
+  // contents for a chapter address that no longer works
+  (function () {
+    var suggestion = document.querySelector(".reader-not-found-suggestion");
+    var parts = location.pathname.split("/").filter(Boolean);
+    if (!suggestion || parts[0] !== "authors" || typeof fetch !== "function") return;
+    var candidates = [];
+    for (var depth = Math.min(parts.length - 1, 3); depth >= 2; depth--) {
+      candidates.push("/" + parts.slice(0, depth).join("/") + "/");
+    }
+    (function next() {
+      var path = candidates.shift();
+      if (!path) return;
+      fetch(path, { credentials: "same-origin" }).then(function (response) {
+        if (!response.ok) { next(); return; }
+        return response.text().then(function (html) {
+          var title = new DOMParser().parseFromString(html, "text/html").title.replace(/ - literature\.org$/, "");
+          var link = document.createElement("a");
+          link.href = path;
+          link.textContent = title || path;
+          suggestion.append("You may be looking for ", link, ".");
+          suggestion.hidden = false;
+        });
+      }).catch(function () { /* the links below are enough */ });
+    })();
+  })();
+</script>
+{{ end }}

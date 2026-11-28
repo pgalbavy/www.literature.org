@@ -18,7 +18,9 @@
           {{ $authorKind := "author" }}
           {{ $authorHref := $authorPage.RelPermalink }}
           {{ if eq (len $parts) 2 }}{{ $authorKind = "current" }}{{ $authorHref = "/authors/" }}{{ end }}
-          {{ partial "breadcrumb-item.html" (dict "Label" $authorPage.Title "Icon" "person" "Kind" $authorKind "Href" $authorHref) }}
+          {{ $authorAria := $authorPage.Title }}
+          {{ if eq (len $parts) 2 }}{{ $authorAria = printf "%s: all authors" $authorPage.Title }}{{ end }}
+          {{ partial "breadcrumb-item.html" (dict "Label" $authorPage.Title "AriaLabel" $authorAria "Icon" "person" "Kind" $authorKind "Href" $authorHref) }}
         {{ end }}
         {{ if ge (len $parts) 3 }}
           {{ $bookPage := $page.Site.GetPage (printf "/authors/%s/%s" (index $parts 1) (index $parts 2)) }}
@@ -58,7 +60,7 @@
             {{ if ge (len $parts) 4 }}
             {{ partial "breadcrumb-item.html" (dict "Label" $page.Title "Icon" "format_list_numbered" "Kind" "current") }}
             {{ else }}
-            {{ partial "breadcrumb-item.html" (dict "Label" $only.Title "Icon" "format_list_numbered" "Kind" "chapter" "Href" $only.RelPermalink) }}
+            {{ partial "breadcrumb-item.html" (dict "Label" $only.Title "Icon" "format_list_numbered" "Kind" "chapter" "Href" (partial "href.html" $only.RelPermalink)) }}
             {{ end }}
             {{ else }}
             {{ with $chapters }}
@@ -73,7 +75,7 @@
               <ul class="reader-crumb-menu-list">
                 {{ range . }}
                 <li{{ if eq .RelPermalink $page.RelPermalink }} class="reader-crumb-menu-current"{{ end }}>
-                  <a href="{{ .RelPermalink }}"{{ if eq .RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}>{{ .Title }}</a>
+                  <a href="{{ partial "href.html" .RelPermalink }}"{{ if eq .RelPermalink $page.RelPermalink }} aria-current="page"{{ end }}>{{ .Title }}</a>
                 </li>
                 {{ end }}
               </ul>

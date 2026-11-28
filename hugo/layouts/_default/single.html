@@ -1,6 +1,8 @@
 {{ define "main" }}
 {{ $sections := split (trim .RelPermalink "/") "/" }}
-{{ partial "topbar.html" (dict "Title" .Title "Page" . "ShowNavigation" true) }}
+{{ $sectionParts := split (trim .RelPermalink "/") "/" }}
+{{/* Chapter arrows on chapters only, not on Contact */}}
+{{ partial "topbar.html" (dict "Title" .Title "Page" . "ShowNavigation" (and (eq .Section "authors") (ge (len $sectionParts) 4))) }}
 <article id="reader-main" class="w3-container w3-justify reader-content" role="main">
   {{/* Shown on narrow screens; on wider ones the toolbar shows the title,
        so the heading is there only for screen readers (literature.css) */}}

@@ -22,10 +22,17 @@ function samePage(a, b) {
     return a.pathname === b.pathname && a.search === b.search;
 }
 // Pages of this site, which all share the same layout: directories and
-// .html chapters, not files such as contents.json or the legacy /templates
+// chapters, not files such as contents.json or the legacy /templates.
+// Chapters are linked without .html (Cloudflare Pages serves chapter-01.html
+// at /…/chapter-01), or with it under hugo server: a last part with no
+// extension, or .html.
+function isPagePath(pathname) {
+    const last = pathname.slice(pathname.lastIndexOf("/") + 1);
+    return last === "" || last.endsWith(".html") || !last.includes(".");
+}
 function loadableInPlace(url) {
     return url.origin === window.location.origin &&
-        (url.pathname.endsWith("/") || url.pathname.endsWith(".html")) &&
+        isPagePath(url.pathname) &&
         !url.pathname.startsWith("/templates/") &&
         pageArticle() !== null &&
         typeof fetch === "function" && typeof DOMParser === "function" &&
@@ -77,6 +84,14 @@ async function loadPage(url, options) {
         const response = await fetch(url.href, { signal: request.signal, credentials: "same-origin" });
         if (!response.ok)
             throw new Error(`HTTP ${response.status}`);
+        // An old .html address, redirected to the one without: show that one
+        if (response.redirected && response.url) {
+            const final = new URL(response.url);
+            if (final.origin === url.origin) {
+                final.hash = url.hash;
+                url = final;
+            }
+        }
         page = new DOMParser().parseFromString(await response.text(), "text/html");
     }
     catch (error) {

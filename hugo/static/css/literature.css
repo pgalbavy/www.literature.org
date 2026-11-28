@@ -436,13 +436,14 @@ body > article:not(.reader-content) .icon.md-lit {
 }
 
 .reader-settings-reset-link {
-	color: var(--reader-accent);
+	color: var(--reader-accent-text);
 	font-weight: 600;
 }
 
 .reader-settings-reset-link:hover,
 .reader-settings-reset-link:focus-visible {
-	color: var(--reader-accent-hover);
+	color: var(--reader-accent-text);
+	text-decoration: underline;
 }
 
 .reader-settings-privacy,
@@ -456,8 +457,11 @@ body > article:not(.reader-content) .icon.md-lit {
 	--reader-page: #fff;
 	--reader-surface: #fff;
 	--reader-text: #222;
-	--reader-accent: #009688;
-	--reader-accent-hover: #00796b;
+	/* Accent: a background behind white text (5.3:1), and as text on the
+	   page, where the dark theme needs a lighter teal (WCAG AA, 4.5:1) */
+	--reader-accent: #00796b;
+	--reader-accent-hover: #00695c;
+	--reader-accent-text: #00796b;
 	--reader-drawer-width: min(24rem, 88vw);
 	/* Toolbar and drawer sizes: icons and menu labels grow a little with the
 	   window, and every button stays at least 44px across for touch */
@@ -474,6 +478,7 @@ body > article:not(.reader-content) .icon.md-lit {
 	--reader-page: #181a1b;
 	--reader-surface: #25282a;
 	--reader-text: #eee;
+	--reader-accent-text: #26a69a;
 }
 
 @media (prefers-color-scheme: dark) {
@@ -482,6 +487,7 @@ body > article:not(.reader-content) .icon.md-lit {
 		--reader-page: #181a1b;
 		--reader-surface: #25282a;
 		--reader-text: #eee;
+		--reader-accent-text: #26a69a;
 	}
 }
 
@@ -491,6 +497,7 @@ body > article:not(.reader-content) .icon.md-lit {
 		--reader-page: #fff;
 		--reader-surface: #fff;
 		--reader-text: #222;
+		--reader-accent-text: #00796b;
 	}
 }
 
@@ -1206,9 +1213,8 @@ article.reader-alpha-page li[id^="letter-"] {
 }
 
 .reader-alpha-index a {
-	color: var(--reader-accent);
+	color: var(--reader-accent-text);
 	font-weight: 600;
-	opacity: 0.75;
 }
 
 .reader-alpha-index a:hover,
@@ -1296,12 +1302,12 @@ html[data-reader-paged="true"] article.reader-content img {
    with a Material back / forward arrow, falling back to the system cursors */
 html[data-reader-paged="true"][data-reader-turn-zone="prev"],
 html[data-reader-paged="true"][data-reader-turn-zone="prev"] article.reader-content {
-	cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23009688' stroke='white' stroke-width='2'/%3E%3Cpath transform='translate(4 4)' fill='white' d='M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z'/%3E%3C/svg%3E") 16 16, w-resize;
+	cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%2300796b' stroke='white' stroke-width='2'/%3E%3Cpath transform='translate(4 4)' fill='white' d='M20 11H7.83l5.59-5.59L12 4l-8 8 8 8 1.41-1.41L7.83 13H20v-2z'/%3E%3C/svg%3E") 16 16, w-resize;
 }
 
 html[data-reader-paged="true"][data-reader-turn-zone="next"],
 html[data-reader-paged="true"][data-reader-turn-zone="next"] article.reader-content {
-	cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%23009688' stroke='white' stroke-width='2'/%3E%3Cpath transform='translate(4 4)' fill='white' d='M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z'/%3E%3C/svg%3E") 16 16, e-resize;
+	cursor: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='32' height='32' viewBox='0 0 32 32'%3E%3Ccircle cx='16' cy='16' r='14' fill='%2300796b' stroke='white' stroke-width='2'/%3E%3Cpath transform='translate(4 4)' fill='white' d='M12 4l-1.41 1.41L16.17 11H4v2h12.17l-5.58 5.59L12 20l8-8z'/%3E%3C/svg%3E") 16 16, e-resize;
 }
 
 /* The same arrows in grey at the start / end of a book, where the zone does
@@ -1478,7 +1484,7 @@ html[data-reader-fullscreen="true"] .reader-toolbar .reader-nav-button,
 html[data-reader-fullscreen="true"] .reader-fullscreen-settings {
 	background: transparent !important;
 	color: var(--reader-text) !important;
-	opacity: 0.3;
+	opacity: 0.5;   /* 3:1 against the page in both themes (WCAG 1.4.11) */
 	transition: opacity 150ms ease, background-color 150ms ease;
 }
 
@@ -1532,7 +1538,7 @@ html[data-reader-fullscreen="true"]:not([data-reader-paged="true"]) .reader-full
 /* Quieter progress bar, so only the text draws the eye */
 html[data-reader-fullscreen="true"] .reader-progress-bar {
 	border-top-color: transparent;
-	opacity: 0.5;
+	opacity: 0.65;   /* still 4.5:1 for its text in both themes (WCAG 1.4.3) */
 }
 
 /* Scroll mode: the toolbar no longer takes up room, so keep the first lines
@@ -1593,6 +1599,15 @@ html[data-reader-fullscreen="true"]:not([data-reader-paged="true"]) body {
 body > article:focus,
 body > article h1[tabindex="-1"]:focus {
 	outline: none;
+}
+
+/* Keyboard focus. w3.css removes the outline from every .w3-bar-item,
+   which covers the drawer links and the lists on the author, book and
+   Authors pages; put one back for the keyboard (not for clicks) */
+#sidebar-links .w3-bar-item:focus-visible,
+article .w3-bar-item:focus-visible {
+	outline: 2px solid currentColor;
+	outline-offset: -2px;
 }
 
 /* ── Titled bar ────────────────────────────────────────

@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.literature.org/sitemap.xml
+Sitemap: https://literature.org/sitemap.xml

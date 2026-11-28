@@ -1,0 +1,8 @@
+{{- /* A page's address as visitors see it. Cloudflare Pages serves
+       chapter-01.html at /…/chapter-01 and redirects the .html address
+       there, so links, canonical links and the sitemap leave .html off.
+       Hugo's own server cannot do that, so it keeps .html locally.
+       Usage: partial "href.html" .RelPermalink (or .Permalink) */ -}}
+{{- $url := . -}}
+{{- if not hugo.IsServer -}}{{- $url = strings.TrimSuffix ".html" $url -}}{{- end -}}
+{{- return $url -}}

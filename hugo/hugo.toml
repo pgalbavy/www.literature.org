@@ -1,4 +1,4 @@
-baseURL = "https://www.literature.org/"
+baseURL = "https://literature.org/"
 title = "literature.org"
 locale = "en-gb"
 contentDir = "content"
