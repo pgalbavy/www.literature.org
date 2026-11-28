@@ -1,0 +1,18 @@
+{{- /* The address of the icon sprite: every icon on the site as one SVG
+       file of <symbol>s, named by a hash of its content so it is cached
+       for a year (static/_headers, /bundle/*). It used to be inline on every
+       page, about 3.5 KB compressed each time. Icons reference it as
+       <use href="…#icon-NAME"> (partials/icon.html, iconMarkup() in
+       reader-settings.ts, which reads it from <html data-icon-sprite>).
+       The paths in data/icons.json are the Material Icons (Apache 2.0)
+       glyphs, taken from static/icons/MaterialIcons-Regular.ttf on a
+       24-unit grid; the site_* logos are from Simple Icons (CC0,
+       simple-icons 13.21.0). To add an icon, add its name and path there.
+       Call with partialCached "icon-sprite-url.html" site. */ -}}
+{{- $symbols := slice -}}
+{{- range $name, $path := site.Data.icons -}}
+{{- $symbols = $symbols | append (printf `<symbol id="icon-%s" viewBox="0 0 24 24"><path d="%s"/></symbol>` $name $path) -}}
+{{- end -}}
+{{- $svg := printf `<svg xmlns="http://www.w3.org/2000/svg">%s</svg>` (delimit $symbols "") -}}
+{{- $sprite := resources.FromString "bundle/icons.svg" $svg | fingerprint -}}
+{{- return $sprite.RelPermalink -}}

@@ -10,7 +10,8 @@
 //
 // After a swap, "literature-page-loaded" (PAGE_LOADED_EVENT, hugo-nav.ts)
 // tells the other scripts to set up the new page. Anything this cannot load
-// (other sites, files, a failed request) gets a normal page load.
+// (other sites, files, a failed request) gets a normal page load. Pages
+// can be fetched ahead of time (see "Fetching ahead").
 "use strict";
 let pageRequest;
 let shownPage = new URL(window.location.href); // the page this document shows
@@ -37,6 +38,94 @@ function loadableInPlace(url) {
         pageArticle() !== null &&
         typeof fetch === "function" && typeof DOMParser === "function" &&
         typeof history.pushState === "function";
+}
+const PREFETCH_LIMIT = 6;
+const PREFETCH_LIFETIME_MS = 10 * 60 * 1000;
+const HOVER_DELAY_MS = 80;
+const prefetched = new Map();
+function pageKey(url) {
+    return url.origin + url.pathname + url.search;
+}
+async function fetchPage(url, signal) {
+    const response = await fetch(url.href, { signal, credentials: "same-origin" });
+    if (!response.ok)
+        throw new Error(`HTTP ${response.status}`);
+    return { html: await response.text(), finalUrl: response.url, redirected: response.redirected };
+}
+function savingData() {
+    const connection = navigator.connection;
+    return connection?.saveData === true || /(^|-)2g$/.test(connection?.effectiveType ?? "");
+}
+function prefetch(href) {
+    const url = new URL(href, window.location.href);
+    if (!loadableInPlace(url) || samePage(url, shownPage) || savingData())
+        return;
+    const key = pageKey(url);
+    const entry = prefetched.get(key);
+    if (entry && Date.now() - entry.time < PREFETCH_LIFETIME_MS)
+        return;
+    // A failed fetch is simply not used: loadPage() fetches again
+    prefetched.set(key, { time: Date.now(), page: fetchPage(url).catch(() => null) });
+    while (prefetched.size > PREFETCH_LIMIT) {
+        const oldest = prefetched.keys().next().value;
+        if (oldest === undefined)
+            break;
+        prefetched.delete(oldest);
+    }
+}
+function takePrefetched(url) {
+    const key = pageKey(url);
+    const entry = prefetched.get(key);
+    prefetched.delete(key);
+    return entry && Date.now() - entry.time < PREFETCH_LIFETIME_MS ? entry.page : undefined;
+}
+// The next chapter, when the browser is idle: turning past the last page
+// (or the toolbar arrow) then shows it at once
+function prefetchNextChapter() {
+    const next = document.querySelector('.reader-toolbar a[rel="next"]');
+    if (!next)
+        return;
+    const href = next.href;
+    const later = (callback) => {
+        if (typeof window.requestIdleCallback === "function")
+            window.requestIdleCallback(callback, { timeout: 4000 });
+        else
+            window.setTimeout(callback, 2000);
+    };
+    later(() => {
+        // Still the same page: the reader may have moved on meanwhile
+        if (document.querySelector('.reader-toolbar a[rel="next"]')?.href === href)
+            prefetch(href);
+    });
+}
+function linkFrom(target) {
+    const link = target instanceof Element ? target.closest("a[href]") : null;
+    if (!link || (link.target && link.target !== "_self") || link.hasAttribute("download"))
+        return null;
+    return link;
+}
+function initializePrefetch() {
+    let hoverTimer;
+    document.addEventListener("pointerover", (event) => {
+        if (event.pointerType !== "mouse")
+            return;
+        const link = linkFrom(event.target);
+        if (!link)
+            return;
+        window.clearTimeout(hoverTimer);
+        hoverTimer = window.setTimeout(() => prefetch(link.href), HOVER_DELAY_MS);
+    }, { passive: true });
+    document.addEventListener("pointerout", (event) => {
+        if (event.pointerType === "mouse" && linkFrom(event.target))
+            window.clearTimeout(hoverTimer);
+    }, { passive: true });
+    // A touch or press: the click follows in about a tenth of a second
+    document.addEventListener("pointerdown", (event) => {
+        const link = linkFrom(event.target);
+        if (link)
+            prefetch(link.href);
+    }, { passive: true });
+    prefetchNextChapter();
 }
 function loadPageNormally(url, openAtEnd) {
     if (openAtEnd) {
@@ -81,18 +170,16 @@ async function loadPage(url, options) {
     };
     let page;
     try {
-        const response = await fetch(url.href, { signal: request.signal, credentials: "same-origin" });
-        if (!response.ok)
-            throw new Error(`HTTP ${response.status}`);
+        const fetched = (await takePrefetched(url)) ?? await fetchPage(url, request.signal);
         // An old .html address, redirected to the one without: show that one
-        if (response.redirected && response.url) {
-            const final = new URL(response.url);
+        if (fetched.redirected && fetched.finalUrl) {
+            const final = new URL(fetched.finalUrl);
             if (final.origin === url.origin) {
                 final.hash = url.hash;
                 url = final;
             }
         }
-        page = new DOMParser().parseFromString(await response.text(), "text/html");
+        page = new DOMParser().parseFromString(fetched.html, "text/html");
     }
     catch (error) {
         if (error.name === "AbortError")
@@ -131,6 +218,7 @@ async function loadPage(url, options) {
             window.scrollTo(0, options.scrollY ?? 0);
     }
     announcePage();
+    prefetchNextChapter();
 }
 // The link that was followed has gone with the old page, which leaves focus
 // at the start of the document and screen readers silent. Moving focus to
@@ -196,8 +284,8 @@ function initializePageLoader() {
         if (event.defaultPrevented || event.button !== 0 ||
             event.ctrlKey || event.metaKey || event.shiftKey || event.altKey)
             return;
-        const link = event.target instanceof Element ? event.target.closest("a[href]") : null;
-        if (!link || (link.target && link.target !== "_self") || link.hasAttribute("download"))
+        const link = linkFrom(event.target);
+        if (!link)
             return;
         const url = new URL(link.href, window.location.href);
         if (!loadableInPlace(url) || samePage(url, shownPage))
@@ -215,6 +303,7 @@ function initializePageLoader() {
         }
         void loadPage(url, { openAtEnd: false, addToHistory: false, scrollY: event.state?.scrollY ?? 0 });
     });
+    initializePrefetch();
 }
 if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", initializePageLoader);

@@ -96,14 +96,16 @@
   </script>
   {{/* The font is otherwise only found after the CSS is parsed, and it is
        needed on every page. The URL must match the one in the CSS. Icons are
-       inline SVG (partials/icon-sprite.html), so need no font. */}}
+       SVG (partials/icon-sprite-url.html), so need no font. */}}
   <link rel="preload" href="/fonts/open-sans-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
   {{/* One minified stylesheet, named by its content hash so it can be cached
        for a year (static/_headers); a change gets a new name. It lives in
        /bundle/, one level down like /css/, so the CSS's ../fonts/ paths
-       still resolve. Order matters: w3, then ours. (css/icon.css, the
-       icon font, is only for the legacy /templates pages and EPUBs.) */}}
-  {{ $css := slice (resources.Get "css/w3.css") (resources.Get "css/literature.css")
+       still resolve. Order matters: w3, then ours. w3-used.css is w3.css
+       cut down to the classes the site uses: run tools/trim-w3css.py after
+       using another w3 class. (css/icon.css, the icon font, is only for
+       the EPUB export.) */}}
+  {{ $css := slice (resources.Get "css/w3-used.css") (resources.Get "css/literature.css")
      | resources.Concat "bundle/site.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">
 </head>

@@ -10,7 +10,8 @@
 //
 // After a swap, "literature-page-loaded" (PAGE_LOADED_EVENT, hugo-nav.ts)
 // tells the other scripts to set up the new page. Anything this cannot load
-// (other sites, files, a failed request) gets a normal page load.
+// (other sites, files, a failed request) gets a normal page load. Pages
+// can be fetched ahead of time (see "Fetching ahead").
 "use strict";
 
 let pageRequest: AbortController | undefined;
@@ -42,6 +43,99 @@ function loadableInPlace(url: URL): boolean {
     pageArticle() !== null &&
     typeof fetch === "function" && typeof DOMParser === "function" &&
     typeof history.pushState === "function";
+}
+
+// ── Fetching ahead ─────────────────────────────────────────────────────
+// Pages are fetched before they are needed: the next chapter once the
+// reader's chapter has settled, and any link a mouse pointer rests on or a
+// finger touches. They are kept in memory for a while, because the browser
+// does not cache the HTML (Cloudflare sends max-age=0 and no validator).
+// Not when the reader has asked to save data or the connection is 2G.
+
+interface FetchedPage { html: string; finalUrl: string; redirected: boolean }
+
+const PREFETCH_LIMIT = 6;
+const PREFETCH_LIFETIME_MS = 10 * 60 * 1000;
+const HOVER_DELAY_MS = 80;
+const prefetched = new Map<string, { time: number; page: Promise<FetchedPage | null> }>();
+
+function pageKey(url: URL): string {
+  return url.origin + url.pathname + url.search;
+}
+
+async function fetchPage(url: URL, signal?: AbortSignal): Promise<FetchedPage> {
+  const response = await fetch(url.href, { signal, credentials: "same-origin" });
+  if (!response.ok) throw new Error(`HTTP ${response.status}`);
+  return { html: await response.text(), finalUrl: response.url, redirected: response.redirected };
+}
+
+function savingData(): boolean {
+  const connection = (navigator as Navigator & { connection?: { saveData?: boolean; effectiveType?: string } }).connection;
+  return connection?.saveData === true || /(^|-)2g$/.test(connection?.effectiveType ?? "");
+}
+
+function prefetch(href: string): void {
+  const url = new URL(href, window.location.href);
+  if (!loadableInPlace(url) || samePage(url, shownPage) || savingData()) return;
+  const key = pageKey(url);
+  const entry = prefetched.get(key);
+  if (entry && Date.now() - entry.time < PREFETCH_LIFETIME_MS) return;
+  // A failed fetch is simply not used: loadPage() fetches again
+  prefetched.set(key, { time: Date.now(), page: fetchPage(url).catch(() => null) });
+  while (prefetched.size > PREFETCH_LIMIT) {
+    const oldest = prefetched.keys().next().value;
+    if (oldest === undefined) break;
+    prefetched.delete(oldest);
+  }
+}
+
+function takePrefetched(url: URL): Promise<FetchedPage | null> | undefined {
+  const key = pageKey(url);
+  const entry = prefetched.get(key);
+  prefetched.delete(key);
+  return entry && Date.now() - entry.time < PREFETCH_LIFETIME_MS ? entry.page : undefined;
+}
+
+// The next chapter, when the browser is idle: turning past the last page
+// (or the toolbar arrow) then shows it at once
+function prefetchNextChapter(): void {
+  const next = document.querySelector<HTMLAnchorElement>('.reader-toolbar a[rel="next"]');
+  if (!next) return;
+  const href = next.href;
+  const later = (callback: () => void): void => {
+    if (typeof window.requestIdleCallback === "function") window.requestIdleCallback(callback, { timeout: 4000 });
+    else window.setTimeout(callback, 2000);
+  };
+  later(() => {
+    // Still the same page: the reader may have moved on meanwhile
+    if (document.querySelector<HTMLAnchorElement>('.reader-toolbar a[rel="next"]')?.href === href) prefetch(href);
+  });
+}
+
+function linkFrom(target: EventTarget | null): HTMLAnchorElement | null {
+  const link = target instanceof Element ? target.closest<HTMLAnchorElement>("a[href]") : null;
+  if (!link || (link.target && link.target !== "_self") || link.hasAttribute("download")) return null;
+  return link;
+}
+
+function initializePrefetch(): void {
+  let hoverTimer: number | undefined;
+  document.addEventListener("pointerover", (event: PointerEvent) => {
+    if (event.pointerType !== "mouse") return;
+    const link = linkFrom(event.target);
+    if (!link) return;
+    window.clearTimeout(hoverTimer);
+    hoverTimer = window.setTimeout(() => prefetch(link.href), HOVER_DELAY_MS);
+  }, { passive: true });
+  document.addEventListener("pointerout", (event: PointerEvent) => {
+    if (event.pointerType === "mouse" && linkFrom(event.target)) window.clearTimeout(hoverTimer);
+  }, { passive: true });
+  // A touch or press: the click follows in about a tenth of a second
+  document.addEventListener("pointerdown", (event: PointerEvent) => {
+    const link = linkFrom(event.target);
+    if (link) prefetch(link.href);
+  }, { passive: true });
+  prefetchNextChapter();
 }
 
 function loadPageNormally(url: URL, openAtEnd: boolean): void {
@@ -84,17 +178,16 @@ async function loadPage(url: URL, options: { openAtEnd: boolean; addToHistory: b
 
   let page: Document;
   try {
-    const response = await fetch(url.href, { signal: request.signal, credentials: "same-origin" });
-    if (!response.ok) throw new Error(`HTTP ${response.status}`);
+    const fetched = (await takePrefetched(url)) ?? await fetchPage(url, request.signal);
     // An old .html address, redirected to the one without: show that one
-    if (response.redirected && response.url) {
-      const final = new URL(response.url);
+    if (fetched.redirected && fetched.finalUrl) {
+      const final = new URL(fetched.finalUrl);
       if (final.origin === url.origin) {
         final.hash = url.hash;
         url = final;
       }
     }
-    page = new DOMParser().parseFromString(await response.text(), "text/html");
+    page = new DOMParser().parseFromString(fetched.html, "text/html");
   } catch (error) {
     if ((error as Error).name === "AbortError") return;
     console.error("Could not load the page in place; loading it normally.", error);
@@ -126,6 +219,7 @@ async function loadPage(url: URL, options: { openAtEnd: boolean; addToHistory: b
     else window.scrollTo(0, options.scrollY ?? 0);
   }
   announcePage();
+  prefetchNextChapter();
 }
 
 // The link that was followed has gone with the old page, which leaves focus
@@ -192,8 +286,8 @@ function initializePageLoader(): void {
   document.addEventListener("click", (event: MouseEvent) => {
     if (event.defaultPrevented || event.button !== 0 ||
         event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
-    const link = event.target instanceof Element ? event.target.closest<HTMLAnchorElement>("a[href]") : null;
-    if (!link || (link.target && link.target !== "_self") || link.hasAttribute("download")) return;
+    const link = linkFrom(event.target);
+    if (!link) return;
     const url = new URL(link.href, window.location.href);
     if (!loadableInPlace(url) || samePage(url, shownPage)) return;   // other sites; #fragments
     event.preventDefault();
@@ -209,6 +303,8 @@ function initializePageLoader(): void {
     }
     void loadPage(url, { openAtEnd: false, addToHistory: false, scrollY: event.state?.scrollY ?? 0 });
   });
+
+  initializePrefetch();
 }
 
 if (document.readyState === "loading") {

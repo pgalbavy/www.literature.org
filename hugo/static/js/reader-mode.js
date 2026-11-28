@@ -742,8 +742,9 @@ function updateFullscreenButton() {
     button.title = `${label} (${key})`;
     button.setAttribute("aria-label", label);
     button.setAttribute("aria-pressed", String(immersive));
+    const sprite = document.documentElement.dataset.iconSprite ?? "";
     button.querySelector(".icon use")
-        ?.setAttribute("href", `#icon-${immersive ? "fullscreen_exit" : "fullscreen"}`);
+        ?.setAttribute("href", `${sprite}#icon-${immersive ? "fullscreen_exit" : "fullscreen"}`);
 }
 function setImmersive(on) {
     if (on === immersive)

@@ -1,9 +1,9 @@
-{{- /* An icon from the sprite (partials/icon-sprite.html). Pass its name, or
+{{- /* An icon from the sprite (partials/icon-sprite-url.html). Pass its name, or
        a dict with "Name" and extra CSS classes in "Class". Icons are 1em
        square, so font-size sets their size. */ -}}
 {{- $name := . -}}
 {{- $class := "" -}}
 {{- if reflect.IsMap . -}}{{- $name = .Name -}}{{- $class = .Class -}}{{- end -}}
 {{- if not (index site.Data.icons $name) -}}{{- errorf "icon.html: no icon %q in data/icons.json" $name -}}{{- end -}}
-<svg class="icon{{ with $class }} {{ . }}{{ end }}" aria-hidden="true" focusable="false"><use href="#icon-{{ $name }}"></use></svg>
+<svg class="icon{{ with $class }} {{ . }}{{ end }}" aria-hidden="true" focusable="false"><use href="{{ partialCached "icon-sprite-url.html" site }}#icon-{{ $name }}"></use></svg>
 {{- /**/ -}}

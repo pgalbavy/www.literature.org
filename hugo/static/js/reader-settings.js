@@ -6,12 +6,13 @@
 // "reader-settings-changed" event.
 "use strict";
 // ── Icons ──────────────────────────────────────────────────────────────
-// Markup for an icon from the SVG sprite the Hugo layouts put at the top of
-// every page (hugo/layouts/partials/icon-sprite.html). Also used by
-// reader-mode.ts.
+// Markup for an icon from the SVG sprite file, whose hashed address the
+// Hugo layouts put on <html data-icon-sprite>
+// (hugo/layouts/partials/icon-sprite-url.html). Also used by reader-mode.ts.
 function iconMarkup(name, className = "") {
     const classes = className ? `icon ${className}` : "icon";
-    return `<svg class="${classes}" aria-hidden="true" focusable="false"><use href="#icon-${name}"></use></svg>`;
+    const sprite = document.documentElement.dataset.iconSprite ?? "";
+    return `<svg class="${classes}" aria-hidden="true" focusable="false"><use href="${sprite}#icon-${name}"></use></svg>`;
 }
 // ── Constants ──────────────────────────────────────────────────────────
 const STORAGE_KEY = "literature.org.readerSettings";
