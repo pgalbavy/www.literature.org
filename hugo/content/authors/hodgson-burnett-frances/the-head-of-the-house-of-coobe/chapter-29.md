@@ -1,7 +1,7 @@
 ---
 title: "Chapter 29"
 weight: 29
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-29.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-29.html"
 ---
 
 In the serious little room the Duchess had given to her Robin built for herself a condition she called happiness. She drew the spiritual substance from which it was made from her pleasure in the books of reference closely fitted into their shelves, in the files for letters and more imposing documents, in the varieties of letter paper and envelopes of different sizes and materials which had been provided for her use in case of necessity.

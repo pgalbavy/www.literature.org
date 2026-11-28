@@ -1,7 +1,7 @@
 ---
 title: "Chapter 20"
 weight: 20
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-20.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-20.html"
 ---
 
 Sixteen passed by with many other things much more disturbing and important to the world than a girl's birthday; seventeen was gone, with passing events more complicated still and increasingly significant, but even the owners of the hands hovering over the Chessboard, which was the Map of Europe, did not keep a watch on all of them as close as might have been kept with advantage. Girls in their teens are seldom interested in political and diplomatic conditions, and Robin was not fond of newspapers. She worked well and steadily under Mademoiselle's guidance, and her governess realized that she was not losing sight of her plans for self support. She was made aware of this by an occasional word or so, and also by a certain telepathic union between them. Little as she cared for the papers, the child had a habit of closely examining the advertisements every day. She read faithfully the columns devoted to those who "Want" employment or are "Wanted" by employers.

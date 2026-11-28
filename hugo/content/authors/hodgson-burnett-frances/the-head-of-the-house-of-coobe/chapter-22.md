@@ -1,7 +1,7 @@
 ---
 title: "Chapter 22"
 weight: 22
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-22.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-22.html"
 ---
 
 She had known none of the absolute horrors of life which were possible in that underworld which was not likely to touch her own existence in any form.

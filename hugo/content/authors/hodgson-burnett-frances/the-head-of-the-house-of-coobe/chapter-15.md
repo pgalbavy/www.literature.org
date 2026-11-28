@@ -1,7 +1,7 @@
 ---
 title: "Chapter 15"
 weight: 15
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-15.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-15.html"
 ---
 
 Before Robin had been taken to the seaside to be helped by the bracing air of the Norfolk coast to recover her lost appetite and forget her small tragedy, she had observed that unaccustomed things were taking place in the house. Workmen came in and out through the mews at the back and brought ladders with them and tools in queer bags. She heard hammerings which began very early in the morning and went on all day. As Andrews had trained her not to ask tiresome questions, she only crept now and then to a back window and peeped out. But in a few days Dowson took her away.

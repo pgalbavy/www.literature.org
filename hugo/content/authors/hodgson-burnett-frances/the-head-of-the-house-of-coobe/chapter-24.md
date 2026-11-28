@@ -1,7 +1,7 @@
 ---
 title: "Chapter 24"
 weight: 24
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-24.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-24.html"
 ---
 
 Von Hillern made no further calls on Mrs. Gareth-Lawless. His return to Berlin was immediate and Fraulein Hirsch came no more to give lessons in German. Later, Coombe learned from the mam with the steady, blunt-featured face, that she had crossed the Channel on a night boat not many hours after Von Hillern had walked away from Berford Place. The exact truth was that she had been miserably prowling about the adjacent streets, held in the neighbourhood by some self-torturing morbidness, half thwarted helpless passion, half triumphing hatred of the young thing she had betrayed. Up and down the streets she had gone, round and round, wringing her lean fingers together and tasting on her lips the salt of tears which rolled down her cheeks--tears of torment and rage.

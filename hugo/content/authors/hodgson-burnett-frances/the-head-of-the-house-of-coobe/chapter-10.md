@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10"
 weight: 10
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-10.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-10.html"
 ---
 
 Donal talked a great deal as he pranced home. Feather had excited as well as allured him. Why hadn't she told Robin she was her mother? Why did she never show her pictures in the Nursery and hold her on her knee? She was little enough to be held on knees! Did some mothers never tell their children and did the children never find out? This was what he wanted to hear explained. He took the gloved hand near him and held it close and a trifle authoritatively.

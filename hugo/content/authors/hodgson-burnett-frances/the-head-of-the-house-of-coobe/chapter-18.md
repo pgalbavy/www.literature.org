@@ -1,7 +1,7 @@
 ---
 title: "Chapter 18"
 weight: 18
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-18.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-18.html"
 ---
 
 In the added suite of rooms at the back of the house, Robin grew through the years in which It was growing also. On the occasion when her mother saw her, she realized that she was not at least going to look like a barmaid. At no period of her least refulgent moment did she verge upon this type. Dowie took care of her and Mademoiselle Valle educated her with the assistance of certain masters who came to give lessons in German and Italian.

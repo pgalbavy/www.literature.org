@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6"
 weight: 6
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-06.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-06.html"
 ---
 
 If he had meant to speak he changed his mind after his first sight of her. He merely came in and closed the door behind him. Curious experiences with which life had provided him had added finish to an innate aptness of observation, and a fine readiness in action.

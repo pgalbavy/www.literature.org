@@ -1,7 +1,7 @@
 ---
 title: "Chapter 28"
 weight: 28
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-28.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-28.html"
 ---
 
 That a previously scarcely suspected daughter of Mrs. Gareth-Lawless had become a member of the household of the Dowager Duchess of Darte stirred but a passing wave of interest in a circle which was not that of Mrs. Gareth-Lawless herself and which upon the whole but casually acknowledged its curious existence as a modern abnormality. Also the attitude of the Duchess herself was composedly free from any admission of necessity for comment.

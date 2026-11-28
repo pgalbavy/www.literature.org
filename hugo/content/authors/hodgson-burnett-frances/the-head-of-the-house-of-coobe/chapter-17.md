@@ -1,7 +1,7 @@
 ---
 title: "Chapter 17"
 weight: 17
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-17.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-17.html"
 ---
 
 "A nice, well-behaved Royal Family." There had been several of them in Europe for some time. An appreciable number of them had prided themselves, even a shade ostentatiously, upon their domesticity. The moral views of a few had been believed to border upon the high principles inscribed in copy books. Some, however, had not. A more important power or so had veered from the exact following of these commendable axioms--had high-handedly behaved according to their royal will and tastes. But what would you? With a nation making proper obeisance before one from infancy; with trumpets blaring forth joyous strains upon one's mere appearance on any scene; with the proudest necks bowed and the most superb curtseys swept on one's mere passing by, with all the splendour of the Opera on gala night rising to its feet to salute one's mere entry into the royal or imperial box, while the national anthem bursts forth with adulatory and triumphant strains, only a keen and subtle sense of humour, surely, could curb errors of judgment arising from naturally mistaken views of one's own importance and value to the entire Universe. Still there remained the fact that a number of them WERE well-behaved and could not be complained of as bearing any likeness to the bloodthirsty tyrants and oppressors of past centuries.

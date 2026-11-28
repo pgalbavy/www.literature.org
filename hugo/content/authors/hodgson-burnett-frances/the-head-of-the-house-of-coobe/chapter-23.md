@@ -1,7 +1,7 @@
 ---
 title: "Chapter 23"
 weight: 23
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-23.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-23.html"
 ---
 
 It was not utterly dark in the room, though Robin, after passing her hands carefully over the walls, had found no electric buttons within reach nor any signs of candles or matches elsewhere. The night sky was clear and brilliant with many stars, and this gave her an unshadowed and lighted space to look at. She went to the window and sat down on the floor, huddled against the wall with her hands clasped round her knees, looking up. She did this in the effort to hold in check a rising tide of frenzy which threatened her. Perhaps, if she could fix her eyes on the vault full of stars, she could keep herself from going out of her mind. Though, perhaps, it would be better if she DID go out of her mind, she found herself thinking a few seconds later.

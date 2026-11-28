@@ -1,7 +1,7 @@
 ---
 title: "Chapter 31"
 weight: 31
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-31.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-31.html"
 ---
 
 The whole day before the party was secretly exciting to Robin. She knew how much more important it seemed to her than it really was. If she had been six years old she might have felt the same kind of uncertain thrills and tremulous wonders. She hid herself behind the window curtains in her room that she might see the men putting up the crimson and white awning from the door to the carriage step. The roll of red carpet they took from their van had a magic air. The ringing of the door bell which meant that things were being delivered, the extra moving about of servants, the florists' men who went into the drawing-rooms and brought flowers and big tropical plants to re-arrange the conservatory and fill corners which were not always decorated--each and every one of them quickened the beating of her pulses. If she had belonged in her past to the ordinary cheerful world of children, she would have felt by this time no such elation. But she had only known of the existence of such festivities as children's parties because once a juvenile ball had been given in a house opposite her mother's and she had crouched in an almost delirious little heap by the nursery window watching carriages drive up and deposit fluffy pink and white and blue children upon the strip of red carpet, and had seen them led or running into the house. She had caught sounds of strains of music and had shivered with rapture--but Oh! what worlds away from her the party had been.

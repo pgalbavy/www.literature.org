@@ -1,7 +1,7 @@
 ---
 title: "Chapter 26"
 weight: 26
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-26.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-26.html"
 ---
 
 As a result of this, her grace saw Mademoiselle Valle alone a few mornings later and talked to her long and quietly. Their comprehension of each other was complete. Before their interview was at an end the Duchess' interest in the adventure she was about to enter into had become profound.

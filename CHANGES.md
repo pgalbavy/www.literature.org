@@ -2,6 +2,12 @@
 
 What has been added to, removed from, or corrected in the published works, newest first. Add an entry whenever a book is published, withdrawn or its text is changed. Links are site paths.
 
+## 28 November 2026
+
+### Corrected chapter addresses
+
+- [*The Head of the House of Coombe*](/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/) by Frances HODGSON BURNETT: the 32 chapters were published under *The Good Wolf*'s address (`/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/`), so their page titles, breadcrumbs and Information panel named the wrong book. They now sit under the book's own address; the old addresses no longer work.
+
 ## 27 November 2026
 
 ### Restored chapters

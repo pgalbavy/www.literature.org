@@ -1,7 +1,7 @@
 ---
 title: "Chapter 21"
 weight: 21
-url: "/authors/hodgson-burnett-frances/the-good-wolf/the-head-of-the-house-of-coobe/chapter-21.html"
+url: "/authors/hodgson-burnett-frances/the-head-of-the-house-of-coobe/chapter-21.html"
 ---
 
 She saw him again during the following week and was obliged to tell him that she had not been able to take her charge to Kensington Gardens on the morning that he had appointed but that, as the girl was fond of the place and took pleasure in watching the children sailing their boats on the Round Pond, it would be easy to lead her there. He showed her a photograph of the woman she would find sitting on a particular bench, and he required she should look at it long enough to commit the face to memory. It was that of a quietly elegant woman with gentle eyes.
