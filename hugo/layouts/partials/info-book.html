@@ -21,5 +21,5 @@
     <dt>Last updated</dt><dd>{{ (time.AsTime .).Format "2 January 2006" }}</dd>
     {{ end }}
   </dl>
-  {{ with $book.Params.links }}{{ partial "info-links.html" . }}{{ end }}
+  {{ with $book.Params.links }}{{ partial "info-links.html" (dict "Links" . "Name" $book.Title) }}{{ end }}
 </section>

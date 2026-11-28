@@ -1,0 +1,15 @@
+{{/* Returns an author's name with all-capitals surnames in title case
+     ("George ELIOT" → "George Eliot", "Frances HODGSON BURNETT" →
+     "Frances Hodgson Burnett"). Initials ("J. M.") and mixed-case words are
+     left alone; hyphenated parts are cased separately. */}}
+{{ $words := slice }}
+{{ range split . " " }}
+  {{ $word := . }}
+  {{ if and (gt (strings.RuneCount $word) 1) (eq $word (upper $word)) (ne $word (lower $word)) (not (strings.HasSuffix $word ".")) }}
+    {{ $parts := slice }}
+    {{ range split $word "-" }}{{ $parts = $parts | append (strings.FirstUpper (lower .)) }}{{ end }}
+    {{ $word = delimit $parts "-" }}
+  {{ end }}
+  {{ $words = $words | append $word }}
+{{ end }}
+{{ return delimit $words " " }}

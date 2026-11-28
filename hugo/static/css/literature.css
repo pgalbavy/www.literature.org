@@ -203,7 +203,8 @@ div.lit-narrow, a.lit-narrow {
 	letter-spacing: 1px;
 }
 
-section, .quote {
+/* Quoted passages in the books; not the Info dialog's sections */
+article section, .quote {
 	font-style: italic;
 }
 
@@ -580,32 +581,64 @@ header.w3-top {
 	overflow-wrap: anywhere;
 }
 
+.reader-info-links-intro {
+	margin: 1rem 0 0.35rem;
+	font-size: 0.9rem;
+	opacity: 0.8;
+}
+
+/* One link per row, quiet like the details above: icon, site name, and the
+   web address in grey on the right */
 .reader-info-links {
-	display: flex;
-	flex-wrap: wrap;
-	gap: 0.5rem;
-	margin: 0.75rem 0 0;
+	margin: 0;
 	padding: 0;
 	list-style: none;
+	font-size: 1rem;
+	border-top: 1px solid rgb(128 128 128 / 30%);
+}
+
+.reader-info-links li {
+	border-bottom: 1px solid rgb(128 128 128 / 30%);
 }
 
 .reader-info-links a {
-	display: inline-flex;
+	display: flex;
 	align-items: center;
-	gap: 0.4rem;
-	padding: 0.35rem 0.65rem;
-	border: 1px solid rgb(128 128 128 / 50%);
-	border-radius: 1rem;
+	gap: 0.6rem;
+	min-height: 2.5rem;
+	padding: 0.25rem 0.4rem;
+	color: inherit;
 	text-decoration: none;
 }
 
 .reader-info-links a:hover,
 .reader-info-links a:focus-visible {
-	background: rgb(128 128 128 / 20%);
+	background: rgb(128 128 128 / 15%);
+}
+
+.reader-info-links a:hover .reader-info-link-label {
+	text-decoration: underline;
+}
+
+.reader-info-link-label {
+	flex: 1 1 auto;
+	min-width: 0;
+}
+
+.reader-info-link-host {
+	flex: 0 1 auto;
+	min-width: 0;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	font-size: 0.85rem;
+	opacity: 0.65;
 }
 
 .reader-info-dialog .reader-info-links .icon {
+	flex: none;
 	font-size: 1.1rem;
+	opacity: 0.8;
 }
 
 .reader-toolbar-actions {
