@@ -1,0 +1,22 @@
+{{- /* An author's or book's `links` front matter as a list of
+       (dict "href" "label" "icon" "host"): known sites first, then the
+       others. Gutenberg addresses use https. Shared by the Info dialog
+       (info-links.html) and the EPUB title page (book-tools.html). */ -}}
+{{- $links := . -}}
+{{- $known := slice
+  (dict "key" "wikipedia" "label" "Wikipedia" "icon" "site_wikipedia")
+  (dict "key" "goodreads" "label" "Goodreads" "icon" "site_goodreads")
+  (dict "key" "gutenberg" "label" "Project Gutenberg" "icon" "local_library") -}}
+{{- $raw := slice -}}
+{{- range $k := $known -}}
+  {{- with index $links $k.key -}}{{- $raw = $raw | append (dict "href" . "label" $k.label "icon" $k.icon) -}}{{- end -}}
+{{- end -}}
+{{- range $o := index $links "other" -}}
+  {{- with $o.href -}}{{- $raw = $raw | append (dict "href" . "label" ($o.title | default (urls.Parse .).Host) "icon" "link") -}}{{- end -}}
+{{- end -}}
+{{- $items := slice -}}
+{{- range $raw -}}
+  {{- $href := replaceRE `^http://(www\.)?gutenberg\.org/` `https://www.gutenberg.org/` .href -}}
+  {{- $items = $items | append (dict "href" $href "label" .label "icon" .icon "host" (replaceRE `^www\.` "" (urls.Parse $href).Host)) -}}
+{{- end -}}
+{{- return $items -}}

@@ -1,0 +1,34 @@
+{{/* "Save for offline reading" and "Download EPUB" for a book, filled in
+     by ts/offline.ts when the browser can do them (hidden until then, and
+     without JavaScript). On the book's contents page (list.html), whose
+     chapter list follows, and in a chapter's Info dialog (info-book.html),
+     where the script fetches the chapter list when it is needed. The data
+     describes the book for the saved-books list and the EPUB (ts/epub.ts). */}}
+{{ $book := . }}
+{{ $author := $book.Parent }}
+{{ $name := partial "title-case-name.html" $author.Title }}
+{{/* "Jane AUSTEN" files as "Austen, Jane": the capitalised words are the surname */}}
+{{ $surname := delimit (findRE `\p{Lu}{2,}` $author.Title) " " }}
+{{ $fileAs := $name }}
+{{ with $surname }}
+  {{ $given := trim (replace $author.Title . "") " " }}
+  {{ $fileAs = partial "title-case-name.html" . }}
+  {{ with $given }}{{ $fileAs = printf "%s, %s" $fileAs . }}{{ end }}
+{{ end }}
+{{ $source := "" }}
+{{ with $book.Params.source }}{{ $source = replaceRE `^http://(www\.)?gutenberg\.org/` `https://www.gutenberg.org/` . }}{{ end }}
+<div class="reader-book-tools" hidden
+  data-title="{{ $book.Title }}"
+  data-author="{{ $name }}"
+  data-author-file-as="{{ $fileAs }}"
+  data-author-url="{{ $author.RelPermalink }}"
+  data-url="{{ partial "href.html" $book.Permalink }}"
+  data-path="{{ $book.RelPermalink }}"
+  {{ with $book.Params.year }}data-year="{{ . }}"{{ end }}
+  {{ with $source }}data-source="{{ . }}"{{ end }}
+  {{ with $book.Params.lastupdated }}data-updated="{{ (time.AsTime .).UTC.Format "2006-01-02T15:04:05Z" }}"{{ end }}
+  {{/* For the EPUB's title page, as in the Info dialog (info-author.html, info-book.html) */}}
+  {{ with $author.Params.pen_names }}{{ $names := slice }}{{ range . }}{{ $names = $names | append (partial "title-case-name.html" .) }}{{ end }}data-pen-names="{{ jsonify $names }}"{{ end }}
+  {{ with $author.Params.links }}{{ with partial "link-items.html" . }}data-author-links="{{ jsonify . }}"{{ end }}{{ end }}
+  {{ with $book.Params.links }}{{ with partial "link-items.html" . }}data-book-links="{{ jsonify . }}"{{ end }}{{ end }}>
+</div>

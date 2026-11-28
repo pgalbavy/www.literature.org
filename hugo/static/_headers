@@ -12,8 +12,10 @@
 # Fonts keep their names when replaced, so a shorter lifetime
 /fonts/*
   Cache-Control: public, max-age=2592000
-/icons/*
-  Cache-Control: public, max-age=2592000
 
 /favicon.ico
   Cache-Control: public, max-age=86400
+
+# The service worker: always checked for a new version
+/sw.js
+  Cache-Control: no-cache

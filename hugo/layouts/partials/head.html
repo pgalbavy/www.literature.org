@@ -34,6 +34,8 @@
   {{ if not $description }}{{ $description = site.Params.description }}{{ end }}
   <title>{{ with $heading }}{{ . }} - {{ end }}literature.org{{ if .IsHome }} - {{ site.Params.description }}{{ end }}</title>
   <meta name="description" content="{{ $description }}">
+  {{/* Pages about this browser, such as Saved books, are not for search engines */}}
+  {{ if .Params.noindex }}<meta name="robots" content="noindex">{{ end }}
   {{ if eq .Kind "404" }}
   {{/* Served for any missing address: never indexed, no address of its own */}}
   <meta name="robots" content="noindex">
@@ -119,8 +121,7 @@
        /bundle/, one level down like /css/, so the CSS's ../fonts/ paths
        still resolve. Order matters: w3, then ours. w3-used.css is w3.css
        cut down to the classes the site uses: run tools/trim-w3css.py after
-       using another w3 class. (css/icon.css, the icon font, is only for
-       the EPUB export.) */}}
+       using another w3 class. */}}
   {{ $css := slice (resources.Get "css/w3-used.css") (resources.Get "css/literature.css")
      | resources.Concat "bundle/site.css" | minify | fingerprint }}
   <link rel="stylesheet" href="{{ $css.RelPermalink }}">

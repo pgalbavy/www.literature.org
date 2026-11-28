@@ -1,10 +1,9 @@
 // hugo-nav.ts — Navigation drawer, swipe gestures, and session state for Hugo site
-// Compiled output: hugo/static/js/hugo-nav.js
+// Compiled output: hugo/assets/js/hugo-nav.js
 
 const navigationStateKey = "literatureReaderNavigationOpen";
 // Sent by page-loader.ts after it swaps another page into this one; the
-// scripts set up the new page's parts. (reader-settings.ts spells it out, as
-// it is also loaded on its own by the legacy pages.)
+// scripts set up the new page's parts.
 const PAGE_LOADED_EVENT = "literature-page-loaded";
 
 interface Sidebar extends HTMLElement {

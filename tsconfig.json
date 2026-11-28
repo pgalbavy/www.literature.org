@@ -4,12 +4,12 @@
     "module": "es2020",
     "lib": ["ES2020", "DOM", "DOM.Iterable"],
     "rootDir": "ts",
-    "outDir": "hugo/static/js",
+    "outDir": "hugo/assets/js",
     "strict": false,
     "noEmitOnError": true,
     "removeComments": false,
     "sourceMap": false
   },
-  "//": "Scripts loaded by the Hugo layouts (baseof.html). They share one global scope. The legacy /templates pages are built by tsconfig.legacy.json. Files must not use import/export: they are loaded as classic <script> tags.",
-  "files": ["ts/site.d.ts", "ts/hugo-nav.ts", "ts/reader-settings.ts", "ts/reader-mode.ts", "ts/page-loader.ts"]
+  "//": "Scripts loaded by the Hugo layouts (baseof.html). They share one global scope. The service worker is built separately by tsconfig.sw.json. Files must not use import/export: they are loaded as classic <script> tags.",
+  "files": ["ts/site.d.ts", "ts/hugo-nav.ts", "ts/reader-settings.ts", "ts/reader-mode.ts", "ts/offline.ts", "ts/epub.ts", "ts/search.ts", "ts/page-loader.ts"]
 }

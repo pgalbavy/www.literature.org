@@ -8,6 +8,7 @@
   <div class="reader-toolbar-actions">
     {{/* Info sits in the drawer only on narrow screens, to leave the
          breadcrumbs room (see .reader-info-toggle in literature.css) */}}
+    <button class="w3-bar-item w3-button reader-nav-button reader-search-toggle" type="button" title="Search (/)" aria-label="Search" aria-haspopup="dialog" aria-controls="reader-search">{{ partial "icon.html" (dict "Name" "search" "Class" "md-lit") }}</button>
     <button class="w3-bar-item w3-button reader-nav-button reader-info-toggle" type="button" title="Information" aria-label="Information" aria-haspopup="dialog" aria-controls="reader-info">{{ partial "icon.html" (dict "Name" "info_outline" "Class" "md-lit") }}</button>
     <button class="w3-bar-item w3-button reader-nav-button reader-fullscreen-toggle" type="button" title="Full screen (F11)" aria-label="Full screen" aria-pressed="false">{{ partial "icon.html" (dict "Name" "fullscreen" "Class" "md-lit") }}</button>
     {{ if .ShowNavigation }}

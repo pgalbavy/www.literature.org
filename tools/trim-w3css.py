@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Write hugo/static/css/w3-used.css: w3.css with only the rules the site uses.
+"""Write hugo/assets/css/w3-used.css: w3.css with only the rules the site uses.
 
 The site uses about a dozen of w3.css's classes. This keeps every rule whose
 selectors use only those classes, plus every rule with no w3- class at all
 (html, body, h1 and other element defaults), and drops the rest, along with
-@keyframes that nothing left refers to. w3.css itself is left as it is (the
-EPUB export uses it whole).
+@keyframes that nothing left refers to. The full w3.css is kept unpublished
+in tools/sources/ as the source.
 
 The classes are found by searching the Hugo layouts, the content, the
 site's TypeScript and literature.css for "w3-...". Run it again after using
@@ -18,10 +18,9 @@ import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-SOURCE = ROOT / "hugo/static/css/w3.css"
-TARGET = ROOT / "hugo/static/css/w3-used.css"
-SEARCH = [ROOT / "hugo/layouts", ROOT / "hugo/content", ROOT / "hugo/static/css/literature.css",
-          *[ROOT / "ts" / f"{name}.ts" for name in ("hugo-nav", "reader-settings", "reader-mode", "page-loader")]]
+SOURCE = ROOT / "tools/sources/w3.css"
+TARGET = ROOT / "hugo/assets/css/w3-used.css"
+SEARCH = [ROOT / "hugo/layouts", ROOT / "hugo/content", ROOT / "hugo/assets/css/literature.css", ROOT / "ts"]
 CLASS = re.compile(r"w3-[a-z0-9-]+")
 
 

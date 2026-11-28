@@ -1,5 +1,5 @@
 // reader-settings.ts — reading Settings dialog, last-location resume, share,
-// and font-size gestures. Compiled output: hugo/static/js/reader-settings.js
+// and font-size gestures. Compiled output: hugo/assets/js/reader-settings.js
 //
 // This script is the single owner of the reader Settings. Other scripts read
 // and change them through window.literatureReader and listen for the
@@ -565,11 +565,10 @@ applySettings();
 
 function startReaderSettings(): void {
   window.initializeReaderSettings(document.getElementById("sidebar"));
-  // page-loader.ts swapped another page in (PAGE_LOADED_EVENT in hugo-nav.ts,
-  // spelt out here because the legacy pages load this script on its own):
+  // page-loader.ts swapped another page in (PAGE_LOADED_EVENT, hugo-nav.ts):
   // Share and Settings go back into the new drawer links, and a chapter may
   // now need its paragraphs and gestures
-  window.addEventListener("literature-page-loaded", () => {
+  window.addEventListener(PAGE_LOADED_EVENT, () => {
     window.initializeReaderSettings(document.getElementById("sidebar"));
     initializeLastLocation();   // once a chapter is shown; no-op after that
   });

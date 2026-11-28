@@ -1,0 +1,28 @@
+{{- /* The search index (ts/search.ts): authors, their books, and chapters
+     whose titles name something ("Chapter 19 - It Wasn't Thunder", not
+     "Chapter 19"). Kept compact, as arrays:
+       a: [name, address, [pen names]]
+       b: [title, address, author index]
+       c: [title, book index, last part of the chapter's address]
+     Addresses are as visitors see them (partials/href.html). */ -}}
+{{- $authors := slice -}}
+{{- $books := slice -}}
+{{- $chapters := slice -}}
+{{- $plain := `(?i)\b(chapter|book|part|volume|vol|canto|letter|act|scene|section|stave|no|preface|introduction|prologue|epilogue|foreword|conclusion|contents|the end)\b|\b[ivxlcdm]+\b|[0-9]+|[^\pL]+` -}}
+{{- with site.GetPage "/authors" -}}
+{{- range .Sections -}}
+  {{- $authorIndex := len $authors -}}
+  {{- $authors = $authors | append (jsonify (slice .Title .RelPermalink (.Params.pen_names | default slice))) -}}
+  {{- range .Sections -}}
+    {{- $bookIndex := len $books -}}
+    {{- $books = $books | append (jsonify (slice .Title .RelPermalink $authorIndex)) -}}
+    {{- range .RegularPages.ByWeight -}}
+      {{- if replaceRE $plain "" .Title -}}
+        {{- $chapters = $chapters | append (jsonify (slice .Title $bookIndex (path.Base (partial "href.html" .RelPermalink)))) -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+{{- end -}}
+{{- /* Each entry is already JSON (append cannot add a list to a list) */ -}}
+{"a":[{{ delimit $authors "," | safeJS }}],"b":[{{ delimit $books "," | safeJS }}],"c":[{{ delimit $chapters "," | safeJS }}]}

@@ -1,5 +1,5 @@
 // page-loader.ts — loads pages of this site in place. Compiled output:
-// hugo/static/js/page-loader.js (bundled last, after reader-mode.js)
+// hugo/assets/js/page-loader.js (bundled last, after reader-mode.js)
 //
 // A page load always ends browser full screen, so links within the site
 // fetch the new page and swap its parts into this one instead: the title,

@@ -2,8 +2,8 @@
   "name": "www-literature-org",
   "private": true,
   "scripts": {
-    "build": "tsc -p tsconfig.json && tsc -p tsconfig.legacy.json",
-    "typecheck": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.legacy.json --noEmit"
+    "build": "tsc -p tsconfig.json && tsc -p tsconfig.sw.json",
+    "typecheck": "tsc -p tsconfig.json --noEmit && tsc -p tsconfig.sw.json --noEmit"
   },
   "devDependencies": {
     "typescript": "^5.9.3"

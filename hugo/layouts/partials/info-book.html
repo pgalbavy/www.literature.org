@@ -21,5 +21,7 @@
     <dt>Last updated</dt><dd>{{ (time.AsTime .).Format "2 January 2006" }}</dd>
     {{ end }}
   </dl>
+  {{/* On a chapter: the whole book can be saved or downloaded from here */}}
+  {{ if not $isCurrent }}{{ partial "book-tools.html" $book }}{{ end }}
   {{ with $book.Params.links }}{{ partial "info-links.html" (dict "Links" . "Name" $book.Title) }}{{ end }}
 </section>

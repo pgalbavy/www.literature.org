@@ -5,6 +5,9 @@
     <nav id="sidebar-links" class="w3-bar-block w3-large" aria-label="Site navigation">
       <a class="w3-bar-item w3-button" href="/" aria-label="literature.org" title="literature.org" onclick="if(typeof window!=='undefined'&&window.__literatureHomeClick)window.__literatureHomeClick();">{{ partial "icon.html" (dict "Name" "home" "Class" "md-lit") }}<span class="reader-drawer-label">literature.org</span></a>
       <a class="w3-bar-item w3-button" href="/authors/" aria-label="Authors" title="Authors">{{ partial "icon.html" (dict "Name" "people" "Class" "md-lit") }}<span class="reader-drawer-label">Authors</span></a>
+      {{/* Search and Saved books need scripts (ts/search.ts, ts/offline.ts) */}}
+      <button class="w3-bar-item w3-button reader-search-toggle" type="button" aria-label="Search" title="Search (/)" aria-haspopup="dialog" aria-controls="reader-search">{{ partial "icon.html" (dict "Name" "search" "Class" "md-lit") }}<span class="reader-drawer-label">Search</span></button>
+      <a class="w3-bar-item w3-button reader-drawer-saved" href="/saved/" aria-label="Saved books" title="Saved books"{{ if eq .RelPermalink "/saved/" }} aria-current="page"{{ end }}>{{ partial "icon.html" (dict "Name" "offline_pin" "Class" "md-lit") }}<span class="reader-drawer-label">Saved books</span></a>
       {{ $parts := split (trim .RelPermalink "/") "/" }}
       {{ if and (eq .Section "authors") (ge (len $parts) 2) }}
         {{ $authorPage := .Site.GetPage (printf "/authors/%s" (index $parts 1)) }}

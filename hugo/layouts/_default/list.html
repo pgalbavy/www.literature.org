@@ -56,7 +56,10 @@
     {{ else }}
       {{/* The title is in the top bar; the heading is for screen readers */}}
       <h1 class="reader-visually-hidden">{{ .Title }}</h1>
-      <ul class="w3-bar-block w3-ul w3-border w3-hoverable">
+      {{ $parts := split (trim .RelPermalink "/") "/" }}
+      {{ $isBook := and (eq .Section "authors") (eq (len $parts) 3) }}
+      {{ if $isBook }}{{ partial "book-tools.html" . }}{{ end }}
+      <ul class="w3-bar-block w3-ul w3-border w3-hoverable{{ if $isBook }} reader-chapter-list{{ end }}">
         {{ range .Pages.ByWeight }}
         <li>
           <a class="w3-bar-item litleft w3-button" href="{{ partial "href.html" .RelPermalink }}">

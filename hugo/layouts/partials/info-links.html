@@ -1,28 +1,12 @@
-{{/* Info dialog: an author's or book's `links` front matter as a list,
-     known sites first, each with its own icon and its web address. The
-     same for authors and books; nothing at all, intro included, when there
-     are no usable links. Takes (dict "Links" … "Name" …). */}}
-{{ $links := .Links }}
-{{ $known := slice
-  (dict "key" "wikipedia" "label" "Wikipedia" "icon" "site_wikipedia")
-  (dict "key" "goodreads" "label" "Goodreads" "icon" "site_goodreads")
-  (dict "key" "gutenberg" "label" "Project Gutenberg" "icon" "local_library") }}
-{{ $items := slice }}
-{{ range $k := $known }}
-  {{ with index $links $k.key }}
-    {{ $items = $items | append (dict "href" . "label" $k.label "icon" $k.icon) }}
-  {{ end }}
-{{ end }}
-{{ range $o := index $links "other" }}
-  {{ with $o.href }}{{ $items = $items | append (dict "href" . "label" ($o.title | default (urls.Parse .).Host) "icon" "link") }}{{ end }}
-{{ end }}
-{{ with $items }}
+{{/* Info dialog: an author's or book's links (partials/link-items.html),
+     each with its own icon and its web address. The same for authors and
+     books; nothing at all, intro included, when there are no usable links.
+     Takes (dict "Links" … "Name" …). */}}
+{{ with partial "link-items.html" .Links }}
 <p class="reader-info-links-intro">More about {{ $.Name }} on other sites (each opens in a new tab):</p>
 <ul class="reader-info-links">
   {{ range . }}
-  {{ $href := replaceRE `^http://(www\.)?gutenberg\.org/` `https://www.gutenberg.org/` .href }}
-  {{ $host := replaceRE `^www\.` "" (urls.Parse $href).Host }}
-  <li><a href="{{ $href }}" target="_blank" rel="noopener">{{ partial "icon.html" .icon }}<span class="reader-info-link-label">{{ .label }}</span>{{ if ne (lower $host) (lower .label) }}<span class="reader-info-link-host">{{ $host }}</span>{{ end }}</a></li>
+  <li><a href="{{ .href }}" target="_blank" rel="noopener">{{ partial "icon.html" .icon }}<span class="reader-info-link-label">{{ .label }}</span>{{ if ne (lower .host) (lower .label) }}<span class="reader-info-link-host">{{ .host }}</span>{{ end }}</a></li>
   {{ end }}
 </ul>
 {{ end }}

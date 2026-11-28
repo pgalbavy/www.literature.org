@@ -1,5 +1,5 @@
 // reader-mode.ts — page mode for chapter pages, and full screen on every
-// page. Compiled output: hugo/static/js/reader-mode.js
+// page. Compiled output: hugo/assets/js/reader-mode.js
 //
 // Pages can be loaded in place (page-loader.ts): activatePage() sets up
 // whatever page the document now shows. In page mode the chapter article becomes a fixed box below the toolbar and

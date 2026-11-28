@@ -18,15 +18,18 @@ enableGitInfo = false
 [minify]
   minifyOutput = true
 
-# The CSS and JS stay in static/ (tsc writes there, and the legacy
-# /templates pages load them by plain URL), and are also mounted as assets so
-# the Hugo layouts can bundle, minify and fingerprint them (see head.html and
-# baseof.html). Fingerprinted names let static/_headers cache them for a year.
-[module]
-  [[module.mounts]]
-    source = "static/css"
-    target = "assets/css"
-  [[module.mounts]]
-    source = "static/js"
-    target = "assets/js"
+# The CSS and JS live in assets/ (tsc writes assets/js), so they are only
+# published as the minified, fingerprinted bundles the layouts make (see
+# head.html and baseof.html), which static/_headers caches for a year.
 
+
+# search-index.json: every author, book and named chapter, for the search
+# dialog (layouts/index.searchindex.json, ts/search.ts)
+[outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "search-index"
+  isPlainText = true
+  notAlternative = true
+
+[outputs]
+  home = ["HTML", "SearchIndex"]

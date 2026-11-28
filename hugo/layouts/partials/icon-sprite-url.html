@@ -5,9 +5,10 @@
        <use href="…#icon-NAME"> (partials/icon.html, iconMarkup() in
        reader-settings.ts, which reads it from <html data-icon-sprite>).
        The paths in data/icons.json are the Material Icons (Apache 2.0)
-       glyphs, taken from static/icons/MaterialIcons-Regular.ttf on a
-       24-unit grid; the site_* logos are from Simple Icons (CC0,
-       simple-icons 13.21.0). To add an icon, add its name and path there.
+       glyphs, taken from tools/sources/MaterialIcons-Regular.ttf on a
+       24-unit grid by tools/icon-path.py; the site_* logos are from Simple Icons (CC0,
+       simple-icons 13.21.0). To add an icon, add its name and path there
+       (python3 tools/icon-path.py NAME prints the path).
        Call with partialCached "icon-sprite-url.html" site. */ -}}
 {{- $symbols := slice -}}
 {{- range $name, $path := site.Data.icons -}}

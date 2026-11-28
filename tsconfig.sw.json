@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "lib": ["ES2020", "WebWorker"],
+    "outDir": "hugo/static"
+  },
+  "//": "The service worker (ts/sw.ts), served as /sw.js from the site root so it covers every page. Separate because it runs as a worker, not in the page.",
+  "files": ["ts/sw.ts"]
+}
