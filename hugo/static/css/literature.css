@@ -1189,7 +1189,9 @@ article.reader-alpha-page li[id^="letter-"] {
 	list-style: none;
 }
 
-.reader-alpha-index li {
+/* "body > article" outranks the article list rule that sizes entries from
+   the reader's text size (body > article:not(.reader-content) li) */
+body > article .reader-alpha-index li {
 	font-size: clamp(10px, calc((100vh - 6rem) / 30), 14px);
 	font-size: clamp(10px, calc((100dvh - 6rem) / 30), 14px);
 	line-height: 1.35;
